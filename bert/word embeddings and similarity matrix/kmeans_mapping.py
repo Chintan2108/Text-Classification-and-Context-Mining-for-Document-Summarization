@@ -15,18 +15,19 @@ def similarityIndex(s1, s2, wordmodel):
 
     s1words = s1.split()
     s2words = s2.split()
-        
-    for word in s1words:
+
+    s1words = set(s1words)    
+    for word in s1words.copy():
         if word in stopwords.words('english'):
             s1words.remove(word)
     
-    for word in s2words:
-        print(word)
+    s2words = set(s2words)
+    for word in s2words.copy():
         if word in stopwords.words('english'):
             s2words.remove(word)
-            print(s2words)
-    print(s2words)
-    
+
+    s1words = list(s1words)
+    s2words = list(s2words)    
 
     s1set = set(s1words)
     s2set = set(s2words)
@@ -42,9 +43,6 @@ def similarityIndex(s1, s2, wordmodel):
         if (word not in vocab):
             s2words.remove(word)
     
-    print(s1words)
-    print(s2words)
-
     return wordmodel.n_similarity(s1words, s2words)
 
 
@@ -71,8 +69,8 @@ if __name__ == "__main__":
     reference = 'To improve Bengaluru environment, the municipality will plant trees on major roads, make tree planting mandatory for all new buildings and create more parks open spaces.'
     s = 'Their should small jungle in every part of Bangalore the technique of this jungle is used by HAL where a small 10*20 place will be filled with trees and managed in such a way that their is no place inside by setting up of small mini size to huge trees in a orderly way this will fight pollution and save greenery.'
 
-    #for sentence in environment:
-    #    print(similarityIndex(reference, sentence.split('-')[1].lstrip(), wordmodel))
-    #    print(sentence)
+    for sentence in environment:
+        print(similarityIndex(reference, sentence.split('-')[1].lstrip(), wordmodel))
+        print(sentence)
 
-    print(similarityIndex(reference, s, wordmodel))
+    #print(similarityIndex(reference, s, wordmodel))
