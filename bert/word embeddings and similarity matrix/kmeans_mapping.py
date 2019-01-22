@@ -69,8 +69,9 @@ if __name__ == "__main__":
     reference = 'To improve Bengaluru environment, the municipality will plant trees on major roads, make tree planting mandatory for all new buildings and create more parks open spaces.'
     s = 'Their should small jungle in every part of Bangalore the technique of this jungle is used by HAL where a small 10*20 place will be filled with trees and managed in such a way that their is no place inside by setting up of small mini size to huge trees in a orderly way this will fight pollution and save greenery.'
 
+    sim_score = []
     for sentence in environment:
-        print(similarityIndex(reference, sentence.split('-')[1].lstrip(), wordmodel))
-        print(sentence)
+        score = similarityIndex(reference, sentence.split('-')[1].lstrip(), wordmodel)
+        sim_score.append(score)
 
     #print(similarityIndex(reference, s, wordmodel))
