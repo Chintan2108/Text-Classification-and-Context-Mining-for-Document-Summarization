@@ -4,12 +4,17 @@ from nltk.corpus import stopwords
 import sys
 from gensim.models import KeyedVectors
 import warnings
-warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+import numpy as np
 
 #globals
 environment = open('Environment.txt', 'r')
+categories = open('env_c.txt', 'r')
 
 def similarityIndex(s1, s2, wordmodel):
+    '''
+    To compare the two sentences for their similarity using the gensim wordmodel 
+    and return a similarity index
+    '''
     if s1 == s2:
         return 1.0
 
@@ -46,9 +51,23 @@ def similarityIndex(s1, s2, wordmodel):
     return wordmodel.n_similarity(s1words, s2words)
 
 
+def getCats(file):
+    '''
+    To read the category file of the domain and return a list of all
+    the categories in the form of sentences
+    '''  
 
+    references = []
+    for sentence in file:
+        references.append(sentence.split('\n')[0])
+    
+    print('Mining categories...')
+    return references
 
-def vectorInit():  
+def vectorInit():
+    '''
+    Preparing a tfidf matrix of all the response sentences of one domain
+    '''  
     global environment
     vect = TfidfVectorizer(min_df=1)
     sentences = []
@@ -64,14 +83,31 @@ if __name__ == "__main__":
     wordmodelfile = 'E:\Me\IITB\Work\CIVIS\ML Approaches\word embeddings and similarity matrix\GoogleNews-vectors-negative300.bin.gz'
     wordmodel = KeyedVectors.load_word2vec_format(wordmodelfile, binary = True)
 
-    print('a' in wordmodel.vocab)
+    #files
+    environment = open('Environment.txt', 'r')
+    columns = len(environment.readlines())
 
-    reference = 'To improve Bengaluru environment, the municipality will plant trees on major roads, make tree planting mandatory for all new buildings and create more parks open spaces.'
-    s = 'Their should small jungle in every part of Bangalore the technique of this jungle is used by HAL where a small 10*20 place will be filled with trees and managed in such a way that their is no place inside by setting up of small mini size to huge trees in a orderly way this will fight pollution and save greenery.'
+    categories = open('env_c.txt', 'r')
 
-    sim_score = []
-    for sentence in environment:
-        score = similarityIndex(reference, sentence.split('-')[1].lstrip(), wordmodel)
-        sim_score.append(score)
+    references = getCats(categories)
+    rows = len(references)
 
-    #print(similarityIndex(reference, s, wordmodel))
+    #saving the scores in a similarity matrix
+    #initializing the matrix with -1 to catch dump/false entries
+    similarity_matrix = [[-1 for c in range(columns)] for r in range(rows)]
+
+    row = 0
+    for category in references:
+        column = 0
+        environment = open('Environment.txt', 'r')
+        for response in environment:
+            similarity_matrix[row][column] = similarityIndex(response.split('-')[1].lstrip(), category, wordmodel)
+            column += 1
+        row += 1
+
+    #saving the matrix
+    save_matrix = np.array(similarity_matrix)
+    np.save('env.npy',save_matrix)
+    np.savetxt('env_txt.txt',save_matrix)
+
+    print('score matrix saved.')
