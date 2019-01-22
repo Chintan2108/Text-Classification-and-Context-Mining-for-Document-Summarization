@@ -15,16 +15,17 @@ def similarityIndex(s1, s2, wordmodel):
 
     s1words = s1.split()
     s2words = s2.split()
-    
-    stopset = set(stopwords.words('english'))
-    
+        
     for word in s1words:
-        if word in stopset:
+        if word in stopwords.words('english'):
             s1words.remove(word)
     
     for word in s2words:
-        if word in stopset:
+        print(word)
+        if word in stopwords.words('english'):
             s2words.remove(word)
+            print(s2words)
+    print(s2words)
     
 
     s1set = set(s1words)
@@ -41,6 +42,9 @@ def similarityIndex(s1, s2, wordmodel):
         if (word not in vocab):
             s2words.remove(word)
     
+    print(s1words)
+    print(s2words)
+
     return wordmodel.n_similarity(s1words, s2words)
 
 
@@ -59,13 +63,16 @@ def vectorInit():
     print((tfidf * tfidf.T).A)
 
 if __name__ == "__main__":
-    wordmodelfile = 'GoogleNews-vectors-negative300.bin.gz'
+    wordmodelfile = 'E:\Me\IITB\Work\CIVIS\ML Approaches\word embeddings and similarity matrix\GoogleNews-vectors-negative300.bin.gz'
     wordmodel = KeyedVectors.load_word2vec_format(wordmodelfile, binary = True)
 
     print('a' in wordmodel.vocab)
 
     reference = 'To improve Bengaluru environment, the municipality will plant trees on major roads, make tree planting mandatory for all new buildings and create more parks open spaces.'
-    
-    for sentence in environment:
-        print(similarityIndex(reference, sentence.split('-')[1].lstrip(), wordmodel))
-        print(sentence)
+    s = 'Their should small jungle in every part of Bangalore the technique of this jungle is used by HAL where a small 10*20 place will be filled with trees and managed in such a way that their is no place inside by setting up of small mini size to huge trees in a orderly way this will fight pollution and save greenery.'
+
+    #for sentence in environment:
+    #    print(similarityIndex(reference, sentence.split('-')[1].lstrip(), wordmodel))
+    #    print(sentence)
+
+    print(similarityIndex(reference, s, wordmodel))
