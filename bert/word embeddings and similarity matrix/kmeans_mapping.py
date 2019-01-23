@@ -101,7 +101,10 @@ if __name__ == "__main__":
         column = 0
         environment = open('Environment.txt', 'r')
         for response in environment:
+            print(category)
+            print(response)
             similarity_matrix[row][column] = similarityIndex(response.split('-')[1].lstrip(), category, wordmodel)
+            print(similarity_matrix[row][column])
             column += 1
         row += 1
 
