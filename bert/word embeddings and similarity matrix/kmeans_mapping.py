@@ -6,10 +6,6 @@ from gensim.models import KeyedVectors
 import warnings
 import numpy as np
 
-#globals
-environment = open('Environment.txt', 'r')
-categories = open('env_c.txt', 'r')
-
 def similarityIndex(s1, s2, wordmodel):
     '''
     To compare the two sentences for their similarity using the gensim wordmodel 
@@ -79,38 +75,66 @@ def vectorInit():
 
     print((tfidf * tfidf.T).A)
 
+
 if __name__ == "__main__":
     wordmodelfile = 'E:\Me\IITB\Work\CIVIS\ML Approaches\word embeddings and similarity matrix\GoogleNews-vectors-negative300.bin.gz'
     wordmodel = KeyedVectors.load_word2vec_format(wordmodelfile, binary = True)
 
     #files
-    environment = open('Environment.txt', 'r')
-    columns = len(environment.readlines())
+    environment = []
+    fh = open('Environment.txt', 'r')
+    environment = fh.readlines()
+    rows = len(environment)
 
     categories = open('env_c.txt', 'r')
-
-    references = getCats(categories)
-    rows = len(references)
+    categories = getCats(categories)
+    columns = len(categories)
 
     #saving the scores in a similarity matrix
     #initializing the matrix with -1 to catch dump/false entries
     similarity_matrix = [[-1 for c in range(columns)] for r in range(rows)]
 
     row = 0
-    for category in references:
+    for response in environment:
         column = 0
-        environment = open('Environment.txt', 'r')
-        for response in environment:
-            print(category)
-            print(response)
+        for category in categories:
             similarity_matrix[row][column] = similarityIndex(response.split('-')[1].lstrip(), category, wordmodel)
-            print(similarity_matrix[row][column])
             column += 1
         row += 1
 
     #saving the matrix
     save_matrix = np.array(similarity_matrix)
-    np.save('env.npy',save_matrix)
-    np.savetxt('env_txt.txt',save_matrix)
-
+    np.save('env_matrix.npy',save_matrix)
+    np.savetxt('env_matrix.txt',save_matrix)
     print('score matrix saved.')
+
+    #categorizing the responses based on the scores
+    fh1 = open('cat1.txt', 'w', encoding='utf-8')
+    fh2 = open('cat2.txt', 'w', encoding='utf-8')
+    fh3 = open('cat3.txt', 'w', encoding='utf-8')
+    fh4 = open('cat4.txt', 'w', encoding='utf-8')
+    fh5 = open('cat5.txt', 'w', encoding='utf-8')
+    fh6 = open('cat6.txt', 'w', encoding='utf-8')
+    fh7 = open('cat7.txt', 'w', encoding='utf-8')
+    fh8 = open('cat8.txt', 'w', encoding='utf-8')
+    fh9 = open('cat9.txt', 'w', encoding='utf-8')
+    fh10 = open('cat10.txt', 'w', encoding='utf-8')
+    fh11 = open('cat11.txt', 'w', encoding='utf-8')
+    fh12 = open('cat12.txt', 'w', encoding='utf-8')
+    fh13 = open('cat13.txt', 'w', encoding='utf-8')
+    catFileHandles = [fh1, fh2, fh3, fh4, fh5, fh6, fh7, fh8, fh9, fh10, fh11, fh12, fh13]
+        
+    print('Writing category files...')
+    for catName,fh in zip(categories, catFileHandles):
+        fh.write(catName)
+        fh.write('=====================================')
+        fh.write('\n\n')
+
+    print('Populating category files...')
+    response_index = 0
+    for score_row,response in zip(similarity_matrix,environment):
+        max_sim_index = np.array(score_row).argmax()
+        catFileHandles[max_sim_index].write(response)
+
+    print('done.')
+    
