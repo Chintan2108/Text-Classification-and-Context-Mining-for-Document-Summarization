@@ -64,7 +64,7 @@ def vectorInit():
     '''
     Preparing a tfidf matrix of all the response sentences of one domain
     '''  
-    environment = open('.\data\environment.txt','r')
+    environment = open('.\\data\\environment.txt','r')
     vect = TfidfVectorizer(min_df=1)
     sentences = []
 
@@ -80,7 +80,8 @@ def vectorInit():
 
 
 if __name__ == "__main__":
-    wordmodelfile = 'E:\Me\IITB\Work\CIVIS\ML Approaches\word embeddings and similarity matrix\GoogleNews-vectors-negative300.bin.gz'
+    '''Main function/ driver function'''
+    wordmodelfile = 'E:\\Me\\IITB\\Work\\CIVIS\\ML Approaches\\word embeddings and similarity matrix\\GoogleNews-vectors-negative300.bin.gz'
     wordmodel = KeyedVectors.load_word2vec_format(wordmodelfile, binary = True)
 
     #testing the tfidf
@@ -88,11 +89,11 @@ if __name__ == "__main__":
 
     #files
     environment = []
-    fh = open('.\data\Environment.txt', 'r')
+    fh = open('.\\data\\Environment.txt', 'r')
     environment = fh.readlines()
     rows = len(environment)
 
-    categories = open('.\data\env_c.txt', 'r')
+    categories = open('.\\data\\env_c.txt', 'r')
     categories = getCats(categories)
     columns = len(categories)
 
@@ -110,24 +111,24 @@ if __name__ == "__main__":
 
     #saving the matrix
     save_matrix = np.array(similarity_matrix)
-    np.save('.\score matrix\env_matrix.npy',save_matrix)
-    np.savetxt('.\score matrix\env_matrix.txt',save_matrix)
+    np.save('.\\score matrix\\env_matrix.npy',save_matrix)
+    np.savetxt('.\\score matrix\\env_matrix.txt',save_matrix)
     print('score matrix saved.')
 
     #categorizing the responses based on the scores
-    fh1 = open('.\\results\cat1.txt', 'w', encoding='utf-8')
-    fh2 = open('.\\results\cat2.txt', 'w', encoding='utf-8')
-    fh3 = open('.\\results\cat3.txt', 'w', encoding='utf-8')
-    fh4 = open('.\\results\cat4.txt', 'w', encoding='utf-8')
-    fh5 = open('.\\results\cat5.txt', 'w', encoding='utf-8')
-    fh6 = open('.\\results\cat6.txt', 'w', encoding='utf-8')
-    fh7 = open('.\\results\cat7.txt', 'w', encoding='utf-8')
-    fh8 = open('.\\results\cat8.txt', 'w', encoding='utf-8')
-    fh9 = open('.\\results\cat9.txt', 'w', encoding='utf-8')
-    fh10 = open('.\\results\cat10.txt', 'w', encoding='utf-8')
-    fh11 = open('.\\results\cat11.txt', 'w', encoding='utf-8')
-    fh12 = open('.\\results\cat12.txt', 'w', encoding='utf-8')
-    fh13 = open('.\\results\cat13.txt', 'w', encoding='utf-8')
+    fh1 = open('.\\results\\cat1.txt', 'w', encoding='utf-8')
+    fh2 = open('.\\results\\cat2.txt', 'w', encoding='utf-8')
+    fh3 = open('.\\results\\cat3.txt', 'w', encoding='utf-8')
+    fh4 = open('.\\results\\cat4.txt', 'w', encoding='utf-8')
+    fh5 = open('.\\results\\cat5.txt', 'w', encoding='utf-8')
+    fh6 = open('.\\results\\cat6.txt', 'w', encoding='utf-8')
+    fh7 = open('.\\results\\cat7.txt', 'w', encoding='utf-8')
+    fh8 = open('.\\results\\cat8.txt', 'w', encoding='utf-8')
+    fh9 = open('.\\results\\cat9.txt', 'w', encoding='utf-8')
+    fh10 = open('.\\results\\cat10.txt', 'w', encoding='utf-8')
+    fh11 = open('.\\results\\cat11.txt', 'w', encoding='utf-8')
+    fh12 = open('.\\results\\cat12.txt', 'w', encoding='utf-8')
+    fh13 = open('.\\results\\cat13.txt', 'w', encoding='utf-8')
     catFileHandles = [fh1, fh2, fh3, fh4, fh5, fh6, fh7, fh8, fh9, fh10, fh11, fh12, fh13]
         
     print('Writing category files...')
