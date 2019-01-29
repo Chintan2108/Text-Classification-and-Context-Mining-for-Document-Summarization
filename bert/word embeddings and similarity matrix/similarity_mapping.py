@@ -82,18 +82,23 @@ def vectorInit():
 
 if __name__ == "__main__":
     '''Main function/ driver function'''
+    stats = open('stats.txt', 'w', encoding='utf-8')
 
     st = time.time()
     wordmodelfile = 'E:\\Me\\IITB\\Work\\CIVIS\\ML Approaches\\word embeddings and similarity matrix\\GoogleNews-vectors-negative300.bin.gz'
     wordmodel = KeyedVectors.load_word2vec_format(wordmodelfile, binary = True)
     et = time.time()
-    print('Word embedding loaded in %f secs.' % (et-st))
+    s = 'Word embedding loaded in %f secs.' % (et-st)
+    print(s)
+    stats.write(s + '\n')
 
     #testing the tfidf
     st = time.time()
     vectorInit()
     et = time.time()
-    print('Tfidf vector initilaized in %f secs. (with function overhead)' % (et-st))
+    s = 'Tfidf vector initilaized in %f secs. (with function overhead)' % (et-st)
+    print(s)
+    stats.write(s + '\n')
 
     #files
     environment = []
@@ -110,7 +115,9 @@ if __name__ == "__main__":
     st = time.time()
     similarity_matrix = [[-1 for c in range(columns)] for r in range(rows)]
     et = time.time()
-    print('Similarity matrix initialized in %f secs.' % (et-st))
+    s = 'Similarity matrix initialized in %f secs.' % (et-st)
+    print(s)
+    stats.write(s + '\n')
 
     row = 0
     st = time.time()
@@ -121,7 +128,9 @@ if __name__ == "__main__":
             column += 1
         row += 1
     et = time.time()
-    print('Similarity matrix saved in %f secs. ' % (et-st))
+    s = 'Similarity matrix saved in %f secs. ' % (et-st)
+    print(s)
+    stats.write(s + '\n')
 
     #saving the matrix
     save_matrix = np.array(similarity_matrix)
