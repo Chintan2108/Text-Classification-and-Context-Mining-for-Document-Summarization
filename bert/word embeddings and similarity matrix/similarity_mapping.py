@@ -157,7 +157,7 @@ if __name__ == "__main__":
     print('Writing category files...')
     for catName,fh in zip(categories, catFileHandles):
         fh.write(catName)
-        fh.write('=====================================')
+        fh.write('\n=====================================')
         fh.write('\n\n')
 
     print('Populating category files...')
@@ -167,4 +167,3 @@ if __name__ == "__main__":
         catFileHandles[max_sim_index].write(response)
 
     print('done.')
-    

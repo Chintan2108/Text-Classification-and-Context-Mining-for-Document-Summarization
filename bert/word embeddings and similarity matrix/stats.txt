@@ -1,4 +1,4 @@
-Word embedding loaded in 115.732952 secs.
-Tfidf vector initilaized in 0.466804 secs. (with function overhead)
-Similarity matrix initialized in 0.001511 secs.
-Similarity matrix saved in 39.851378 secs. 
+Word embedding loaded in 111.375526 secs.
+Tfidf vector initilaized in 0.426720 secs. (with function overhead)
+Similarity matrix initialized in 0.000000 secs.
+Similarity matrix saved in 44.491685 secs. 
