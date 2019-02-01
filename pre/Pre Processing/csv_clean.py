@@ -52,7 +52,7 @@ headers = headers[:len(headers)-3]
 
 for h in headers[1::2]:
     filename = str(h).split(',')[0].split('\'')[1] + '.txt'
-    
+    '''
     slist = []
     for sentence in df[h]:
         if type(sentence) == str:
@@ -63,11 +63,12 @@ for h in headers[1::2]:
                 #print()
             else:
                 slist += sentence.split('.')
-    
+    '''
     file = open(filename, 'w', encoding='utf-8')
     index = 1
     print("Writing " + filename + '...')
-    for sentence in slist:
-        if len(sentence) > 2:
-            file.write(str(index) + '- ' + sentence.lstrip() + '.\n')
+    for sentence in df[h]:
+        #if len(sentence) > 2:
+        if type(sentence) == str:
+            file.write(str(index) + '- ' + sentence.lstrip().replace('\n', ' ') + '\n')
             index += 1
