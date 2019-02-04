@@ -53,7 +53,12 @@ def crawl():
     #df.to_csv('file_name.csv', sep='\t', encoding='utf-8')
     
 	base_url = 'https://openreview.net'
+	threshold = 0
 	for i, forum_id in list(enumerate(df.forum)): # Each forum_id is a review, comment, or acceptance decision about a paper.
+		#temporary threshold | for development
+		if(threshold > 10):
+			break
+
 		print('Forum_id : ' + forum_id)
 		target_url = base_url + '/notes?forum=' + forum_id
 		pf = pd.DataFrame(requests.get(target_url).json()['notes']) # each row is details about the paper, first row contains paper pdf link, reviews from 3rd row onwards
@@ -73,8 +78,9 @@ def crawl():
 					confidence.append(item['confidence'])
 				#print(item.keys())
 				index += 1
+		
 		pickleParams(review, rating, confidence)
 		print('************************************')
+		threshold += 1
 
-crawl()
     
