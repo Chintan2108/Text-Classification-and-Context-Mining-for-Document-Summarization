@@ -9,14 +9,12 @@ def downloadPDF(url):
 	by a getcontent request
 	'''
 	directory = './Papers_PDF/'
-	temp = open(directory + 'count.txt','r')
+	temp = open('count.txt','r')
 	pindex = temp.readline()
-	temp = open(directory + 'count.txt', 'w')
-	temp.write(str(int(pindex)+1))
 	temp.close()
 	
 	#downloading the paper
-	urllib.request.urlretrieve(url, './Papers_PDF/Paper_' + pindex + '.pdf')
+	urllib.request.urlretrieve(url, directory + pindex + '.pdf')
 	print('Paper-' + pindex + ' PDF downloaded succesfully.')
 
 def pickleParams(textlist, numlist1, numlist2):
@@ -25,20 +23,20 @@ def pickleParams(textlist, numlist1, numlist2):
 	with relevant namesake
 	'''
 	directory = './Review Params/'
-	temp = open(directory + 'count.txt','r')
+	temp = open('count.txt','r')
 	pindex = temp.readline()
-	temp = open(directory + 'count.txt', 'w')
+	temp = open('count.txt', 'w')
 	temp.write(str(int(pindex)+1))
 	temp.close()
 
 	numlist1 = list(set(numlist1))
 	numlist2 = list(set(numlist2))
 
-	with open(directory + 'Reviews/Paper_' + pindex + 'review.pkl', 'wb') as temp:
+	with open(directory + 'Reviews/' + pindex + '.pkl', 'wb') as temp:
 		pickle.dump(textlist, temp)
-	with open(directory + 'Ratings/Paper_' + pindex + 'rating.pkl', 'wb') as temp:
+	with open(directory + 'Ratings/' + pindex + '.pkl', 'wb') as temp:
 		pickle.dump(numlist1, temp)
-	with open(directory + 'Confidence/Paper_' + pindex + 'confidence.pkl', 'wb') as temp:
+	with open(directory + 'Confidence/' + pindex + '.pkl', 'wb') as temp:
 		pickle.dump(numlist2, temp)
 
 	print('Review params for Paper_' + pindex + ' pickled successfully.')
@@ -66,7 +64,7 @@ def crawl():
 		confidence = []
 		index = 0
 		for j, item in list(enumerate(pf.content)):
-				if index == 0:
+				if 'pdf' in item.keys():
 						downloadPDF(base_url + item['pdf'])
 
 				if 'rating' in item.keys():
