@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
     #crawling the notes section of openreviews.net/notes for paper submissions
     #and extracting the forum_ids to scrape papers and their reviews
-    crawler.crawl()
+    crawler.crawl(download=True)
 
     #saving the reviews as a pickled dataset
     #location: ./dataset/reviews.pkl\

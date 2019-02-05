@@ -41,7 +41,7 @@ def pickleParams(textlist, numlist1, numlist2):
 
 	print('Review params for Paper_' + pindex + ' pickled successfully.')
 
-def crawl():
+def crawl(download=False):
 	'''
 	This function crawls the base_url page and navigates accordingly,
 	saving the data as json and does the necessary extractions,
@@ -69,7 +69,7 @@ def crawl():
 		confidence = []
 		index = 0
 		for j, item in list(enumerate(pf.content)):
-				if 'pdf' in item.keys():
+				if ('pdf' in item.keys())  and download:
 						downloadPDF(base_url + item['pdf'])
 
 				if 'rating' in item.keys():
