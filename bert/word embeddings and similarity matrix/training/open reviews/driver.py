@@ -16,5 +16,11 @@ if __name__ == "__main__":
     crawler.crawl(download=True)
 
     #saving the reviews as a pickled dataset
-    #location: ./dataset/reviews.pkl\
+    #location: ./dataset/reviews.pkl
     save_data.saveReviews()
+
+    #saving the papers as a pickled dataset
+    #location: ./dataset/papers.pkl
+    save_data.savePapers()
+
+    print('Done.')

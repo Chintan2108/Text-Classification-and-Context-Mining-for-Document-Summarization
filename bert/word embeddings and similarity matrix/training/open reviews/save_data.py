@@ -1,4 +1,5 @@
 import os, pickle
+import process_pdf
 
 def saveReviews():
     '''
@@ -7,7 +8,7 @@ def saveReviews():
     '''
     path = './Review Params/Reviews/'
     papers = os.listdir(path)
-    papers.sort()
+    papers.sort(key=lambda f: int(''.join(filter(str.isdigit, f))))
     print(papers)
 
     dataset = []
@@ -26,7 +27,16 @@ def saveReviews():
         dataset.append(paper)
     
     #pickling the dataset for reviews
-    with open('./dataset/reviews_dataset.pkl', 'wb') as temp:
+    with open('./dataset/reviews.pkl', 'wb') as temp:
         pickle.dump(dataset, temp)
-    print('reviews dataset pickled successfully.')
+    print('Reviews dataset pickled successfully.')
 
+def savePapers():
+    '''
+    This function pickles the 2d list returned by the processPDF function
+    '''
+    papers = process_pdf.processPDF('./Papers_PDF/')
+    
+    with open('./dataset/papers.pkl', 'wb') as temp:
+        pickle.dump(papers, temp)
+    print('Papers dataset pickled successfully.')
