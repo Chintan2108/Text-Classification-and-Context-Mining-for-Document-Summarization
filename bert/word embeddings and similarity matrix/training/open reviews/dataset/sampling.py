@@ -44,8 +44,8 @@ def samplePaper(paper, epoch=100):
             else:
                 sampledData.loc[index + x] = [random.choice(paraListed), random.choice(paperListed), 0]
         index += epoch
-    sampledData.to_csv('SampledData.csv', encoding='utf-8')
-    print('Data sampled and saved as a csv successfully.\n')
+
+    print('Data sampled successfully.\n')
 
 if __name__ == "__main__":
     '''
@@ -66,5 +66,5 @@ if __name__ == "__main__":
         print('Paper ' + str(threshold))
         samplePaper(paper, epoch=int(sys.argv[1]))
         threshold += 1
-
-    print('Done.')
+    sampledData.to_csv('SampledData.csv', encoding='utf-8')
+    print('Sampled data saved as a csv successfully.')

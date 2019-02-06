@@ -62,7 +62,10 @@ class PdfConverter:
                         l = l[:-1]
                     flag = True
                     while(flag):
-                        next_l = next(blocks_iter)
+                        try:
+                            next_l = next(blocks_iter)
+                        except StopIteration:
+                            flag = False
                         if len(next_l) > 200:
                             if next_l[0].islower() or next_l[0].isdigit():
                                 flag = False
@@ -94,7 +97,7 @@ def processPDF(path):
     papers = os.listdir(path)
     papers.sort(key=lambda f: int(''.join(filter(str.isdigit, f))))
     papers_list = []
-    for pdf_file in os.listdir(path):
+    for pdf_file in papers:
         pdfConverter = PdfConverter(file_path=path+pdf_file)
         coverted_text_str = pdfConverter.PDFToText()
         papers_list.append(pdfConverter.splitByPara(coverted_text_str, pdf_file))

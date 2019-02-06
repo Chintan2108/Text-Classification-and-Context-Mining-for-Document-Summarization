@@ -53,7 +53,7 @@ def crawl(download=False, limit=10):
     #df.to_csv('file_name.csv', sep='\t', encoding='utf-8')
     
 	base_url = 'https://openreview.net'
-	threshold = 0
+	threshold = 1
 	for i, forum_id in list(enumerate(df.forum)): # Each forum_id is a review, comment, or acceptance decision about a paper.
 		#limiting the no of papers to be downloaded | prod
 		if(threshold > limit):
