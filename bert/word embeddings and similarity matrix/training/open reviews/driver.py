@@ -1,5 +1,6 @@
 import crawler
 import save_data
+import sys
 
 if __name__ == "__main__":
     '''
@@ -13,7 +14,9 @@ if __name__ == "__main__":
 
     #crawling the notes section of openreviews.net/notes for paper submissions
     #and extracting the forum_ids to scrape papers and their reviews
-    crawler.crawl(download=True)
+    #limit argument is the threshold for the number of papers to parse
+    #eg: python driver.py 50 -> will parse the first 50 papers 
+    crawler.crawl(download=True, limit=int(sys.argv[1]))
 
     #saving the reviews as a pickled dataset
     #location: ./dataset/reviews.pkl

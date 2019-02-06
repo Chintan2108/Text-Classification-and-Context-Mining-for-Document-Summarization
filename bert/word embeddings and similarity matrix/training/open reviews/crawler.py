@@ -41,7 +41,7 @@ def pickleParams(textlist, numlist1, numlist2):
 
 	print('Review params for Paper_' + pindex + ' pickled successfully.')
 
-def crawl(download=False):
+def crawl(download=False, limit=10):
 	'''
 	This function crawls the base_url page and navigates accordingly,
 	saving the data as json and does the necessary extractions,
@@ -55,8 +55,8 @@ def crawl(download=False):
 	base_url = 'https://openreview.net'
 	threshold = 0
 	for i, forum_id in list(enumerate(df.forum)): # Each forum_id is a review, comment, or acceptance decision about a paper.
-		#temporary threshold | for development
-		if(threshold > 10):
+		#limiting the no of papers to be downloaded | prod
+		if(threshold > limit):
 			break
 
 		print('Forum_id : ' + forum_id)
