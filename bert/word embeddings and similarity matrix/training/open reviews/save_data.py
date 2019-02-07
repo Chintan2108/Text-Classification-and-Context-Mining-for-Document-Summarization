@@ -22,7 +22,8 @@ def saveReviews():
                 #'single review'
                 for para in review_item.split('\n\n'):
                     #p'single para'
-                    review.append(para.replace('\n',''))
+                    if para is not None:
+                        review.append(para.replace('\n',''))
                 paper.append(review)
         dataset.append(paper)
     

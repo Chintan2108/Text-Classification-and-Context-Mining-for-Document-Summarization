@@ -17,11 +17,11 @@ if __name__ == "__main__":
     #crawling the notes section of openreviews.net/notes for paper submissions
     #and extracting the forum_ids to scrape papers and their reviews
     #limit argument is the threshold for the number of papers to parse
-    #crawler.crawl(download=True, limit=int(sys.argv[1]))
+    crawler.crawl(download=True, limit=int(sys.argv[1]))
 
     #saving the reviews as a pickled dataset
     #location: ./dataset/reviews.pkl
-    #save_data.saveReviews()
+    save_data.saveReviews()
 
     #saving the papers as a pickled dataset
     #location: ./dataset/papers.pkl
