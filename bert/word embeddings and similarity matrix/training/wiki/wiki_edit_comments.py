@@ -11,9 +11,8 @@ def getRevisions(pageTitle):
 
     url = "https://en.wikipedia.org/w/api.php?action=query&format=xml&prop=revisions&rvlimit=500&titles=" + pageTitle
     revisions = []     #list of all accumulated revisions
-    next = ''
-    i = 0     #information for the next request
-    while i<1:
+    next = ''    #information for the next request
+    while True:
         response = urllib.request.urlopen(url + next).read()  #web request
         response = response.decode('utf-8')
         revisions += re.findall('<rev [^>]*>', response)  #adds all revisions from the current request to the list
@@ -23,7 +22,6 @@ def getRevisions(pageTitle):
             break
 
         next = "&rvcontinue=" + cont.group(1)     #gets the revision Id from which to start the next request
-        i+=1
     
     return revisions
 
