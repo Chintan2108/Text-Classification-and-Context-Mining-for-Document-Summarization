@@ -1,9 +1,43 @@
-import pywikibot
+import xml.etree.ElementTree as ET
+import requests
+import pandas as pd
 
-site = pywikibot.Site(u'en', fam=u'wikipedia')
-wpage = pywikibot.Page(site, u'Coffee')
+def getRevisions(pageTitle, limit=500):
+    '''
+    This function takes in two args - article title and limit 
+    The title fetches the revision history and limit sets threshold on the no of previous revisions to fetch'
+    and saves a csv file for that request with all the edit comments and other
+    necessary details
+    '''
+    url = "https://en.wikipedia.org/w/api.php?action=query&format=xml&prop=revisions&rvlimit=%s&rvprop=ids|flags|timestamp|user|userid|size|sha1|contentmodel|comment|parsedcomment|content|tags|flagged&titles=%s" % (limit, pageTitle)
+    
+    print('Fetching api response...')
+    response = requests.get(url)
 
-wpHist = wpage.fullVersionHistory(total=5)
+    
+    response = ET.fromstring(response.content)
+    print('Parsing XML...')
 
-for i in wpHist:
-    print(i[3])
+    detailsColumns = ['revID','parentID','user','uid','timestamp','comment','content']
+    revisions = pd.DataFrame(columns=detailsColumns)
+
+    index = 0
+    for revision in response[2][0][0][0].findall('rev'):
+        revisions.loc[index] = [revision.get('revid'),
+                                revision.get('parentid'),
+                                revision.get('user'),
+                                revision.get('userid'),
+                                revision.get('timestamp'),
+                                revision.get('comment'),
+                                revision[1].text]
+        index += 1
+    
+    revisions.to_csv('./results/%s_editComments.csv' % pageTitle, encoding='utf-8')
+    print('%s_editComments.csv saved successfully.\n' % pageTitle)
+
+
+titles = ['Coffee', 'Astrology', 'Football', 'Astronomy']
+
+for title in titles:
+    getRevisions(title)
+
