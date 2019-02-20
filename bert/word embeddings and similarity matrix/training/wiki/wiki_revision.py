@@ -35,9 +35,11 @@ def getRevisions(pageTitle, limit=500):
     revisions.to_csv('./results/%s_editComments.csv' % pageTitle, encoding='utf-8')
     print('%s_editComments.csv saved successfully.\n' % pageTitle)
 
+if __name__ == "__main__":
+    '''
+    Main/ driver function
+    '''
+    titles = ['Coffee', 'Astrology', 'Football', 'Astronomy']
 
-titles = ['Coffee', 'Astrology', 'Football', 'Astronomy']
-
-for title in titles:
-    getRevisions(title)
-
+    for title in titles:
+        getRevisions(title)
