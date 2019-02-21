@@ -1,11 +1,9 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import wordnet as wn 
 from nltk.corpus import stopwords
-import sys
 from gensim.models import KeyedVectors
-import warnings
+import os, warnings, time, json
 import numpy as np
-import time
 
 def similarityIndex(s1, s2, wordmodel):
     '''
@@ -48,12 +46,14 @@ def similarityIndex(s1, s2, wordmodel):
     return wordmodel.n_similarity(s1words, s2words)
 
 
-def getCats(file):
+def getContents(file):
     '''
     To read the category file of the domain and return a list of all
     the categories in the form of sentences
     '''  
-
+    details = {}
+    details['content'] = file.readlines()
+    details['']
     references = []
     for sentence in file:
         references.append(sentence.split('\n')[0])
@@ -65,7 +65,7 @@ def vectorInit():
     '''
     Preparing a tfidf matrix of all the response sentences of one domain
     '''  
-    environment = open('./data/environment.txt','r')
+    environment = open('./data/comments/environment.txt','r')
     vect = TfidfVectorizer(min_df=1)
     sentences = []
 
@@ -93,77 +93,80 @@ if __name__ == "__main__":
     stats.write(s + '\n')
 
     #testing the tfidf
-    st = time.time()
-    vectorInit()
-    et = time.time()
-    s = 'Tfidf vector initilaized in %f secs. (with function overhead)' % (et-st)
-    print(s)
-    stats.write(s + '\n')
+    #st = time.time()
+    #vectorInit()
+    #et = time.time()
+    #s = 'Tfidf vector initilaized in %f secs. (with function overhead)' % (et-st)
+    #print(s)
+    #stats.write(s + '\n')
 
-    #files
-    environment = []
-    fh = open('./data/Environment.txt', 'r')
-    environment = fh.readlines()
-    rows = len(environment)
+    #filepaths
+    responsePath = './data/comments/'
+    categoryPath = './data/sentences/'
+    responseDomains = os.listdir(responsePath)
+    categoryDomains = os.listdir(categoryPath)
+    
+    #dictionary for populating the json output
+    results = {}
+    for responseDomain, categoryDomain in zip(responseDomains, categoryDomains):
+        #instantiating the key for the domain
+        domain = responseDomain[:-4]
+        results[domain] = {}
 
-    categories = open('./data/env_c.txt', 'r')
-    categories = getCats(categories)
-    columns = len(categories)
+        print('Categorizing %s domain...' % domain)
 
-    #saving the scores in a similarity matrix
-    #initializing the matrix with -1 to catch dump/false entries
-    st = time.time()
-    similarity_matrix = [[-1 for c in range(columns)] for r in range(rows)]
-    et = time.time()
-    s = 'Similarity matrix initialized in %f secs.' % (et-st)
-    print(s)
-    stats.write(s + '\n')
+        temp = open(responsePath + responseDomain, 'r', encoding='utf-8-sig')
+        responses = temp.readlines()
+        rows = len(responses)
 
-    row = 0
-    st = time.time()
-    for response in environment:
-        column = 0
-        for category in categories:
-            similarity_matrix[row][column] = similarityIndex(response.split('-')[1].lstrip(), category, wordmodel)
-            column += 1
-        row += 1
-    et = time.time()
-    s = 'Similarity matrix saved in %f secs. ' % (et-st)
-    print(s)
-    stats.write(s + '\n')
+        temp = open(categoryPath + categoryDomain, 'r', encoding='utf-8-sig')
+        categories = temp.readlines()
+        columns = len(categories)
+        categories.append('Novel')
 
-    #saving the matrix
-    save_matrix = np.array(similarity_matrix)
-    np.save('./score matrix/env_matrix.npy',save_matrix)
-    np.savetxt('./score matrix/env_matrix.txt',save_matrix)
-    print('score matrix saved.')
+        #saving the scores in a similarity matrix
+        #initializing the matrix with -1 to catch dump/false entries
+        st = time.time()
+        similarity_matrix = [[-1 for c in range(columns)] for r in range(rows)]
+        et = time.time()
+        s = 'Similarity matrix initialized in %f secs.' % (et-st)
+        print(s)
+        stats.write(s + '\n')
 
-    #categorizing the responses based on the scores
-    fh1 = open('./results/cat1.txt', 'w', encoding='utf-8')
-    fh2 = open('./results/cat2.txt', 'w', encoding='utf-8')
-    fh3 = open('./results/cat3.txt', 'w', encoding='utf-8')
-    fh4 = open('./results/cat4.txt', 'w', encoding='utf-8')
-    fh5 = open('./results/cat5.txt', 'w', encoding='utf-8')
-    fh6 = open('./results/cat6.txt', 'w', encoding='utf-8')
-    fh7 = open('./results/cat7.txt', 'w', encoding='utf-8')
-    fh8 = open('./results/cat8.txt', 'w', encoding='utf-8')
-    fh9 = open('./results/cat9.txt', 'w', encoding='utf-8')
-    fh10 = open('./results/cat10.txt', 'w', encoding='utf-8')
-    fh11 = open('./results/cat11.txt', 'w', encoding='utf-8')
-    fh12 = open('./results/cat12.txt', 'w', encoding='utf-8')
-    fh13 = open('./results/cat13.txt', 'w', encoding='utf-8')
-    catFileHandles = [fh1, fh2, fh3, fh4, fh5, fh6, fh7, fh8, fh9, fh10, fh11, fh12, fh13]
-        
-    print('Writing category files...')
-    for catName,fh in zip(categories, catFileHandles):
-        fh.write(catName)
-        fh.write('\n=====================================')
-        fh.write('\n\n')
+        row = 0
+        st = time.time()
+        for response in responses:
+            column = 0
+            for category in categories[:-1]:
+                similarity_matrix[row][column] = similarityIndex(response.split('-')[1].lstrip(), category, wordmodel)
+                column += 1
+            row += 1
+        et = time.time()
+        s = 'Similarity matrix populated in %f secs. ' % (et-st)
+        print(s)
+        stats.write(s + '\n')
 
-    print('Populating category files...')
-    response_index = 0
-    for score_row,response in zip(similarity_matrix,environment):
-        max_sim_index = np.array(score_row).argmax()
-        catFileHandles[max_sim_index].write(response)
+        #saving the matrix
+        save_matrix = np.array(similarity_matrix)
+        np.save('./score matrix/env_matrix.npy',save_matrix)
+        np.savetxt('./score matrix/env_matrix.txt',save_matrix)
+        print('score matrix saved.')
 
+        print('Initializing json output...')
+        for catName in categories:
+            results[domain][catName] = []
+
+        print('Populating category files...')
+        response_index = 0
+        for score_row,response in zip(similarity_matrix,responses):
+            max_sim_index = len(categories)-1
+            if np.array(score_row).sum() > 0:
+                max_sim_index = np.array(score_row).argmax()
+            results[domain][categories[max_sim_index]].append(response)
+        print('Completed.\n')
+
+    with open('./results/environment/out.json', 'w') as temp:
+        json.dump(results, temp)
+
+    print('JSON output saved.')
     print('done.')
