@@ -40,7 +40,7 @@ This is an algorithm I penned for labelling a pair of sentences with a similarit
 
 #### Datasets
 
-* Google Word Embeddings pretrained vectors for 1b words
+* Google Word Embeddings pretrained vectors for 1b words from Google news
 * Train and test data to be released soon
 
 ### Web Crawlers
@@ -57,7 +57,7 @@ Two web crawlers have been developed for populating the train and test data, fro
 
 ## Contribution
 
-Please feel free to raise issues and fix any existing ones. Further details can be found in our [code of conduct]().
+Please feel free to raise issues and fix any existing ones. Further details can be found in our [code of conduct](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/CODE_OF_CONDUCT.md).
 
 ## References
 
