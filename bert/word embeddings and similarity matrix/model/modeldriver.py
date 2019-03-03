@@ -1,3 +1,4 @@
+import pandas as pd
 import csvparser, sentencemodel
 
 class SimilarityMapping:
@@ -11,7 +12,14 @@ class SimilarityMapping:
 
         #parsing the input file for having sampled input to the model
         csvparser.parse(self.filepath)
-        sentencemodel.categorizer()
+        results = sentencemodel.categorizer()
 
+        downloadOutput = pd.ExcelWriter('results.xlsx', engine='xlsxwriter')
+
+        for domain in results:
+            print('Writing Excel for domain %s' % domain)
+            df = pd.DataFrame({ key:pd.Series(value) for key, value in results[domain].items() })
+            df.to_excel(downloadOutput, sheet_name=domain)
+        downloadOutput.save()
 sm = SimilarityMapping('Responses_All About the RMP2031.xlsx')
 sm.driver()

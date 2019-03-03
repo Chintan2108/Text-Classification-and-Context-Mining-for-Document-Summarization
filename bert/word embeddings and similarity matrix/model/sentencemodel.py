@@ -1,8 +1,11 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-from nltk.corpus import wordnet as wn 
+from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
 from gensim.models import KeyedVectors
-import os, warnings, time, json
+from threading import Semaphore
+import os
+import warnings
+import time
 import numpy as np
 
 def similarityIndex(s1, s2, wordmodel):
@@ -131,8 +134,4 @@ def categorizer():
             results[domain][categories[max_sim_index]].append(response)
         print('Completed.\n')
 
-    with open('./out.json', 'w') as temp:
-        json.dump(results, temp)
-
-    print('JSON output saved.')
-    print('done.')
+    return results
