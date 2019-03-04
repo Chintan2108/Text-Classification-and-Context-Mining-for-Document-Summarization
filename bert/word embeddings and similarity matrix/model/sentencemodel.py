@@ -3,10 +3,12 @@ from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
 from gensim.models import KeyedVectors
 from threading import Semaphore
-import os
+import os, json
 import warnings
 import time
 import numpy as np
+
+NOVEL_SIMILARITY_THRESHOLD = 0.5
 
 def similarityIndex(s1, s2, wordmodel):
     '''
@@ -49,27 +51,15 @@ def similarityIndex(s1, s2, wordmodel):
     return wordmodel.n_similarity(s1words, s2words)
 
 
-def getContents(file):
-    '''
-    To read the category file of the domain and return a list of all
-    the categories in the form of sentences
-    '''  
-    details = {}
-    details['content'] = file.readlines()
-    details['']
-    references = []
-    for sentence in file:
-        references.append(sentence.split('\n')[0])
-    
-    print('Mining categories...')
-    return references
-
 def categorizer():
-    '''driver function'''
+    '''
+    driver function,
+    returns model output mapped on the input corpora as a dict object
+    '''
     stats = open('stats.txt', 'w', encoding='utf-8')
 
     st = time.time()
-    wordmodelfile = 'E:/Me/IITB/Work/CIVIS/ML Approaches/word embeddings and similarity matrix/GoogleNews-vectors-negative300.bin.gz'
+    wordmodelfile = 'E:/Me/IITB/Work/CIVIS/ML Approaches/word embeddings and similarity matrix/GoogleNews-vectors-negative300.bin'
     wordmodel = KeyedVectors.load_word2vec_format(wordmodelfile, binary = True)
     et = time.time()
     s = 'Word embedding loaded in %f secs.' % (et-st)
@@ -133,5 +123,65 @@ def categorizer():
                 max_sim_index = np.array(score_row).argmax()
             results[domain][categories[max_sim_index]].append(response)
         print('Completed.\n')
+        
+        #initializing the matrix with -1 to catch dump/false entries for subcategorization of the novel responses
+        no_of_novel_responses = len(results[domain]['Novel'])
+        st = time.time()
+        similarity_matrix = [[-1 for c in range(no_of_novel_responses)] for r in range(no_of_novel_responses)]
+        et = time.time()
+        s = 'Similarity matrix for subcategorization of novel responses for %s domain initialized in %f secs.' % (domain, (et-st))
+        print(s)
+        stats.write(s + '\n')
+        
 
+        #populating the matrix
+        row = 0
+        for response1 in results[domain]['Novel']:
+            column = 0
+            for response2 in results[domain]['Novel']:
+                if response1 == response2:
+                    column += 1
+                    continue
+                similarity_matrix[row][column] = similarityIndex(response1.split('-')[1].lstrip(), response2.split('-')[1].lstrip(), wordmodel)
+                column += 1
+            row += 1
+        
+        setlist = []
+        index = 0
+        for score_row, response in zip(similarity_matrix, results[domain]['Novel']):
+            max_sim_index = index
+            if np.array(score_row).sum() > 0:
+                max_sim_index = np.array(score_row).argmax()
+            if set([response, results[domain]['Novel'][max_sim_index]]) not in setlist:
+                setlist.append(set([response, results[domain]['Novel'][max_sim_index]]))
+            index += 1
+        
+        for i in setlist:
+            for j in setlist:
+                if i == j:
+                    continue
+                if len(i & j) > 0 and i!=j:
+                    if i & j == i:
+                        setlist = list(filter((i).__ne__, setlist))
+                        continue
+                    if i & j == j:
+                        setlist = list(filter((j).__ne__, setlist))
+                        continue
+                    setlist.append(i.union(j))
+                    if i > j:
+                        setlist = list(filter((j).__ne__, setlist))
+                    else:
+                        setlist = list(filter((i).__ne__, setlist))
+        
+        novel_sub_categories = {}
+        index = 0
+        for category in setlist:
+            novel_sub_categories[index] = list(category)
+            index += 1
+
+        results[domain]['Novel'] = novel_sub_categories
+
+        print('***********************************************************')
+    with open('out_new.json', 'w') as temp:
+        json.dump(results, temp)
     return results
