@@ -14,7 +14,6 @@ def getRevisions(pageTitle, limit=500):
     print('Fetching api response...')
     response = requests.get(url)
 
-    
     response = ET.fromstring(response.content)
     print('Parsing XML...')
 

@@ -8,8 +8,6 @@ import warnings
 import time
 import numpy as np
 
-NOVEL_SIMILARITY_THRESHOLD = 0.5
-
 def similarityIndex(s1, s2, wordmodel):
     '''
     To compare the two sentences for their similarity using the gensim wordmodel 
