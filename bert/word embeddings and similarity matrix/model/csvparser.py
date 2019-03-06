@@ -6,8 +6,6 @@ Created on Mon Feb 25 17:15:22 2019
 """
 
 import pandas as pd
-from autocorrect import spell
-import re
 
 def parse(filepath):
     '''
@@ -19,6 +17,7 @@ def parse(filepath):
     df = pd.read_excel(xls, 'Form responses 1', header=[0,1])
 
     headers = df.keys()[1:]
+    print(headers)
     headers = headers[:len(headers)-3]
 
     for h in headers[1::2]:
@@ -31,3 +30,5 @@ def parse(filepath):
             if type(sentence) == str:
                 file.write(str(index) + '- ' + sentence.lstrip().replace('\n', ' ') + '\n')
                 index += 1
+
+parse('Responses_All About the RMP2031.xlsx')
