@@ -50,7 +50,7 @@ def trainingData(papers, tuples=10000, overall=False):
         label = 0
         
         if np.random.random_integers(0,1):
-            B = CLS
+            paperListed = [CLS]
             label = 1
         else:
             if overall:
