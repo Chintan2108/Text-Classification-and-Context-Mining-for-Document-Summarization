@@ -1,40 +1,40 @@
-Word embedding loaded in 49.135588 secs.
+Word embedding loaded in 52.638296 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 3.500632 secs. 
+Similarity matrix populated in 3.523421 secs. 
 Similarity matrix for subcategorization of novel responses for Accessibility domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 0.786895 secs. 
+Similarity matrix populated in 0.795891 secs. 
 Similarity matrix for subcategorization of novel responses for Disaster Management domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 4.432117 secs. 
+Similarity matrix populated in 4.526435 secs. 
 Similarity matrix for subcategorization of novel responses for Education domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 27.544291 secs. 
+Similarity matrix populated in 28.821005 secs. 
 Similarity matrix for subcategorization of novel responses for Environment domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 1.449120 secs. 
+Similarity matrix populated in 1.429954 secs. 
 Similarity matrix for subcategorization of novel responses for Healthcare domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 0.221408 secs. 
+Similarity matrix populated in 0.216418 secs. 
 Similarity matrix for subcategorization of novel responses for Heritage Conservation domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 4.189860 secs. 
+Similarity matrix populated in 4.194324 secs. 
 Similarity matrix for subcategorization of novel responses for Housing domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 5.268906 secs. 
+Similarity matrix populated in 5.187391 secs. 
 Similarity matrix for subcategorization of novel responses for Land Use domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 4.549961 secs. 
+Similarity matrix populated in 4.639903 secs. 
 Similarity matrix for subcategorization of novel responses for Parks And Recreation domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 3.173512 secs. 
+Similarity matrix populated in 3.246655 secs. 
 Similarity matrix for subcategorization of novel responses for Power domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 42.116333 secs. 
-Similarity matrix for subcategorization of novel responses for Traffic domain initialized in 0.000000 secs.
+Similarity matrix populated in 42.612516 secs. 
+Similarity matrix for subcategorization of novel responses for Traffic domain initialized in 0.000997 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 13.603636 secs. 
+Similarity matrix populated in 13.645574 secs. 
 Similarity matrix for subcategorization of novel responses for Waste Management domain initialized in 0.000000 secs.
 Similarity matrix initialized in 0.000000 secs.
-Similarity matrix populated in 5.969006 secs. 
+Similarity matrix populated in 6.155001 secs. 
 Similarity matrix for subcategorization of novel responses for Water domain initialized in 0.000000 secs.

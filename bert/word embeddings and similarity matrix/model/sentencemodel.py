@@ -3,10 +3,36 @@ from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
 from gensim.models import KeyedVectors
 from threading import Semaphore
-import os, json
+from networkx.algorithms.components.connected import connected_components
+import os
+import json
+import pickle
 import warnings
+import networkx
 import time
 import numpy as np
+
+def toGraph(l):
+    '''
+    It takes in a list of lists and returns a graph object, 
+    assigning nodes and edges from each sub-list object
+    '''
+    G = networkx.Graph()
+    for part in l:
+        G.add_nodes_from(part)
+        G.add_edges_from(toEdges(part))
+    return G
+
+def toEdges(l):
+    '''
+    It treats args(1) 'l' as a graph and returns (implicitly) it's edges 
+    '''
+    it = iter(l)
+    last = next(it)
+
+    for current in it:
+        yield last, current
+        last = current 
 
 def similarityIndex(s1, s2, wordmodel):
     '''
@@ -151,25 +177,11 @@ def categorizer():
             if np.array(score_row).sum() > 0:
                 max_sim_index = np.array(score_row).argmax()
             if set([response, results[domain]['Novel'][max_sim_index]]) not in setlist:
-                setlist.append(set([response, results[domain]['Novel'][max_sim_index]]))
+                setlist.append([response, results[domain]['Novel'][max_sim_index]])
             index += 1
         
-        for i in setlist:
-            for j in setlist:
-                if i == j:
-                    continue
-                if len(i & j) > 0 and i!=j:
-                    if i & j == i:
-                        setlist = list(filter((i).__ne__, setlist))
-                        continue
-                    if i & j == j:
-                        setlist = list(filter((j).__ne__, setlist))
-                        continue
-                    setlist.append(i.union(j))
-                    if i > j:
-                        setlist = list(filter((j).__ne__, setlist))
-                    else:
-                        setlist = list(filter((i).__ne__, setlist))
+        G = toGraph(setlist)
+        setlist = list(connected_components(G))
         
         novel_sub_categories = {}
         index = 0
