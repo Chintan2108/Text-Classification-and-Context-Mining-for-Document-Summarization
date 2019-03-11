@@ -83,7 +83,7 @@ def testingData():
         responses = pickle.load(temp)
     
     #SS
-    sampling.testingData(proposal, responses, B='sentence')
+    sampling.testingData(proposal, responses, BB='sentence')
 
     #SP
     sampling.testingData(proposal, responses)
@@ -93,34 +93,34 @@ if __name__ == "__main__":
     converter = PdfConverter(FILEPATH)
     testingData()
 
-    saveData()
-    converter = PdfConverter(file_path=FILEPATH)
-    converted_text_str = converter.PDFToText()
-    text = converter.splitByPara(converted_text_str, FILEPATH)
+    # saveData()
+    # converter = PdfConverter(file_path=FILEPATH)
+    # converted_text_str = converter.PDFToText()
+    # text = converter.splitByPara(converted_text_str, FILEPATH)
 
-    proposal = []
+    # proposal = []
 
-    temp = open('Kitty.txt', 'r', encoding='utf-8')
-    for lines in temp.readlines():
-        domain = []
-        for line in lines.split('. '):
-            domain.append(line)
-        proposal.append(domain)
+    # temp = open('Kitty.txt', 'r', encoding='utf-8')
+    # for lines in temp.readlines():
+    #     domain = []
+    #     for line in lines.split('. '):
+    #         domain.append(line)
+    #     proposal.append(domain)
     
-    if (len(sys.argv)==3 or len(sys.argv)==2) and sys.argv[1] == '-train':
-        if (len(sys.argv))==3: 
-            trainingData(proposal, int(sys.argv[2]))
-        elif (len(sys.argv)) == 2:
-            trainingData(proposal)
-        else:
-            print('Invalid arguments\n\
-            sys args are\n' +  
-            '1. -train to save the train data\n' + 
-            '2. no_of_tuples to define the no of tuples for the train dataset\n' +
-            'eg: python sampling.py -train 100 ->  This will create 100 tuples train data\n')
-    else:
-        print('Invalid arguments\n\
-        sys args are\n' +  
-        '1. -train to save the train data\n' + 
-        '2. no_of_tuples to define the no of tuples for the train dataset\n' +
-        'eg: python sampling.py -train 100 ->  This will create 100 tuples train data\n')
+    # if (len(sys.argv)==3 or len(sys.argv)==2) and sys.argv[1] == '-train':
+    #     if (len(sys.argv))==3: 
+    #         trainingData(proposal, int(sys.argv[2]))
+    #     elif (len(sys.argv)) == 2:
+    #         trainingData(proposal)
+    #     else:
+    #         print('Invalid arguments\n\
+    #         sys args are\n' +  
+    #         '1. -train to save the train data\n' + 
+    #         '2. no_of_tuples to define the no of tuples for the train dataset\n' +
+    #         'eg: python sampling.py -train 100 ->  This will create 100 tuples train data\n')
+    # else:
+    #     print('Invalid arguments\n\
+    #     sys args are\n' +  
+    #     '1. -train to save the train data\n' + 
+    #     '2. no_of_tuples to define the no of tuples for the train dataset\n' +
+    #     'eg: python sampling.py -train 100 ->  This will create 100 tuples train data\n')
