@@ -22,7 +22,7 @@ def getContent(titleList):
         print('%s saved successfully' % title.split('\n')[0])
         index += 1 
 
-    with open('articles.pkl', 'wb') as temp:
+    with open('./dataset/articles.pkl', 'wb') as temp:
         pickle.dump(articles, temp)
     print('%d articles pickled successfully.' % index)
 
@@ -36,7 +36,7 @@ if __name__ == "__main__":
     # getContent(articlesList)
     
     articles = []
-    with open('articles.pkl', 'rb') as temp:
+    with open('./dataset/articles.pkl', 'rb') as temp:
         articles = pickle.load(temp)
     
     sampling.trainingData(articles, tuples=10000, overall=True)
