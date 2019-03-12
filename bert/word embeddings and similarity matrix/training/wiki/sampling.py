@@ -81,7 +81,7 @@ def testingData(papers, reviews, ids, AA='sentence', BB='para'):
     rowIndex = 0
     paperListed = []
     filename = './dataset/test/'
-    articles = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()[:10]
+    articles = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()[:3]
     for paper, pids in zip(papers, ids):
         if AA == 'sentence':
             if paperIndex == 0:

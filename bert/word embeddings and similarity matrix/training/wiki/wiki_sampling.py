@@ -35,7 +35,7 @@ def saveData():
     pids = []
     responses = []
     TALK_COMMENTS_PATH = './dataset/test/talkComments'
-    for talk in os.listdir(TALK_COMMENTS_PATH)[:20]:
+    for talk in os.listdir(TALK_COMMENTS_PATH)[:6]:
         if talk[-3:] == 'csv':
             talkpid = []
             talkComments = []
@@ -77,7 +77,7 @@ def testData():
     with open('./dataset/test/talkpids.pkl', 'rb') as temp:
         talkpids = pickle.load(temp)
 
-    sampling.testingData(articles[:10], talkComments, talkpids)
+    sampling.testingData(articles[:3], talkComments, talkpids)
 
 
 if __name__ == "__main__":
