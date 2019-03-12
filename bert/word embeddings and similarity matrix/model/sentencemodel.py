@@ -6,7 +6,6 @@ from threading import Semaphore
 from networkx.algorithms.components.connected import connected_components
 import os
 import json
-import pickle
 import warnings
 import networkx
 import time

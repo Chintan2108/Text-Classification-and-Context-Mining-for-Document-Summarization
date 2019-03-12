@@ -65,7 +65,7 @@ def trainingData(papers, tuples=10000, overall=False):
     print('Training data saved successfully.')
 
 
-def testingData(papers, reviews, A='sentence', B='para'):
+def testingData(papers, reviews, AA='sentence', BB='para'):
     '''
     This function saves the test data with features as ['A','B']
     A -> random sentence from any paper; B -> random sentence from all the reviews of that paper
@@ -82,16 +82,16 @@ def testingData(papers, reviews, A='sentence', B='para'):
     paperListed = []
     filename = ''
     for paper in papers:
-        if A == 'sentence':
+        if AA == 'sentence':
             if paperIndex == 0:
                 filename += 'S'
             paperListed = paperToList(paper)
-        elif A == 'para':
+        elif AA == 'para':
             if paperIndex == 0:
                 filename += 'P'
             paperListed = paper
 
-        if paperIndex==0 and B=='para':
+        if paperIndex==0 and BB=='para':
             filename += 'P'
         #getting a list of paragraphs for all reviews for paper papers[index]
         reviewListed = []
@@ -100,7 +100,7 @@ def testingData(papers, reviews, A='sentence', B='para'):
                 reviewListed.append(para)
         reviewListed = list(filter(None, reviewListed))
 
-        if B == 'sentence':
+        if BB == 'sentence':
             #getting sentences of all paras of the review in reviewListed
             if paperIndex == 0:
                 filename += 'S'
