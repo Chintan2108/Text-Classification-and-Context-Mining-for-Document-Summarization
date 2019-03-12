@@ -1,0 +1,293 @@
+{{WikiProject Technology|importance=High|class=B
+| b1 <!--Referencing & citations--> = no
+| b2 <!--Coverage and accuracy  --> = no
+| b3 <!--Structure              --> = yes
+| b4 <!--Grammar and style      --> = yes
+| b5 <!--Supporting materials   --> = yes
+| b6 <!--Accessible             --> = yes}}
+
+== Pneumatic and mechanical PLC's ==
+A few years back, when I attended school, I learned about PLC's. I was shown three industrial PLC’s: one electronic (as on the wiki), one pneumatic and one mechanical. All three had the same functionality and could handle both digital and analogue I/O signals (by voltage, pressure and force). They are terribly obsolete today, but they are in my opinion very interesting and worth mentioning. Unfortunally I know very little about the pneumatic and mechanical PLC’s, perhaps someone does and whishes to add it?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/87.208.51.83|87.208.51.83]] ([[User talk:87.208.51.83|talk]]) 22:21, 15 February 2011 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Programming PLC ==
+
+There is some info missing: PLC can be programmed not only in ladder languages or C, but there is a galore of possibilities:
+<ul>
+<li>ladder logic (mentioned),</li>
+<li>structural languages - mostly C (mentioned),</li>
+<li>low-level languages- assembler, basic,</li>
+<li>block languages, like FBD, PD, FUP...,</li>
+<li>sequential function charts.</li>
+</ul>
+However, I don't feel wise enough to write more :D
+
+There seems to be quite a few inaccuacies with this article.  For one, complex programs need not always be done by a ELECTRICAL Engineer (It states Industrial Engineer).  There are many highly skilled PLC programmers who are not Electrical Engineers. [[User:ProdigalSon|ProdigalSon]]
+
+Also the IEC-1138 standard is not relevant to the topic, the actual one is IEC-61131-3; but there is no "structured C" there at all.
+
+== History ==
+There seems to be some confusion about the history of the PLC.  The present article seems to indicate that GM was the driving force behind the development of the PLC. However, in this article - http://www.barn.org/FILES/historyofplc.html, Dick Morley, its inventor, seemed to have had in mind the machine tool industry when he first envisioned it. Can anyone clarify this issue?  Which came first - GM's proposal for a PLC or the PLC itself that neatly fit into GM's needs?
+
+Also: The term PC for 'Programmable Controller' was used until ~1981 with the introduction of the IBM PC. 'PC' then became 'PLC' to differentiate from the ubiquitous Personal Computer...
+
+Also: the article says; "PLC and Programmable Logic Controller are registered trademarks of the Allen-Bradley Company". How can this be? [[User:193.202.109.254|193.202.109.254]] 14:38, 25 October 2007 (UTC)
+:: The article no longer claims this, which I think is a serious omission, but I'll leave it to AB to police their IP.  I don't know about "Programmable Logic Controller" but "PLC" is clearly labeled as an AB trademark in all their literature.  I took care to avoid using that term in my own software ladder logic implementation, back in the 80's.  [[User:Learjeff|Learjeff]] ([[User talk:Learjeff|talk]]) 20:06, 25 June 2014 (UTC)
+
+: Also, the article claims automobile production lines used drum sequencers (?) that sounds like bull shit to me.
+
+:: No, it's true. However [[drum sequencer]] in this context means a thing like a [[cam timer]] with a rotating drum, not an 808 or a 303. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 07:39, 9 July 2010 (UTC)
+
+AB has a patent on the "Programmable Logic Controller", abbreviated PLC. http://www.plcdev.com/allen_bradley_plc_patent_3942158_by_dummermuth
+
+: Of course, it expired long ago, though they probably have plenty of patents on subsequent innovations. [[User:Learjeff|Learjeff]] ([[User talk:Learjeff|talk]]) 20:06, 25 June 2014 (UTC)
+
+
+[[User:Jharris693|Jharris693]] ([[User talk:Jharris693|talk]]) 15:21, 11 January 2008 (UTC)
+
+== Simple and representative ==
+
+We don't need to document all methodologies used for each brand of PLC.  We all have our favorite system and after a while it seems like the One True Way.  I programmed ZWorld controllers in C(more or less) to control gas flows.  If you controlled cutting machines using GE Fanucs, everything has a slightly different feel.  We don't need to document the different feels in this page.  For example, I just whittled down a big mess regarding the labels we use for digital input values:  On/Off, 1/0, T/F, 24VDC/0VDC.  Any of these is valid.  Including them all just confuses the un-initated reader.  You control motors, I control valves but we don't need to list everything that is a digital output to communicate the idea of Digital Output.  Same with programming languages, UIs, data storage, networking... Can we keep it simple and representative please? -- [[User:TomCerul|TomCerul]] 05:38, 21 July 2005 (UTC)
+
+I'm chopping down the examples again.  Please go easy edits which are essentially "and technology X". After a few of those, the sentence is no longer readable. [[User:TomCerul|TomCerul]] ([[User talk:TomCerul|talk]]) 20:23, 9 October 2009 (UTC)
+
+== Examples ==
+
+Okay folks, we know PLC programming is full of millions of details regarding how things can go horribly wrong.  What examples should we use? My choice has been 
+:1. DI/DO
+:2. AI/AO
+:3. Should we add an HMI example?
+:4. And now I'm thinking we should add an example and section describing the level of the complexity inherent to industrial control/PLC programming. Perhaps:"Now change the controlled fluid to gasoline.  Extensive safety precations must be implemented. Overfill, vapor detection, catch pan liquid detector, exhaust monitoring, controller air pressure monitoring..."
+I want to make most of the article clear enough for a layman.
+[[User:TomCerul|TomCerul]] 15:41, 1 September 2005 (UTC)
+
+Since PLCs are never installed without a lot of accompanying electrical interfacing, some pictures of typical electrical control cabinets would help give PLC installations some context.
+
+In the water level controller sample program shown in the page high level and low level float switches are open (input low) when water is above them and vice versa. That means for the fill valve to be latched open both inputs should be high. But this sample program shows both input should be low for the valve to be latched. Can anyone check?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.100.16.35|78.100.16.35]] ([[User talk:78.100.16.35|talk]]) 10:10, 12 December 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+==External Links== 
+I suggest we establish external links - it may make sense to link to a few manufacturers and other useful non-commercial resources.  See Also should refer to other entries in the Wikipedia.  If no one has objections I will change link labels and start links to major PLC mfgs - AB, Siemens, Modicon, GE Fanuc, etc.  - but would like to est a "policy" so this page does not become a link farm. [[User:VGarner|VGarner]] 16:53, 5 April 2006 (UTC)
+
+: The article contains wiki-links to [[Siemens AG|Siemens]], [[Allen-Bradley]], [[IDEC]], [[ABB Ltd.|ABB]], [[Mitsubishi]], [[Omron]], [[Schneider Electric]] and [[GE Fanuc Automation North America, Inc.|General Electric]] under the 'History' section all of which have links to their official sites. Maybe these wiki-links could be moved to a different section? 
+
+: External Links section - could someone please add links to:
+::: http://www.mrplc.com/
+::: http://www.plcforum.it/portale/index.php
+
+:thanks [[Special:Contributions/61.8.3.177|61.8.3.177]] ([[User talk:61.8.3.177|talk]]) 07:21, 25 September 2008 (UTC)
+
+== Communication Protocols ==
+
+Could someone please comment on what standards for serial and or network communication exist?  Thanks.
+:OK. [[User:Spalding|Spalding]] 03:04, 15 July 2006 (UTC)
+
+== Newer Methods ==
+
+I would like comments on newer technology if any is replacing this.
+
+==Trademark==
+I notice that [[Programmable logic controller]] has chosen to use asterisks to denote that PLC is a registered trademark of Allen-Bradley, and [[Unix]] has chosen to use the extended ASCII registered trademark character.  I'll let you guys duke it out, but we really shouldn't have two standards.--[[User:Superluser|Superluser]] 00:35, 19 April 2007 (UTC)
+
+I removed the "®" based on [[Wikipedia:Manual of Style (trademarks)]].  --'''[[User:Dailynetworks|<font color="mediumblue">Mark</font> @ <font color="green">DailyNetworks</font>]]''' [[User_talk:Dailynetworks|<small>talk</small>]] 02:12, 28 May 2007 (UTC)
+
+I had noticed [http://www.siemens.com Siemens] and other manufacturers use the term "PLC".  I checked with the [http://www.uspto.gov United States Patent and Trademark Office] and [http://tess2.uspto.gov/bin/showfield?f=toc&state=sr9am5.1.1&p_search=searchss&p_L=50&BackReference=&p_plural=yes&p_s_PARA1=&p_tagrepl%7E%3A=PARA1%24LD&expr=PARA1+AND+PARA2&p_s_PARA2=Allen-Bradley&p_tagrepl%7E%3A=PARA2%24OW&p_op_ALL=AND&a_default=search&a_search=Submit+Query searched Allen-Bradley].  I did not find PLC or Programmable Logic Controller registered to Allen-Bradley.  I did find PLC-2 (registration number 1103007), PLC-3 (registration number 1228339), and PLC-5 (registration number 1709845).  --'''[[User:Dailynetworks|<font color="mediumblue">Mark</font> @ <font color="green">DailyNetworks</font>]]''' [[User_talk:Dailynetworks|<small>talk</small>]] 02:28, 28 May 2007 (UTC)
+
+== PLC compared with other control systems ==
+
+There is not much explanation on PLC capability in delivering high speed output and receiving high speed input. This will allow PLC to control [[AC]] [[servo motor]]. This link might be helpful.
+:::http://yourplctrainer.com
+[[User:Tatau1234|Tatau1234]] ([[User talk:Tatau1234|talk]]) 06:28, 11 December 2008 (UTC)
+
+== microprocessors ==
+
+how they operate and thier functions  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/41.220.2.117|41.220.2.117]] ([[User talk:41.220.2.117|talk]]) 13:30, 24 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Digital and analog signals example ==
+
+I changed the wording of this example a bit to be more clear. Am I wrong in thinking that it should be two series float switches (a logical AND gate) rather than two parallel float switches (a logical OR gate)? [[User:Schreineradam|Schreineradam]] ([[User talk:Schreineradam|talk]]) 15:03, 13 February 2008 (UTC)
+
+==Origin of name==
+"PLC" from its original inception stood for "Process Local Controller" - somewhere along the line this has been changed by common usage to "Programmable Logic Controller" [[Special:Contributions/81.151.17.6|81.151.17.6]] ([[User talk:81.151.17.6|talk]]) 11:13, 21 August 2008 (UTC)
+: Got a reference?  I've never heard of that story and the first time I got my mitts on a PLC was in 1980. Of course, credentials mean nothing on the Wikipedia. All the old Allen-Bradley literature that I had access to, called it "Programmable logic controller" and some of that went back to the mid '70s- pretty early on in the scheme of these things. As a check on my sanity, Google returns exactly 5 hits on the exact phrase "process local controller" and none of them are in an industrial automation context.  "Process control" usually meant analog loops in the old days, and PLCs weren't even usable for analog quantities for many years. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 15:16, 21 August 2008 (UTC)
+
+== Suppliers ==
+
+That suppliers section is somewhat of a concern. It really doesn't fit with WP:NOT (business directory) and its a magnet for everyone to create and link spam in the article namespace. [[User:User A1|User A1]] ([[User talk:User A1|talk]]) 13:19, 3 November 2008 (UTC)
+
+==External Links== 
+I suggest we add a magazine web site category page that is a great resource devoted controllers (automation), including technical articles, white papers, feature articles, webcasts, podcasts and other rich content related to PLCs and controllers. The top of the page has sponsored material but means you have to log in to view the material, no advertising. 
+
+: External Links section - could someone please add links to:
+::: http://www.automationworld.com/Controllers
+
+
+:thanks ([[User talk:24.1.90.47|talk]]) 10:19, 15 January 2009 (UTC)
+
+:This alink hbas been placed on multiple articles, and is clearly a commercial website, which has some educational content. This is not suitable per [[WP:EL]]. [[User:User A1|User A1]] ([[User talk:User A1|talk]]) 00:54, 16 January 2009 (UTC)
+
+==External Link Suggestion==
+
+Please consider adding the following website link.
+* [http://www.electronicspal.com/plc/ PLC Complete Tutorial]
+Reason: A comprehensive tutorial on programmable logic controller (PLC) operation and programming.
+
+Thank you.--[[Special:Contributions/41.234.63.19|41.234.63.19]] ([[User talk:41.234.63.19|talk]]) 23:17, 10 February 2009 (UTC)
+
+:This link has been removed by multiple editors multiple times. If you disagree  with the removal of the link, there are processes you can voluntairily follow to obtain [[WP:3O|a third opinion]] [[User:User A1|User A1]] ([[User talk:User A1|talk]]) 10:11, 11 February 2009 (UTC)
+
+After reading the external article, I have the impression that it is an advertisement for a particular brand of PLC (Omron) and not simply a generic tutorial on the operation of PLCs.  The article does do a good job of explaining PLC operation and programming language, but it does only concentrate on one brand.  I vote for excluding the link on the basis that it is sales pitch.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Athabaska-Clearwater|Athabaska-Clearwater]] ([[User talk:Athabaska-Clearwater|talk]] • [[Special:Contributions/Athabaska-Clearwater|contribs]]) 16:02, 11 February 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+The page that would be linked in this case consists of two frames. The left one shows Google ads and the right one shows a page from a different domain (a chapter from a book, not even the table of contents). Thus it does seem pointless to link to the page that simply adds advertisements to another one, when we can link to the one without those advertisements instead ([[Wikipedia:External links#Links normally to be avoided]] includes "''5. [...] or to web pages with objectionable amounts of advertising. [...]''").
+
+That leaves another question: should the page with the book (Nebojsa Matic "Introduction to PLC controllers") - http://www.mikroe.com/en/books/plcbook/plcbook.htm - be linked? As noted by [[User:Athabaska-Clearwater|Athabaska-Clearwater]], it might still have some disadvantages... However, it might be a [[WP:RS|reliable source]] (there seems to be a conference paper - Peter H.M. Jacobs, Alexander Verbraeck, William Rengelink "Emulation with DSOL", "Winter Simulation conference 2005" [http://www.informs-cs.org/wsc05papers/180.pdf] - that cites what appears to be the same book, although the URL seems to have changed) - probably users watching [[Wikipedia:Reliable sources/Noticeboard]] can be consulted with to decide if it's really the case. And if it really is, we might wish to [[Wikipedia:Citing sources|use this book as a source]], as it looks like this article does not cite any sources at the moment... --[[User:Martynas Patasius|Martynas Patasius]] ([[User talk:Martynas Patasius|talk]]) 18:00, 11 February 2009 (UTC)
+
+:I agree with the comments above by both [[User:Martynas Patasius|Martynas Patasius]] and [[User:Athabaska-Clearwater|Athabaska-Clearwater]], but at this time will not (due to real-life constraints) be adding the book as a reference in the article. To be clear, I have no objections to the direct use of the book at all, if it can be linked as a PDF. [[User:User A1|User A1]] ([[User talk:User A1|talk]]) 01:05, 12 February 2009 (UTC)
+
+== Dubious ==
+
+It is stated on Functionality that a PC can replace a PLC "in some applications". This statement may imply that there are no (severe) trade-offs when doing so, hence I tagged it dubious. [[Special:Contributions/201.37.106.228|201.37.106.228]] ([[User talk:201.37.106.228|talk]]) 14:24, 15 March 2009 (UTC)
+
+I buy it. PC's would do a great job controlling Christmas lights. [[User:TomCerul|TomCerul]] ([[User talk:TomCerul|talk]]) 20:20, 9 October 2009 (UTC)
+
+:Beckhoff Automation argues that their PC-based [http://infosys.beckhoff.com/index_en.htm TwinCAT product] can replace PLCs in quite a wide range of applications. &mdash; [[User:Wdfarmer|Wdfarmer]] ([[User talk:Wdfarmer|talk]]) 23:49, 28 February 2010 (UTC)
+
+==Page protection ==
+Page protection has once again been applied to deal with excessive [[WP:SPAM|adspam]] by [[User:Cartiman]] and his various sockpuppets. Apologies for the inconvenience. [[User:Euryalus|Euryalus]] ([[User talk:Euryalus|talk]]) 10:48, 26 March 2009 (UTC)
+
+== Suppliers section ==
+
+Hello,
+I'm kinda getting tired of continually sifting the wheat from the chaff when users are making edits to the "Suppliers" section. This section is a magnet for [[WP:COI]] edits, and doesn't really do much for increasing the reader's understanding of PLCs. I propose removing this section entirely, this article gets enough COI vandalism as is, and anything we can do to reduce the frequency of this would be nice. However I note that last time I removed it (without discussion) it was reinstated in a short time, hence this discussion. Can we have a discussion of the merits of this section, and whether it should be removed? [[User:User A1|User A1]] ([[User talk:User A1|talk]]) 07:12, 9 May 2009 (UTC)
+
+Hi as a person not familiar with PLC's one of the things I was looking for was the suppliers of the PLC units. So if this was removed it wouldn't be helpful for those like me looking for this sort of information. Looks like the problem is the vandalism not the section. [[User:ZedZzizz|ZedZzizz]] ([[User talk:ZedZzizz|talk]]) 03:33, 14 May 2009 (UTC)
+:Wikipedia is [[Wikipedia:NOT#Wikipedia_is_not_a_directory]]. This is the exact use that it should *not* be used for. If you want to find suppliers you should use a business directory [[User:User A1|User A1]] ([[User talk:User A1|talk]]) 05:23, 14 May 2009 (UTC)
+:Ive pulled it. This discussion has been  up for two weeks, which I feel is sufficient to have recieved any feedback. I cannot see any reason that is inline with WP policy to keep this section. [[User:User A1|User A1]] ([[User talk:User A1|talk]]) 02:05, 23 May 2009 (UTC)
+
+== I don't understand the diagram in [[Programmable logic controller#Example]] ==
+
+Why are there two "Fill Valves"? I thought only the high level and low level switches are meant to be the inputs, so why is there a "Fill Valve" input? Also, isn't the high level switch meant to be a cutoff?--[[User:Alasdair|<font face="Comic sans MS" color="ForestGreen"><b>Alasdair</b></font>]] 12:57, 25 September 2009 (UTC)
+
+:That isn't an input, it is the output being used as a contact. The purpose is to "latch" the "Fill Valve" output on. Without this, the output would turn off (or worse - jitter) when the water level raises above the low level switch. [[User:Krushia|Krushia]] ([[User talk:Krushia|talk]]) 14:26, 26 September 2009 (UTC)
+
+::Well now that you made me take a belated look at it, the second to the last paragraph in that example section is wrong with respect to the example.   The hysteresis comes from the float switch configuration, not the PLC.  And a hysteresis response to a discrete input is not applicable/possible.  <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 00:22, 1 May 2012 (UTC)
+
+:::I fixed it.  The fix now makes it a bit off topic, but looks close enough. <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 02:26, 1 May 2012 (UTC)
+
+::::Took a closer look and did additional work elsewhere on the example. <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 02:58, 1 May 2012 (UTC)
+
+:::::It's been a long time since I've worked on this article and I see that someone has broken the description of the inverse logic inputs. The article before was correct. The way the rung works is if both inputs are off then the 'normally closed' contacts "in the rung" will be closed and the output will turn on. '''[No, that is incorrect. If the physical level switches are both closed, that will send a TRUE signal to the PLC. If you invert that with a "NC" instruction, then the result is FALSE, so your fill valve will not turn on. But if you do not invert the TRUE, but use a NO PLC instruction (which is not the same as the physical switch) to "read" the physical switches, then the fill valve will turn on and fill the tank. See this test using the LogixPro simulator http://www.plctalk.net/qanda/showthread.php?p=569570&posted=1#post569570 by Lancie01]''' Also the article as written seems to confuse the contacts on the switches and the contacts in the rung. I'll put in a better description and fix this when I get a chance. Since this seems to get changed every so often I'll put in some references to terms like 'normally closed' and 'normally open' and 'inverse logic'. Although I did PLC programming and system design for many years I understand the wikipedia requirement of using references to published documents.[[User:Crunchy Numbers|-Crunchy Numbers]] ([[User talk:Crunchy Numbers|talk]]) 02:27, 10 May 2012 (UTC)
+::::::It was correct both  before and after the changes I made. (except for the "hysteresis" error noted above) The difference is that before my changes it was only partially and confusingly explained for a person trying to learn something from this; I fixed that. "Normally closed" and "normally open" would be confusing and ambiguous terms to use here for the float switch contacts because the equipment based meanings for those terms are the opposite of the general control scheme here because this is a fill type application. Ditto and even more so for the term "reverse logic" . Sincerely, <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 11:21, 10 May 2012 (UTC)
+
+:::::::I think the example description and diagram do not match. The description states that the high and low level switches turn on when the level drops, but the diagram appears to turn on the fill valve only when both are both contacts return true for the off condition, ie when the floats are in their open condition and the tank is full. I have only recently started learning about plcs and ladder logic and am far from expert in it, but I think my analysis is correct. I will leave it to someone more experienced to verify and make any necessary changes  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.152.205.202|78.152.205.202]] ([[User talk:78.152.205.202|talk]]) 12:08, 21 October 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:::::::::Not following your question / point.   Could you clarify?   In particular "true for the off condition"  Sincerely, <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 19:01, 21 October 2012 (UTC)
+::::::::: The float sensors (as described in the text) give a signal when the water level is ''below'' the sensor. To start pumping, the level must be below both. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 19:29, 21 October 2012 (UTC)
+:I propose moving the example code to [[ladder logic]]. [[User:Krushia|Krushia]] ([[User talk:Krushia|talk]]) 04:38, 22 October 2012 (UTC)
+:::::::Ok, the fill valve is turned on when it preceded by a line of true conditions on the ladder rung. If we ignore the fill valve latch, the program will interrogate the low and high level switches, and since they are shown as [/](what I have been taught to refer to as EXAMINE FOR OFF), the program will interpret them as true if they are off(ie open) and false if they are on(ie closed). However the example as written states that the switches are closed(ie on) when the level is low, so the program will find two false conditions (since it is looking for off) and the valve will not open. This can be simply rectified by altering the notation for both Low Level and High Level on the diagram from [/] to [ ]. Hopefully this is clearer. Regards  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.152.205.202|78.152.205.202]] ([[User talk:78.152.205.202|talk]]) 22:04, 22 October 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:::::::: Still not following, but it sounds like both the root of the problem and the freedom for the proposed solution is the ambiguity of the [/] and [] contact symbols for float switches since float switches do not have an unambiguous "normal" state.  But the diagram does follow the somewhat normal convention where the lower liquid level condition is called the "normal" state.  But this application (being "pump in" rather than "pump out")  is the reverse of the normal float switch application, making the "normal" state not so "normal".   Long story short, I don't agree that there is an error, but have no objection to changing those two symbols as you propose.  <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 22:16, 22 October 2012 (UTC)
+{{outdent}} There is a perfectly unambiguous convention for switches; the position on the diagram is the "on the shelf", non-operated, position (ANSI Y32.2 clause 4.3). The ANSI/IEEE and IEC standards also contain conventions for switches that are normally open but held closed by the process, or reverse. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 14:09, 23 October 2012 (UTC)
+:That convention would dictate showing the float switches as normally closed (as they currently are).  The fact that that "normal" position is "abnormal" for this particular application I think caused some confusion for the individual who wrote, but I think that that convention is a good idea and also follows the most common practice.  <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 14:52, 23 October 2012 (UTC)
+::Ok, to clarify (I am the one that raised the question). My confusion, it seems to me, arises from the possibility that although the diagram appears like a fragment of ladder code, it is maybe a kind of quasi wiring diagram, hence your concern with adhering to conventions re the representation of different types of switches. As a piece of ladder code, it would not behave correctly, for the reason that I have already outlined. This confusion is understandable since we are talking about PLCs, most of which are coded using ladder logic. If it is intended to be a ladder code fragment it needs the change I suggested, if not it needs to be clearer exactly what the diagram's purpose is.
+::PS: I apologise if my formatting (indents etc) is wrong, I am new to this. Regards[[User:Trooperman94|Trooperman94]] ([[User talk:Trooperman94|talk]]) 21:34, 23 October 2012 (UTC)
+:::I think that I understand now.   It is not clear whether the float switch symbols on the diagram represent the real world devices or symbols in a software program. And if its the latter, that representation might not be correct.  <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 10:40, 24 October 2012 (UTC)
+:::: We probably need to explain that the symbols on the ladder diagram are operating on holding register bits in the PLC memory, not the actual contact status of the field device. You need to know what "power on the PLC input" means to the process - does it signify "level above the float switch/button held down/limit switch operated" or the reverse?  Since this is a fruitful source of bugs in new PLC programs, the point probably wants some expansion. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 13:44, 24 October 2012 (UTC)
+
+In the water level controller sample program shown in the page high level and low level float switches are open (input low) when water is above them and vice versa. That means for the fill valve to be latched open both inputs should be high. But this sample program shows both input should be low for the valve to be latched. Can anyone check?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.100.32.30|78.100.32.30]] ([[User talk:78.100.32.30|talk]]) 10:38, 12 December 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:We are using some terms  and symbols that are inherently ambiguous or confusing in the case at hand.   Namely "normally"  and the meanings of representations in the PLC of "normally" open and "normally" closed contacts.   We are  also using an example (pump to full) which is the reverse of the more common pump application which is "pump to empty".  IMHO your post was correct until it said "But this sample program shows both input should be low for the valve to be latched." which is not the case.  We should probably change the example to one where the real word devices have a clear and intuitive "normal" state (e.g devices that spring to that position, are in that position when the system in the application is at rest), and where they are and are represented as normally open contacts.  I think that that would solve the eternal confusion with this example.  <b><font color ="#0000cc">''North8000''</font></b> ([[User talk:North8000#top|talk]]) 12:19, 12 December 2013 (UTC)
+
+I dont really see PLC caring about whether a contact is physically NO or NC, or if it is pump to full or pump to empty, or spring to position or anything like that. In the description section it is said "In ladder diagram, the contact symbols represent the state of bits in processor memory, which corresponds to the state of physical inputs to the system. If a discrete input is energized, the memory bit is a 1, and a "normally open" contact controlled by that bit will pass a logic "true" signal on to the next element of the ladder." So if the input contacts are physically closed the corresponding input address is high, and have a 1 bit in the internal memory, which happens when the tank is empty as per the description. So that should have been the condition for latching the valve, right?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/176.203.50.177|176.203.50.177]] ([[User talk:176.203.50.177|talk]]) 15:06, 12 December 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:My thoughts were about how to make a simpler/ clearer example, not about this example.  The best place to start the conversation in the areas that you are discussing is the physical system without PLC terminology and contact terminology.  There are two switches at different heights. (the names of the switches are "low level" and "high level") the contact on each is closed when the level is below the level setpoint of the switch. And of course, the physical reality is that when the low one is closed, the high one is "already" closed, and when the high one is open, the low one is "already" open). And let's start  the description when it at its highest state when both switches are open.  Then: 
+:#The liquid  starts getting used and the level starts dropping 
+:#The liquid drops below the level of the "high" level switch.  The switch closes, but nothing else happens 
+:#The liquid continues to drop 
+:#The liquid drops to the setpoint of the "low level" switch 
+:#The low level switch closes 
+:#The control system turns on the pump, and closes a control system contact which is in parallel with the low level switch. This is called "latching" because it goes into a state where the low level switch closure is no longer needed to keep the pump on, i.e. it is unable to "break" the circuit because it has been "bypassed" by the control system contact which is in paralell with it.   
+:#The pump raises the level of the liquid. 
+:#The "low level" switch opens, but such has no effect and so the pump continues to raise the level of the liquid 
+:#The level rises through the setpoint of the "high level switch".  This "breaks" the circuit and shuts the pump off and the control system also opens the latching contact. 
+:So there's a description of the physical reality of the system and what the control system needs to do. Next is the more confusing part, which is how to represent the physical and software implementation using a PLC. Sincerely, <b><font color ="#0000cc">''North8000''</font></b> ([[User talk:North8000#top|talk]]) 15:30, 12 December 2013 (UTC)
+
+I guess you are putting across the actual physical logic for a layman (when the water level is low both switches are "Normally Closed" which condition should energize the fill valve) with no introduction to the ladder logic programming. In that case I guess this is a good idea, but still I think it is better to clarify this in the article page not to confuse those who know a little ladder logic programming.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/176.203.50.177|176.203.50.177]] ([[User talk:176.203.50.177|talk]]) 17:09, 12 December 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:I agree with you 100%.   My post above was ''only'' to describe the absolutely unambiguous part as only a ''piece'' of the answer.  <b><font color ="#0000cc">''North8000''</font></b> ([[User talk:North8000#top|talk]]) 18:12, 12 December 2013 (UTC)
+
+== mounting standard ==
+
+
+Do PLCs clip onto a [[DIN rail]], or do they use some other mounting standard?
+--[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 03:30, 26 October 2010 (UTC)
+:Yes. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]])
+
+
+== Somebody keeps taking out the history of PLC's and substituting the History of Modicon == 
+
+Please stop doing this. <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 15:52, 18 July 2011 (UTC)
+
+== PLC vs. What you can use a PLC at ==
+
+This article is focused on PLC usage rather than explaining what a PLC really is, or moreover, what a PLC is made of.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.125.236.87|86.125.236.87]] ([[User talk:86.125.236.87|talk]]) 21:49, 30 April 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:It's certainly not perfect, but I think it is focused on providing the common useful information.  A PLC is made of nearly all of the parts used to build any type of electronic equipment (resistors, capacitors, printed circuit boards, integrated circuits, transistors, diodes etc.) plus sometimes a few that are electromechanical equipment. IMHO the former is not very unique/informative regarding PLC's.   <font color ="#0000cc">''North8000''</font> ([[User talk:North8000#top|talk]]) 03:03, 1 May 2012 (UTC)
+
+== PLC vs PAC? ==
+
+In the See Also section there is a link called "[https://commons.wikimedia.org/wiki/File:PLC_vs_PAC.jpg PLC vs PAC comparison chart at commons.wikimedia.org]". This is confusing for two reasons:
+1. Nowhere else in the article the acronym PAC is mentioned, let alone explained or spelled out.
+2. The chart itself contradicts the article. For example it claims that programming is only possible via ladder logic while the article gives four more possibilities (under http://en.wikipedia.org/wiki/Programmable_logic_controller#Programming_2 ).
+
+[[Special:Contributions/82.198.218.209|82.198.218.209]] ([[User talk:82.198.218.209|talk]]) 14:34, 11 June 2014 (UTC)
+
+== 3.8 Simulation ==
+
+There seem to be some parts in this paragraph missing. The sentence "...incorrectly it can result in lost ols such as..." just doesn't make any sense. Perhaps some inadvertently deleted or copied parts?
+[[Special:Contributions/192.35.17.13|192.35.17.13]] ([[User talk:192.35.17.13|talk]]) 14:01, 2 April 2015 (UTC)
+
+Good catch.  Fixed sentence as per earlier version.[[User:Goatboy22|Goatboy22]] ([[User talk:Goatboy22|talk]]) 01:08, 3 April 2015 (UTC)
+
+== Hard real time only ? ==
+
+I'm afraid that there is a problem with the phrase
+:A PLC is an example of a "hard" real-time system since output results must be produced in response to input conditions within a limited time, otherwise unintended operation will result.
+
+As far as i understand, a PLC could be used in a soft real time system, meaning a system where not meeting a deadline won't cause a total system failure, only a (possible) degrading of the system service quality.
+
+Of course, due to its cost, a PLC is more useful in a hard real time system, but as far as i can see, there's nothing that would prohibit their use in systems with other real time requirements. 
+
+Thanks,<br/>
+--[[User:Hgfernan|Hgfernan]] ([[User talk:Hgfernan|talk]]) 20:55, 19 March 2016 (UTC)
+
+== Proposed new section: PLC Viruses ==
+
+Given the fairly recent emergence of Stuxnet, which infected PLCs, I think that there should be an entire new section that discusses specific viruses and the vulnerabilities they exploited. The only thing that was on the page now was a brief 3-line mention of security, which couldn't cover all the issues that have arisen. Thanks, [[User:Gluons12|Gluons12]] ([[User talk:Gluons12|talk]]) 19:03, 7 May 2016 (UTC)
+
+==Large amount of April 11th, 2017 additions==
+
+I think that there are numerous problems with the April 11th additions but I was hesitant to revert en-masse. It noted a problem with a particular vendor, and the complaint looks implausible.  The descriptions of timers look confusing and missing important pieces at best, and in conflict with standard timers at worst, and it appears that the terminology may be specific to one vendor. The counter section seems to base itself on vendor-specific terminology. In the up/down counter area it conflicts with the common "up/down" (bi-directional) counter-specialized input on PLC's which utilizes a quadrature input, not separate "up" and "down" inputs.  There is only once source used, off line and lacking in specifics with no info with respect to publishing, except possibly naming today's date as a publishing date.  <b><font color ="#0000cc">''North8000''</font></b> ([[User talk:North8000#top|talk]]) 18:43, 11 April 2017 (UTC)
+
+== Invented When? By Whom? ==
+
+So, this was invented in 1968, then sent back in time for the IBM 1800 to come after in 1964?
+
+Honestly, this article has a huge bias problem toward only certain application. I guess controlling a nuclear power plant doesn't count.  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/73.222.236.165|73.222.236.165]] ([[User talk:73.222.236.165#top|talk]]) 07:14, 13 February 2018 (UTC)</small> <!--Autosigned by SineBot-->
+
+:With respect to this question, PLC is basically a term used for combining the attributes described in the first paragraph. Because of that I think it's fuzzy / eye-of-the-beholder on when the first one was or who invented it.<b style="color: #0000cc;">''North8000''</b> ([[User talk:North8000#top|talk]]) 12:11, 13 February 2018 (UTC)
+
+: PLCs are not the same thing as process control - they have merged in recent years, but not until the 1990s.  The [[IBM 1800]] was not a PLC. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 12:22, 13 February 2018 (UTC)
+
+== Rockwell and Allen-Bradley ==
+
+{{u|North8000}} reverted [https://en.wikipedia.org/w/index.php?title=Programmable_logic_controller&type=revision&diff=872987430&oldid=872176984 this change] where I try to clarify what "Rockwell (Allen-Bradley)" means. The edit comment on the revert was "Confusing and possibly misleading. They Allen Bradley became prominent and leading in PLC's when it was not Rockwell." I have reverted that revert. What the ref says about Rockwell is, "Also involved was Odo Struger of Allen-Bradley, now Rockwell Automation. Rockwell became the PLC leader in the US through good marketing and development of strong distribution channels...". I think my version is more true to the ref. The original version has the problematic "Rockwell (Allen-Bradley)" phrase and also I think it is further from what North8000 claims happened than my version. I'm sure what I put up there can be improved further but I think my contribution was an improvement on what we had originally. ~[[User:Kvng|Kvng]] ([[User talk:Kvng|talk]]) 00:56, 11 December 2018 (UTC)
+:The reference made a misleading statement.    AB had moved into the PLC lead prior to being Rockwell. But Wikipedia goes by sources, not wiki editor's knowledge.   So I agree that the misleading statement can stay in.  No biggee, and thanks for your work. <b style="color: #0000cc;">''North8000''</b> ([[User talk:North8000#top|talk]]) 11:41, 11 December 2018 (UTC)
+::''Misleading'' is a generous assessment. I'm not sure this source is reliable. ~[[User:Kvng|Kvng]] ([[User talk:Kvng|talk]]) 02:34, 12 December 2018 (UTC)
+:::Regarding actual reliability (not wp:rs) I think that the source is overall pretty reliable on the topic but that that particular sentence was misleading or wrong. <b style="color: #0000cc;">''North8000''</b> ([[User talk:North8000#top|talk]]) 13:22, 12 December 2018 (UTC)
+
+== Proposed merge with [[I/O module]] ==
+
+Newly created page that has some useful information on PLCs. The contents of the article do not match with its title, so the info should be merged into the PLC article and the new page redirected. [[User:Bensci54|Bensci54]] ([[User talk:Bensci54|talk]]) 17:31, 23 January 2019 (UTC)
+* '''Oppose''' I/O modules have a more general relation to [[microcontroller]]s. not just PLCs. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 17:38, 23 January 2019 (UTC)
+*I left my comments at the other article. <b style="color: #0000cc;">''North8000''</b> ([[User talk:North8000#top|talk]]) 18:31, 23 January 2019 (UTC)
+*There's nothing worth merging there. What is at [[I/O modeule]] is only about the PLCish kind and seems redundant with what we describe here. Hypothetically there are usages other than PLCs, but the concept doesn't seem to be strong enough to support a free-standing article instead of a paragaph in the arious places I?O modules are used. It's a generic concept, breaking systems down into modules...I/O is just one possible way to break down functions of a system. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 19:51, 23 January 2019 (UTC)
+::I agree.  But I guess "merge" could be a diplomatic and easy way to say "delete".  <b style="color: #0000cc;">''North8000''</b> ([[User talk:North8000#top|talk]]) 22:44, 23 January 2019 (UTC)
+*'''Support''' - True that ''I/O module'' is a term that can be applied elsewhere, however, all the current content in [[I/O module]] applies to [[Programmable logic controller]] and there is no need for a separate article on this topic. If we get more generic material on the ''I/O module'' topic in the future, the redirect left by the merge can be turned into a [[WP:DAB]] page or otherwise expanded. ~[[User:Kvng|Kvng]] ([[User talk:Kvng|talk]]) 16:18, 26 January 2019 (UTC)
+*'''support'''  Per my discussion here and there. <b style="color: #0000cc;">''North8000''</b> ([[User talk:North8000#top|talk]]) 18:56, 26 January 2019 (UTC)

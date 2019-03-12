@@ -1,0 +1,155 @@
+{{WikiProjectBannerShell|1=
+{{WikiProject Robotics|class=start|importance=mid}}
+{{Sys rating|class=Start|importance=high|field=control theory}}
+{{WikiProject Technology|class=start|importance=}}
+}}
+
+== Don't merge the article ==
+Don't merge the articles. 
+
+Classic control theory, both analog and digital, is about measuring and optimizing stability and response of a physical motion or property like temperature, using transfer functions and disturbances and a whole array of other very effective mathematical tools. Within this theory, the word "system" is used to describe the entirety of nodes and should not be confused with "Control System"
+
+Control Systems, as it is commonly used among engineers today describes the hardware and software designs within machines that aquire data, communicate, compute, and control motion or physical properties. Control theory may be used to design, program and optimize within this physical structure. The control system may be large (GPS controlled navigation) or very small within a PC board or even within a silicon chip.
+
+The Control System article should reference the Control Theory article only (and vise versa). It currently tries to be both. 
+
+Paul Steffas, Santa Clara, CA Revision 
+
+[[user:Paul Steffas|Paul Steffas]], 31 August 2006, 05:51 (UTC))
+
+copyright 2006  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/203.madarchod131.165.250|203.131.165.250]] ([[User talk:203.131.165.250|talk]]) 03:00, 16 October 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Control system + Control Theory? Not Quite... ==
+
+I believe that it would be a mistake to merge the two articles. Control theory concentrates on the mathematical models. "Control System" concentrates on practical applicatiosn. Control theory often does not take into account some of the issues that are encountered by engineers in the petrochemical industry, mostly because "neat models" do not exist for those reactions.
+
+Having been exposed to both the theory (in college, while studying for my electrical engineering degree) and application (in the petrochemical industry for eleven years), I believe that there is room enough on this Website to distinguish between theory and application.
+
+I like the links at the bottom of the control system article that relate to the types of control systems that are used today.
+
+-- Karen D. Morton, P.E., Control Systems Engineering (U.S., Louisiana)
+
+== untitled response ==
+
+
+often less than $1 US
+
+sorry but often is greatly exaggregated here, yes you can get controllers for below $1 but these are the exeption
+even in quantyties 10k+. check any supplier you like (atmel, microchip, renesas, any).
+
+== MERGE control engineering ==
+As a control engineer myself, I think the Control engineering section covers most of what is covered here (and in fact most of the stuff I was thinking of adding to this page).
+
+== Regarding merger of control theory and control system ==
+
+One can surly merge Control Theory and System but what but the sharp difference both have. Control Theory has Classical and Modern Version, while Control System has lot to deal with Hardware realization. System part should contain application oriented article, specifically how control is applied to varies application. On a litter side, Control System can fail while control theory will never fail.
+
+== I vote for the merge... ==
+
+While I agree with Karen's comment about the need to differentiate between theory and system (practice), the way that "Control system" is presented here is more in line with theory than practice, although I too think the links at the end are appropriate.  I would like to see the redundant theoretical content merged while keeping the two categories separate, and then expanding practical applications of the theory in the "Control system" heading.  
+
+-- Control System engineer, Telvent.
+
+== Merge: Eliminate Redundancy ==
+
+Just because control theory and control systems are not the same thing does not mean that they are nearly inseperable. Both articles would benefit from a merger, because of the inherent redundancy of defining and elaborating upon each topic. Control systems are the realization of control theory; explaining why and how the first works requires knowledge of and elaboration on the second.
+
+:Not so.  Many things have a 'control system' that does not depend on linear feedback, nor have the slightest connection with mathematical control theory.  Examples include traffic lights (simple sequencing, that may alter due to traffic flow or lack of it), hydraulic presses (that may include an interlock to make sure that all safely guards are in place) and just about every other application of a sequencing [[Programmable logic controller|PLC]].  These articles need room to diverge - not be joined at the  hip.  Sure, let's eliminate redundancy (and there's a lot more in [[PID controller]] too), but then let's extend what's left. --[[User:Nigelj|Nigelj]] 18:34, 5 October 2006 (UTC)
+
+
+== Don't merge them ==
+
+They have to do with almost completely different things.
+
+ Anonymous
+
+
+They are too diffrent!!!
+
+Un-named
+
+:Um.  Although that's not a terribly cogent argument, as a former real-time control systems programmer and control theory garduate, I do agree that they are separate concepts and should be handled separately. <b>[[User Talk:JzG|Guy]]</b> 12:24, 20 October 2006 (UTC)
+
+== On/Off or Bang-Bang Linear Control ==
+Bang-Bang is non-linear because it uses the maximum and minimum of the control variable. (If it were linear, it wouldn't have a maximum nor minimum.) I wouldn't want to start a discussion of non-linear control within the context of this article, so I don't know how to correct this without writing a whole book on the topic. Also, although it would add more theoretical material to this article, on/off control is often associated with H-Infinity, time-optimization. Applying the maximum control output has the sometimes desirable effect of reaching the setpoint in the least amount of time.
+[[User:KnockNrod|KnockNrod]] 03:05, 25 August 2007 (UTC)
+
+:I don't like the description (starting directly with an example without any definition), but the least we can do is to move it outside the linear control section. That's what I did. [[User:Engelec|Engelec]] 09:07, 28 August 2007 (UTC)
+
+== Fuzzy logic ==
+
+''However, the fuzzy logic paradigm may provide scalability for large control systems where conventional methods become unwieldy or costly to derive'': if it's more than the personal believing of the author, an authoritative reference would be nice. [[User:Engelec|Engelec]] 20:00, 11 October 2007 (UTC)
+
+== Industrial control systems ==
+
+This article is missing a clear explanation of [[Industrial control systems]], which it seems is a type of control system that this article should mention and summarize. --[[User:Pnm|Pnm]] ([[User talk:Pnm|talk]]) 03:53, 13 December 2010 (UTC)
+
+:Industrial control systems should be a section. My {{tl|missing information}} was removed. I'd be comfortable with a link in [[Control system#See_also]] if it were a topic that just needed a ''mention'', but this is a big omission, and it's worth drawing the reader's attention to it. --[[User:Pnm|Pnm]] ([[User talk:Pnm|talk]]) 23:25, 21 December 2010 (UTC)
+
+::The article is missing a lot of things.  If we're getting into classes of control systems then it's also missing commercial and residential, PC-based control, as well as the triple-redundant nuclear & NASA control systems that I guess are technically industrial but really a class of their own.  The article as it is now is more discussing types of control strategies than types of systems.  It's also missing servo-motion, vision, VSDs and a whole host of other things.  Relay logic, magnetic controls, application specific circuit boards, and on and on.  I mean, controls is a big world.
+
+::I'd say if you want to add a section then by all means, be bold.  Admittedly I've been off Wikipedia for a while, but templating for something like that seems like unnecessary clutter that just uglies up the article.  Does this serve some purpose that I don't recognize? 
+
+::I don't oppose an industrial section, but I'm not sure if the distinction between commercial and industrial is really that important at this point in the article's development.  I'd rather see more details about how control is accomplished.  I mean, you can replace a commercial package controller with a PLC and suddenly it becomes "industrial" but if you're still talking about an electronic actuator driven from a PI loop then I'm not sure that distinction matters much to the reader.  
+
+::I hope that doesn't come off as harsh, I don't mean it that way at all.  I just think adding a template for a specific missing topic is probably not necessary when so many topics are missing.  [[User:Mishlai|Mishlai]] ([[User talk:Mishlai|talk]]) 01:50, 22 December 2010 (UTC)
+
+:::I came to this article via editing [[Stuxnet]] and [[Control system security]] and this article was entirely confusing. Rather than helping to provide context, it baffled me. (I wondered, "is this about something entirely different from [[control system security]]?")
+
+:::What you wrote was helpful. I understand my concern better (at least I think I do) and took a stab at generalizing the {{tl|missing information}}. It didn't sound harsh. I think our perspectives on the topic are just different.
+
+:::A banner hopefully will attract the attention of an interested editor or reader, and draw their attention to my concern. The spirit of {{tl|expand}} might be more fitting. There's an interesting discussion [[Wikipedia:Templates_for_discussion#Template:Expand|going on now]] about the future of {{tl|expand}}. (The banner could also go on the talk page instead.)
+
+:::I wish I understood the topic better. Maybe I'll write a stub section on applications/classes/types of control systems and let someone else make it better. --[[User:Pnm|Pnm]] ([[User talk:Pnm|talk]]) 02:55, 22 December 2010 (UTC)
+
+::::I can see how that would be confusing.  The article starts off talking more about control strategies than actual systems.  I work on this stuff for a living so I guess I'd be a good person to improve the article but I like to work from references rather than personal knowledge when editing wikipedia, just from a sourcing standpoint, and that really slows me down if I can't find sources.  I've often found that in controls a lot of the knowledge is proprietary, and there just isn't a lot of good public info.  I could probably stand to try harder.  If you find anything please drop a link.
+
+::::At least the control systems wikilink in the security article links to [[industrial control systems]] instead of here.
+
+::::Also, that Stuxnet article is awesome.  I didn't know that someone created a PLC rootkit.  Wow. [[User:Mishlai|Mishlai]] ([[User talk:Mishlai|talk]]) 04:18, 22 December 2010 (UTC)
+
+==References and the template==
+Reference suggestions are welcome, as good public information on controls tends to be hard to find.  I left the template down in the references section just to avoid a conflict over it, but it's not clear to me where it should go.  The template for Unreferenced [[http://en.wikipedia.org/wiki/Template:Unreferenced]] states that it should go at the top.  Refimprove  [[http://en.wikipedia.org/wiki/Template:Refimprove]] says that there is no consensus on location. [[User:Mishlai|Mishlai]] ([[User talk:Mishlai|talk]]) 21:33, 21 December 2010 (UTC)
+:There was a recent discussion on templating [http://en.wikipedia.org/wiki/Wikipedia:Village_pump_%28policy%29/Archive_79#Article_cleanup_templates here].  Anything short of a Featured Article is bound to be missing some information.  I don't see the point of tagging the article with a banner, it is only telling the reader what they can already see.  Opening the issue on the talk page is much more likely to be productive. [[User:Spinningspark|<font style="background:#FFF090;color:#00C000">'''Sp<font style="background:#FFF0A0;color:#80C000">in<font style="color:#C08000">ni</font></font><font style="color:#C00000">ng</font></font><font style="color:#2820F0">Spark'''</font>]] 23:30, 23 December 2010 (UTC)
+
+== There *are* no references (really) ==
+{{Unreferenced}}
+This article lacks references, unless you count the one for some specific application of a specific type of control system.
+I will be including a general reference for control systems design (D'Souza), but there are many more texts out there on this topic like the one by Zak that emphasizes non-linear control, or the one by Van de Vegte with a more mathematical perspective.
+
+The fact that the introductory paragraph is bewildering is the least of its problems. Chapter 1 from the three texts I use on this classify and define control systems the same way.  And yet the opening paragraph in this article breaks out control systems differently than these three texts, giving it the smell of "Original Research". Apparently the 'experts' on this topic who did not indicate their Wikipedia User Names seemed to have not read the first chapter of any control systems text -- either that or they slept through class.
+
+With regard to purported lack of public information on control systems, I beg to differ.  In addition to the excellent Springer and Elsevier journals on this topic, are the IEEE and IET journals. They include: IEEE Transactions on Control Systems Technology, IEEE Control Systems Magazine, IET Control Theory & Applications, IET Control & Automation.
+
+Finally, about proposed merges between [[control theory]] and [[control engineering]], I recommend they remain separate, providing a section (or at least a paragraph) be included in each about the other.  I will quit writing about the shortcomings of this article now before I state anything pejorative about this article. [[User:Vonkje|Vonkje]] ([[User talk:Vonkje|talk]]) 23:09, 4 March 2011 (UTC)
+
+::While I am not specialist in control systems, as a process engineer I worked around them on a daily basis and designed piping and instrumentation diagrams and wrote functional descriptions of control loops for the instrument and controls engineers.  I also participated in meetings when control systems were designed and specified.  With these limited credentials I recognized the [[Automation]] article was very poorly written, (as is this one) so I recently performed a major revision that included some material on control systems, and have listed it as the {{Main}} for this article. Now, as for lack of references, I am sure that the engineering journals have plenty of high level articles that someone with access to them and lots of time could get enough references, and some better information, to finish both of these articles.  Unfortunately, I do not know of a "Control Systems for Dummies" type book because most engineers learn this stuff on the job.  No doubt something like this exists, perhaps even one of your referenced texts.  I have no more time to spend on this.  I have asked for a volunteer with a controls background to check the factual accuracy of [[Automation]], but so far no offers of help.[[User:Phmoreno|Phmoreno]] ([[User talk:Phmoreno|talk]]) 03:16, 13 September 2013 (UTC)
+
+== control  system ==
+
+education system is a which type of control system ??  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/113.19.212.60|113.19.212.60]] ([[User talk:113.19.212.60|talk]]) 08:29, 3 May 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Schematic diagram ==
+
+[https://en.wikipedia.org/w/index.php?title=Control_system&curid=275473&diff=632138181&oldid=629532815#PID_control This] is an interesting change. Can we have links to a few textbooks or other suitable sources that use this new format of schematic for control systems these days. I only know the old ones like, for a random example, Fig 12 in [http://sites.fas.harvard.edu/~phys123/analog_labs/lab_op5_pid_july12.pdf this lab worksheet], which is pretty much like the diagram we've had here for the last several years. 
+{|style="margin: 0 auto;"
+| [[File:PID en.svg|thumb|Previous]]
+| [[File:PID en updated feedback.svg|thumb|Current]]
+|}
+--[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 16:44, 2 November 2014 (UTC)
+
+== Comments on the article ==
+
+1. It would be nice to label the images that have no caption.
+
+2. I didn't quite understand what was the purpose of the image in the "Linear control" section so I moved it to the "Proportional control" section which later address underdamping and overdamping.
+
+3. The "PID control" section does not explain that PID stands for '''p'''roportional, '''i'''ntegral and '''d'''erivative. I think the information should be added. Also, proportional control is introduced earlier. It would be nice to add a note to say to refer to the proportionality information above or move the entire "proportional control" section between the "PID control" section and the "derivative action" section.
+
+4. The still image of the response of a system is redundant with the live image of the response of a system. I would consider eliminating the second.
+
+[[User:ICE77|ICE77]] ([[User talk:ICE77|talk]]) 19:41, 13 June 2015 (UTC)
+
+== Disable auto select on my phone ==
+
+Some how the auto select settings got turned on by default a mistake, I need to turn it off.i can't find the setting to Internet Explorer to disable auto select button. [[User:Peggy J Hill|Peggy J Hill]] ([[User talk:Peggy J Hill|talk]]) 19:16, 14 October 2016 (UTC)

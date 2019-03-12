@@ -1,0 +1,249 @@
+{{WikiProjectBannerShell|1=
+{{Maths rating |field=foundations |class=Start |priority=mid}}
+{{WikiProject Systems |class=Start |importance=top |field=Systems}}
+}}
+{{merged-from|Deductive system|16 October 2014}}
+
+== An image ==
+I have an image I've made that I hope someone can make use of:
+
+[[http://taoriver.net/img/for_esw/formal_systems.png]]
+
+I've placed it into the public domain.
+
+-- Lion Kimbro
+
+: I've made several attempts to down load it.  Times out every time. Mind letting us in on what it is a picture of? [[User:Nahaj|Nahaj]] 00:40:44, 2005-09-08 (UTC)
+
+
+"It is not assumed that the metalanguage in which proofs are studied is itself less informal than the usual habits of mathematicians suggest."
+: Sorry?  What does this mean?
+::I think you could rewrite it as "It is assumed that the metalanguage in which proofs are studied is itself at most as formal as the usual habits of mathematicians suggest."  But it's not clear who assumes this or why this can be assumed.  So I've removed the sentence.  -- [[User:Felix Wiemann|Felix Wiemann]] 15:35, 16 August 2006 (UTC)
+
+== Formalism vs finitism ==
+
+''Theorems are then recognized as the possible 'last lines' of formal proofs''. That's OK, but I am not sure I catch the following  phrase: ''The point of view that this sums up all there is to mathematics is often called formalism, but is more properly referred to finitism.''
+
+In my opinion ''formalism'' in mathematics is (very roughly) intended to mean that ''proof'' means ''proof (at least in principle) formalizable inside a formal system''. This has to do with formal systems. It has really little to do with finitism, which (roughly) is a philosophy of ''exixtence'' not of ''proof''. Of course, the question is somewhat vague, since the terms ''formalism'', ''finitism'' in this sense are somewhat vague
+(and, moreover, ''formalism'' is sometimes interpreted in the sense that ''existence'' means just ''a proof for existence''). However I believe that, according to the conventional sense of the terms presently  in use, the phrase is to be considered false, and that this point of view should be actually called formalism. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Popopp|Popopp]] ([[User talk:Popopp|talk]] • [[Special:Contributions/Popopp|contribs]]) 17:05, 29 April 2007 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+:What you're describing as "formalism" is not, I think, the usual understanding of the word. I would call your version something like "epistemological formalism" (that's a phrase I just made up; please don't add it to articles unless you can find it in the literature somewhere -- which you might, because it seems natural enough).
+:The notion more usually called "formalism" is what might, to make the distinction, be further specified as "ontological formalism". What it says is that the objects of discourse of mathematics -- functions, real numbers, perhaps even natural numbers for the purest formalists -- do not "really exist", do not have an ontological status independent of the theories that purportedly describe them. For formalists, an assertion that makes reference to mathematical objects is to be interpreted as saying that the assertion can be proved in some understood formal system. This distinguishes them both from realists/Platonists, who interpret the assertion as making a claim about some real ''things'' (whether the assertion can be proved in a fixed system or not) and from intuitionists and finitists, who consider assertions not meeting certain rigid conditions to be simply meaningless altogether.
+:Finitism is again an ontological rather than epistemological position. It accepts certain things as real, and not others. Generally finitists accept the natural numbers as real, but not the completed totality of ''all'' natural numbers. Especially strict finitists may not accept even all the natural numbers as real -- for example they may consider that <math>10^{10^{10}}</math> has no real existence, and is to be treated, if at all, only from a formalist standpoint. --[[User:Trovatore|Trovatore]] 06:50, 8 August 2007 (UTC)
+
+== Merger of "Axiomatic system" and "Formal system" ==
+
+I suggest a merger of these two pages. I recognize a formal system as a special case of an axiomatic system. There can be axiomatic systems in political philosophy or ethics (I got this from the commentary [[Axiomatic system#Axiomatic method]]) which are not in a strict formal alphabet nor use a formal logic as means to get theorems. The section [[Axiomatic system#Properties]] such very much an appropriate description of mathematical formal systems and so the merger will make this link clearer. The commentaries [[Axiomatic system#Axiomatic method]] and [[Formal system#Formal proofs]] can also be tightened up and expanded with such a merger.
+
+Also note that I'm suggesting a merger of [[Axiomatization]] into [[Axiomatic system]], so perhaps these two issues should be considered together. --[[User:DesolateReality|DesolateReality]] 04:44, 22 July 2007 (UTC)
+
+:I designed the article [[formal]] in the Dutch Wikipedia [[:nl:Formeel]], and it seems to me that it's just the opposite as you recognize: an axiomatic system is a special case of a formal system. 
+
+:In priciple a formal system can be anything based on formal or deductive principles. For example [http://www.britannica.com/ebc/article-9364709]: In logic a formal system is a formal language together with a deductive apparatus by which some well-formed formulas can be derived from others
+
+:It seems to me that this article is incomplete. It only refers to the meaning the term "formal system" has in mathematics. It seems to me that the other field should also be included in this article. - [[User:Mdd|Mdd]] 12:37, 30 July 2007 (UTC)
+
+::I agree this article is incomplete. From what i see, there is no difference between a formal system and an axiomatic system. both use inference rules to deduce theorems from axioms. Can Mdd give me a distinction between these two? Also, what does Mdd think of the merger? if there is no significant distinction between these two, we might as well combine the articles. --[[User:DesolateReality|DesolateReality]] 07:55, 1 August 2007 (UTC)
+
+:The article [[axiomatic system]] already states:  
+:*''An axiomatic system that is completely described is a special kind of formal system''
+:Other kind of formal systems are [[Proof calculus]], [[Formal ethics]], [[Logical system]], [[Lambda calculus]], [[Propositional calculus]]
+:The difference between a formal system and an axiomatic system is that:
+:*An axiomatic system is any set of axioms.
+:*A formal system consists of symbols, grammar, axioms and rules.
+:*Formal systems are linked to formal language, formal methods and formal science. 
+:Not all "formal systems" in theory and in real life are axiomatic systems. So merging both articles is not a good idea. - [[User:Mdd|Mdd]] 18:44, 7 August 2007 (UTC)
+
+::Not only are not all formal systems axiomatic, but also not all axiomatic systems are formal. The claim about a "completely described" axiomatic system being a formal system seems to be related to [[Hilbert's thesis]], which is not uncontroversial -- I think that claim ought to be qualified in the "axiomatic system" article. --[[User:Trovatore|Trovatore]] 20:24, 7 August 2007 (UTC)
+
+:::These articles can be [[Wikipedia:WikiProject Integration|integrated]] in such a way that no article is deleted completely, but rather that the appropriate material is covered in each. [[User:Gregbard|Gregbard]] 22:28, 7 August 2007 (UTC)
+
+::::''Copied from the [[Wikipedia talk:WikiProject Logic]] page:''
+:::A formal system isn't necessarily an axiomatic one. The [[deductive apparatus]] of a system may consist of either [[transformation rules]] (also called [[rules of inference]]), [[axiom]]s, or both. There is no need to do a complete merge in which one article completely disappears. However, the two may be integrated. This usually involves a paragraph that touches on the topic, with a link to the main article using '''<nowiki>{{main}}</nowiki>'''. I think if you look at how they organize big city articles with a section on "History of Denver" (for instance), but with a link to a whole article on "History of Denver." Some form of [[Wikipedia:WikiProject Integration|integration]] might work. [[User:Gregbard|Gregbard]] 21:50, 7 August 2007 (UTC)
+
+:There seems to be an understanding that [[formal system]]s and [[axiomatic system]]s are not the same. Now [[User:Gregbard|Gregbard]] suggests that there are more ways to integrate both articles. My question however remains, why? Merging these two concepts only complicates things. In real life the term "formal system" has much more use and meaning then the term "axiomatic system". But both items seems important enough to have an article of it's own. So why should anyone want to cover all these differences. I prefer to keep things simple. - [[User:Mdd|Mdd]] 22:58, 7 August 2007 (UTC)
+
+I have removed the merger tag, since there is much consensus that formal systems and axiomatic systems are distinct. --[[User:DesolateReality|DesolateReality]] 05:34, 8 August 2007 (UTC)
+
+:Thanks for closing this discussion (disussions like this often just keep going on). It would be nice if some aspects of this discussion would be implemented in this article itselve. - [[User:Mdd|Mdd]] 11:49, 8 August 2007 (UTC)
+
+== Attention from an expert on the subject ==
+I do think this article needs an expert that improves the introduction of this article. This introduction should make more clear that the term formal systems is alos a general term used in logic, mathematics, computer science and linguistics, etc. and in what meanings - [[User:Mdd|Mdd]] 23:39, 7 August 2007 (UTC)
+
+Another improvement to this article can be made if instead of the current list of examples of formal systems, a written section will be dedicated to examples of formal systems? - [[User:Mdd|Mdd]] 11:49, 8 August 2007 (UTC)
+I think it is important to tell that formal systems exist in other sciences that maths or logic. Ex : computer sciences, artificial intelligence, Physics, chemistry...
+[[Special:Contributions/82.235.172.188|82.235.172.188]] ([[User talk:82.235.172.188|talk]]) 11:37, 7 February 2009 (UTC)
+
+== [[deductive apparatus]] ==
+
+We need more sources for the use of the term in this context.  I can produce 4 or 5 sources, both before and after Hunter, which do not use it.  If Hunter is the only source, it's a [[WP:NEO]], even if over 35 years old.  (What's the term for a term which was coined quite a while ago, but ''never'' caught on except in a small community <s>including a certain editor who likes to coin terms</s>.)  &mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 00:55, 18 January 2008 (UTC)
+
+::Gee Arthur, there are infinity sources that don't use all kinds of terminology. I can't believe you make so much trouble for me, and then we get rhetoric on the talk page. The Hunter source uses it, so get used to it. You are intolerant to terminology you are not already familiar with. Please entertain the possibility that you don't have every perspective on things. This term is specifically for both the axioms and any transformation rules. What would YOU call that. Since there is this term, and it is more general it should go in. Furthermore it should go in NONCONTROVERSIALLY. You are a trouble maker plain and simple Arthur. Stop it. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 01:11, 18 January 2008 (UTC)
+
+::Google turns up 75,000 hits. Seriously Arthur Stop Being a Trouble Maker. 
+Okay, its' 1100 hits for "deductive apparatus", but still. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 01:14, 18 January 2008 (UTC)
+
+:::I found some other usages in respectable sources, even if not ''reliable''.  It should go in, but as a '''secondary''' term, as everyone knows what "axioms" and "rules of inference" are.  As for google:
+::::"deductive apparatus" 1170
+::::"rules of inference" 68700
+::::"rules of inference" axiom 36100
+::: &mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 01:17, 18 January 2008 (UTC)
+
+::::Perhaps [http://en.wikipedia.org/w/index.php?title=Formal_system&oldid=185112852 this] revision will be acceptable.  &mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 01:24, 18 January 2008 (UTC)
+
+::"Deductive apparatus" is not the same thing as "rules of inference." "Deductive apparatus" is not the same thing as "axioms." The "deductive apparatus" refers to the whole system used whether it is axioms, rules of inference, or both. Again I ask what term you use for that. The revision as you have proposed is ''incorrect''. 
+:::"...consists of a formal language and a set of inference rules, used to derive..."
+::Only it doesn't necessarily have to have "a set of inference rules" at all DOES IT? You can just use axioms alone. So this wording IS better. You're proposal is clearly worse. It makes a good clarification. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 01:57, 18 January 2008 (UTC)
+
+:::But "axioms" ("postulates", etc.) and/or "rules of inference" or "inference rules" are what are actually '''used''' in the bulk of the literature.  What we ''should'' have is a clarification of what used to be there, and then an additional sentence that the system as a whole is called the "deductive apparatus".  You may work on the last part, but I must insist that "deductive apparatus" be secondary, per [[WP:UNDUE]].  &mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 02:00, 18 January 2008 (UTC)
+
+
+::I don't know what you mean by secondary, since its in the lede. Everything looks all right content wise as far as I'm concerned. However, Arthur, you having been stemming so hard on my edits that you have not seen fit to work on the real problem with this paragraph. All those parentheses are terrible form. Leave me alone Arthur. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 02:07, 18 January 2008 (UTC)
+
+::I'm looking at it again and I'm just going to put it back to the way it was originally. The deductive apparatus is not secondary at all. It is what turns a formal language into a formal system. That's sine-qua-non Arthur. Stop being a trouble maker. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 02:13, 18 January 2008 (UTC)
+
+:::The term [[deductive apparatus]] is not commonly used.  If it appears in the lead at all, it should be defined within this article ''before'' use.  I think this falls under the "principle of least surprise.".  
+:::Alternatively, [[deductive apparatus]] should be merged ''into'' this article, in which case it would make marginal sense to include in the lead.  &mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 02:23, 18 January 2008 (UTC)
+
+::::I am open-minded to a merge that preserves the material. I just don't see why it would be necessary? I think there is potential for some nice examples, etc. in an article on its own. I think apart from how familiar and comfortable the phrase is to you... the concept itself is of note. The article is an opportunity to elucidate on some other topics as well. Don't merge anything yet please. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 03:51, 18 January 2008 (UTC)
+
+::::On further consideration, the more appropriate move would be to merge [[deductive apparatus]] with [[Formal grammar]], and reword the first line: "In [[logic|formal logic]], a '''formal system''' (also called a '''logical calculus''') consists of a [[formal language]] and a [[formal grammar]] (also called a ''deductive apparatus''). The formal grammar may consist of a set of [[inference rule]]s or a set of [[axiom]]s, or have both." Only I'm not sure this is how you use the term formal grammar. They seem to be the same concept. However deductive apparatus seems more precisely correct for this article quite frankly. The deductive apparatus is a sine-qua-non for the formal system. It is the one thing that both the axioms and transformation rules participate in, so it helps make clear what their role is. So, you will have to explain the need to de-emphasize it. If you are not familiar with the term, that has no bearing on its appropriateness. The meaning of the concept itself tells us how significant it is. As the article stands now, Arthur has removed, with his rewording, the idea that a deductive apparatus consists only of the axioms and transformation rules and no other things. He has also made the wording aesthetically lame by setting it off in its own sentence, as if it is an aside. I'm pretty sure that is the effect he was going for. Formal language + deductive apparatus =  formal system. Formal system - deductive apparatus = Formal language. You really are denying the reader a chance to understand the concept in favor of fulfilling some rigid view. It would really seem to be a key concept here. Perhaps some material from articles [[axiom]] and [[rules of inference]] should be merged into [[deductive apparatus]] instead. Does anyone think the fact that it is a metalogical (or at least logical) concept has anything to do with the desire to de-emphasize it? That would be more evidence of my thesis that Wikipedia articles are math-centric to the detriment of the logic aspects of them. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 23:13, 19 January 2008 (UTC)
+
+:::::Your argument only applies to Wikipedia if [[deductive aparatus]] is ''commonly'' used in the appropriate field, which is [[mathematical logic]], even if it were the best term.  (I also don't see how a system with only axioms, and not inference rules, because a '''formal system'''.  It's a [[theory (mathematical logic)]].)  &mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 23:43, 19 January 2008 (UTC)
+
+::::::So you are making sure the Wikipedia is the lowest common denominator. Gee, thanks for attention to that. Yeah we shouldn't go beyond the common in any article, huh, Arthur? I guess we don't need to look beyond that. It looks like you think that your perspective and the perspective of mathematicians are the only ones that matter. You really should learn to work interdisciplianarily rather than always restrict the subject matter to certain areas you feel comfortable with. That's being a fundamentalist, which is terrible.  
+
+::::::Say listen, um, here's a question for you. As a mathematician, what do you think about the ''fact'' that a "A formal system is a formal language with a deductive apparatus." I mean what does that ''mean'' to you?
+
+::::::In an attempt to respond to the last garbled note, I do not remember off hand exactly, how a formal language with just axioms and no rule of transformation gets off the ground. However, I believe it may have something to do with another article whose guts you probably also can't stand: [[substitution instance]]. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 00:16, 20 January 2008 (UTC)
+
+:::::::In Wikipedia articles on some topic we should use terminology that is ''commonly accepted'' and ''commonly understood'' in the area to which the topic pertains, and avoid [[WP:neologism|neologism]]s. Using commonly accepted terminology is not the same as reducing things to the lowest common denominator. While "deductive apparatus" is not ''exactly'' a neologism, it is sufficiently rarely used that its meaning may need to be explained even to accomplished students of formal systems, simply because they may never have encountered the term. Is there any handbook of logic using that term? &nbsp;--[[User talk:Lambiam|Lambiam]] 02:54, 20 January 2008 (UTC)
+
+:::::::::As for "A formal system is a formal language with a deductive apparatus", it looks like defining "formal system" in terms of the previously defined terms "formal language" and "deductive apparatus".  None the terms make much sense in "natural language".  &mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 18:23, 20 January 2008 (UTC)
+
+:Traditionally axioms and inference rules are usually mentioned separately for historical reasons, but an axiom schema is essentially a special case of an inference rule, namely one with zero premises. This is touched upon in the article [[Rule of inference]]: "If the premise set is empty, then the conclusion is said to be a theorem or axiom of the logic." &nbsp;--[[User talk:Lambiam|Lambiam]] 09:35, 18 January 2008 (UTC)
+
+== What is a logical system? ==
+
+Does ''The Cambridge Dictionary of Philosophy'' give a definition of the notions '''logical system''', '''logistic system''', and simply '''logic'''? There is an apparent contradiction between the lede:
+* '''logical system''' (or '''logic''')  = '''formal system'''
+and the subsection "Logical system":
+* '''logical system''' (or '''logic''') = '''formal system''' + '''semantics'''.
+&nbsp;--[[User talk:Lambiam|Lambiam]] 23:31, 6 May 2008 (UTC)
+::It looks like we have discovered that some use different terminology. We should make it clear that some apparently use that term for different things. The one under the logical system section needs a source, perhaps it is an error. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 00:55, 7 May 2008 (UTC)
+:::Does ''The Cambridge Dictionary of Philosophy'' give a ''definition'' of these notions? &nbsp;--[[User talk:Lambiam|Lambiam]] 18:19, 8 May 2008 (UTC)
+::::The CDoP has entries are follows:
+::::*No entry at all for "formal system"
+::::*Under "logical system" it says see Formal semantics, Logistic system.
+::::*Under "logistic system" there is an entry describing a [[formal language]] together with a [[deductive apparatus]]. It also says in the entry that this is "what many today would call a "logic." 
+::::
+::::I find the term "logistic system" archaic myself, but whatever. 
+::::
+::::Perhaps the section titled logical system can be corrected by replacing ''formal system'' with ''formal language,'' or the entire section can be deleted... as long as the whole thing about interpretations, soundness and completeness is elsewhere covered. Be well, [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 19:45, 8 May 2008 (UTC)
+
+:::::I got rid of that section..., changed the order of the related subjects. I think this reflects the order of increasing complexity, one being based on concepts from the previous. I also created the section on interpretations. I hope this kind of helps to frame things. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 20:08, 8 May 2008 (UTC)
+
+The way in which the term "logic" (as a count noun) is actually ''used'' by logicians, it usually includes a semantics for the formal language. Just check the many articles about particular kinds of logics on Wikipedia: most have a section "Semantics" on the same footing as the section "Syntax". Statements such as that Gödel proved that first-order logic is complete, which can be found everywhere, are meaningless unless the logic has a semantics. Our article [[Soundness]] also presupposes that a logical system has a semantics. This is not surprising; a logic without a semantics is utterly useless: what good does it do to anyone to learn that the uninterpretable sequence of symbols "<code>*^^^^^^^^^(^</code>" is a theorem, but "<code>*^^^^^^^^(^^</code>" is not? &nbsp;--[[User talk:Lambiam|Lambiam]] 10:58, 9 May 2008 (UTC)
+
+== x02111 ==
+
+What Unicode symbol is that, and why should it be used in the article?  &mdash; [[User:Arthur Rubin|Arthur Rubin]]  [[User_talk:Arthur_Rubin|(talk)]] 22:21, 21 May 2008 (UTC)
+
+:I agree there's no need for it; TeX can be used if there is a real need for it, and TeX math is much more accessible. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 22:23, 21 May 2008 (UTC)
+
+::I'm sorry Arthur, it just was the closest thing I could find. Thanks for correcting it. Be well, [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 04:29, 22 May 2008 (UTC)
+
+== Ordered quadruple ==
+
+"An ''interpreted formal system'' can be defined as the ordered quadruple <α,<math>\mathcal{I}</math>,<math>\mathcal{D}</math>d,<math>\mathcal{D}</math>>." Shouldn't it be stated what the components of the quadruple represent, such as ", in which α is an [[alphabet (computer science)|alphabet]], ..."? From the remainder of the section I could not deduce what kind of entities the components represent and what constraints exist among them. &nbsp;--[[User talk:Lambiam|Lambiam]] 17:15, 23 May 2008 (UTC)
+:You are correct. I have inserted the definitions. Sorry it took so long. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:57, 25 May 2008 (UTC)
+
+== From formal language ==
+
+"A formal language is a set A of strings (finite sequences) on a fixed alphabet α. While a formal language can be thought of as identical to its set of well-formed formula, a formal system cannot be thought of as identical with its set of theorems. Two different formal systems may produce the same set of theorems."
+
+The problem with this is that it creates the impression that the set of theorems is not a formal language.  Which it clearly is.  [[User:Taemyr|Taemyr]] ([[User talk:Taemyr|talk]]) 14:12, 18 September 2009 (UTC)
+
+== Added further reading ==
+
+There's no universally agreed way to define a logical system. There's even an entire book devoted to the topic, which I've added to the further reading section. It should be a rich resource for this article, much better than the Dictionary of philosophy. [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|<small>ping</small>]] 05:48, 19 September 2009 (UTC)
+
+== Requested move ==
+<div class="boilerplate" style="background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;"><!-- Template:RM top -->
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was '''no consensus'''. [[User talk:harej|@]]'''[[User:harej|harej]]''' 13:38, 20 October 2009 (UTC)
+
+----
+
+
+[[:Formal system]] → [[Logical system]] — Relisted for further input. --[[User:RegentsPark|RegentsPark]] <small>([[User talk:RegentsPark|sticks and stones]])</small> 12:41, 3 October 2009 (UTC)
+
+This seems to be the preferred terminology in modern literature, to the point that a whole book titled "What is a logical system" has been published. [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|<small>ping</small>]] 05:49, 19 September 2009 (UTC)
+:I believe, as often, that two different terms mean two slightly different things. A ''formal system'' need not be logical; it need merely be formalized. [[User:Pmanderson|Septentrionalis]] <small>[[User talk:Pmanderson|PMAnderson]]</small> 20:06, 19 September 2009 (UTC)
+::True, and conversely a logical system need not be formal.  This move would require us, at the top of the article, to explain that we're not talking about, say, Aristotle.  That's a significant annoyance for little if any gain. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 20:17, 19 September 2009 (UTC)
+:::[[Logical system]] redirects here though, so if the distinction needs to be made then we still need to make it.  [[User:Taemyr|Taemyr]] ([[User talk:Taemyr|talk]]) 21:01, 19 September 2009 (UTC)
+::::Yeah, you're right, assuming and not necessarily granting that the redirect is appropriate in the first place.  However to me a hatnote referring to the redirect seems less problematic than having the article title itself be confusing.
+::::I don't claim to always be consistent on this point; for example, I do seriously think that the current solution with regard to [[indicator function]] and [[characteristic function]] is seriously flawed.  The ''indicator function'' material should be under the name ''characteristic function'', which is overwhelmingly the more common name for it, in spite of the fact that probabilists use the latter phrase for something else.  In this case, though, my intuition is that ''formal system'' is the more precise name, and used enough (unlike ''indicator function'') to justify keeping it here. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 23:07, 19 September 2009 (UTC)
+
+Both "formal system" and "logical system" can have informal meanings. [[Peter Aczel]] [http://books.google.com/books?id=XqCu4XjHrIQC&pg=RA1-PA261&dq=aczel+schematic+consequence&lr=#v=onepage&q=aczel%20schematic%20consequence&f=false says so], and practically all other authorities writing essays in that book agree on that much. The issue at hand is what this article describes&mdash; it presently describes ''one'' of the possible definitions of a logical system, the closest being [http://books.google.com/books?id=XqCu4XjHrIQC&pg=RA1-PA217&dq=Arnon+Avron,+%22What+is+a+logical+system%3F%22#v=onepage&q=Arnon%20Avron%2C%20%22What%20is%20a%20logical%20system%3F%22&f=false this one]. [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|<small>ping</small>]] 01:19, 20 September 2009 (UTC)
+
+"Formal system" can indeed have an even wider spectrum of definitions, not necessarily making use of a "logical" notion of consequence/inference. For instance, the topmost external link in this article defines: "A  formal system is like a game in which tokens are manipulated according to rules in order to see what configurations can be obtained." This article is more narrow in scope in that it often refers to inference and proofs. Compare with [[Jon Barwise]]'s [http://books.google.com/books?id=XqCu4XjHrIQC&pg=RA1-PA76&dq=%22A+logical+system+is+a+mathematical+model+%22#v=onepage&q=%22A%20logical%20system%20is%20a%20mathematical%20model%20%22&f=false informal definition] of a logical system: "A logical system is a mathematical model of some pretheoretic notion of consequence and an existing (or possible) inferential practice that honors it." I think its self-evident that "logical system" deserves an article by itself, and since the ''current article'' describes one the possible defs for a logical system it should be renamed that way.
+
+The confusion comes come from the fact that the ''particular'' definition of a logical system given in this article is traditionally called a 'formal system'; see [http://books.google.com/books?id=XqCu4XjHrIQC&pg=RA1-PA219&dq=Traditionally,+a+formal+system+is+undestood#v=onepage&q=&f=false]. So, another possible solution is to make 3 articles: one of [[formal system]] in general (like the def above with game of tokens etc.), one on [[logical system]] (to discuss various notions), and one on [[formal system (logic)]], with the present contents of this article but starting with "In [[logic]], a formal system is a particular notion of a [[logical system]]..." [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|<small>ping</small>]] 02:28, 20 September 2009 (UTC)
+
+*'''Split''' per reasoning in the discussion above. [[Special:Contributions/76.66.197.30|76.66.197.30]] ([[User talk:76.66.197.30|talk]]) 13:35, 3 October 2009 (UTC)
+*Most formal definiotions have informal interpretations.  They are given because they are frequently useful for forming an intuition of the subject.  That in itself seems an insufficient reason for a split.  For example the informal definition "A  formal system is like a game in which tokens are manipulated according to rules in order to see what configurations can be obtained." is equivalent to the formal definition.  The tokens make up the alphabet of the language, and the rules will be the inference rules allowed.  Obtainable configurations correspond to theorems and initial configurations are our axioms.  So it's quite nice informal defintion.  However I am not of the oppinion that a formal system by necessity is a logical system, however I would like an example of a formal system that does not describe a logic before I would support a split such as the one proposed.  [[User:Taemyr|Taemyr]] ([[User talk:Taemyr|talk]]) 11:19, 20 October 2009 (UTC)
+
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.</div><!-- Template:RM bottom -->
+
+== Tags ==
+There have been added several tags, including pov title, and accuracy. I am pretty sure the title was already discussed a long time ago, and a consensus was reached on "formal system." I am not sure exactly what accuracy issues are being considered.
+
+'''Untag''' -- no sufficient cause to move titles, no accuracy issues identified [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 18:22, 20 October 2009 (UTC)
+
+*'''Retain tags''' and ban Greg Bard from the article; the issues on accuracy and POV are fairly well described in the preceeding sections - if he will stay out of the way, I'm sure the commentators will be happy to fix them. [[User:Pmanderson|Septentrionalis]] <small>[[User talk:Pmanderson|PMAnderson]]</small> 03:56, 8 November 2009 (UTC)
+:Excuse me? Are you not capable of working with others? You have still failed to respond to the request for an actual claim in the article which is disputed or inaccurate. If you do not provide one, then you are demonstrating that you are not a good faith editor. You have to make it possible for civil discussion about content. Otherwise you are being a troll. This is uncalled for and the tags will be removed if there is no case made by yourself for them. Don't try to avoid the issue by attacking me either. You are on notice. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 05:04, 8 November 2009 (UTC)
+::No, I am one of many editors with whom GregBard cannot work, as the discussion above makes clear. This is the imposition of an arbitrary POV by a single editor; I do not now have the time or expertise to get this right - my field is algebra; but it is clearly wrong.  [[User:Pmanderson|Septentrionalis]] <small>[[User talk:Pmanderson|PMAnderson]]</small> 14:26, 8 November 2009 (UTC)
+::You have still failed to actually tell us what your problem with the article is. However you have managed to identify yourself as a trouble maker. At any point you decide to grow up and engage in civil discourse, I will join you. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 05:22, 9 November 2009 (UTC)
+:::See also Charles matthew's comments, two sections down. [[User:Pmanderson|Septentrionalis]] <small>[[User talk:Pmanderson|PMAnderson]]</small> 23:38, 9 November 2009 (UTC)
+
+== Copy-paste registration ==
+
+* In this [http://en.wikipedia.org/w/index.php?diff=149813398&oldid=147018725 edit] a section is copy/paste from the [[Formal language]] article, and an other section from the [[Formal grammar]] article. -- [[User:Mdd|Mdd]] ([[User talk:Mdd|talk]]) 12:00, 29 October 2009 (UTC)
+
+==Moving ahead==
+
+Whatever the definitional and terminological level gets resolved to, it seems clear that this article fails to explain the role of formal systems. There is a throw-away remark about "formalism". [[Formalization]] redirects to the page, but is not seriously discussed (why no mention of the immense efforts to formalize theories? - both applications and history seem to have gone missing). [[User:Charles Matthews|Charles Matthews]] ([[User talk:Charles Matthews|talk]]) 17:15, 8 November 2009 (UTC)
+
+:These are all wonderful and legitimate concerns. However, they do not really justify Pmandersons' tags or attitude (he has appealed to your note here for justifying his actions). Suffice it to say the the article could use some expansion. However, I still don't see any POV issues here at all. I will work on it soon, and consider your input. Be well. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 00:26, 10 November 2009 (UTC)
+::Of course you don't; it's your POV. (And please stop working on this article; you've done enough harm already.) [[User:Pmanderson|Septentrionalis]] <small>[[User talk:Pmanderson|PMAnderson]]</small> 03:32, 10 November 2009 (UTC)
+::Um yeah, you go ahead and quit editing Wikipedia entirely since you can't be civil. Not going to? Gee I guess we both wasted our time releasing our annoyed bowels. No body cares how annoyed you are PM. It's your own choice. Grow up. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 03:56, 10 November 2009 (UTC)
+
+==Would renowned science book publisher tagged as unreliable source?==
+Some people have a lot of gaul. McGraw Hill is one of the leading recognized publishers of educational books and scientific referances. It seams that some other editor here thinks a definition from a world renowned publisher's technical terms dictionary is wrong.[[User:Steamerandy|Steamerandy]] ([[User talk:Steamerandy|talk]]) 00:20, 5 February 2015 (UTC)
+:There are a number of scientific publishers who also publish unscientific books.  I believe, for example, the [[jargon dictionary]] is published by a reputable publisher, but it, itself, is '''not''' a [[WP:RS|reliable sources]].  — [[User:Arthur Rubin|Arthur Rubin]]  [[User talk:Arthur Rubin|(talk)]] 00:42, 5 February 2015 (UTC)
+::That's both incorrect and misleading.  Please refer to [[Wikipedia:Identifying_reliable_sources#Context_matters]] when determining the reliability of the jargon file, [[Cargo_cult_programming#cite_note-4]].  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2600:100D:B12F:2B28:C218:85FF:FE74:69E4|2600:100D:B12F:2B28:C218:85FF:FE74:69E4]] ([[User talk:2600:100D:B12F:2B28:C218:85FF:FE74:69E4#top|talk]]) 17:36, 26 September 2016 (UTC)</small> <!--Autosigned by SineBot-->
+:I have a problem with this cite.  Not so much due to it's reliable or not, but it comes at a point where I would expect to see a cite for the claim that "The two main categories formal grammars are".  I am also unsure if the fact that some texts uses "Reductive grammar" rather than "Analytic grammar" is relevant to the article.  [[User:Taemyr|Taemyr]] ([[User talk:Taemyr|talk]]) 13:53, 5 February 2015 (UTC)
+::The reference is a science-technical Terms Dictionary. So Arthur's statement does not apply. I am not the source of the two categories here. I do agree that two catagories exist. At least say a formal language can be defined by productive or reductive rules. Or simply rules living the spicifics to be explained.
+
+::I found "redictive grammar" used in documents from the 60's. I remembered it being used in discussions at SegPlan meatings. But that was a long long time ago. I then found it defined in several online dictionaries. McGraw Hill the most prestigious one. A search for Analytic grammar does not include the McGraw Hill dictionary. The term ''reductive grammar'' is used in the Bison parser description.  Haskell selects the upmost reduction rule of a given name in the grammar file. So at least two modern compiler compilers are using the turm reduction rules in their grammar specifications.
+
+::Another equilivant is recognition grammar. The best known of the recognition grammars are the categorial grammars introduced by K. Ajdukiewicz and Y. Bar-Hillel.
+
+::Analytic, reductive and recognition grammars are all the same thing.
+
+::It may not be that formal grammar be no more then production rules. But formal languages in computer science can and have been defined in reductive, or analytic grammars. Or recognition grammars. All these different terms come from lack of knowledge of previous work. So we wind up with this situation were we have several labels for the same thing. [[User:Steamerandy|Steamerandy]] ([[User talk:Steamerandy|talk]]) 21:52, 5 February 2015 (UTC)
+
+::The McGraw Hill book I refetanced can be purchased on Amazon. (It's out of stock) There are reviews of it there. Read them and tell me that it isn't an acceptable reference. It is acceptable to MIT and University California Irvine libraries. Had some friends check.[[User:Steamerandy|Steamerandy]] ([[User talk:Steamerandy|talk]]) 07:26, 6 February 2015 (UTC)
+
+== No semantics needed ==
+
+{{quote|A logical system or, for short, logic, is a formal system together with a form of semantics}}
+
+I've never seen this definition of a "logic" before. In my experience, corroborated by the [http://plato.stanford.edu/entries/logic-modal/ SEP article "Modal logic"], a logic is a language (set of formulae) with an associated set of inference rules; i.e., it's purely formal and the semantics are optional. [[User:Qwertyus|Q<small>VVERTYVS</small>]] <small>([[User talk:Qwertyus|hm?]])</small> 14:47, 4 June 2015 (UTC)
+
+== Confusing lead section ==
+
+The lead paragraph currently mentions Spinoza and their work being based on Euclid, but does not mention how either of them relate to formal systems. There is no mention of them in the rest of the article, so should it just be removed or reworded with an expanded explanation later in the article?
+I don't know enough about the subject to do this myself (other than to remove it completely). [[User:Spike &#39;em|Spike &#39;em]] ([[User talk:Spike &#39;em|talk]]) 10:24, 14 September 2018 (UTC)

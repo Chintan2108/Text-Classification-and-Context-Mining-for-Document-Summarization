@@ -1,0 +1,341 @@
+{{Vital article|level=4|topic=Philosophy|class=C}}
+{{WikiProjectBannerShell|1=
+{{Philosophy|class=C|importance=high|metaphysics=yes|language=yes}}
+{{maths rating|frequentlyviewed=yes|class=C|importance=high|field=General}}
+{{WikiProject Linguistics|class=c|importance=|philosophy=yes}}
+{{WikiProject Psychology|class=c|importance=}}
+{{WikiProject Systems|class=c|importance=}}
+}}
+
+== Make graph 1 correct ==
+
+'''Please, change (graph 1) according to [[https://commons.wikimedia.org/wiki/File_talk:Cat-on-mat.svg]]. Thanks.'''  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/87.237.43.34|87.237.43.34]] ([[User talk:87.237.43.34|talk]]) 13:35, 30 June 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+==Untitled==
+See [[Category talk:Abstraction]].
+
+[[User:Brianjd|Brianjd]] 08:14, Nov 6, 2004 (UTC)
+
+== Neurology ==
+I'm no neuroscientist, but as a lefty my understanding is that most people are right handed to begin with, and this is controlled by the left hemisphere. Therefore, what is remarkable about finding a bias for the left hemisphere in tool use, regardless of lesions? I would appreciate a fuller explanation of the paper cited to in fn 2.[[User:Natcolley|Natcolley]] ([[User talk:Natcolley|talk]]) 14:46, 28 June 2009 (UTC)
+
+== Abstraction versus Classification ==
+
+In the introduction abstraction and classification are conflated:
+
+:''Abstraction is a process by which higher concepts are derived from the usage and classification of literal ("real" or "concrete") concepts, first principles, or other methods. An "abstraction" (noun) is a concept that acts as a super-categorical noun for all subordinate concepts, and connects any related concepts as a group, field, or category.''
+
+Abstraction involves the removal of detail (its etymology rooted in the notion of ''drawing off''), hence the ability to treat something physical in a conceptual and theoretical way. Although abstraction is often used in the process of classification, it is not equivalent to it. For example, the London Underground map represents an abstraction of London with respect to a particular rail network. It is a simplification but not a classification or generalisation. So, although an abstraction may serve as a general category for subordinate concepts, that is but one application of abstraction rather than a definition of abstraction.
+
+--[[User:Kevlin|Kevlin]] ([[User talk:Kevlin|talk]]) 16:08, 8 December 2011 (UTC)
+:Kevlin, you are right. Please '''be bold''' & update the lede paragraphs. --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 11:54, 9 December 2011 (UTC)
+== Suggestion to Remedy Odd Aspect of Introduction ==
+
+The statement that "Abstraction is the rendering of the general case from which an instance occurs." is a little odd. It suggests that abstraction is ontologically prior to instantiation, that all instantiation is somehow derived from abstraction. How exactly could this ever possibly be the case? It's like saying that the abstract characteristics of what a dog is creates the dog. It suggests that the abstraction is somehow more real. It's an oddly platonic way of thinking about the world.  I suggest rephrasing to "Abstraction is the rendering of the general case from an instance." This would basically reconsider abstraction as a characterisation of thought rather than hierarchical theory of reality. I'm not gonna change this myself because this isn't my area so I won't be reading your replies and I wouldn't know where to begin looking for textual support to justify the change myself. [[User:Seferin|Seferin]] ([[User talk:Seferin|talk]]) 11:30, 28 February 2008 (UTC)
+:I propose using some of [[Suzanne K. Langer]]'s formulation to rewrite the lead sentence. --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 19:21, 28 February 2008 (UTC)
+
+== Some problems ==
+
+''Problems begin to arise, however, when we try to define specific rules by which we can determine which things are very abstract, and which concrete.''
+
+I see no problems that are brought out to reify this point.  I see only eamples that show abstraction is a continuum.  Perhaps the article should say that instead.
+
+''We might look at other graphs, in a progression from cat to mammal to animal, and see that animal is more abstract than mammal; but on the other hand mammal is a harder idea to express, certainly in relation to marsupial.''
+
+This seems wrong-headed.  We should expect increasingly abstract things to be increasingly easy to understand (except perhaps at the fringes, like with "being" or "totality").  The more concrete an object is, the more difficult it is to grasp a concept that clearly delineates that object.  Hardness of expression hardly seems to be a relevant criteria for abstraction.
+
+Finally, I'd like a reference and some detail for the neurology bit.
+[[User:KSchutte|KSchutte]] 04:23, 23 July 2005 (UTC)
+
+== Introduction ==
+
+In the intro:
+
+:''An abstraction is an idea, concept, or word which '''defines''' the phenomena that make up its referents (those concrete events or things to which the abstraction refers).''
+
+Shouldn't it be "an idea, concept, or word which ''represents'' the phenomena"?  How can an idea, concept or word ''define'' a phenomenon?
+
+[[User:Montalvo|Montalvo]] 16:43, 29 November 2005 (UTC)
+
+If no one objects, I'm going to change this definition to 
+:''An abstraction is an idea, concept, or word which '''describes''' the phenomena that make up its referents (those concrete events or things to which the abstraction refers).''
+
+because the word '''defines''' in this definition is wrong.  I could also settle for '''represents''' in here.  But defines is too strong because abstractions necessarily leave some things out.  They are not a total characterization of a phenomenon.
+
+[[User:Montalvo|Montalvo]] 19:06, 11 December 2005 (UTC)
+
+Your change would definitely be an improvement, Montalvo, but the given definition still seemed broken. That is, the referrents mentioned should not be the abstraction's referrents but rather the referrents of the words for the concrete objects to which the abstraction applies. If they were really the referrents of the abstraction, we'd have a circular definition (because every word necessarily describes its own referents). So, I rewrote it and added a simple example, as follows:
+: An abstraction is an idea, conceptualization, or word for the collection of qualities that identify the referent of a word used to describe concrete objects or phenomena. For example, the abstraction applehood is the collection of qualities that identify the referrent of the word "apple" in the phrase "the apple on the table".
+How does that sound? [[User:Rodasmith|The Rod]] 06:12, 12 January 2006 (UTC)
+
+== Plato ==
+
+I think [[plato]] was the first one to realize the importance of abstration and how our minds are built upon it. He talked about it in different terms, and he maybe thought that the abstractions where the only things that really existed. But I think he is the father of the whole concept and therfore I think it would be appropriate to somehow mention this.--[[User:Mandelum|Mandelum]] 13:23, 22 May 2006 (UTC)
+
+: Surely something needs to be said about Aristotle in this regard? [[User:Safebreaker|Safebreaker]] ([[User talk:Safebreaker|talk]]) 08:49, 19 March 2011 (UTC)
+
+== Computer Science ==
+
+Abstraction is an incredibly important concept in computer science, especially as it relates to object-oriented programming; a section has been added (following the paradigm "Abstraction in the {name of field}".--[[User:BishopOcelot|BishopOcelot]] 00:15, 6 August 2006 (UTC)
+
+== Abstration in Art ==
+
+What is the point of the "Robert Stark" quote? <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/67.71.53.92|67.71.53.92]] ([[User talk:67.71.53.92|talk]]) 04:17, 24 April 2007 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+
+== Defining Abstration  ==
+
+I have a problem with the article in that it creates the impression that there is a divide between an idea or a concept once it is abstracted and I stand by the point that abstracting something is not necessary a process of generalization or simplification and further divorcing it from the specific or the concrete. My problem with many definitions that many use to define abstraction is firstly that they define it as a process wherein ideas are distanced from objects and through either generalization or simplification reducing information for a particular purpose or thinking strategy. I have a problem with this firstly in how those ideas are communicated and represented. This is a particular problem when we move from the specific to many. I don’t believe abstract thinking is simply divorcing a idea from the object but rather more a process of emphasizing a common characteristic of the object. The emphasis here is lifting out or highlighting what is common rather than what is unique, extracting the underlying essence and also that it should be communicated as such. Obviously if one is isolating what is unique it is still may be abstracted but should be communicated as such. Abstraction should not be seen as necessary merely simplifying a concept to a simple an ambiguous, vague, or undefined concept. I abstract many trends in working out my costing and subject them to many formulas to workout cost effective solutions but I cannot lose sight of  the specific clients I want to apply it to at the end of the day. One specific client may be just another variable in my formula but still remains a very important client.
+philco@mweb.co.za
+
+
+== RE: Defining Abstraction ==
+I share many of your concerns with how abstraction is defined.  It seems that 'abstraction' must mean something different that 'extraction'.  It seems many of the definitions confuse such that it appears that 'abstraction' is just extracting some information from some thing for a good reason.  It must be more. Abstraction, perhaps, should be defined in term of a positive definition.  Many times extraction is defined as 'hiding' or 'ignoring' information.  I think that might be confusing.  The essense of abstraction is the discovery of a property in more than one concrete thing (however we define as our concrete things).  So I agree with philco.  I'm not sure however if unique features can be abstracted, by definition.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/207.34.170.248|207.34.170.248]] ([[User talk:207.34.170.248|talk]]) 23:59, 12 September 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== RE: Defining Abstraction ==
+
+Gauge symmetry or multiverse are abstract concepts. Do they fit with the proposed definition?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/84.120.172.170|84.120.172.170]] ([[User talk:84.120.172.170|talk]]) 11:59, 31 December 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Section on philosophical terminology. ==
+
+Lestrade, The reason I propose  reverting your edit is that this section on Thought Process is philosophical and ontological and not psychological. As as example, I  quote from [http://www.artima.com/intv/abstreffi.html an interview with Bjarne Stroustrup]:
+
+"Raising the Level of Abstraction ...
+
+Bjarne Stroustrup: A high level of abstraction is good, not just in C++, but in general. We want to deal with problems at the level we are thinking about those problems. ...
+Abstraction is a mechanism by which we understand things. ...
+I believe raising the level of abstraction is fundamental in all practical intellectual endeavors. I don't consider that a controversial statement, but people sometimes consider it controversial because they think code at a higher level abstraction is necessarily less efficient. 
+...
+The only code faster than the fastest code is no code. By abstracting to matrix manipulation operations, you give the compiler enough type information to enable it to eliminate many operations. ... "
+
+If you wish to add  material on perception, please add it to a new section.
+--[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 12:48, 30 December 2007 (UTC)
+:Abstraction can be practical: for example in the [[SD card]], "These card readers present a standard USB mass storage interface to memory cards, thus separating the operating system from the details of the underlying SD interface." --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 16:43, 30 December 2007 (UTC)
+:From the ''New York Times'', December 30, 2007: 'David Heath, co-author of "Made to Stick: Why Some Ideas Survive and Others Die." The "curse of knowledge," is the paradox that as our knowledge and expertise increase, our creativity and ability to innovate tend to taper off because the walls of the box we think inside of thicken along with our experience.'
+:--[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 17:12, 30 December 2007 (UTC)
+:Lestrade, Here are some citations on 'conceptual distance', courtesy of Google
+:*[http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ465723&ERICExtSearch_SearchType_0=no&accno=EJ465723 	Lee, Joon Ho (1993) EJ465723 - "Information Retrieval Based on Conceptual Distance in Is-A Hierarchies".]
+:*[http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WHD-4BWYP2W-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=26a081c77ceaea3be79dc801e19e45ed Jorge E. Caviedes and James J. Cimino(2004) "Towards the development of a conceptual distance metric for the UMLS"]
+:*[http://portal.acm.org/citation.cfm?id=56928 Y. Kodratoff, G. Tecuci (1988) "Learning Based on Conceptual Distance"]
+:I believe these suffice to show that the concept of 'conceptual distance' has existed for decades, if not longer. --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 00:13, 31 December 2007 (UTC)
+Lestrade, while sorting through my books, I found a reference which may be useful to this article: [[Mortimer J. Adler]] (1985), ''Ten Philosophical Mistakes: Basic errors in modern thought - How they came about, their consequences, and how to avoid them'' {{ISBN|0-02-500330-5}}
+
+Now Adler admits in his book that he also falls into the errors which he categorizes, but I believe that his first point may resonate with a definition which based in ''perception'', as you attempt. However, this is more suited to the talk page, rather than directly on the article. I propose that we work together somehow. Here is an abstract of the first mistake. I place the abstract (or precis) in 'single quotes' to denote the ideas which I read from Adler. However, I believe it is inappropriate to wholesale lift the abstract for use in the article, because after all, these are Adler's ideas:
+*Mistake #1: '''failure to differentiate between two realms of thought, the perceptual and conceptual'' p. xvi - "our ideas have the special characteristic and function of placing objects before our minds. It is always the idea's object of which we are directly conscious, not the idea itself. Ideas themselves are nothing but the means whereby we apprehend the objects they have the power to place before our minds. They themselves are inapprehensible." Thus after correcting this mistake, Adler finds there are 3 realms to differentiate 1) physical reality 2) all objects of thought 3) our individual, incommunicable subjective experience.' -- chapter #1: concerning consciousness and its objects, by Mortimer Adler. 
+
+The whole point which I attempt to convey is the idea of ''differentiation'', which you term ''subtraction'' in your note below. There is not much difference between this and ''distancing'', in my view, only that distance implies a continuum or spectrum, where 'subtraction' has more of a discrete feel. --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 12:24, 2 January 2008 (UTC)
+:Before we get hung up on realm 3) 'our individual, incommunicable subjective experience' note that this is the exact same idea as [[F. A. von Hayek]]'s [[subjective theory of  value]].
+:As I am sure you know, [[John Locke]] did work in this field, and Adler (and also [[Grady Booch]]) discuss the objects of knowledge, which I denote by realm 2).
+:Adler was an unabashed [[Aristotelian]], which ought to give you some idea of his position on realm 1).
+Here is another reference: John Wilson (1963), ''Thinking with concepts'' SBN 521 0961 4. Note that the reference pre-dates the ISBN format. Wilson was formed by the UK system where Adler's viewpoint was formed in the US. Wilson promises to expose techniques suitable for sixth form (I'm not sure what level that means). --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 13:19, 2 January 2008 (UTC)
+
+==Failed attempt at clarification==
+I tried to replace this sentence ("abstraction is the thought process wherein ideas are distanced from objects") but I was reverted. What does the verb "distanced" mean here? Does it mean that ideas are placed at a location that is remote from objects? That is an absurdity. What is the definition of "ideas" here? That word is very ambiguous and is used to designate many different concepts. What is the definition of "objects"? Do we know objects directly as they really are? Are they things that are as they are regardless of an observer's viewpoint? I consider the sentence "abstraction is the thought process wherein ideas are distanced from objects" to be very unclear, obscure, and carelessly written. Since Wikipedia is not affiliated with academia, such a sentence seems out of place.[[User:Lestrade|Lestrade]] ([[User talk:Lestrade|talk]]) 21:36, 30 December 2007 (UTC)Lestrade
+:[http://en.wikipedia.org/wiki/Abstraction#Thought_process Please read the offending sentence in the context of the rest of that section]. Objects and ideas are the stock in trade of people like [[Grady Booch]]; I recommend the first edition of his book ''Object-Oriented Analysis and Design with Applications''. There are such people as computer software ontologists who actually work with this. This is not academic. There are actually robotic cars that drive themselves, etc., whose computer programs have to deal with various levels of abstraction. But the subject has existed for 50 years, now, with the computer programs of [[Herbert Simon]], [[Allen Newell]], and [[Cliff Shaw]], for example. --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 11:12, 31 December 2007 (UTC)
+It is evident that the word ''abstraction'' is ambiguous. As such, it designates more than one concept. The article should specify the various concepts that are signified by the word ''abstraction''. We have logical abstraction, philosophical abstraction, artistic [[Abstract art|abstraction]], mathematical [[Abstraction (mathematics)|abstraction]], [[Abstraction (computer science)|abstraction]] in computer science, psychological abstraction, and who&ndash;knows&ndash;how&ndash;many&ndash;more abstractions. [[User:Ancheta Wis]] may want computer scientific [[Abstraction (computer science)]] to dominate the article, as though that discipline had rightfully appropriated the word. Computer Science has appropriated many other words, such as [[Ontology]] and [[Object (computer science)]], thereby increasing ambiguity and confusion. If we want the Wikipedia article to add to the confusion and misunderstanding in the world, then we can continue to emulate Computer Science and take possession of words that already have their conventional meanings and use them to signify any concepts that we please. 
+
+The main definition of abstraction is the process of subtracting (withdrawing)  predicates from perceived objects until we arrive at a predicate that is common and shared by all of the perceived objects. This common predicate is the essential attribute and it constitutes the concept of all of the objects in general. It is called the abstract concept. The sentence "abstraction is the thought process wherein ideas are distanced from objects" is not the main definition of ''abstraction''. Its undefined use of ambiguous words such as ''ideas'' and ''objects'' makes it a sentence that is obscure and non&ndash;communicative. Some people, such as academics and exhibitionists, enjoy being obscure and non&ndash;communicative. It is not appropriate in an encyclopedia article, however.[[User:Lestrade|Lestrade]] ([[User talk:Lestrade|talk]]) 01:04, 1 January 2008 (UTC)Lestrade
+
+== A few thoughts on information, reality, existance and abstraction ==
+
+Please excuse me if this is not the appropriate page to submit this, but I would like to share my thoughts on the subject for reviewal by others. I would also like to apologise for the extension of my contribution; I find it very difficult to express the same information in less words.
+
+One of my conclusions is that every single thing, real or imaginable, is information; in several ways, the words "information" and "energy" describe ''the exact same thing''. But before arriving to that conclusion, I would like to begin by defining the maybe-seemingly unrelated concepts of space and time as I understand them, since they are a key to understanding the two fundamental types of information there seem to be.
+
+Given that the word "space" is often preceded by the preposition "in", many people tend to think of space as a place; a bit as if we say "Wouldn't it be cool to live ''in Tokyo''?" However, space is not a place but a concept, more like when we say "Wouldn't it be cool to live ''in harmony''?"
+
+''Space'' does not exist, nor has it ever existed; it is ''not'' out there. The word "space" describes the fact that one can move in any direction along three perpendicular axes, and nothing will stop its movement. And if something does, I can assure you that it will not be space, but ''something''. How could it be space, if that is ''nothing'' but a concept? Things do not crash into space; things crash into things.
+
+In lexical terms, the words "space", "nothing" and "zero" are words that describe, in different contexts, the same concept; the complete lack of anything. If you think about it, it makes sense: when someone gives you a box full of ''space'', a box with ''zero'' things inside it, someone is giving you ''nothing''.
+
+''Time'' is also a concept, although a little more difficult to represent due to its abstract nature. If the word "space" describes the fact that things can move, the word "time" describes the fact that things indeed move.
+
+Imagine we are given two pictures of the same clock, and we are asked to determine how much time has lapsed between them. It is an easy task: we just need to measure how much each hand has moved, and relate that to how much time has passed. For example, if the short hand has moved about 30º (one twelfth of the circumference) and the long hand has moved about 90º (one quarter of the circumference), then about 1:15h have elapsed between both pictures.
+
+However, what if both pictures look exactly the same? What if the hands have not moved at all? Then ''no time'' has elapsed; both pictures have been taken ''at the same time''. Furthermore, if we were to stare at either picture for several hours, we would always see the same time displayed on it. Time, on a still photograph, is frozen. Simply put, when things move, our brains perceive time to be running. When things are still, our brains perceive time to be stopped.
+
+But time has a feature that distinguishes it from space; time is clearly ''directional''. Things can move in any direction in space, but time always goes forward. Why?
+
+Think of a steel cylinder, enclosed in one of the sides by a moveable piston and filled with a gas, a bit like one of the cylinders of a combustion engine. The molecules of gas inside it keep moving in random directions, colliding between themselves and against the walls without any order, so the likelyhood of finding a molecule of gas is the same in every location inside the steel chamber.
+
+Now imagine we could pull the piston in an infinitesimal amount of time, so that we doubled the cylinder in length. We would be left with half a cylinder full of gas and half a cylinder full of nothing. Under those circumstances, those molecules of gas that move towards the full side of the cylinder will collide with other molecules that are already there, whereas those that move towards the empty side of the cylinder will not collide with anything; space does not stop one's motion.
+
+That is why gas tends expand within its container, it expands until its distribution becomes homogeneous again. In any asymmetric distribution of stuff, stuff will always flow from wherever there is more of it to wherever there is less of it. That explains the directions of the winds in high and low pressure atmospheric systems, the direction of heat flow from a cup of hot coffee into the colder atmosphere of the room, the direction electrons follow between the anode and the cathode of an electric circuit, and many other phenomena.
+
+The opposite would make no sense: things cannot move from where there are no things to where there already are, because where there are no things, there is nothing to go anywhere. And, of course, if things move in a directional way, then our perception of that motion must also be directional: from the past, and into the future.
+
+Imagine a film with lots of explosions and general breakage played backwards. Instead of seeing things scatter in random directions into empty space, we would see things condensing into specific locations and building up stuff along the way. But that would only be an illusion; a film played backwards. In the real universe, time always moves forward and never backwards. In other words, the real universe is constantly expanding in pretty much random directions into the unlimited nothingness of empty space. The universe seems to me just a huge amount of particles of matter moving in all directions.
+
+The concepts of space and time help in understanding the two fundamental kinds of ''information'' there are, but before going into those, it is most convenient to try to define information itself. What ''is'' information?
+
+In its broadest sense, I like to think of information as "any arrangement of energy that has some meaning", as opposed to ''noise'', which I understand as being "any arrangement of energy that has no meaning". Take a look at the following numbers:
+
+<center>235461, 526341, 123456, 635142</center>
+
+All of them can be described in similar terms, as six-digit numbers formed by the digits 1 through 6. However, the third one can additionally be described by saying that "all its digits are sorted in an ascending manner". The third number contains more information than the rest, which pretty much only contain noise.
+
+But the contents of information of a particular arrangement often depend on the observer that looks at the arrangement. For instance, one four-digit sequence among the meaningless numbers in the previous example can also be described as "it is my PIN code" if the observer is me, however I am not going to give out which one :)
+
+Information can appear laid out in space, as in the previous example, in which all the elements that compose it occupy a specific location at the same instant of time, but it can also appear over time. Imagine you grab one die and throw it on a table in four series of six throws each, yielding a total of twenty-four throws with the following results:
+
+<center>2, 3, 5, 4, 6, 1, pause, 5, 2, 6, 3, 4, 1, pause, 1, 2, 3, 4, 5, 6, pause, 6, 3, 5, 1, 4, 2</center>
+
+In this case, the example would pretty much be the same one as before, however the same information ("its digits are sorted in an ascending manner" and, optionally, "it is my PIN code") would have appeared over time; each value would have occupied the top-face of the die, but the values themselves would have changed over time.
+
+The variable intensity of an electromagnetic field generated by a radio antenna, or the intensity with which each pixel on a computer screen is illuminated during some video playback are other good examples of information that appears over time, but certainly not the only ones.
+
+Information that appears in space can interact with other information that also appears in space, such as a key when it "tells" the keylock that the person who is trying to open the door has the legitimacy to do so. For that reason, we can call this kind of information that appears in space "real information".
+
+In contrast, information that appears over time cannot interact directly with other elements that appear arranged in space. At any given instant, the information ''is not there'', its meaning only appears over a period of time. Therefore, we can call information that appears over space "virtual information". It ''is'' information, but it is not real.
+
+We usually call fragments of real information "objects", whereas fragments of virtual information are usually called "concepts". For instance, think of an object, ''any'' object. For the exercise, I am going to think of a diamond, but the same point can be made using stars, bricks, umbrellas, dog excrements...
+
+A diamond is a collection of atoms of carbon, arranged in space in a very specific fashion; forming a three-dimensional mesh of regular tetraedrons, in such a way that each atom has four surrounding atoms located at equal distances from it.
+
+This arrangement of atoms is stable due to reasons that are out of the scope of this text, and it confers the diamond all of its macroscopic properties, but the point to be made is that if the atoms of carbon were laid out in a different arrangement, such as flat layers of hexagonal lattices, we wouldn't call it "diamond" but "graphite", and its properties would be different due to its different structure.
+
+Real objects, such as diamonds, bricks, clouds or living beings, are made of individual components organised in space in a specific way, which confers them their specific properties that distinguish them from other real objects. However, what are concepts made of?
+
+Think of the word "diamond". It is a sequence of articulate sounds, ordered in a particular way over time. The sounds "d", "i", "a", "m", "o", "n" and "d", reproduced in that order, usually bring to our minds the image (or maybe another property, depending on the context) of a real diamond. But the word "diamond" is ''not'' a real diamond. In reality, the word "diamond" is just a collection of molecules of different gasses, moving in non-random directions, colliding against your eardrums in a specific pattern of frequencies over time. Virtual concepts can ''describe'' real objects, but they are not themselves real objects, made of something. Virtual concepts are made of ''movement''.
+
+Reality, the real universe, is the set of all information made of particles of matter that occupy specific locations in empty space at any given instant of time. In contrast, the virtual universe is the set of all information that we can extract from the motion of real things.
+
+But of course, there many times more concepts than objects. For every object that exists in reality, we can make up thousands of words that describe it. For instance, how many words do you think can be used in the whole planet, and please excuse me for the choice of examples, to refer to a human penis or vagina, or to the simple act of copulation? Literally thousands.
+
+Moreover, concepts do not only describe objects, but many describe other concepts. For example, and continuing with those daily-life examples, a penis and a vagina are real objects; pretty much everyone has seen at least one of those things. However, the act of copulation is clearly a virtual concept: sometimes one is copulating and sometimes one is not.
+
+Now imagine I asked you to draw two people copulating, how would you do it? It is difficult to decide, isn't it? There are so many arrangements of arms, legs, hands and mouths that could be described as "two people copulating" that it becomes difficult to choose one. The concept of copulating has at least one possible representation in the real universe.
+
+However, what if I asked you to draw the concept of time? Without using any artificial symbol, how would you draw it? One might be tempted to draw a clock, but that would not represent time, but a clock. One could even agree that a clock represents time, but even so he would not be drawing time, but agreeing on a symbol by convention.
+
+Some virtual concepts, such as time, freedom or music do not have any possible representation in the real universe. They are purely virtual concepts; ''abstract'' concepts that only "exist" in the virtual universe but not in reality.
+
+That is why I post this long contribution here; I would define "abstraction" as any fragment of information that is purely virtual; information that has no physical representation in reality.
+
+This poses an interesting question: if abstract information cannot come from reality, because it cannot exist in reality, where does all the abstract information that surrounds us come from? The answer is simple, yet full of implications that go well beyond the scope of this contribution. If anyone is interested in discussing them, maybe the article about ''imagination'' would be a better place to do so.
+
+Thanks for your feedback if you have any, and please excuse me again for the extension of this text.
+
+[[User:Abedul69|Abedul69]] ([[User talk:Abedul69|talk]]) 10:37, 27 September 2008 (UTC)
+: Abedul69, thank you for your considered contribution. In general, the talk pages are not forums, so perhaps the direction of your contribution might be better placed in a site like knol.google.com, where original contibutions are welcomed. --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 12:53, 27 September 2008 (UTC)
+
+== Diagram needs correction ==
+
+The diagram ''graph1'' in the section '''Thought process''' needs a correction:  The rightmost label '''agent''' (on the ellipse connected to both '''sitting''' and '''MAT''') should instead be '''location'''.
+
+[[User:Yahya Abdal-Aziz|yoyo]] ([[User talk:Yahya Abdal-Aziz|talk]]) 16:57, 25 May 2010 (UTC)
+
+== Infographic ==
+Ive removed the infographic (right), as it lacks relevance. [[File:Image Abstraction.jpg|thumb|250px|Infographic showing the different categories of abstraction]]
+-[[User:Stevertigo|Stevertigo]] ([[User:Stevertigo/Log|w]] | [[User_talk:Stevertigo|t]] | [[Special:Contributions/Stevertigo|e]]) 17:58, 13 June 2010 (UTC)
+
+== About abstraction in general ==
+
+This page used to be headed by the wonderfully self-referential statement "''This article is about the concept of ''abstraction'' in general. For other uses, see [[abstraction (disambiguation)]].''"  The first sentence was deleted [http://en.wikipedia.org/w/index.php?title=Abstraction&diff=prev&oldid=367805027 in June last year] with no explanation.  I'd like to restore it simply because I think it's cute (in the same vein as [[List of numbers]] proclaiming itself to be incomplete).  Any objections? [[User:Jowa fan|Jowa fan]] ([[User talk:Jowa fan|talk]]) 05:33, 2 June 2011 (UTC)
+:I for one welcome your proposal. --[[User:Ancheta Wis|Ancheta Wis]] ([[User talk:Ancheta Wis|talk]]) 06:52, 3 June 2011 (UTC)
+I second the welcome! Any reason NOT to put back the sentence? [[USER:wingroras|wingroras]]
+
+== "Higher" concepts ==
+
+The article starts off - ''"Abstraction is a process by which '''higher concepts'''... "''.  What is a "higher" concept? (A concept of a concept might be described as more abstract, and thus "higher", but I don't think that is what is being said in the lede first sentence.) "Higher" is in the lede first sentence, but not anywhere in the body, and the sentence is not sourced. [[User:ParkSehJik|ParkSehJik]] ([[User talk:ParkSehJik|talk]]) 02:23, 25 November 2012 (UTC)
+
+:'Higher' is a self-absorbed term; see [[ontology]], where the terms 'concrete' and 'abstract' are set opposed to each other. In terms of [[compression]], something which is more compressed, such as an equation of physics for example, is seen as 'higher', because fewer symbols are needed to complete that equation. Of course, it's really just a shorthand, a quick reminder of something you have studied yourself. But for a community with shared experience (such as a scientific community), the quick statement of something indeed saves time, when some statements about some aspect of the subject under discussion are being formulated, critiqued, or discussed. When someone really knows something it is a waste of time to tendentiously repeat what that someone already knows, so abstraction performs a real service in this case.
+:Of course, when someone doesn't really know something, it helps to be more discursive, so as to educate someone, including oneself, of course. In that case, one can simply skip over the known material, and drill down into the less familiar materical. 
+:In a related sense, the statement of an 'abstract' of a scientific article serves to give notice to other researchers that a certain result has been published elsewhere. In that case, the article technically has not been published to the other, but priority of result has been established by the author. It is good style to give the result in the title of the article, and to give some detail in the abstract itself.
+:For other researchers who are not necessarily expert in some aspect of a field, a review article is the right venue; in that case, an abstract of said review article serves only to advertise its utility.
+:--[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 11:33, 25 November 2012 (UTC)
+::What does "higher concept" mean (and now, what does "self-absorbed term" mean? This exression is not in the ontology article). [[User:ParkSehJik|ParkSehJik]] ([[User talk:ParkSehJik|talk]]) 20:30, 25 November 2012 (UTC)
+:::'Higher concept' not a rigorous term; it is a relative term. The ontology article stated clearly that 'concrete' and 'abstract' are relative terms. You are apparently searching for terminology. I gave you the article link which you should perhaps study. In the meantime I can delete the offending words in the lede; they apparently do not help you. Should I delete these terms? Would that help you? --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 21:46, 25 November 2012 (UTC)
+
+== Replace "concept" with "something", "anything" ==
+
+Abstraction is making '''''anything''''' less real, less concrete, or less specific, not just ''concepts''. It is the opposite of [[reification]] and [[concretization]]. The term also refers to the thing produced by abstraction, which is called "an abstraction", or an [[abstract object]]. Abstraction is achieved by taking away properties from things. I am not sure that mere removal of information content always produces abstraction, although it might. But removing properties does produce more abstraction. This is the usage in such expressions as "abstract algeebra", "abstract art", and an "abstract", the part at the beginning without specificity which summarizes an article. The [[WP:MOS (lede)|Lede section]] of a Wikipedia article should be an abstraction of the article body. The represetation of a thing in the mind has less properties than the actual thing, whereby [[idea]]s are abstractions. I do not have reliable sources for any of this, so I did not do the edit. [[User:ParkSehJik|ParkSehJik]] ([[User talk:ParkSehJik|talk]]) 01:23, 26 November 2012 (UTC)
+
+I found some sources, and will make the edit. Feel free to revert me if I have erred, but discuss it here if you do. [[User:ParkSehJik|ParkSehJik]] ([[User talk:ParkSehJik|talk]]) 01:45, 26 November 2012 (UTC)
+: I look forward to your finding. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 03:42, 26 November 2012 (UTC)
+::Sorry for posting I had RS and then wandering off. I am embroiled in talk page discussions re psychiatry, after being warned not to engage in them. I am trying to regain a focus on article content, and will post the content and sources soon. [[User:ParkSehJik|ParkSehJik]] ([[User talk:ParkSehJik|talk]]) 18:57, 29 November 2012 (UTC)
+
+==Addendum==
+There are some very good points above here. Abstraction is a mental OPERATION (not a process) resulting in abstraction as you would expect from a language, because languages are tautologies. Some abstract words are formed from verbs, they include abstract, and the possible outcome are: abstract (n), abstract (adj) abstracting (gerund, noun, pr. participle) abstracted (past participle, adj.), abstraction (noun). This is true for all similar word formations: you get two abstract products "abstracting and abstraction". But the main point is that here we deal with a verb - which, as most of them represent relations, and abstract entity on its own, and which additionally generate two further abstract products, namely properties and nouns (aka concepts). They are other content words, see the forms above.
+Now do not mix concrete-abstract, specific and generic ladders, although they are similar. Note, that anything abstract also means vague and undefined, hence indefinite and uncountable. But strictly speaking this is not true. Calling something abstract is also a function of your distance to the object, vague, unknown or subjectively treated. Hence many different representations of abstract entities are around, creating a chaos by talking nonsense theories all the time. Substantiation is the crime that most people commit when they start talking about -ism and their kind.  
+Also, when it comes to real objects, any group name or their plural is abstract by definition. Why? because it is a one on one relation that you are after using first order logic. When you claim that the so and so group of people are such and such a lot, you automatically make an erroneous judgement based on 1) your limited (incomplete) knowledge of all the members 2)not recognizing that an individual's act cannot be equated with a group action. 
+
+Also, a noun signifies an object (a physically existing entity). Abstract objects, including properties and relations do not mean anything on their own. A property must have an object as a reference, so does relation.
+[[Special:Contributions/176.63.35.70|176.63.35.70]] ([[User talk:176.63.35.70|talk]]) 16:31, 27 December 2016 (UTC)
+[[Special:Contributions/176.63.35.70|176.63.35.70]] ([[User talk:176.63.35.70|talk]]) 16:15, 27 December 2016 (UTC)
+:Thank you for your note. Several points (call them A's) leap out at me because I have never seen them before. But the 'A points' need citations in order that we might use the A's as guidelines. Other points (call them B's) seem less reliable as guidelines, as I can name some programming languages which violate the B's. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 16:48, 27 December 2016 (UTC)
+
+== abstraction in computer science ==
+
+
+
+To the anonymous contributor: I added in a tag with some suggestions for clarifying the latest contribution. We can work together on the updates if you like. Hover the cursor over the tag to read the suggestions. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 13:10, 29 November 2012 (UTC)
+
+I edited to make the entry clearer. We want to link to it for school computing lessons so I have edited it to be more (hopefully) straightforwardly understandable by non-specialist computer scientists. --[[User talk:Ingotian]] 09:22, 26 August 2014
+
+== The definition here is far too narrowed and focused on conceptual abstraction ==
+
+Given abstraction can more generally be defined as a being 'thought of as apart from 'concrete' realities'.  Not enough is dedicated to abstraction, as more generally, the process by which similarities are established/derived between stimuli.  Rather, there seems an over-emphasis on conceptual based abstractions.  The article needs to be generalized, based on available sources (which may be lacking). On a more specific, but related note, the suggestion that establishing the pattern in:  1, 2, 4, 8 requires an abstract process, but establishing the relationship in: "DOG is to NINE LIVES", does not , is entirely unjustified.  The only difference is that the former problem involves general sequential reasoning (which is short term memory complex), and the latter process involves associative thinking (a long term memory function).  Neither of these problems require a concrete information to establish. Both are abstract.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.238.115.40|72.238.115.40]] ([[User talk:72.238.115.40|talk]]) 02:11, 30 November 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:72, Here is another take: [[Charles Sanders Pierce]]'s [[categories_(Peirce)|triad]]s, for example an English sentence with 'subject Verb object'. Peirce's [[trikonic|thirdness]] is the unifying piece: e.g., the Verb in the sentence. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 14:19, 30 November 2013 (UTC)
+
+== Wikipedia:BOLD, revert, discuss cycle ==
+
+@[[User:GliderMaven]], thank you for your [[Wikipedia:BOLD, revert, discuss cycle|bold step]]. I ask you to discuss [https://en.wikipedia.org/w/index.php?title=Abstraction&diff=prev&oldid=624732597 your change] because I can think of several articles that span multiple meanings, such as [[ Sense and reference ]]. Hence your rationale seems new to the encyclopedia. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 00:13, 9 September 2014 (UTC)
+
+:No, that rationale is not new at all. In Wikipedia the purpose of an article is to cover a single topic. Per [[WP:LEAD]] the lead defines what the topic is, and that guideline also defines a style that is normally used, which this article broke. Note that by convention, and for fairly good reasons, the topic is rarely, if ever, an English term- see [[WP:Wikipedia is not a dictionary]]. It is also, in my experience unusual for an article to include specific examples in the lead like that.
+
+:Having noted these variations from the norms of Wikipedia, before making the change, I went back through the history to find out who had made it, and discovered that an anonymous editor had, [https://en.wikipedia.org/w/index.php?title=Abstraction&diff=621430618&oldid=621426706|pretty recently] in August.
+
+:So, no, this is not a new thing, but the edits that I basically undid, were, and they were not consistent with Wikipedias rules, style and editing guidelines.[[User:GliderMaven|GliderMaven]] ([[User talk:GliderMaven|talk]]) 02:45, 9 September 2014 (UTC)
+::At least we are all engaging. It appears that at least there needs to be a subpage about the different senses of the word, as in the senses of a definition:ostensive def., intension, extension. As my teacher, Richard Feynman, remarked, "English is a lousy language.", so perhaps we might sharpen and acknowledge the uses  of the word in appropriate sub-articles.  In my view, we are helping out in the precise explication of what might be construed as pendantic; so examples are going to help out, a lot, as in [[ostensive definition]]. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 16:23, 30 September 2014 (UTC)
+
+:::There already is such a page about the difference senses [[Abstraction (disambiguation)]].[[User:GliderMaven|GliderMaven]] ([[User talk:GliderMaven|talk]]) 17:22, 30 September 2014 (UTC)
+::::That is unsatisfactory, in the following sense: The dab people take a legalist view, and draw arbitrary lines across words irrespective of their history, whereas an article which attempts to unify the senses of a word actually conveys the core meaning much more effectively. As an example from Mexican Spanish: ''maquiladora'', which means literally 'mill', a place to grind grain, is now used to denote a 'twin plant factory' where items like iPhones are assembled, and transhipped a small distance across an international border for use in the US. Try putting that on a dab page to see how long that concept survives on the encyclopedia. It will get deleted. Whereas a page which allows the unification of a topic can host a statement that 'colors outside the  lines', to use a crayon analogy. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 21:35, 30 September 2014 (UTC)
+
+:::::That ''maquiladora'' sounds more like a dictionary entry than an encyclopedia article, unless you can make a decent article on ''maquiladora'' factories or unless you can merge ''maquiladora'' into an article on factories or some other more general article, it probably shouldn't go in Wikipedia at all. I mean, why is a ''maquiladora'' factory important???[[User:GliderMaven|GliderMaven]] ([[User talk:GliderMaven|talk]]) 22:30, 30 September 2014 (UTC)
+::::::I was hoping to convey the spirit of such an article. Sorry if that detail example leads you astray. It's more than a word entry, it's a concept: A twin plant is an imaginative business response to the realities of economies, wages, imports and exports, gdp, and international manufacturing competition. Who would have thought that high tech manufacturing engineers from Asia, designers from California, and the businessmen representing international markets could build competitive responses to the manufacturing prowess of China? I do not intend to write that article. 
+::::::[[Maquiladora]] is an article, and I got the sense right, but whose actual meaning stems from the meaning of  my family name, 'a small profit', entirely by coincidence!
+::::::What I was hoping for was a way forward for the secondary senses  or references formerly in this article, a way to get to some article (not this one, don't worry) which the secondary sense  or reference was attempting to communicate. Articles spanning multiple senses or references exist in this encyclopedia right now, by the way, but since they are obscure, the secondary senses  or references survive in the primary article. Perhaps they survive because the secondary senses  or references are not in a lede. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 23:13, 30 September 2014 (UTC)
+:::::::There's nothing much wrong with the Maquiladora article, it's perfectly OK to mention how the topic name is derived. Other than that, the main reason there are articles with multiple meanings is usually because somebody stuffed something up; they're not supposed to be like that.[[User:GliderMaven|GliderMaven]] ([[User talk:GliderMaven|talk]]) 00:06, 1 October 2014 (UTC)
+{{od}}
+GliderMaven, let's try moving it out of the lede, OK? --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 03:05, 2 October 2014 (UTC)
+::Yes, this is a good compromise. The secondary use is important and linked to the work of the influential German philosopher, Alfred Sohn Rethel, but it does not have the same currency as the primary use. [[Special:Contributions/203.118.14.76|203.118.14.76]] ([[User talk:203.118.14.76|talk]])
+
+== Lede - suggestion ==
+
+In the 2nd paragraph, I see a problem with the phrase "by reducing the information content of a concept or an observable ...". It seems more obtuse than it should be. I suggest:"filtering the information content of a concept." I'd also argue that rather than "may be formed by" it would be better to say "Conceptual abstraction results from filtering the information content of a concept." I don't like the implication that an observable HAS "information content", I think information (in this context) is mental and not 'physical' so objects and processes don't ''contain'' it. The main problem I have is the word "reducing" which implies, for example that the 'information content' of '''ball''' is LESS than that of leather soccer ball in any meaningful sense. (There is less '''specific''' information, true, but I don't think its useful to claim that the 'information content' of ball is less than that of leather soccer ball, since both are arguably infinite ( ∞ - x = ∞), and certainly context dependent.) Perhaps 'selecting' would be better than 'filtering', but either are, imho, much better than 'reducing'.[[Special:Contributions/173.189.78.173|173.189.78.173]] ([[User talk:173.189.78.173|talk]]) 17:41, 25 April 2015 (UTC)
+:We welcome your contribution; might [https://en.wikipedia.org/w/index.php?title=Abstraction&diff=659185416&oldid=658758457 this] be what you envisioned?  Now that you have introduced yourself, we await your direct edits to the article as well. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 19:34, 25 April 2015 (UTC)
+
+== Abstraction in headers ==
+
+The justification against Abstraction in headers is a guideline. Because Abstraction is a difficult, general, abstract topic, any help for the reader to understand it is a boon. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 07:28, 24 May 2015 (UTC)
+
+Perhaps some compression of the headers, as a compromise: for example, Abstraction in art ---> In art. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 08:02, 24 May 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:3|one external link|3 external links}} on [[Abstraction]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=714825552 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20120130084757/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html to http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html
+*Added archive https://web.archive.org/web/20110608093226/http://www.nga.gov/education/american/abstract.shtm to http://www.nga.gov/education/american/abstract.shtm
+*Added archive http://web.archive.org/web/20070911121123/http://www.wsu.edu:80/~dee/GLOSSARY/ABSTRACT.HTM to http://www.wsu.edu/~dee/GLOSSARY/ABSTRACT.HTM
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 02:01, 12 April 2016 (UTC)
+
+== Redirect of [[abstract process]] ==
+
+I blanked and [https://en.wikipedia.org/w/index.php?title=Abstract_process&type=revision&diff=818049941&oldid=660865718 redirected] the an referenced stub article under the title "abstract process" here since I could find no evidence it was a distinct term in the sense it was being used in the article. Feel free to revert if you think it should be retained. --[[User:TeaDrinker|TeaDrinker]] ([[User talk:TeaDrinker|talk]]) 06:23, 1 January 2018 (UTC)
+:@[[User:TeaDrinker|TeaDrinker]] Please see [[Abstraction#History]], or better [[Abstraction#Physicality]], for citations to the process of abstraction. It took [http://en.finaly.org/index.php/Reckoning_before_writing thousands of years, for example], to come up with writing, first with very concrete processes such as notching a bone, then making clay tokens and holding the tokens in a jar, then marking the outside of the jar, then simply making marks on a clay tablet. This process of abstraction, this drive to make a process simpler and simpler, is the subject of this article. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 13:13, 1 January 2018 (UTC)
+
+:I visited the page you referenced and agree it is better served by your redirect. --[[User:Ancheta Wis|Ancheta Wis]] [[User talk:Ancheta Wis| &nbsp; (talk]] [[Special:Contributions/Ancheta Wis| &#124; contribs)]] 13:21, 1 January 2018 (UTC)
+
+== Agent sits on location ==
+
+On the graph Graph 1, where is 'Location'? I see (2) Agents, but no 'Location'.
+[[Special:Contributions/2600:1700:4CA1:3C80:BDFD:35F5:F725:3559|2600:1700:4CA1:3C80:BDFD:35F5:F725:3559]] ([[User talk:2600:1700:4CA1:3C80:BDFD:35F5:F725:3559|talk]]) 00:19, 2 April 2018 (UTC)

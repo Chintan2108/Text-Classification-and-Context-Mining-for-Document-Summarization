@@ -19,7 +19,7 @@ def getRevisions(pageTitle, limit=500):
 
     detailsColumns = ['revID','parentID','user','uid','timestamp','comment','content']
     revisions = pd.DataFrame(columns=detailsColumns)
-
+    
     index = 0
     for revision in response[2][0][0][0].findall('rev'):
         revisions.loc[index] = [revision.get('revid'),
@@ -31,14 +31,14 @@ def getRevisions(pageTitle, limit=500):
                                 revision[1].text]
         index += 1
     
-    revisions.to_csv('./results/%s_editComments.csv' % pageTitle, encoding='utf-8')
+    revisions.to_csv('./dataset/test/editComments/%s_editComments.csv' % pageTitle, encoding='utf-8')
     print('%s_editComments.csv saved successfully.\n' % pageTitle)
 
 if __name__ == "__main__":
     '''
     Main/ driver function
     '''
-    titles = ['Coffee', 'Astrology', 'Football', 'Astronomy']
+    titles = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()
 
     for title in titles:
-        getRevisions(title)
+        getRevisions(title.split('\n')[0])

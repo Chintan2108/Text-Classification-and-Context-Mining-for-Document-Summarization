@@ -1,0 +1,458 @@
+{{Vital article|level=3|topic=Mathematics|class=B}}
+{{Outline of knowledge coverage|combinatorics}}
+{{maths rating|frequentlyviewed=yes|class=B|importance=top|field=discrete| vital=Y}}
+
+==Initial comments==
+
+Could someone provide me with a reference to the solutions for the design theory problem presented in the text.  It's very intriguing.  tempfcps@juno.com   Thanks.
+[[User:69.251.226.145|69.251.226.145]] 13:40, 13 April 2007 (UTC)
+
+With sites like this who needs classrooms? This site does a better job explaining things than most teachers do.
+: The maths articles are generally very good (I can say this because I've not contributed to them). Just wait til the whole 'pedia is like this! [[User:Pcb21|Pcb21]] 10:15 1 Jun 2003 (UTC)
+
+----
+
+I think that there is lots of overlap between the contents of this page and of [[permutations and combinations]]. Maybe we should just reference people there (for some sections) and just breifly outline?
+
+--[[User:Lincsimp|Lincsimp]] 09:21, 10 June 2006 (UTC)
+
+== Closed formula for Fibonacci number ==
+
+should be:
+
+f(n) = (phi)^(n+2)/sqrt(5) - (phi - 1)^(n+2)/sqrt(5)
+
+{ this short program try to verify closed formula for }
+{ Fibonacci number and his recurrence expression      }
+
+uses crt;
+
+var
+  fib, a, b, n : longint;
+  x, fi : real;
+
+begin
+  clrscr;
+
+  {  axioms for given Fibonacci numbers : }
+  a := 1;                                     { fib(0) = 1 }
+  b := 2;                                     { fib(1) = 2 }
+
+  { the Golden mean : }
+  fi := (1 + sqrt(5)) /2;
+
+  { checking of recurrence expression and expresion in closed form : }
+  for n := 2 to 15 do
+  begin
+     fib := a + b;       { fib( n ) = fib( n - 1) + fib( n - 2 ) }
+     x := ( exp( (n+2) * ln( fi)) -
+            exp( (n+2) * ln( fi - 1)) )/ sqrt(5);          { closed formula }
+
+     writeln( 'fib( ',n : 5, ' ) = ', fib : 7, ' .... ',x:8:1);
+
+     { shift for next number : }
+     a := b;
+     b := fib;
+  end;
+end.
+
+:I haven't run the program, but I have verified with pencil and paper that the formula in the article is right and this one is wrong. - [[User:Jwwalker|Jwwalker]]
+
+== External link ==
+
+An anonymous user keeps adding a bogus external link to an incoherent web page.
+The user should explain the reason for the link on this page first.  Until then, please everyone help me control this matter.
+
+:reply 1 user [[User:80.181.108.117|80.181.108.117]]
+
+Anyone can ascertain that the link "http://www. giacomo.lorenzoni.name/solprobcombengl/" exist and work fine. To this respect I recommend you to use a computer that works well surely.
+For the rest, I hope that you won't continue with low accusations.
+
+:reply [[User:Mhym|Mhym]] 15:19, 24 December 2005 (UTC)
+This is an incoherent list of bogus mathematics irrelevant to the encyclopedia page.  
+It is also written in an extremely flawed English.  I will remove it once again and ask you to never again edit this page.  Please stop promoting this page at the expense of the Wikipedia users.
+
+: reply 2 [[User:212.171.42.221|212.171.42.221]] 
+The animosity, the  insulting language, the use of every type of accusation, and above all the absence of precise mathematical reasonings; show dark motives of your action. I hope that an authority prevents you to continue.
+
+:reply [[User:Mhym|Mhym]] 15:26, 25 December 2005 (UTC) 
+OK, let's agree to make "external links" only to published
+articles.  If you have evidence that your article is published - please
+present the evidence.  If not - plesae do no bother encyclopedia users
+with this nonsense.
+
+: reply 3 [[User:80.181.108.80|80.181.108.80]]
+Your rule "ExternalLinks only to published articles" is unfair and contrary to the ideal more essential of Wikipedia: all have the right to know and to judge what others want to make well-known.
+With which right you continue so stubbornly to make the censor?
+
+:reply [[User:Mhym|Mhym]] 16:16, 26 December 2005 (UTC)
+The most important rule is to have the information correct.  
+This link is unreadble and incomprehensible.  Without a publication
+in a reputable journal the reader cannot make his/her own judgement.
+I will keep removing it until I am proved wrong (on this Talk page).
+
+:reply 4 [[User:212.171.42.92|212.171.42.92]]
+Use a computer that works well surely (see reply 1).
+Please not to insist in the care of things that you do not want or cannot understand.  
+: end of reply 4 [[User:212.171.42.92|212.171.42.92]]
+
+ 
+I made a little research into this and discovered that this is 
+indeed a link to a self-published book:
+<nowiki>http://books.lulu.com/content/148685</nowiki>
+This work is unrefereed yet for sale.  The author should STOP using
+Wikipedia for personal advertisement purposes.  Vandalism is always
+punished on this web site.  [[User:Mhym|Mhym]] 06:02, 28 December 2005 (UTC)
+
+:reply 5 [[User:212.171.43.11|212.171.43.11]]
+see reply 2
+:end reply 5 [[User:212.171.43.11|212.171.43.11]]
+
+:reply 6 [[User:212.171.42.114|212.171.42.114]]
+Requested unprotection: the page has been protected in consequence of false and trivial accusations against ExternalLink "http://www.giacomo.lorenzoni.name/solprobcombengl/". 
+:end reply 6
+
+
+I think that external links for this article should be general discussions of combinatorics or major subfields thereof.  I don't think that the solution of a particular problem, even if it is correct and well-written, would be appropriate.  By the way, my opinion is that Wikipedia should never allow anonymous edits of anything. - [[User:Jwwalker|Jwwalker]] 20:52, 29 December 2005 (UTC)
+
+: reply 7
+
+I think that the ExternalLinks  "http://www.giacomo.lorenzoni.name/solprobcombengl/"  provide a information original and pertinent to Combinatorics.
+I have not prejudices against the anonymity.
+
+:end reply 7
+
+== Grammar and intro ==
+I'll say that you all have taken on a monumental task in explaining combinatorics, and I wish you much luck and skill. That said and wished, I'd like to point out a couple of things that seem to 'stick out' as in need of improvement.
+
+[article quote] An example of a combinatorial question is the following: What is the number of possible orderings of a deck of 52 playing cards? That number equals 52! (fifty-two factorial). It may seem surprising that this number (80,658,175,170,943,878,571,660,636,856,403,766,975,289,505,440,883,277,824,000,000,000,000) is so big.
+
+Anyone who has been introduced to factorials will hardly be surprised that 52! is so big. Thus, a reader might logically sense that this article will be addressed to people with little mathematical knowledge. But this article will probably lose all readers that know little of basic math. Beginners cannot be expected to know much about sequences and series, so in that respect, this article will require some seriously skilled and clever presentation to get the ideas across to the unknowledgable.
+
+[article quote] He applied similar formulae for permutations with and without repetitions using the Arabic alphabet for illustrative purposes. He also does some work on combinatorial reasoning.
+
+This is pretty bad English. A dead person 'does' nothing. The answer of course is that 'He also did or performed or pioneered something back then.'
+
+There is some good material in this article but remember that the article leaves behind all beginners by the end of the introduction, so it might be best to not let the article suggest that beginners will be able to follow. I have no intention of editing the hard work of others here, but am happy enough to try to help by making suggestions. Peace.
+
+: Hi, I recommend you read [[Wikipedia:Talk_page_guidelines]] before you post again in Talk. I've taken the liberty to add a header to your section.  In regards to your comments, I like the intro which mentions 52! as being a big number. It starts the article off in an interesting way, instead of plowing right into the maths. It makes the article more appealing to beginners. Nothing wrong with that. As far as the bad grammar goes, next time feel free to just make an edit. There's no point in bringing it up in Talk when its an obvious fix. --[[User:JRavn|JRavn]] <sup>[[User talk:JRavn|talk]]</sup> 21:56, 18 August 2006 (UTC)
+
+== Algebraic Geometry ==
+
+Perhaps mentioning the work of Rota connecting algebraic geometry to combinatorics would enrich this entry.  I don't know anything about it, in fact I ended up checking this entry to find out about this.
+
+== Stomachion section ==
+
+The following text was added by [[User:Gryspnik]] a few days ago.  While apparently correct (the links work, and seem to back up what's said), it was very out of place where it was put, so I've moved it here for later, better incoporation into the article. [[User:JesseW/sig|JesseW, the juggling janitor]] 18:59, 23 September 2006 (UTC)
+:''Recently there was discovered that the work of Archimedes "Stomachion", believed to be lost, was the first work of Combinatorics ever written. A palimpsest discovered a few years ago, contains most of this lost work and involves finding the number of ways that the problem posed in the Stomachion can be solved. This game consists of 14 irregular strips of paper that can be placed in many different ways in order to form a square. There is additional information on this in the following links:
+::http://www.sciencenews.org/articles/20040515/bob9.asp
+::http://www.math.binghamton.edu/zaslav/Nytimes/+Science/+Math/archimedes-combinatorics.20031214.html''
+
+You are right Jesse, I moved this info in the history section of combinatronics were it actually belongs. Thanks for that note.
+
+
+== Formula Question ==
+
+The formula for Combination with repetition seems somehow strange to me. It consists of three expressions whereas the last two seem odd. Inside the parenthesis they both have the same upper part (n+r-1) but different lower parts (r and n-1). Therefore, either r = n-1 or r = (n-(n-1) = 1) should hold, which I do not believe is always true. I already know the first expression (with r at the bottom) and think that it is correct – how about the second one? <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:141.51.122.97|141.51.122.97]] ([[User talk:141.51.122.97|talk]] • [[Special:Contributions/141.51.122.97|contribs]]) {{{2|}}}.</small><!-- Template:Unsigned -->
+
+:The expressions are all equivalent.  In general,
+:<math> {{p+q} \choose p} = {{p+q} \choose q} </math>,
+:because choosing ''p'' items (to keep) out of ''p''+''q'' items is equivalent to choosing ''q'' items (to throw away) out of ''p''+''q'' items.  Either decision amounts to partitioning the set of ''p''+''q'' items into two blocks, one with ''p'' items and one with ''q'' items.  For the formula for combinations with repetition, ''p''=''r'' and ''q''=''n''-1. [[User:Michael Slone|Michael Slone]] ([[User talk:Michael Slone|talk]]) 04:40, 18 October 2006 (UTC)
+
+== Consistent Examples ==
+I think the article might read better if we used the same example for each of four different methods, such as how many trigrams you can make from the first four letters of the alphabet. For permutations with repetition, it's 64; for permutations without repetition, it's 24; for combinations without repetition, it's 4; and for combinations with repetition, it's 20. A list of each of the sets of trigrams in questions might also be helpful, if it doesn't take up too much space. Thoughts? [[User:64.12.116.139|64.12.116.139]] 05:32, 23 October 2006 (UTC)
+
+==That number at the top==
+Could someone write out its name, as well as the numbers?  It's not that important, but it might be cool. --[[User:Santasassassin|Santasassassin]] 15:15, 13 December 2006 (UTC)
+
+== rewrite of "Enumerative combinatorics" section ==
+
+The biggest change I made was to put the recursive solution for the (n+2)nd Fibonacci number before the closed form solution.
+This is because the recursive solution is used to solve for the closed form solution.  The recursive solution is not an alternative approach, it is the means to reach the end that is the close form.  Also, the initial conditions given were incorrect.  They were correct for the Fibonacci numbers, but since f(n) is in fact the (n+2)nd Fibonacci, the correct initial conditions are f(1) = F(3) = 2 and f(2) = F(4) = 3. [[User:Ptrillian|Ptrillian]] 09:29, 3 January 2007 (UTC)
+
+== Anglo-american playing cards ==
+
+I changed "deck of 52 anglo-american playing cards" to "deck of 52 distinct playing cards."
+For the mathematics to be correct (that the answer is 52!), the only relevant fact is that the 52 cards are distinct.
+Most english-speaking readers will naturally think of a standard anglo-american deck.
+However, if a reader is unfamiliar with this deck, I don't want that unfamiliarity to unnecessarily confuse him. [[User:Ptrillian|Ptrillian]] 22:51, 5 January 2007 (UTC)
+
+==Quality==
+I read the article and found it inadequate, very much incomplete, poorly written at times misleading and at times plain wrong.  I made few structural changes and hope others can add more material to these (very small) subsections.  I realize that in the current state the article may need a complete overhaul.  The idea would be to make it resemble [[Number theory]] which balances well links to deep parts with history and modern developments.  [[User:Igorpak|Igorpak]] 19:35, 21 October 2007 (UTC)
+:Let me be more specific in my concerns.  First, the article discusses at length many permutations, combinations etc.  This should be done on specialized pages.  Same for the Fibonacci numbers.  These examples should be removed (I wasn't brave enough to do that) and replaced by their general description within one paragraph os a small subsection.  Second, there is a great need to expand on the different types of combinatorics, especially graph theory and geometric combinatorics.  Figures would prove useful.   Third, there is a great need to elaborate on the history of combinatorics and connections with other areas.  [[User:Igorpak|Igorpak]] 19:49, 21 October 2007 (UTC)
+
+==Discussion of formulae (inline)==
+I've moved this out of the middle of the article. --[[User:90.200.243.218|90.200.243.218]] 09:38, 23 October 2007 (UTC)
+
+----
+'''Is''' something wrong with equating the three formulae above? The first one seems okay but it doesn't seem to equal the other two despite the equals signs....plug in the numbers from the problem immediately below and see?? Perhaps I am misunderstanding the notation? Can someone who is a mathematician look at this ...feel free to delete my comment if everything is okay...[[User:FurnaldHall|FurnaldHall]] 03:57, 23 October 2007 (UTC)
+
+----
+
+
+'''The''' formulae are all correct, if you work it out using the definition it will all work out. (RM)
+
+----
+
+
+'''This''' probably should be moved to the discussion page. I'm leaving it here in case RM is watching the page, but anyone please feel free to clip and move it. 
+
+Using the three formulae for the donut problem below where n=10 and k=3, I get 220, 4, and 1.3333... assuming there is a division line in each formula which isn't shown in the last two. Am I misunderstanding the notation somehow. If not, how do you say the formulae are correct? Obviously I am misunderstanding if they are, but please explain how.[[User:FurnaldHall|FurnaldHall]] 06:05, 23 October 2007 (UTC) 
+
+----
+
+== Questionable quality? ==
+
+I've just noticed that on 21 Oct 07 [[User:Igorpak]], in his fairly substantial editing of the page, deleted a subsection describing the notational convention that creates symbols for sets based on enumerative expressions for their cardinality (e.g., 2<sup>''X''</sup> for the power set of ''X'').  I think that portion of the article was useful information, and I don't know in what other article it might be better placed.  What do others think?  Shall I restore the paragraph?  What about you Igor, what was your thinking?—[[User:PaulTanenbaum|PaulTanenbaum]] ([[User talk:PaulTanenbaum|talk]]) 02:09, 13 February 2008 (UTC)
+
+: This has nothing to do with combinatorics, but rather a notation standard in [[set theory]].  It is as standard as addition or multiplication.  Surely, you don't want to explain this on every WP math page...  Anyhow, as I see it the page has a horrible quality, especially if you compare it with other fields of science like [[Biochemistry]] or [[Physical cosmology]]. You are welcome to improve it, but I certainly am not going to be able to do that.  [[User:Igorpak|Igorpak]] ([[User talk:Igorpak|talk]]) 04:27, 13 February 2008 (UTC)
+
+::Actually, it does have quite a bit to do with ''enumerative'' combinatorics.  "As standard as addition or multiplication"?  Ah, well, I beg you indulge my ignorance in all its profundity.  And no, I don't "want to explain this on every WP math page."  It was explained in exacty one article that had several links to it—when you took your stab at improving the article's "horrible quality," did you police up the links that you broke?—[[User:PaulTanenbaum|PaulTanenbaum]] ([[User talk:PaulTanenbaum|talk]]) 01:17, 15 February 2008 (UTC)
+
+== Why do we multiply? ==
+
+In both the deck-of-cards example (52!) and the example of ''how many ways we can produce 4 groups of people, each of which consists of 5 people, out of total of 20 people'', the answer consists of multiplying together some intermediate terms. This is certainly correct, but I suggest that it may not be obvious to novices why we multiply the values instead of, say, adding them. This is sort-of addressed in the section ''Permutations without repetitions'' but regrettably the detailed example chosen involves 3! = 3 x 2 x 1 which by chance also equals 3 + 2 + 1.
+
+Should the section ''Permutations without repetitions'' appear before ''Permutations with repetitions''? It seems simpler.
+
+[[User:JohnH|JohnH]] ([[User talk:JohnH|talk]]) 14:14, 6 September 2008 (UTC)
+
+== Remove new extra examples? ==
+
+I think everything in [http://en.wikipedia.org/w/index.php?title=Combinatorics&diff=236497148&oldid=235827777] should be reverted. There are multiple issues with it. It's written too much like a [[WP:NOTTEXTBOOK|how-to textbook]] instead of an encyclopedic article. The examples mix concepts instead of cleanly showing the concept in the heading like the original examples. I haven't seen the notation <math>{n\choose r_1, r_2, r_3}</math> before, and it's poorly explained with ''n'' apparently denoting two different things so it seems unclear whether 3 is supposed to be a fixed or variable number in the notation. The last added example apparently silently assumes that it matters whether the groups are swapped around. Otherwise the final result should be divided by the 4! ways there are to list 4 groups in order. If these examples stay then I think they need considerable work. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 15:36, 8 September 2008 (UTC)
+
+: I agree with your assessment of the last example.  I actually noticed the same thing and was going to write a note here about it.  I will add the word distinguishable for now and hope for a discussion to occur on having these examples in the first place.  I believe it fits much better into the discussion of [[N_choose_k#Generalization_to_multinomials|multinomial generalization of binomials]].  The multiplication is equivalent to <math>{20\choose 5, 5, 5, 5}</math> and that article says the groups are distinguishable. --[[User:Cowsandmilk|cowsandmilk]] ([[User talk:Cowsandmilk|talk]]) 19:47, 3 October 2008 (UTC)
+
+== Major edits ==
+Some time ago I asked for this page to be restructured.  Since no one did that, I figured it would be easier for me to do this.  Please discuss the changes here rather than reverting the changes.  I can explain why I did these major edits. [[User:Igorpak|Igorpak]] ([[User talk:Igorpak|talk]]) 06:09, 30 December 2008 (UTC)
+
+== Combinatorial species ==
+I added a link to [[Combinatorial species]], but it was reverted. What was wrong with it?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/89.53.126.151|89.53.126.151]] ([[User talk:89.53.126.151|talk]]) 10:34, 18 January 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:I think the issue is that calling the theory of combinatorial species a "powerful" theoretical method violates the policy of [[Wikipedia:Neutral point of view|neutral point of view]] unless we cite a reliable source who claims that the theory is powerful.  (I don't think such a source would be difficult to find.)  That said, it is a bald fact that the theory of combinatorial species is a theoretical method in combinatorics, so one could avoid running afoul of NPOV issues by writing
+::''Combinatorics is as much about problem solving as theory building, though it has developed  theoretical methods, such as the theory of [[combinatorial species]], especially since the later twentieth century.''
+:After previewing I suspect the mention of species should probably appear later in the article.  There are other powerful theoretical methods in combinatorics, and it's probably best if we don't tempt people to list them all in the introduction to the article. [[User:Michael Slone|Michael Slone]] ([[User talk:Michael Slone|talk]]) 21:04, 18 January 2009 (UTC)
+
+== counting argument ==
+
+Should "[[counting argument]]" redirect to [[combinatorics]], to [[lossless data compression#Limitations]], or to the [[pigeonhole principle]]?
+--[[Special:Contributions/76.209.28.222|76.209.28.222]] ([[User talk:76.209.28.222|talk]]) 21:24, 9 February 2009 (UTC)
+
+==History==
+I'd just like to know if there is any reason why the history section is pretty much entirely devoted to the Jains, with only a breif mention of earlier mathematics, and no further mathematics.
+([[Special:Contributions/69.214.171.3|69.214.171.3]] ([[User talk:69.214.171.3|talk]]) 16:30, 28 February 2009 (UTC))
+
+== External links ==
+
+This article is about the whole field of combinatorics in general. External links about a specific part of combinatorics should be added to specific articles e.g. the block design link should be on the design article (which it already is), combinations and permutations links should be on the individual combinations and permutations articles. [[User:Charvest|Charvest]] ([[User talk:Charvest|talk]]) 00:43, 26 June 2009 (UTC)
+
+== jojo ==
+
+rond fied  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/91.181.157.21|91.181.157.21]] ([[User talk:91.181.157.21|talk]]) 16:34, 30 January 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== How do you get 63? ==
+
+If you start out with six tastes (e.g., six different spices which you can use singly or in combination with each other), if you mix two together you get 30 combinations (i.e., six choices for the first one times five choices for the second equals 30 different mixtures). If, as the text suggests, you mix three together, you get 120 different mixtures. So how did the ancient one arrive at 63, and why has no one questioned this before?
+[[Special:Contributions/71.251.136.49|71.251.136.49]] ([[User talk:71.251.136.49|talk]]) 22:24, 11 December 2010 (UTC)
+
+== Bell-ringing nonsequiteur removed ==
+
+I removed the large image of the change-ringing pattern.  Although tangentially related (via campanology), its not actually discussed in the article in any length, and for that image to appear as, essentially, the lede image leaves the reader wondering "Huh?  What the heck does this have to do with the topic?"
+
+If we want to add a brief subsection on campanology later in the article, I wouldn't be opposed to the image appearing there.  But it is not an appropriate lede image, IMHO.  [[User:Nandesuka|Nandesuka]] ([[User talk:Nandesuka|talk]]) 14:32, 17 March 2011 (UTC)
+
+: There is a quick mentioning of '''campanology''' in the history section, following [[Don Knuth]]'s monograph ACP, vol 4.  You can expand it a bit, if you like, maybe by one sentence, but not more to follow [[WP:DUE]].  Although the image is the first image on the page, it is placed in the history section.  I see no reason to remove it.  If you have a good image to be placed in the lede, please feel free to add it.  Please read [[WP:LEDE]] before making big changes.  [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 05:38, 18 March 2011 (UTC)
+
+:: I'm saying that without expansion in the article, it is incomprehensible to the average reader why the image is there, or what it has to do with combinatorics; the fact that the caption is useless makes this worse.  One might as well have a picture of a hot dog on the article with several different types of ingredients on it, captioned, "A hot dog (a sausage in a bun) with a number of different condiments." [[User:Nandesuka|Nandesuka]] ([[User talk:Nandesuka|talk]]) 20:50, 18 March 2011 (UTC)
+
+::: I disagree.  I think you should stop making nonsensical comparisons (hot dogs, etc.)  This is an example of a Hamiltonian cycles in a certain [[Cayley graph]], and was historically one of first results in what is now part of Graph Theory.  As for context, etc. - you see, other images don't have significant background either.  The reason is simple - this is a general topic article which simply has no space for that.  That's one of the reasons why writing such an article is so difficult - to keep down the page length one has to sacrifice clarity in favor of proving a number of pointers and wikilinks on the topic.  This problem is inherent in this kind of articles.  For now, please stop removing the image and continue to argue on this page.  Also, let other editors decide which of our arguments make more sense. [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 00:39, 19 March 2011 (UTC)
+
+== What about Combinatory logic and Lambda calculus? ==
+What about Combinatory logic and Lambda calculus? Aren't they related to Combinatorics?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/93.78.75.32|93.78.75.32]] ([[User talk:93.78.75.32|talk]]) 00:27, 30 June 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:No! [[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 03:15, 30 June 2014 (UTC)
+
+== Algebraic combinatorics ==
+
+A portion of this section was removed (no reason given) and then replaced but with a clarification flag. I have rephrased the sentence so that "within the last decade or so..." no longer appears and so the clarification of that phrase is no longer needed. I have also removed the sentence about the fastest growing subarea. After examining the last few issues of the Journal of Algebraic Combinatorics I see no evidence that this statement was anything more than hype by an affectionado of this subfield. The article [[Algebraic combinatorics]] has similar statements and will also need to be fixed. The statement that I removed may even have been true at some point (though I doubt it) but such time dependent clauses should not appear in an encyclopedia. [[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 17:42, 22 July 2014 (UTC)
+
+==Assessment comment==
+{{Substituted comment|length=271|lastedit=20070416211238|comment=''Combinatorics'' is a major field of mathematics. This article should reflect this. The ''idea'' of combinatorics should be explained, along with the history, then many examples and applications can be given. [[User:Geometry guy|Geometry guy]] 21:12, 16 April 2007 (UTC)}}
+Substituted at 01:54, 5 May 2016 (UTC)
+
+== "Object"? ==
+
+The whole section and the section about "enumerative combinatorics" talks about "combinatorial objects", but does not define that term or give examples of what a combinatorial object might be.  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/79.218.88.224|79.218.88.224]] ([[User talk:79.218.88.224#top|talk]]) 08:30, 18 April 2017 (UTC)</small> <!--Autosigned by SineBot-->
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Combinatorics]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=785338128 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20081231163112/http://www.math.gatech.edu/~sanders/graphtheory/writings/2-digit.html to http://www.math.gatech.edu/~sanders/graphtheory/writings/2-digit.html
+*Added archive https://web.archive.org/web/20121014012243/http://www.combinatorics.net/Resources/hyper/Hyperbook.aspx to http://www.combinatorics.net/Resources/hyper/Hyperbook.aspx
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=failed|needhelp=I believe I used the tool correctly, but after several days there has been no correction to the link erroneously determined to be dead, so I have made the correction by hand}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 23:48, 12 June 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Combinatorics]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=794966944 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20121014012243/http://www.combinatorics.net/Resources/hyper/Hyperbook.aspx to http://www.combinatorics.net/Resources/hyper/Hyperbook.aspx
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=failed|needhelp=The bot has converted this to an archive link before - incorrectly, I believe.  Last time I attempted to use the tool, and then reverted the link manually and flagged for help.   This time I have not reverted.  I think this needs attention from someone who understands the bot and the tools.}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 04:19, 11 August 2017 (UTC)
+
+:OK, I have finally gone ahead and reverted InternetArchiveBot's edit.  This is the second time for the same external link.  The first time I used the tools to report the erroneously flagged link.  I just tried to do so again, but was not permitted to, since that link is already on file.  Which makes it unclear why the bot modified the link a second time.  I hope that someone is monitoring the activities of this bot.  My help requests seem to go unanswered. [[User:Will Orrick|Will Orrick]] ([[User talk:Will Orrick|talk]]) 16:25, 16 August 2017 (UTC)
+
+== The lead ==
+
+The opening sentence in the lead has been stable for many years, but was a bit complex for anyone not familiar with the field. A recent edit attempted to fix this problem by replacing it with the statement that combinatorics is the mathematical theory of counting and citing it to an introductory probability text. I applaud the attempt, but it really goes a bit too far and leaves out major aspects of the subject, thus giving a false impression of the topic. This is understandable given the nature of the source, which I would not call authoritative, since the only aspect of combinatorics that is relevant to introductory probability is counting. To fix this I added the phrase "at its core" to indicate that while not incorrect, the statement was not complete, thus keeping the simplified form without giving the false impression. The next sentence would then have to say something about the broader definition, so I brought back the original sentence, slightly simplified. Another reason to bring back the sentence is that it contained the appropriate links to help make sense of the remainder of the paragraph and the rest of the article. A new problem now arises in that the simplified and broader definitions do not seem to be related (again, for a reader with no knowledge of the topic), so I added the phrase "in which counting is a primary tool" to make this connection clear. While my changes could perhaps be improved upon, a revert clearly needs to be explained and discussed. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 19:04, 26 October 2017 (UTC)
+
+: I agree.  It is rather difficult to define combinatorics, as this page [http://www.math.ucla.edu/~pak/hidden/papers/Quotes/Combinatorics-quotes.htm] suggests.  If one chooses a random probability textbook over authoritative quotes given there, please argue here.  Otherwise, let the page remain as in the stable version before.  [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 23:09, 26 October 2017 (UTC)
+
+Perhaps I didn't make myself quite clear. I agree with the editor who felt that the stable version was too opaque. If I thought that returning to it was the best way to handle the situation, I would have reverted to it myself. I think that my revised version is better than either the stable version or the attempt by that editor. Of course there is no universally agreed upon definition, but an encyclopedia needs to give something that a reader can understand and that isn't too far off the mark. Throwing one's hands up in the air is not a good option. We might want to indicate the lack of agreement of a definition, but only after giving some skeletal outline of the topic. What I have suggested comes fairly close to the ''Princeton Companion'' treatment if it needs a pedigree. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 03:51, 27 October 2017 (UTC)
+
+: I am fine with changing the lead, but do want to agree on a version here before the change is implemented.  I strongly disapprove the ambiguities like "at its core" which was in the recent version.  But I do think "geometric" was a good addition.  I am also fine with the old stable version.  Perhaps, you can propose a new version, post for comparison the Princeton Companion quote and we can start improving on that.  Hopefully we can reach a consensus.  Perhaps, other editors will join the discussion so it's not only the two of us.  [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 05:48, 27 October 2017 (UTC)
+
+Ok. I will do that, although, I'm afraid, given the nature of the beast, you are going to have to accept some ambiguity in the lead. If this could be done without ambiguity there would be a clear-cut definition of the field, which we know does not exist. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 17:20, 27 October 2017 (UTC)
+
+: Right. Perhaps, it's better to start from scratch and make a somewhat vague but acceptable compilation version of some definitions on that page above, than try to make incremental improvements.  [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 20:02, 27 October 2017 (UTC)
+
+Here is a first pass. This is meant to replace the first paragraph. The Mazur quote is from ''Combinatorics : A Guided Tour'' and the Ryser reference is to ''Combinatorial Mathematics''.
+{{hat|Version 1}}
+<blockquote>
+'''Combinatorics''', it has been said, "may rightly be called the [[mathematics]] of counting."<ref>{{harvnb|Mazur|2010|loc = pg. vii}}</ref> Few, however, would take this as a definition without a great deal of further amplification. Agreement on how this amplification should proceed is lacking and, according to {{harvtxt|Ryser|1963|loc=p. 2}}, a definition of this subject is difficult because it crosses so many mathematical subdivisions. In so far as an area can be described by the types of problems it addresses, combinatorics is involved with
+* the ''enumeration'' (counting) of specified [[Mathematical structure|structures]], sometimes referred to as arrangements or configurations, associated with [[finite set]]s,
+* the ''existence'' of such structures that satisfy certain given criteria,
+* the ''construction'' of these structures, perhaps in many ways, drawing upon ideas from several areas of mathematics, and
+* ''optimization'', finding the "best" structure or solution among several possibilities, be it the "largest",  "smallest" or satisfying some other optimality criterion.
+
+Perhaps the easiest way to give an accounting of what combinatorics is, is to describe its subdivisions with their problems and techniques as is done below. However, even this approach is not completely satisfactory since it does not capture the purely historical reasons for including or not including some topics under the combinatorics umbrella.
+
+Although primarily concerned with finite sets, some combinatorial questions and techniques can be extended to an infinite (specifically, [[Countable set|countable]]) but [[Discrete mathematics|discrete]] setting. This concentration on finite sets implies that techniques used in combinatorial arguments are more likely to be drawn from [[algebra]] than [[Mathematical analysis|analysis]].
+</blockquote>
+
+---------
+{{hab}}
+: Let me try to edit this.  I kept much, but revised the first few sentences.  It is more dry and less eloquent perhaps but more direct and to the point, making it more useful perhaps.  I totally disagree with the last proposed lead sentence - much of Asymptotic and Arithmetic Combinatorics uses tools from Analysis, Probabilistic Combinatorics uses tools from Probability, etc.  There seem to be no sensible way to make this distinction correct and meaningful.  
+
+: NOTE:  I am trying to follow [[WP:LEAD]], which is useful reading for those editors unfamiliar with this.  [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 23:19, 29 October 2017 (UTC)
+{{hat|Version 2}}
+<blockquote>
+'''Combinatorics''' is an area of [[Mathematics]] primarily concerned with counting and structural properties of [[finite set]]s.  It is closely related to many other areas of mathematics, incorporating many tools and ideas, and with many applications ranging from [[Logic]] to [[Statistical Physics]], from [[Evolutionary Biology]] to [[Sociology]], etc.  
+
+To fully understand the scope of Combinatorics requires a great deal of further amplification. According to [[H. J. Ryser]], see {{harvtxt|Ryser|1963|loc=p. 2}}, a definition of the subject is difficult because it crosses so many mathematical subdivisions. In so far as an area can be described by the types of problems it addresses, combinatorics is involved with
+* the ''enumeration'' (counting) of specified [[Mathematical structure|structures]], sometimes referred to as arrangements or configurations, associated with finite sets,
+* the ''existence'' of such structures that satisfy certain given criteria,
+* the ''construction'' of these structures, perhaps in many ways, drawing upon ideas from several areas of mathematics, and
+* ''optimization'', finding the "best" structure or solution among several possibilities, be it the "largest",  "smallest" or satisfying some other optimality criterion.
+
+[[Leon Mirsky]] have said: "combinatorics is a range of linked studies which have something in common and yet diverge widely in their objectives, their methods, and the degree of coherence they have attained." [http://www.ams.org/journals/bull/1979-01-02/S0273-0979-1979-14606-8/S0273-0979-1979-14606-8.pdf] Thus, perhaps the easiest way to define combinatorics is to describe its subdivisions with their problems and techniques. This is the approach we use below.  Note, however, even this approach is not completely satisfactory since it does not capture the purely historical reasons for including or not including some topics under the combinatorics umbrella.  Note also that although primarily concerned with finite sets, some combinatorial questions and techniques can be extended to an infinite (specifically, [[Countable set|countable]]) but [[Discrete mathematics|discrete]] setting. 
+</blockquote>
+
+_______________________________________________________________
+{{hab}}
+This looks good to me. A few copyediting changes and a modification of the first sentence of the second paragraph are all that I think are needed. We can reference Pak's quotations for the addition. I think that this added phrase (or its equivalent) is needed to bring clarity to why we are addressing the definition question in the way that we are. I don't think that there was anything wrong with the algebra statement, as I phrased it, considering that up until very recently combinatorics was dealt with by the NSF in its algebra section. However, this is not a deal breaker and I'll be happy to let it slide. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 05:07, 30 October 2017 (UTC)
+{{hat|Version 3}}
+<blockquote>
+'''Combinatorics''' is an area of [[mathematics]] primarily concerned with counting and structural properties of [[finite set]]s.  It is closely related to many other areas of mathematics, incorporating many tools and ideas, and with many applications ranging from [[logic]] to [[statistical physics]], from [[evolutionary biology]] to [[sociology]], etc.  
+
+To fully understand the scope of combinatorics requires a great deal of further amplification, the details of which are not universally agreed upon. According to [[H. J. Ryser]], see {{harvtxt|Ryser|1963|loc=p. 2}}, a definition of the subject is difficult because it crosses so many mathematical subdivisions. In so far as an area can be described by the types of problems it addresses, combinatorics is involved with
+* the ''enumeration'' (counting) of specified [[Mathematical structure|structures]], sometimes referred to as arrangements or configurations, associated with finite sets,
+* the ''existence'' of such structures that satisfy certain given criteria,
+* the ''construction'' of these structures, perhaps in many ways, drawing upon ideas from several areas of mathematics, and
+* ''optimization'', finding the "best" structure or solution among several possibilities, be it the "largest",  "smallest" or satisfying some other optimality criterion.
+
+[[Leon Mirsky]] has said: "combinatorics is a range of linked studies which have something in common and yet diverge widely in their objectives, their methods, and the degree of coherence they have attained." [http://www.ams.org/journals/bull/1979-01-02/S0273-0979-1979-14606-8/S0273-0979-1979-14606-8.pdf] Thus, perhaps the easiest way to define combinatorics is to describe its subdivisions with their problems and techniques. This is the approach that is used below.  However, even this approach is not completely satisfactory since it does not capture the purely historical reasons for including or not including some topics under the combinatorics umbrella.  Although primarily concerned with finite sets, some combinatorial questions and techniques can be extended to an infinite (specifically, [[Countable set|countable]]) but [[Discrete mathematics|discrete]] setting. 
+</blockquote>
+
+_____________________________________________________________
+{{hab}}
+As we seem to be converging on this change, let's try to get some other comments before finalizing.
+
+{{Ping group|Soliciting comments for change of lead|Joel B. Lewis|Will Orrick|David Eppstein}} --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 19:10, 30 October 2017 (UTC)
+:I think "finite sets" is too specific. There is certainly important work on the combinatorics of finite sets (e.g. [[Sperner's theorem]]) but most people would include graph theory (or at least the theory of finite graphs) in combinatorics, and although graphs can be represented as sets they are not the same thing as sets. I would prefer "finite structures", but then we should change "structural" earlier in the sentence to some other word. (Also, from the graph-theoretic perspective, I'm not entirely happy about the emphasis on counting — the enumerative combinatorics of graphs, while important, is a small part of graph theory overall.) —[[User:David Eppstein|David Eppstein]] ([[User talk:David Eppstein|talk]]) 19:21, 30 October 2017 (UTC)
+::Thanks David. I certainly include graph theory in combinatorics and your point is well taken. I think this is easily fixed. As to your issue with counting ... this could just be a matter of perspective. When I think of counting in this context, I have in mind more than just enumeration. I am thinking of it as a fundamental proof technique, and as such, it is pervasive in all of combinatorics, including graph theory. Just think of the handshaking lemma, Ramsey theory, and any proof that sets up a bijection between finite sets. Perhaps this vision needs to be <s>made</s> stated more clearly. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 20:51, 30 October 2017 (UTC)
+::: Some comments:
+:::* I agree with David about "finite structures."
+:::* I think the grammar in the second sentence is broken; "and with" should be "and having", right?
+:::* Can you say a bit about what is intended by the phrase "incorporating many tools and ideas"?  
+:::* I am a bit unhappy with the mention of sociology in the lead, since it is not mentioned in the article body anywhere.
+:::* I suggest moving the Ryser citation into ref tags rather than leaving it in-line.
+:::* I feel like the end gets a bit essay-ish.
+::: All that said, I think it does a very good job saying what combinatorics is about.  --[[User:Joel B. Lewis|JBL]] ([[User_talk:Joel_B._Lewis|talk]]) 00:06, 31 October 2017 (UTC)
+::::Thanks Joel. I agree with your points and will take care of them. I didn't realize the bit about the ending until you mentioned it and I'm not quite sure how to handle that, but I'll sleep on it. Suggestions welcome. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 02:48, 31 October 2017 (UTC)
+
+: This wasn't meant to be a final version, just some minor improvement in the hope there will be more.  I am ok changing sociology to something else, reformatting the citation, finite structures, rewording(s), etc.  I would also probably like to see if there is a way to use some parts of the existing lead here - I think there are some good lines there as well.  Perhaps, David and Joel can help here with more than minor changes.  So, what's the new version now?  [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 05:20, 31 October 2017 (UTC)
+
+::Here is my latest attempt to incorporate corrections suggested and include the rest of the lead (with some minor changes to avoid overlap). We can certainly continue to tweak this, but I'm not seeing any need for major changes. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 19:01, 1 November 2017 (UTC)
+
+<blockquote>
+'''Combinatorics''' is an area of [[mathematics]] primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of [[finite set|finite]] [[Mathematical structure|structures]].  It is closely related to many other areas of mathematics and has many applications ranging from [[logic]] to [[statistical physics]], from [[evolutionary biology]] to [[computer science]], etc.  
+
+To fully understand the scope of combinatorics requires a great deal of further amplification, the details of which are not universally agreed upon.<ref>{{cite web|first=Igor|last=Pak|title=What is Combinatorics?|url= //www.math.ucla.edu/~pak/hidden/papers/Quotes/Combinatorics-quotes.htm|access-date=1 November 2017}}</ref> According to [[H. J. Ryser]], a definition of the subject is difficult because it crosses so many mathematical subdivisions.<ref>{{harvnb|Ryser|1963|loc=p. 2}}</ref> In so far as an area can be described by the types of problems it addresses, combinatorics is involved with
+* the ''enumeration'' (counting) of specified structures, sometimes referred to as arrangements or configurations in a very general sense, associated with finite systems,
+* the ''existence'' of such structures that satisfy certain given criteria,
+* the ''construction'' of these structures, perhaps in many ways, drawing upon ideas from several areas of mathematics, and
+* ''optimization'', finding the "best" structure or solution among several possibilities, be it the "largest",  "smallest" or satisfying some other optimality criterion.
+
+[[Leon Mirsky]] has said: "combinatorics is a range of linked studies which have something in common and yet diverge widely in their objectives, their methods, and the degree of coherence they have attained."<ref>{{citation|first=Leon|last=Mirsky|title=Book Review|journal=Bulletin (New Series) of the American Mathematical Society|volume=1|year=1979|url=//www.ams.org/journals/bull/1979-01-02/S0273-0979-1979-14606-8/S0273-0979-1979-14606-8.pdf|pages=380-388}}</ref> One way to define combinatorics is, perhaps, to describe its subdivisions with their problems and techniques. This is the approach that is used below. However, there are also purely historical reasons for including or not including some topics under the combinatorics umbrella.<ref>{{cite book|last1=Rota|first1=Gian Carlo|title=Discrete Thoughts|date=1969|publisher=Birkhaüser|page=50|quote=... combinatorial theory has been the mother of several of the more active branches of today's mathematics, which have become independent ... . The typical ... case of this is algebraic topology (formerly known as combinatorial topology)}}</ref> Although primarily concerned with finite systems, some combinatorial questions and techniques can be extended to an infinite (specifically, [[Countable set|countable]]) but [[Discrete mathematics|discrete]] setting. 
+
+Combinatorics is well known for the breadth of the problems it tackles. Combinatorial problems arise in many areas of [[pure mathematics]], notably in [[algebra]], [[probability theory]], [[topology]], and [[geometry]],<ref>Björner and Stanley, p. 2</ref> as well as in its many application areas. Many combinatorial questions have historically been considered in isolation, giving an ''ad hoc'' solution to a problem arising in some mathematical context. In the later twentieth century, however, powerful and general theoretical methods were developed, making combinatorics into an independent branch of mathematics in its own right.<ref>{{cite book|last1=Lovász|first1=László|title=Combinatorial Problems and Exercises|date=1979|publisher=North-Holland|quote=In my opinion, combinatorics is now growing out of this early stage.}}</ref> One of the oldest and most accessible parts of combinatorics is [[graph theory]], which by itself has numerous natural connections to other areas.  Combinatorics is used frequently in computer science to obtain formulas and estimates in the [[analysis of algorithms]].
+
+A [[mathematician]] who studies combinatorics is called a ''{{dfn|combinatorialist}}''.
+</blockquote>
+{{talkref}}
+
+_____________________________________________________________
+
+1) I am thinking "combinatorist" is old fashioned and should be deleted.  I tried [[WP:GOOGLE]] and found 50K for "combinatorialist" vs 2.2K for "combinatorist", many of which I am sure to this WP page and its mirrors.  I say we scrap this version.
+
+2) I find "This approach is not completely satisfactory" to be overly negative.  I would put a positive spin on it, as in "To fully understand the definition one needs to see historical reasons for including or not including some topics under the combinatorics umbrella. According to [[Gian-Carlo Rota]], "combinatorial theory has been the mother of several of the more active branches of today's mathematics, which have become independent", singling out [[algebraic topology]] as the most successful example." [http://www.math.ucla.edu/~pak/hidden/papers/Quotes/Discrete-thoughts.pdf]
+I tried to find a better link but failed.  I think it's a chapter of "Discrete thought" by Rota.  
+
+P.S.  Now that I read [[algebraic topology]], that article includes a section "Notable algebraic topologists".  Maybe we also should have a section like that.  <small>[[:Category:Combinatorialists]]</small> has many, of course, but some of those are best known for work in other fields. [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 20:50, 1 November 2017 (UTC)
+
+:I've gone ahead and incorporated some of this in the draft. 1) Although I see a need for it, I wouldn't mind ditching the whole sentence. Certainly, when I see "combinatorist" I grit my teeth, so I am happy to see that go. 2) Reworded slightly to remove the pronoun. I like the Rota quote but it seems to me to be opening up a new topic that isn't addressed in the article, so I've left it out for the nonce. A list of combinatorialists seems like a good idea, perhaps with a disclaimer that some in the list may be more well known for their contributions in other fields. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 21:35, 1 November 2017 (UTC)
+
+:: Some more suggestions.
+
+:: 1)  Let's then ditch the "fully appreciate" sentence. It make the text flow better. 
+
+:: 2)  It would be a good idea to preface "Combinatorics problems..." sentence with a sentence to the effect that combinatorics is well known for its problems.  Otherwise this feels like a logical jump between paragraphs.
+
+:: 3)  I would like to have some quotes or at least citations right after "independent branch of mathematics in its own right." sentence.  I looked at the list of Pak's quotes referenced above.  I liked Lovasz's quote "In my opinion, combinatorics is now growing out of this early stage..." and Stanley's quote "On the other hand, the "depth" of the subject is rapidly increasing..."  Not sure if you want to do anything.  [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 00:09, 2 November 2017 (UTC)
+
+:::1) I would really like to hold on to the sentence as it indicates that there is some hapstance as to what is considered in the purview of combinatorics. I've trimmed the sentence, but if it is still problematic I'd rather try to fix it than ditch it. 2) Done ... could be improved. 3) I am getting a little concerned that we are moving away from summarizing the article and towards writing an essay on combinatorics. The way to tackle this is write more in the body of the article first and then amend the lead to reflect that. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 16:27, 2 November 2017 (UTC)
+
+:::: I am happy with 1) and 2) changes.  As for 3), I agree with you actually.  I don't think the lead should be overly long.  But this is a discussion, and since others are not bringing this up I thought it is worth mentioning as a possibility.  In fact, I am largely happy with the current version.  I would probably add a citation link to Rota and Lovasz in places I mentioned, and be done with it.  If someone want to expand on this, the right place is the "History" section.  
+
+:::: Anyone else has comments, corrections, suggestions, before we implement the lede change?  [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 20:57, 2 November 2017 (UTC)
+
+:::::Ok. I've put the links in (with the quotes). I'm ready to go live with this. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 18:35, 3 November 2017 (UTC)
+
+:::::: I think it's certainly good enough to go live.  I have three further comments:
+:::::: * I think the first sentence is kind of a mouthful, but don't have a constructive suggestion.
+:::::: * The first bullet point is extremely hard to parse -- I think it makes perfect sense with the final clause removed, but maybe other simplifications are possible.
+:::::: * I suggest removing "drawing upon ideas from several areas of mathematics" from the third bullet point: it's not wrong, but it seems off-point to me, and the connections between combinatorics and other fields are discussed elsewhere in the lead.
+:::::: [[User:Joel B. Lewis|JBL]] ([[User_talk:Joel_B._Lewis|talk]]) 01:15, 4 November 2017 (UTC)
+:::::::Thanks Joel. As usual, good points that I agree with. However, we may have hit the "point of diminishing returns" with this. We could spend weeks polishing the prose and getting this just right only to have some editors come by ten minutes after we post this and make valid major changes. I think we should just post it as is and then let the wiki do its magic to improve it. My goal was to make this introduction more reader friendly than the current one and I think this version succeeds at that, even if it could still use some tweaking. Working with {{u|Mhym}} has been very constructive and informative, but it is time to put this baby out there before we get accused of trying to own this article. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 17:41, 4 November 2017 (UTC)
+:::::::: {{u|Wcherowi}} yes, absolutely (and that's why I started my comment the way I did) -- I would be happy to make further edits on the live version.  --[[User:Joel B. Lewis|JBL]] ([[User_talk:Joel_B._Lewis|talk]]) 18:09, 4 November 2017 (UTC)
+::::::::: I also agree.  May edit the article later especially to tweak the first sentence.  Thank you, {{u|Wcherowi}} for being so helpful. [[User:Mhym|Mhym]] ([[User talk:Mhym|talk]]) 02:58, 5 November 2017 (UTC)
+
+== Best in quotes  ==
+
+Putting the word best in quotes in the opening definition implies that what is best is disputed. Is this true? Is there a reference? If so, make it explicit. I propose adding to the sentence “but what is the best solution is disputed.” and removing the quotes.  [[User:Phersh|Phersh]] ([[User talk:Phersh|talk]]) 03:33, 16 December 2017 (UTC)
+:<s>Update your browser cache, I can find no ''best'' in the new introduction</s>.--[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 14:54, 16 December 2017 (UTC)
+:Sorry, I missed that. In optimization, what is considered to be "best" is problem/criteria dependent. This is in quotes, not because it is disputed but rather because it is variable ... there is no single meaning for the term and to not include the quotes would be misleading. --[[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 15:00, 16 December 2017 (UTC)
+
+== make page: [[Permutatorics]] ==
+ask [[Arthur T. Benjamin]] to write it (respect him, he's correct)  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2A02:2149:8426:E300:BCDD:C9EF:2569:22F2|2A02:2149:8426:E300:BCDD:C9EF:2569:22F2]] ([[User talk:2A02:2149:8426:E300:BCDD:C9EF:2569:22F2#top|talk]]) 11:58, 4 January 2018 (UTC)</small> <!--Autosigned by SineBot-->
