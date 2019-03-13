@@ -1,4 +1,4 @@
-import wikipedia, pickle
+import wikipedia, pickle, sampling
 import sampling, os
 import pandas as pd
 
@@ -28,14 +28,21 @@ def getContent(titleList):
         pickle.dump(articles, temp)
     print('%d articles pickled successfully.' % index)
 
-def saveData():
+def saveData(para = False):
     '''
     This function saves the data as 2d and 3d pickles 
     '''
     pids = []
     responses = []
     TALK_COMMENTS_PATH = './dataset/test/talkComments'
-    for talk in os.listdir(TALK_COMMENTS_PATH)[:6]:
+    if para:
+        pickleFileName = 'talkComments_S.pkl'
+        pidsPickle = 'talkpids_S.pkl'
+    else:
+        pickleFileName = 'talkComments.pkl'
+        pidsPickle = 'talkpids.pkl'
+    replacements = ['.', '?',]
+    for talk in os.listdir(TALK_COMMENTS_PATH):
         if talk[-3:] == 'csv':
             talkpid = []
             talkComments = []
@@ -44,10 +51,17 @@ def saveData():
             parentid = pd.read_csv(os.path.join(TALK_COMMENTS_PATH, talk))['parent_id']
             for x,y in zip(temp, parentid):
                 if str(x) != 'nan':
-                    talkComments.append(x)
-                    talkpid.append(y)
-            print(talkpid)
-            talkComments = [x for x in talkComments if str(x) != 'nan']
+                    if para:
+                        for r in replacements:
+                            x = x.replace(r, '. ')
+                        x = sampling.paperToList(x, para=para)
+                        for xs in x:
+                            talkComments.append(xs)
+                            talkpid.append(y)
+                    else:
+                        talkComments.append(x)
+                        talkpid.append(y)
+
             for talkComment in talkComments:
                 temp = []
                 temp.append(talkComment)
@@ -56,13 +70,13 @@ def saveData():
             pids.append(talkpid)
             print('%s pickled successfully.' % talk)
 
-    with open('./dataset/test/talkComments.pkl', 'wb') as temp:
+    with open(os.path.join('./dataset/test', pickleFileName), 'wb') as temp:
         pickle.dump(responses, temp)
     
-    with open('./dataset/test/talkpids.pkl', 'wb') as temp:
+    with open(os.path.join('./dataset/test',pidsPickle), 'wb') as temp:
         pickle.dump(pids, temp)
 
-def testData():
+def testDataSP():
     '''
     '''
     articles = []
@@ -77,17 +91,33 @@ def testData():
     with open('./dataset/test/talkpids.pkl', 'rb') as temp:
         talkpids = pickle.load(temp)
 
-    sampling.testingData(articles[:3], talkComments, talkpids)
+    sampling.testingData(articles, talkComments, talkpids)
 
+def testDataSS():
+    '''
+    '''
+    articles = []
+    with open('./dataset/test/articles.pkl', 'rb') as temp:
+        articles = pickle.load(temp)
+
+    talkComments = []
+    with open('./dataset/test/talkComments_S.pkl', 'rb') as temp:
+        talkComments = pickle.load(temp)
+    
+    talkpids = []
+    with open('./dataset/test/talkpids_S.pkl', 'rb') as temp:
+        talkpids = pickle.load(temp)
+
+    sampling.testingData(articles, talkComments, talkpids)
 
 if __name__ == "__main__":
     '''
     main/ driver function
     '''
-    testData()
+    testDataSP()
     # articlesList = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()
     # getContent(articlesList)
-    # saveData()
+    # saveData(para=True)
     
     # articles = []
     # with open('./dataset/articles.pkl', 'rb') as temp:

@@ -16,7 +16,9 @@ def paperToList(compoundPaper, para=False):
     else:
         for para in compoundPaper:
             for line in para.split('. '):
-                paper.append(line.lstrip())
+                line = line.lstrip()
+                line = line.rstrip()
+                paper.append(line)
     
     paper = list(filter(None, paper))
 
@@ -81,7 +83,7 @@ def testingData(papers, reviews, ids, AA='sentence', BB='para'):
     rowIndex = 0
     paperListed = []
     filename = './dataset/test/'
-    articles = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()[:3]
+    articles = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()
     for paper, pids in zip(papers, ids):
         if AA == 'sentence':
             if paperIndex == 0:
