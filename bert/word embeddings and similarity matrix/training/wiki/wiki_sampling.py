@@ -110,11 +110,66 @@ def testDataSS():
 
     sampling.testingData(articles, talkComments, talkpids)
 
+def trainPP():
+    '''
+    '''
+    articles = []
+    with open('./dataset/train/articles.pkl', 'rb') as temp:
+        articles = pickle.load(temp)
+
+    articlesP = []
+    for article in articles:
+        articleP = []
+        articlelines = []
+        for para in article:
+            articlelines.extend(para.split('. '))
+        new_para = ''
+        length = 0
+        for line in (articlelines):
+            if int(length/10) > 10:
+                articleP.append(new_para)
+                new_para = ''
+                length = 0
+            
+            new_para += line + '. '
+            length += len(line.split())
+                
+        articlesP.append(articleP)
+        
+
+    with open('./dataset/train/articlesP.pkl', 'wb') as temp:
+        pickle.dump(articlesP, temp)
+    
+    print('Creating Training data...')
+    articles = []
+    with open('./dataset/train/articlesP.pkl', 'rb') as temp:
+        articles = pickle.load(temp)
+    sampling.trainingData(articles, overall=True, para=False)
+    
+    return
+
+def testDataPP():
+    '''
+    '''
+    articles = []
+    with open('./dataset/test/articles.pkl', 'rb') as temp:
+        articles = pickle.load(temp)
+
+    talkComments = []
+    with open('./dataset/test/talkComments.pkl', 'rb') as temp:
+        talkComments = pickle.load(temp)
+    
+    talkpids = []
+    with open('./dataset/test/talkpids.pkl', 'rb') as temp:
+        talkpids = pickle.load(temp)
+
+    sampling.testingData(articles, talkComments, talkpids, AA='para', BB='para')
+
 if __name__ == "__main__":
     '''
     main/ driver function
     '''
-    testDataSP()
+    # testDataSP()
     # articlesList = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()
     # getContent(articlesList)
     # saveData(para=True)
@@ -125,3 +180,6 @@ if __name__ == "__main__":
     
     # sampling.trainingData(articles, tuples=10000, overall=True)
     
+    trainPP()
+    print('\n\n*********************\nSampling Test Data\n')
+    # testDataPP()

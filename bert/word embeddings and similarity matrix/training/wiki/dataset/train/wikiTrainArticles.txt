@@ -1,30 +1,30 @@
-Computer science
-Electric battery
-Machine learning
-Network simulation
-Queueing theory
-Phase-type distribution
-MATLAB
-Embedded system
-Telephone exchange
-International Bell Telephone Company
-Western Electric
-Design Line telephone
-AT&T
-Metromedia
-Library (computing)
-Dynamic linker
-Firmware
-Diode matrix
-Reverse engineering
-Software engineering
-Software
-Compiler
 Assembly language
-Utility software
-System software
+AT&T
 Command-line interface
-OpenVMS
-HP Superdome
+Compiler
+Computer science
+Design Line telephone
+Diode matrix
+Dynamic linker
+Electric battery
+Embedded system
+Firmware
 Hard disk drive
+HP Superdome
+International Bell Telephone Company
+Library (computing)
+Machine learning
+MATLAB
+Metromedia
+Network simulation
+OpenVMS
+Phase-type distribution
+Queueing theory
+Reverse engineering
+Software
+Software engineering
 Solid-state drive
+System software
+Telephone exchange
+Utility software
+Western Electric

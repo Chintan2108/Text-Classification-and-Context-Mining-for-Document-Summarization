@@ -25,7 +25,7 @@ def paperToList(compoundPaper, para=False):
     return paper
 
 
-def trainingData(papers, tuples=10000, overall=False):
+def trainingData(papers, tuples=10000, overall=False, para=False):
     '''
     This function saves the train data as with features as ['A','B','label']
     A -> random sentence a random para from any paper
@@ -36,9 +36,9 @@ def trainingData(papers, tuples=10000, overall=False):
     trainColumns = ['A','B','label']
     trainData = pd.DataFrame(columns=trainColumns)
     if overall:
-        filename = 'globalTrainData.csv'
+        filename = './dataset/train/globalTrainDataP.csv'
     else:
-        filename = 'localTrainData.csv'
+        filename = './dataset/train/localTrainDataP.csv'
 
     for row in range(tuples):
         paperIndex = np.random.randint(0,len(papers))
@@ -48,7 +48,10 @@ def trainingData(papers, tuples=10000, overall=False):
         paraListed = paperToList(papers[paperIndex][paraIndex], para=True)
 
         CLS = paraListed[0]
-        A = random.choice(paraListed)
+        if para:
+            A = papers[paperIndex][paraIndex]
+        else:
+            A = random.choice(paraListed)
         label = 0
         
         if np.random.random_integers(0,1):
@@ -64,7 +67,7 @@ def trainingData(papers, tuples=10000, overall=False):
         trainData.loc[row] = [A, B, label]
 
     trainData.to_csv(filename, encoding='utf-8')
-    print('Training data saved successfully.')
+    print('Sampled %d tuples training data saved successfully.' % tuples)
 
 
 def testingData(papers, reviews, ids, AA='sentence', BB='para'):
