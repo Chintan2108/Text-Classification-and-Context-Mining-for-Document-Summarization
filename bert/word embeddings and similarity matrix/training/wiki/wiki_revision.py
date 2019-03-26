@@ -31,7 +31,15 @@ def getRevisions(pageTitle, limit=500):
                                 revision[1].text]
         index += 1
     
-    revisions.to_csv('./dataset/test/editComments/%s_editComments.csv' % pageTitle, encoding='utf-8')
+    filename = ''
+    article = pageTitle.split()
+    if len(article) > 1:
+        for syllable in article:
+            filename += syllable + '_'
+        filename = filename[:-1]
+    else:
+        filename = pageTitle
+    revisions.to_csv('./dataset/test/editComments/%s.edit_Comments.csv' % filename, encoding='utf-8')
     print('%s_editComments.csv saved successfully.\n' % pageTitle)
 
 if __name__ == "__main__":

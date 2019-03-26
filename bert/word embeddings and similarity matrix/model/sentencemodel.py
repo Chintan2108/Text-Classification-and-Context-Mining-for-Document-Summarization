@@ -144,9 +144,15 @@ def categorizer():
             max_sim_index = len(categories)-1
             if np.array(score_row).sum() > 0:
                 max_sim_index = np.array(score_row).argmax()
-            results[domain][categories[max_sim_index]].append(response)
+                temp = {}
+                temp['response'] = response
+                temp['score'] = np.array(score_row).max()
+            else:
+                temp = response
+            results[domain][categories[max_sim_index]].append(temp)
         print('Completed.\n')
-        
+        #newlist = sorted(list_to_be_sorted, key=lambda k: k['name']) --> to sort list of dictionaries
+
         #initializing the matrix with -1 to catch dump/false entries for subcategorization of the novel responses
         no_of_novel_responses = len(results[domain]['Novel'])
         st = time.time()
