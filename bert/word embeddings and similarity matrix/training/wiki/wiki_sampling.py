@@ -163,7 +163,7 @@ def testDataPP():
     with open('./dataset/test/talkpids.pkl', 'rb') as temp:
         talkpids = pickle.load(temp)
 
-    sampling.testingData(articles, talkComments, talkpids, AA='para', BB='para')
+    sampling.testingData(articles[:5], talkComments[:5], talkpids[:5], AA='para', BB='para', toggle=True)
 
 if __name__ == "__main__":
     '''
@@ -180,6 +180,6 @@ if __name__ == "__main__":
     
     # sampling.trainingData(articles, tuples=10000, overall=True)
     
-    trainPP()
+    # trainPP()
     print('\n\n*********************\nSampling Test Data\n')
-    # testDataPP()
+    testDataPP()

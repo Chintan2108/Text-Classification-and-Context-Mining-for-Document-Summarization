@@ -70,7 +70,7 @@ def trainingData(papers, tuples=10000, overall=False, para=False):
     print('Sampled %d tuples training data saved successfully.' % tuples)
 
 
-def testingData(papers, reviews, ids, AA='sentence', BB='para'):
+def testingData(papers, reviews, ids, AA='sentence', BB='para', toggle=False):
     '''
     This function saves the test data with features as ['A','B']
     A -> random sentence from any paper; B -> random sentence from all the reviews of that paper
@@ -116,10 +116,18 @@ def testingData(papers, reviews, ids, AA='sentence', BB='para'):
             reviewListed = reviewSentences
         paperIndex += 1
         
-        for A in paperListed:
-                for B, ID in zip(reviewListed, pids):
-                    testData.loc[rowIndex] = [A, B, ID, articles[paperIndex-1]]
+        if toggle:
+            if rowIndex == 0:
+                filename += 'toggled_'
+            for B, ID in zip(reviewListed, pids):
+                for A in paperListed:
+                    testData.loc[rowIndex] = [B, A, ID, articles[paperIndex-1]]
                     rowIndex += 1
+        else:
+            for A in paperListed:
+                    for B, ID in zip(reviewListed, pids):
+                        testData.loc[rowIndex] = [A, B, ID, articles[paperIndex-1]]
+                        rowIndex += 1
         print('Paper - %d, Row - %d' % (paperIndex, rowIndex))
     print('Populated the test data successfully.')
 
