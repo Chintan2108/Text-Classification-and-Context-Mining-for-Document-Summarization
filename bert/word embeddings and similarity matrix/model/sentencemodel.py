@@ -2,7 +2,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
 from gensim.models import KeyedVectors
-from threading import Semaphore
 from networkx.algorithms.components.connected import connected_components
 import os
 import json
@@ -10,6 +9,8 @@ import warnings
 import networkx
 import time
 import numpy as np
+
+THRESHOLD_SCORE = 0.4
 
 def toGraph(l):
     '''
@@ -83,7 +84,7 @@ def categorizer():
 
     st = time.time()
     wordmodelfile = 'E:/Me/IITB/Work/CIVIS/ML Approaches/word embeddings and similarity matrix/GoogleNews-vectors-negative300.bin'
-    wordmodel = KeyedVectors.load_word2vec_format(wordmodelfile, binary = True)
+    wordmodel = KeyedVectors.load_word2vec_format(wordmodelfile, binary = True, limit=200000)
     et = time.time()
     s = 'Word embedding loaded in %f secs.' % (et-st)
     print(s)
@@ -151,6 +152,15 @@ def categorizer():
                 temp = response
             results[domain][categories[max_sim_index]].append(temp)
         print('Completed.\n')
+
+        #sorting domain wise categorised responses based on scores
+        for domain in results:
+            for category in results[domain]:                                                                                                                                               
+                temp = results[domain][category]
+                if len(temp)==0 or category=='Novel':
+                    continue
+                #print(temp)
+                results[domain][category] = sorted(temp, key=lambda k: k['score'], reverse=True)
         #newlist = sorted(list_to_be_sorted, key=lambda k: k['name']) --> to sort list of dictionaries
 
         #initializing the matrix with -1 to catch dump/false entries for subcategorization of the novel responses
