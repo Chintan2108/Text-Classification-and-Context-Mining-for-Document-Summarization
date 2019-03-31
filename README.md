@@ -26,8 +26,8 @@ Fine-tuning a pretrained bert model on a custom dataset for sentence pair classi
 The following datasets were sampled for groundtruth as well as for training and testing the model.
 Validation data for model evaluation will be released soon.
 
-* Openreviews papers and review comments
-* Wikipedia talk and edit comments along with the articles
+* Openreviews papers and review comments train and test data [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/training/open%20reviews/dataset)
+* Wikipedia articles with talk/edit comments train and test data [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/training/wiki/dataset)
 
 ### Sentence Pair Similarity (Algorithm + Implementation)
 
@@ -41,8 +41,7 @@ This is an algorithm I penned for labelling a pair of sentences with a similarit
 #### Datasets
 
 * Google Word Embeddings pretrained vectors for 1b words from Google news
-* Open reviews train and test data [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/training/open%20reviews/dataset)
-* Wikipedia articles with talk/edit comments train and test data [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/training/wiki/dataset)
+* Train and test data to be released soon.
 
 ### Web Crawlers
 
