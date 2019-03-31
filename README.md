@@ -41,7 +41,8 @@ This is an algorithm I penned for labelling a pair of sentences with a similarit
 #### Datasets
 
 * Google Word Embeddings pretrained vectors for 1b words from Google news
-* Train and test data to be released soon
+* Open reviews train and test data [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/training/open%20reviews/dataset)
+* Wikipedia articles with talk/edit comments train and test data [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/training/wiki/dataset)
 
 ### Web Crawlers
 
