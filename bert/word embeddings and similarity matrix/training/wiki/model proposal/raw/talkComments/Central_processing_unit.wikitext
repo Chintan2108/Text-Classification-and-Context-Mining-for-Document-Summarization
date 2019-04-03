@@ -1,0 +1,687 @@
+{{Talk header|search=no|noarchive=yes}}
+{{Vital article|level=4|topic=Technology|class=C}}
+{{ article history
+| maindate = March 4, 2006
+| action1 = PR | action1link = Wikipedia:Peer review/Central processing unit/archive1 | action1date = 20:23, 21 December 2005 | action1result = reviewed | action1oldid = 32269872
+| action2 = FAC | action2link = Wikipedia:Featured article candidates/Central processing unit/archive1 | action2date = 01:25, 13 January 2006 | action2result = promoted | action2oldid = 34949491
+| action3 = FAR | action3link = Wikipedia:Featured article review/Central processing unit/archive1 | action3date = 20:34, 24 January 2007 | action3result = removed | action3oldid = 102464631 | currentstatus = FFA
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Computing|class=c|importance=High|hardware=true|hardware-importance=Top}}
+{{v0.5|class=C|importance=mid|category=Engtech}}
+{{WikiProject Spoken Wikipedia|Central Processing Unit (Part 1).ogg}}
+{{dashboard.wikiedu.org assignment | course = Wikipedia:Wiki_Ed/North_Carolina_State_University/Architecture_of_Parallel_Computers_(Fall_2016) | assignments = [[User:Ssudars|Ssudars]] }}
+}}
+{{ user:MiszaBot/config
+| archiveheader       = {{talkarchivenav}}
+| maxarchivesize      = 31K
+| counter             = 3
+| minthreadsleft      = 4
+| minthreadstoarchive = 1
+| algo                = old(60d)
+| archive             = Talk:Central processing unit/Archive %(counter)d
+}}{{ user:HBC Archive Indexerbot/OptIn
+| target        = Talk:Central processing unit/Archive index
+| mask          = Talk:Central processing unit/Archive <#>
+| leading_zeros = 0
+| indexhere     = yes
+}}
+{{split article|from=Central processing unit
+|from_oldid=//en.wikipedia.org/w/index.php?title=Central_processing_unit&diff=25407557&oldid=25401245
+|to=List of CPU architectures
+|date={{date|2005-10-13}}
+|diff=25406773
+}}
+{{archives|search=yes|index=/Archive index|bot=MiszaBot I|age=60|dounreplied=yes}}
+
+== Link inappropriate? ==
+
+The external link to cpu-collection.de, a documentary website about the history of microprocessors, has been removed for being "inappropriate". In an article about Central Processing Unit - isn't this link helpful and therefor appropriate? What do you think? <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Morkork|Morkork]] ([[User talk:Morkork|talk]] • [[Special:Contributions/Morkork|contribs]]) {{{2|}}}.</small><!-- Template:Unsigned -->
+
+:It was removed partially because you were adding it to several articles without first discussing its inclusion.  That is generally viewed as [[WP:SPAM]], especially if you have something to do with the website you are adding.  I'd say that link may be appropriate for [[microprocessor]] (ask on the talk page), but not this article. -- [[User:Matt Britt|mattb]] <code>@ 2006-11-08T01:25Z</code>
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Central processing unit]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=750214132 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20121029060050/http://download.intel.com/museum/Moores_Law/Video-Transcripts/Excepts_A_Conversation_with_Gordon_Moore.pdf to ftp://download.intel.com/museum/Moores_Law/Video-Transcripts/Excepts_A_Conversation_with_Gordon_Moore.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 11:09, 18 November 2016 (UTC)
+== Thanks to the author(s) from the Tatar Wikipedia participants ==
+Thank you, the author(s) of this article. We translated your article into the Tatar language.--[[User:A.Khamidullin|A.Khamidullin]] ([[User talk:A.Khamidullin|talk]]) 12:30, 26 March 2017 (UTC)
+{{talkarchivenav}}
+
+'''Note''': The below comments generally refer to this article before it was totally rewritten; they are largely irrelevant to the article as it exists today. -- [[User:Uberpenguin|uberpenguin]] 05:28, 11 December 2005 (UTC)
+
+
+== Changes a'comin ==
+I've made several changes and I'd like to justify them below.  My intent is to get this article up to something respectible; in its current form it is mislabeled, disorganized, and very confusing.
+
+:::''Note: Most of section entered by uberpenguin 13:06, 21 September 2005 (UTC)''
+
+:I think the changes are pretty well done. -- Unsigned [[User:84.190.223.208]]
+
+===CPU functionality section===
+* Changed 'ones and zeros' to 'numbers.'  There is nothing that requires a CPU to be binary, and depending on how broad your definition of CPU is, there are plenty of examples.  If we wanted to be really rigorous we would have to talk about discrete states rather than 'ones and zeros,' since the latter representation is merely a significance we give to real physical quantities like 'high and low voltage,' or vice versa, etc.  I did very significant rewriting of the first paragraph to accomodate a much better and more general description of this.
+
+* Reworked the intro just a bit.. The section tries to take a very simplistic and often over-specific approach, but totally takes it for granted tha the reader will know what a program is and how it is stored.  Bad bad bad....
+
+* Tried to make the section more generally correct without sacrificing much understandability to the unacquainted reader.  The section originally assumed that a CPU has to be a binary, scalar, Von Neumann architecture.  While these are certainly the most common types of CPUs, there are many more types and totally negating them is terrible fallacy.  In all honesty, this section belongs in a discussion on the Von Neumann architecture, not here.  Regardless, the section still addresses the common Von Neumann binary architecture, but it at least hints that there are other possibilities as well.
+
+* Organized it into something sane.  I don't know who wrote this, but I'm sorry to say it's really terrible from an organization standpoint.  I redid things a bit so the explanation follows the simplest and most common pipeline possible for the VN arch; fetch, decode, and execute.  We do readers 'no justice whatsoever' if they read a simple explanation of binary VN CPUs and don't even come out knowing the fundamental steps in a three-stage pipeline.
+
+* Removed the memory blurb.  It's TOTALLY irrelevant to the operation of CPUs both theoretically and practically.  The reader needs only to know that computer memory stores numbers and they can then proceed to the relevant linked Wikipedia article about computer memory if they wish to know more.
+
+* Moved the bit width discussion to its own section; it doesn't belong in a discussion of functional operation.
+
+
+===Intro===
+
+* Minor rewording for clarity.  I will rework and expand this more soon so it talks a little bit more about the history of CPUs, their significance in society (i.e. [[miniaturization]]), etc.  It needs to be expanded a lot along with the article.
+
+===More to come===
+I'm going to expand this article a good bit to make it less microprocessor centric, have more history, be much clearer, discuss the impact of the CPU since its advent, and in general be much less crappy than it currently is.  Hopefully the edits I've made so far indicate the direction I want to take the article.  I appreciate any comments, input, or assistance in this task.  It's sad that Wikipedia's article on CPUs is so poor, but I'm here to change that!  Here's hoping <s>I</s> we can bring this one up to featured article quality.
+
+One question I'd like to put up for discussion though..  Should we assume that the term CPU exclusively applies to Von Neumann machines?  I personally cannot think of an example to counterpoint this statement, and I'm fairly sure that "CPU" came into use long after the majority of all computers that were explicitly called "computers" were in fact Von Neumann architectures.  Since analog computers (or whatever you want to call them today... "signal processors," perhaps) really don't operate as VN machines, I think we can safely ignore them in this article.  I think this article should at least mention the [[Harvard architecture]], but off the top of my head, I can think of no device that uses the Harvard architecture that one might call a "CPU."  However, I'm certainly no guru and I'd like some input on this matter in particular.
+
+-- [[User:Uberpenguin|uberpenguin]] 13:06, 21 September 2005 (UTC)
+
+:Yes, assume [[von Neumann architecture]].  Essentially all computers with a ''central'' processor are that, excepting experimental things.  Analog computers are still called analog computers; most signal processors these days are digital, and if they are analog they usually aren't computers.  On the term cpu, see below -[[User:R. S. Shaw|R. S. Shaw]] 03:11, 29 September 2005 (UTC)
+
+::Well, 'analog computers' are usually called 'filters,' 'signal processors,' etc.  I was thinking along the lines of old analog computational devices built out of op amps, comparators, integrators, etc.  While these devices were formerly referred to as analog computers, it's more common to call them by other names like 'digital to analog converter' nowadays.  Anyway, that isn't really the issue at hand, neither to I think that it's unreasonable to include a brief discussion of the Harvard architecture in an article about CPUs (Harvard and VN are pretty similar in many major ways; they are both stored program designs).  I guess what I'm looking for is some confirmation that the direction I've chosen to steer this article in (i.e. "a CPU is a device that carries out stored program execution") is acceptable.  This ties in with the history of the term below; I decided to go with this point of view because I couldn't think of any counterpoints (that is, any contraption called a CPU that isn't/wasn't a digital device to execute stored program).  Perhaps I'm agonizing over the strict definition a bit too much? -- [[User:Uberpenguin|uberpenguin]] 04:20, 29 September 2005 (UTC)
+
+===History===
+I threw together a brief history section.  Please give me input and advice on it.  I tried to cover the bases without being overly wordy or incomplete (difficult to do).  I also linked the history of computer hardware article, since it goes into some of the things I discuss in much more depth.  I do realize that I am taking a very broad definition of the term "CPU."  I myself debated for a while as to how far to extend the definition.  Certainly the term did not come into common usage until at LEAST since transistorized computers have had their advent.  Generally the term is much more commonly associated with microprocessors.  However, in being consistent with the [[CPU design]] article, I've decided to extend the term retroactively to include the core of older computers as well.  Since CPU is essentially a description of functionality, I hope the history buffs will let me get away with this.  Hmm... actually I think I'll add some text on this subject to the intro...
+
+:Don't be too sure the term CPU is recent.  I think the term probably dates back at least to the 50s.  Back then a CPU was a unit, a large cabinet in the middle of many cabinets, probably the one with the [[blinkenlights]].  The term was used in 1964 in Amdahl, Blaauw, & Brooks' paper on the architecture of the [[System/360]] (and was probably a well established term at that time) . -[[User:R. S. Shaw|R. S. Shaw]] 03:11, 29 September 2005 (UTC)  
+
+::Ah, well I wasn't sure at all, that's why I went to the trouble of writing all this junk on the talk page. :)  Most people I've talked to were using computers in the early 70s, and they had no idea of the origins of the term (but remember using it).  So until I could discover something more concrete, I mentioned the earliest date I knew "CPU" to be in use.  I sent an email to an old buddy who was a big developer at DEC in the late 60s and early 70s asking if he knew anything else regarding the history of the term.  Thanks very much for giving me a more concrete point to work from, though.  I looked up the paper you mentioned and it does indeed make frequent casual use of "CPU."  I'm adding it as a reference to this article. -- [[User:Uberpenguin|uberpenguin]] 04:28, 29 September 2005 (UTC)
+
+:Added some images... I'm working on getting a neat shot of a PDP-8 flip chip module next to a modern IC microprocessr. Should be really great for a sense of scale and miniaturization. -- [[User:Uberpenguin|uberpenguin]] 15:49, 27 September 2005 (UTC)
+
+I plan to add another section talking about CPU design considerations and implementation, since this is largely what people coming here are likely looking for.  I consider this the hardest section to write, but I'll try to keep it as short and accurate as possible.  I plan to discuss things like synchronous vs asynchronous CPUs, CISC and RISC, SISD and SIMD, pipelining, parallelism, etc, all briefly.  The [[CPU design]] article is much more complete and will be linked from this section.  I'm also probably going to move the "notable architectures" section to another article, since it's generally considered bad form to have long lists in WP articles.  If you have any reservations with that, please discuss!  -- [[User:Uberpenguin|uberpenguin]] 21:48, 25 September 2005 (UTC)
+
+== Case contents vs. CPU ==
+From the entry:
+"Manufacturers and retailers of desktop computers often erroneously describe the computer case and its contents as the CPU which is misleading."
+
+My question (and consider mentioning this in the entry):
+What then is the best terminology for the case and contents?
+Seems to me "PC usually means the case, contents, monitor, kbd, mouse etc"
+Saying just "case" sounds like I mean the empty case.
+How should we call that *THING*, (case with all contents fully assembled)? (i.e. PC minus monitor and peripherals)
+What??
+[[User:Glueball|Glueball]] 07:03, 17 Dec 2003 (UTC)
+:I call the "CPU" the computer if I'm talking about parts, and I call the whole system the computer if I'm just talking about it in general.  It depends on the context. [[User:Paul Cyr|Paul Cyr]]
+----
+I use ''computer'' and sometimes ''PC'' to refer to the case and contents and occasionally use ''computer system'' to refer to the computer plus peripherals.  This seems to be in line with most literature, as well.
+
+There are many people who will think that you are talking about the monitor when you say ''computer'', and will say ''hard drive'' when talking about the computer. ~~
+
+It may be a good idea to have a computer glossary page for common components, which the various computer-related articles can link to.  It's frustrating to tell a user ''the hard drive died'', and they start thinking in he hundreds of dollars, or worse yet (barely), you can't seem to get across to them that their data is gone.  A glossary would an easy way to help ensure that everyone is on the same sheet of music, so to speak.
+
+If no one else starts such a page, and one doesn't already exist, I'll see about doing it in the next few days.  It would be useful as a gateway page for other computer-related articles.
+[[User:Scott McNay|--Scott.]] 07:11, 2004 Feb 9 (UTC)
+----
+See this page, it lists the components of a computer case. 
+[[Computer_hardware]] [[User:Scott McNay|--Scott.]] 06:03, 2004 Feb 10 (UTC)
+
+== Multicore processor ==
+The article states: IBM, SUN, AMD and Intel have started to push the idea of a future and somewhat controversial architecture: a multicore processor (mostly a dual-core processor).
+
+I just attended a presentation by AMD in which they claimed to be releasing dual-core processors in the second half of this year. Perhaps this sentence should not, therefore, make it sound like it's so far away. Does anyone agree? --[[User:202.74.200.242|202.74.200.242]] 10:59, 9 Mar 2005 (UTC)
+:Multicore ICs have been around for several years; for example, IBM's POWER architecture has used a multicore design since POWER4.  The statement you referenced is a bit too PC-centric, I'll edit it to something more appropriate. -- [[User:Uberpenguin|uberpenguin]] 00:53, 2005 Apr 18 (UTC)
+
+== bytes per second? ==
+
+What would be the formula to calculate the megabytes/second processed in a 500 MHz 32-bit processor, considering the IPC is constant at 1?
+
+MBps = (500 * 1000000 * 32) / 8)) / 1024000 ?
+
+Does this look about right?
+
+:Mebibytes per second is a measurement of bandwidth, and a very limited one these days.  It's difficult to impossible to measure CPU performance in "bytes per second" because it does not simply transmit and receive data.  Some traditional benchmarks have been [[Million_instructions_per_second|MIPS]] and [[FLOPS]], though these too are very limited metrics when you consider the high amount of TLP, ILP, and vector capabilities in a modern "general purpose" processor.  -- [[User:Uberpenguin|uberpenguin]] 03:06, 2005 Jun 6 (UTC)
+
+== Cleanup ==
+
+The links section is in need of revision. Some of the links there are irrevelant and/or repeated. --[[User:Rowan Moore|cheese-cube]] 11:50, 15 August 2005 (UTC)
+
+----------------
+Did some link cleaning up today but the article still needs a serious rewrite. [[User:MansonP|MansonP]] 12:34, 6 September 2005 (UTC)
+
+==Merger==
+Regarding the proposed merger of the articles "Central processing unit" and "Microprocessor": The terms "Processor" and "Central processing unit" are more general, while "Microprocessor" refers only to CPUs that fit on one integrated circuit chip, thus excluding all computers where processing is distributed among more than one component, i.e., all earlier computers, and some later ones.
+
+I've done some preliminary work on this [[User:Splintax/CPU_merger|user subpage]] of mine. Work is still undergoing though and it's far from complete.
+
+Anyone care to load it up, tell me what you think, maybe make a few changes to it? Leave any comments on my [[User_talk:Splintax|user talk]]. Thanks.
+
+Also, we'll need to decide if we do go ahead with the merger which page to keep and which to change to a #redirect..
+
+[[User:Splintax|splintax]] 14:47, 8 September 2005 (UTC)
+:I personally oppose merging CPU with microprocessor. CPUs existed before ICs. [[User:Ancheta Wis|Ancheta Wis]] 16:35, 11 September 2005 (UTC)
+
+:: Correct, but I think the article would actually be more informative if we discuss pre-IC and IC CPUs in the same article. --[[User:R.Koot|R.Koot]] 17:37, 11 September 2005 (UTC)
+
+::: Agree with Ancheta Wis totally. In its current form the CPU article sucks because incorrectly assumes that the only CPUs in existence are digital, binary, electronic, Von Neumann architectures. I've started to make some edits to correct this and hope to turn this into a respectible CPU article sometime soon. However, this should DEFINITELY stay separate from the microprocessor article (which is largely a catalogue of microprocessor designs anyway; perhaps it should be renamed accordingly). -- [[User:Uberpenguin|uberpenguin]] 12:59, 21 September 2005 (UTC)
+
+----
+
+Merging CPU and Microprocessor is not a good idea.  They're quite distinct subjects, with lots to be said about each. -[[User:R. S. Shaw|R. S. Shaw]] 00:27, 29 September 2005 (UTC)
+
+I also '''emphatically''' agree: the topics are distinct and should remain so. While many people do sometimes refer to a microprocessor as a CPU, the CPU predated the microprocessor. To my understanding, the central processing unit (CPU) refers to the processor (miro or otherwise) together with memory (not storage), support circuitry, bus, and perhaps the interfaces to IO devices and other peripherals&mdash;essentially the contents of the typical cabinet that contains the processor (from mainframes to PCs).  [[User:Finell|Finell]] 09:44, 2 October 2005 (UTC)
+
+
+I strongly disagree with merging CPU and Microprocessor. CPU an microprocessor are two different categories. Current microprocessors include not only a CPU but one to three cache memory levels; in some cases (AMD Opteron or the proposed Alpha EV7) even integrate the memory controller. Dual core (e.g. IBM Power5 or Itanium Montecito) and multi core microprocessors have more than one core. Today superescalar or multithreaded cores include the CPU plus split instruction and data caches and bank prediction stuff that makes up what we call the first cache level, and can be considered as functional units fully integrated in the CPU datapah, actually.[[User:Briz|Briz]] 10:25, 7 October 2005 (UTC)
+
+Merge is a bad idea since CPU and microprocessor aren't the same thing.  I'm removing the <nowiki>{{mergedisputed}}</nowiki> tag. [[User:Quale|Quale]] 08:38, 10 October 2005 (UTC)
+{{talkarchivenav|noredlinks=y}}
+
+== Visuals ==
+
+I'd like to add some more visuals to the new sections I'm writing for modern CPU design considerations.  However, I'd like to do so without resorting to block diagrams.  No offense to block diagrams, but they just aren't visually arresting nor something that the non-engineer/non-programmer would likely be interested in looking over.  Any suggestions on interesting visuals to provide for ILP and TLP?  I'm leaning towards just inserting an image of a monster like [[POWER5]] or Sun's [[UltraSPARC T1]] into the article for the latter :) -- [[User:Uberpenguin|uberpenguin]] 05:33, 11 December 2005 (UTC)
+
+:Tried adapting the style of diagram Jon Stokes (Hannibal) uses for this purpose? -- [[User:Wayne Hardman|Wayne Hardman]] 16:10, 23 January 2006 (UTC)
+
+== To add, or not? ==
+
+I've been toying with the idea of including some sort of discussion of CPU cache design and methodology as well as some blurb about RISC vs CISC.  However, I keep coming back to a couple of major mental blocks.  First, the article is already fairly lengthy, and I'm afraid to add any more major sections for risk of making it too all-inclusive.  Second, I want to keep the article as close as possible to a discussion of STRICTLY CPUs (not computers, not memory, not peripherals, not software), and I somewhat feel that RISC vs CISC is an ISA topic first and foremost and should be covered in discussions of ISA design, not CPU design.  Finally, the section discussing the motivations for and function of superscalar architecture does very briefly touch on why CPU caches are necessary for very deeply pipelines, so I'm tending to believe that a lengthy diversion into cache methodology would be overspecific and largely detract from the flow of the article.  Input is appreciated on any or all of these points! -- [[User:Uberpenguin|uberpenguin]] 06:16, 11 December 2005 (UTC)
+
+:The cache subject really belongs in the memory arena than in the CPU area; cache is a memory function despite the fact it is coupled to the cpu design and often is on the same chip as the cpu core. Thus it doesn't seem like it should have more than a mention in passing in this article.  RISC/CISC is really an ISA issue.  It certainly affects the details of a cpu design (and vice versa), it is a more detailed and somewhat separate and divorced subject.  As you say, the article is already large, and thus shouldn't be expanded with these topics IMHO.  Also, note Wikipedia has other articles which can and do treat these. -[[User:R. S. Shaw|R. S. Shaw]] 01:08, 13 December 2005 (UTC)
+
+::I'd like to point out that [[CPU cache]] is already a FA. [[User:MarSch|MarSch]] 14:06, 5 March 2006 (UTC)
+
+:::Yeah, I have long since dropped the idea of adding much of a discussion of cache here. -- [[User:Uberpenguin|uberpenguin]] 16:00, 5 March 2006 (UTC)
+
+== CPU Clustering ==
+
+Hey,
+
+I'm thinking that something on clustering should be added to this article?  What do guys think? --[[User:ZeWrestler|<span style="color:green">ZeWrestler</span>]]  [[user talk:ZeWrestler|<sup><span style="color:green">Talk</span></sup>]] 16:56, 12 December 2005 (UTC)
+
+:The article already touches on SMP and NUMA as TLP strategies.  Cluster computing is a systems-level design approach and really has nothing to do with CPU design at all. -- [[User:Uberpenguin|uberpenguin]] 20:02, 12 December 2005 (UTC)
+::Ok, thanks. --[[User:ZeWrestler|<span style="color:green">ZeWrestler</span>]]  [[user talk:ZeWrestler|<sup><span style="color:green">Talk</span></sup>]] 16:45, 13 December 2005 (UTC)
+
+== Nitpicking ==
+
+A possibly overly pedantic remark: The article says ''"The first step, fetch, involves retrieving an instruction (which is a number or sequence of numbers) from program memory."''. I would actually say that the instruction is ''represented by'' a number rather than that it ''is'' a number. That is, the instruction is a conceptual entity and not a concrete one. When for example a processor manual refers to the ADD instruction we think of it as something other than a number. Or would it be confusing to make this distinction? -- [[User:Grahn|Grahn]] 03:39, 15 December 2005 (UTC)
+
+:I can't see how changing the phrasing from 'which is a...' to 'which is represented by...' could cause more confusion.  However, while I do agree with you that an instruction is more conceptual than concrete, I think that for all intents and purposes an instruction IS a number in almost every major device that could be called a CPU.  How does one gauge binary compatibility of two CPUs?  Is it not whether the instructions (numbers) used in software can be interpreted successfully for the same end result by both?  One could hardly argue that two CPUs are binary/ISA compatible if they used the exact same (conceptual) instructions but used different numbered opcodes, a different signed representation, a different FP system, etc.
+
+:On the other hand, as I said earlier, your suggested phrasing really doesn't make the text more confusing, so I'll modify it per your suggestion. -- [[User:Uberpenguin|uberpenguin]] 04:25, 15 December 2005 (UTC)
+
+I think it would be good if there where examples of where ''elements of the Harvard architecture are commonly seen as well''.  I am not quite sure where this is the case except maybe in the segments in the intel 80n86 processors.  And in embeded systems where the code is ROM and the Data is in RAM (but I am not sure that this counts and the RAM and ROM share the same address bus). [[User:Gam3|Gam3]] 05:00, 27 December 2005 (UTC)
+
+:Superscalar cache organization and some SIMD designs, mostly.  This article isn't about cache (as discussed above), so the former is out.  I thought the latter was a bit too specific to cover in much detail, but I didn't want to altogether ignore it; thus the single brief sentence hinting that Harvard still pops its head up from time to time. -- [[User:Uberpenguin|uberpenguin]] 22:51, 30 December 2005 (UTC)
+
+== Integrated circuit CPUs between discrete transistor CPUs and microprocessors ==
+
+There wasn't a transition directly from discrete transistor CPUs to microprocessors; CPUs were built from SSL, MSI, and LSI integrated circuits before the first microprocessors.  I'd rename "discrete transistor CPUs" to "discrete transistor and integrated circuit CPUs", or something such as that, and mention that the discrete transistors were replaced by IC's; I'd argue that transition wasn't as significant as the transition to microprocessors, so I'm not sure I'd give it a section of its own. [[User:Guy Harris|Guy Harris]] 09:23, 25 December 2005 (UTC)
+
+:True true... I got kinda lazy and omitted this for brevity.  I'll try to work it in somehow. -- [[User:Uberpenguin|uberpenguin]]
+
+::Okay I reworked that section, and I think it's a lot more accurate and understandable now.  Let me know what you think. -- [[User:Uberpenguin|uberpenguin]] 23:48, 25 December 2005 (UTC)
+
+You also skipped the bitslice technology that the late 70 and later minicomputers used. While the chip fabrication technology could support only very simple complete CPU's, similar technology was used to create multi chip CPU's of much higher power. CF AMD 2900 series devices.--[[User:Shoka|Shoka]] 17:53, 4 March 2006 (UTC)
+
+:I'm pretty sure I mentioned multi-IC CPUs very briefly.  I'm not sure that there is a whole lot to be said about them from an architectural standpoint, though. -- [[User:Uberpenguin|uberpenguin]] 16:04, 5 March 2006 (UTC)
+
+== new inline citation ==
+
+[[Wikipedia_talk:Featured_article_candidates#New_inline_citation_style_available|check this out]], might make our lives slightly easier. in particular with citing sources. --[[User:ZeWrestler|<span style="color:green">ZeWrestler</span>]]  [[user talk:ZeWrestler|<sup><span style="color:green">Talk</span></sup>]] 17:28, 31 December 2005 (UTC)
+
+== 64-bit arithmetic on 32-bit processors, etc. ==
+
+"Arbitrary-precision arithmetic" generally refers to bignums, and the [[arbitrary-precision arithmetic]] page does so as well; that's not, for example, how 32-bit C "long"s were done on 16-bit processors, and it's not how 64-bit "long longs" are done on 32-bit processors, so that really doesn't fit in "arbitrary-precision arithmetic".  For example, it only takes two instructions on PPC32 to add 2 64-bit values, each stored in two registers (addc followed by adde on PPC32), and it only takes two instructions to load the two halves into registers - the equivalent ops are equally cheap on x86 - and it's typically done in-line, so it's arguably misleading to refer only to bignums when discussing that case. [[User:Guy Harris|Guy Harris]] 22:51, 12 January 2006 (UTC)
+
+:True, I just didn't want either the footnote or the text to get too bulky on a side point...  Several folks who prowl FAC are pretty ardently against great elaborations that could conceivably be moved to another article.  I'll change the text a bit to mention hardware big int support. --[[User:Uberpenguin|uberpenguin]] 23:12, 12 January 2006 (UTC)
+
+== Square wave pic ==
+
+I find the picture labeled "Approximation of the square wave..." slightly misplaced, the subject of the article isn´t at all related to fourier series, and cpu clocksignals are generated by other means. I suggest that it be removed or replaced, and it would be great if someone would bother to draw one that shows rising and falling edges (would aid understanding of DDR memory for instance).
+
+[[User:Daniel Böling|Daniel Böling]] 14:07, 25 January 2006 (UTC)
+
+:Agree totally.  It was always a bit out of place; I was grasping for straws to find a picture for that section, had that extra one laying around and stuck it in "temporarily."  What would really be neat/appropriate there is a picture of a logic analyzer hooked up to some small microprocessor like a Z80...  If nobody else has something like this I'll see if I can set it up sometime soon. -- [[User:Uberpenguin|uberpenguin]] 22:52, 29 January 2006 (UTC)
+
+::Ehh... Well the logic analyzer with the counter is an improvement for now.  I'll see if I can find or make something better in the future. -- [[User:Uberpenguin|uberpenguin]] 02:48, 3 March 2006 (UTC)
+
+== fundamental concepts ==
+
+== lead sentence ==
+
+shldn't it be "the component in a digital computer that interprets instructions contained in software and processes data."? [[User:Doldrums|Doldrums]] 07:57, 4 March 2006 (UTC)
+:Well, the current sentence isn't incorrect since software contains both instructions and data.  And when other data is loaded from disk into RAM it can be seen as becoming part of the software. [[User:Redquark|Redquark]] 11:00, 4 March 2006 (UTC)
+::Thanks to the VN architecture, there's usually little differentiation between data storage and instruction storage areas (except in some limited cases like superscalar cache).  Therefore you see whole classes of instructions (like the "immediate" instructions) that contain both an operational message as well as data, which are read simultaneously upon execution.  I think the original phrasing is very much correct from a literal standpoint.  However, conceptually and perhaps theoretically, it's better to think in the terms you mention.  Plus the extra word really doesn't harm anything, so it might as well stay... -- [[User:Uberpenguin|uberpenguin]] <code>@ 2006-05-19&nbsp;14:51Z</code>
+
+== Comments on changes ==
+
+I have largely reverted the changes to bolding and image spacing.  It baffles me why someone would feel that stacking images on top of each other (thereby removing their correct contextual position in the text) on the right side is more pleasing than having the thumbnails in the correct context and balanced on both sides.  I've therefore reverted back to my original image layout; if you have problems with that please discuss them here before changing anything.
+
+On the subject of bolding which has been discussed before in this article's FA nomination: the reason certain terms are bolded is because they are key to understanding subsequent text and are often unique or have unique meaning to the computer architecture field.  I concede that some terms were unneccessarily bolded, so I've cut down the bolding to what I believe to be fundamental terms in the article.
+
+I also removed the out of place blurb about Mauchly and the Atanasoff-Berry Computer that was added by an anonymous user.  The text had absolutely no relevance to this article and I'm surprised it wasn't removed by somebody else. -- [[User:Uberpenguin|uberpenguin]] 14:38, 4 March 2006 (UTC)
+
+: I disgaree heartily with the image reversions. While some people (like me) prefer to right justify, and others prefer to scatter, is up to argument. However, no image should be 350px. The usual on articles now, particulalry featured articles, is 250px. [[User:PZFUN|'''<font color="000000">Páll</font>''']]</font> <sup><font color="ff66cc">[[User talk:PZFUN|('''Die&nbsp;pienk&nbsp;olifant''')]]</font></sup> 15:08, 4 March 2006 (UTC)
+
+::The norm for pictures is |thumb| which sets the image size as per user preferances (but defaults to the rather small 180px wide), and the norm for diagrams is whatever size they're readable at. However, as long as the page works at 800x600 (which this does currently), it's whatever is appropriate for the page. This page is has much more text:image than [[Zion National Park]], makes sense to have them a bit larger. Wouldn't hurt setting most of them to user-defined size though, the assumption is always that people will click on the pic if they want to see the detail. --[[User:Zippedmartin|zippedmartin]] 17:06, 4 March 2006 (UTC)
+
+::While I do respect your position, per zippedmartin's comments, could we possibly defer to my preference here?  Where I'm not going against current WP recommended styling I'd just rather have it "my way" in an article I wrote.  I know it's selfish motive, but it's just more pleasing for me to see it this way and the issue is little more than editor preference. -- [[User:Uberpenguin|uberpenguin]] 04:43, 5 March 2006 (UTC)
+
+== heat sinks ==
+
+The link to [[heat sink]] was removed from ''See also'', with the comment "heat sinks have nothing to do with a discussion of CPUs directly."  This statement is contrary to the following: "Heat sinks are widely used in electronics, and have become almost essential to modern central processing units. ... Due to recent technological developments and public interest, the market for commercial heat sink cooling for CPUs has reached an all time high" (from [[heat sink]]) [[User:Shawnc|Shawnc]] 21:43, 4 March 2006 (UTC)
+
+:I stand by my statement.  You can make the argument that a discussion of thermal dissipation is key to nearly any significant engineering (and especially electrical engineering) scheme, but as it stands a CPU is a functional device, not necessarily a physical implementation.  Thermal issues could justifiably be discussed in an article about, say, integrated circuits, but not here in an article about a functional device with many forms of implementation.  "See also" could easily get out of hand if we included every article that could be logically connected to CPUs and their various incarnations and implementations.  As it is, it should keep to topics that very directly relate to CPUs in the architectural sense. -- [[User:Uberpenguin|uberpenguin]] 02:44, 5 March 2006 (UTC)
+
+::Also, upon reading the [[heat sink]] article, I think it's deplorable state makes it a bad example to use here.  If a lay man read that they might think that microelectronics are the singular application of thermal management devices. -- [[User:Uberpenguin|uberpenguin]] 04:47, 5 March 2006 (UTC)
+
+::In other words, "already covered in [[CPU cooling]]." Alright. [[User:Shawnc|Shawnc]] 03:24, 6 March 2006 (UTC)
+
+:::That too! -- [[User:Uberpenguin|uberpenguin]] 05:26, 6 March 2006 (UTC)
+
+:I did some substantial work on the [[thermal grease]] article the other week. I have a few ideas and will see what I can do to further these secondary articles along. Thermal dissipation is a way of life here in the [[Phoenix Valley]]! ;-) -- [[User:Charles Gaudette|Charles Gaudette]] 19:35, 4 June 2006 (UTC)
+
+== digital is not base-2 ==
+
+[[digital]] does not mean base-2, that is what binary means. A bit is a binary digit, which is not a [[pleonasm]]. [[User:MarSch|MarSch]] 13:54, 5 March 2006 (UTC)
+
+:Yes, I'm fully aware of that.  Unfortunately there is an anonymous editor that is hellbent on including information about the [[Atanasoff-Berry Computer]] in this and other computer related articles.  He seems to believe that my removing the text as irrelevant is an attempt to obscure history, but ignores the fact that this article is about CPUs, not early non-stored program computers.  I've removed the poorly written and off topic text that he added (again).  If/when you see him re-add the text, feel free to remove it as nonsense. -- [[User:Uberpenguin|uberpenguin]] 15:53, 5 March 2006 (UTC)
+
+::Just in case I didn't make it clear; the text that you took issue with was added by the anon editor, not myself.  Where I mention bits in the "integer precision" section I was careful to indicate that they are related to binary CPUs only. -- [[User:Uberpenguin|uberpenguin]] 16:08, 5 March 2006 (UTC)
+
+:::Thanks for removing it. I wasn't looking for an addition of a whole section with a picture, so I didn't fix it myself. -[[User:MarSch|MarSch]] 18:12, 5 March 2006 (UTC)
+
+:::: As we all know ALL non binary computers ware failures, as we also know ALL computers nowadays use binary sytem like ABC did first !!! As many of you don't know ENIAC/EDIVAC were 10 bit systems. And Industrilized version(derivate) of the ABC as the US court concluded. That Anonymous user, 5 March 2006. <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:71.99.137.20|71.99.137.20]] ([[User talk:71.99.137.20|talk]] • [[Special:Contributions/71.99.137.20|contribs]]) </span></small><!-- Template:Unsigned -->
+
+:::::Actually, ENIAC used a word length of 10 decimal digits, not 10 bits (binary digits). Its total storage was twenty of them.[http://ftp.arl.mil/~mike/comphist/eniac-story.html]  -- [[User:Gnetwerker|Gnetwerker]] 17:45, 6 March 2006 (UTC)
+
+:::::: Did you just said "decimal" ??? [[User:71.99.137.20|71.99.137.20]] 17:54, 6 March 2006 (UTC)
+
+::Yes he certainly did.  ENIAC was a digital, decimal computer.  Digital does NOT imply binary as you claim; that's one of the reasons your added text keeps getting reverted.  [[Digital]] simply means finite state (as opposed to infinite state - [[analog signal|analog]]), [[binary numeral system|binary]] is a base-2 numeral system.  Claiming they are one in the same is a fairly severe confusion of terms. -- [[User:Uberpenguin|uberpenguin]] 18:18, 6 March 2006 (UTC)
+
+:::Additionally, the claim that "ALL non binary computers were failures" is absolutely ridiculous.  ENIAC provided reliable service for BRL for over ten years, being upgraded significantly a few times (including one that made it a stored program computer).  IBM, Burroughs, and UNIVAC all built several commercially successful computers that used digital decimal arithmetic.  UNIVAC I, which is nearly universally considered the first highly commercially successful computer, used BCD arithmetic.  Unless you, counter to nearly all computer historians, consider UNIVAC I a failure, then you probably won't wonder at why UNIVAC II and UNIVAC III also supported BCD.
+:::I'm really failing to see the point you are trying to make here.  Nobody is arguing that the ABC wasn't influential or wasn't the first digital electronic computer.  However, it wasn't stored program and is thus irrelevant to this article.  CPUs are Von Neumann machines, so the American history of CPUs really starts somewhere between ENIAC (which was converted to stored-program) and EDVAC (which was stored program by design). -- [[User:Uberpenguin|uberpenguin]] 18:31, 6 March 2006 (UTC)
+
+:::Another example of a successful non-binary computer was the IBM 1620, which was (in its time) a minicomputer specifically intended for scientific calculation. This did all its arithmetic in decimal using lookup tables for multiplication and addition. The default precision for REAL numbers was 8 significant figures, but this could be varied up to 30 figures. [[User:Murray Langton|Murray Langton]] 22:02, 7 March 2006 (UTC)
+
+== stored-program computer - mombo jumbo ==
+
+After John Atanasoff beeng called by NAVI and making NOL computer project (on advice of John von Neumann) and secretly ENIAC was beeing build while John Mauchly was somehow participating in both projects without the knoledge of John Atanasoff. And somehow the NOL project was shut down again on the advice of John von Neumann. And after finaly John Mauchly admiting in court that he for instance had to take "crash course in electronics" shortly after beeing introduced ABC basics. After the trail John von Neumann used the "stored-program computer" noncence like it's the verry key to computers. The truth it's not even close to any of the Atanasoff finding which he made just in making one version of his computer. Which are those findings : the use of binary base, logical operators instead of counters by using vacuum tubes (transistor), refreshed memory using capacitors, separation of memory and computing functions, parallel processing , and system clock. [[User:71.99.137.20|71.99.137.20]] 17:47, 6 March 2006 (UTC)
+
+:And I put the question to you again: what the heck does this have to do with '''stored-program''' CPUs?  All devices ever called CPUs were Von Neumann/Harvard machines.  I'll let you deal with your weird idea that the stored program concept wasn't a huge milestone in computer development, but the fact is that CPUs are stored program machines.  -- [[User:Uberpenguin|uberpenguin]] 18:39, 6 March 2006 (UTC)
+
+:It's very possible that Mauchly got his ideas on how to do arithmetic from Atanasoff - and that seems to be pretty much what the judge said in the court case - it's not good that he stole ideas and infringed patents.  However, no amount of court rulings change the fact that the ABC wasn't a stored program device and ENIAC (eventually) was.  Von Neumann certainly ''did'' say that the stored program thing is the very key to computers - and he was absolutely 100% correct.  If you have to step the machine through the algorithm you want it to perform by hand (as was the case with the ABC) then it's completely analogous to a non-programmable pocket calculator.  If you had enough memory and enough time and the right peripherals, the ENIAC could have run Windows 2000, balanced your checkbook and played chess (and any of the other amazing things computers can do).  The ABC could no more have done those things than could an abacus or a pile of rocks.  That ability to run a program is what makes a computer different from a calculator.  If [[User:71.99.137.20]] doesn't/can't/won't understand that then he/she doesn't understand computers AT ALL.  You can imagine a computer with just 'nand' 'shift-right', 'store', 'literal' and 'jump if not carry' as it's underlying instruction set and 'numbers' that are only 1 bit wide!  Amazingly, such a machine is Turing-complete and can therefore (according to the Church/Turing theorem) be used to implement any arithmetic or logic function in software.  So here we see something that you HAVE to call a computer because it can (in principle) run Windows, balance your checkbook and play chess - who's hardware can't increment or decrement - let alone add or subtract - and which can only represent the numbers as high as 1 and as low as 0!  This whole programmability thing isn't just a part of what makes up a computer - it's the ENTIRE thing that is a computer.  Computers with things like adders and multipliers and 32 bit floating point only need them to get higher performance.  [[User:SteveBaker|SteveBaker]] 05:54, 10 March 2006 (UTC)
+
+== Proposed Additions ==
+
+To make a good article better, may be the following additions will be useful:[[User:Connection|Connection]] 12:11, 7 March 2006 (UTC)
+
+*In a Conceptual Background Section, a word about [[Von Newman Architecture]], and a link thereof. This Conceptual Background may also solve the [[Atanasoff-Berry Computer]] issue. :) [[User:Connection|Connection]] 12:11, 7 March 2006 (UTC)
+
+*A State-of-the-Market Section. It discusses Processor Families: especially the 8088, and its developments, design solutions (more circuits per space v. architecture changes). Or a link to [[Notable CPU architectures]], and adding this Section there).[[User:Connection|Connection]] 12:11, 7 March 2006 (UTC)
+
+:Erm... Well, the history section already does briefly explain the significance of the stored program computer and Von Neumann's ideas and designs.  I'm not sure what else you are suggesting we add.  I don't really think a state of the market section is necessary for several reasons:
+:#It's very difficult to create such a thing and make it sufficiently terse without someone screaming POV.
+:#The [[Notable CPU architectures]] page was largely created to avoid this problem, and is currently linked in '''See also'''.
+:#I strongly believe this article should stick to the history, evolution, and fundamental operation of CPUs as functional devices.  It should avoid elaborating on specific architectures unless their mention is useful to illustrate a certain concept.  Architecture history is sufficiently covered in the specific articles on those architectures.
+
+:Anyway, let me know what you think, I'd like some clarification on your first point. -- [[User:Uberpenguin|uberpenguin]] 15:32, 7 March 2006 (UTC)
+
+:--
+:CPU Architecture is a unique development where many people has contributed to it expressly or otherwise! This aspect I want to be stressed as a Design "lesson". In the History section, focus has been on implementation. I want a stress on Architecture, and how it came along. What each has contributed. Von Newman is not mentioned at all. All this needs to be presented in context. Also, what contributions didn't "show" in the main development path. Here comes other non-Von Newman Architectures. All this can only be links to other wiki Articles.
+
+:On the other point, what prompted my sugestion is that I ddn't see the 8088, 368, 468, etc, in [[Notable CPU architectures]]. However you are right. They should be covered there. My other point should be placed there.   ;)  --[[User:Connection|Connection]] 09:32, 8 March 2006 (UTC)
+
+::The 8088, 80386, 80486 aren't [[instruction set architectures]], they're [[microprocessors]] that implement instruction set architectures.  The instruction set architecture they implement could be called [[x86]] or, in the case of the 80386 and later processors, [[IA-32]]; they are mentioned on the [[Notable CPU architectures]] page.  [[User:Guy Harris|Guy Harris]] 09:51, 8 March 2006 (UTC)
+
+:::Mi Culpa. I didn't see the [[IA-32]] or [[x86]] Links, as I was searching 8088, 80386, 80486! ... Who said they are instruction set architectures? --[[User:Connection|Connection]] 11:28, 8 March 2006 (UTC)
+
+::The line between CPU architecture and implementation did not really exist until the S/360 (the article notes this).  Up until that point, most significant traits you could enumerate about CPU "architecture" were merely implementation details.  Therefore, a discussion of early computers is necessarily mostly about implementation.  The history section is fairly short because this article cannot cover a lot of the ground covered by [[history of computing hardware]]; we're only really concerned with the development of stored program computers (Von Neumann IS mentioned, re-read the history section... I was merely hesitant to overtly label him "the inventor of the stored program architecture" because that's not wholly true.).
+::I'm still not entirely sure what you want to include, but you're welcome to go ahead and write it here or in the article so we can see what you had in mind.  Just try not to cover a lot of ground already covered by articles like [[CPU design]] (implementation) and [[Instruction set]] (ISA). -- [[User:Uberpenguin|uberpenguin]] 14:21, 8 March 2006 (UTC)
+
+:::'''W'''hat I have in mind is a set minor touches to connect things together. I will add them directly in the future. Over and out. --[[User:Connection|Connection]] 21:22, 8 March 2006 (UTC)
+
+== "integer precision"? ==
+
+Surely "integer range" is meant.  Where would I find any variation in precision of integer units between processors?  --[[User:ToobMug|ToobMug]] 08:51, 31 March 2006 (UTC)
+
+: Heheheh!  Yeah - you're 100% correct. A lot of people misuse the term. [[User:SteveBaker|SteveBaker]] 13:09, 31 March 2006 (UTC)
+:: All better now! [[User:SteveBaker|SteveBaker]] 13:15, 31 March 2006 (UTC)
+:::Precision is the correct term to use here.  Dictionary definitions:
+***'the accuracy (as in binary or decimal places) with which a number can be represented usually expressed in terms of the number of computer words available for representation'.
+***'The number of decimal places to which a number is computed.'
+:::Precision isn't being used in the strictly scientific sense here, but it is common to see the term used in relation to digital microelectronics.  -- [[User:Uberpenguin|uberpenguin]] <code>@ 2006-03-31&nbsp;13:54Z</code>
+::::Hmmm - maybe there is a rift in hacker culture here.  I've been in the business 30 years and I wouldn't think of talking about the precision of an integer.  The number of 'decimal places' is the number of digits after the decimal point - and that's zero for an integer. The number of 'significant digits' however depends on the size or range of the storage allocated to the integer.  If the usage elsewhere is different, I'm suprised - but I guess anything is possible.  The trouble with using 'precision' when you mean 'range' is that 'precision' loses it's meaning when applied to (for example) fixed point arithmetic.  No matter what - I think the article should use terms that are (at worst) less ambiguous and (at best) not incorrect. 'Range' and 'Size' express the meaning perfectly well.  Precision is certainly not acceptable to everyone. [[User:SteveBaker|SteveBaker]] 17:17, 31 March 2006 (UTC)
+:::::Personally I hate the imprecise (hehe) word 'size', but it's not a really big deal, so I'll leave the changes. -- [[User:Uberpenguin|uberpenguin]] <code>@ 2006-04-01&nbsp;00:44Z</code>
+
+== CCIE ==
+
+who has done CCIE here ?
+
+--[[User:It fayyaz@hotmail.com|It fayyaz@hotmail.com]] 17:34, 12 April 2006 (UTC)
+== Merged ==
+
+:[[Processor]] was merged into [[Central processing unit]] (this article). That history now exists at [[Talk:Central processing unit/Processor article history]].--[[User:Commander Keane|Commander Keane]] 07:36, 14 January 2006 (UTC)
+----renn
+
+== List of CPU flags? ==
+
+Is there a list somewhere (in Wikipedia or not) of common CPU flags (like SSE, APIC, MMX, 3dnow...) and what they mean? (Other than the one I started building at [[User:Dcljr/Sandbox#List of CPU flags]], of course.) - [[User:Dcljr|dcljr]] <small>([[User talk:Dcljr|talk]])</small> 17:31, 23 May 2006 (UTC)
+
+:Uhh... For what architecture?  Try reading the programmer's manual for whatever ISA you're using (looks like late x86 to me). -- [[User:Uberpenguin|uberpenguin]] <code>@ 2006-05-23&nbsp;18:36Z</code>
+
+:That list is a mixed bag of terms, some of which refer to features (such as MMX, SSE, 3DNow!), some of which refer to components (such as APIC and MTRR), some of which refer to I/O buses (such as MCA and VME), some of which refer to instructions (such as SYSCALL) - there's really nothing they all have in common other than being computer hardware terms (and some of them might not even be computer hardware terms - "DE" goes to a disambiguation page, and the only computer term there is "Desktop Environment"). [[User:Guy Harris|Guy Harris]] 21:26, 23 May 2006 (UTC)
+
+::Yeah, it's a mixed bag exactly because I don't know what they all mean! &lt;g> Anyway, most of these are from the "flags" entry of "cpuinfo" in Linux (see, for example, [http://www.rush3d.com/gcc/faq.php?view=category&product=cpuinfo&faq_cat=x86]).  - [[User:Dcljr|dcljr]] <small>([[User talk:Dcljr|talk]])</small> 19:31, 24 May 2006 (UTC)
+
+:::The ones from "cpuinfo" are probably the flags you get from the x86 CPUID instruction, listing the capabilities of the processor.  Lists of them can be found in the Intel and AMD documentation of the x86/IA-32 (including EM64T) and AMD64 instruction sets; see, for example, the description of the CPUID instruction in [ftp://download.intel.com/design/Pentium4/manuals/25366619.pdf IA-32 Intel® Architecture Software Developer’s Manual Volume 2A: Instruction Set Reference, A-M].    "MCA" and "VME", unfortunately, are ambiguous; they can refer to the [[Micro Channel architecture|MCA]] and [[VMEbus|VME]] buses, which are system I/O buses and are characteristics of the system as a whole rather than of the processor, or they could refer to "Machine Check Architecture" and "Virtual 8086 Mode Enhancements", which are x86 CPU features and have nothing to do with the MCA or VME buses - the x86 CPU features are the ones reported by "cpuinfo". [[User:Guy Harris|Guy Harris]] 19:35, 24 May 2006 (UTC)
+
+::::Aha! I just found [[List of computing and IT abbreviations]], which would seem to be the place for this info, but the few terms I've looked for so far haven't been in the list. - [[User:Dcljr|dcljr]] <small>([[User talk:Dcljr|talk]])</small> 06:18, 25 May 2006 (UTC)
+
+::::: Actually, I think [[CPUID]] would be an even better place for this information (please add any details it leaves out). --[[User:70.189.77.59|70.189.77.59]] 17:54, 27 October 2006 (UTC)
+
+== Good article... ==
+
+Sorry for cluttering the talk page, I just want to say this is a really well-written and informitive article. [[User:128.208.41.109|128.208.41.109]] 05:25, 25 May 2006 (UTC)
+
+* I'd like to second this comment, I can't fault it!!  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.41.217.152|92.41.217.152]] ([[User talk:92.41.217.152|talk]]) 17:47, 14 November 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Peformance comparison of common processors ==
+
+It would be useful to read a comparison of the performances of common processors (either in a table in the article, or an external link).
+
+:I don't care for the idea. Performance comparisons are very involved and detailed discussions, are often quite subjective and subject to testing bias, and would bulk up the article significantly.  Furthermore, a fair sample of performance comparisons from the entire history of CPUs could be very difficult to contain in a table.  That being said, I think it might be an interesting and relevant factoid to include a short sample comparison of, say, the integer performance of a very early von Neumann computer to a modern microprocessor.  If you want to collect some figures on modern microprocessors, I can look up the data for old computers. -- [[User:Matt Britt|mattb]] <code>@ 2006-09-14T04:41Z</code>
+
+:: I think there is room for such a table *somewhere* in Wikipedia, but I agree [[central processing unit]] is not the place. Please stick that information in [[benchmark (computing)]] until we find a better place? --[[User:70.189.77.59|70.189.77.59]] 17:54, 27 October 2006 (UTC)
+
+::: Check out [[iCOMP]] and [[PR rating]]. [[User:BebopBob|BebopBob]] 01:56, 21 December 2006 (UTC)
+
+== manufacturers of central processing units? ==
+
+Who are the main manufacturers of CPUs and how is performance measured
+
+:1. Too many to briefly enumerate. 2. In too many ways to briefly enumerate.  Reading [[CPU design]] may provide a little enlightenment. -- [[User:Matt Britt|mattb]] <code>@ 2006-10-22T02:16Z</code>
+
+:: I like the [[CPU design]] article. It mentions ''As of 2004, only four companies are actively designing and fabricating state of the art general purpose computing CPU chips.'' So -- are 4 too many to enumerate? Or do we need to update that article to include those other companies you are thinking about?
+
+:: Those are excellent questions. Please help us improve Wikipedia to make the answers better and to make the answers easier to find. Many companies that design CPUs are [[Fabless semiconductor company]], who pass their design over to some other [[Semiconductor companies]], which actally fabricate the CPU. CPU performance is measured using [[benchmark (computing)|benchmark]]s -- but be aware that there is no one "performance" number -- one CPU may perform one benchmark faster, but some other CPU may perform your actual application faster. Do we need to mention/link to these things in the article? --[[User:70.189.77.59|70.189.77.59]] 17:54, 27 October 2006 (UTC)
+
+I think it would be nifty if this article mentioned the "top" 8 or so CPU design companies and fabrication companies, in terms of the number of CPUs shipped.
+
+I see that
+* [[ARM Limited]] says "In 2007, 2.9 billion chips based on an ARM design were manufactured."
+* [[PIC microcontroller]] says "Microchip recently announced the shipment of its five billionth PIC processor."
+* [[68k]] says "CPU32 and ColdFire microcontrollers have been manufactured in the millions ..."
+* [[Data General Nova]] says "eventually 50,000 units were sold."
+* [[MIPS_architecture]] says "... By ... 1997 the 48-millionth MIPS-based CPU shipped, making it the first RISC CPU to outship the famous 68k family."  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 16:27, 15 March 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+* [[Advanced Micro Devices]] ... how many?
+* [[Intel Corporation]] ... how many?
+* [[Microprocessor]] says "About 55% of all CPUs sold in the world are 8-bit microcontrollers. Over 2 billion 8-bit microcontrollers were sold in 1997."
+
+Would such a table (with a few more numbers filled in) be appropriate for this CPU article?
+--[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 02:29, 14 February 2008 (UTC)
+
+== Different CPU models? ==
+
+What is physically different between similar processors, eg. one that is 2 ghz, and one that is 3 ghz?
+
+:There may be absolutely nothing physically different about them, or they may be totally different.  You'd need more information than just clock speed to say. -- [[User:Matt Britt|mattb]] <code>@ 2006-10-19T19:03Z</code>
+
+::Say they were the exact same model, and only the clock speed is different? Would only the multipilier be changed in the hardware?
+
+:::Well, in some form or another the global clock signal will have its period decreased.  Whether that means changing a clock multiplier or the target frequency of some oscillator is application-specific. -- [[User:Matt Britt|mattb]] <code>@ 2006-10-22T02:13Z</code>
+
+:::: Certainly one *can* run a 3 GHz processor at 2 GHz, so there is not necessarily a physical difference.
+:::: However, most 2 GHz processors cannot run at 3 GHz -- there *is* a physical difference.
+:::: So, from least amount of difference to most difference, we have:
+* only the external clock speed is different -- no internal difference.
+* only the internal multipler is different.
+* They were manufactured the same way, with the same [[photomask]], but chip-to-chip and wafer-to-wafer variations in blurriness and defects made some chips fail to run at the designed speed ("weak transistors"), but the chips passed the test at a slower speed.
+* They were manufactured according to the same layout, but a [[photomask]] shrink produced smaller, faster transistors and shorter, faster wires.
+* The layout was tweaked slightly ("transistor sizing", "strengthening transistors") to improve the critical path.
+* the chip was completely re-designed (deeper pipelines, improved clocking tree, smaller cache, etc.) to shorten the critical path.
+:::: Does that answer your question?
+:::: (Should I move this to the [[CPU design]] article?) --[[User:70.189.77.59|70.189.77.59]] 17:54, 27 October 2006 (UTC)
+
+== Why??? ==
+
+Why does this get vandalized so much, anyway??? What makes this a popular target??? [[User:170.215.83.212|170.215.83.212]] 07:44, 17 November 2006 (UTC)
+
+:You got me...  I guess it's just people trying to mess up a good thing. -- [[User:Matt Britt|mattb]] <code>@ 2006-11-17T16:07Z</code>
+
+All people who have vandalized this page should be IP blocked. Especially the monumental asshole with IP 82.42.146.28 who wanted to destroy the whole article!  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/132.203.109.196|132.203.109.196]] ([[User talk:132.203.109.196|talk]]) 23:58, 21 September 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Moving some content from CPU Design? ==
+
+I created a new section called Markets in the [[CPU design]] article. I think that section probably belongs here. What do people think? 
+
+Even more important, the CPU Design article has a list of micro-architectural concepts, similar but not exactly the same as the Design and Implementation section of this article. This article doesn't mention RISC nor cache, for example. All of these ought to collected in one place. I don't have an opinion on where this micro-architectural stuff goes - either here or [[CPU design]]. Opinions? 
+
+Previously, it was discussed that the [[CPU design]] article should concentrate on the actual implementation task of designing a CPU. I agree with that. Things like micro-architecture and markets straddle the line between architecture and implementation so its difficult to figure out where this content belongs.  [[User:Dyl|Dyl]] 17:03, 18 February 2007 (UTC)
+
+:I think the content you added should rightly stay in the CPU design article.  This is an overview article and it is far more appropriate for it to describe the operation of CPUs at a high level rather than muck around with a lot (and there is a LOT to be said) of detail.  This article actually does mention caches, but it defers to the article on cache rather than taking a lot of space to explain it here. -- [[User:Matt Britt|mattb]] <code>@ 2007-02-19T14:44Z</code>
+
+::Ah, I see the overview aspect now. Previously, I did not see it as an overview as it is poorly titled. The titles of the sections mention the names ILP and TLP but don't explicitly state what they are, instead they name specific sub-topics. I'm renaming the sections to show they are different types of parallelism. I believe that's the aspect the overview is discussing. --[[User:Dyl|Dyl]] 08:40, 20 February 2007 (UTC)
+
+:::That's fine, but the new names you've given to the headings are a bit longer than preferable.  Could we shorten them a bit?  How about just "Instruction level parallelism", "Thread level parallelism", and "Data parallelism". -- [[User:Matt Britt|mattb]] <code>@ 2007-02-20T15:11Z</code>
+
+== CPU Operation ==
+
+I dono what happened to the CPU Operation section, but it's filled with example pictures and crap text now. [[User:24.7.201.100|24.7.201.100]] 19:56, 18 February 2007 (UTC)
+
+:That was probably vandalism you saw that has since been removed. -- [[User:Matt Britt|mattb]] <code>@ 2007-02-19T14:45Z</code>
+
+== Something of wich wikipedians go crazy about, ==
+
+pointless question. I'm thinking about buying a computer(in pieces) and assembling it, now if something([[ArmA]]) requires a 3.0 GHz prosessor can I use a 2.4?
+*RAM 2GB 800GHZ
+*HD 500
+*GeForce 8800GTX (752)  <small>—The preceding [[Wikipedia:Signatures|unsigned]] comment was added by [[Special:Contributions/{{{IP|{{{User|84.250.110.93}}}}}}|{{{IP|{{{User|84.250.110.93}}}}}}]] ([[User talk:{{{IP|{{{User|84.250.110.93}}}}}}|talk]]) {{{Time|09:02, August 22, 2007 (UTC)}}}</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+: This is not the place to ask such questions, but [[Wikipedia:Reference desk/Computing]] is! This is a lesser known part of Wikipedia where you can ask questions like this. At the [[Wikipedia:Reference desk]] you can also ask questions about many other non computer related subjects such as medicine, philosophy and many other subjects. [[User:Mahjongg|Mahjongg]] 00:31, 25 October 2007 (UTC)
+
+== Missing Pictures all over the place! ==
+
+The two pictures with Intel chips do not appear. Is it broken? Has it been vandalized?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/132.203.109.196|132.203.109.196]] ([[User talk:132.203.109.196|talk]]) 20:09, 15 September 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+Hello! There are a lot of missing pictures in this article as well as in many other ones related to computer hardware. That would be cool if the people in charge of Wikipedia could fix these things!  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/132.203.109.205|132.203.109.205]] ([[User talk:132.203.109.205|talk]]) 16:58, 16 September 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== homebrew CPU article ==
+
+A homebrew CPU is a central processing unit constructed using a number of simple integrated circuits, usually from the 7400 ([[TTL]]) Series. There used to be an article about it at [[Homebrew CPU]], as can be seen in the history of the page [http://en.wikipedia.org/w/index.php?title=Homebrew_CPU&oldid=153857394]. However somebody removed all the articles content, (which was quite interesting) and made a simple redirect to [[Central processing unit]] out of the page. I discovered this when I read about the "Magic-1", and decided to create the page "homebrew CPU" by myself, only to find out it already existed as a redirect to "Central processing unit".  However, the Central processing unit article itself talks about CPU's built from TTL only in a historical context, and fails to even mention that even today some people are building their own Central processing units from scratch. I really think that "Homebrew CPU" warrants an article all of itself, or failing that at least a cursory mention in this article. [[User:Mahjongg|Mahjongg]] 00:44, 25 October 2007 (UTC)
+
+:I don't think the subject belongs in this article (which has plenty to cover as it is), but I might believe it warrants coverage, and that would probably be most appropriate standing alone.  I suggest you just restore the pre-redirect version, and then expand and improve it. (Don't homebrewers use [[FPGA]]s or something like that now?) -[[User:R. S. Shaw|R. S. Shaw]] 06:08, 25 October 2007 (UTC)
+
+:: I personally find homebrew CPUs fascinating.
+:: If it turns out that homebrew CPUs aren't "notable enough" for Wikipedia,
+:: perhaps [[Wikibooks:Microprocessor_Design/Wire_Wrap]]
+:: would be a better place to discuss them.
+:: It currently contains all the text that used to be in the [[Homebrew CPU]] article on Wikipedia.
+:: --[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 08:39, 21 January 2008 (UTC)
+
+== Request for partial protection ==
+
+This article was vandalized on Monday, November 12th, 2007 at approx. 9:00 a.m. Someone changed various sections of the article from "Central Processing Unit" to "Central Cock Sucking Unit" and committed various other vandalisms. I have tried to fix the article as best I could, but perhaps the article should be reverted to a previous state.
+
+Additionally, I move that this page be partially protected for a while in order to deter the vandal from changing the page again. In addition, I move that the IP of the vandal (or his/her username) be given a temporary ban.
+
+[[User:The Ice Inside|The Ice Inside]] 14:10, 12 November 2007 (UTC)
+
+in the world of computing raw facts has to be accepted as an input, processed, and used as information for decision making ( out put). fully explain how this process takes place and explian how central processing unit plays a vital role in this process  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/41.242.25.134|41.242.25.134]] ([[User talk:41.242.25.134|talk]]) 17:19, 22 April 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+
+== CPU architecture ==
+
+temporary moved to my User page, because I started this scientific dispute, but I think maybe I should dispute this when I have more knowledge. --[[User:Ramu50|Ramu50]] ([[User talk:Ramu50|talk]]) 04:14, 16 June 2008 (UTC)
+
+== mechanical cog? ==
+
+What the heck is a mechanical cog?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/97.117.107.218|97.117.107.218]] ([[User talk:97.117.107.218|talk]]) 06:06, 6 February 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== CPU=processor or core? ==
+
+There seem to be two acceptions of the term CPU:
+1. a processor chip, often containing more than one core
+2. a processor core (used in that sense in [[Multi-core]])
+Which one is correct?--[[Special:Contributions/87.162.46.235|87.162.46.235]] ([[User talk:87.162.46.235|talk]]) 20:42, 22 March 2009 (UTC)
+:"CPU" or Central Processing Unit usually refers to the actual wafer, or physical chip that you would set into the motherboard's socket, regardless of the number of cores contained within. [[User:Useight|Useight]] ([[User talk:Useight|talk]]) 21:36, 22 March 2009 (UTC)
+
+== FLOPS! ==
+
+Talk about flops, please. -X  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/99.29.63.161|99.29.63.161]] ([[User talk:99.29.63.161|talk]]) 04:21, 11 May 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Why "Central"? ==
+
+I mention this as a suggestion to the article's regular editors.  The term "central" isn't explained.  Its has its origin in a distinction between the "central" and the "peripheral" parts of a computer.  for a source see Computer structures (Daniel P. Siewiorek, C. Gordon Bell, Allen Newell) [http://books.google.com/books?q=computer+central+peripheral&btnG=Search+Books google books].  In 2009 we don't refer to a SATA controller as a "peripheral processing unit" but we still have "central processing unit" as a legacy term. [[User:Patsw|patsw]] ([[User talk:Patsw|talk]]) 20:32, 12 June 2009 (UTC)
+
+
+== theres no 'components' section ==
+
+so im making one... --[[User:Xali|Xali]] ([[User talk:Xali|talk]]) 03:00, 20 October 2009 (UTC)
+nvm no im not theres the components section way at the bottom with links and stuff. its not very evident that its there, and i dont see any [[Microsequencer]] there though i dont know if it should be there --[[User:Xali|Xali]] ([[User talk:Xali|talk]]) 03:07, 20 October 2009 (UTC)
+{{talkarchivenav}}
+
+== Article concept unclear/ambiguous? ==
+
+"Central Processing Unit (CPU)" is a legacy phrase which naturally does not cope well with parallel processing or the rise of multi-core processors. This leads to the question "Does CPU mean a single core or the collection of all the cores within the physical or logical boundaries of some specified information processing device?" The explanations of "how the CPU works" seems to imply the article is referring to a single core.
+
+Instead, how about providing words to:
+
+(1) describe the (new) general concept of "Information Processing Device"
+(2) explain in a different article how an information processing device "Core Processor" works individually
+(3) explain how multiple similar/different core processors can work together to provide the total information processing "capacity" for the "information processing device"
+(4) recognize that other Information Processing Architectures may also be used
+
+Finally, can we maybe deal with earlier architectures under "History"?  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Jjalexand|Jjalexand]] ([[User talk:Jjalexand|talk]] • [[Special:Contributions/Jjalexand|contribs]]) 16:04, 5 June 2012 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:"CPU" means a single core.  A microprocessor can contain multiple CPUs.
+:
+:[[WP:NOT#OR|Wikipedia shouldn't be introducing new general concepts]], so it shouldn't introduce a new concept of an "Information Processing Device".  There's already [[Computer|a page that discusses the type of device you're talking about]]. [[User:Guy Harris|Guy Harris]] ([[User talk:Guy Harris|talk]]) 20:34, 3 March 2013 (UTC)
+
+== Specifications ==
+
+Cant find them, add them. Useless article if I can't find specifications easily.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/99.227.154.176|99.227.154.176]] ([[User talk:99.227.154.176|talk]]) 03:07, 27 January 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+: How is it useless? It's supposed to be an article about CPUs, their common features, history, etc. A list of specifications? For which CPUs? Every one that's ever been made? That would be one hell of a list. However, if you feel the material warrants inclusion, you could start off by looking the information up yourself and editing the article to provide it. [[Special:Contributions/24.68.148.215|24.68.148.215]] ([[User talk:24.68.148.215|talk]]) 06:30, 18 December 2009 (UTC)
+
+: And [[WP:RAWDATA|Wikipedia isn't a collection of specifications]] in any case. [[User:Guy Harris|Guy Harris]] ([[User talk:Guy Harris|talk]]) 20:38, 3 March 2013 (UTC)
+
+== Automate archiving? ==
+
+Does anyone object to me setting up automatic archiving for this page using MizaBot? Unless otherwise agreed, I would set it to archive threads that have been inactive for 60 days.--13:18, 21 December 2009 (UTC)
+:{{Done}}--[[User:Oneiros|Oneiros]] ([[User talk:Oneiros|talk]]) 22:54, 29 December 2009 (UTC)
+
+== Changed "process counter" to "instruction pointer" ==
+
+IP is an actual CPU register, which determines where in memory the CPU is fetching/executing instructions.  I have never heard the term "process counter" used to define the register IP/EIP, who exactly wrote this article?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.225.22.126|24.225.22.126]] ([[User talk:24.225.22.126|talk]]) 18:40, 8 April 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:The register in question is given different names in different [[instruction set architecture]]s.  It was called the "program counter" [http://bitsavers.trailing-edge.com/pdf/dec/pdp10/1970_PDP-10_Ref/1970PDP10Ref_Part1.pdf on the PDP-10] and [http://bitsavers.trailing-edge.com/pdf/dec/pdp11/handbooks/PDP11_Handbook1979.pdf on the PDP-11] and is called the "program counter" [http://www.oracle.com/technetwork/systems/opensparc/sparc-architecture-2011-1728132.pdf in SPARC].  The [[Power Architecture]] doesn't seem to explicitly list a register; its documentation speaks of the "current instruction address" and the "next instruction address".  [[x86]] and [[Itanium]] call it the "instruction pointer".
+
+:The article currently calls it the [[program counter]], and links to that page for the benefit of those who haven't heard that term. [[User:Guy Harris|Guy Harris]] ([[User talk:Guy Harris|talk]]) 21:04, 3 March 2013 (UTC)
+
+== WP:3RR - justifiable cause ==
+
+A Facebook user and I were in discussion concerning CPUs when it became obvious that by definition, he was confusing CPUs with microprocessors, being that CPUs are also known as processors. He also referred to this article to support his argument. I have edited the article accordingly to clarify this ambiguity. His repeated attempts to delete this edit is the reason for the WP:3RR incident. Do review the edit as seen below and if inadequate or in error, suggest a more suitable solution:
+
+"The central processing unit (CPU) or the processor (not to be confused with the microprocessor, a component of the CPU itself) is..."
+[[User:Riggerus|Riggerus]] ([[User talk:Riggerus|talk]]) 18:46, 22 September 2010 (UTC)
+
+:I suggest: "The '''central processing unit''' (CPU) or the "<span title="Slang" style="border-bottom:1px dotted; cursor:help;">processor</span>" (not to be confused with "[[microprocessor]]", just one component of a CPU) is..." or similar. -- '''[[User:Fred_Gandt|<font color="black">FG</font>]]/<sup><small>[[User talk:Fred_Gandt|<font color="black">T</font>]]&#124;[[Special:Contributions/Fred_Gandt|<font color="black">C</font>]]</small></sup>''' 20:19, 22 September 2010 (UTC)
+:: But not all CPUs use microprocessors. It's incredibly patronizing of an encyclopedia article to admonish the reader with allegations of confusion. Leave out the parenthetical phrase. The difference between a microprocessor CPU and a CPU in general will become apparent on reading further into the article. (Editing the Wikipedia article to support your arguement has many drawbacks.) --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 20:23, 22 September 2010 (UTC)
+:::Agreed Wtshymanski. The microprocessors section explains clearly that CPUs were dramatically changed by the introduction of microprocessors so, there is little "confusion". My suggestion was that at least we should not refer to A CPU as THE CPU etc. -- '''[[User:Fred_Gandt|<font color="black">FG</font>]]/<sup><small>[[User talk:Fred_Gandt|<font color="black">T</font>]]&#124;[[Special:Contributions/Fred_Gandt|<font color="black">C</font>]]</small></sup>''' 13:14, 23 September 2010 (UTC)
+::::The present edit is so much better, takes contention completely out of the picture. Thanks Wtshymanski, FG --[[User:Riggerus|Riggerus]] ([[User talk:Riggerus|talk]]) 09:31, 24 September 2010 (UTC)
+
+== Parallelism ==
+
+I would like to suggest that most of the discussion regarding Parallelism be split off to another article. While there are features of a give CPU design that better enable parallel processing, the discussion goes  way beyond CPU  attributes.
+[[User:DGerman|DG12]] ([[User talk:DGerman|talk]]) 00:36, 22 May 2011 (UTC)
+== References ==
+
+A few issues:
+* Mixes [[WP:FOOTNOTE]] and the deprecated [[WP:FN3|Footnote3]]
+* Citations formatted with and without templates
+* Explanatory notes mixed with footnotes
+---'''''—&nbsp;[[User:Gadget850|<span style="color:gray">Gadget850&nbsp;(Ed)</span>]]<span style="color:darkblue">&nbsp;'''''</span><sup>[[User talk:Gadget850|''talk'']]</sup> 20:56, 21 August 2011 (UTC)
+
+== Why "Central"? ==
+
+I mention this as a suggestion to the article's regular editors. The term "central" isn't explained. Its has its origin in a distinction between the "central" and the "peripheral" parts of a computer. for a source see Computer structures (Daniel P. Siewiorek, C. Gordon Bell, Allen Newell) google books. In 2011 we don't refer to a SATA controller as a "peripheral processing unit" but we still have "central processing unit" as a legacy term. [[User:Patsw|patsw]] ([[User talk:Patsw|talk]]) 18:04, 1 December 2011 (UTC)
+
+:It's not only a legacy term, as it is still distinguished from other processors such as a [[Graphics processing unit]]. -[[User:R. S. Shaw|R. S. Shaw]] ([[User talk:R. S. Shaw|talk]]) 06:29, 2 December 2011 (UTC)
+
+::Agreed.  It ''was'' a legacy term, until graphics ''chips'' got more complex and expensive, and morphed into ''processing units''. [[User:Patsw|patsw]] ([[User talk:Patsw|talk]]) 17:46, 2 December 2011 (UTC)
+
+== Proposed merge with [[Order code processor]] to [[History of general purpose CPUs]] ==
+
+same topic, alternative name <span class="vcard"><span class="fn">[[User:Widefox|Widefox]]</span>; [[User talk:Widefox|talk]]</span> 14:16, 30 April 2013 (UTC)
+
+* '''oppose'''  Whilst there's an argument that both apply to the same topic, the contexts are very different. One is the enormously widespread term for this common item, the other an obsolete term used by one manufacturer, a long time ago. 
+: Obviously CPU is the prime article. [[Order code processor]] also meets WP:N and can stay (please be aware of [[WP:RECENTISM]]). Merging OCP into CPU would fail [[WP:UNDUE]] – although a historically notable term, it has zero relevance today and doesn't warrant even a footnote in the main article on a space-valuable high-profile computing vital article. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 15:21, 30 April 2013 (UTC)
+::They appear to be [[WP:WINAD|synonyms]] (please correct me if I'm wrong) so it's to prevent a [[wp:povfork]] / [[wp:dictdef]], with the CPU article [[wp:scope|covers this period]] (60s) already, so I'm struggling to see that argument. The RECENTISM would be to dismiss old stuff like this. Anyhow, it is about this dictdef / stub with little chance of advancement. If opposition is based purely on size of CPU, instead of CPU, we could retarget merge to [[History of general purpose CPUs]]. <span class="vcard"><span class="fn">[[User:Widefox|Widefox]]</span>; [[User talk:Widefox|talk]]</span> 12:30, 1 May 2013 (UTC)
+::: I don't know if they're synonyms or not. As far as I know, I assume they are. If ICL had some distinctly different implementation of a CPU under this name (and there were such things, back in these early days), then it might have sufficient historical note to be worth adding. As a simple linguistic synonym though, it doesn't. Especially not as one that seems to have had no ongoing influence in terminology. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 13:45, 1 May 2013 (UTC)
+::::I take it you have no objection to the retarget? <span class="vcard"><span class="fn">[[User:Widefox|Widefox]]</span>; [[User talk:Widefox|talk]]</span> 14:28, 1 May 2013 (UTC)
+::::: As I see no content to OCP other than it being an obscure ICL term, I see no reason to mention it in any other article, including [[History of general purpose CPUs]]. The ICL concept doesn't appear to have had any influence in the history of CPUs, beyond a name that wasn't used outside that company (Sources to the contrary welcome). Per RECENTISM we should keep the article, but that's about it. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 14:39, 1 May 2013 (UTC)
+::::::Exactly my point - it can't be both WP:N and a dictdef - it has no future - I disagree with you there - [[wp:not]]. We agree about lack of content, exactly the reason to merge per [[WP:MERGE]]. Your main point about weight I agree with, so happy to sideline into the [[History of general purpose CPUs]] as 60s-80s mainframes aren't too obscure even if only one vendors term. I will retarget, (but keep the discussion here). <span class="vcard"><span class="fn">[[User:Widefox|Widefox]]</span>; [[User talk:Widefox|talk]]</span> 16:23, 1 May 2013 (UTC)
+
+== CPU not appropriate for multi-core ==
+
+"A computer can have more than one CPU; [..] those ICs are called multi-core processors." I agree. But I often see (including on WP) them just called "CPU" or CPUs (not really better, that could be separate chips). Has the terminology shifted and is CPU allowed (and should be mentioned here?)? Or should I change elsewhere? [[User:Comp.arch|comp.arch]] ([[User talk:Comp.arch|talk]]) 12:36, 30 August 2013 (UTC)
+
+== CPU in SMP setups ==
+{{See also|User talk:Dsimic#CPU and SMP configurations}}
+
+Hey {{u|Ferry24.Milan}}!  While I do agree that "CPU" as a term might be vague in SMP setups, please provide a reference that backs up the changes {{Diff|Central processing unit|638666185|638630614|you've introduced}} into the article.  As we know, Wikipedia is all about summing up [[WP:RS|reliable sources]].  Also, please note that your edit affected the article layout in a negative way, by merging the lead section and {{Section link|Central processing unit|History}} section. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 17:50, 18 December 2014 (UTC)
+
+: Just a second, please let me reread your edit once again. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 17:57, 18 December 2014 (UTC)
+
+:: Nah, sorry, that would require a good reference; otherwise, the expressed reasoning goes under [[WP:OR]]. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 18:09, 18 December 2014 (UTC)
+
+== simplecpu.com ==
+
+Hi, I made a website that explains how CPU's work, I'd like to add it here. Here is the link
+ http://www.simplecpu.com/Binary.html
+
+The site was tweeted by O'Reily media and at not point have I or anyone else found a factual error in it, however It is my own site so I would like to talk page it first. Ideas, Thoughts, criticisms etc? I think It belongs here.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Rizzank|Rizzank]] ([[User talk:Rizzank|talk]] • [[Special:Contributions/Rizzank|contribs]]) 17:20, 13 January 2015 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+: Hello!  Where would you like to have it included?  The trouble is that, in general, one shouldn't initiate inclusion of self-published content due to a possible [[WP:COI]].  At the same time, that page pretty much describes the basics of binary logic and circuits, and that's somewhat different from that the article deals with.  Thoughts?  By the way, the page looks nice. :) &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 00:24, 14 January 2015 (UTC)
+
+:: Thank you! I think the page would fit best under the 'External links' tab. As for the WP:COI, I don't think the website has any conflict of interest. The site doesn't advertise any specific version of CPU, nor does It say that one version Is better then another. The goal of the site is to educate people about computers, and I think that that is in-line with wikipedia's goals. However, for transparency's sake, one way in which I do benefit is that on my about page I have a link to my other projects, but only two percent of users visit the about page, and absolutely no content on the main pages advertise me or my other projects. I would benefit from people coming to my site, but not in a way that would conflict or work against Wikipedia's interests. The website also features a interactive CPU that visitors can program on the last page, so I think that a user that would want to interact with a CPU after reading about it on wikipedia can go on my site and play with one there. -rizzank  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Rizzank|Rizzank]] ([[User talk:Rizzank|talk]] • [[Special:Contributions/Rizzank|contribs]]) 02:17, 15 January 2015 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+::: Hm, as it wouldn't be used as a reference, I'd say there are no guidelines against including it into the "External links" section.  However, you might want to wait for a few more days to receive input from more editors. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 02:31, 15 January 2015 (UTC)
+
+::::{{Reply|Rizzank}} You've done some good work and I don't want to discourage you, but an EL to your website is not suitable for this article per [[WP:ELNO]] 1 and 13. Also, if you do find an appropriate article, you should not add the EL yourself (as [[User:Dsimic|Dsimic]] pointed out). A very effective way to bypass these issues is to implant your knowledge directly into WP by editing articles, contributing useful graphics to [[WP:COMMONS|Commons]], or both. I hope you will choose to do that as it is clear you are both knowledgeable and enthusiastic about this subject. [[User:Lambtron|Lambtron]] ([[User talk:Lambtron|talk]]) 14:49, 15 January 2015 (UTC)
+
+::::: wp:elno 1 states that EL's shouldn't be added if they do not provide a unique resource that isn't in the article. In my case, interactivity (A interactive CPU, interactive logic gates) is the resource that my site provides. As wp:commons does not have interactive media, I can't simply add the resources from my site. wp:elno 13 states that content must be directly related, and my site is, as it's only focus is on explaining CPU's. The first page is binary, but that's such a foundational subject that even the wikipedia CPU page talks about it, and saying that its not related is like saying counting isn't related to math. I'm not adding the EL myself, I'm bringing it forward and saying It should be here. [[User:Rizzank|Rizzank]]
+
+== the microprocessor section evaded topic : not any chip is a cpu, esp not CMOS ==
+
+The development of microprocessors [[Harvard architecture]] "Mark I" design widely used today began with the Harvard design becoming most prevailant.  The research and device in the early 1970's was quickly followed with the Motorola 68000 (circa 1976), which is fully multi-tasking cpu, and drove most personal computers in that era (intel at the time was a smaller company and had no multi-tasking chip).  [[RISC]] chips were also introduced in small circles, a low cost non-multi taksing intel cpu became available.  A next widely used multi-tasking CPU chip was the Sparc chip, modeled from the 68000, which was an open design: such as Sun Microsystems Sparc and Hitatchi Sparc chips (same open chip design, the design of Sparc is still available to the public, the Sparc is not secret or proprietary).  The spark ran unix servers and X windows, and X11 came about from those developments.  After this many competing fast cpu with similar design flooded the market; the 68000 and sparc were pushed aside.
+
+Meanwhile in [[mainframe]] development [[Cray]] supercomputer (a subsidiary of the State of Texas, vital data) made a major advance in CPU called [[SCSI]], which solved their problem of expanding and accessing their supercomputer; and this is still in used in iPhone ("firewire"), the original Apple, and is used in Sparc communities as well.  SCSI cpu are also is being persued by fast chips that copy the design and are seeking to push it aside.  A study of CPU is simply not complete without knowlege of SCSI: a cpu that connects mutiple disperate CPU.
+
+op-amp microprocessors do analog computing which is not mentioned in this article (there still are, also [[Computer terminal]] that did analog vector display), and have been cpu at times.  These use transistors configured to mix analog signals (perhaps with no clock) rather than to be triggered by digital states, thus can do certain things much faster.  One application of this in your computer is DAC (digital to analog conversion).  op-ams are not limited to signal conversion, they can do certian mathematic tasks much faster.  But a note here is the op-amp, CMOS, or other chips: are usually not cpu (rather they are connected to a cpu) thus most designs are found in the [[electronic chip]] articles.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.219.202.186|72.219.202.186]] ([[User talk:72.219.202.186|talk]]) 18:32, 16 January 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+: Hm, "made a major advance in CPU called SCSI [...] and this is still in used in iPhone"{{snd}} what's this about?  Is this some kind of a bad joke? :) &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 18:51, 16 January 2015 (UTC)
+
+== is that true or spam? the Bloch CPU??? ==
+
+if you want to understand how a Bloch system of transistor works,
+it's not an actual sphere, but 2 entangled circles, that represent all possible Bloch values.
+each circle is consisted by 4 transistors
+at some early models - thus the bloch [test] sphere has only 8 transistors
+up-down-left-right for each entangled circle.
+
+You have to enter that system digital noise
+.Ask MIT about digital noise moderators or even programs [programs occupy CPU thus are used only in experiments, not as finalized products, usually you simply make or buy a program to begin]
+if a Bloch sphere is consited only by 8 transistors, it will average the random noise data very slowly, the more transistors you add, the more accurate is your directivity of the value.
+8 classic transistors, that are modified to allow pins enter and exit in a functional qubit.
+IBM also "played" [not commercial use] with Bloch spheres in the past.
+-----
+You have to study mainsteam books.
+And mainstream theory.
+Then you combine them, and if you cannot
+speak to a professor.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2.84.219.136|2.84.219.136]] ([[User talk:2.84.219.136|talk]]) 15:44, 20 May 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->

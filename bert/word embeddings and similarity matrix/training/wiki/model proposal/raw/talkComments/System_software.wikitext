@@ -1,0 +1,78 @@
+{{Vital article|topic=Technology|level=5|class=Start}}
+{{WikiProjectBannerShell|
+1=
+{{WikiProject Computing |class=Start |importance=Mid |software=yes |software-importance=High}}
+{{WikiProject Systems |class=start |importance=high |field=Software engineering}}
+}}
+
+==Cleanup==
+I suggest combining this page with 'Application Software' to create a page that illustrates a heirarchy of software systems.  Grady Booch, in his upcoming work: A Handbook of Software Architecture, has created a reasonable heirarchy that is better and more comprehensive than the lists produced on either this page (System Software) or it's partner (Application Software).  Ref: http://www.booch.com/architecture/systems.jsp
+
+Note that 'software application' topic is used to present a specific definition of a software application as used by practitioners of Application Portfolio Management.  The heirarchy of 'types of software' could, I suppose, be merged in there, but it would be a poor fit.
+
+So my suggesting is to clean up this topic, and the Application Software topic, by combining them into a single location that illustrates types of software systems.
+--[[User:Nickmalik|Nickmalik]] 15:47, 20 February 2007 (UTC)
+
+===Diagram===
+According to science, Human understand diagram quickly then text. So I would like to suggest to use diagramatic representation for each and every topic. --<FONT color = "red"><EM> SAMEER</EM></FONT>
+
+'''Bold text'''=== System Software vs. Software System vs. Application Software ===
+
+From what I understand of application software, it is fundamentally different than system software and should remain separate.
+
+According to ''Systems Methodology for Software'', '''system software''' is defined as, "the collection of programs and program documents that provide services to the user of a hardware system {{Harv|Rus|Rus|1993|p=93|Ref=none}}." A '''software system''' is "an [[Ad hoc|ad hoc]] system defined by a specific collection of programs and related documents which specify a particular function of the software of a given hardware system {{Harv|Rus|Rus|1993|p=94|Ref=none}}." In other words, the system software is the tool and the software system is the specific instance of the system software.
+
+Based on that knowledge, I believe that application software should remain its own topic with the appropriate references to both system software and software systems. All three subjects are important and should be maintained separately in order to provide readers with a sufficient base of knowledge. Combining system software into application software not only broadens the scope of the article, but also hinders the ability to properly contribute knowledge on both topics.
+
+I agree that this article needs to be cleaned up, and I would be more than happy to contribute what I know, but should be kept separate from application software unless sufficient reason can be provided to the contrary.
+
+To provide context to my opinion, I am a computer science major currently taking "Introduction to System Software". The course is taught by Professor Teodor Rus, one of the authors of the book mentioned above and cited below. I'm no expert by any means, but I know a few things well and I would like to contribute that knowledge to those who wish to share in it. [[User:FinalMinuet|FinalMinuet]] 15:30, 17 September 2007 (UTC)
+
+#{{cite book
+  |last = Rus
+  |first = Teodor
+  |coauthors = Daniela Rus
+  |title = Systems Methodology for Software
+  |year = 1993
+  |publisher = [[World Scientific Publishing]]
+  |isbn = 9810212542}}
+
+===Remember to check history for vandalism===
+The main cleanup that was needed was to undo the vandalism that occurred on 17 April 2006. When mainstream articles are a mess it pays to check the page history to see how they got to be a mess. [[User:Nurg|Nurg]] 03:15, 11 November 2007 (UTC)
+
+== Integrated Circuits are volatile or non-volatile ==
+
+In the last sentence "If system software is stored on non-volatile memory such as integrated circuits, it is usually termed firmware"
+
+'my doubt is whether Integrated Circuits comes under Volatile or Non-volatile category'  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/124.7.123.35|124.7.123.35]] ([[User talk:124.7.123.35|talk]]) 08:15, 2 December 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+DILAN  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/192.248.92.4|192.248.92.4]] ([[User talk:192.248.92.4|talk]]) 04:37, 19 June 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== System software ==
+
+"System software is closely related to, but distinct from operating system."
+What are your sources? I'd argue system software (eg. shell, GUI, [[c standard library]]) is part of the OS (even its name implies so), even though it's operating in user space. If only a kernel is an operating system, then there would be no need to call it the "central component of most computer operating systems" <sup>[[Kernel_(computing)|[wiki]]]</sup>, now would we? I'll be editing it to say "is a part of the operating system that executes in user space". I hope you agree. --[[User:Paxcoder|Paxcoder]] ([[User talk:Paxcoder|talk]]) 22:02, 21 June 2009 (UTC)
+:Darnit, the piece is so strangely written, I feel unable to modify it correctly. See this:
+:{{cquote|An operating system creates an interface between other software and the system hardware, while system software will refine or allow greater interaction with the user.}}
+:What does it mean? Any examples? What is C library then? Is that a part of the OS? It's running in user space! --[[User:Paxcoder|Paxcoder]] ([[User talk:Paxcoder|talk]]) 19:42, 23 June 2009 (UTC)
+::The article in its current form implies that:
+::*System software is not a part of the OS and
+::*Loader is system software
+::Conclusion is then that Loader is not a part of the OS and, in turn, OS, by itself, cannot load and execute programs. I don't suppose anyone cares to explain this? --[[User:Paxcoder|Paxcoder]] ([[User talk:Paxcoder|talk]]) 12:18, 1 September 2009 (UTC)
+:::I'd just like to thank [[User:JMetzler|JMetzler]], and few other previous edits (sorry, I'm too lazy through browse, but [http://en.wikipedia.org/w/index.php?title=System_software&action=history&year=2009&month=-1&tagfilter= here] it is) for a rewrite. It's an article now. --[[User:Paxcoder|Paxcoder]] ([[User talk:Paxcoder|talk]]) 21:40, 28 December 2009 (UTC)
+
+== Definition of System Software ==
+
+Hey, guys. I am currently studying towards a qualification in IT and I have a module called "System Software". Based on what I learned in SS, I would like to challenge this definition "System software (or systems software) is computer software or operating system designed to operate and control the computer hardware and to provide a platform for running application software." While Operating Systems are System Software, not all system software is an operating system (think all thumbs are fingers but not all fingers are thumbs." so I think that the operating systems bit should be left out of the definition as I believe it is taken heavily out of context. Furthermore, the purpose of System Software is much more versatile than just facilitating Application Software support and appropriating computer resources. [[User:Aleksandar Bulovic&#39;|Aleksandar Bulovic&#39;]] ([[User talk:Aleksandar Bulovic&#39;|talk]]) 16:19, 9 September 2012 (UTC)
+
+== I would to know more about network monitoring software? ==
+
+I would like to know more about network monitoring software. If anyone know about this please help me to know about the topic.
+http://www.woodstone.nu/salive
+
+== Servers ==
+
+I deleted the following text
+<blockquote>
+[[server (computing)|Servers]] are computer programs running to serve the requests of other programs. The server performs some computational task on behalf of the software which may run on either the same computer or on other computers connected through a network.</blockquote>
+I think the editor was trying to get at the idea of daemons, but the link given is not relevant.  My feeling is that daemons are part of the OS, but it might be worthwhile to rewrite this and add it back. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 22:40, 1 July 2013 (UTC)

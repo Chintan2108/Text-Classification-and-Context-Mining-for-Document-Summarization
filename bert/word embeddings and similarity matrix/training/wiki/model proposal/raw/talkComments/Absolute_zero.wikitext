@@ -1,0 +1,577 @@
+{{Vital article|level=4|topic=Science|class=B|subpage=Physics}}
+{{WikiProject Physics|class=B|importance=Top}}
+
+== MIT Temperature discrepancy ==
+At the top of the article, it's stated that in 2003 MIT reached "500 pK (.5*10^-9)", but at the bottom it says they achieved 450 pK (4.5*10^-10). I just realized the magnitude of the two is the same, but which value is it, 450, or 500? [[User:SpartanMurph117|SpartanMurph117]] ([[User talk:SpartanMurph117|talk]]) 01:11, 31 January 2008 (UTC)
+
+== Early discussions ==
+
+quick question: if phases of matter are determined by energy, and energy is measured by temperature, then, if absolute zero were acheivable, would'nt that create a new phase of matter?
+----
+The article mentions that the "ground state" energy is not zero.  I assume that it is refering to the Zero Point Energy (ZPE), which arises in the "particle in a box" problem and elsewhere.  While it is true that the ZPE is non-zero, is it considered kinetic energy or some other form of energy? (MS)
+----
+It is kinetic energy. You can solve for the velocity of the particle, and the answer is non-zero. (GJ)
+----
+On a related note, at temperatures near absolute zero, atoms move very slowly. At absolute zero are the atoms completely stationary or is there some zero point vibrational frequency? (MS)
+----
+For a particle in a crystal at low temperatures, simple harmonic motion is a better approximation. Again, there is non-zero velocity and kinetic energy in the ground state, except when the particle is instantaneously motionless at the extremes of the SMH. It was about 20 years ago that i knew a little quantum mechanics, so i can't quote formulae any more. Try an undergraduate quantum mechanics text book (sold mine long ago :-() (GJ)
+----
+Finally, at least for the case of temperature defined in terms of the heat engine (Lord Kelvin's definition of temperature), where temperature is related to the efficiency of a reversible heat engine:
+
+  efficiency = 1 - T<sub>H</sub>/T<sub>C</sub>
+
+it is impossible to obtain a temperature below 0 K.  If such a temperature were possible, it would be possible to develop a thermodynamic cycle that exhausted heat at that temperature.  The result would be an engine with efficiency >100%, which violates the first law of thermodynamics. (MS)
+----
+I think you mean 2nd law. I'm not sure if Kelvin's definition is one of the ones that allow negative temperature. Even if it does, the above reasoning might be faulty. At negative temperatures a lot of other things go negative or just plain weird. I called for real thermodynamicists here because my physics is now only half remembered and i am confused about some of these things. (GJ)
+----
+''Efficiency >100% means that you get out more energy than you put in.  This violates the 1st law (yes, it also violates the 2nd law).  In addition efficiency = 100% violates the 2nd law, except for the special case of reversible processes. Since in practice it is pretty much impossible to implement a reversible process, the 2nd law implies it is impossible to even reach absolute zero.(MS)''
+
+----
+Also, even for population inversion, isn't the ground state still defined as the lower energy of the two states?  
+
+--[[User:Matt Stoker|Matt Stoker]]
+----
+Sometimes, sometimes not. In most practical lasers there are three or four relevant quantum states and the population inversion involves only two of them, not the ground state, and for a four level system not the highest. The negative temperature figure comes about only if you include only the atoms (or whatevers) in the two "inverted" states of the population inversion.
+
+It is also possible to build a two level laser system, with the ground state being the low energy state in population inversion, but for various practical reasons these are a lot less fun.
+
+The definition of temperature usually used for such systems is, derivative of entropy with respect to energy (perhaps multiplied by a constant for the system of units you are using). Adding energy to a system with population inversion actually decreases the entropy, and subtracting energy increases the entropy, hence negative temperature.
+
+BTW for such systems, there are two good approximations to absolute zero. One is with all atoms in the low energy state. The other is with all in the high energy state (perfect population inversion).(GJ)
+
+----
+
+''I did a little reading from: <a href="http://www.google.com/search?q=cache:FJjlpW9h4es:math.ucr.edu/home/baez/physics/neg_temperature.html+absolute+zero&hl=en">Physics FAQ</a>
+
+One important distinction is that the negative temperature, so defined, is for only one mode (eg. the nuclear spin mode).  Thus, the entire system (i.e. all modes) still has a positive temperature.  This is why such a negative temperature is possible without violating the 1st & 2nd laws of thermodynamics.  It would not be possible to exhaust heat to only the negative temperature mode (other modes would still play a role), so T<sub>C</sub> would still be >0 and efficiency < 100%.  (MS)''
+----
+All those "billionths of a degree absolute" record holders are using this kind of definition of temperature, and they are applying to a specialised system such as "only the atomic nuclei in the material, and only for their temperature calculated with energy states in the magnetic resonance system i am running". [[User:Geronimo Jones|Geronimo Jones]]
+----
+Actually, no, the "billionths of a degree above absolute zero" record holders are defining temperature in terms of the velocity of the atoms (translational mode).  Since the cooled particles are gaseous atoms, they have no rotational or vibrational modes.  For this case nuclear modes should be negligible.  They probably are neglecting electronic modes, since they have no way to measure them.  This could be an issue, since they are using the momentum transfer associated with photon absorption to slow the moving atoms, which would result in electronic excitation.  However, I am fairly certain the lifetimes of the excited electrons are short enough that on average the electronic energy is quickly redistributed to the translational mode via photon emission. In fact, I am pretty sure it is this energy transfer due to photon emission that limits the minimum possible temperature that is obtained (20nK). (I recently attended a lecture on this by William D. Phillips, who received the 1997 Nobel Prize in Physics for this work. He spent quite some time discussing this energy transfer, since the original theoretical calculations indicated a larger energy for the electronic transition than was actually the case and when the experiment resulted in a lower temperature than was theoretically possible they had to go back and revise the theory).
+   
+The application of this particular low temperature work is for atomic clocks, the accuracy of which are improved by using very slow moving atoms.  Check the NIST website for details.
+--[[User:Matt Stoker|Matt Stoker]]
+
+How can they have a gas at a few billionths of kelivns? Doesn't helium, the hardest element to condense, liquify at 4K? I could understand if they could stretch the condensation point down to 1 K or .1 K by playing with the volume, but even just down to a &mu;K is a difference of 6 orders of magnitude. Especially with a gravitational field pulling the atoms toward the bottom of the tank, I couldn't see them getting anywhere near absolute zero without letting the gas condense. 
+
+Also interesting to note is that there are rotational modes available to single atoms. The problem is that the amount of energy necessary to access them is enormous compared to the energy involved in temperature. because of the quantization of angular momentum.--BlackGriffen
+
+Check the NIST website [http://www.nist.gov] to be sure, but I believe the reason it is considered a gas and not a solid is that the sample consists of a very small number of atoms (on the order of ten or less) under high vacuum.  In order for condensation to occur the atoms must collide and stick together.  Under the experimental conditions collisions are fairly rare, so condensation takes a long time.  In other words condensation is kinetically limited.  Under some conditions, the scientists were able to observe formation of a Bose-Einstein condensate, so some form of condensation does occur. -- [[User:Matt Stoker|Matt Stoker]]
+
+----
+It seems to me the definition given needs to point out that absolute zero is a theoretical temperature. It has never been ( & cannot be) attained.
+Article says
+:''Absolute zero is the lowest temperature that can be obtained in any macroscopic system''
+--[[User:JimWae|JimWae]] 23:15, 2004 Dec 2 (UTC)
+----
+
+"Ideal gas has no volume and exerts no pressure?" 
+Why it has no volume and can't exerts no pressure?
+: Because that's what the equations of an [[ideal gas]] says happens at 0 K. Ideal gases don't exist. 0 K?
+::So it should have been "''would'' have no volume"... — DIV ([[User:128.250.204.118|128.250.204.118]] 05:52, 1 September 2007 (UTC))
+:::No, "Ideal gas has no volume and exerts no pressure" is correct.  The statement doesn't mean "If an ideal gas existed, it would have no volume," just as 0 K isn't "the temperature that would be the lowest."  We cannot reach 0 K, and ideal gases don't really exist, but since they are defined terms, we can refer to them without using a counterfactual conditional. [[User:Alhead|Alhead]] ([[User talk:Alhead|talk]]) 07:27, 29 November 2007 (UTC)
+
+Why "no volume"? For an ideal gas pressure and temperature are both directly
+dependent on the movements of the individual particles, so 0 K would imply
+no motion and, in turn, no pressure. I see no reason to assume that the volume
+would disappear, however. Similarly pV ~ nT with T=0 only implies that pV = 0,
+''not'' p = 0 and V = 0.[[Special:Contributions/88.77.130.58|88.77.130.58]] ([[User talk:88.77.130.58|talk]]) 13:51, 29 December 2009 (UTC)
+----
+:''All known gases will liquefy before attaining a temperature of 0 K.''
+Is this really true? I was under the impression that helium needed some heavy pressure to liquefy at all - even at 0K. [[User:Mikez|\Mikez]] 16:10, 14 Feb 2005 (UTC)
+
+----
+at atmospheric pressures found at sea level, helium liquefies at 4k, but it has some unusual properties, and it is very difficult to attain that temperature with helium.
+
+Ah, ok. I was thinking of solidifying :) That's another story. Thanks anyway :) [[User:Mikez|\Mikez]] 17:58, 14 Mar 2005 (UTC)
+----
+Huh?''A system with a negative temperature is [...] hotter than infinite temperature''? This reads like nonsense. Can anyone improve/explain this? --[[User:Dleonard|DLeonard]] 15:44, 2005 Jun 19 (UTC)
+----
+a negative temperature cannot be a positive temperature 8-\
+
+"''All known gases will liquefy before attaining a temperature of 0 K.''
+Is this really true? I was under the impression that helium needed some heavy pressure to liquefy at all - even at 0K. [[User:Mikez|\Mikez]] 16:10, 14 Feb 2005 (UTC)"
+
+helium liquifies at -269 degrees celcius*. But to become a solid, helium needed a pressure change. at normal pressure though, helium cannot become a solid.
+(MCC)       =)
+
+*In case you did not know this, helium becomes a [[''superfluid'']]; all of its molecules move in the same direction, making it EXTREMELY smooth-flowing; it can even climb up the sides of containers.
+----
+two requests. One is for a graph showing the extrapolation to absolute zero, the other is for some details (perhaps in another article) on how they get to absolute zero. [[User:Vicarious|Vicarious]] 23:43, 17 August 2005 (UTC)
+:I have added a reference to [[cryocoolers]] under "Cryogenics". Graph is a good idea. I will add it to my to-do list. [[User:Cutler|Cutler]] 08:00, August 18, 2005 (UTC)
+
+== Edited intro ==
+
+"It is an infinite number of [[Orders of magnitude (temperature)|orders of magnitude]] below any attainable temperature.  It is by definition unachievable (after all, T appears in the denominator of many equations of thermodynamics), ..."
+
+:I can only speculate as to what an ''infinite number of orders of magnitude'' means. That absolute zero is practically unachievable is the [[third law of thermodynamics]] and not inherent in the definition. [[User:Cutler|Cutler]] 17:41, 17 January 2006 (UTC)
+
+There's a pretty good reason why it will be nearly or fully impossible to reach Absolute Zero:
+Since the uncertainty principle states that an electron's position cannot be plotted at a given moment, then at any
+
+Comment by Internet Foundation
+
+I have added language to clarify these orders of magnitude.  In a fairly simple suggestion, I recommend using the existing SI prefixes for kelvin - millikelvin, microkelvin, nanokelvin, picokelvin, femtokelvin, attokelvin, zeptokelvin then switch to scientific notation. Or use scientific notation throughout.  I give examples below where I talk about femtokelvin research and attokelvin research.  I came to this looking at research across all fields on the internet.  If everyone doing zeptokelvin research uses that term consistently, then you can easily and completely find the community of people working on similar temperature scale.  The phenomena important to a researcher doing femtokelvin research for space will be familiar to the worker doing next generation atom magnetometry. They both will know and use the term attokelvin.  After checking many fields the convenience of the SI recommendations for prefixes does improve research coordination and communication.  
+
+However, there are problems with SI indexes.  They are English or roman alphabet based.  They include the use of some greek letters (micro) which are not uniformly used across the web, across languages, across platforms and html encodings.  It would be better to use a consistent ascii set of prefixes, rather than the mixed bag now.  I also recommend against using contractions and abbreviated units.  fK would work for femtokelvin, but I think - if you want your research to be seen I would consistently use femto-kelvin or femtokelvin. Seeing how people misspell things, I would be inclined to use both in my papers and web materials. Search engines have changed the web and the way we need to be careful in naming things.
+
+[[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]]) 02:50, 28 July 2009 (UTC)InternetFoundation
+
+== Theory ==
+
+I started thinking about 100 Kelvin, if it exists; and I was wondering...
+When you start a particle vibrating, raising its temperature, its position
+in space decreases in size. If you could create such high temperatures that the
+particles poition in space is a singularity, its temperature zould be infinite,
+no? But if its position is a singularity, would it have the room to vibrate, to
+produce heat?
+:Um... first of all, a single particle does not have a temperature; see the intro to the article [[Temperature]]. Second, increasing the energy of a particle does not necessarily decrease its "size", and certainly not for a harmonic oscillator; see for example the figures in the article [[Quantum harmonic oscillator]]. You might be thinking of the [[uncertainty principle]], which says something else. [[User:Melchoir|Melchoir]] 22:43, 27 February 2006 (UTC)
+
+Comment by InternetFoundation
+
+In fact, temperature is fine for single particles.  It must be measured with reference to an observer or set of observers.  Statistical Thermodynamics starts with a single particle and defines temperature as the kinetic energy of that particle.  Measured in temperature units by use of Boltzmann's constant, energy is energy.
+
+Your question has a mental model you are trying to clarify - a gedanken experiment.  If a particle is vibrating about its center of mass (an isolated particle), then it can be at zero temperature with respect to the observer (you).  It is sitting absolutely fixed in that location but vibrating.  Energy to change the particle has to come from somewhere - in a mental model of a real physical process.  So you must imagine electromagnetic or other means of increasing the vibrational state.  Particles are not generic.  You must be specific about which isotope, which ionization level, which electronic state, which isomeric state, which vibrational states, which rotational states, and which magnetic states - even for such "simple" particles as atoms.  It might seem like a lot of data, but the internet is filled with these details, and the experimental tools exist for fairly extensive investigation of all the fine details - of a particle which is not moving - which has "zero temperature" with respect to a given observer.
+
+[[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]]) 03:27, 29 July 2009 (UTC)InternetFoundation
+
+== theory & practice ==
+
+This article seems to lack, in many parts and aspects, a clear [[NPOV]] of the differences between the [[theory]] and [[practice]].
+
+The theory, the [[utopia]], is essentially separated from the practice, the [[experiment]]s. The experiments are just trying to prove the theory in practice, and should always be considered but without changing the theory itself. Rather adding rules as they are observed, not trying to add personal conclusions to it.
+
+Quoting an example, from [[Absolute_zero#Kinetic_theory_and_motion]], right on the first paragraph:
+:''But this is contrary to experimental evidence, and it is predicted that helium will never solidify, no matter how much it is cooled or compressed.''
+
+It says "it '''will''' never solidify", instead of "it '''would''' never solidify". I know this looks small, but it's actually pretty bad. I'd change it to the following, but that's not the only problem with this (and many) articles:
+:''Contrary to this, experimental evidence lead to predictions that helium would never solidify, no matter how much it is cooled or compressed.''
+
+Experiments happens all the time. There is no such perfect experiment. Today the zero absolute might be considered -273.15K (edit: I mean '''-273.15C'''). It wasn't always that number, and it can change again in the future. It resembles just like trying to predict the next digit in [[Pi]] without a computer. But this is even worst since there's no mechanism to predict what's the real absolute zero number. It could even not be a static number, since it's practical. Just like trying to say there is a solid and unique number for [[gravity]], or [[light speed]]. There are just ways to deduce it through experimentation in a [[critical mass]] stage that we might never be able to know for sure what would happen if it goes 0.0001K less, for example.
+
+Maybe absolute zero would be a completely different number in another [[galaxy]], just like gravity and light speed change within different environments.
+
+So, what's the definition for absolute zero? I think we all know what we mean by absolute zero once we understand [[thermodynamic]]s, but it gets hard to put it in words that wouldn't collide with other [[physics]] definitions. I can use two definitions for it:
+*'''absolute zero''' is a state of [[infinite]] [[energy]] within an [[universe]] ([[system]] wise).
+*''If [[temperature]] is the [[motion|movement]] of [[molecules]] and if that movement keeps a balance between the [[ambient]]'s [[energy]] and the [[body]]'s (heating up one or the other while there is any [[acceleration]], for example), by reaching the '''absolute zero''' those molecules would stop moving thus keeping all energy within the body and making no energy exchange with the ambient.''
+
+The first one is quite ambiguous, but I consider it to be quite right. Yes, it would imply a coexistence with an "opposite" temperature, but there is no opposite for zero. Adding to that it could be similar to saying it is "''infinite [[entropy]] of a [[body]]''" but that can lead to wrong physical conclusions again. And I know the second one must be too childish for physicians, but that's who I am right now.
+
+--[[User:Caue.cm.rego|caue]] 10:36, 17 March 2006 (UTC)
+
+Just one more thing: The current definition is also pretty good. I would just remove the word "macroscopic" from it:
+:'''''Absolute zero''' is a fundamental lower bound on the [[temperature]] of any [[system]].''
+--[[User:Caue.cm.rego|caue]] 10:36, 17 March 2006 (UTC)
+
+:Let's see...
+:#There is no problem with saying "it is predicted that X ''will'' happen..." since it's still clear that a prediction is being made. Using "would" is grammatically incorrect.
+:#Absolute zero is not -273.15K; it is 0K. If you meant −273.15°C, that's part of the definition of the [[Celsius]] scale, and so it cannot "change". Likewise, the numerical speed of light in meters per second is a definition and cannot change.
+:#Where is your "infinite energy" definition coming from?
+:#Actually, there ''is'' an opposite temperature to absolute zero; it is −0K, the hottest possible temperature. See [[negative temperature]]. This is just one use of [[−0 (number)|negative zero]].
+:Concerning the last two points, yes, physics can be wacky, but not ''too'' wacky. Let's not forget that we're bound by [[WP:NOR]] too. [[User:Melchoir|Melchoir]] 11:09, 17 March 2006 (UTC)
+
+Cool, thanks for the input Melchior, that was very nice of you. I've enjoyed mostly that [[WP:NOR]] thing, and yes, I kinda often violate that rule without noticing. I think most of this comment of mine is basically going against it. I need to stop to think on what I write here before actually doing it sometimes... But I kinda do hope that wikipedia could become more than an encylopedia. While it's true it is a completely new concept, it's still very tightly bound to old paper encyclopedia concepts.
+
+The -273.15K was my mistake. I meant Celsius, and while the definition can't change, both for that and for speed of light, the number can change since it's taken out of observations that could have been misleaded.
+
+My "infinite energy" definition came from my understanding of absolute zero, and infinite and energy. Just as you said, clearly a comment that could have been put aside. When I wrote that, I was truly thinking the article is lacking of NPOV in many parts, and I was trying to explain both my point on the NPOV thing and why I think the article could be reviewed since I feel like it's not a good explanation of what absolute zero is. While I should review all that, I still didn't. And, once again, I could be wrong and be assuming more things than I should, since I'm using just logic and my weak experience while trying to get to empirical definitions without being careful. At least I knew I was going too far, that's why I decided to gather some opinion first, and yours were of great help to me, Melchior.
+
+I'll just review all that later on and see if I can give some direction to the article as I first thought or just reconsidering everything I was imagining about this subject.
+
+Oh, one more thing, I never meant "there is no opposite to zero absolute", I just said mathematically (I assume that a zero out of context, or even in physics, is always coming from maths definitions), there is no opposite for plain [[zero]], that is it. But I also never knew there is a definition of '''opposite absolute zero''', which is just obvious to me that it would exist, although it could actually be just two different ways to get to the same point.
+
+And thanks again!
+
+--[[user:caue.cm.rego|Caue]] ([[user_talk:caue.cm.rego|T]] | [[special:contributions/caue.cm.rego|C]]) [[image:Banner of the Qulla Suyu.svg|15px|]] 09:42, Sunday [[March 26]] [[2006]] ([[UTC]])
+
+== Celsius conversions should be applied ==
+
+I reckon that at least with the "low temperature records", a Celsius conversion should be applied, as Kelvin is used by physicists resp., in general, scientists only. A Celsius value (like -272.95 °C) would be far more imaginable for so-called "ordinary people" than the Kelvin value would. -andy [[User:217.91.47.231|217.91.47.231]] 12:08, 7 April 2006 (UTC)
+
+:As far a general understanding goes, the difference between any temperature here and -270 °C won't affect the general understanding.  I can see no benefit whatsoever of listing temperatures such as -273.14999999955 °C. [[User:Gene Nygaard|Gene Nygaard]] 13:03, 7 April 2006 (UTC)
+
+== Source inaccuracy ==
+
+I would just like to point out, that [http://www.nytimes.com/2006/06/20/technology/20chip.html?ei=5090&en=215511bacfc970b5&ex=1308456000&partner=rssuserland&emc=rss&pagewanted=print this] listed as fourth reference on the page seems to be inacurate to the point of being pseudo-scientific nonsence. 
+
+''"500 GHz is more than 250 times faster than today's cell phones, which typically operate at approximately 2 GHz."''
+
+When giving comparison of the clock speed of the processors in the article, it relates them to operating frequency ranges of cell phones. Obviously no processor in any modern cell phone runs at 2Ghz, but it '''is''' their band frequency. I think the segment that references the article and the article itelf should be removed from the page as grossly innacurate and misleading. [[User:Tani unit|Tani unit]] 13:54, 22 June 2006 (UTC)
+
+: Tani unit: You gotta forgive the New York Times because the Georgia Tech's [http://www.gatech.edu/news-room/release.php?id=1019 press release] uses similar language: '''Silicon-germanium transistor operates 250 times faster than average cell phone'''.  Your opposition to the statement presumes a bit more than is directly stated in the Times article.  The NY Times didn't say ''microprocessor'' chips; just ''chips''.  And this is technically true since there are solid-state devices within a cell phone that oscillate at 2 GHz in order to generate the RF.  Having an entire microprocessor running at 250X these speeds and not vaporize into a flash of x-rays is quite an accomplishment.  Given that the NY Times' article isn't factually incorrect still means it might be misleading to some, but it can't fairly be characterized as "grossly innacurate [sic]" as you stated.  [[User:Greg L|Greg L]] 22:12, 20 July 2006 (UTC)
+
+:: I think the point here is that the statement is pretty much meaningless.  It is an apples to oranges comparison, and while technically true, not enlightening in any way. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/66.102.196.37|66.102.196.37]] ([[User talk:66.102.196.37|talk]]) 04:46, 4 April 2007 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+== The Boomerang Nebula: Event timing in the heavens ==
+
+'''[[User:Glossando|Glossando]]:''' Regarding your having [http://en.wikipedia.org/w/index.php?title=Absolute_zero&diff=83821140&oldid=83572096 converted the Boomerang Nebula paragraph] to past-tense form (you justified doing so by stating in your Edit Summary in the [http://en.wikipedia.org/w/index.php?title=Absolute_zero&action=history History section] that “<font color="#721F01">we are viewing the existence of something as it was thousands of years ago</font>”): This is confusing, unnecessary, and unsupportable. Unless an astronomy topic is directed strictly to the origins of the universe (such as the Big Bang or the Cosmic Microwave Background), relatively nearby events are always dated as Earth-receive time.  For instance, Supernova 1987A and the 1054 supernova producing the [[Crab Nebula]] are events that are dated Earth-receive time.  Supernova 1987 is said to have occurred 19 years ago.  Any mention of when it "really" occurred is added parenthetically.  This sort of distinction properly belongs in articles such as [[Light year]] (where it is undoubtedly covered in great detail). You also used past-tense language for the ''very existence'' of a heavenly object (the Boomerang Nebula) when you wrote “<font color="#721F01">and <u>existed</u> in the constellation Centaurus</font>” (my emphasis). While you are clearly very bright to have recognized how everything seen in the heavens is actually seen as it occurred at ''some'' point in the past, I sure wouldn't have gone out on such a limb as you did trying to emphasis this point; particularly since there is zero evidence that the Boomerang Nebula ''no longer exists'' or no longer is ''still'' (Boomerang transmission time) the coldest observable object in the heavens. This is about as logical as saying the Crab Nebula “existed” in the sky or that the Voyager spacecraft "used" to exist when they broadcast information (that takes many hours to reach Earth) regarding the edge of the heliosphere that also "used to exist".   [[User:Greg L|Greg L]] 20:47, 26 October 2006 (UTC)
+
+:Although I don't think mentioning something that only takes ''hours'' to view after it occurred is a good example to give to argue against something we are actually viewing ''thousands'' of years after it happened, I think what you are saying is fair enough. It would surely become too cumbersome to find the right past-tense wording every time we are speaking of such a thing that many light years away. I agree that sort of distinction more properly belongs in articles such as in [[Light year]]. --[[User:Glossando|Glossando]] 21:39, 26 October 2006 (UTC)
+
+The statement that "In February 2003, the Boomerang Nebula was observed to have been releasing gases at a speed of 500,000 km/h (over 300,000 mph) for the last 1,500 years." seems to be wrong, since 500,000 km/h is faster than the speed of light. Unfortunately I could not retrieve the paper cited under 21 that is supposed to contain this figure, but this ought to be corrected.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/160.39.212.109|160.39.212.109]] ([[User talk:160.39.212.109|talk]]) 15:27, 31 March 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Note: 500,000 kilometers per ''hour'', not per ''second''.  The speed of light is about 300,000 kilometers per second. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 16:39, 31 March 2013 (UTC)
+
+== Colder? ==
+My friend says that you can get colder than absolute zero. I say you can't. Who is right? Tell me on my user page.(search my username)[[User:Cbmndm|Caleb M.]] 23:19, 12 February 2007 (UTC)
+:You are. Maybe surprisingly, it ''is'' possible to have [[negative absolute temperature]], a temperature that's a negative number on the Kelvin scale. But this is not extremely ''cold'' but rather extremely ''hot''. --[[User:Trovatore|Trovatore]] 23:22, 12 February 2007 (UTC)
+:I think it's already cold enough. [[User:Ilyajedi96|Ilyajedi96]] ([[User talk:Ilyajedi96|talk]]) 16:16, 18 May 2010 (UTC)
+
+Appears that this page has be vandalized by 24.15.86.124 on 6 March 2007.  The previous text  needs to be restored.  (I'm a new user and haven't learned how to do this properly yet).
+[[User:ExtonGuy|ExtonGuy]] 02:01, 7 March 2007 (UTC)
+
+Comment by Internet Foundation
+
+Trovatore's comments are misleading.  If you visit the link he provided, you can see that they are talking about ways to use minus signs of kelvin temperatures where there is a need to consider heat or energy flows.  Since kelvin temperatures are strictly kinetic energy relative to an observer, there are many cases where other types of energy can be added or taken away.  In energy terms, the accounting can be handled using negative and positive energies, or you can -- by convention -- define negative and positive temperatures.  It is the same a financial accounting.  If you have minus fifty dollars, that is a debt and not an asset.  
+
+Your question is actually answered on that page.  According the the definition of temperature based on kinetic energy relative to the observer, there is no temperature lower.  Once you allow electronic, nuclear, gravitational, electromagnetic or other types of energy to intrude, they can move a system to deficit or surplus energy states -- even while the kinetic energy, the temperature, remains zero. Rather than confuse "temperature" with this accounting confusion, it is probably better to simply use "energy" and carefully label the type, source, and character of the energies you are tracking.
+
+[[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]]) 02:36, 28 July 2009 (UTC)InternetFoundation
+
+: When we speak about absolute zero we speak about atoms with zero kinetic energy. But what about energy of subatomic fractions. For example electrons are composed of smaller fractions, that are active in still atom, even if electrons are stopped.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/193.200.189.4|193.200.189.4]] ([[User talk:193.200.189.4|talk]]) 12:59, 5 March 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:: I'm not really sure what you're getting at here.  But it's important to emphasize this:  Atoms have '''''nonzero''''' kinetic energy at absolute zero, because of quantum effects.  It's even more important to emphasize this:  Temperature is ''not'' '''not''' '''''not''''' about kinetic energy!  Temperature is a statistical-mechanics thing; it's about the relationship between entropy and internal energy.  That's why InternetFoundation is wrong in his remarks above.  --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 19:42, 18 May 2010 (UTC)
+
+: There has to be a simpler way to explain this. What about [[Maxwell's Demon]]? If you were to create an area of the universe that was at absolute zero, the absolute zero collapses as every non-absolute zero temperature source filled it in. Im not really sure if this would be a good description of how things work. But I didnt se it on here so I thought id add it. [[Special:Contributions/74.132.249.206|74.132.249.206]] ([[User talk:74.132.249.206|talk]]) 20:23, 24 August 2011 (UTC)
+:: The definition of temperature is the derivative of the absolute energy in function of the entropy at constant volume and number particles. Also the  entropy increases with the number of states of a system. In some quantum systems it is possible for the system to be in a state so that when the temperature increases the number of states decreases, giving rise to a negative temperature. This states are, however, hotter than state with positive temperatures. Maybe we should add a section about this.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:BrunoGCoutinho|BrunoGCoutinho]] ([[User talk:BrunoGCoutinho|talk]] • [[Special:Contributions/BrunoGCoutinho|contribs]]) 08:40, 4 May 2015 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Accuracy? ==
+
+I seem to only be able to find values to the fifth significant figure for absolute zero, at -273.15 degrees celsius. (I did see SOMEWHERE that it was -273.1569, but that's as much as I can remember. I'm not so sure about the numbers, but I do know that it should round to -273.16, not -273.15) However, there are many claims and validated reports from labs around the world that they have reached temperatures within a billionth of a degree of 0 K. Of course, if they do not know the exact value of 0 K to a billionth of a degree, shouldn't this be impossible?
+
+Note: At my school there's a book we have with various scientific data values in it; I'm sure I could find the value for it somewhere. If I can't, however, then I'm going to be pretty baffled.
+[[User:Xander T.|Xander T.]] 12:41, 14 May 2007 (UTC)
+
+> You are missing something there.It is -273.15C. By definiton. There is zero uncertaincy. Celcius was redefined, with this value as its base, just like the Ohm was shifted to the von-Klitzing constant, and the meter to (a factor of) the distance light crosses in a second in vacuum.
+
+::It would be useful to mention in a footnote what the value would have been under the '''old''' definition!
+::— DIV ([[User:128.250.204.118|128.250.204.118]] 06:05, 1 September 2007 (UTC))
+
+== Compression ==
+
+What would happen if a load was applied to (say) hydrogen at absolute zero?  Could it be compressed?  Does it depend upon whether the substance has more than one (meta)stable state at that temperature?
+— DIV ([[User:128.250.204.118|128.250.204.118]] 02:57, 28 September 2007 (UTC))
+
+
+Comment by Internet Foundation
+
+Absolute zero means zero velocity relative to the observer.  Where ever you are, if the hydrogen is still with respect to you, it will have a zero temperature at its center of mass. Compression which is symmetric about the center of mass origin -- defined as not moving the center of mass, nor perturbing it -- would allow energy to be injected into the material - without affecting its observed temperature.  If you look below I outline the way to use the Unruh temperature to define a vacuum temperature with relative acceleration.  This is fairly consistent.  
+
+Compressing hydrogen symmetrically, since hydrogen is a diatomic molecule, will likely introduce small dislocations and acoustic phenomena similar to the [[Barkhausen effect]] for applied magnetic fields. If you have the apparatus, you can go as far as you like.  The nucleus of the hydrogen and the electrons in hydrogen are fairly energetic compared to normal energies provided by pressure.  If you imaging using converging beams of light for compression, then nuclear energies can readily be reached.  If you are not familiar with [[Plasma Focus]] devices, they are low cost and reliable neutron generators.  The deuterium (that isotope of hydrogen) will readily fuse and release neutrons.  The [[laser fusion]] business is quite hot (joke).  There symmetric compression is applied to macroscopic droplets of material (deuterium containing usually).  All techniques have some degree of asymmetry which mean losses during compression.  And all techniques move the center of masss a bit.  What is important is not that the relative motion is absolutely zero, but that it is "small enough" to get decent returns of fusion energy for energy invested in compression and ignition.
+
+[[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]]) 02:18, 28 July 2009 (UTC)InternetFoundation
+
+==What it actually is==
+Couldnt it say that absolute zero is the point at which the atoms stop moving entirely? Cause that's kinda what it is.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.135.7.26|74.135.7.26]] ([[User talk:74.135.7.26|talk]]) 21:27, 20 October 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:"Kinda" in the sense of "not really". See [[zero-point energy]]. --[[User:Trovatore|Trovatore]] 22:05, 26 October 2007 (UTC)
+:: Shouldn't the intro say something in layman's terms also, something along the lines of "theoretically the coldest temperature that any object can achieve (although in reality, the laws of thermodynamics preclude actually reaching absolute zero)." Also some reference somewhere to the temperature of deep space in relation to absolute zero. [[User:The Yeti|The Yeti]] ([[User talk:The Yeti|talk]]) 12:35, 22 October 2008 (UTC)
+
+== Black Hole? ==
+
+If a particle completely stopped moving and had no energy, wouldn't the electrons stop orbiting and be attracted and collide with the nucleus?  Is this theoretically possible?  and if so wouldn't it cause some sort of singularity or black hole type thing?[[User:71.190.143.208|71.190.143.208]] 22:02, 26 October 2007 (UTC)
+:The electrons don't stop moving. No, it isn't theoretically possible for the electrons to be bound to the nucleus and yet unmoving (in the sense of having zero expected momentum). --[[User:Trovatore|Trovatore]] 22:09, 26 October 2007 (UTC)
+
+
+I believe that the universe started from nothing cold and hot are the controlling of static and of heat and cold these are sun conversion colors i did a little work on them pearl color descriptions white yellow plain process red richness amount can vary
+purple <> >< blue balence of richness clear cemical purity result green cemical separate heat result  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Snleoprd|Snleoprd]] ([[User talk:Snleoprd|talk]] • [[Special:Contributions/Snleoprd|contribs]]) 18:17, 9 November 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Absolute Zero, Relativity and Effects on Time ==
+
+I had a few ( very amateur ) questions about absolute zero.   
+It is my understanding that temperature is basically the lack of energy in space.   Is it more complicated than that? 
+Does energy effect time ( time / space )?  Is mass = to energy?  For a place with infinite energy will time stop and conversly at absolute zero will time travel very quickly ( infinitely fast? )?
+
+Could it be because of time / space speeding up that we see the einstein condensate? 
+
+Would the heisenberg uncertainty principle in some way make it impossible to detect a state of absolute zero in a way that if we can detect the state we need to add energy to it? 
+
+
+--[[User:Tommac2|Tommac2]]  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/207.45.240.18|207.45.240.18]] ([[User talk:207.45.240.18|talk]]) 15:16, 28 January 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:Achieving absolute zero would require that time be stopped, which is a silly prospect. No energy, no time. E=Mc2 has time in it - if the mass is unchanged and the energy goes to zero, then time must stop. Time truly is the fourth dimension.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/137.186.251.55|137.186.251.55]] ([[User talk:137.186.251.55|talk]]) 19:24, 6 February 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+::Que? Firstly, mass and energy are connected in a fix manner (as far as we know today). c does not depend on time or the passage of time in any manner that would be relevant. Secondly, absolute zero does not imply no energy, but that, in a manner of speaking, certain "above the base-line" energies are zero, including movement of particles in a gas and "vibrations" of the atoms in a molecule.
+
+::If you are interested in "time stops" scenarios, you would likely do better thinking in terms of entropy and changes in entropy levels.
+[[Special:Contributions/88.77.130.58|88.77.130.58]] ([[User talk:88.77.130.58|talk]]) 18:31, 29 December 2009 (UTC)
+
+== Intro section - researchers ==
+
+Is it relevant to mention that MIT got to 500pK in 2003, when Helsinki University of Technology were more successful before then? [[User:Halsteadk|Halsteadk]] ([[User talk:Halsteadk|talk]]) 12:51, 20 April 2008 (UTC)
+
+== 100 pK (moved from article) ==
+
+100 pK is NOT 0.1 x 10-12 K by definition.  100 pK is 0.1 x 10-9K. <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:69.149.122.92|69.149.122.92]] ([[User talk:69.149.122.92|talk]] • [[Special:Contributions/69.149.122.92|contribs]]) 15:07, 7 June 2008</span></small><!-- Template:Unsigned -->
+
+== Relation with Bose Einstein Condensates ==
+''"...It is at this point the laws of thermodynamics become very important."''<br />
+Surely the laws of thermodynamics are ''important'' at all temperatures?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.16.167.203|86.16.167.203]] ([[User talk:86.16.167.203|talk]]) 23:02, 20 July 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+The occurrence of BEC is not related to absolute zero. There are quite a few recent experiments on polaritons or magnons, which are in the room-temperature range, still produce BEC. The statement of this section is simply untrue.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:V923Z|V923Z]] ([[User talk:V923Z|talk]] • [[Special:Contributions/V923Z|contribs]]) 20:04, 29 November 2008 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Definition ==
+
+Wouldn’t it be simpler to say that absolute zero is the point at which there is no [[heat]]?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.107.132.94|71.107.132.94]] ([[User talk:71.107.132.94|talk]]) 09:04, 22 September 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:[[Heat]] and [[Temperature]] are two very different things. Temperature is not a measure of heat; therefore, temperature should not be defined in terms of heat. ''by [[User:Hajatvrc|hajatvrc]] at'' 03:19, 12 December 2009 (UTC)
+
+== achieving absolute zero is irreversible and can cause mass vanishment ==
+
+Possible effect of achieving the zero temperature could be:
+
+irreversibility:
+Because of achieving *absolute* 0 temperature, we would be unable to force the "system" to move again. Because we would need absolure force to make it move. I suppose, that even all the energy of universe shouldn't be enough to reanimate the *frozen* system.
+
+problems with artifical achieving:
+The system cannot be artifically frozen down to absolute 0 temperature. Because we add energy even upon measurement (the machine/lab should be absolute 0 temperature already, otherwise it will add an extra energy).
+
+mass vanishment:
+The mass should vanish. Because of absence of movement in the elementary particles. Electrons, protons, neutrons, even quarks in the atomic nucleus.  Even we could have obstacles to recognise electrons and/or quarks and other particles. Because of absence of movement, we could hardly determine their position. Thus we couldn't use electron bombing reactions or particle accelerators. In simply way, we would unable to recognise the mass, should it have absolute 0 temperature.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Janmojzis|Janmojzis]] ([[User talk:Janmojzis|talk]] • [[Special:Contributions/Janmojzis|contribs]]) 21:38, 15 October 2008 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+Wouldn't the center of a black hole be at a temperature of absolute zero?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/75.118.152.31|75.118.152.31]] ([[User talk:75.118.152.31|talk]]) 16:39, 16 October 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+All that I said here, could be interpreted by this way: If we theoretically get a zero point energy particle, we must have frozen all the other particles around in entire universe already, because of laws of thermodynamics.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Janmojzis|Janmojzis]] ([[User talk:Janmojzis|talk]] • [[Special:Contributions/Janmojzis|contribs]]) 19:31, 16 October 2008 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+Note to Janmojzis from InternetFoundation
+
+You are correct about the freezing the universe in communication with a body at zero temperature.  In fact, as long as energy is allowed to move in a real or model universe, no place will be a zero temperature, if all others are not.  
+
+From a practical standpoint, it is much better to express the actual temperature than to say zero.  What I mean by that is to recommend using picokelvin, femtokelvin, attokelvin, zeptokelvin, or just go ahead and give the amount as 10^-33 kelvin as I do below (for the vacuum temperature associated with the gravitational acceleration of a solar mass at the distance of one light year.  
+
+Also, if we allow the current "size of the universe" to put a bound on things, then the temperature of a test particle (the kinetic energy of a test particle) can not be lower than the temperature that would make the particle's [[de broglie wavelength]] equal to the diameter of the universe.  For a lifetime of the universe of about 13.75 billion years, a wavelength of 2*13.75 billion light years, the temperature of an electron would be 10^-68 kelvin, but not zero.  If you have a decent calculator that can make calculations from 10^-1000 to 10^+1000, then there is no need to round or approximate. 
+
+[[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]]) 02:00, 28 July 2009 (UTC)InternetFoundation
+
+== Absolute zero in degrees Fahrenheit ==
+
+"... and −459.67 degrees on the Fahrenheit scale" ([[Absolute zero]])
+
+"Absolute zero is −523.67 °F ..." ([[Fahrenheit]])
+
+Surely there must be something wrong here :)
+
+: Actually the article's correct. [http://www.smithsonianmag.com/science-nature/absolute-zero-200801.html][[User:Forbes72|Forbes72]] ([[User talk:Forbes72|talk]]) 00:08, 27 January 2012 (UTC)
+
+== Section on Guillaume Amontons is unclear ==
+
+"...a column of mercury was sustained by a certain mass of air..."  
+
+What does "sustained" mean in this context?
+
+"...the volume or 'spring' which of course varied with the heat to which it was exposed. Amontons therefore argued that the zero of his thermometer would be that temperature at which the spring of the air in it was reduced to nothing." 
+
+In other words, absolute zero would be the point at which the volume of air had "shrunk to nothing"?  Wouldn't that mean that the mercury was expanding, the opposite of what it should be doing in the cold?  I can't visualize what's going on here.  [[User:Nine9s|Nine9s]] ([[User talk:Nine9s|talk]]) 00:11, 28 November 2008 (UTC)
+
+== Thermodynamics near absolute zero "Syntax Errors" ==
+
+This section of the page is currently showing this text:
+* At temperatures near 0 K, nearly all molecular motion ceases and Failed to parse (Cannot write to or create math output directory): \Delta S = 0 for any adiabatic process. Pure substances can (ideally) form perfect crystals as TFailed to parse (Cannot write to or create math output directory): \to 0. Max Planck's strong form of the third law of thermodynamics states the entropy of a perfect crystal vanishes at absolute zero. The original Nernst heat theorem makes the weaker and less controversial claim that the entropy change for any isothermal process approaches zero as TFailed to parse (Cannot write to or create math output directory): \to 0  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.204.113.140|72.204.113.140]] ([[User talk:72.204.113.140|talk]]) 11:15, 8 December 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Inconsistency ==
+
+Within the article it said "at absolute zero all molecular motion does not cease" yet I've heard from people and read through some of this article's own references and they say that at absolute zero all molecular motion stops. So which one is correct? [[User:Kev098|Kev098]] April 22, 2009
+
+== Fermi Temperature, Zero of Temperature Paradox == 
+
+[[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]]) 01:33, 28 July 2009 (UTC)InternetFoundation
+
+If absolute zero is zero kinetic (translational) energy, then derivation of [[Fermi Temperature]] and [[Fermi pressure]] have problems. Particularly, if electrons are considered to be in motion, relative to a stationary observer (center of mass temperature of the object is zero), then the lattice or nuclei the electrons are associated with must also be in motion.  Right now, the "zero temperature" formulas for Fermi gas are not quite right.
+
+Energy is nuclear, electronic, vibrational, rotational, translational or externally provided.  So an isolated system can have zero translational energy when all other types of energy are non-zero.  Unfortunately this runs into some problems.  Matter is generally made of many-nucleon nuclei and many-electron atoms and molecules.  The atomic nucleus tends to have internal motions and states, just as the electrons of atoms and molecules have motions and states.  So an atomic nucleus with no kinetic energy with respect to the observer will have a temperature of absolute zero.  But it will not lose its binding energy, isomeric states, nor the kinetic energy of nucleons which for various reasons are considered to have high internal kinetic energy.
+
+Seen from a distance, an atomic nucleus has a cloud of electrons, so the electrically neutral atom has electrons with high individual kinetic energy - even though the atom as a whole might be stationary.  That is, for an observer, the neutral atom will be seen as stationary (zero kinetic energy), but the electrons will have motion (temperature) and the nucleons within the nucleas will have motion (temperature).
+
+When the neutral atoms which make up solids are considered (corresponding to the mental model that people use when they think of a solid with a temperature), one must consider the motion of free electrons.  The [[Fermi gas]], [[Fermi temperature]], [[Fermi pressure]] and related concepts were devised to estimate the properties of an electron gas in a lattice (solid matrix usually, though it does not have to be, it could just as well be a fluid, gas or plasma on a very short time scale).  The [[Fermi temperature]] is finite and large - even at the zero of temperature.  '''This gives rise to an apparent paradox, because the expression refers to the lattice as being at zero temperature.'''
+
+In the article I added a comment about the [[Fermi temperature]] and this apparent conflict.  I think it can be resolved by introducing a [[gedanken experiment]] where you observe the lattice and free electrons as the temperature of the whole is lowered.  In my mind, there a clear contradiction if you hold the lattice and electrons by its center of mass with [[zero relative velocity]] (no kinetic energy or temperature with respect to the observer).  Then, if you want to the electrons to be moving at a finite temperature (non-zero kinetic energy), you must allow the heavier lattice ions to move in their complementary orbits.  In fact, for an electrically neutral piece of matter, you must allow the total momentum of electrons to be precisely the negative of the momentum of the ions, otherwise the whole thing will move and violate you original assumption that the whole is at rest.  The kinetic energy associated with the electrons might dominate the total kinetic energy, but as long as the electrons are moving, the ions will not move.  In the simple [[atomic hydrogen]] atom, the electron has a large orbit at high speed, but the proton does not sit still.  Many people use an [[infinite mass approximation]] and imagine the proton is motionless (zero temperature), but in fact it is always moving in its own orbit.  
+
+The velocity of the electron in the Bohr model is approximately the [[fine structure constant]] times the [[speed of light]] or (1/137.035989)*(2.99792458x10^7) = 2.1877x10^6 m/s.  Roughly, the proton is moving at this velocity times (me/mp = (1/1836.153) or 1191 meters per second.  A proton at that velocity has a kinetic energy of (1/2)[[proton mass] * vp^2/[[electron charge]] = 7.4098x10^-3 [[electron volts]].  The corresponding temperature is taken from the relation (3/2)kT = (1/2)mv^2, so T = [[kinetic energy]]/3k where k is [[Boltzmann's Constant]] = 1.38066x10^-23 Joules/Kelvin.  So the temperature of the proton in its orbit is about 28.7 Kelvin -- not very cold at all.  The electron temperature can be taken from its velocity the same way and we come up with an electron temperature of 13.60569194 eV or 52,629.10801 Kelvin, where I am using [[CODATA]] values from the [[NIST Fundamental Constants]] database.
+
+What I am trying to explain is that - in the context of the Fermi temperature, it is not appropriate to say that the lattice temperature is zero.  Even if it is small, that is not zero.
+
+== Unruh Temperature, Vacuum Temperatures, Very Cold Regions ==
+
+[[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]]) 01:23, 28 July 2009 (UTC)InternetFoundation
+
+I introduced the [[Unruh temperature]] into the discussion of [[Absolute zero]] since it represents some of the lowest temperatures mentioned in any current experimental or theoretical research on the web.
+
+Unruh suggests that bodies in accelerating frames (gravitational fields) will see an associated radiation field at a certain temperature. The suggestion is that gravitational acceleration is equivalent to a vacuum at a very low temperature. So I am introducing some ideas here for you to think about.  What are the properties of matter in equilibrium with very cold vacuum?  
+
+If you simply use Unruh's results, you can estimate the vacuum temperature associated with the gravitational acceleration at any place. At [[Unruh Effect]] the temperature observed by a uniformly accelerating particle is (in engineering units):
+
+:<math>T = \frac{\hbar a}{2\pi kc}</math>
+
+The wavelength of a massive object is estimated from the Compton wavelength based on its velocity and mass according to wavelength = Plancks Constant/(mass*velocity). 
+
+At [[Unruh Effect]] you will find the following - "The temperature of the vacuum, seen by an isolated observer accelerated at the Earth's gravitational acceleration of g = 9.81 m/s², is only 4×10-20 K. For an experimental test of the Unruh effect it is planned to use accelerations up to 1026 m/s², which would give a temperature of about 400,000 K. [2]"
+
+To put this in perspective, at a vacuum Unruh temperature of 3.978x10^-20 K, an electron would have a [[Compton Wavelength]] of h/sqrt(3*me*k*T) = 540.85 meters, and a proton at that temperature would have a wavelength of 12.62 meters.  It electrons and protons were in intimate contact a very cold vacuum, they would have rather long wavelengths and interaction distances.
+
+For an acceleration like the earth's surface, 9.81 m/s, the Unruh temperature is 3.978x10^-20 K. If an electron were this cold, then it would have a Compton Wavelength of h/sqrt(3*me*k*T) = 540.85 meters, and a proton at that temperature would have a wavelength of 12.62 meters. It electrons and protons were in intimate contact with the vacuum according to the local acceleration, they would see a very cold vacuum. And they would have rather long wavelengths and interaction distances.
+At one astronomical unit from the sun, the acceleration is G*Ms/AU^2 = 0.005932 m/s2. This gives an Unruh temperature of 2.41x10^-23 kelvin. At that temperature, the electron and proton wavelengths are 21.994 kilometers and 513 meters, respectively. Even a uranium atom will have a wavelength of 2.2 meters at such a low temperature.
+
+At one [[astronomical unit]] from the sun, the acceleration is G*Ms/AU^2 = 0.005932 m/s2.  This gives an Unruh temperature of 2.41x10^-23 kelvin.  At that temperature, the electron and proton wavelengths are 21.994 kilometers 513 meters, respectively.  Even a uranium atom will have a wavelength of 2.2 meters at such a low temperature. 
+
+At one light year from a solar mass, the Unruh Temperature would be 6x10^-33 kelvin.  An electron or proton wavelength at that temperature would be 4x10^9 meters, and 3x10^7 meters respectively.  
+
+Unruh's concepts (Unruh radiation and Unruh temperature) generalize work by Stephen Hawking and others on black hole radiation temperature. Large black holes radiate at very long wavelengths (very low temperatures). Small black holes radiate at higher temperatures.
+
+== Trovatore's reply to Kevin ==
+
+Answering Kevin: The claim that "all molecular motion stops at absolute zero" is simply incorrect.  It's correct in the classical approximation, but according to quantum mechanics, it's just wrong. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 22:20, 27 July 2009 (UTC)
+
+== Trovatore attempts to help a new contributor to this page ==
+
+How do we fix this?
+:Click on the "history" tab for the talk page, and find the version that has the remarks you want to reproduce.  Click on that link to see that version.  Click on the "edit this page" tab to see the source.  '''''Don't save this version''''', just use it to copy the text into your computer's clipboard.  Now click on the "discussion" tab to get back to the ''current'' version of the talk page, edit that, and paste the contents of your clipboard into the window. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 00:27, 28 July 2009 (UTC)
+
+I tried that, but several paragraphs were lost.  I went through the history and could not find them.  It seemed to be lost when I saved it.  When I looked at the page you had just done an undo and that is all that shows.
+
+Is it better to just write everything off line?  When everyone can edit everything, and (to me) random people can undo what you have just spent hours on, that is a pain.  I do not want to become an expert on navigating the current tools of wikipedia.  I would like to be able to add a bit here or there.  If you check the internet you will see my notes from several years ago, I have been tracking developments in attokelvin regions for a long time.
+
+[[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]]) 00:34, 28 July 2009 (UTC)InternetFoundation
+:My guess is that you hit the edit-conflict page, and never actually saved those missing paragraphs, which is why they are not in the history.  When you hit an edit conflict, you'll see two windows, one for the text as it currently exists in the database, and one containing your text.  You need to do an intelligent merge manually, which can be painful, but this is the software as it exists.
+:As to how to deal with writing long essays in talk pages, in almost all cases, the answer is that you shouldn't be doing that in the first place.  That's not what talk pages are for.  Sometimes for a particularly complicated issue, it ''is'' necessary to write longer remarks than for simpler cases, but you need to remember that you'll have a strike against you before people even start reading.  In some cases the answer may be to put an essay in your own user space (register for an account, then make a page called [[User:I am the person that I am/This is my essay]].  Even this can get people mad at you if you abuse it; WP is not your blog.  But within reason this is acceptable. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 00:41, 28 July 2009 (UTC)
+
+
+It just happened to me again. I guess I will give up with this version of the software.  I was making some minor edits above to clean up the mess I made.  But where I pressed save it came back to this version again. All in all I lost several hours work today. What a pain.
+
+I have seriously considered rewriting the core software for Wikipedia.  It is this kind of stuff that is so off-putting.  You are very kind, but my guess is the current structure and tools on wikipedia are wasting more than is getting contributed. That is my business to make those kinds of determinations.   Oh well. I guess I wil abandon further changes.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:InternetFoundation|InternetFoundation]] ([[User talk:InternetFoundation|talk]] • [[Special:Contributions/InternetFoundation|contribs]]) 00:51, 28 July 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Request for copy editing ==
+
+This article needs copy editing. It contains a lot of undefined terminology, or uses new terms before defining them. The progression of ideas is not coherent, and sometimes sentences are not even grammatical![[User:Wwallacee|Wwallacee]] ([[User talk:Wwallacee|talk]]) 21:30, 24 September 2009 (UTC)
+
+:[[WP:BOLD]].&mdash;[[User:Tetracube|Tetracube]] ([[User talk:Tetracube|talk]]) 21:35, 24 September 2009 (UTC)
+
+==Intro paragraph==
+Please, somebody with normal language skills rework the introductory paragraph!!!
+The opening sentence is clear enough, but then it all goes to hell after that, and continues on with all the clarity of a mind-numbing technical paper. When writing an article for wikipedia always ask yourself the question: Who is your audience?
+
+Apire for greatness. Think Loren Eisley or John McPhee. Ask yourself: "what would they do with the subject?"...And then go from there. Try Try Try.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.241.235.92|24.241.235.92]] ([[User talk:24.241.235.92|talk]]) 03:05, 27 November 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+Thank you
+
+Thank you  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.241.235.92|24.241.235.92]] ([[User talk:24.241.235.92|talk]]) 02:48, 27 November 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+ 
+*i second that, introduction should be rewritten without much use of technical terms, such entropy and thermodynamics. explain simple then start complex words "afterwards". Thankx, [[Special:Contributions/78.251.143.100|78.251.143.100]] ([[User talk:78.251.143.100|talk]]) 19:23, 23 February 2012 (UTC)
+
+==Contradictions==
+
+In the Very Low Temperatures, this article says "Record temperature" twice.
+22:28, 30 July 2010 (UTC)  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/75.120.176.164|75.120.176.164]] ([[User talk:75.120.176.164|talk]]) </span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+I have given the intro a thorough copy-edit. Apart from fixing the previously horrendous grammar and formatting issues, I have linked the remaining terms that may not be understood by the uninformed reader to their relevant articles, and this shall suffice. ''by [[User:Hajatvrc|hajatvrc]] at'' 04:32, 12 December 2009 (UTC)
+
+When describing things like this scientists should require laymen writers to accompany them. This wiki description is unattainable by the proletariat. [[Special:Contributions/24.76.193.102|24.76.193.102]] ([[User talk:24.76.193.102|talk]]) 02:23, 8 December 2010 (UTC)
+
+== Section on "Thermodynamics near absolute zero" needs variables defined ==
+It starts mentioning variables ''S'' and ''T'' but doesn't say what they are intended to represent.  For example it says: "when entropy = S, ΔS = 0".  Is ''S'' supposed to represent entropy?  Or is this an equation that is only applicable in the case when ''S'' (whatever that is) has the same magnitude as the entropy? -- [[User:DBooth|DBooth]] ([[User talk:DBooth|talk]]) 17:50, 26 December 2010 (UTC)
+
+== Coldest Temperature Recorded ==
+
+The document cites that the coldest temperature recorded is at 1K, but the article it uses as a reference says that they Boomerang Nebula absorbs 3K microwave waves. This does not appear correct and should be removed if evidence cannot be found to support it.
+
+--[[Special:Contributions/174.69.9.141|174.69.9.141]] ([[User talk:174.69.9.141|talk]]) 01:44, 14 July 2011 (UTC)
+
+:{{Done}} Good point. <span style="font-family:Trebuchet MS;text-shadow:grey 0.3em 0.3em 0.1em">'''Happy editing, [[User:Hajatvrc|<span style="color:purple">hajat</span>]][[User_talk:Hajatvrc|<span style="color:green">vrc</span>]] with WikiLove'''</span> @ 23:31, 14 July 2011 (UTC)
+
+== Overlinking ==
+
+About [http://en.wikipedia.org/w/index.php?title=Absolute_zero&curid=1418&diff=524948646&oldid=522335558 this] edit: 
+* [[Special:Contributions/85.64.251.156|85.64.251.156]] says "Undid revision 522335558 by Hhhippo (talk). He did erase some links that are needed".
+* Wikipedia's [[WP:OVERLINK|Manual of Style]] says "Generally, a link should appear only '''once''' in an article, but if helpful for readers, links may be repeated in infoboxes, tables, image captions, footnotes, and at the first occurrence after the lead."
+I would suggest to restore only those links that are needed (preferably explaining why they are needed) and that are not violating the Manual of Style. I'm not re-reverting for now in case someone else has an opinion on this. &mdash;&thinsp;[[User:Hhhippo|<font color="darkblue" face="times">'''H<small>HHIPPO</small>'''</font>]] 18:31, 26 November 2012 (UTC)
+
+== "possible" ==
+
+A couple of editors (well, could be the same editor for all I know, but at widely varying times) have changed the opening sentence from "lowest possible temperature" to "lowest temperature".  To my ear that just doesn't work in English.  Lowest temperature of what?
+
+The most recent edit raised the point that absolute zero isn't "possible".  I think that's actually an error &mdash; there is no ''process'' that will lower an object's temperature to absolute zero, but it is not in fact impossible for a sufficiently small object to reach absolute zero by chance, if it radiates out its last quantum of heat energy without absorbing another one.
+
+But that's a little beside the point, which is really a linguistic one &mdash; what we want, conceptually, is to say that it's the greatest lower bound of all possible temperatures, but without bringing up greatest lower bounds.  I think "lowest possible temperature" is a reasonable realization of that goal.  It's certainly no worse than "lowest temperature"; it's not clear how "lowest temperature" expresses a greatest lower bound any better than "lowest possible temperature" does.  --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 03:15, 29 November 2012 (UTC)
+
+== No longer relevant ==
+
+Scientists have created a substance which can theoretically reach temperatures below absolute zero.[[Special:Contributions/82.132.217.232|82.132.217.232]] ([[User talk:82.132.217.232|talk]]) 19:17, 4 January 2013 (UTC)
+:I believe he is talking about [http://www.livescience.com/25959-atoms-colder-than-absolute-zero.html this study], with paper [http://www.sciencemag.org/content/339/6115/52 here].  This study is briefly mentioned in the last bullet point of [http://en.wikipedia.org/wiki/Absolute_zero#Very_low_temperatures Absolute Zero's "Very low temperatures" section].  I would recommend possibly giving this topic another line of explanation, but I wouldn't delete Absolute Zero's page entirely until this has been looked into more.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/208.48.207.250|208.48.207.250]] ([[User talk:208.48.207.250|talk]]) 19:48, 4 January 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+::OK, you've both completely misunderstood, admittedly helped by a pair of confusingly written blurbs.  The phenomenon of [[negative temperature]] is well understood; exactly what the novelty here is I haven't quite followed, but it has nothing to do with making things colder than absolute zero.  It's actually hotter than infinite temperature.  The livescience article claims that "hotter than infinite" is "another way" to look at things, which is bullshit &mdash; it's the ''only'' way to look at things, and "colder than absolute zero" is just completely wrong, nothing correct about it at all.
+::I don't yet have any well-considered opinion about what to do with this news; I'll have to figure out what the novelty is first (and I'm probably far from the best person to do it; maybe someone else will beat me to it).  But the mention added by 82.132.217.232 is probably not helpful in context. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 20:38, 4 January 2013 (UTC)
+::::I have to agree. Reading between the lines of the news sensationalism and the choice of wording, what's being talked about here ''isn't'' actually colder than absolute zero. I'm not sure what exactly the deal with it is, though. [[User:ProfessorTofty|ProfessorTofty]] ([[User talk:ProfessorTofty|talk]]) 23:49, 4 January 2013 (UTC)
+:::::I have moved the mention of this from the "very low temperatures" section to the "negative temperature" section, and reworded it slightly.  This should be considered just a placeholder &mdash; someone should figure out more carefully what to do with it. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 00:14, 5 January 2013 (UTC)
+
+=== Negative temperature result in lead ===
+OK, I asked the IP to comment here saying there was already a section about it, but I had forgotten that the name of the section was something you wouldn't obviously connect with negative temperature.  Hopefully this is clearer. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 21:40, 13 January 2013 (UTC)
+
+
+I'll start the ball rolling:  The new experimental result is very interesting, but it doesn't mean what casual readers are likely to think it means. <small> (Exactly what it ''does'' mean I'm not entirely clear on yet &mdash; to have negative temperature you need an upper bound on energy, and I don't know how you get that in motional degrees of freedom.  I've downloaded the arXiv version of the paper but I haven't digested it.  If anyone can explain it in some detail, but less detail than the paper, I'd be grateful.) </small> In particular it does ''not'' mean that anything is ''colder'' than absolute zero, which is what a casual reader is almost certain to understand from the text the IP had added.
+
+I'm not opposed in principle to a mention in the lead, as it is a very interesting result, but it needs to be better qualified and explained, which I personally don't know how to do (because, as I mentioned, I'm not sure exactly what the experimentalists have done).  My guess is that in practice it is probably not going to be important enough to most readers to warrant a mention in the lead. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 21:47, 13 January 2013 (UTC)
+
+::When you google "below absolute zero" (in quotes) you get lots of hits, as I understand it. They are adding energy to a gas at the cusp of absolute zero, so regardless of what is claimed/true, a mention in the header is probably appropriate. It came up in an conversation at my office, and we are not theoretical physicists. [[User:JeepdaySock|JeepdaySock]] <small>(AKA, [[User talk:Jeepday|Jeepday]])</small> 14:27, 18 January 2013 (UTC)
+:::Hmm, fair enough, but a detailed mention needs to wait for someone who understands the result.  I think I could probably follow the paper if I put enough effort into it, but I don't know when I might get around to doing that.  I'll try to think of some generic language that isn't actively misleading. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 20:41, 18 January 2013 (UTC)
+
+== "Kelvins" vs "Kelvin" ==
+Shouldn't it be "100 picokelvin" and not "100 picokelvins?" --[[User:Coolbho3000|coolbho3000]] ([[User talk:Coolbho3000|talk]]) 19:44, 17 February 2013 (UTC)
+:I believe the [[SI]] standard is to treat the kelvin like any other unit, so if you'd say "100 picometers", you should also say "100 picokelvins".  I don't really care much which one is used, but certainly there's at least a reasonable basis for the current choice. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 23:23, 17 February 2013 (UTC)
+
+== Relevance of wavelength to radius of earth ==
+Is there any need for this claim: "It is noteworthy that this record's peak emittance black-body wavelength of 6,400 kilometers is roughly the radius of Earth"? 6,400km is obviously a long wavelength for black-body radiation, but without any physical explanation of the relevance to Earth's radius, equating the two sounds rather mystical.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Steven Kelly|Steven Kelly]] ([[User talk:Steven Kelly|talk]] • [[Special:Contributions/Steven Kelly|contribs]]) 08:10, 20 January 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+::The author may have inserted this for philosophical reasons (e.g. it is a signal that humanity has reached some essential point in science), but more likely it was in the sense that this is a lot colder than the 3 degree microwave background radiation.  Does it belong?  Certainly such information belongs in an article to be read by non-scientists and wanna-be scientists.  It's like saying that Saturn is about 10 times larger than Earth, and the sun is about 10 times larger than Saturn.  It gives people a sense of the scale of things.  
+
+::So the next question, is this:  An article too full of such facts gets cluttered an uninteresting.  It's a matter of balance.  If you really want me to look at the article, let me know and I will.  Personally, I go after really bad writing.  I once had one of my articles made SLIGHTLY worse by an edit, but let it slide because the edit did not make the article significantly worse.  Hope this helps.--[[User:Guy vandegrift|guyvan52]] ([[User talk:Guy vandegrift|talk]]) 22:16, 21 January 2014 (UTC)
+== Bizarre Citations ==
+In the ''thermodynamics near absolute zero'' section, there are some strange citations that instead of being a reference like one would normally find on Wikipedia, e.g. a superscript that links to the reference, are an "inline" type of citation (for lack of a better term), such as:
+:(≈ Callen, pp. 189–190)
+Is there a reason for these being present, or should these just be made into the standard citations?
+:-[[User:5donuts|5donuts]] ([[User talk:5donuts|talk]]) 18:19, 19 February 2014 (UTC)
+
+::The person who included these probably didn't know how to do it properly.  Come to think of it, I don't know the procedure myself.  If you fix it, I will watch and learn! --[[User:Guy vandegrift|guyvan52]] ([[User talk:Guy vandegrift|talk]]) 02:13, 20 February 2014 (UTC)
+
+== Absolute Vacuum ==
+
+Absolute zero is defined as 0 K for a ''solid'' where no molecules are moving, right? But what if an absolute (perfect) vacuum were created in the interstellar medium of outer space? Suppose a vacuum bubble could be created, perhaps by means of artificial electromagnetic fields cordoning it off, so there was absolutely no matter inside, not even scarce-lying methane or hydrogen molecules and no sources of heat directed towards the area within several light years - wouldn't that be 0 Kelvin, would it be even lower? Or would it be pointless to ask for the local temperature in that kind of vacuum. since there were (ideally) no molecules and no photons? [[Special:Contributions/195.67.149.167|195.67.149.167]] ([[User talk:195.67.149.167|talk]]) 16:14, 28 July 2014 (UTC)
+
+:I believe the answer would be yes, it's pointless to ask, since temperature is defined as being a property of matter. The question, "how hot / cold is outer space?" is fascinating to the layman (and irrelevant to the topic of absolute zero), but leads to paradoxes when seeking an absolute answer; the correct answer is "it depends."
+
+==Assessment comment==
+{{Substituted comment|length=2860|lastedit=20090222165328|comment={{#ifeq:{{{name}}}|Absolute zero|[[User:Wimvandorst|'''''<span style{{nw=}}"color:#B03060;">Wim van Dorst</span>''''']] <small>[[user talk:Wimvandorst|<span style{{nw=}}"color:#B03060;">(talk)</span>]]</small> 10:11, 12 April 2008 (UTC)}}
+
+The following suggestions were generated by a semi-automatic [[User:AndyZ/peerreviewer|javascript program]], and might not be applicable for the article in question.
+*This article has no or few [[WP:IMAGE|images]]. Please see if there are any [[WP:IT|free use]] images that fall under the [[Wikipedia:Image use policy]] and fit under one of the [[Wikipedia:Image copyright tags]] that can be uploaded. To upload images on Wikipedia, go to [[Special:Upload]]; to upload non-[[WP:FU|fair use]] images on the [[Wikimedia Commons]], go to [[commons:special:upload]].<sup>[[User:AndyZ/G#noimg|[?]]]</sup>
+*If there is not a [[WP:IT|free use]] image in the top right corner of the article, please try to find and include one.<sup>[[User:AndyZ/G#leadimg|[?]]]</sup>
+*You may wish to consider adding an appropriate [[WP:INFOBOX|infobox]] for this article, if one exists relating to the topic of the article. <sup>[[User:AndyZ/G#infobox|[?]]]</sup> (Note that there might not be an applicable infobox; remember that these suggestions are not generated manually)
+*Per [[Wikipedia:Manual of Style (headings)]], headings generally should not repeat the title of the article. For example, if the article was [[Ferdinand Magellan]], instead of using the heading ''<nowiki>==Magellan's journey==</nowiki>'', use ''<nowiki>==Journey==</nowiki>''.<sup>[[User:AndyZ/G#headingre|[?]]]</sup>
+*Watch for [[User:Tony1/How_to_satisfy_Criterion_2a#Redundancy|redundancies]] that make the article too wordy instead of being crisp and concise. (You may wish to try Tony1's [[User:Tony1/How to satisfy Criterion 1a: redundancy exercises|redundancy exercises]].)
+**Vague terms of size often are unnecessary and redundant -  “some”, “a variety/number/majority of”, “several”, “a few”, “many”, “any”, and “all”. For example, “<font color{{nw=}}'red'><s>All</s></font> pigs are pink, so we thought of <font color{{nw=}}'red'><s>a number of</s></font> ways to turn them green.”
+*Please ensure that the article has gone through a thorough copyediting so that it exemplifies some of [[WP:WIAFA|Wikipedia's best work]]. See also [[User:Tony1/How to satisfy Criterion 1a]].<sup>[[User:AndyZ/G#copyedit|[?]]]</sup>
+You may wish to browse through [[User:AndyZ/Suggestions]] for further ideas. Thanks, [[User:Wimvandorst|'''''<span style{{nw=}}"color:#B03060;">Wim van Dorst</span>''''']] <small>[[user talk:Wimvandorst|<span style{{nw=}}"color:#B03060;">(talk)</span>]]</small> 10:11, 12 April 2008 (UTC)
+* i think there should be a table on the right of the page, with the different temperature scales, and their value at absolute zero?? anyone else think that?}}
+Substituted at 06:32, 29 April 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:2|one external link|2 external links}} on [[Absolute zero]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=742318414 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20100601175245/http://physics.nist.gov/News/Update/950724.html to http://physics.nist.gov/News/Update/950724.html
+*Added archive https://web.archive.org/web/20080509100512/http://www.pa.msu.edu/~sciencet/ask_st/012992.html to http://www.pa.msu.edu/~sciencet/ask_st/012992.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 00:47, 3 October 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[Absolute zero]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=787457245 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20141007053944/http://www.bipm.org/en/publications/si-brochure/kelvin.html to http://www.bipm.org/en/publications/si-brochure/kelvin.html
+*Added archive https://web.archive.org/web/20081122144155/http://www.cosmosmagazine.com/features/online/2176/verging-absolute-zero to http://www.cosmosmagazine.com/features/online/2176/verging-absolute-zero
+*Added archive https://web.archive.org/web/20010428173229/http://www.hut.fi/Yksikot/Kirjasto/Diss/2000/isbn9512252147/ to http://www.hut.fi/Yksikot/Kirjasto/Diss/2000/isbn9512252147
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 14:55, 25 June 2017 (UTC)

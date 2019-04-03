@@ -1,0 +1,1204 @@
+{{Talk header|noarchive=yes}}
+{{Vital article|topic=Technology|level=5|class=C}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Computing |class=C|importance=High|hardware=true|hardware-importance=top}}
+{{WikiProject Electronics|class=C|importance=High}}
+{{WikiProject Engineering|class=C|importance=Mid}}
+{{WikiProject Invention|class=C|importance=Mid}}
+{{WikiProject Systems|class=C|importance=Mid}}
+{{WikiProject Technology|class=C}}
+}}
+
+{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:Solid-state drive/Archive_index
+|mask=Talk:Solid-state drive/Archive <#>
+|indexhere=yes}}{{User:MiszaBot/config 
+|archive = Talk:Solid-state drive/Archive %(counter)d 
+|algo = old(99d) 
+|counter = 4 
+|maxarchivesize = 33K 
+|minthreadsleft=7
+|archiveheader = {{talkarchivenav}}
+}}
+{{Merged from|Disk on module|July 21, 2014‎}}
+{{Merged from|History of solid state drives|August 5, 2015}}
+{{archives|index=/Archive index|age=90|collapsible=yes|search=yes|collapsed=no|bot=MiszaBot I|
+<center>See old talk page [[talk:Flash drive|here]]</center>
+}}
+
+== Susceptibility to magnetic fields ==
+
+[https://en.wikipedia.org/wiki/Solid-state_drive#cite_ref-135 This section] is bad.  The cited reference includes some talk on the subject, but lacks any expert statements.  At best it includes a few people who ''claim'' hard drives were damaged by magnets, but I doubt many of the individuals are experts.  The magnetic fields required for writing to a modern hard drive are ''very'' intense.  My understanding is you could put a rare earth magnet directly onto a modern disk platter and the magnetic field of the magnet would ''fail'' to damage any data (instead dust and tiny scratches from the contact might well damage the platter). [[Special:Contributions/207.172.210.101|207.172.210.101]] ([[User talk:207.172.210.101|talk]]) 01:40, 21 June 2016 (UTC)
+
+: Hello!  You're right, thank you for pointing it out!  The reference was a low-quality one, so I went ahead and {{Diff|Solid-state drive|726298485|726255617|made the changes}} that provided accurate information and much better references. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;&#124;&nbsp;[[Special:Contributions/Dsimic|contribs]]) 08:42, 21 June 2016 (UTC)
+
+:: Those are decent, but this these mean that portion of the article needs fixing.  Ideally I'd link to sections 4 and the epilogues of the first link (Peter Gutmann paper), which effectively say modern disks (>1GB) are essentially immune to external magnetic fields.  The kjmagnetics reads like an amateur experiment (not necessarily bad, but be careful of conclusions!) and says the same thing, their report of mechanical scrapping could well have been due to distorting the case of the drive rather than anything having to do with properties of the magnetic field.  "Very old hard drives (less than a gigabyte) may have been at some risk from external magnetic fields, but any drive larger than a gigabyte is essentially immune to external magnetic fields"? [[Special:Contributions/207.172.210.101|207.172.210.101]] ([[User talk:207.172.210.101|talk]]) 20:09, 21 June 2016 (UTC)
+
+::: Hm, I'm not sure that 1&nbsp;GB is specified in references as a clear capacity-based division between susceptible and resistant drives...  Am I missing something? &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;&#124;&nbsp;[[Special:Contributions/Dsimic|contribs]]) 13:52, 24 June 2016 (UTC)
+
+:::: Indeed, 'tis not.  The reference was stating post-1990 hard drives were pretty well immune.  Bit more recollection, I think 100MB drives were coming out around then, so that may be a better rough guide.  The real issue is larger drives have to be less susceptible otherwise the write process would corrupt nearby bits (therefore storage size is a better guide than manufacture date).  I don't have any references other than my memory.  [[Special:Contributions/207.172.210.101|207.172.210.101]] ([[User talk:207.172.210.101|talk]]) 22:23, 25 June 2016 (UTC)
+
+Soppprt versi.9.0 [[User:Samsungalaxy|Samsungalaxy]] ([[User talk:Samsungalaxy|talk]]) 14:52, 23 February 2019 (UTC)
+
+== SLC, MLC and TLC NAND ==
+
+Should this not be included in the article?
+http://www.speedguide.net/faq/slc-mlc-or-tlc-nand-for-solid-state-drives-406
+[[User:BP OMowe|BP OMowe]] ([[User talk:BP OMowe|talk]]) 14:41, 25 August 2016 (UTC)
+
+== TBW ==
+
+I have seen the term TBW used in SSD specifications and came here to try to find out what it meant. I was disappointed. I eventually discovered that it stood for Terabytes Written in reference to an SSD's expected lifetime. Please can one of the article's main editors add this. [[User:Viewfinder|Viewfinder]] ([[User talk:Viewfinder|talk]]) 13:03, 16 November 2016 (UTC)
+
+== Graphics ==
+The most intuitive dysfunction refers to the moving parts in an HDD. Some people are unclear on that through influence only. As a matter of fact, it IS known that there are no moving parts in an SDD, like the disk found in the HDD, which IS slower than an SSD. For future reference try checking out how an SSD IS like a disc. <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:2602:301:7751:160:140f:74da:270a:b1df|2602:301:7751:160:140f:74da:270a:b1df]] ([[User talk:2602:301:7751:160:140f:74da:270a:b1df#top|talk]] • [[Special:Contributions/2602:301:7751:160:140f:74da:270a:b1df|contribs]]) 12:17, 21 August 2017 (UTC)</small>
+
+== Alignment in Wikitables ==
+
+I think the data looks better in the section I edited (30/12/2017), but would look better still if the colon's were aligned instead of simply centering the text.
+
+In MathJax this is `\begin{align} ... &: ... &: ... \end{align}`, with the ampersand aligning the next character, in this case the colons, but is it possible with Wiki markup?
+
+[[User:Darcourse|Darcourse]] ([[User talk:Darcourse|talk]]) 07:57, 30 December 2017 (UTC)
+
+== This article confuses the M.2 form factor (family of form factors) with the NVMe protocol ==
+
+There are statements regarding, e.g., the speed of [[M.2]] drives, which are only true when the M.2 drive uses the [[NVMe]] protocol, while overlooking the fact that other M.2 drives use the [[SATA]] protocol.  (I believe the term "protocol" is more appropriate than "interface" here, and [[Form_factor_(design) | form factor]] is something else again.)
+
+I'm having a first pass at correcting the issue, but someone else who's more informed on the subject should improve the article further.  <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:W.F.Galway|W.F.Galway]] ([[User talk:W.F.Galway#top|talk]] • [[Special:Contributions/W.F.Galway|contribs]]) 15:51, 22 September 2018 (UTC)</small> <!--Autosigned by SineBot-->
+
+== 64GB SATA SSD from 1978; 41 years ago?!? ==
+
+
+SATA was created in the year 2000 ( https://en.wikipedia.org/wiki/Serial_ATA ).
+And in 1978 the best hard disks were in the megabyte range...
+So please consider the following image caption in the article as maybe not fully correct:
+
+A Super Talent Technology 2.5" Serial ATA solid-state drive
+Date invented	1978; 41 years ago
+Invented by	Storage Technology Corporation  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/193.170.243.131|193.170.243.131]] ([[User talk:193.170.243.131#top|talk]]) 12:22, 27 March 2019 (UTC)</small> <!--Autosigned by SineBot-->
+:It was correct but misleading, better now.  [[User:Tom94022|Tom94022]] ([[User talk:Tom94022|talk]]) 19:48, 27 March 2019 (UTC)
+{{talkarchivenav}}
+
+== old ==
+
+This article:
+*Does not conform to [[WP:MOS]] and therefore needs to be wikified, hence <nowiki>{{wikify}}</nowiki>
+*Has no categories, hence <nowiki>{{uncat}}</nowiki>
+*Does not give sources, hence <nowiki>{{sources}}</nowiki>, and
+*Has been proposed for merging.  The merging should be discussed, tag cannot be removed before it is discussed. [[User:Rich257|Rich257]] 09:11, 11 October 2006 (UTC)
+
+-----
+This article now has Category:Solid-state computer storage media.  It still needs the other tags. [[User:Athaenara|Athaenara]] 01:51, 10 November 2006 (UTC)
+-----
+
+== History Missing ==
+
+The history section seems to be covering the non-mainframe usage of SSD.  [[Cray]] Research sold / included a SSD (Cray IOS) drive with many of its units to increase performance.  [[IBM]] and [[Amdahl]] mainframes supported SSD drives also for increased performance.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Bmoshier|Bmoshier]] ([[User talk:Bmoshier|talk]] • [[Special:Contributions/Bmoshier|contribs]]) 03:41, 25 June 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+As far as I know, first SSD units were at use before drum units appeared - I met one for the first Russuan serial Dnepr tube mainframe - so it noted in the main body
+[[User:Stasdm|Stasdm]] ([[User talk:Stasdm|talk]]) 16:44, 17 August 2008 (UTC)
+
+== Merge completed ==
+
+The merge was advertized on one talk page for 3 months (Oct 2006) with no objections, and agreed 5-0 on the other. I have therefore merged them fully, see [[Talk:Solid state disk]]. [[user:FT2|FT2]] <sup><span style="font-style:italic">([[User_talk:FT2|Talk]] | [[Special:Emailuser/FT2|email]])</span></sup> 01:34, 18 January 2007 (UTC)
+
+The decision to move this article with opinions of five people without basing it on actual research was wrong. It violates the no original research principle. Since you already achieved this thetan level why don't you move [[RAM disk]] too? While you're at it, pay a visit to [[logical disk]] as well since logical disks are not actual circular objects. [[User:SSG|SSG]] ([[User talk:SSG|talk]]) 00:30, 11 March 2008 (UTC)
+
+== Reference ==
+
+"Subsequent investigations into this field, however, have found that data can be recovered from SSD memory."
+I think it's appropiate to put a reference for that statement.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.50.39.149|72.50.39.149]] ([[User talk:72.50.39.149|talk]]) 23:29, 11 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+
+== Giga versus Gibi ? ==
+
+Hard drives are measured in giga bytes, memory is measured in gibi bytes, what are SSD disks measured in?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/62.95.76.2|62.95.76.2]] ([[User talk:62.95.76.2|talk]]) 15:01, 18 January 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+* I second that question. There seems to be evidence that SSD is measures using decimal notation like HDD, but I'm unsure if there is more that is required for formatting a SSD which would account for this variance. [[User:Pattersonc|pattersonc]] ([[User talk:Pattersonc|talk]]) 01:56, 2 March 2008 (UTC)
+** The answer is: Both SSD & HDD manufactures use decimal notation where 1MB = 1 million bytes. ([http://www.sandisk.com/Assets/Categories/Products/sd_capacitydisclaimer.pdf SOURCE]) [[User:Pattersonc|pattersonc]] ([[User talk:Pattersonc|talk]]) 02:04, 2 March 2008 (UTC)
+
+== "For example, some x86 architectures have a 4 GB limit" ==
+
+I thought ALL x86 architectures had a 4GB limit because that's the limit of combinations of a 32bit memory address, wasn't that one of the prime reasons for switching to 64bit standard.--[[User:KX36|KX36]] 14:57, 8 February 2007 (UTC)
+
+:I think not, modern x86 CPUs support PAE (although 32-bit Windows generally doesn't, except for some rare drivers) so they can address more than 4 GB at the cost of lower performance.
+
+However, you CAN'T extend the 4 GB limit with a swap file. Allocated pages on swap file are no different than allocated pages in RAM, their address must still be within the 4 GB total. Once you have 4 GB of RAM you don't even need a swap file, it will not be used.
+
+Agreed. Operating systems don't just re-address memory pell-mell when they swap it to disk. Here's a good article on the 4GB limit and memory addressing in general:
+[http://www.hardforum.com/showthread.php?t=1035670 Understanding Address Spaces and the 4GB Limit]
+[[User:Falkreon|◗●◖ falkreon]] ([[User talk:Falkreon|talk]]) 05:30, 10 December 2007 (UTC)
+
+== "First company" ==
+
+The section on history was both inaccurate and remains full of holes.
+
+The first company to launch a flash-based solid state drives did certainly not do so as late as 1995, since Psion PLC was already selling its "SSD" units from 1989 onwards. See for example http://3lib.ukonline.co.uk/historyofpsion.htm 
+
+I have no idea who was the first company to do so, but Psion sold "solid state" drives from 1984. The earlier ones were UV-EPROMs or battery-backed static RAM, with flash models introduced later. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:CecilWard|CecilWard]] ([[User talk:CecilWard|talk]] • [[Special:Contributions/CecilWard|contribs]]) 21:19, 24 February 2007 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+Campbridge Computing had one in their Z88 portable computers (EEPROM based) as early as 1988 also, and was viewed at the time as one of the most innovative products on the market. - John Hancock
+
+== Read/Write Cycles ==
+
+I'm not sure if this is marketing talk or not, but since there's no source cited in the disadvantages section I think this is apt:
+
+"Q: Is there currently some sort of technical limitation on the creation of SSDs other than cost, and what about the reliability of flash media? 
+
+A: Historically SSDs were limited in the number of R/W cycles. However, with modern flash technology and error correction, the reliability of the flash in a PC exceeds 10 years. " [http://www.tfot.info/content/view/100/59/]
+
+The [[Compact_Flash]] article states a read/write cycle up to 300,000. 
+
+The [[Read-only_memory#EPROM.2FEEPROM.2FEAROM_lifetime]] article states up to 100,000.
+
+== Read/Write Cycles ==
+
+The claim that was on this page that endurance is not a problem, with the reference to storagesearch, is incorrect. It is true that if the hard disk were overwritten as a whole, over and over and over again, it would last a very long time. The problem is that's not a common access pattern. Under GNU/Linux, if you're running a web server, /var/log/apache/access.log will get written with each access. If you're getting an access once every second, that means you're overwriting the same spot on the hard disk 86,400 times per day, and your SSD fails after 2-3 days tops (real-world Flash gets 100,000 write cycles typically, and 300,000 on the high-end. 1-5 million are slightly exaggerated marketing figures, and at least the high-end of that is not actually achieved with today's technology). With a desktop GNU/Linux box, there are log files that get written many times per day. Access times get marked on common files every couple of minutes at most. Similar issues exist with Windows. Flash drives used naively will fail after at most a few months use on the desktop. Many embedded network devices come with Flash for log files, but the Flash is a replaceable part, and typically wears out after some use and needs to be replaced. 
+
+I've seen both the desktop and the embedded failures occur (on the desktop, with a naive user, using a CF-IDE converter, and in the embedded case, replacing Flash was just standard maintenance). I haven't seen the server case occur, because all the sysadmins I know using SSDs are intelligent enough to manage the endurance issues. 
+
+The failures can be mitigated through the use of intelligent software. OLPC spurred the rapid development of Flash-optimized files systems for GNU/Linux. These intentionally stagger writes over the whole drive, so that no single block gets worn down. Hybrid Flash/non-Flash drives use the Flash as a cache, and again, can intelligently manage the part of the Flash that gets used with each write. All-Flash drives have their place, and can be managed to not fail, but the endurance issue does occur, and does need to be managed. Many SSDs have firmware to manage this, but many of the SSDs I have dealt with do not. It is an issue the user needs to be aware of. I have corrected the page to reflect that. [[User:68.160.152.190|68.160.152.190]] 21:32, 4 June 2007 (UTC)
+
+Is there any citation for <blockquote>
+1-5 million are slightly exaggerated
+</blockquote> value. Disclaimer: I am NOT working in any company - just curious.
+
+Can you list models or names of SSDs  with and without "wear-leveling" ?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Whyagainwiki|Whyagainwiki]] ([[User talk:Whyagainwiki|talk]] • [[Special:Contributions/Whyagainwiki|contribs]]) 18:52, 27 March 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Merging RAM disc article ==
+
+{{discussion top|Did not merge}}
+I am against it, as RAM discs are different. SSDs use non volatile memory. RAM is not non volatile. --[[User:Soumyasch|soum]] <sup>[[User talk:Soumyasch|talk]]</sup> 16:35, 7 June 2007 (UTC)
+:I'm against too, they're completely different things. - [[User:83.116.205.167|83.116.205.167]] 07:52, 17 June 2007 (UTC)
+: Against it.  Second above, and add that ram disks are virtual; SSD are physical. [[User:Arosa|Arosa]] 21:43, 18 June 2007 (UTC)
+
+:Same here - not the same thing at all (although the [[RAM disk]] article contradicts what Arosa said...)! I'll remove the tag. [[User:Spamsara|Spamsara]] 22:07, 24 June 2007 (UTC)
+
+:Against it here, for Soumyasch's reasons. Makes no sense to combine the two when they are inherently different technologies, even if they share some common applications. Would be like combining 'car' and 'bike' because they could both be used to get to work, and had wheels. - [[User:203.206.177.188|203.206.177.188]]
+
+:Same here - they are completely different, SSD are hardware allocated, where RAM Disks can be created from system ram, or hardware allocated.  SSD are hybrid memory.  Ram Disks are volatile memory.
+
+I am in favor of merging RAM-disk and Solid State Drive.  They are essentially the same devices.  They both use Ram to act like a disk drive. The fact that one is volatile and the other not does not seem to be a significant difference.  In which section would you put a RAM-disk with a battery backup? --[[User:FromageDroit|FromageDroit]] 13:59, 28 August 2007 (UTC)
+
+RAM-disk and Solid State Drive are not the same, as RAM is Volatile, SSD is not. so Merging not needed, maybe an Link to Ram-disks at the bottem of the page if its not all ready there. [[User:Leexgx|Leexgx]] 15:53, 24 October 2007 (UTC)
+
+We're arguing over symantics. On the "RAM disk" page that's marked for possible merging, the article itself states that it can be one of two things. So we're talking about two different things here. I suggest that a disambiguation page is created. It will point to either this SSD page, which could be merged with half the RAM disk article; or the RAM disk's "software abstraction that treats a segment of random access memory (RAM) as secondary storage". I used the latter extensively and can attest to it being a different beast entirely. And yes, SSD's that use volatile memory as a hardware component are indeed the same thing, just volatile.[[User:Falkreon|◗●◖ falkreon]] ([[User talk:Falkreon|talk]]) 05:49, 10 December 2007 (UTC)
+
+{{discussion bottom}}
+
+I think they may be merged now, else where to put [http://hardwareforall.com/ww/serverRAMdisk.html RIndMA Disk] - on one side it is a software RAM disk, on the other - a remote hardware appliance.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Stasdm|Stasdm]] ([[User talk:Stasdm|talk]] • [[Special:Contributions/Stasdm|contribs]]) 16:51, 17 August 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:They are still separate.  I think SSD is probably the more appropriate article for the usage you mention, since it is an implementation of a DRAM based SSD using off the shelf hardware/software.  (I did move it to the implementations section from history, since citations were not provided to establish when the idea originated.) [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 17:52, 17 August 2008 (UTC)
+
+The idea originated in July 24 2008 - see the mentioned site main page. Might be you restore it in "history"?[[Special:Contributions/78.36.39.135|78.36.39.135]] ([[User talk:78.36.39.135|talk]]) 19:41, 17 August 2008 (UTC)
+
+:To establish something like when something originated would need a reliable source [[WP:RS]] that established a basis for the claim (e.g. patents, literature search, etc.).  The site mentioned is not reliable for establishing this.  It is easy to disprove the assertion of the idea originating in July/Aug '08.  For instance, this thread [http://www.silentpcreview.com/forums/viewtopic.php?t=45727&highlight=] has a posting of the idea from January of '08, and some of the posts in it refer to earlier implementations of the idea.    Since as the cited website mentions this is a pretty trivial "invention," and the necessary components have been around for a few decades, it would probably be difficult to trace back and prove a first use/inception.  Any claim to originating a very simple idea like this would be extraordinary, and therefore require extraordinary proof.  20:09, 17 August 2008 (UTC)
+
+Well, the idea itself is even more old. The "RIndMA disk" name for it is absolutly new (there are talks on RDMA disks for some years, still not implemented)[[User:Stasdm|Stasdm]] ([[User talk:Stasdm|talk]]) 20:25, 17 August 2008 (UTC)
+
+Made some editing in the RAM-based SDD section - mainly for better literary presentation.[[User:Stasdm|Stasdm]] ([[User talk:Stasdm|talk]]) 21:04, 17 August 2008 (UTC)
+
+== Read/Write Cycles (another one) ==
+
+When calculating the endurance level of the hardware, the article claims "blocks are typically on the order of 1kb and an 8 GB disk will have 8,192 blocks", which unless I'm very much mistaken is out by a factor of 2^10, i.e. 8,192 * 1Kb = 8Mb, not 8Gb.
+
+== Read/Write Cycles (yet another one) ==
+
+As the previous comment indicated, the description of wear leveling in the text is not only very naive but also very wrong. 
+
+The nature of NAND flash is such that one typically must erase whole 128KB blocks, and then consecutively write 64 2KB pages within that block. There are no rewrites, so in order to rewrite a single 2KB page, the entire 128KB block must be erased. So, with a naive implementation the endurance of a single block drops 64 times (to about 160 rewrites?). 
+
+The main problem is not wear leveling itself, but how to avoid the need to rewrite existing data, that is how to avoid fragmentation. This problem is not 100% solvable in general unless once can predict the future. One hardware solution is to cache some data in a battery-backed RAM to avoid immediately rewriting it.
+
+[[User:24.4.151.152|24.4.151.152]] 17:24, 29 September 2007 (UTC)
+
+The problem can be solved by more innovative filesystem designs, such as [[Log-structured file system]]s.  Segmentation is a non-problem for such file systems.  You can always predict with 100% certainty ''where'' you're going to write next, although you still can't predict ''when'' you're doing so.
+
+[[Special:Contributions/202.71.231.218|202.71.231.218]] ([[User talk:202.71.231.218|talk]]) 2008-02-21T06:54  <small>—Preceding [[Wikipedia:Signatures|comment]] was added at 06:57, 21 January 2008 (UTC)</small><!--Template:Undated--> <!--Autosigned by SineBot-->
+
+== Server mentions ==
+
+There is insufficient mention of SSD usage in servers.  Because the primary bottleneck on many types of servers is I/O from many users (and thus random I/O), SSDs are often considered superior to RAID HDD, assuming one is willing to pay the price.
+
+[[User:128.113.167.175|128.113.167.175]] 17:15, 1 October 2007 (UTC)
+:Unfortunately, word of mouth is not enough for Wikipedia. We need published sources to cite. Can you help?--[[User:Soumyasch|soum]] <sup>[[User talk:Soumyasch|talk]]</sup> 17:41, 1 October 2007 (UTC)
+::A google for "random i/o bottleneck" shows plenty of sources for this, i'm not experienced enough to edit this, please be my guest to help with this :)
+[[User:Talrinys|Talrinys]] ([[User talk:Talrinys|talk]]) 23:50, 2 January 2008 (UTC)
+
+== MacBook Air ==
+
+The high-end version of the macbook air uses a 64 GB solid state drive.  Some mention of this application might be warranted.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.116.239.156|67.116.239.156]] ([[User talk:67.116.239.156|talk]]) 19:03, 15 January 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:The mention of the Air under Availability states that the 64 GB SSD "Boasts better reliability.... 80GB PATA drive." A couple of problems here. I haven't looked into it yet, but I seriously doubt that they aren't using SATA in new macbooks. Secondly, and more importantly, where is it said that the SSD offers better reliability? I don't necessarily doubt it, but is there a source for this statement? [[User:Ferrariman60|Ferrariman60]] ([[User talk:Ferrariman60|talk]]) 22:44, 15 January 2008 (UTC)
+:: http://store.apple.com/Apple/WebObjects/dkstore?node=home/shop_mac/family/macbook_air&cid=OAS-EMEA-KWG-DK_LAPTOP-DK&aosid=p202&esvt=GODKE&esvadt=999999-1200820-1079263-1&esvid=100504 says it's PATA. No harddrives even need SATA yet, so doesn't really matter, except for the ancient standard, cables etc. SSDs just are plain more reliable, it's in the technology itself. Unless it has bad chips chips it simply just can't crash randomly as a mechanical harddrive can. However it will die after a specific amount of transfers. This will be a lot easier to account for than the random failures we have now. [[User:Talrinys|Talrinys]] ([[User talk:Talrinys|talk]]) 12:06, 26 January 2008 (UTC)
+
+Lots of other laptops have 64 GB SSDs - yet this article is now sprinkled with references specifically to MacBook Air. Most of these references look rather redundant to me. --[[User:Romanski|Romanski]] ([[User talk:Romanski|talk]]) 22:05, 29 January 2008 (UTC)
+
+== Solid State and Tubes ==
+
+Please take out the line in the intro refering to vacuum tubes.  The term "Solid State" has always refered to semiconductors and only semiconductors, not tubes.  It has to do with the fact that dopants are difused into the silicon while in a solid state in a way that mimics diffusion in liquid.
+[[Special:Contributions/75.55.39.21|75.55.39.21]] ([[User talk:75.55.39.21|talk]]) 21:25, 15 January 2008 (UTC) Sandy
+
+== Disadvantage? - "Vulnerability to certain types of effects,...magnetic fields..." ==
+
+Working with some of the largest magnetic fields found in the industrial world, SSDs are the only allowed hard-drive replacement in a production environment. Mechanical hard drives die pretty much instantly or are rendered un-usable/erased.
+
+Maximum gauss is ~ 2,000. With an average of 40-80 Gauss in normal walkway area's. Some equipment is under ~ 80-400 Gauss, all flash based storage. Magnetic field source is a DC current at ~200-350kA.
+
+Main issues are with DC-DC converters under such conditions, so the potential for power supply in the SSD to fail rather than the flash itself.
+
+Hard-Disks will NOT survive this environment. Flash based SSDs are the only storage device able to withstand these conditions.
+
+Should this "disadvantage" be moved to an "advantage"?
+
+[[User:Badbiki|Badbiki]] ([[User talk:Badbiki|talk]])
+
+The mentioned disadvantage is ridiculous. "Compared to normal HDDs (which store the data inside a Faraday cage).". Is there anything preventing SSD's from being put in the same cage? Are there any references that say no SSD is put in those? I hate seeing such ridicule creep through, and more importantly, stay. [[User:SSG|SSG]] ([[User talk:SSG|talk]]) 00:02, 11 March 2008 (UTC)
+
+I definitely agree. I put a [dubious] mark on the sentence, but it probably should be moved to "advantages".[[Special:Contributions/151.65.45.84|151.65.45.84]] ([[User talk:151.65.45.84|talk]]) 20:01, 19 August 2008 (UTC)
+
+== Vandalism ==
+
+Semi-protection vandalism lock needs to be placed.--[[User:Kozuch|Kozuch]] ([[User talk:Kozuch|talk]]) 21:13, 5 February 2008 (UTC)
+
+== Overall quality ==
+
+Hi!
+
+I apologize for the critical view of my post and I respect the people who contributed to this article.
+However I feel that it does not meet the minimal criteria for a respected Wikipedia article.
+
+First of all the article seems fragmented. When we say SSD we mean permanent solid storage, not battery-aided DRAM.
+It's just like saying DRAM is non-volatile just because you own a UPS. 
+Flash sticks or other solid state media (SD, CF, MS) even they are technically solid-state storage, they are not solid-state-DRIVES -- they're memory cards.
+So, first of all, FOCUS on the subject.
+
+Secondly article lacks of scientific information or any data a technically curious or a computer science student or researcher may find of any value.
+
+Thirdly I believe *links* (not actual figures, we're not a HW review site, unless numbers are solid and confirmed) to benchmarks should be included, many potential SSD byers may advise this page.
+
+Forth: Sections are fragmented, article lacks of an overall coherence. It seems that it was written by an uncoordinated team, by separate people with their ideas popping here and then. Sorry to say that but article is messy.
+
+Regrettably I believe that it should be marked for quality review in order to meed minimal quality standards.
+
+Thank you and I apologize for criticizing other's hard work.
+
+[[User:Galanom|Galanom]] ([[User talk:Galanom|talk]]) 07:36, 12 February 2008 (UTC)
+
+:Thank you for your suggestion{{{{#if:notsubsted||subst:}}#if:|&#32;regarding [[:{{{1}}}]]}}. When you feel an article needs improvement, please feel free to make those changes.  Wikipedia is a [[wiki]], so anyone can edit almost any article by simply following the '''{{MediaWiki:edit}}''' link at the top. The Wikipedia community encourages you to [[Wikipedia:Be bold in updating pages|be bold in updating pages]]. Don't worry too much about making honest mistakes — they're likely to be found and corrected quickly. If you're not sure how editing works, check out [[Wikipedia:how to edit a page|''how to edit a page'']], or use the [[Wikipedia:Sandbox|sandbox]] to try out your editing skills.  [[Wikipedia:Welcome, newcomers|New contributors are always welcome]]. You don't even need to [[Special:Userlogin|log in]] (although there are [[Wikipedia:Why create an account?|many reasons why you might want to]]).  <!-- Template:Bebold --> <font style="font-variant: small-caps;">-- [[User:Shinmawa|ShinmaWa]]<sup>([[User_talk:Shinmawa|talk]])</sup></font> 18:38, 18 February 2008 (UTC)
+
+== Market analysis ==
+
+Some "price per MB/time" or other graph would be nice...--[[User:Kozuch|Kozuch]] ([[User talk:Kozuch|talk]]) 00:12, 24 March 2008 (UTC)
+
+== Plagiarism ==
+
+Most of the History section of this article seems to be lifted verbatim from the first cited source. See http://www.storagesearch.com/chartingtheriseofssds.html
+Notably, certain phrases have been removed, such as "In Q1 2002 - SSDs were 4th most popular subject with our readers."  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.198.65.9|71.198.65.9]] ([[User talk:71.198.65.9|talk]]) 14:51, 23 April 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:Undid the revision that put in copied history. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 06:02, 24 April 2008 (UTC)
+
+{{talkarchive}}
+== Merging Flash drive into Solid-state drive ==
+
+{{Discussion top|The result was '''merge''' into Solid-state drive. -- [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 04:46, 10 September 2008 (UTC)}}
+'''NOTE:''' The proposal is to merge the article [[Flash drive]] into [[Solid-state drive]], the proposed merge has nothing to do with the [[USB flash drive]] article. (This clarification added part way through the discussion [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 18:53, 18 August 2008 (UTC)).
+
+I agree that the merge seems like a good idea.  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 21:25, 25 June 2008 (UTC)
+: I concur. --[[User:Laser_brain|<font color="purple">'''Laser brain'''</font >]] [[User_talk:Laser_brain|<font color="purple">(talk)</font >]] 21:26, 25 June 2008 (UTC)
+
+'''Disagree''': All flash drives are solid state drives, but not all solid state drives are flash drives.  They're still different things and should be kept seperate.  [[User:Lightblade|Lightblade]] ([[User talk:Lightblade|talk]]) 23:29, 27 June 2008 (UTC)
+
+Yah but flash could be its own topic under SSD, and still have its differences noted.  [[User:JMAN1156|JMAN1156]]
+
+:Flash drives are already covered in the solid-state drive article, it is not clear that they have enough unique features to warrant a separate article.  It isn't necessary to have an article about every subtype of an item.  Please explain why they should be separated out from the other solid-state drives. Thanks. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 00:30, 2 July 2008 (UTC)
+
+'''Disagree''': Flash drives imply portability and "hot swappable" type behaviour, like a USB pen, whereas talking about solid state drives implies usage as permanent hard disks - I think this means that they are 2 seperate things. Merging these would be like merging CD's and Floppy Disks, because they are both types of disk...  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/62.255.249.197|62.255.249.197]] ([[User talk:62.255.249.197|talk]]) 08:48, 8 July 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:Acutally SSD are hot swappable, if you use raid and sata hot swappable drives teh SSD can be used instead of traditonal hard disks.[[User:Andrewcrawford|Andrewcrawford]] ([[User talk:Andrewcrawford|talk]]) 20:23, 17 August 2008 (UTC)
+
+:Please observe that the article in question for merging is [[Flash drive]], not [[USB Flash drive]].  The ''Flash drive'' article even states "Unlike USB flash drives and memory cards, flash drives tend to physically imitate conventional hard drives in size, shape, and interface so that they may act as a replacement for hard drives."  The article about flash drive makes none of the distinctions you mention for flash drives.  (There is no reason a SSD can't be hot swappable, using an external enclosure, E-SATA, etc.)
+
+:There are so many little articles about similar devices that it makes sense to combine a few of them.  Since flash drive is a subset of SSD, and the article overlaps a lot with this one, it makes sense to merge them.  The see also section of the [[Flash drive]] article has a reasonable summary of a few of the different related types.  The flash drive entry should probably become a disambiguation page (pointing to USB flash drive, or SSD, etc.).  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 01:22, 9 July 2008 (UTC)
+
+::I agree with Zodon.  The "Flash Drive" article is confusing: The common use of the term "Flash Drive" implies "USB."  Merging "Flash Drive" with this article and creating a disambiguation page for "Flash Drive" is an excellent idea.  [[User:Horseadmonition|Horseadmonition]] ([[User talk:Horseadmonition|talk]]) 16:56, 5 August 2008 (UTC)
+
+'''Strongly Agree''' Do not see any difference for USB / other bus drives. They all need software support (driver) to operate. Also there are conventional USB HDDs at hand. The article must be more sructured and there should be separate parts for RAM/"standard" flash/USB flash drives (else we'll have to distinguish IDE/SATA/SAS/InfiniBand/other buses SSDs[[User:Stasdm|Stasdm]] ([[User talk:Stasdm|talk]]) 17:07, 17 August 2008 (UTC)
+
+'''Strongly Agree''' There are already USB RAID (RAID 0 actually, but it's only the beginning). Once again - do we describe technology or use/application and bus differences? Most flash SSDs (exept for newest ones)are IDE - any native RAID for them? And EDE/SATA SSDs are quite often used to transfer data - especially in publishing industry, where seem to be a standard already. [[User:Stasdm|Stasdm]] ([[User talk:Stasdm|talk]]) 12:46, 18 August 2008 (UTC)
+
+:One why give your agurement twice? and second there is no IDE ssd that i know of mostly because the interface can not handle it correctly. USB can not be used as raid, it can be used to elimated raid on linux but that quite hard to do. windows can not handle it nor do it. RAID also requires teh drives are fixed ;) which last time i checked usb flash drive arent[[User:Andrewcrawford|Andrewcrawford]] ([[User talk:Andrewcrawford|talk]]) 13:47, 18 August 2008 (UTC)
+
+::Please clarify how your argument against relates to the articles in question.  The article on [[Flash drive]] says. "Unlike [[USB flash drives]] and memory cards, ''flash drives'' tend to physically imitate conventional hard drives in size, shape, and interface so that they may act as a replacement for hard drives."  So both flash drive and SSD are primarily disk replacements.
+::What does whether USB drives can be used in RAID or not have to do with the merger proposal?  Neither article proposed for merger deals with USB to any great extent.  (Whether it is a discussion of features of USB drives, or evolving into a proposal to merge the USB flash drive article, please either relate it back to the topic of this discussion, or start another thread for it.) 
+::Since several of the people commenting in this thread seem to have been confused about what articles are proposed for merger, I added a note at the top with links to  which hopefully will help keep the discussion on track. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 18:28, 18 August 2008 (UTC)
+:::I am merely asking why the previous person isung saying ot merge it on the fact of USB flash pens. This what was there arguemnt to merge for so i am quesiton it.[[User:Andrewcrawford|Andrewcrawford]] ([[User talk:Andrewcrawford|talk]]) 18:45, 18 August 2008 (UTC)
+:::I noticed the mention about no IDE SSD.. but what exactly is http://upload.wikimedia.org/wikipedia/en/d/df/Open_HDD_and_SSD.JPG showing then? [[User:Paril|Paril]] ([[User talk:Paril|talk]]) 07:14, 12 May 2009 (UTC)
+
+'''Strongly Agree'''Ok after reviewing the the article in question rather than go on what is here, i say the articel should be merged here as it basically describing SSD.[[User:Andrewcrawford|Andrewcrawford]] ([[User talk:Andrewcrawford|talk]]) 19:43, 18 August 2008 (UTC) previous comment removed
+
+'''Agree'''. It doesn't matter whether the two terms are ''identical'' - it is their ''overlap'' that matters, and they to appear to have a very large overlap. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 13:03, 9 September 2008 (UTC)
+{{Discussion bottom}}
+
+== i-RAM ==
+
+I DO thing the i-RAM insertion is a kind of SPAM! Somone is triing to sell off the now obsolete product. If my note on tha i-RAM obsolete state will be deleted one more time, I surely will have to delete the whole paragraph![[User:Stasdm|Stasdm]] ([[User talk:Stasdm|talk]]) 07:17, 13 October 2008 (UTC)
+
+actualy i-RAM isnt quite obselete, it still has uses, i see it more as a way to have fast virtual memory, and temporary storage during system operation than a long term storage solution, for example loading important system files to it, or game files, or just as virtual memory. --[[User:Superchad|Superchad]] ([[User talk:Superchad|talk]]) 20:41, 29 December 2008 (UTC)
+== Disadvantage: Limited write (erase) cycles ==
+
+I think this paragraph could use a rewrite. With proper write leveling techniques, the practical threat to your data is negligible. Before this starts to be a real risk-factor, you're likely to have had a disk failure for a completely unrelated reason or upgraded to a newer completely different system or whatever. Not saying we should sweep this source of errors under the carpet, but the paragraph could be rewritten to give off a more moderated impression of the risk level involved. [[User:CapnZapp|CapnZapp]] ([[User talk:CapnZapp|talk]]) 19:12, 22 December 2008 (UTC)
+
+some info is not correct
+
+{{ As a result of wear leveling and write combining, the performance of SSDs degrades with use . Eventually, wear leveling will use each page on the drive at least once, so further writes always involve a block erase. Although write combining (if supported by the device) offers advantages, it causes internal fragmentation in the SSD which degrades the sequential read speed. Such fragmentation cannot be mitigated by the operating system. }}
+
+1. so further writes always involve a block erase, 
+that does not allways happen (block is 4KB each page is 512KB each) when all blocks have been writen to is does an page wipe ([http://www.anandtech.com/storage/showdoc.aspx?i=3531&p=5 block and pages look at page 5,6 and 7])
+
+2. it causes internal fragmentation in the SSD which degrades the sequential read speed, SSDs Prefer fragmented files as then it can hit as many cells as it can when reading files as it can make them go read faster (2-10 depending on what type of ssd is it, intel is 10, Indilinx 4 (i think) Jmicron is 2-4 )
+
+once all SSD pages have been writen to thay slow down as thay need to do an Page Erace before it can save but it will not allways erace every time something is saved as there is likey going to be spare blocks around from an erace that happened before
+
+[[User:Leexgx|Leexgx]] ([[User talk:Leexgx|talk]]) 19:23, 21 April 2009 (UTC)
+------
+
+: For what it's worth, the AnandTech article you mention claims that [http://www.anandtech.com/storage/showdoc.aspx?i=3531&p=14 sequential read was "largely unaffected"] in the drives they tested. [[User:Ubernostrum|Ubernostrum]] ([[User talk:Ubernostrum|talk]]) 10:47, 16 August 2009 (UTC)
+
+Needs a comparison to current mechanical hard drive wear standards to give meaning. Is a million writes more then a mechanical hard drive can currently do or less?
+--[[Special:Contributions/69.137.5.230|69.137.5.230]] ([[User talk:69.137.5.230|talk]]) 19:16, 14 August 2009 (UTC)
+== progress on newer drives ==
+
+I think it's about time to remove "capacity" from the disadvanteges of the SSD drives soon. Next month there will be 2TB SSDs available meeting the 2TB capacity of HDDs. Yes, the new drives will be ridiculously expensive ($10k?) but that is already covered by the cost disadvantage.
+
+Also regarding volumetric density, The HDDs with best GB/cm2 drive are e.g Western Digital 2.5" drives at 1TB. Their physical size is about 80 cubic centimeters whereas http://www.tomshardware.com/news/puresilicon-ssd-1tb,6810.html#xtor=RSS-181 drives are about 65 cubic centimeters at the same capacity.
+[[User:Darin-0|Darin-0]] ([[User talk:Darin-0|talk]]) 10:51, 17 September 2009 (UTC)
+
+(Feb 16, 2010) The info about SSD prices in the article looks:<br />
+1) Outdated. $2 per GB? I don't know about small capacity (40-120GB) drives, but 250GB ones cost $3-4 per GB and 1TB ones are at $10/GB.<br />
+2) Misleading. Because for traditional 3,5" HDDs (non-SCSI) price per GB of storage is LOWER for higher capacity models. As of now 250GB HDDs cost $.25/GB and 1TB ones cost $.1/GB.<br />
+This makes SSDs much less competitive then they might seem from reading the article. Since 500GB+ HDDs are now mainstream, similar capacity SSDs would have to become 50-100 (!) times cheaper to fall into the same price range.
+== Rewrite of Quality and performance section ==
+
+I really want to do a complete rewrite of this section. The information in that section is a) only applicable to the consumer market, as opposed to enterprise, b) Is manufacturer-biased, and most of all c) does not explain WHY the Intel drive (for instance) beats the other drives so badly (random write latency). I'm not a manufacturer or researcher, but I've studied SSD performance for a year and think I can contribute something. [[User:Jimhsu77479|Jimhsu77479]] ([[User talk:Jimhsu77479|talk]]) 15:59, 27 October 2009 (UTC)
+:Knock yourself out, if you haven't already :) This is a rapidly developing technology that should be kept up-to-date as much as possible. Thanks in advance! [[User:Publicly Visible|Publicly Visible]] ([[User talk:Publicly Visible|talk]]) 23:11, 17 December 2009 (UTC)
+== StorageTek - Year of SSD introduction ==
+
+I am currently going through this article cleaning up as much as I can. I do have some experience in the storage industry, so I find it relatively easy to search for sources to this article because I am familiar with the technology. I have recently spent 3-4 hours searching for real sources on the StorageTek statement, but could only find one credible source that was not simply copying the current Wikipedia SSD article. That document was written by Fred Moore, the one time Corp VP of Strategic Planning at Storage Technology Corporation (StorageTek). [http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930003944_1993003944.pdf] On page 1-9 there is mention of 1979 being the year that Storage Technology Corp introduced the fist SSD according to Fred. I have found no other sources that would likely be more accurate than a presentation from the one time VP or Strategic Planning at StorageTek. [[User:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect; Music Sorter &sect;</span>''']] ([[User talk:Music Sorter|talk]]) 04:13, 13 June 2010 (UTC)
+== Whether to merge Multi-level cell article into Solid-state drive section, etc. ==
+
+Since MLCs' and SLCs' applications go beyond that of use in SSDs alone (the example of Intel's 8087 processor given in the MLC article, for instance), and SLCs are significantly different from MLCs, it would seem appropriate to separate the SLC (Single-level cell) and MLC pages, and to link them each to the SSD one - and vice-versa. [[User:Valvicus|Valvicus]] ([[User talk:Valvicus|talk]]) 17:16, 27 June 2010 (UTC)
+== Surprisingly outdated ==
+
+There seems to be at least a couple of competing factors here as tech sites try and grasp the latest technologies and then review it, and yet at the same time supposdely support the wiki initiative.  As at 28 June 2010, there is scant, if any, realistic, objective comparisions of, for example, the Vertex 2, Vertex 2 Extended and the Z-Drive style PCIE SSD's.  I was sloging thru Anand tech's most recent article on SSD's and noticed nothing recent.  While I have the greatest respect for our people out there providing information in a timely fashion - you all risk jading the market by letting vendors write their own marketing hype and the potential customers running away after getting burned a few times.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/198.103.223.52|198.103.223.52]] ([[User talk:198.103.223.52|talk]]) 17:20, 28 June 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:You bring up some good points. I think one problem is that Wikipedia is foremost a source of encyclopedic material based on secondary research. We have to be careful not to get into opinions about the products or technologies. We certainly can quote sources that have opinions on what is better than another, but we need to be sure to also cover opposing opinions. When we do that we still have to stay neutral. It is a careful balance.
+
+:One option would be to create a section on notable reviewers and talk about their history on reviewing SSDs. The source citations can point to the sites referencing particular points being covered. That would create links to their sites in a way that would not be necessarily viewed as spam as long as the site was reputable or notable. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect; Music Sorter &sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 18:26, 31 July 2010 (UTC)
+== Unreferenced statement in Applications section ==
+
+Currently in the Applications section of the article there is a statement (quite possibly made by me earlier), but I have been unable to find a supporting reference for it. I know it is true, but we are not about primary research. I will be deleting it if we cannot find a reference.
+
+:"Flash-based Solid-state drives can be used to create network appliances from general-purpose [[Personal computer|PC]] hardware. A [[write protection|write protected]] flash drive containing the operating system and application software can substitute for larger, less reliable disk drives or CD-ROMs. Appliances built this way can provide an inexpensive alternative to expensive router and firewall hardware."
+
+[[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 07:19, 9 August 2010 (UTC)
+== No mention of the security of data on SSDs! ==
+
+There is no mention of the security (or not) of data on an SSD.
+Traditionally sectors on a conventional HDD are not cleared upon deletion (or fomat) but only by explicit over-write.
+I beleive that most SSDs are transitioning to FDE (Full Disk Encryption) with a random initial key or user generated password if specified which deals with much of this concern.
+How about some of this going into the article (BTW: I am looking for a laptop SDD or new HDD that MUST be FDE and therefore my data will be secure!) [[Special:Contributions/122.148.41.172|122.148.41.172]] ([[User talk:122.148.41.172|talk]]) 07:18, 31 October 2010 (UTC)
+:It turns out some SSDs are headed to self-encryption, but many are not. The SandForce-based drives are all encrypted, but I am not sure about which of the others include it or not since they are slowly migrating it in. In either case we should add something on the security benefits of encryption. We just need a public source we can reference (otherwise I would write it up myself, but that would be primary research and not allowed here. If someone finds a public source and can post it here, I can add something to the article based on that source if the person does not want to write it themselves. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 06:47, 1 November 2010 (UTC)
+::Thanks for that link. I think I may settle on a Lenovo ThinkPad 43N3417 256GB FDE (AES 256bit) SSD. What pisses me off is that (laptop physical data) security is still not a major concern or easy value-addedd selling point for manufacturers/sellers and where it is that is only for Large Enterprises which manage secure drive access with enterprise key escrow software etc. These drives are hard to get and expensive OEM stuff. Some of the consumer level stuff out there is cheap chinese junk that is decidedly insecure even though the manufacturer advertises otherwise. I want to be able to trust a secure drive so I dont have to run TrueCrypt as my pre- i3/i5 series CPU doesnt have the AES extension instructions - running Truecrypt is a large performance hit and is less reliable than encyrtion performed transparently in the drive hardware. All disk and solid state drives should by now be FDE with AES 128-256 bit minimum. With software security issues a major growing issue on the internet I really do wonder sometimes about our species: god help the planet.[[User:Mattjs|Mattjs]] ([[User talk:Mattjs|talk]]) 07:07, 16 November 2010 (UTC)
+== Is anyone reviewing the SSD article, ==
+
+Is anyone reviewing the SSD article, or this discussion page? This article might be useful to someone writing a report, but misleading at best to someone trying to buy a drive. I don't know much about Wikipedia, but is there a policy on adding links to the top of a page to a website? Specifically the articles that Anand has written over the last two years? (Monday March 22nd, 2010) ([[Special:Contributions/98.202.161.43|98.202.161.43]] ([[User talk:98.202.161.43|talk]]) 06:08, 22 March 2010 (UTC))
+
+:No. See [[WP:EXTERNAL|Wikipedia's policy on linking.]] [[User:Ginbot86|Ginbot]]<sub>[[User talk:Ginbot86|8]][[Special:Contributions/Ginbot86|6]]</sub> 20:54, 12 May 2010 (UTC)
+
+::Also, the referenced article on performance between SSD and HDD is outdated... they didn't specify which SATA type... I'm personally looking for a speed comparison between SATA III 10krpm+ HDD vs SATA III SSD. [[User:Sir Edward V|Nathan]] ([[User talk:Sir Edward V|talk]]) 22:29, 18 May 2010 (UTC)
+
+:::I have been reviewing this article (and the other SSD related articles in Wikipedia) for some time now. I plan on updating this article over the next few weeks to address the numerous issues noted here and to hopefully improve this article.
+
+:::I also propose that since SSDs have rapidly become an option for nearly every system supplier it no longer makes sense that we keep adding announcements for systems that have SSDs available in [[Solid-state_drive#Availability|Solid-state Drive#Availability]]. I believe we should keep or add any milestone would be relevant like
+:::* First system to only ship with an SSD
+:::* First system from each major system supplier to ship with an SSD
+:::* First system to ship with RAIDed SSDs
+:::* First Ultramobile system with an SSD
+:::* First Netbook to ship with an SSD
+:::* First system supplier to claim 1 million units shipped (or something similar)
+:::* etc.
+:::: (Note: I am not proposing exclusively '''firsts''', but that was what came to mind)
+::: Further I plan to divide this section into "Availability:Shipped from system suppliers" and "Availability:Sold separately" to cover drives available for user upgrades of current systems. I think the separation of available drives between this section (sold in systems) and the [[Solid-state_drive#Intermediate|Solid-state drive#Intermediate]] and [[Solid-state_drive#Contemporary|Solid-state drive#Contemporary]] sections is hard to follow and they would make more sense closer together (which I plan on updating). I think the opening section on [[Solid-state_drive#Development|Solid-state drive#Development]] should stay focused on developments in the technology over time, not just every suppliers' product availability announcements.[[User:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect; Music Sorter &sect;</span>''']] ([[User talk:Music Sorter|talk]]) 15:59, 3 June 2010 (UTC)
+
+:::I have removed the "expert required" template on the article since we are working on it currently. I will leave up the other templates until we have concluded those items. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 03:45, 9 August 2010 (UTC)
+
+:::I completed the reorganization on the Architecture section today. Now we can add more current information under the new organization. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 20:06, 7 November 2010 (UTC)
+
+:::I think we have made significant updates and improvements to the article to make it very relevant and current. I am removing the "update" template.
+
+
+
+
+i am writing report on SSD, please review this article 
+~~Davinder singh 5 march 2011  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mrdragon333|Mrdragon333]] ([[User talk:Mrdragon333|talk]] • [[Special:Contributions/Mrdragon333|contribs]]) 05:41, 9 March 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+== PATA or SCSI SSDs ==
+
+These are listed as potential interfaces for SSDs. Can anyone cite a drive that nativel uses one of these old geezers? --[[User:Kvng|Kvng]] ([[User talk:Kvng|talk]]) 23:49, 23 January 2011 (UTC)
+
+Early Asus Eee PCs and other netbooks used PATA wired to a mini PCIe connector.  Upgrade drives are still [http://supertalent.com/products/ssd_category_detail.php?type=Netbook available]  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.252.42.133|71.252.42.133]] ([[User talk:71.252.42.133|talk]]) 04:41, 29 January 2011 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+Transcend makes some basic PATA SSDs. I don't recall seeing a SCSI one, probably very rare. [[Special:Contributions/91.156.18.224|91.156.18.224]] ([[User talk:91.156.18.224|talk]]) 13:12, 29 January 2011 (UTC)
+
+:Thanks for the information. If removed <nowiki>{{dubious}}</nowiki> and added refs to the PATA entry. Still looking for any information on parallel SCSI SSDs. --[[User:Kvng|Kvng]] ([[User talk:Kvng|talk]]) 18:00, 30 January 2011 (UTC)
+
+::SCSI SSD source added from http://www.storagesearch.com/scsi-ssd.html. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 05:53, 21 June 2011 (UTC)
+== Removing <nowiki>{{Emerging technologies}}</nowiki> template ==
+
+I see in the Emerging technologies template there are discussions around new "emerging" memory technologies, but currently shipping SSDs are not using them. Also there is no mention of SSDs in the template and I don't think it is relevant enough to add since they have already arrived with so many notebook computers already shipping with SSDs exclusively (no HDDs). Therefore I am removing it as unrelated. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 22:37, 16 June 2011 (UTC)
+== Link to article on SSD operation and issues ==
+
+Hello. This is my first Wikipedia post, and not fully sure how to make it useful. 
+
+I came to this article directly by searching for SSD. But the article barely touches on the technicals SSD operation. That information is covered extensively in the article linked as "Write Amplification", a well-written overview of the technical operation and issues of SSDs. This article is the one I needed to find in order to make an informed choice about SSD types and their issues and limitations. However it was largely by luck that I found it.
+
+My suggestion is that the Write Amplification link be given higher prominence in the SSD article (in See Also?), and perhaps that article could be renamed to indicate that it serves as a comprehensive technical overview. I am sorry I am not a competent enough editor to tackle this myself, just an appreciative reader.
+
+[[Special:Contributions/71.208.103.156|71.208.103.156]] ([[User talk:71.208.103.156|talk]]) 19:42, 16 June 2012 (UTC)Doug M
+== Separate comparison page ==
+
+The SSD/HDD comparison chart is getting rather long, should it be given a discrete page?
+
+[[Special:Contributions/85.76.45.31|85.76.45.31]] ([[User talk:85.76.45.31|talk]]) 16:39, 13 January 2012 (UTC)
+
+I agree!--[[Special:Contributions/88.111.127.125|88.111.127.125]] ([[User talk:88.111.127.125|talk]]) 18:07, 24 September 2012 (UTC)
+*'''Disagree'''.  I feel as though this comparison chart fits perfectly on this page and is not "too long" at all.  I think it would not warrant any separate page.  [[User:LogicalCreator|LogicalCreator]] ([[User talk:LogicalCreator|talk]])  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|undated]] comment added 13:13, 7 October 2012 (UTC)</span><!--Template:Undated--> <!--Autosigned by SineBot-->
+{{talkarchivenav}}
+
+== RAM-based SSD's become obsolete ==
+
+Let's consider.
+1. Read speed of both RAM and "RAIDed" flash drives might be as fast as the interface allows (at least two vendors are now ready to supply SATA 3 flash SSD with 500-600 MB/sec read speed.
+2. Write speed is a bit more difficult to manage, but Micron already samples flash SSD with 250 MB/sec write speed, May also rise the write speed to 400-500 MB/sec with some price tag added (interleaving needs a bit more complex approach.
+3. In principle, it is now possible to produce direct PCIe (even direct to memory channel - see Intel Turbo Memory) attached flash subsystems with multiple levels of interleaving and stripping working on PCIe 3 speed with the price no greater than $20 per GB.
+
+The "wear-out" issue is also becoming less significant - mothern drives may work up to 3-5 years as Vista OS drives.
+
+Compare this price with prices on cheapest RAM-based solutions and you'll see that (might be exept for very rare ultra-write-intensive SQL applications) flash SSDs are now much more price/performance attractive than RAM-based (with the same functionality).[[User:Stasdm|Stasdm]] ([[User talk:Stasdm|talk]]) 07:04, 13 October 2008 (UTC)
+
+== This isn't my field, but ==
+
+...this story on Engadget today (http://www.engadget.com/2008/07/01/ocz-reveals-core-series-sata-ii-2-5-ssds-128gb-for-479/) looks pretty significant: "these drives check in at $169 (32GB), $259 (64GB) and $479 (128GB), which -- as you undoubtedly recognize -- are amazing price points. Each unit utilizes NAND flash technology, possesses a 1.5-million hour mean time before failure and delivers 120 - 143Mbps read / 80 - 93Mbps write speeds. The sub-0.35ms seek times are also worthy of a tip of the hat, and the low power consumption just makes things unnecessarily sweeter." - Dan [[User:Dank55|Dank55]] ([[User talk:Dank55|talk]])([[Special:Contributions/Dank55|mistakes]]) 20:29, 1 July 2008 (UTC)
+
+
+Answer: Unfortunately, all this data is not quite right and needs to be looked at with a lot of care. The mtbf does not have any meaning at all, it could as well last 10 minutes. Also consider that those drives use MLC and not SLC chips. The random write is much worse than the stated 80 Mbps (which means Mbit per second and is wrong in this case. It should be MB/s = Megabyte per second). Alltogether: The prices are dropping, herewith the quality.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:RunningGer|RunningGer]] ([[User talk:RunningGer|talk]] • [[Special:Contributions/RunningGer|contribs]]) 12:12, 3 August 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Subject matter/WP:V, WP:OR, WP:RS experts needed re. ATA/ATAPI support for SSD ==
+
+Greetings. I am currently having great difficulty with editor [[user:Ramu50|Ramu50]] re the [[Advanced Technology Attachment]] article, specifically over whether solid state drives are "really" supported by ATA. 
+
+:They are by SATA by not by PATA, if the user want to prove otherwise fine[[User:Andrewcrawford|Andrewcrawford]] ([[User talk:Andrewcrawford|talk]]) 20:25, 17 August 2008 (UTC)
+
+:: No, the PATA spec includes specific provisions for SSD. Anyway this is long since settled. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 18:05, 5 September 2008 (UTC)
+
+I claim they are; the ATA docs say so, explicitly and also by inclusion ("any form of storage device may be placed on the interface"). Ramu50 claims that citing the ATA docs is "original research". Accordingly Ramu50 has repeatedly removed the mention of SSDs from the article lede. 
+
+I have opened a case at [[WP:RSN]]. The specific section at WP:RSN is 
+[[WP:Reliable_sources/Noticeboard#Advanced_Technology_Attachment_article.2C_is_citing_the_ATA_spec_re._solid_state_drives_considered_OR.3F|here]].  I've included a large number of diffs there. 
+
+This dispute is also discussed, if that is the word, in a long thread (actually several) at the AT Attachment article's talk page: [[talk:Advanced Technology Attachment]]. 
+
+The input of any SSD or ATA subject matter experts and/or Verifiability, Original Research, or Reliable Sources experts would be appreciated. Thank you. --[[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 09:26, 17 July 2008 (UTC)
+
+== "faraday cage" ==
+
+I'm going to let someone else check me on this, but I'm almost 100% sure this statement is completely irrelevant. A faraday cage is basically anything conductive surrounding the drive--there is no reason why SSDs do not have a faraday cage, and I'm almost certain all reasonable manufacturers already use a metal case for their SSDs (they're expensive enough already, why would they skimp with plastic?) Anyway, one problem DRAM-based versions might be susceptible to are soft errors (read on wikipedia). Generally, I'd imagine this is pretty easily mitigated with some error correction (which probably is implemented, anyway. . .)
+[[User:Threepointone31|Threepointone31]] ([[User talk:Threepointone31|talk]]) 06:06, 7 September 2008 (UTC)
+
+== "SLC vs MLC" ==
+
+Lower priced drives usually use multi-level cell (MLC) flash memory, which is slower and less reliable than single-level cell (SLC) flash memory.[13][14]
+
+This statement is only half true. Read speeds between MLC and SLC FLASH do not vary. Only the write speed is slower on MLC. The statement/source should be more clear on this... Source: my experience - Psignosys  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Psignosys|Psignosys]] ([[User talk:Psignosys|talk]] • [[Special:Contributions/Psignosys|contribs]]) 17:11, 14 April 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== 12 GB minimum size for minilaptop? ==
+
+Several vendors are selling linux based minilaptops with only 4 GB of storage.
+
+For example:
+
+http://www.dell.com/content/products/productdetails.aspx/laptop-inspiron-9
+
+Include a note as the need to do away with windows bloatware (t.m.) in order to accomplish this for a useful device.
+
+[[User:Hcobb|Hcobb]] ([[User talk:Hcobb|talk]]) 17:00, 7 September 2008 (UTC)
+
+:I assume you were commenting about the line where it said that SSDs range from 12GB to 256GB.  Since there was no citation for it, and both of those numbers are dubious at best, even if they were correct when written they aren't likely to stay so for very long, so I removed the sentence. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 19:37, 9 September 2008 (UTC)
+
+== Input on SSD article from Storage Networking Industry Assoc. Solid State Storage Initiative ==
+
+Hello Wiki-editors. Last week, while speaking to an SSD industry analyst, I discovered your SSD article. It's actually quite good. Recently, the Storage Networking Industry Assoc. (SNIA -- www.snia.org) started a new group within our organization called the Solid State Storage Initiative (SSSI).  We would like to help edit and contribute to your SSD article and hopefully related content / articles. Is there a particular Wikipedia editor or editorial group we should dialog with?
+
+Thanks.
+
+[[Special:Contributions/72.20.136.100|72.20.136.100]] ([[User talk:72.20.136.100|talk]]) 18:53, 11 September 2008 (UTC)Neal Ekker
+:If you are looking for a particular editor your best bet is to you look on the hardware taskforce first then computing project. If you are not fussed majority of editors here will be glad to help you improve the article :)--[[User:Andrewcrawford|Andrewcrawford]] ([[User talk:Andrewcrawford|talk]]) 19:13, 11 September 2008 (UTC)
+
+Andrew, can we copy the current content, edit it in a Word doc, provide citations as per Wikipedia instructions, and e-mail this doc to you? Then you or another editor could post the content with all the Wikipedia conventions, scripts, etc. so that we wouldn't fumble the ball with those? Or is that too much work on your side and we should just dive into the Edit This Page text and root around as we will? I want to work with Wikipedia in whatever way is best for Wikipedia. Would you be kind enough to give me some guidance?
+
+Neal  <span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.20.136.100|72.20.136.100]] ([[User talk:72.20.136.100|talk]]) 21:57, 11 September 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+
+:I have a lot of work on so that would be asking a lot of me, i am willing to help you update it but that just a little to much for me. If you edit each section to what is more appropriate then add reference for it using <nowiki><ref></ref></nowiki> i will edit it later to comply more with wikipedia guidance. --[[User:Andrewcrawford|Andrewcrawford]] ([[User talk:Andrewcrawford|talk]]) 08:12, 12 September 2008 (UTC)
+
+Andrew-
+
+Sorry for taking so long to respond, but Hurricane Ike came through and provided some distraction here in Houston (we were closed for a week), then we had our first Solid State Storage Initiative (SSSI) elections and productive meetings out at IBM in San Jose. Fun. Now I'm back in the saddle. I don't want to cause you more work; I want to help SSSI contribute to your already impressive SSD content. I've discovered that others in the Storage Networking Industry Assoc. (SNIA) have contributed to Wikipedia previously. Let me find out from them if we have an experienced Wikipedia writer, and if so, maybe we can supply all our own contributions with minimal help from you. Neal
+
+:No problem i cant take on full project my self jsut now have my degree to do weirdly it covering SSD but only minorly. If you post a edit toa section or add a new section send mea message on my talk page ill check it out and make improvement to wikipedia standard wehre necessary and put work to yourself :) but please do not do the entire page at once i just abut have a heart attack--[[User:Andrewcrawford|Andrewcrawford]] ([[User talk:Andrewcrawford|talk]]) 22:41, 26 September 2008 (UTC)
+
+== Write cycles and wear leveling ==
+
+Please stop removing cited material.  If you think the information is incorrect, please provide citations for other views on the matter.  
+
+The Infoworld article {{cite web|title=Solid-state disk lackluster for laptops, PCs| url=http://www.computerworld.com/action/article.do?command=viewArticleBasic&taxonomyName=Storage&articleId=9112065&taxonomyId=19&pageNumber=1| accessdate=2008-09-12| author=Lucas Mearian| date=August 27, 2008}} says:
+
+:"Corporate-grade SSD uses single-level cell (SLC) NAND memory and multiple channels to increase data throughput and wear-leveling software to ensure data is distributed evenly in the drive rather than wearing out one group of cells over another. And, while some consumer-grade SSD is just now beginning to incorporate the latter features."
+
+:"It matters whether the SSD drive uses SLC or MLC memory. SLC generally endures up to 100,000 write cycles or writes per cell, while MLC can endure anywhere from 1,000 to 10,000 writes before it begins to fail," [according to Fujitsu's vice president of business development Joel Hagberg.]
+
+Most of the articles on flash media that I have seen here provide no citations to back up statements about wear leveling being used or not used in various devices.  
+The main citation used in several articles for the number of write cycles seems to be a web page documenting a Linux file system, which gives a number with no basis whatever (and it isn't clear to what extent the source is a WP:RS for that information).  The infoworld article cited  may be mistaken in these matters, but at least it is a citation in an at least moderately reliable source.  
+
+If there are other views on the matter - fine, provide some reliable sources and lets fix it up.  (i.e., I make no claims for the correctness of the information in the infoworld article, but by Wikipedia standards, it is better than what was there in that it is verifiable)  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 01:18, 21 September 2008 (UTC)
+
+: My edit comments was obviously too brief, so I will have to try to be even more explicit: First, as you seem to imply yourself, the "cited" article may not be very reliable, as it uses a quite sloppy and tendensious tone, even in its own quotations. Furthermore, a more complete version of ''your'' quotation above would be:
+
+:"''Consumer-grade SSD generally uses multilevel cell (MLC) NAND flash memory, which has greater capacity and a lower-price point but suffers from slower I/O and as much as 10 times fewer read/writes over its life span. Corporate-grade SSD uses single-level cell (SLC) NAND memory and multiple channels to increase data throughput and wear-leveling software to ensure data is distributed evenly in the drive rather than wearing out one group of cells over another. And, while some consumer-grade SSD is just now beginning to incorporate the latter features to increase its performance, there will still be a cost/capacity disparity for years to come.''"
+
+:Here, "''the latter features''" probably aims at "''SLC''" and "''multiple channels''", not at "''wear-leveling''" (as it reads "''performance''"). The fact that ''wear-leveling'' is mentioned last is likely due to careless writing/aiming, ignorance, or the tendensious style that characterizes much of the article. Most importantly, it is certainly not anything from which you could deduce a categorical statement like  "wear levelling is not common in consumer level devices"... For that, you would need either an '''''explicit''''' citation from a reliable source or concrete '''''examples''''' of "consumer level devices" without wear levelling.
+
+:A longer version of your second quotation reads: "''For one thing, it matters whether the SSD drive uses SLC or MLC memory. SLC generally endures up to 100,000 write cycles or writes per cell, while MLC can endure anywhere from 1,000 to 10,000 writes before it begins to fail, according to Fujitsu's Hagberg. For its part, Western Digital's laptop hard-disk drive boasts up to 600,000 write cycles.''" What about the tone and style here?
+
+:Another citation clearly illustrates how the writer guesses: "''With software enhancements, MLC can exceed SLC performance, but at its core, it's still MLC memory, which means its life span is greatly reduced because cells'' '''''store more data more often'''''. ''In fact, generally speaking, the higher performance in an SSD drive, the longer life it will have because of'' '''''better drive efficiency'''''.". Anyone with a basic understanding of fundamental "flash memory technology" would see that this is quite confused guesswork.
+
+:Here are some other articles and papers about wear levelling at various technical levels; I could not find a single one suggesting that "wear levelling is not common in consumer level devices":
+:http://www.stec-inc.com/technology/flash_memory_controller.php
+:http://techreport.com/articles.x/15433
+:http://www.storagesearch.com/ssdmyths-endurance.html
+:http://lwn.net/Articles/288657/
+:http://www.cdfreaks.com/news/14976-Experts-warn-about-SSD-security-risks.html
+:http://www.engadget.com/2008/02/23/samsung-puts-the-kibosh-on-ssd-reliability-worries/2
+:http://www.mycom.se/product_info.php?products_id=54602
+:http://www.e-disk.com/article_misconceptions_ssd_longevity.html
+:http://www.hardwarecanucks.com/forum/storage/8690-ssd-wear-leveling-partitions.html
+:http://www.solidkor.com/en/technology/414we.html
+:http://oss.oracle.com/pipermail/btrfs-devel/2008-February/000513.html
+:http://www.imation.com/products/pdfs/SSD-Reliability-Lifetime-White-Paper.pdf
+:http://www.imation.com/products/pdfs/Imation-SSD-Performance-White-Paper.pdf
+:''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 12:27, 25 September 2008 (UTC)''
+
+::My comment about the matter of reliability of the source was purely courtesy.  The edit summaries trying to remove the source claimed that the information was incorrect (without giving any citations or basis for that claim).  It was and is not obvious that the source is biased or incorrect, I was just trying to invite discussion.
+
+::Article interpretation: 
+::#Since wear leveling is the last feature mentioned, it is reasonable to assume it is one of the "later features," however many other features were intended.  I don't see trying to re-interpret it to fit some other idea of what it should say.
+::#Since consumer level SSDs do exist and have existed for a while, but the statement was made that they are just starting to incorporate these features, that can reasonable be interpreted as the ones existing prior to now didn't.  However I have improved the item by making it closer to what the cited source says. (i.e. that they are starting to incorporate this feature now (2008).
+
+::It is not clear what point you are trying to make about the tone and style of the quotation relating to number of write cycles.  It seems a straight forward presentation of information.  The information given seems to correspond to what I have seen elsewhere as far as flash (I thought the figures for hard disks were interesting, but I haven't seen figures to compare them to.)
+
+::I didn't make use of the final section quoted, so I don't see what the point is.
+
+::I haven't had a chance to look at the citations you provided yet.  I will look at them as time permits, or perhaps you have suggestions for improvements to the item which incorporate these sources which we could discuss?  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 07:57, 26 September 2008 (UTC)
+
+::: If you really was "trying to invite discussion", then please try consider my arguments.
+:::#It's not about "some other idea", it's about correctness. Your interpretation would seem reasonable giving the short '''out of context''' excerption you prefer to look at, however, a slightly longer version makes that interpretation very dubious (see above).
+:::#You cannot possible use a '''single''' source for your categorical conclusion about "consumer level devices" unless the quality of the source is at the level of a neutral and reliable academic paper. Otherwise, you would need either more than one source or concrete '''examples''' to support that kind of bold statement (third time I say this...)
+:::#Given the fact that wear leveling has been used in various cheap devices (CF, SD, USB-sticks etc) for many years (see references in the wear leveling article, for instance), it would be a little naive to belive that SSDs did not.
+:::#"I didn't make use of the final section quoted, so I don't see what the point is." Really? If you are that uninterested in technical basics, perhaps you should delegate some decisions on precise formulations to other people (with the knowledge needed to judge whether things makes sense or not).
+:::''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 14:16, 26 September 2008 (UTC)''
+
+::::I responded to your arguments where they related to the article, agreeing that the wording of the wear leveling part could be improved, and asking for clarification about what you found questionable in the section on number of writes.  Beyond that, I requested clarification of what is the point of critiquing the source's style, or the clarity of other sections of the article which weren't used in the Wikipedia article.
+::::The wear leveling article was quite thin on references of the sort you mention when I looked a few days ago, as was the USB flash drive article.  I looked at various other articles on flash devices, they tended to mention what wear leveling is, but were short on actual citations backing up claims that they were used in this or that type of device, or measurements of quality/etc.
+::::Why make such a big deal about trying to discredit this one reference?  It is a news item, so one does not expect the same level of care/writing/understanding as an article in Nature.  It improved the wikipedia article by providing some basis for the statements made there.  For the purpose of Wikipedia, verifiability is the quality metric, not "correctness," so lets get more that is verifiable.  I suggested at the outset that rather than asserting that something is correct without evidence, that evidence be provided to support that view.  I still think that that is a more constructive approach. 
+:::::If wear leveling is commonly used in consumer grade SSDs - fine, what reference says so?
+:::::Does the quality of wear leveling vary much?  (i.e., is it a marketing buzzword that everybody claims, but some do better than others).
+:::::If MLC drives offer more write cycles than mentioned in the article - how many, and what reference says so? etc. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 22:06, 26 September 2008 (UTC)
+
+::::::First, what exactly do you mean by "''Please cease your personal attacks on me at talk:Solid state drive. If you wish to courteously discuss article improvements, fine. Zodon (talk) 21:53, 26 September 2008 (UTC)''" on my talk page? I find that quite discomforting.
+
+::::::I'm trying very hard to discuss article improvements, with very little success unfortunately. Once again, my main point is that you cannot rely on a '''single''' arbitrary source for your categorical conclusion about "consumer level devices" unless the quality of the source is at the level of an academic paper. Otherwise, you would need something more, such as examples, to support that kind of bold statement.
+
+::::::Yes, verifiability is important, but verifiability does not mean you can take '''any''' source, regadless of quality, and (more or less) loosely "interpret" what it says. You need detailed knowledge of your own (sometimes expertise), to be able to judge which sources can be considered reliable and what information relevant and/or reasonable. Truth and correctness must always be number one for any encyclopedia, that's the reason we have them.
+::::::''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 23:45, 26 September 2008 (UTC)''
+::::::'''Update''': Answers to your questions:
+::::::*"If wear leveling is commonly used in consumer grade SSDs - fine, what reference says so?" As I said above, there is no reason to suspect "consumer grade" SSDs should be exceptions from other flash based devices, such as cheap CF, SD, and USB devices, which have employed wear leveling for several years (see external links in the wear leveling article for instance). The reason it's not written out explicitly may be the same as why computer manufacturers seldom explicitly state that this model has heat sink and fan in order to prevent the CPU from self destruct (if you see my point).
+::::::*It varies, but not to the extent that the limited number of block erases easily shines trough, not even in fairly extreme cases. The most pessimistic life expectancy calculations I've seen is 5 years (a hypothetical scenario of ''continous'' writing at max bandwith 24/7 for five years); more "typical usage" life expectancies can be anywhere between 23 years and thousands of years (see my links above, for instance, or the wiki linked in the SSD article).
+::::::*I think most manufacturers specify 10,000 block erase cycles for multi-level NAND-flash, at least that's the figure in datasheets and papers I have come across. Speculating a little, I suspect most SSDs (as opposed to ''low cost'' CF/SD/USB devices) will use single level in the future, as the saving is only a factor of two, and multi-level inherently a little slower.
+::::::''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 17:00, 27 September 2008 (UTC)''
+
+I think the article should state the wear leveling algorithms typically differ from drive to drive (often the algorithm is engineered for the specific drive depending on life expectancy, density, and can affect drive performance during heavy wear leveling implementation) Sorry no link to source :( [[User:Psignosys|Psignosys]] ([[User talk:Psignosys|talk]]) 13:41, 6 January 2009 (UTC)Psignosys
+
+To clarify this, there needs to be studies that test:
+1. Wear leveling with sequential writes on an empty drive
+2. Wear leveling with sequential writes on an 99% full drive (with all other sectors unmodified)
+3. Wear leveling with 4kB random writes on an empty drive
+4. Wear leveling with 4kB random writes on an 99% full drive (with all other sectors unmodified)
+
+My hypothesis is that every drive will handle this differently, but that 2 is worse than 1 and 4 is worse than 3. Whether 3 and 4 are worse than 1 and 2 depends on the quality of the implementation. [[User:Jimhsu77479|Jimhsu77479]] ([[User talk:Jimhsu77479|talk]]) 16:55, 20 March 2009 (UTC)
+
+== 'Problems with SSDs on Windows' ==
+
+The linked article for this section doesn't cover the statements, especially:
+
+"Many Windows users who purchase the MLC disks are baffled as to why the performance of their flash drive is slow."
+"The final problem is that the NTFS file system isn't well suited for these flash disks."
+"but the fact remains that MLC and SLC disks both perform exceedingly well in Linux using a journaled filesystem like ext3, attaining write speeds far above manufacturer benchmarks, as high as 126MB/s with sequential writes"
+
+I'm tempted to scrub this section altogether unless someone can provide a source or re-write so that the section more accurately represents what the source says. [[User:Macthorpe|Macthorpe]] ([[User talk:Macthorpe|talk]]) 06:46, 22 September 2008 (UTC)
+
+:I put in some citation needed tags.  Although it could use some polishing of the language, and some of the details need citation or deleting, the basics don't seem to be too unlikely to be true, just needs a bit more citation.  I have seen other citations on problems with Windows and flash media (e.g. Windows doesn't handle large write blocks of flash efficiently).  Suggest leave it for a while and try to accumulate sources. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 04:50, 23 September 2008 (UTC)
+
+:: The claims of this section are specious IMO. The claim about 512 byte sectors is wrong, as the Windows file cache does readahead and writebehind in 64KB buffers minimum. <strike>I believe the claim about Windows processes constantly accessing the flash drive is misplaced also, as I don't believe the indexing and similar mechanisms normally pay attention to removable drives.</strike> [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 11:30, 12 October 2008 (UTC)
+
+:::Do you have any citations for that?  Various people in the industry say the poor performance under Windows is because of differences between hard disks and SSD, and Vista has been optimized for hard disks.  
+:::SSD are not usually treated as removable drives, they look to the machine like hard disks. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 19:47, 12 October 2008 (UTC)
+
+:::: Yes, various people in the SSD industry say that; file under "yes, they would say that, wouldn't they?" The citation for the 64KB readahead/writebehind in the file cache, page reads, and the modified page writer is of course Russinovich and Solomon, ''Windows Internals''. Also note that the default (and very widely used) allocation cluster size on NTFS is 4 KB. Really, I'm very familiar with the Windows I/O system, file systems, etc., and I just don't see where it is "optimized" for a 512 byte sector size. btw the notion of "running with virtual memory turned off" is pretty laughable. Re. removable drives, sorry, I was thinking of add-on drives, not drives mounted as internal. So things like indexing would still be happening, but I see no reason to think these should burden a SSD proportionally more than they burden a hard drive. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 00:41, 13 October 2008 (UTC)
+
+:::::Not clear why they would say that about Windows, and not about other operating systems.  Note that one of the articles also says that Apple and Sun are working on optimizations for flash.  The item started out with some more particulars about how some Linux file systems perform better with flash SSD.
+:::::As far as references - I meant to ask about references indicating that either Windows didn't have performance issues with flash based drives, or that the issues were likely due to other causes.  The size of the readahead/writebehind cache seemed easy enough to document, wasn't questioning that.  But where bottle-necks are can be more subtle (e.g. data misalignment, etc.).  Sorry my message above wasn't very clear on that.  
+:::::Seems like the impact of indexing might depend a lot on how much writing it did and in what pattern.  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 04:22, 13 October 2008 (UTC)
+
+"Tests by an SSD maker show that Windows 2000 is markedly faster than Windows XP, Windows Vista, Mac OS X or Linux, when it is run from an SSD using NAND flash memory.[41] Windows 98 is even faster, but does not support wear leveling, so would cause the drive to wear out quickly.[41]" - This is absolute BS!! Wear leveling is done by the SSD controller. NOT BY THE OS... I read the source and was AMAZED to see it. Unless I am misinterpreting the statement, I strongly believe this is incorrect and should be corrected immediately. The OS (especically today) makes memory accesses at the LBA level. It is up to the drive controller to deteremine which NAND cells to use for that specific LBA. Once a NAND cell becomes worn, it will move that LBA to different physical location on the NAND. The OS will NOT BE INFORMED of this action (nor do they have influence on the matter). Again, please review and change this.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Psignosys|Psignosys]] ([[User talk:Psignosys|talk]] • [[Special:Contributions/Psignosys|contribs]]) 16:56, 27 March 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:Could it be something different about how Win98 accessed the hard disk?  (Might also be differences in the structure of the file system - maybe FAT forces a lot of rewriting and interacts poorly with the wear leveling - resulting in faster wear.  Not exactly the mechanism indicated in the reference, but could have similar result.)  The item does seem to agree with what the reference said, reference indicating alternative view would probably help clarify.   [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 03:40, 28 March 2009 (UTC)
+
+::But they didn't state the file system used. So you can use FAT for XP (and Windows 2000 and Vista?). Would that make those SSD Friendly OSs misbehave too? I feel that this statement is nonsense... Maybe Win98 doesn't play nice with the wear leveling in the SSD but you can't say that it doesn't support SSD as, to my knowlage, Linux is the only OS with explicit wear leveling when using JFFS, although there may be others. Win2000, XP and Vista are not on that list either... [[User:Errolt|Errolt]] ([[User talk:Errolt|talk]]) 14:11, 30 March 2009 (UTC)
+
+:::Not used wiki for some time so edit me if its not right.. the wear leveling is done by the SSD in HW on the SSD, pc is not aware its an SSD, the OS is not aware at all that it is running on an SSD at all as far as Any OS with LBA access its an hard disk so makes no matter what OS is used (that is on sale from now Vista or lower). windows 7 (or maybe that JFFS) what will happen with that os there be an command support(or file system + win7 only) so that when free space is free it tells the SSD that that block is free that may sound contrdity but it mean it can wipe that block out so its ready as the current way is that it only wipe the flash block once the SSd has been filled once and it takes alot longer for it to Wipe and Load data into an cell then it does if its all ready been wiped (Intel SSD trys to do it) then all it has to do is Write the data to the cell , pure guess if supports it or not if currant ssds have that support yet, Win7 is doing apart from auto defrag off and optimise page file for minmiale use (good read for every one >> [http://www.anandtech.com/printarticle.aspx?i=3531 Click me anandtech review ], some web site explanes all of this alot better), and Speed problems was All jmicron fault as its drive was optimised for read not write more importantly Small writes that Vista does alot of and xp not so much, even the Dual Jmicron should be compleaty ingored unless you got 2 of them in raid with Write cache turnd on(Vista adv perfoamce on the disk from device manager) [[User:Leexgx|Leexgx]] ([[User talk:Leexgx|talk]]) 03:04, 4 April 2009 (UTC)
+
+:::The source is terrible and appears to be second-hand.  It appears to be a review of a benchmark, but the magnitude of information that was omitted in the review makes it useless.  For example, what performance metric are the quoted percentages referring to, not to mention how are they scaled?  Additionally, the person quoted seems to lack the kind of understanding of operating systems that would seem to be necessary to accurately understand and analyze the outputs of a benchmark.  For example: Linux "never runs anything in the background".  At best, they simply failed to convey their meaning.  At worst, it shows a complete lack of familiarity with multitasking operating system concepts.  I'm willing to put my faith in the benchmark conductors professional status, but either way, since the original benchmark data or publication is not linked to, I can only conclude that the source is not acceptable.  Hence I am removing the entire paraphrase of its content.  Could be re-written by considering this [http://www.computerworld.com.au/article/270657/which_operating_system_best_ssds review of several different manufacturer's experiences with SSD technology and various Operating Systems], which is much more informative and includes references to the same benchmark amongst its sources. <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/164.67.97.133|164.67.97.133]] ([[User talk:164.67.97.133|talk]]) 03:51, 8 April 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+
+'Problems with SSDs on Windows' The problem is with JMicron JMF602B or JMF602 controller that are used on MLC SSD drives (the JMicron JMF602B X2 just makes it 2x faster then slow when writeing files), [http://anandtech.com/storage/showdoc.aspx?i=3531&p=1 ssd re-review] should look at that review (Tip press the Print button that is on the page) there is alot of info in there that some may just ingore, allso if you use SSD on RAID or use motherboard chipset that buffers Writes thay hide the Write problems sometimes, the new Indilinx controller for SSD is set to Fix what JMicron broke [http://www.anandtech.com/storage/showdoc.aspx?i=3535&p=1 1275 Indilinx review] i know i am quoteing anandtech alot but thay are an good review web site, the one who posted computerworld site does not match real world problems that is infact the controller on the SSD in the way it handles the MLC flash on the SSD drives is the problem,its not the OS fault that the disk is takeing 300ms to 1-2secs to save files, OS are expecting files to be saved in an timely manner [[User:Leexgx|Leexgx]] ([[User talk:Leexgx|talk]]) 21:09, 11 April 2009 (UTC)
+== Manufacturers dropping images here ==
+
+Alot of the images on the page appear to be added by companies selling these things. While that's not bad in itself, I notice some of them are poorly license (EG. The one I marked just now was listed as CC-BY-SA, however it came straight off a website that was completely copyrighted. [[Special:Contributions/76.117.247.55|76.117.247.55]] ([[User talk:76.117.247.55|talk]]) 18:48, 22 August 2009 (UTC)
+== ExFAT ==
+
+No credible source actually states that ExFAT is intended for SSDs (SATA connected hard disk-like storage) rather than "flash media". [http://msdn.microsoft.com/en-us/library/aa914353.aspx Lots] [http://www.sevenforums.com/installation-setup/7627-exfat-format.html#post75631 of] [http://www.getflashmemory.info/fat32-gets-steroids-boost-no-limitations/ places] hint that it is intended for mobile USB storage-type flash media. IOW; I do not believe what this article says about ExFAT is true.
+[[User:Europrobe|europrobe]] ([[User talk:Europrobe|talk]]) 15:35, 17 October 2009 (UTC)
+
+:Thanks for taking the time to explain your deletion. You seem to be equating SSDs with DRAM drives, and equating flash media with USB drives. But SSDs and flash media are not mutually exclusive:
+:*"An SSD is commonly composed of DRAM volatile memory or primarily NAND flash non-volatile memory." &ndash; [[Solid-state drive#Architecture and function]]
+:The article's hatnote reiterates this:
+:*"This article is about flash-based, DRAM-based and other solid-state drives. For other flash-based solid-state storage, see [[USB flash drive]]. For software-based secondary storage, see [[RAM disk]]."
+:The terminology is supported by the uses of flash memory described in the article [[Flash memory#Flash memory as a replacement for hard drives]].
+:In any case, the Microsoft quote which you deleted makes clear that exFAT improves write-boundary alignment, which is important for non-volatile SATA SSDs as well as for those using other interfaces:
+:*"The exFAT file system driver adds increased compatibility with flash media. This includes the following capabilities: Alignment of file system metadata on optimal write boundaries of the device; Alignment of the cluster heap on optimal write boundaries of the device."[http://support.microsoft.com/kb/955704]
+:You cite three webpages implying that exFAT is intended for USB flash media. But none of the articles state that exFAT is optimized ''only'' for USB media. In fact your third citation explicitly contradicts this:
+:*"The exFAT file system is a new file format system to address the growing demand and size of mobile storage like USB sticks, PDAs, '''and solid state hard drives'''." ''[emphasis added]''
+:It seems clear that exFAT is implemented to take account of SSD characteristics. I have therefore reverted your deletion and added this last quote as a supporting reference.
+:Hope that clarifies and helps us avoid conflict. [[User:Richardguk|Richardguk]] ([[User talk:Richardguk|talk]]) 04:46, 18 October 2009 (UTC
+
+::Thanks for your detailed response. I realize that I have run out of arguments in this matter. Based on what we have discussed, I would say that none of us can really say for sure whether ExFAT is optimized for (flash based) SSD:s or (flash based) USB storage. It would seem that NTFS (or ext4 or similar) would be a much better choice for a desktop or server file system. ExFAT still lacks support for several things which users have come to expect from an advanced OS. It only makes sense to use ExFAT for mobile storage. Time will tell, I guess. [[User:Europrobe|europrobe]] ([[User talk:Europrobe|talk]]) 20:11, 18 October 2009 (UTC)
+== SLC versus MLC ==
+
+This section is either missing information, or contains an irrelevant example.  The paragraph opens with a statement that MLC is slower than SLC, then notes MLC slowness can be mitigated by a variety of mechanisms.  This is all good.  The problem:  The "For Instance" followup explains how a (faster) SLC drive beat (4) (slower) MLC drives in RAID(0) configuration.  If SLC is faster than MLC, an example is not needed of how an SLC drive will beat MLC drives.  Some critical content is missing for the example to be meaningful; without that content, the statement needs to be stricken. [[Special:Contributions/68.177.173.34|68.177.173.34]] ([[User talk:68.177.173.34|talk]]) 17:18, 29 January 2010 (UTC)
+: The whole sentence doesn't make any sense they compare apples to oranges, the SLC "hard drive" is in fact a 4x PCI-Express and the MLC is actually a array of 4 MLC drives. In reality it's a whole different matter some MLC ARE better than some SLC drives, and the other way around. The SLC drives may have the potential to be better but it's not just a question of the memory used but also of the electronics around it, put the SLC with some crappy electronics and it will be even worst than a MLC drive.[[User:Strumf|Strumf]] ([[User talk:Strumf|talk]]) 10:19, 22 April 2010 (UTC)
+
+@_@  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.229.204.110|66.229.204.110]] ([[User talk:66.229.204.110|talk]]) 11:36, 11 June 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+== Tandy ROM - Did not belong ==
+
+Because this article is focused on rewritable storage, the following comment did not pertain: "Tandy MS-DOS machines were equipped with DOS and DeskMate in ROM, as well" so I have removed it.[[User:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect; Music Sorter &sect;</span>''']] ([[User talk:Music Sorter|talk]]) 22:19, 13 June 2010 (UTC)
+== "a certain degree of fragmentation is actually better for reads" ==
+
+Source ?[[User:Rex4|Rex4]] ([[User talk:Rex4|talk]]) 09:28, 16 July 2010 (UTC)
+
+Check Anandtech[http://www.anandtech.com/show/2829/5]. "Fragmentation" is not the best word to describe; rather, SSDs use a sort of parallel writing scheme in order to boost performance by utilizing the inherent parallelism of multiple channels. The "fragmentation" problem is when one performs many small writes, by repeated cycles of writing-reading-invalidation, the spots that are free to accept data become randomly distributed within any particular flash channel, making write speeds very slow (because the SSD has to do an erase cycle for nearly every write).
+
+So in essence, the statement is correct but should be better worded.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Jimhsu77479|Jimhsu77479]] ([[User talk:Jimhsu77479|talk]] • [[Special:Contributions/Jimhsu77479|contribs]]) 19:51, 28 July 2010 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+== Can we get a rating system in place? ==
+
+How about a rating system of the top SSD's to date?
+
+I have been scouring the web to find the Solid State Drive for my machine. Find one than a bit later find another. Been continuously changing my mind... A list of the top benchmarked and reviewed drives would be ideal for a new hardware item like this...<span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.24.87.68|76.24.87.68]] ([[User talk:76.24.87.68|talk]]) 06:45, 4 August 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:{Editorial note: the original question posed was a request for feedback on a particular SSD. I removed that content and kept the portion that could contribute to the article per [[Wikipedia:What Wikipedia is not#FORUM]]. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect; Music Sorter &sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 17:44, 7 August 2010 (UTC)}
+
+:I don't think Wikipedia is the right place for a rating system that would be based on primary research. Unless there is an industry standard for ratings and a controlled method for measurements with no variance possible, there is no way to control the outcome. The encyclopedic nature of Wikipedia is to present what is already published. I think we might be able to talk about a rating system if it existed, but we would be less likely to present the information as a primary source. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect; Music Sorter &sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 17:44, 7 August 2010 (UTC)
+== exFAT and no evidence of benefits to an SSD ==
+
+I believe there have been some debates on this article in the past if exFAT did anything for SSDs or not. I searched the MS site for any evidence and found nothing. Certainly they differentiate between SSDs and USB flash devices with Windows 7, but for exFAT they only talk about USB or flash devices. SSDs are different from generic flash devices. The MS source cited below never uses the term ''SSD'' which is suspicious because they use it a lot on Windows 7. Also the other article cited is the only article that discusses SSDs with exFAT. Since no other prominent sites support this claim it seems very dubious and should be removed until we can find additional support or evidence that it is somehow beneficial for SSDs.
+
+:''Microsoft's [[exFAT]] file system is optimized for SSDs.<ref name="steroids">{{cite web|url=http://www.getflashmemory.info/fat32-gets-steroids-boost-no-limitations/|title=FAT32 Gets Steroids Boost&nbsp;– No Limitations|date=2009-02-23|publisher=Splash in Flash Memory|accessdate=2009-10-18|quote=The exFAT file system is a new file format system to address the growing demand and size of mobile storage like USB sticks, PDAs, and solid state hard drives.}}</ref> According to Microsoft, "The exFAT file system driver adds increased compatibility with flash media. This includes the following capabilities: Alignment of file system metadata on optimal write boundaries of the device; Alignment of the cluster heap on optimal write boundaries of the device."<ref name="kb955704">{{cite web|url=http://support.microsoft.com/kb/955704|title=Description of the exFAT file system driver update package|date=2009-09-29|work=KB955704|publisher=Microsoft Corporation|accessdate=2009-10-15}}</ref> Support for the new file system is included with Vista Service Pack&nbsp;1 and Windows&nbsp;7 and is available as an optional update for [[Windows&nbsp;XP]].<ref name="kb955704" />''
+
+[[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 09:41, 9 August 2010 (UTC)
+; ''References''
+{{Refs}}
+: The first citation already refers explicitly to "solid state hard drives". The second citation (which is from Microsoft) refers to "flash media", but the Wikipedia article itself notes: "As of 2010, most SSDs use NAND-based flash memory" ([[Solid-state drive|2nd paragraph]]). In other words, SSDs are a type of flash drive (in a technical if not a marketing sense) and therefore the Microsoft statement encomapasses SSDs. Surely alignment and levelling are beneficial in SSDs just as they are in older types of flash drive? — [[User:Richardguk|Richardguk]] ([[User talk:Richardguk|talk]]) 20:00, 9 August 2010 (UTC)
+:: The first citation focuses on UBS, CF, and similar small configuration Flash storage. While the article does one time mention "solid state hard drives" as you pointed out, it would not be the first time an author of a short article misunderstood the content in which he was writing.
+
+:: Although USB Flash sticks and SF cards both use Flash memory, full SSDs are very different in many ways. Look at the performance of a SATA SSD and compare it to the performance of a USB Flash drive. They are orders of magnitude different in performance. This in part comes through the operating system.
+
+:: As I previously mentioned the second source is from Microsoft (the author of the code) and they never once used the term solid state drive or SSD. No other sources claim exFAT is good for SSDs. If it was good for it, Microsoft would have added it to their own page and others would have written about it. I recommend we continue to hold off returning this material until we find another reputable source to support the claim. Better yet an article from Microsoft making a statement to support the claim. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 15:44, 26 August 2010 (UTC)
+== SSD optimized file systems - Page file? ==
+
+In the article under "SSD optimized file systems" it says "The page file should also be disabled because the constant updates to the file will cause unnecessary additional wear on the SSD that is not offset by enough performance gain." However, there's been a lot controversy about whether or not this is true. I believe Microsoft and Intel (can't cite sources) have said that there is no better place to put your page file to, than SSD. This should be true, unless you have enough RAM to be able to disable the page file altogether.
+I'd like to hear some expert thoughts on this matter. [[User:Jokkk|Jokkk]] ([[User talk:Jokkk|talk]]) 13:52, 15 November 2010 (UTC)
+== Quality and performance section quality ==
+
+The entire section titled "Quality and performance" seems terribly written, especially with regards to mentioning time frames and the organization statements. The section is mostly just a spewing of random statistics on SSDs at different dates without making proper comparisons (to HDDs, or newer/older SSDs) nor including the context of the statistic/statement. SSDs are used for a variety of applications, and posting business networking sources along with residential-use sources without distinguishing them is terrible. Frankly I cannot believe such a piece of text could exist for such a long period of time on such an important/popular article.
+
+I recommend that the section be completely re-written without including any of the currently mentioned statistics or statements, and that new ones be found pertaining to information regarding: performance over time changes for SSDs which are properly maintained (as well as improperly maintained), performance of new SSDs vs new HDDs be it in RAID or otherwise (keeping mention of the application it's being used for), and relevant performance flaws that exist in specific SSDs or generations of SSDs.
+
+Lastly, somewhat as the section says already, a good statement possibly make at the start would be an explanation that SSDs performance are changing/increasing quickly over time and the precision of the section may not be adequate due to age.
+[[Special:Contributions/24.79.135.235|24.79.135.235]] ([[User talk:24.79.135.235|talk]]) 08:28, 26 December 2010 (UTC)
+== SSD vs Compact Flash ==
+
+Despite the length of the article, seems substantially absent an IMPORTANT point: is the SSD another -marketing name- for Compact Flash? or IN WHAT it's different (well, apart the DRAM SSD) ?
+The CF uses NAND flash, and also SSD. 
+The CF have wear leveling and read-write cycle problems, like SSD
+The CF (integrated) controller support ATA/IDE specs, like SSD. (usually is needed a passive CF-IDE adapter for different pinout from IDE) 
+The CF (integrated) controller support SATA, like SSD.
+MAYBE "SSD" is a superset of CF.. but is pretty unclear. [[Special:Contributions/88.149.244.131|88.149.244.131]] ([[User talk:88.149.244.131|talk]])  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|undated]] comment added 16:44, 3 June 2011 (UTC).</span><!--Template:Undated--> <!--Autosigned by SineBot-->
+:The similarities between a CF (Compact Flash) or any [[memory card]] and a [[solid-state drive]] relates more to its interface and primary use. The CF cards and other memory card types are primary used for digital cameras and mobile phones with capacities ranging from 1GB to 64GB today, while SSDs are primarily used for primary data storage in computers with capacities ranging from 64GB to 512GB or more today. I think it is a great question and I will work on an addition to both this article and the memory card article covering CF cards. [[user:Music Sorter|'''<span style="font-family:veranda,sans-serif;background:lightblue;color:Blue">&sect;&nbsp;Music&nbsp;Sorter&nbsp;&sect;</span>''']] ([[User talk:Music Sorter#top|talk]]) 22:53, 16 June 2011 (UTC)
+== Suggestion for image: MacBook Air SSD ==
+
+I remember seeing images of a MacBook Air teardown on some website. The image of a very tiny "motherboard" with all the SSD storage attached directly to the board (instead of a separated "drive" connected to the board) was a very striking one. Will be great to have it included on this page. Would love to do this myself, but I'm not sure about the copyright issues.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/122.167.208.65|122.167.208.65]] ([[User talk:122.167.208.65|talk]]) 17:35, 12 December 2011 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+== Really significantly biased. ==
+
+Not enough treatment of the problems with SSD technology.
+While firm-ware bugs are mentioned, (and IMHO cavalierly dismissed), whether the failure of the drive is firmware or hardware caused is irrelevant to most users.  The technology is poorly covered here.  No discussion of the trade-offs between single layer and multiple layers, nor is there any clear exposition on the virtual certainty that only a finite number of write cycles will be tolerated by each bit.
+I rate this article marginal in its objectivity.  Clearly it is NOT acceptable for permanent memory to fail "catastrophically" and yet this issue is very lightly touched upon. And confounding DRAM technology is another seemingly intentional obfuscation.  It is very questionalble that the different technological approaches to SSDs should be lumped together in a table compared to HD technology.[[Special:Contributions/71.31.146.16|71.31.146.16]] ([[User talk:71.31.146.16|talk]]) 20:04, 17 June 2012 (UTC)
+== Add a bit on 'reliability' please. ==
+
+Thank you for this article. The question of reliability seems to come up quite often when discussing SSDs. Although you address this somewhat in your article, I've yet to come across the following aspect, which would be useful and reassuring to have for the reader: What happens when the SSD dies? If the drive simply becomes a brick, that would be useful to know. If the drive simply stops accepting write commands, then that too would be useful to know - which is to say, when an SSD dies, can it simply be cloned on to another one and you get on with your day, or is the data simply gone. Granted, it depends upon the nature of the failure, but someone examining this article is usually looking for 'what are these beasties', and thus, typical scenarios. Done but readable matters - an OS can be reloaded (but PITA), but reassembling the particular collection of programs and data, once dead, can be challenging. (Never mind that backups should be made, etc., nor the challenge of live snapshotting drive images.) So, it would be useful if the typical 'death state' of an SSD were mentioned.
+[[User:Bs27975|Bs27975]] ([[User talk:Bs27975|talk]]) 04:28, 9 July 2012 (UTC)
+{{talkarchivenav}}
+
+== Seperating Flash and RAM based SSD Advantages and Disadvantages ==
+
+Combining them directly like this is confusing at best, which I don't think they should be entirely different sections they could be sub headers such as, however this is just an example.
+<pre>
+Advantages
++Shared
++RAM Specific
++Flash Specific
+
+Disadvantages
++Shared
++RAM Specific
++Flash Specific
+</pre>
+--[[Special:Contributions/70.230.234.166|70.230.234.166]] ([[User talk:70.230.234.166|talk]]) 06:39, 25 September 2008 (UTC)
+
+: I agree, flash storage and DRAM-based hd-emulators have little in common (only the IDE interface basically). As such, they should really be separate articles, as before.
+:''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 12:34, 25 September 2008 (UTC)''
+
+::Seems like they were only proposing rearranging the advantages/disadvantages sections along these lines (rather than splitting the article).  Such a re-arrangement of that section might clarify, it is a little hard to tell without seeing it.  Part of what complicates it is that many of the parameters vary by capacity (the curves start out one place, but then they cross because of different slopes).  Perhaps such parameters might be better covered outside the advantages/disadvantages format.  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 08:17, 26 September 2008 (UTC)
+
+== Removal of timeline ==
+
+I removed this because it's a massive spam magnet and gives the false impression that SSD's are a very recent invention. Maybe a few of the announcements are notable enough to be put back but it's hard to tell which ones. [[User:Towel401|Towel401]] ([[User talk:Towel401|talk]]) 11:58, 4 October 2008 (UTC)
+
+: Well, the flash drive (like it's cousins CF,SD etc) is in fact a fairly recent invention. A natural split of this article into a Flash-drive and a RAM-drive article (much like before) would solve this problem as well as others, such as the messy advantages/disadvantages section. RAM-drives and flash-drives does not use the same memory technology, neither do they have the same purpose (basically speed boosts in high perfomance computers versus (semi-) permanent storage in harsh environments such as laptops and embedded systems), the only thing in common would be the IDE/SATA interface, not enough to lump them together as I see it. ''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 18:08, 4 October 2008 (UTC)''
+
+::I think removing the section seems reasonable.  How would splitting flash vs. RAM would help this?  (Section would still be a big spam magnet.)  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 06:40, 5 October 2008 (UTC)
+
+::When were flash-based and RAM-based SSD separate articles?  The history is common to both.  The two current implementations of SSD have more in common than just the interface.  Architecture seems to be similar (interface - controller - storage), and since they both use semiconductor chips, the packaging issues may be similar.  Both are touted for performance improvements (at least in high-end versions).  The function could be dealt with similarly to the USB flash drive article - storage devices (link to relevant article with summary) plus controller/interface.  Not much point in splitting until one of them grows to the point where the article becomes unmanageably large. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 06:40, 5 October 2008 (UTC)
+
+:::#Once, there was a separate flash-drive article, but it was merged into this one (see above).
+:::#The timeline covered (more or less) the recent history of flash-drives, why remove that? (Being a "spam magnet" is a completely different issue.)
+:::#"Architecture seems to be similar (interface - controller - storage), and since they both use semiconductor chips,..."; using that kind of logic you could merge hard-disks, CD-RWs, DVDs, and floppy-drives, into a single article as well.
+:::#"packaging issues may be similar"... ??
+:::#The ''only'' function of a RAM-drive is to boost performance; flash-drives are primarily rugged and low power '''storage'''. Yes, the fact that some flash-drives are very fast and/or energi-efficient makes for an overlap in some "high-end" applications (could ''perhaps'' replace both hard-disks and RAM-drives in the future). However, they are still fundamentally different (see next point).
+:::#Yes, linking between articles at various levels of generality/detail is a great thing, but it wouldn't work well as basic categorization is done wrongly. RAM-drives are inherently '''volatile''', flash-drives are '''not''', a <u>''fundamental''</u> difference.
+:::''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 18:49, 5 October 2008 (UTC)''
+::The history section already mentions stuff used in the 70's while the timeline started in 2005. It's only recently that they gained popularity but even IDE-based flash modules have been around for ages. I don't think RAM based drives should get their own article just yet - the section currently takes up only a few kb of the 25k this article is now and the GC-RAMDISK already has an article for some strange reason. Maybe that article can be merged into the new RAM drive article if someone decides to make one.[[User:Towel401|Towel401]] ([[User talk:Towel401|talk]]) 22:30, 5 October 2008 (UTC)
+
+:::: The timeline is not my major concern here (as you probably have grasped), although I find no reason to exclude recent history (when someone has made an effort to include it). The question of age is very much about how far it's ''reasonable'' to stretch a definition; one could argue that the first SSDs were [[core memory]] (solid state although not transistors) or, at the other extreme, that is was the first ''commercial'' product that was ''named'' SSD ''and'' also resembling a hard-disk, or whatever. However, it's hard to escape the fact that various form of "RAM-drives" and "RAM-disks" has been around much longer than any flash-device, as flash technology was developed in the eighties and grew large (in both popularity and capacity) during the nineties.
+
+:::: Furthermore, I don't think we should be so concerned with the ''size'' of articles, that's really secondary, but instead try to concentrate on achieving the most logical and natural structure among (as well as within) articles. In this case, ''Solid State Drive'' would better be a rather small "umbrella" article covering some general history and technology and mentioning that the term SSD has come to denote so quite different products (and why). From there ''RAM-drive'' and ''Flash-drive'' can be linked, which, of course, cover each respective concept/product in detail. (Yes, it would be a good idea to merge ''GC-RAMDISK'' into a ''RAM-drive'' article :) Regards. ''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 23:45, 5 October 2008 (UTC)''
+
+:::::The timeline had devolved into a list of product announcements.  There was no clear indication that the items were historically important.  The history section might be better place to gather items that are historically significant.  May be slightly less prone to spamming.
+:::::If by separate flash drive article, you mean the one that was merged per the proposal above, this article still covered both RAM and flash based SSDs.  When that article was merged into this one, this article changed very little; as I recall the see-also section was the main content that came from the other, most of the rest was duplication.
+:::::There are already quite a number of articles on flash based storage, with a lot of duplication, creating flash drive would be yet another.  Articles tend to gather material (many editors just add to whatever article is in front of them without looking at how articles relate).
+:::::The different characteristics of DRAM memory vs. Flash mean there are different considerations when building one, but volatility is not necessarily an end-user concern.  A DRAM based SSD appears non-volatile to the user.  From a users perspective they aren't fundamentally different - you have an interface, something on the other end remembers the data you write at a location and gives it back to you when you ask for it.  Whether that something is a hard disk, DRAM, flash, bubble memory, etc. means they have different characteristics (power usage, access time, startup time, etc.) but it is functionally the same.  
+:::::SSD can be the small umbrella article, without the separate flash-drive and DRAM based drive articles.  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 02:28, 6 October 2008 (UTC)
+
+::::::#I actually agree on your first point!
+::::::#"If by separate flash drive article, you mean the one that was merged per the proposal above," frankly, please don't pretend...
+::::::#The lead (the by far most important part) was primarily about flash-drives, I rewrote large parts of it myself.
+::::::#Preventing duplication should not be our main concern; duplication is not even necessarily a bad thing, rather a nessesity in many cases, to achive good readability and clarity.
+::::::#Yes, it's true that some RAM-drives achieve a kind of non-volatility with the help of ''non-volatile'' hard-drives. But, that specific kind of "end user perspective" is only one among many different possible perspectives, the buyer, the engineer, and the technically interested reader are, among others, well as important. And again, these RAM-drives are completely useless as permanent storage in laptops and similar, thus a completely different kind of product.
+::::::#The last part is an overly abstract picture, to say the least. '''If''' that is your ''only'' possible point of view, I suppose you would like to merge each and every data storage article on WP into a single one? And, '''if not''', why use hypocritical arguments?
+::::::#"SSD can be the small umbrella article, without the separate flash-drive and DRAM based drive articles." So where do all the specific details go then? Are you against detailed technical information per se?
+::::::''[[User:HenkeB|HenkeB]] ([[User talk:HenkeB|talk]]) 06:17, 6 October 2008 (UTC)''
+
+[Outdent]
+
+4 - Preventing duplication is one of the concerns.  It makes things harder to to read (i.e. you have to mush through a bunch of re-hash to find what you are looking for, and makes it hard to know that you have read what there is here about a topic) and makes maintenance harder.  There needs to be a good reason to incur the overhead of an extra article.  When something gets large enough that it is cumbersome to handle as one article, that is a reasonable reason to split.  Until then it is better to forgo the overhead of handling an extra article.
+
+5 - As noted various types of SSD have different characteristics, which makes them better suited to different applications.  Volatility is probably not the main reason RAM based SSDs would be less suitable in laptops, etc. (lower storage density, greater power demand and cost seem likely to be more significant limiters).  Volatility can be engineered around now, the other factors are harder.  
+
+6 - If all the articles on drives on Wikipedia were together in one 24 KB article I would work to add content, rather thank advocating splitting it before it had expanded to the point where more articles were needed.
+
+7 - As noted above, and as done in the USB flash drive article.  Details about the memory go in the article on the memory, details about the interface go in the article on the interface (USB, ATA, etc.), details about putting it all together go here.  When there is enough material that it makes sense to split, then might split to a flash drive article (combining those portions of USB flash drive).  However if most of the detail is in the controllers, might create an article on controllers, or maybe something else entirely.
+
+Until it grows we won't know what became the big branch and where it makes sense to make the division.  While we can guess at logical structures, we can't be sure what will evolve until it does.  I don't see making little articles based on one model of how to divide the information, rather wait until it grows up.  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 08:13, 13 October 2008 (UTC)
+
+== Need a 'manufacturers' section ==
+
+Need a 'manufacturers' section, at least for SATA based SSDs. - [[User:xpclient|<small>xpclient</small>]] <sup>[[User talk:xpclient|<small>Talk</small>]]</sup> 19:20, 11 October 2008 (UTC)
+:I don't know if that's really a good idea. THere is one on the [[CompactFlash]] page and obscure manufacturers keep adding their red links to it. Is there an official policy on this? [[User:Towel401|Towel401]] ([[User talk:Towel401|talk]]) 20:23, 11 October 2008 (UTC)
+:Why is such a section needed?  As noted, seems likely to become a spam magnet, much as the timeline was.  (Wikipedia is not a directory, etc.) [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 06:53, 12 October 2008 (UTC)
+
+== Separating Flash and RAM-based SSDs ==
+
+(Cont'd from Separating Flash and RAM-based SSD Advantages and Disadvantages above)
+
+I '''agree'''. It would be more clear and less confusing if we could move out RAM-based SSDs out of the article. That kind of SSDs are much much more expensive and thus specialized. I predict almost all mainstream users will have the flash-based kind in mind when they think of SSDs, use them or go to this page for information. Obviously both kinds deserve a page, it's only that RAM-based ones aren't the kind people will be looking for or expect. [[User:CapnZapp|CapnZapp]] ([[User talk:CapnZapp|talk]]) 19:07, 22 December 2008 (UTC)
+
+this is really a MUST do. they are completely different storage systems....  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/84.39.103.136|84.39.103.136]] ([[User talk:84.39.103.136|talk]]) 17:14, 12 July 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Magnetic Solid State ==
+
+do you think its possible to have a magnetic soilid state drive, so that they dont have limited write cycles?  --[[User:Superchad|Superchad]] ([[User talk:Superchad|talk]]) 20:28, 29 December 2008 (UTC)
+
+:For an example of solid state magnetic memory, see [[Bubble memory]].  Of course magnetic disks also have limited write cycles (just higher limits than flash), so whether one could achieve unlimited write cycles with a magnetic storage medium is a different question. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 02:12, 7 January 2009 (UTC)
+
+== Advantage ==
+
+Secure Erases are faster on a flash drive. Rotational drives performs secure erases by redundantly erasing itself or writing zeroes to the entire drive to remove any trace of data on the rotational media. This can take a significant amount of time. SSDs do not have this problem. (see data remnance) [[User:Psignosys|Psignosys]] ([[User talk:Psignosys|talk]]) 13:41, 6 January 2009 (UTC) Psignosys
+
+:Reference?  Security and questions of when something is really gone are tricky enough that really need good sources.  (Please clarify "(see data remnance)," was that supposed to be [[Data remanence]], although that article doesn't seem to cover flash memory, or how to securely erase them.)  Seems like secure erasure might be harder because of wear leveling, etc. - harder to access a specific memory cell? [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 02:04, 7 January 2009 (UTC)
+
+::Please pardon my misspelling of [[Data remanence]], I think I was trying to say two things at once. But yes that was what I was referring to. As far as data remanence goes, rotational media is much more susceptible to data recovery via data remanence than NAND based flash drive. Detecting and calculating remanent charge levels on a floating gate is much more difficult. On MLC NAND flash, even if remanent charge levels of floating gates are measured and quantified, knowledge regarding charge level thresholds must be known (specific to a particular NAND). (since each cell can represent 2 bits per cell, that means each cell has 4 charge states. This will make it even more difficult with 3 bit per cell FLASH technology). I hate to use my personal experience as a reference but I'll use it as such and the community can simply void it :p 
+
+::My other statement was simply saying that NAND erase procedure is significantly faster. NAND erases are done by pulling the NAND silion well to a certain voltage, removing charge from the floating gate oxide blocks at a time (at present each block may be typically 256KB to a 1MB). The time this takes is very short. While rotational media still needs to overwrite data one bit at a time. Even if it is done at the block level. (some architectures may support erasing multiple blocks at once, but this contributer has never come accross them). The wear leveling data is typically stored out of bounds of the user accessible data. So the drive can erase all user data while maintaining its internal metadata. SSD drives typically have various tables which distinguishes between user accessible data space and its own metadata. So the controller can refer to this prior to performing a secure erase. reference: personal experience :p
+
+::If some one can find documentation supporting this i would be grateful - psignosys  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Psignosys|Psignosys]] ([[User talk:Psignosys|talk]] • [[Special:Contributions/Psignosys|contribs]]) 17:23, 27 March 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:::As far as the speed thing - sounds like you are saying that need to erase the whole device in order to get secure erasure.  (As compared to being able to erase selected portion of a hard disk.)  Seems like care would still be needed to avoid pathological cases where you didn't erase everything because you erased the same section multiple times (depends on details of wear leveling algorithm).  (And not clear which would be winner in speed - erasing a portion of hard disk multiple times vs. whole SSD) [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 03:29, 28 March 2009 (UTC)
+
+== Removal of pricing from general discussion ==
+
+I'm new to this wikipedia editing stuff so I'm a bit reluctant to change things with out discussion before hand.
+Could we edit this article to remove pricing from general areas and add in a pricing section?
+I say this because of this line "adding a US$ $600 to $1000 premium to the price of a HDD-equipped laptop" in "availability". [[User:Derry.manley|dmanley]] ([[User talk:Derry.manley|talk]]) 11:42, 13 January 2009 (UTC)Derry.Manley 11:40 13 Jan 2009  GMT
+: Actually, a Pricing section would be fine but I would consider removing specific dollar amounts.  Technology pricing changes so frequently that it will be difficult to keep up to date.  If you want to include prices, make sure you say something like "As of January 2009..." --[[User:Laser_brain|<font color="purple">'''Laser brain'''</font >]] [[User_talk:Laser_brain|<font color="purple">(talk)</font >]] 13:50, 13 January 2009 (UTC)
+
+::Not sure about separate pricing section.  As noted prices are highly volatile, and any specific dollar amount should include a date (as well as a source).  (Then as it becomes out of date it becomes historical perspective.)
+::However a pricing section might tend to attract more spam.  Since prices seem concentrated in the availability section, might be better to focus on removing what prices don't seem notable, adding dates to the ones that are.  (More note significant events in pricing history, etc.)  [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 00:32, 14 January 2009 (UTC)
+
+== Inappropriate use of "Citation Needed" ==
+
+For a statement such as, "Until recently, solid-state drives were too costly for mobile computing" -such a statement can not be verified by a citation from any particular source.  Such statements are based on conclusions that are drawn by people who are knowledgeable about the subject, such as the authors of this article, and is backed up by the content of the article.  Any individual can make any statement about why solid state drives haven't been used extensively for mobile computing, but they couldn't be considered the definitive source for that statement.
+
+For a statement such as,"Solid-state drive (SSD) technology has been marketed to the military and niche industrial markets since the mid-1990s" -a citation request is appropriate and needed to provide verification that this indeed did occur.[[User:Landroo|Landroo]] ([[User talk:Landroo|talk]]) 16:31, 14 March 2009 (UTC)
+
+:If it can not be verified then it probably doesn't belong in Wikipedia.  A citation for such a statement would provide backing for it, and if it is an unsurprising/uncontroversial conclusion that would seem to be adequate.  (e.g. although the first statement above could use more specifics, it shouldn't be hard to find citations to back it up.)  Conclusions drawn from the content of the article by authors of the article could be [[WP:OR]], and it is reasonable to expect citation of [[WP:RS]] for such items that are questioned. [[User:Zodon|Zodon]] ([[User talk:Zodon|talk]]) 20:54, 14 March 2009 (UTC)
+:: Some are easy to cite, others not so easy. I gave an example of each. If someone knows how to provide a citation for my second example that is more than a personal opinion, I'd like to see it.[[User:Landroo|Landroo]] ([[User talk:Landroo|talk]]) 22:19, 1 April 2009 (UTC)
+
+== Could someone (fully) add this content? ==
+
+<ul>
+<li>
+http://www.anandtech.com/printarticle.aspx?i=3531
+</li>
+<li>
+This page is very informative  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Transisto|Transisto]] ([[User talk:Transisto|talk]] • [[Special:Contributions/Transisto|contribs]]) 16:44, 19 March 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+</li>
+<li>
+Indeed; I added some information to the Disadvantages section. <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:NinjaDreams|NinjaDreams]] ([[User talk:NinjaDreams|talk]] • [[Special:Contributions/NinjaDreams|contribs]]) 04 April 2009 (UTC)</span></small>
+</li>
+</ul>
+
+== Split page into SSD (Flash) and SSD (DRAM) ==
+
+As the technology behind Flash-based and DRAM-based SSDs are totally
+different, and have different issues, it seems to me that this article
+would be better replaced by a redirect stub to two separate articles,
+one for each.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/121.44.194.50|121.44.194.50]] ([[User talk:121.44.194.50|talk]]) 02:20, 21 March 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== RAM ==
+
+Does the SSD's use DDR2, DDR3 or DDR5 RAM? And do you still need RAM when you get an SSD?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/83.108.225.137|83.108.225.137]] ([[User talk:83.108.225.137|talk]]) 20:31, 20 April 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+: SSDs use Flash mem (MLC or SLC) as it does not forget the data when power is loss, with ram (ddr) soon as the power is removed all data is loss in ram [[User:Leexgx|Leexgx]] ([[User talk:Leexgx|talk]]) 19:02, 21 April 2009 (UTC)
+
+::Ok, but is it slower then RAM then? Do you still need RAM, or is the SSD fast enough to replace it? [[Special:Contributions/83.108.225.137|83.108.225.137]] ([[User talk:83.108.225.137|talk]]) 09:19, 22 April 2009 (UTC)
+
+::: i think you need to read up what ram is and what an hard disk is (SSD is an hard disk drive (Solid State Drive = SSD) just it uses flash not an spinning disk, if you have no ram installed inside an pc it will not boot up, system ram is not storage space its working space for running programs) please respond to this so i can remove this section as this should explane it by now ( http://en.wikipedia.org/wiki/RAM http://en.wikipedia.org/wiki/Hard_drive  ) [[User:Leexgx|Leexgx]] ([[User talk:Leexgx|talk]]) 13:04, 22 April 2009 (UTC)
+
+
+::::I know what a harddrive and RAM is, but SSD are not like regular mechanical harddrives, they have no movable parts for example. What I wondered was if the new types of SSD's are fast enough to use as RAM as well as storage units, since their so fast, so far I haven't got any answers of that. But never mind, this not a forum so I'll find my answers elsewhere. :-) [[Special:Contributions/83.108.225.137|83.108.225.137]] ([[User talk:83.108.225.137|talk]]) 16:33, 22 April 2009 (UTC)
+
+::::: SSD or HDD has nothing to do with ram at all in the way you are thinking , ram is system working space (very fast) / HDD & SSD (maybe i-ram) is an Disk drive for storage (Slow), you can't plug an hard disk into an ram slot, (disk drives are far slower then system ram, any way peak speed of good none jmicron SSD is 250MB/s avg, system ram is more like 5000-10000MB/s depending what type of ram, disk drives are to slow, was going to comment about something els but that is pointless as its basicly what your trying to talk about but is never going to happen any time soon or ever realy [[User:Leexgx|Leexgx]] ([[User talk:Leexgx|talk]]) 17:30, 22 April 2009 (UTC)
+
+== Architecture and function ==
+
+some of the info in "Architecture and function" is not correct but this one stands out quite far
+its JMicron that made the RAID0 but uses 2 slow JMicron chips to make it 2x faster then slow (but still suffers from Large latency and Write delay once the drive has been filled and gets high Write que or even small {stuttering problem} takeing 200ms avg up to max of 2000ms Not 2ms that been posted on main page) Jmicron cant do muti wirtes fast untill thay bring an new chip out just read both [http://www.anandtech.com/storage/showdoc.aspx?i=3531&p=13 page 13 and 14 read poor write speeds] and [http://www.anandtech.com/storage/showdoc.aspx?i=3531&p=17 poor Latency] some info on the page Discussion SSD is not correct 
+intel Does not Use raid it can access up to 10 cells at one time, the intel chip it self does not use RAID nor does the inedix chip that OCZ vertex and other SSD makers starting to use, i like to change main page to correct it  [[User:Leexgx|Leexgx]] ([[User talk:Leexgx|talk]]) 00:52, 28 April 2009 (UTC)
+
+== Solid-state cardlets for a motherboard ==
+
+That sounds like a logical solution. Slot cards like the common ram cards but acting as SSDs. Has anyone come across any sources supporting it for possible inclusion? --[[User:AaThinker|AaThinker]] ([[User talk:AaThinker|talk]]) 19:04, 26 May 2009 (UTC)
+
+== Price ==
+
+"SSDs are still about 10 times more expensive per unit of storage when compared to HDDs."
+
+No substantiation is given for this claim and as of January, 2013, it is false. This can easily be confirmed by visiting commercial shopping sites that sell SSDs. The price can be expected to continue to drop to the point at which there won't be any significant price difference. ---[[User:Dagme|Dagme]] ([[User talk:Dagme|talk]]) 06:37, 10 January 2013 (UTC)
+
+== Use of "Hard Disk Drives" vs "HDDs" ==
+
+While "Hard Disk Drives" and "HDDs" are equivalent (as introduced in the first paragraph), it doesn't make sense that the article uses both interchangeably throughout the article. It would be a lot cleaner to unify this formatting and pick one or the other in order to promote greater consistency. Which phrase would you prefer to be used in this article?
+
+I personally prefer "HDDs", for the sake of brevity, but there should be consensus for a formatting edit like this to take place.
+[[User:Hellachaz|Hellachaz]] ([[User talk:Hellachaz|talk]]) 01:10, 15 October 2012 (UTC)
+
+== Couple of comments ==
+
+I read the article and I have a couple of comments.
+
+1. "The typical CF card interface is generally 3-4 times slower than an SSD." It would be nice to say what "CF" means.
+
+2. The FreeBSD section mentions Linux. I wonder if the FreeBSD section should fall under Linux just like Vista falls under Windows.
+
+[[User:ICE77|ICE77]] ([[User talk:ICE77|talk]]) 04:20, 20 July 2012 (UTC)
+
+: One - next time, just click the "edit" button and change "CF" to "CompactFlash". '''[[WP:BOLD|Be bold!]]'''
+: Two - No. FreeBSD is not a version, branch, fork, etc., of Linux, nor vice-versa. See the [[FreeBSD]] and [[Linux]] articles for details. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 20:53, 24 October 2012 (UTC)
+
+== References ==
+
+Had added quite some information on references without disrupting anything.  Suit yourselves.
+:―[[User:Lgfcd|Lgfcd]] ([[User talk:Lgfcd|talk]]) 11:45, 12 March 2013 (UTC)
+
+: As has been said many times on your talk page, you should get consensus before making sweeping changes to existing reference format, per [[WP:CITEVAR]]. "Suit yourselves" applies to every page on Wikipedia. Before you go making wholesale changes to reference formats on any page, you need to propose your change on that article's talk page and get consensus for your new format. Otherwise, if you have actual information to add to the references, please work within whatever format you find. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 11:53, 12 March 2013 (UTC)
+
+== Updates needed ==
+
+The speed where the graphic, titled "SSD benchmark, showing about 230 MB/s reading speed, 210 MB/s ", needs to be updated, SSDs are much faster these days - 2 -2.5 times faster
+
+In fact a lot of the "facts" are old and outdated; as technology changes the articles should too.
+[[Special:Contributions/41.177.19.130|41.177.19.130]] ([[User talk:41.177.19.130|talk]]) 20:37, 24 October 2012 (UTC) Tony Hall 24 October 2012
+
+: You are correct. If you (or anyone else) can supply replacement materials, feel free to update the article accordingly. [[Special:Contributions/212.226.74.192|212.226.74.192]] ([[User talk:212.226.74.192|talk]]) 05:59, 18 December 2012 (UTC)
+
+:: Unfortunately, wikipedia is overrun with users (editors) who have agendas, and it really is a shame when the agenda is anything but Truth or being able to state the Truth with clarity. Hopefully in the near future there will be a plan devised which can adequately prevent edits that do not represent the Truth because it seems the world will never be free of those who feel justified and in the right to suppress the Truth, no matter how wrong the suppression in reality may be [[User:Dirtclustit|Dirtclustit]] ([[User talk:Dirtclustit|talk]]) 06:55, 22 March 2013 (UTC)
+
+== Gross inaccuracies regarding filesystem fragmentation ==
+
+This article's treatment of the issue of filesystem fragmentation is terrible.  Please consider the following statements from the article:
+
+'''"SSD technology can deliver rather consistent read/write speed, but when lots of individual smaller blocks are accessed, performance is reduced."'''
+This statement is true.
+
+'''"There is limited benefit to reading data sequentially (beyond typical FS block sizes, say 4KB), making fragmentation negligible for SSDs."'''
+The article cited for this statement does not discuss filesystem fragmentation at all, making it entirely inappropriate as a source for this statement.  As stated earlier in the article, performance is reduced when lots of individual smaller blocks are accessed.  To make the claim that the effects of filesystem fragmentation are negligible, with no source or data to back it up, is irresponsible and misleading.  The truth is that the effects of filesystem fragmentation vary depending on the situation and absolutely can cause a non-negligible performance impact.  I have personally measured up to a 35% difference in a real-world scenario, which does not seem very negligible to me.
+
+'''"Defragmentation negatively affects the life of the SSD and has no benefit."'''
+The first statement here is true, while the second statement is false.  This kind of lie has no place on Wikipedia.
+[[Special:Contributions/24.148.137.64|24.148.137.64]] ([[User talk:24.148.137.64|talk]]) 15:09, 22 December 2012 (UTC)
+
+:How can fragmentation make a difference on a SSD that is made up of DRAM or NAND etc ? what makes it to take longer to access block sequence 0, 8, 2, 15, 9 than say 5, 6, 7, 8, 9, 10, etc.. ? unless ofcourse the filesystem screws it up with ineffective handling of block mapping. [[User:Electron9|Electron9]] ([[User talk:Electron9|talk]]) 08:06, 26 June 2013 (UTC)
+
+== First flash based SSD ==
+
+The article says it started in 1994, but according this this article, https://en.wikipedia.org/wiki/Psion_Series_3 flash memory was sold in 1993. And this article says they sold them in 1989. http://retrocosm.net/2012/03/29/psion-mc-400-mobile-computer/ What gives?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/50.73.88.73|50.73.88.73]] ([[User talk:50.73.88.73|talk]]) 21:37, 13 December 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+: {{done}} Awesome note, thank you!  Went ahead and [https://en.wikipedia.org/w/index.php?title=Solid-state_drive&diff=585968900&oldid=585904009 edited] the article, so this is included. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]) 22:09, 13 December 2013 (UTC)
+{{talkarchivenav}}
+
+== Persistence ==
+
+Article states: <br/>
+SLC to MLC	NAND to NOR<br/>
+10× more persistent	10× more persistent<br/>
+so both are more persistent? seems strange to me...
+
+:The problem is that there are two different tables made to look like one.  SLC is more "persistent" than MLC.  Nand is more "persistent" than Nor.  It is only a "marketing breakthrough" to attempt to combine these into one imaginary concept.  I suggest the two tables be separated.  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 22:18, 9 July 2014 (UTC)
+
+== sequel to SSD ==
+
+have heard news that there will be a sequel to SSD drives called "RRAM drives":
+
+https://en.wikipedia.org/wiki/Resistive_random-access_memory  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Traversable47w0rmh0le|Traversable47w0rmh0le]] ([[User talk:Traversable47w0rmh0le|talk]] • [[Special:Contributions/Traversable47w0rmh0le|contribs]]) 10:27, 27 December 2013 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:RRAM is one of a few technologies that may well replace [[NAND flash]] currently used in most SSDs, but an SSD-compatible product that uses RRAM will likely still be called an SSD.  If the ''external'' host interface changes it might get re-termed Solid State Storage (SSS) or something, but not due to the internal memory technology.  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 23:04, 9 July 2014 (UTC)
+
+:: Well, there's already a newer external host interface, [[SATA Express]] (and associated [[NVM Express]]), and SSDs haven't changed their name.  But, who knows. :) &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 05:35, 10 July 2014 (UTC)
+
+== Understanding the Robustness of SSDs under Power Fault ==
+
+I see mention of reliability issues - but no mention of the largest study on the matter! See: https://www.usenix.org/conference/fast13/understanding-robustness-ssds-under-power-fault [[User:Test35965|Test35965]] ([[User talk:Test35965|talk]]) 22:21, 8 July 2013 (UTC)
+
+: Well, the PDF of this study is within the {{Section link|Solid-state drive|External links}} section, it was {{Diff|Solid-state drive|616051245|616050940|added}} there on July 8, 2014. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 05:45, 10 July 2014 (UTC)
+
+== Dubious ==
+
+From the comparison table: "HDDs generally have slightly lower write speeds than their read speeds." Well, the bits pass the R/W head in exact same speed during reading and writing, which makes me suggest that the read and write speed must be always the same. Objections? [[Special:Contributions/80.223.182.224|80.223.182.224]] ([[User talk:80.223.182.224|talk]]) 16:42, 22 May 2014 (UTC)
+
+:As there was no objections, I modified the text. [[Special:Contributions/80.223.182.224|80.223.182.224]] ([[User talk:80.223.182.224|talk]]) 17:17, 30 May 2014 (UTC)
+
+:: It isn't dubious. If you look at the detailed specs for hard drives (for example [http://www.seagate.com/staticfiles/docs/pdf/datasheet/disc/desktop-hdd-data-sheet-ds1770-1-1212us.pdf here]) you will often find a slightly longer (slower) average seek time listed for writes vs. reads. It's not the actual data transfer, it's the time the drive has to spend to get ready for the transfer. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 21:07, 30 May 2014 (UTC)
+
+::: HDD writes have stricter tracking requirements (seek-settle) than reads; reading a little off-track is harmless, but writing off-track can corrupt adjacent data.  This means writes must sometimes wait an extra rev to get fully on track, thus overall writes are slightly slower than reads.  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 22:11, 9 July 2014 (UTC)
+
+:::: {{u|A D Monroe III}}, any chances for a reference, please? &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 05:31, 10 July 2014 (UTC)
+
+:::::HDD companies don't like to publish such inner-working details as to ''why'', but the seek time specs they do publish (such as {{u|Jeh}}'s link above) show write seek times about 1ms longer than read seek times.  Since the original comparison text didn't give a "why", these data sheets specs should be fine as a reference. --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 14:54, 10 July 2014 (UTC)
+
+:::::: You're right, but in fact I was hoping for a "why" reference. :) &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 20:35, 10 July 2014 (UTC)
+
+== Proposal to merge "Disk on module" with "Solid-state drive" ==
+
+{{Discussion top|1=The result of this discussion was to merge [[User:Ultimatemythbuster|Ultimatemythbuster]] ([[User talk:Ultimatemythbuster|talk]]) 01:03, 21 July 2014 (UTC)}}
+I would like to propose that the article [[Disk on module]] be merged with this article.  The former is a stub article and might benefit from being merged into a new section on the SSD page.[[User:Ultimatemythbuster|Ultimatemythbuster]] ([[User talk:Ultimatemythbuster|talk]]) 12:37, 11 July 2014 (UTC)
+
+* '''Support:''' Makes sense to me. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 21:23, 14 July 2014 (UTC)
+{{Discussion bottom}}
+
+== Is SSD = Solid State Disk a mistake? ==
+
+There's been a minor edit skirmish (not up to war levels) on the "correct" definition of the acronym for SSD – Solid State Drive or Solid State Disk.  I think we agree most sources say Drive, but can we state that saying Disk is "mistaken"?  SSDs have neither disks nor drives; I think both are equally "wrong".  We'd need more than our own opinions to declare one as a mistake; we'd need a source, and I don't think any respected source could claim either is right or wrong; at most one might be "preferred".  So, I've removed any right/wrong indication, and added this per [[WP:BRD]].  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 20:20, 18 August 2014 (UTC)
+
+:Anon's addition is grammatically incorrect and redundant, since the same parenthetical text already points out that they contain no actual disk. The introductory sentence should keep things simple. Save the nitpicking for later once the basics have been established. --[[User:Imroy|Imroy]] ([[User talk:Imroy|talk]]) 20:38, 18 August 2014 (UTC)
+
+Could you please explain why SSDs are not drives?! Its the same as in HDD = hard disk drive. You wouldn't say hard disk disk, would you?  Look at: http://en.wiktionary.org/wiki/drive#Noun  "(computing) A mass storage device in which the mechanism for reading and writing data is integrated with the mechanism for storing data, as a hard drive, a flash drive.". So as you can see Drive is correct. And Disk is wrong, obviously.
+
+:First, Anon IP, just to answer your question, HDDs have a "drive" -- the spindle motor; SSDs do not.  So, yeah, SSDs aren't "disks", but they also aren't "drives", technically.
+
+:But that really doesn't matter.  Some people call SSDs "disks"; that's just a fact.  Maybe they "shouldn't", but stating that here won't change that.  Even if it ''could'' change people's minds, we Wikipedia editors aren't allowed to even attempt to do that.  Wikipedia ''collects'', not ''corrects'' information.  See Wikipedia's core sourcing policy [[WP:Verifiability, not truth]].  If you can find a [[WP:RS|reliable source]] that states "disk" is "wrong", ''then'' we can state that; in fact, ''must'' state that.  Without such a source, we ''must'' just inform readers of the existing situation, however much we might like to wish it were otherwise.  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 15:12, 20 August 2014 (UTC)
+
+Why do you say "they also aren't "drives""??? Have you read what I wrote?!  Look at: http://en.wiktionary.org/wiki/drive#Noun  "(computing) A mass storage device in which the mechanism for reading and writing data is integrated with the mechanism for storing data, as a hard drive, a flash drive." So there you have the prove that Drive is correct and no one says Disk is correct. Why don't you change it?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/134.93.55.218|134.93.55.218]] ([[User talk:134.93.55.218|talk]]) 16:29, 20 August 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:Anon, I did indeed read your source.  It definitely implies that an SSD can be called a drive.  It does ''not'' say it cannot be called anything else.  (And it's a tertiary source; Wikipedia relies on [[WP:secondary source]]s.)
+
+:Wikipedia policy forbids the change you suggest.  Wikipedia editors cannot [[WP:NPOV|pass judgment]] on the correctness of commonly-held information, only report it.  (For example, the [[Holy Roman Empire]] was not holy, was not Roman, and was not an empire, but that's what everyone calls it, so we call it that too.)
+
+:There is no source given that actually states "Solid State Disk" is "wrong", so we can't say it is.  
+
+:Note that even though we state SSD is sometimes called "Solid State Disk", as we must, we currently quickly follow this with "though it contains no actual disk".  That's as far as we can go.  Please let us preserve this existing compromise.  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 15:49, 21 August 2014 (UTC)
+
+== ...and lower power ==
+
+I suggest adding something about SSD being lower power than spinning drives, in the excellent phrase:
+
+Compared with electromechanical disks, SSDs are typically more resistant to physical shock, run silently, have lower access time, and less latency.[7]
+
+Suggested change: add "require less power"
+
+Compared with electromechanical disks, SSDs are typically more resistant to physical shock, run silently, require less power, have lower access time, and less latency.[7]
+
+Also, since there is an SLC vs MLC table, and now TLC is out, TLC should at least be introduced, perhaps with a reference to:
+[[Multi-level_cell]]
+
+which has been updated to TLC.
+
+[[User:WardXmodem|WardXmodem]] ([[User talk:WardXmodem|talk]]) 23:15, 18 September 2014 (UTC)
+
+: Hello!  Hm, when compared to HDDs, not all SSDs require less power to operate.  Just have a look at those power-hungry SSDs in form of PCI Express expansion cards{{snd}} some older models needed additional power on top of what PCI Express provides, and even required active cooling. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 10:47, 22 September 2014 (UTC)
+
+==[[eMMC]] vs SSDs==
+[http://www.howtogeek.com/196541/emmc-vs.-ssd-not-all-solid-state-storage-is-equal/ This HowToGeek article] says that eMMC is different from SSD, I am a bit confused and was wondering if both this and the other article could explain the distinction.
+
+The SSD article is in the [[:Category:Solid-state_computer_storage]] while the MCC article is in [[:Category:Solid-state_computer_storage_media]], so my best guess is that SSD is the hardware while MCCs (cards) are software? But "card" sounds more like hardware to me... why would a card be called a media? --[[Special:Contributions/64.228.88.135|64.228.88.135]] ([[User talk:64.228.88.135|talk]]) 23:18, 30 November 2014 (UTC)
+:I'm unable to find the Wikipedia article for eMCC as your wikilink was a disambiguation page. Can you provide a link please? --[[User:ChamithN|<span style="font-family:Segoe print; color:#CC4E5C; text-shadow:gray 0.2em 0.2em 0.4em;">Chamith</span>]] [[User talk:ChamithN|<span style="color:#228B22">''(talk)''</span>]] 00:00, 1 December 2014 (UTC)
+
+::Sorry, wrong consonant-doubling, I screwed up and wrote EMCC by mistake, fixed link to [[eMMC]], embedded-multimedia, C is either card or controller, or possibly both. Right now [[solid-state storage]] redirects to this article but perhaps that is wrong and I am misled by that? Is there any kind of SSS besides drives? For example would a [[MultiMediaCard]] be described as a "solid state card" with cards being smaller/slower than drives? --[[Special:Contributions/64.228.88.135|64.228.88.135]] ([[User talk:64.228.88.135|talk]]) 00:22, 1 December 2014 (UTC)
+:::No, [[solid-state storage]] doesn't redirect to [[eMMC]]. Those are two different articles about two different storage medias. And you asked whether why [[eMMC]] falls into [[:Category:Solid-state_computer_storage_media]]. Actually the word ''media'' doesn't mean software, it stands for a particular form of storage material for computer files, for example magnetic tape or discs. In other words it's a physical media. eMMCs are memory cards and it is also known/used as non-traditional SSDs. You can describe it as a "solid state card" if you like because it is a solid state storage media. Like hard drives SSD technology has improved a lot. You can consider [[eMMC]] as a basic step/version of SSDs available now.--[[User:ChamithN|<span style="font-family:Segoe print; color:#CC4E5C; text-shadow:gray 0.2em 0.2em 0.4em;">Chamith</span>]] [[User talk:ChamithN|<span style="color:#228B22">''(talk)''</span>]] 00:36, 1 December 2014 (UTC)
+
+Thank you for the answer, beginning to clear up a bit. Based on MMCs being solid-stage storage but NOT a solid-state drive, I am going to change the [[solid-state storage]] redirect to this article into a disambig and use this SSC term. I also need to amend that edit based on misunderstanding to the MMC intro. --[[Special:Contributions/64.228.88.135|64.228.88.135]] ([[User talk:64.228.88.135|talk]]) 01:13, 1 December 2014 (UTC)
+
+== Sales section (More information suggested) ==
+
+Hi,
+can u please give us any information about the percentage of how many notebooks and desktop systems have those SSDs integrated? And how many computers will have them in future?
+--Martin  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:47w0rmh0le|47w0rmh0le]] ([[User talk:47w0rmh0le|talk]] • [[Special:Contributions/47w0rmh0le|contribs]]) 17:26, 22 December 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== SSD automatically fragments everything to avoid hot spots? ==
+
+{{user|Pink love 1998}} added this to the SSD/HD comparison table, in the row about fragmentation:
+
+ The critical purpose of the SSD algorithm is to distribute the data to various 
+ locations to prevent heat build up on a particular spot, so SSD's are typically 
+ always fragmented.
+
+with edit comment:
+
+ Added info, please don't delete I don't know how to insert references and
+ advise you to read about SSD's
+
+Inserting references is only barely more complicated than just typing the reference info in prose. Just add <nowiki><ref> (your reference) </ref></nowiki> following your text. If you want to be precise about location, the ref goes before any immediately following space, but after any immediately following punctuation.(like here) Others will improve the formatting by using a cite template. Eventually you'll pick up on that. 
+
+Or, you could add a section to the talk page here, giving your refs. Someone else will pick them up and put them in the article. 
+
+However, even if referenced, this claim raises an issue, and this is the real reason I deleted it. When most people speak of "fragmentation" on a hard drive, we're talking about the fact that large (and sometimes small) files do not occupy contiguous ranges of LBAs. This fragmentation is visible to a file system from the outside of the drive, can be corrected by defragmenters, etc. This has well-known impact on HD performance. It even impacts SSDs, although minimally: to access a part of the file that crosses an extent boundary, two different I/O requests must be issued by the FSD and implemented by the disk driver and other drivers in the stack. 
+
+The... call it ''distribution'' of content from sequential LBAs to different areas of the chips in an SSD is different. It is not visible to e.g. file system drivers, and a defragmentation run would not "fix" it. To the host speaking to the drive through its SATA connector, a file that occupies sequential LBAs still appears to be contiguous even though those LBAs might not be physically contiguous on the chips. 
+
+There is no analog to this in a normal hard drive, other than the occasional "sparing" of bad sectors. 
+
+If this point can be referenced to a [[WP:RS]], it certainly belongs in the article. But I don't think it belongs in the table row that discusses file system fragmentation, certainly not as the first sentence in the entry for SSDs. That table row is just not talking about this sort of thing. Wherever it goes, it needs to be described so as to distinguish it from the non-contiguous-LBA sort of fragmentation. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 21:04, 13 January 2015 (UTC)
+
+: Yes, isn't heat the reasonable cause for the fragmentation. The SSD keep track of the next memory location using a link pointer. With the argument of latency (very low latency consider it as RAM in RAM the access speed of all locations is the same)  it doesn't matter where the data is stored and because of the higher latency compared to that of HDD, defragmentation is needed because it takes longer to access data from random location(it's funny do you know that ssd uses DDR2 ram technology) .  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Pink love 1998|Pink love 1998]] ([[User talk:Pink love 1998|talk]] • [[Special:Contributions/Pink love 1998|contribs]]) 22:28, 13 January 2015 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:: Hello!  As Jeh already explained it very well, fragmentation pretty much doesn't exist in the context of SSDs.  Pink love 1998, your post seems highly confused, as I simply don't understand what heat, link pointers, and DDR2-related technology you refer to?  Again, defragmenting an SSD can't do anything but shorten its life by wearing out underlying flash memory. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 00:12, 14 January 2015 (UTC)
+
+::: Oh, fragmentation still exists. It just doesn't matter (except only just barely due to increased numbers of I/O requests to the drive).
+::: No, SSDs don't use DDR2 technology. DDR means "dual data rate", which describes the bus the DIMMs plug into, not the memory cell structure. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 02:00, 14 January 2015 (UTC)
+
+:::: Right, thanks for the correction.  I didn't express myself clearly enough, it should've been something like "fragmentation pretty much doesn't matter in the context of SSDs, compared to the way it affects the operation of HDDs".  At the same time, SSDs might use DDR2 memory for their buffers or storage of in-memory metadata structures, but that has nothing to do with the fragmentation of stored data. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 02:33, 14 January 2015 (UTC)
+
+== Over provisioning ==
+
+A section on over provisioning would be useful imo. Its a popular issue is discussed alot. [[User:Chendy|Chendy]] ([[User talk:Chendy|talk]]) 14:30, 12 February 2015 (UTC)
+
+[http://www.samsung.com/global/business/semiconductor/minisite/SSD/global/html/whitepaper/whitepaper05.html Maximize SSD Lifetime and Performance With Over-Provisioning]
+
+: Hello!  Over-provisioning is already mentioned a few times in the article, linking the term to the [[Flash over-provisioning]] article (better said, a redirect), which provides a rather good description.  Repeating that in greater detail might be pretty much redundant, if you agree. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 03:12, 17 February 2015 (UTC)
+
+== Amdahl's law ==
+
+"In applications where hard disk seeks are the limiting factor, this results in faster boot and application launch times (see [[Amdahl's law]]).[105]" I know the law and that SSDs are better under parallel I/O load, but is the law applicable here? Is it immediately obvious to people why or is this [[WP:OR]]? Note, I didn't find the law in the ref (the first page, there are 17..). [[User:Comp.arch|comp.arch]] ([[User talk:Comp.arch|talk]]) 13:09, 27 February 2015 (UTC)
+
+: Hello!  Well, Amdahl's law is "used to find the maximum expected improvement to an overall system when only part of the system is improved".  SSDs are obviously only one part of a computer system, but I'd remove the "(see [[Amdahl's law]])" wording anyway. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;|&nbsp;[[Special:Contributions/Dsimic|contribs]]) 12:19, 2 March 2015 (UTC)
+
+== conventional hard drives  ==
+
+Congratulations, now most web pages and government documentation refer to  Conventional Hard Drives   (instead of Magnetic Hard Drives, etc ).
+Is it possible to state that Conventional means the majority of the mechanical/magnetic hard drives at the time of writing?
+
+10 years time, conventional may mean a completely new type of Hard Drive.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/164.39.36.212|164.39.36.212]] ([[User talk:164.39.36.212|talk]]) 14:56, 29 October 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Solid-state drive]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=700339332 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20120203173241/http://blog.2ndquadrant.com:80/en/2011/04/intel-ssd-now-off-the-sherr-sh.html to http://blog.2ndquadrant.com/en/2011/04/intel-ssd-now-off-the-sherr-sh.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner]]:Online</sub></small> 22:38, 17 January 2016 (UTC)
+
+: {{Done}}, looks good. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;&#124;&nbsp;[[Special:Contributions/Dsimic|contribs]]) 08:02, 18 January 2016 (UTC)
+
+== Contentious ==
+
+This page is very contentious. Could it be made to read less as a defense of HDD and more informative. That'd be great.[[Special:Contributions/2602:304:B0D8:6220:C5B4:6BAA:AC2F:43B7|2602:304:B0D8:6220:C5B4:6BAA:AC2F:43B7]] ([[User talk:2602:304:B0D8:6220:C5B4:6BAA:AC2F:43B7|talk]]) 19:59, 28 May 2016 (UTC)
+
+:Contentious?  The article states SSDs are way faster, but way more expensive than HDDs.  Can you give examples of what needs improving?  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 21:02, 15 June 2016 (UTC)
+
+: Concur. Please give specific examples of where you think it reads "as a defense of HDD". [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 15:54, 17 June 2016 (UTC)
+
+== Hard drives and altitude ==
+
+[[Solid-state_drive#cite_ref-IHDDF_130-0|This portion]] needs a substantial adjustment.  As the cited source notes, ''many'' hard drives have an altitude limit of 12000 meters above sea level, '''but''' drives designed for high-altitude operation are readily available from manufacturers.  This is also becoming less true, helium-filled hard drives are taking over for large capacity hard drives and if they're impervious to helium, high-altitudes are unlikely to be an issue.  The mention of the breather hole should be merged with this. [[Special:Contributions/207.172.210.101|207.172.210.101]] ([[User talk:207.172.210.101|talk]]) 01:30, 24 June 2016 (UTC)
+
+: As always, we'd need references that helium-filled drives can also work properly on high altitudes. &mdash;&nbsp;[[User:Dsimic|Dsimic]]&nbsp;([[User talk:Dsimic#nobold|talk]]&nbsp;&#124;&nbsp;[[Special:Contributions/Dsimic|contribs]]) 13:57, 24 June 2016 (UTC)

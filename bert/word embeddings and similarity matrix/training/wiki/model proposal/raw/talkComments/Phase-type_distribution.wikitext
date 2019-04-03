@@ -1,0 +1,26 @@
+{{maths rating
+|frequentlyviewed=
+|field=probability and statistics
+|importance=low
+|class=C
+|vital=
+|historical=
+}}
+{{WPStatistics|importance=mid|class=C}}
+
+
+[http://en.wikipedia.org/w/index.php?title=Phase-type_distribution&oldid=76847436 This] [[Phase-type distribution]] article is in serious need of  revision, or perhaps even reversion, or both! It currently sounds like it has being copied from a text book or an original work. Earlier versions are somewhat more readable. Perhaps it has been over-constructed. -- [[User:Cameron Dewe|Cameron Dewe]] 10:05, 7 October 2006 (UTC)
+
+There is a mention of 'hyperexponential distribution' that should probably read 'hypoexponential distribution' in 3.1.2.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/134.221.191.89|134.221.191.89]] ([[User talk:134.221.191.89|talk]]) 13:27, 15 October 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Limit vs special case ==
+
+Is the "constant" distribution really a special case?  If so, the definition needs to be changed.  The limiting distribution requires an infinite-dimensional matrix (<math>m=\infty</math>), but then the absorbing state can't be state <math>\infty+1</math>.  It should be state 1.
+
+It would be much easier to say that the constant distribution is ''not'' phase-type.  (Note that ''all'' distributions are the limit of phase type distributions, and so this might server as a useful '''conter-example''', rather than an example. [[User:LachlanA|LachlanA]] ([[User talk:LachlanA|talk]]) 03:45, 17 November 2008 (UTC)
+:Easy fix. [[Special:Contributions/129.127.252.4|129.127.252.4]] ([[User talk:129.127.252.4|talk]]) 07:49, 20 September 2011 (UTC)
+
+== Things to check ==
+
+In the box the formula stated for the variance seems to be instead the formula for the mean square.
+Also much of the article aims to address the case where <math>\alpha_{m+1}</math> is not necessarily zero, but in that case surely the p.d.f. needs to have <math>\alpha_{m+1}\delta(x)</math> adding to it, both in the box and in the main text.[[User:Fathead99|Fathead99]] ([[User talk:Fathead99|talk]]) 12:47, 11 November 2009 (UTC)

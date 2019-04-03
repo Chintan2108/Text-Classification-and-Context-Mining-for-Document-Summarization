@@ -1,0 +1,41 @@
+{{WikiProject Electronics |class=Start}}
+{{Electrical diagram requested}}
+
+==PAL v PLA ==
+I think that this page is confusing [[Programmable Array Logic]] with [[Programmable Logic Array]]
+[[User:FrankFlanagan|FrankFlanagan]] ([[User talk:FrankFlanagan|talk]]) 13:51, 30 April 2011 (UTC)
+
+: You may be right.
+: What can we do to make this less confused?
+: I see that Dieter Mueller hand-built a few boards out of discrete transistors that are more like a PLA than a PAL[http://www.6502.org/users/dieter/mt15b/mt15b_1.htm][http://www.6502.org/users/dieter/mt15/mt15.htm].
+: I only hesitate to tear out all mention of PAL in this article, and replace it with PLA, because I suspect that replacing "PAL chips" with "either PLA chips or PAL chips" would be more correct.
+: In particular, the "[[Programmable Array Logic]]" and "[[programmable logic array]]" articles imply that some minicomputers used one or more "PAL chips" in the CPU, while other minicomputers used one or more "PLA chips" in the CPU.
+: --[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 17:13, 4 July 2011 (UTC)
+::The microprogrammed machines that I was involved in designing [[Mentec PDP-11#M11]] and [[Mentec PDP-11#M1]]used SRAM for control store. I am aware of PLAs being used see for instance: http://www.computerhistory.org/collections/accession/102660026, [[Microcode]] and in part for the J11 http://simh.trailing-edge.com/semi/j11.html.<br>Equally I have used PAL's as part of CPU implementations, but for small pieces of fast combinatorial logic, registers and simple fast state machines.<br> My not being aware of PALs being used to implement microcode storage is more likely to be evidence of gaps in my knowledge than anything else, but as the architecture of PALs is not really that close to a diode matrix, I think that PAL could usefully be replaced with PLA. My 2 cents only. [[User:FrankFlanagan|FrankFlanagan]] ([[User talk:FrankFlanagan|talk]]) 21:24, 4 July 2011 (UTC)
+
+::: Thank you for the reference links. I inserted all of them into the [[microcode]] article, where they seemed most appropriate.
+::: After reading the book [[The Soul of a New Machine]], and more recently the [[Programmable Array Logic]] article, both of which point out that the Eagle ([[Data General Eclipse MV/8000]]) used lots of one-time-programmable PAL chips, somehow I leaped to the incorrect conclusion that the Eagle stored all its microcode in one or more of those PAL chips. The [[microcode#Writable control stores]] article now specifically points out that the Eagle stores all its microcode in SRAM chips, like the machines you were involved in designing.
+::: I thought I knew of a microprocessor that had a section of its control unit arranged much like a PAL. But I recently learned it's not exactly a mask-programmed PAL or PLA or ROM, but yet another mask-programmed member of that family -- see [[talk:programmable logic device#another type of PLD]] for details.
+::: Is there a specific reason that the Mentec designers and the Eagle designers chose to put the control store in SRAM rather than PAL or PLA? (What's the best place to document the advantages, disadvantages, and tradeoffs of the various ways to implement a control store? The [[control store]] article? The [http://en.wikibooks.org/wiki/Microprocessor_Design/Microcode Microprocessor Design/Microcode] Wikibook?)
+::: Since I no longer know of any specific example of a CPU that uses a PAL as the control store, I've changed "PAL" to "PLA" in this article as you originally suggested.
+::: I hope that, if the control store of some CPU was stored in PALs, someone will eventually edit these Wikipedia articles to fill in the gaps in our knowledge. --[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 13:18, 10 July 2011 (UTC)
+::::A lot depended on what were the fastest components available at the date that a given processor was designed and whether mask programmed devices could be justified.
+
+::::With both the M11 and the M1 we were attempting to develop the fastest possible implementations of the PDP-11 architecture, the target market was relatively small, planned production of c. 1,000 for M11 and c. 500 for M1.
+
+::::As we were going for speed over everything else we also went for horizontal microcode, no decode was necessary and, to the extent possible every bit of microcode directly controlled hardware.
+
+::::As a side note we also used SRAM for instruction decode, feeding the 16 bit instruction into a 64K x 32 bit SRAM to generate up to three microcode addresses per instruction. In the case of a simple register to register instruction only one such address was used, while for a two operand memory to memory instruction three addresses would be used, one microcode routine for each operand and one for the instruction execution itself.
+
+::::The microcode and instruction decoder were all compressed to EPROM and loaded to SRAM at power up.
+
+::::The M11 was built using a collection of 32 bit bit-slice components from TI along with a large number of CPLDs. While we looked at a number of ways of storing microcode, the fastest components that we could get at that stage were SRAMs. 
+:::: The M1 was an ASIC reimplementation of the M11. It might have been possible to embed the microcode in ROM in the ASIC, but given the cost of an ASIC turn and the probability of needing to amend the microcode, we again went with SRAM storage, mostly on the basis that the microcode could be replaced.
+:::: [[User:FrankFlanagan|FrankFlanagan]] ([[User talk:FrankFlanagan|talk]]) 14:20, 10 July 2011 (UTC)
+
+::::: Thank you. That is fascinating. One SRAM for the instruction-to-microcode-address instruction decode, and a separate (wide, horizontal) SRAM for the microcode-address-to-hardware-control-signals control store -- I can see that gives it a lot of flexibility.
+::::: Of the two non-FPGA "control store in SRAM" CPUs that I've looked at closely, both require some other CPU to load the control store bits into the SRAM on power-up. That seems like it could all too easily lead to a [[turtles all the way down]] situation. :-).
+::::: Do you happen to know of any "control store in SRAM" CPUs that used a technique simpler than a whole second CPU to load the control store SRAM? (And the instruction decoder, if it is also SRAM)? Perhaps such a technique would be useful for loading the SRAM inside the FPGA of a [[soft microprocessor]].
+::::: If so, do you know how I could get a copy of such a design for students to learn from -- or have such things been lost to the sands of time? --[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 16:32, 4 August 2011 (UTC)
+::::::Unfortunately, I suspect that much of this stuff has been lost to the sands of time, but it would be quite a neat idea to do a mciroprogrammed machine based on a modern FPGA. It would reasonablly easy to implement functionality similar to say the TI 8818 and 8832 bit slice components in VHDL or Verilog and if you could get your hands on a copy the TI meta assembler was good but again would not be that difficult to implement from scratch. It would then be a relatively simple exercise to implement some of the simpler processors for instance a [[Motorola 6800]] that might make an interesting teaching platform. There is a tutorial on the TI meta assemblere at [http://users.ece.gatech.edu/~schimmel/cmpe4500/]].
+::::::Also, it is not that hard to get memory image files to integrate into, for instance, the Xilinx flow, at a late stage in the process, to load your microcode. I did this at one point in the past in an XML accelerator but for some reason I can't recollect how we did this.[[User:FrankFlanagan|FrankFlanagan]] ([[User talk:FrankFlanagan|talk]]) 11:18, 6 August 2011 (UTC)

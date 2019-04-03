@@ -1,0 +1,42 @@
+{{talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Chicago|class=start|importance=mid}}
+{{WikiProject Companies|class=start|importance=mid}}
+{{WikiProject Telecommunications|class=start|Bell System=yes|importance=mid|category=}}
+}}
+
+==Western Electric In Business==
+Western Electric, or a company that purchased all trademarks, is in business at www.westernelectric.com making audiophile vacuum tubes.  Please update the article to show that this company is not truly dead.  [[Special:Contributions/67.189.246.211|67.189.246.211]] ([[User talk:67.189.246.211|talk]]) 15:13, 25 April 2008 (UTC)
+:Link has long been present, thank you.  [[User:Jim.henderson|Jim.henderson]] ([[User talk:Jim.henderson|talk]]) 06:27, 1 May 2008 (UTC)
+
+==Template==
+
+I've started a template for the phone articles: [[Template:Western Electric telephones]]. Please help improve it. [[User:ProhibitOnions|ProhibitOnions]] 11:14, 20 February 2006 (UTC)
+
+== Addition to History Section of this article ==
+
+I was reading a book entitled ''Management of Inspection and Quality Control'', by J. M. Juran.  (New York: Harper & Brothers Publishers, 1945).  The title page cites Mr. Juran as "Formerly Chief of Inspection Control Division, Western Electric Company, Inc."  I would add that to the article on Western Electric (as Juran is very famous among Quality Assurance professionals), except that I have no information as to when he was with Western Electric.  He dedicates the book "To my former associates, the men and women of the Bell System, who have collectively met and overcome a most intricate problem in Quality Control, this book is affectionately dedicated."  If this claim is independently verified, it would be a positive addition to the article.  [[Special:Contributions/66.117.203.158|66.117.203.158]] ([[User talk:66.117.203.158|talk]]) 18:55, 4 May 2009 (UTC)
+:Is this [[Joseph M. Juran]]?
+
+==confusion "that succeeded it"==
+Several film-formats are given by name, then have "that succeeded it".  This is unclear - did Westrex optical succeed Vitaphone.  Should be clarified. skb  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Skb999|Skb999]] ([[User talk:Skb999|talk]] • [[Special:Contributions/Skb999|contribs]]) 18:58, 30 March 2013 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+Actually, this part of the section needs work ''and'' references. Right above these bullet points, it is stated: "In 1929, Western Electric entered as a market competitor for early cinema sound systems". While the date is true for the Universal Base, it wasn't WE's first entry into the sound film market. Western Electric demonstrated their sound on disc system in 1925, Warner Brothers bought the rights, named it Vitaphone and introduced it to the public in 1926. It would have been nice if the author(s) had looked at related Wiki articles for dates and possible references.
+
+And please don't suggest that I edit this. I came here for info and references to add to another Wiki article ''I am'' editing and found this. Seems that at least some of the problems with this article have been neglected for some time.    [[User:Jonel469|Jonel469]] ([[User talk:Jonel469|talk]]) 20:29, 31 May 2017 (UTC)
+
+== Western Electric Hearing Aids ==
+
+There isn't (yet) any mention of Western Electric hearing aids.
+[[Special:Contributions/216.146.231.6|216.146.231.6]] ([[User talk:216.146.231.6|talk]]) 02:33, 9 April 2015 (UTC)Dave
+
+In the section "Employing a Nation" the Western Electric Buffalo (Tonawanda, NY) plant is not included.  The plant was established after WW2 and existed until approximately 1976 producing telephone wire and cables.  Upon closure, its operations were transferred, mainly, to the Omaha plant.
+
+Source: Personal recollection.  My father was employed there from 1955 until its closure.[[Special:Contributions/73.210.154.107|73.210.154.107]] ([[User talk:73.210.154.107|talk]]) 09:58, 17 September 2015 (UTC)
+
+== History ==
+
+"In 1856, George Shawk purchased an electrical engineering business in Cleveland, Ohio. On December 31, 1869, he became partners with Enos M. Barton and, later the same year, sold his share to inventor Elisha Gray."
+
+So apparently Mr.Shawk became partners with Mr.Barton then sold his share to E.Gray, ''on the same day'' ??? No reference for this. O'course.    [[User:Jonel469|Jonel469]] ([[User talk:Jonel469|talk]]) 20:03, 31 May 2017 (UTC)
+,

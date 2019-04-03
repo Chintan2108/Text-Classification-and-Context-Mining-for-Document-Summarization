@@ -1,0 +1,932 @@
+{{Vital article|level=4|topic=Mathematics|class=C}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Computing|class=C|importance=mid}}
+{{WikiProject Computer science|importance=high|class=C}}
+{{WikiProject Cognitive science|class=C|importance=High}}
+}}
+{{Archive box|
+[[Talk:Formal_language/Archive 1| Archive 1: through June 15, 2009]]
+[[Talk:Formal_language/Archive 2| Archive 2: June 16, 2009 through October 7, 2009]]
+}}
+
+
+== Infinite words ==
+
+In the "Words over an Alphabet" section, a "word" is defined to be a "finite sequence" or "string."  However, in other areas, it appears infinite sequences are permitted.  For example, the $\Sigma*$ set of all words contains countably infinite strings.  As well, the section on constructions talks of infinitely long words.  Does the "Words over an Alphabet" section need to be changed? [[Special:Contributions/199.46.196.230|199.46.196.230]] ([[User talk:199.46.196.230|talk]]) 22:29, 2 November 2015 (UTC)
+
+:This article consistently talks about finitely long words only, even in the ''Constructions'' section. However, there are usually infinitely many such words, so $\Sigma^*$ is an infinite set of finite-length words. The article is correct in this respect. - [[User:Jochen Burghardt|Jochen Burghardt]] ([[User talk:Jochen Burghardt|talk]]) 07:05, 3 November 2015 (UTC)
+
+== Failure in "Operations on languages"-chart ==
+
+According to
+
+http://en.wikipedia.org/wiki/Recursively_enumerable_language
+
+and
+
+http://en.wikipedia.org/wiki/Recursive_language
+
+RE-languages are not closed under set difference, recursive ones are. In the charts its the other way round....  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/79.205.161.224|79.205.161.224]] ([[User talk:79.205.161.224|talk]]) 17:11, 8 November 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:I want to fix this. Can you tell me where it is in the article? &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 14:17, 9 November 2009 (UTC)
+
+just fixed it myself, I wanted to be sure because I'm no native english speaking person...
+
+sections edit-url:
+
+http://en.wikipedia.org/w/index.php?title=Formal_language&action=edit&section=5  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/79.205.170.133|79.205.170.133]] ([[User talk:79.205.170.133|talk]]) 18:04, 9 November 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+: I thought you were talking about set difference, which I don't see in the article. I have to think for a while about string substitution; I don't see why there is a problem with either recursive or r.e. languages there, but I might ahve misread the definition of substitution. Could you explain briefly or give some counterexample to help me understand? &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 20:10, 9 November 2009 (UTC)
+
+well, maybe I got confused myself - I just hit the undo for now - its already pretty late over here...  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/62.158.217.129|62.158.217.129]] ([[User talk:62.158.217.129|talk]]) 22:14, 11 November 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Formal language vs. natural language ==
+
+What are the differences between the formal languages and the [[natural language]]s? It cannot be grammar solely, as many natural languages [[English grammar|such as English]] have their own defined grammar. --[[User:Abdull|Abdull]] ([[User talk:Abdull|talk]]) 15:17, 28 August 2010 (UTC)
+:They are really totally different things, only vaguely similar. A formal language only consists of strings over a fixed alphabet, and the meaning (if one even exists) is not part of the formal language itself. A natural language is more than a collection of strings. It's even more than a structured collection of strings (written language) plus a structured collection of phoneme strings (spoken language), in many, many variants (dialects), with various correspondences between them. The meaning is also part of the language. And in some sense it's less than a formal language because for many strings it's not entirely clear whether they are grammatical or not. Some examples of borderline cases w.r.t. to the English language: "Let's write a poëm." "Have you been in 北京市 recently?" "[[Ceci n'est pas une pipe|Ceci n'est pas un]] double-entendre." "Ye five-and-twenty year-olde archaism." Or take any sentence that consists entirely of standard English words and follows the rules of English grammar precisely – but consists of more words than there are atoms in the universe. For a formal language, for each of these strings it would have to be decided once and for all whether they are part of the language or not. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 15:35, 28 August 2010 (UTC)
+::I'll probably keep repeating this until I'm blue in the face: I disagree with your formulation.  A [[formal language]] is a language with a formal (i.e. mathematical) definition; a [[language (formal language theory)]] is what this article and your reply here are devoted to, but such a thing is usually just called a ''language'', not a ''formal language'', and it is a related, but clearly different notion in any case.  The two notions should be clearly separated because most of the discussion on this page arises from confusing the two; as far as I'm concerned, they should have their own separate articles (full of cross-references). [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 11:39, 30 August 2010 (UTC)
+:::I could make sense of your post by looking at your archived posts, but I am not sure your distinction is as important as you are making it. It happens all the time in mathematics that a certain type of structure is studied in a pure form, but also arises in applications, where it carries extra structure and extra meaning that is important for the application but not necessarily reflected by use of a different name. I can see some arguments for the POV that a ''language'' in the sense of formal language theory is the pure structure, while a ''formal language'', as it arises in other contexts, is the applied thing which is typically a language in the former sense plus extra structure of one kind or another. Under this POV formal languages would not have a precise mathematical definition (unless it is something like "language plus arbitrary extra structure"). But I have never seen any source that discusses both languages and formal languages and distinguishes them. Therefore it seems more natural to me to assume that "language" is an abbreviation for "formal language" which is generally used in formal language theory, in the same way that in some contexts "group" is an abbreviation for "algebraic group" or "topological group". [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 12:09, 30 August 2010 (UTC)
+::::I agree, except that it's the other way round: formal language theory is devoted solely to studying the possible ''form'' of language and how to describe it, which explains its extremely narrow definition of ''language'', excluding structure and excluding meaning, which are intrinsic properties of ''language'' in every other context of use of the term that I've ever seen.  If you haven't been subjected to formal language theory, this distinction is nearly impossible to grasp; if you have, it should be easier, except that computer scientists and mathematicians tend to confuse formal definitions of terms with everyday use of the same terms.  I believe this (lack of) distinction is what creates and recreates the confusing discussions on this talk page and the confounding of notions within the article itself. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 21:03, 30 August 2010 (UTC)
+:::::I always thought a formal language was a set of strings over a finite alphabet, and of course there are <math>2^{\aleph_0}</math> such sets, most of them undefinable in the sense of [[definable real number]].  Natural language is completely different, and as a concept it's more from biology or psychology than mathematics.  There's no way to pin down exactly what English is, not because it's mathematically undefinable, but because we each have our own [[idiolect]] that is constantly changing. [[Special:Contributions/67.119.3.248|67.119.3.248]] ([[User talk:67.119.3.248|talk]]) 17:17, 1 September 2010 (UTC)
+:I really think it depends on the context in which you encounter the term. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 23:46, 26 December 2010 (UTC)
+
+== Operations on other languages ==
+
+The table of operations on languages is helpful but limited to "classical" formal languages (REG, DCFL, CFL, CSL, R, RE). It would be nice to include other classes of languages as well:
+
+* [[Linear language]]s (LIN) which are between REG and CFL. There is also DLIN between REG and DCFL.  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:JakobVoss|JakobVoss]] ([[User talk:JakobVoss|talk]] • [[Special:Contributions/JakobVoss|contribs]]) 13:21, 19 April 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+* [[Visibly pushdown language]] (VPL) which are between REG and DCFL. Unlike DCFL they are closed under most operations. VPL are equivalent to so called [[nested word]]s and [[regular tree grammar]].
+* [[Tree-adjoining grammar]]s (TAG) which are between CFL and CSL. TAG and equivalent formalisms are often called [[mildly context-sensitive language]]s.
+* [[Growing context-sensitive language]]s (GCSL) which are between CFL and CSL and in P.  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:JakobVoss|JakobVoss]] ([[User talk:JakobVoss|talk]] • [[Special:Contributions/JakobVoss|contribs]]) 11:10, 19 April 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== The term 'formal system' should do ===
+I know I'm flogging [[Talk:Formal_language/Archive_2|an archived horse]], but the present text is still assuming logic as the context in places.
+In particular, I don't think the term 'formal system' is widely used outside that context and the term "well-formed formula" is specific to logic (although the concept applies elsewhere). [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 13:45, 19 December 2011 (UTC)
+
+== Form ==
+
+What does '''"form"''' exactly/literally mean as it appears in the expression of "formal language"?
+
+What is the difference between form and shape?
+
+In the very beginning of this article, these questions should be answered. And a link to Wiktionary is not enough.
+--[[Special:Contributions/98.196.232.128|98.196.232.128]] ([[User talk:98.196.232.128|talk]]) 22:39, 14 March 2012 (UTC)
+:"Form" may have many meanings unrelated to "shape", and "formal" does not usually mean anything close to "shapely". See [[Formalism (mathematics)]] for something closer to the meaning in context. —[[User:David Eppstein|David Eppstein]] ([[User talk:David Eppstein|talk]]) 23:20, 14 March 2012 (UTC)
+::I read that article and many othersrelated to it. Nop! I still don't understand. And it is still necessary at the beginning of (this) article.
+::By the way, I know shape and form are two different concepts. But the distinction is neccessary for the sake of the article. In many languages, "shape" and "form" are carried by same word.--[[Special:Contributions/98.196.232.128|98.196.232.128]] ([[User talk:98.196.232.128|talk]]) 01:07, 15 March 2012 (UTC)
+:::I don't see the point of explaining the etymology at the start of the article. We are [[WP:NOTDICT|not a dictionary]]. And in any case it is not necessary to understand "form" in order to understand "formal language" any more than it is necessary to understand "beg" in order to understand "beginning". It's just irrelevant. —[[User:David Eppstein|David Eppstein]] ([[User talk:David Eppstein|talk]]) 01:10, 15 March 2012 (UTC)
+:::I recently added an introduction to [[:nl:Formele taal|the Dutch pendant of this article]] (try [http://translate.google.com/translate?sl=nl&tl=en&js=n&u=http%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FFormele_taal Google Translate] if you don't read Dutch) to make the relationship between the different uses of the term ''formal language'' clearer, and I think doing the same thing here would help avoid a lot of the confusion we're seeing here.  What do you think? [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 14:49, 15 March 2012 (UTC)
+
+::::[[User:David Eppstein|Mr. David Eppstein]], if you ever read a few Wikipedia articles, you will notice that most of them has a section describing the meaning of the words appearing in the title (name of the phenomenon). If you ever read a few more articles, you will notice that even etymologies are given. So, the people you call as "we" -I think- are not Wikipedists.
+
+::::[[User:Rp|Rp]], thank you for Dutch Wiki article. It's very kind of you putting the link in Google Translate. I read Dutch article in English. It is far better than this English one. I started to understand. Thanks to you and Google translate.
+
+:::: One interesting expression was this: '''"a formal language is an artificial language whose shape and often the meaning exactly is recorded"'''. So, here comes "shape"!!! Who says shape is irrelevant? There is also an expression: '''"The formal language theory ... is dedicated to the study of mathematical formalisms for the form ( syntax ) of expressions in formal languages ​​to ..."'''. Therefore form is ''"the shape of a language which are also called syntax"''.
+
+:::: Therefore, we have a definition for "form" as it appears in "formal" of the "formal language." Since "formal" means "'''relating to the form of something'''", the menaing of the word "form" is essential for the validity and understandibility of this article.
+
+::::Finally, I suggest putting my definition of "form" in the beginning of the article. But English is not my first language. Therefore, a possible better definition might be even better.--[[Special:Contributions/98.196.232.128|98.196.232.128]] ([[User talk:98.196.232.128|talk]]) 02:21, 16 March 2012 (UTC)
+
+::::I'll try a real translation. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 09:04, 16 March 2012 (UTC)
+
+Well ... I haven't. The gist of it: ''formal language theory'' is the ''formal'' study of the ''form'' of language. Here, ''form'' is ''syntax'' and is used in opposition to ''meaning'' (''semantics''), which formal language theory is not concerned with. The study is formal in that it uses mathematical formalisms to describe the syntax of language. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 09:52, 3 July 2017 (UTC)
+==Untitled==
+I would have liked an exposition of the prefix theorem as well as definitioins of all the terms.Also some words on the grammars.
+
+I would particularly like clarification of this paragraph:
+
+''A typical language over that alphabet, containing that string, would be the set of all strings which contain the same number of symbols a and b.''
+
+Does this mean that exact string? Or, any string composed of the same number of positions with those positions filled by either a or b? So, would aaaaaa be a word?  Would aaa not be a word? Or, would only string comprised of 3 b's and 3 a's be words?
+
+It means the language which consists of words containing the same number of a's and b's. Or, strings comprised of n a's and n b's, for some natural number n, are in that language.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/130.232.111.135|130.232.111.135]] ([[User talk:130.232.111.135|talk]]) 09:15, 31 August 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==Improper Phrases and Words==
+
+The term "stilted" is a subjective and derogatory word.  It has been removed
+
+
+
+==Technical attention flag==
+
+It would help a lot if this article gave an example of some formal languages.  It's also important to explain whether or not natural languages are included in the scientific definition of "formal language".
+
+I was hoping to find some technical references (papers/books) but found none...
+
+== I'd Like More References ==
+
+In many other articles in Wikipedia, there are external links, which are linking to useful websites or pages. I hope there will be some useful links in this item, too.
+
+== Where are the practical examples? ==
+
+Exemple: the power of two [[macro]] languages (a very practical exemple) may differ... The [[C preprocessor]] is not a "Recursively enumerable" language, the [[M4 (computer language)|M4]] is.
+
+== Lead section deterioration ==
+
+The lead section of this article is starting to deteriorate (at least in terms of aesthetic appearance). Anyone care to chime in before remedial counter-measures are taken? [[User:Dreftymac|dr.ef.tymac]] 14:24, 30 January 2007 (UTC)
+
+== "Formal language" ==
+
+While the term "formal language" is very useful, I don't think I've ever encountered its use as a technical term, neither within the vocabulary of formal language theory (which always uses just "language", as far as I'm aware) or outside of that field.  So this article may be "guilty" of inventing a new term.
+
+Another big problem with the article as it stood was the lack of distinction between formal languages in general, and the specific field of formal language theory, which studies only certain aspects of languages, and doesn't limit itself to formal languages (!)  I have remedied this with an introductory paragraph.  I feel the content of the present article would be better moved to a separate "Formal language theory" article.  The present article could then be replaced by general discussion of formal languages as they are used in mathematics and other fields.  That discussion would of course include languages used in all kinds of branches of mathematics, and many languages used in other fields; it could also include graphical languages, and not-so-very-formal languages; and it would definitely include the description of semantics.[[User:Rp|Rp]] 10:33, 25 July 2007 (UTC)
+
+:The bare minimum of a "formal language" is [[FS (logic)]]. It is a "technical" term in logic although formal system is synonymous. [[User:Gregbard|Gregbard]] 11:40, 25 July 2007 (UTC)
+
+:: OK good, I am not so familiar with logic, only with formal language theory. [[User:Rp|Rp]] 12:38, 25 July 2007 (UTC)
+
+== Rick Norwood's leading example (Aug 2007) ==
+
+Rick Norwood added a useful example to the start of this article that I feel is very useful but in the form originally published it was also confusing.  He defined syntax rules for simple numerical equations, then went on to state that formal languages are defined with ''formation rules'' that define the well-formed expressions and ''transformation rules'' that define equivalence between them.  This is indeed a very common practice but not nearly universal and certainly outside the scope of this article, which at least for now is devoted to the formal language theory perspective on languages, and there is no notion of equivalence between strings in formal language theory since it deals with syntax only.
+
+So I have kept and improved the syntax definition rules of the example, but removed the section on the transformation rules.  I do feel it would be important to discuss this matter further and I'm not sure where to do it.  [[User:Rp|Rp]] 13:04, 22 August 2007 (UTC)
+
+: A formal language is not necessarily defined by a finite set of formation rules. Since a formal language is defined merely as set of strings over some finite alphabet, there are formal languages which are not [[recursively enumerable]], even outside the [[analytical hierarchy]]. But every language defined by a finite set of formation rules is recursively enumerable, at least by the [[Church-Turing Thesis]]. If you give a rigorous definition of the term "formation rule", one can also give a rigorous proof that this is indeed the case (unless the Church-Turing Thesis is false). Another way to see the difference is by the fact that there are countably many recursively enumerable languages, but uncountably many formal languages. [[User:Hermel|Hermel]] 22 August 2007  <small>—The preceding {{#ifeq:{{{Date|{{{Time|14:33, August 22, 2007}}}}}} | | comment was }} [[Wikipedia:Signatures|signed but undated]]{{#ifeq:{{{Date|{{{Time|14:33, August 22, 2007}}}}}} | | | &#32;comment was added at {{{Date|{{{Time|14:33, August 22, 2007}}}}}} (UTC{{{Zone|{{{3|{{{2|}}}}}}}}}) }}.</small><!-- {{undated}} --> <!--Autosigned by SineBot-->
+
+::I feel the real problem here is that there are (at least) two notions of ''formal language'' in mathematics and computing science:
+::* the informal, widely known, broad notion of 'a language with a formally defined syntax and meaning'
+::* the formal, much narrower (syntax-only) notion of 'a set of finite sequences of elements from a finite set of symbols', only known to people familiar with formal language theory
+::I have attempted to make the distinction clear in the text of this article but it is not yet clear enough.  Perhaps the article should be split in two.  [[User:Rp|Rp]] 12:02, 27 August 2007 (UTC)
+:I disagree with the current status of the introduction. A formal language in itself has no semantics, it's entirely syntactic: A formal language 
+:is nothing but a set of strings over a finite alphabet. The only distinction a formal language draws is between strings in L and strings not in L.
+:This is the mathematical viewpoint of formal language theory, the theory dedicated to the objects of this article.
+:If you carefully read works in CS theory and logic using this term, you will mostly see a proper distinction between the definition of syntax 
+:(this is the formal language that is worked with), and the definition of the meaning assigned to each string (semantics).
+:So, please, refrain from splitting the article; The split goes between syntax and semantics, and a formal language is just about syntax.
+:Semantics is not an integral part of a formal language itself, but can be *assigned* to it. In particular, we often assign different 
+:semantics (usually non-/standard semantics) to one and the same formal language.
+: 
+:Of course, the most useful classes of languages admit some finite representation, 
+:although the languages themselves may contain infinitely many strings. Such a representation can be given in 
+:terms of a finite set of formation rules, e.g. a context free grammar.
+:Notwithstanding a formal language being an entirely syntactic notion, usually, when working with a formal language, we assign some semantics 
+:to its members, just as human readers will assign a meaning to this text (for a machine processing this, this text might be just a member of 
+:some formal language, without any meaning assigned to it).
+:Referring to the notion as set of well-formed formulas restricts the notion of "formal language" to its use in logic. For example, 
+:a compuational linguist would not say that the members of a language are wffs.[[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 21:13, 14 February 2008 (UTC)
+
+::The problem is that we're tryingto cover two different notions in the same article.  The term "formal language"   is quite broad, but generally applies to language with a formal character or with formal specifications.  Such languages have both syntax and semantics (and if they didn't, they wouldn't be languages).  However, most of the article is devoted to the notion of language as studied in formal language theory, and this notion is syntax-only, because formal language theory devotes itself to syntax.   Perhaps it's better to split the article in two! [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 09:35, 15 February 2008 (UTC)
+
+==Lambda or epsilon?==
+[[Special:Contributions/169.231.46.33 | 169.231.46.33]] has been changing quite a few references for the [[empty string]] from epsilon (ε) to lambda. I'm almost certain that the convention is and always has been ε, but I'll hold back reverting the changes if someone can prove otherwise.
+:[[User:Charlie.liban|charlie liban]] ([[User talk:Charlie.liban|talk]]) 05:47, 23 March 2008 (UTC)
+
+Using the letter lambda to denote the empty word is a tradition originating from German-speaking researchers in the early years of formal language theory: In German, "empty word" is "leeres Wort". This symbol also found widespread use in English papers. Later many English speaking researchers have switched to the usage of "epsilon", which is simply a more sticky symbol for English speakers.  Nevertheless, having read a few recent papers in 
+the field, I can confirm that also many researchers still use the "good-old-fashioned" symbol lambda today, see e.g. this recent survey:
+M. Kutrib: The phenomenon of non-recursive trade-offs, Int. J. Found. Comp. Sci., 2004 [http://dx.doi.org/10.1142/S0129054105003406]
+Or, see also the following encyclopedia article: [http://planetmath.org/encyclopedia/Occurrence.html]
+Comparable is the use of "Trio" (American school) and "Cone" (French school) to denote the same concept, namely families of formal languages with certain properties. So, IMHO no need to revert the lambda. 
+:[[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 21:21, 1 April 2008 (UTC)
+::Thank you for the clarification!
+::[[User:Charlie.liban|charlie liban]] ([[User talk:Charlie.liban|talk]]) 20:31, 2 April 2008 (UTC)
+
+== Please explain reversion ==
+
+Gregbard, can you please explain why you reverted my changes? It took me about an hour to write the new version. It is based on my experience with formal languages from the POV of mathematics, formal logic, ''and'' computer science, i.e. all relevant POVs. The current lede to which you reverted says some things several times, and it claims some things that were simply not true.
+
+You really managed to make me angry now. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 20:46, 4 May 2008 (UTC)
+
+You also reverted my changes to the formulas. I made sure that all formulas are shown as text rather than pictures under all personal settings. Please specify whether you reverted that part of my work intentionally or not. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 20:50, 4 May 2008 (UTC)
+
+Some problems with the old lede:
+
+:A '''formal language''' can be entirely defined by the way a [[set]] of [[symbol]]s is organized. 
+::Woolly language. Show, don't tell!
+:This way, it can be defined before it has any meaning, without any [[reference]] to any [[meaning (linguistics)|meanings]] of its expressions and before any [[interpretation (logic)|interpretations]] are given to it.
+::Way too long to say "syntax only, no semantics".
+:Formal languages are tools in the field of [[mathematical logic]] and [[computer science]]. As such they are designed to express the logic of [[Executable program|executable programs]].
+::Wrong. They are not designed (only) for that purpose. And if they were, this wouldn't follow from their use in mathematical logic. There, and in computer science, they are objects of study more than tools, by the way.
+
+:Like languages in [[linguistics]], formal languages generally have two aspects: [[syntax]] and [[semantics]].
+::Correct. But the way it is written the reader must think this contradicts the previous paragraph.
+:The syntax of a language concerns its patterns, the combination of symbols into sequences without regard to the meaning.
+:The syntax is defined by the set of rules that govern how the symbols can be used to construct valid expressions.
+::The language (not the syntax) can be (not is) defined by such rules. The word "valid" for well-formed is undefined, unusual and utterly misleading here, because it means something entirely different in logic.
+:The semantics is what those expressions mean. This is formalized in various ways, depending on the type of language in question.
+
+:The branch of mathematics and computer science which studies exclusively the theory of language syntax is known as ''formal language theory''. In formal language theory, a language is nothing more than its syntax; questions of semantics are not addressed in this specialty.
+::What is "in this specialty" supposed to mean? Very obscure style.
+
+:A formal language can be identified by its [[well formed formula]]s (wffs).
+::It can be ''defined as'' its wffs, not ''identified by them'' ("show me your wffs and I tell you who you are"). "wff" is a very specific technical term used ''only'' in logic and in none of the other fields where formal languages are ''much'' more important. Talking about narrow minded...
+:The set of well-formed formula of a particular formal language is determined by a fiat of its creator.
+::Unencyclopedic.
+:Usually, the determination of what is and is not a well-formed formula is laid down by designating:
+:* a set of [[symbol]]s, which are the [[alphabet]] of the language and
+:* a set of [[Formal grammar|formation rules]], which determine what sequences of symbols from the alphabet are the well-formed formula of the language.
+::An extremely verbose way of saying that formal languages are usually defined in terms of a formal grammar.
+
+Everything that this lede says is also in my version, which also says quite a bit more in less space. Except the reference to Hunter -- which makes no sense because it's completely tangential to the topic. I am reinstating my new version now. Please don't revert without giving detailed reasons. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 21:10, 4 May 2008 (UTC)
+
+: Yet again, the problem is that the article conflates two closely related notions, namely "formal languages" such as languages studied in mathematical logic (which do have semantics) and "languages as studied in formal language theory" (where semantics is not even ''mentioned'').   The article should be split into a "Formal language", which perhaps discusses formally defined languages in general, and a "Language (formal language theory)" which is entirely devoted to finite sets of strings - but most of that material is already covered elsewhere. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 18:30, 18 May 2008 (UTC)
+
+== Circular definition ==
+
+This "definition" is completely circular:
+:If the class α consists of all of the logical and non-logical signs of a formal language \mathcal{L} and the class ℑ consists of all sentences of \mathcal{L} then a formal language \mathcal{L} can be defined as the ordered pair <α, ℑ>.
+I'm going to be traveling and unable to discuss this, so I hope someone else can take care of it. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 21:00, 21 May 2008 (UTC)
+
+Take note the "definition" has other issues as well, such as the undefined term "sentences". The circularity is just the most glaring issue there. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 21:09, 21 May 2008 (UTC)
+
+::If this formulation does not properly define the term formal language, it still defined these terms which are used elsewhere. The   other material should be reinserted (as I said in the edit summary) with regard to this context. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 21:17, 21 May 2008 (UTC)
+
+:::If the text you wrote doesn't define a formal language, ''why did you add it to the article as a definition of a formal language''? &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 21:19, 21 May 2008 (UTC)
+
+::::If you notice the definition starts with "If." The formal language CAN be defined as the ordered pair stated IF those conditions hold. This definition was inserted so as to have consistent terminology with the rest of the explication. The elements of the definition which need to be put back will, be as I stated from the beginning. I'm not an immediatist. These articles are evolving. Please don't jump me for each contribution, especially given a reliable source. Please. Let's work on the details. 
+
+::::<math>\mathcal{L}</math> = <α, ℑ>, does not seem to me to be a circular definition. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 21:27, 21 May 2008 (UTC)
+
+:::::What's the reliable source? I have Carnap's ''Introduction to symbolic logic'' in front of me, so please let me know which page to look at. 
+
+:::::My objection to your question "let's work on the details" is that in several recent situations (this is only the most recent), you add things that are incorrect both broadly and in the details, and others then clean them up. That's not working together, and it's not cricket. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 21:48, 21 May 2008 (UTC)
+::::::It seems you are unclear on the concept of Wikipedia. People are going to be cleaning up my contributions, and your contributions ''forever.'' Furthermore there is absolutely no credibility left in saying what is or is not "totally wrong", "a mess", or merely needs clarification because they are all the same to some. How is it that this content is approved by Rudolf Carnap, one of the greatest logicians who ever lived; whose work in this area can reasonably said to be canonical; and by Dover Publications as well? However it does not meet the standards of self-selecting wikipedia editors? I guess they are as terrible as I am?
+
+::::::I am willing to do what ever replacements/big edit work that you recommend to clarify this subject. However, this content is a perfectly wonderful start. Be well, [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:16, 21 May 2008 (UTC)
+
+:::::::The reason that you can make these errors while using Carnap as a source is that you are using for a reference only a footnote by Carnap, in which he explicitly says he is only sketching the ideas. Your text quoted above then added errors in places that Carnap's text is merely vague or oddly phrased. But this is only clear after looking at Carnap's text as well. As it stood, your definition was circular on its face. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 22:22, 21 May 2008 (UTC)
+
+:::::::So in other words its not really a crisis. I have seen no other sketch for these particular ideas, but they are consistent with what I have seen. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:27, 21 May 2008 (UTC)
+
+::::::::Indeed, one of the reasons not to use footnotes is that they are often parenthetical comments about things that others don't find particularly interesting. If nobody else has written about these terms in Carnap's footnote, I don't see why our articles should mention the terms as if they are commonly employed. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 22:36, 21 May 2008 (UTC)
+:::::::::Carl, this content is intended to clarify our confusion. In the footnote Carnap accounts for the various different methods of giving an interpretation (I guess we cannot assume that he intends to mean ''by others'', but really?!). I would think this is a wonderful opportunity to really clarify things. I'm thinking that some of the prevailing terminology is represented here expressed in alternative terminology. In the cases where there is a more prevailing term for the same concept, well then by all means insert it as the main term, and put Carnap's term in parentheses. Heretofor, the concept hadn't been covered from any perspective, so we are better off starting from somewhere. Carnap is a good source for terminology, btw as he influenced many others, even if only to criticize, or clarify. 
+
+:::::::::On the other hand, all that intensional and extensional stuff may matter little to mathematicians; and these terms don't organize the material in any ways convenient within mathematics. In that case the topic should be split out to something supportive of the Carnap article. However, I think the article can be expressed in terms acceptable to everyone. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 03:58, 22 May 2008 (UTC)
+
+== Mathematical logic has crept in and taken over ==
+
+(To follow up on the preceding discussion:)  I am unhappy to see the article in its present state.  There have been many changes that are specific to mathematical logic; the information provided is useful, but is mistakenly presented as if it pertains to formal languages in general.  Perhaps make a separate section about formal languages in mathematical logic? [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 17:41, 23 May 2008 (UTC)
+
+:I sympathize with having an article seemingly taken over. I am not really aware of the applications of formal language in computer science, etc. However, I would assume that the reason that there exist applications in math, computer sci, and anywhere else is because we can use a formal language as a tool for mirroring logic and reasoning in some way. 
+
+:I am curious about the claim "mistakenly presented as if it pertains to formal languages in general." Is there something there that is not true generally of formal languages? It seems to me that these aspects are the most general aspects, while applications in computer sci are more specific. I think in all cases the applications can be expressed in terms of the logical aspects of the topic. I would like to see all of these aspects covered. I would like to see an interdisciplinary coverage of the topic. Be well, 
+:[[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 21:47, 23 May 2008 (UTC)
+
+::What you wrote about the meaning of formal languages (the discussion of "formal system", "formal proof", etc. that Hans moved to this talk page) is all specific to logic.  Most of the languages we use are interpreted in different ways. E.g. I have no idea what "formal proofs" you think are associated with the two languages "the actual page titles on en.wikipedia.org at this moment" and "the potential page titles on en.wikipedia.org at this moment"  [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 11:12, 29 May 2008 (UTC)
+
+::[[User:Rp|Rp]] I have changed the lede.  Is the new definition now sufficiently general for an article entitled ''Formal language''  not ''Formal language (mathematical logic)''.  (We should not write an article about mammals that in fact just describes just dogs, no matter how deeply wonderful we may consider dogs to be.)--Philogo 22:31, 23 May 2008 (UTC)
+
+I have only now become aware of this exchange. To make clear how ridiculous it is, let's suppose an editor has hijacked the article [[automobile]] and now it mainly talks about [[tractor]]s, the only kind of automobile that this editor knows about, and it puts particular emphasis on ploughing. Then we could have an exchange like the following:
+
+''I am unhappy to see the article in its present state.  There have been many changes that are specific to agriculture; the information provided is useful, but is mistakenly presented as if it pertains to automobiles in general.  Perhaps make a separate section about automobiles in agriculture?''
+
+:''I sympathize with having an article seemingly taken over. I am not really aware of the applications of automobiles in human transport, etc. However, I would assume that the reason that there exist applications in freight traffic, human transport, and anywhere else is because we can use a tractor as a tool for pulling cargo carts. ''
+
+:''I am curious about the claim "mistakenly presented as if it pertains to automobiles in general." Is there something there that is not true generally of automobiles? It seems to me that these aspects are the most general aspects, while applications in human transport are more specific. I think in all cases the applications can be expressed in terms of the agricultural aspects of the topic. I would like to see all of these aspects covered. I would like to see an interdisciplinary coverage of the topic.''
+
+There seem to be no bounds to Gregbard's overestimation of his own knowledge. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 12:21, 27 May 2008 (UTC)
+
+::Another personal attack on myself. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 16:53, 29 May 2008 (UTC)
+
+::Look, we are all extremely narrow-sighted and limited in the things we know.  This is inevitable and no cause for scorn.  It's a good thing that people with different backgrounds join efforts in writing Wikipedia articles.  Gregbard provides useful information, that many people may expect to find here, so I think we should either link to that information or incorporate it here in a special "formal language in logic" section.  The only problem with it is that it is specific to the application of formal languages in logic. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 11:12, 29 May 2008 (UTC)
+
+:::Thank you for the kind note. I do try. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 16:53, 29 May 2008 (UTC)
+
+:::I agree in principle. However, with my formal background in mathematical logic I can see that what Gregbard is trying to add here is a mixture of correct things that could be said here although they are tangential, incorrect things that are the result of Gregbard's attempts to rephrase what he doesn't understand, and some philosophical stuff. Initially (many months ago) I trusted Gregbard on the philosophy parts, but it turns out he is just as wrong about that as about everything else. He just takes material from random places when it uses the words that interest him, and glues things together into an incomprehensible mess.
+:::Yes, we can discuss applications in logic here, but before Gregbard corrects his attitude of teaching the experts about their own field and starts to learn what this article is actually about (as opposed to what he thinks it should be about based on the words "formal language" and his "logic is everywhere" ideology) it's unlikely that he will make any reasonable contribution here. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 11:27, 29 May 2008 (UTC)
+
+::More personal attacks on myself, even after being counseled. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 16:53, 29 May 2008 (UTC)
+
+What the heck!? Formal language has damn little to do with logic, I'm perplexed by the above conversation. A good beginner's guide to formal language is Hopcroft & Ullman's undergrad text; what logic appears in there is only as part of a mundane toolkit used to advance the main topic of the book, which are [[regular language]]s, [[context-free language]]s and the like. [[User:Linas|linas]] ([[User talk:Linas|talk]]) 01:03, 1 September 2008 (UTC)
+
+==A formal language is often defined by means of a formal grammar==
+Article does not expain how else one is defined--Philogo 20:41, 23 May 2008 (UTC)
+:Huh? Look at the section ''Language specification formalisms''> [[User:Rp|Rp]] ([[User talk:Rp|talk]])
+
+==the words of a formal language often have a semantical dimension as well==
+In the absence of an interpretation?  What do the words "often" & "semantical dimension" mean in the above? Are we talking about e.g. logical constants that have a fixed meaning across all interpreations or what?  Isn't this all a bit wooly?--Philogo 20:47, 23 May 2008 (UTC)
+: Yes. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 11:14, 29 May 2008 (UTC)
+
+==...The inventory from which these letters are taken...==
+Is a formal language restricted to the use of '''letters'''? Are numerals proscribed? Subscripts and superscripts banned? No puntuations marks allowed? No symbols of quantification and indentity? No symbols for  the the truth-functional connectives? Or is en entirely new meening for the word "letter" being introduced, in which case please define, otherswise '''"News to me: citation please!"--Philogo 20:59, 23 May 2008 (UTC)'''
+::This is a terminology issue. A language is composed of symbols. I'm pretty sure the name term "letter" is short for sentential letter, and only refers to the non-logical symbols. I'm certainly open to using other terms. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 21:40, 23 May 2008 (UTC)
+::: We should use '''exact''' terms, not vague woolly terms.--Philogo 21:43, 23 May 2008 (UTC)
+::::I wouldn't exactly call it woolly, I'm pretty sure Mates uses "sentential letter" and defines it rigorously. It's just an unfortunate word choice. However, I agree with you that it should be be as exact and canonical as possible. "Symbol" is the most general term. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:09, 23 May 2008 (UTC)
+
+::::It '''is''' wooly if it says ''letter'' but means to say ''symbol''. The use of letters is a mere custom for some (but not all) elements of the formal langauges of sentential and predicate logic, and even then they are often combined with numerical  subscripts and superscripts. Further in those langauges we use symbols for quantifiers and e.g. implication which are no more letters than the "+" sign.  Morevoer, this custom is just  in the case of the formal languages of sentential and predicate logic.  But the article is about formal languages NOT  formal languages used in just sentential and predicate logic.  Therefore to say the use of the term "letter" when we should say "symbol" is "wooly" is generous: "wrong" is the correct word.  If we are writing an article in an encyclopedia we must be exact and precise, especially in logic and even more so in philosophy for:
+
+::::<blockquote>..if golde rust, what shall iron do?<br />
+::::For if a preest be foul, on whom we truste,<br />
+::::No wonder is a lewed man to ruste,<br />
+::::And shame it is, if a preest take keep,<br />
+::::'''A shiten shepherd and a clene shepe'''.
+::::</blockquote>--Philogo 23:00, 23 May 2008 (UTC)
+
+:::::Okay, I agree! Some texts do go through the trouble unwoolifying it by designating the term rigorously, and that would have been fine with me also. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 23:53, 23 May 2008 (UTC)
+
+The stupidity of this exchange is mind-boggling. Here is the text that I had written:
+:A '''formal language''' is a [[set (mathematics)|set]] of ''words'', i.e. finite [[string (computer science)|strings]] of ''letters'', or ''symbols''. The inventory from which these letters are taken is called the ''alphabet'' over which the language is defined.
+
+This clearly sets up "letter" as a synonym of "symbol". In the context of a pure science article it should be clear enough that the use of the words "word", "letter", "symbol" and "alphabet" is not meant to imply any restrictions on their applicability. E.g. biologists routinely work with amino acids as "letters" and genes or complete chromosomes as "words". Gregbard and Philogo, have a look at the abstract of [http://iospress.metapress.com/content/fb6rxw4wjme4ujk6/ this paper] to get an idea of how much you don't know about formal languages.
+
+To suggest that the word "letter" here has anything to do with [[sentential letter]], an odd word for propositional variable, is about as bizarre as the idea that use of the term "wheel" in connection with automobiles has something to do with lotteries, because of the word "wheel of fortune".
+
+Wikipedia is the encyclopedia that anyone can edit. But it is not the encyclopedia where it is acceptable for everybody without the faintest idea what an article is about to "improve" it by messing up what experts have written. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 12:39, 27 May 2008 (UTC)
+
+==Formal languages are a purely syntactical notion==
+What does this mean exactly? --Philogo 21:01, 23 May 2008 (UTC)
+
+:Since a formal language can be defined ''entirely'' without reference to any meaning of the symbols (semantics), it is therefore a syntactic concept. This also explains the distinction between a ''formal language''  and ''interpreted formal language'' [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 21:30, 23 May 2008 (UTC)
+:So you mean it should say'' Formal languages are a purely syntactical'' not ''Formal languages are a purely syntactical '''notion'''''?  In which case it would follow, would it not, that a formal language could contain no e.g. logical constants.  Citation please! or better phraseology!--Philogo 21:36, 23 May 2008 (UTC)
+
+::(It wasn't my phraseology btw). True, it only contains the symbol for a logical constant. This is why there is a distinction between a formal language, and an interpreted formal language. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 00:00, 24 May 2008 (UTC)
+
+::: What *should* be said (and, I think, used to be said) is that ''in formal language theory'', a language is s set of finite sequences of symbols, and formal language theory considers syntax only and not semantics.  This is not because formal languages do not have a semantics (they do, otherwise they wouldn't really be lanugaes), but because formal language theory doesn't study that aspect of language. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 18:09, 24 May 2008 (UTC)
+::::If a formal language were '''merely''' "a set of finite sequences of symbols" then why would the following not be formal languages:<br />
+
+<blockquote>
+''098f7ykm,b 2098ydsflmknqw98yaskmj''
+</blockquote>
+
+<blockquote>
+-08weoih23rp-o0wsfklh
+</blockquote>
+
+: You mean, both together (a language with two elements), or separately (two languages, each with one element)?  Be specific! [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 11:20, 29 May 2008 (UTC)
+
+Citation please! or better phraseology!--Philogo 21:06, 24 May 2008 (UTC)
+: Try one of [http://www.amazon.com/s?ie=UTF8&index=books&field-keywords=Formal%20Language%20Theory&page=1 these] ... [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 11:20, 29 May 2008 (UTC)
+
+What does it mean? It means that any allusions to "logical constants" or similar things in this article are ''completely'' out of place (except perhaps in a ridiculously extended example of applications in logic) because it is about something completely different. And the example above ''is'' a formal language. Of course it is. That's the point of the definition. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 12:42, 27 May 2008 (UTC)
+
+==A formal language is a set of words, i.e. finite strings of letters, or symbols.==
+How is this opening sentence supposed to distingush formal languages from other languages?  It is like saying ''equilateral triangles are figure contained by three straqight lines'' or ''A horse is an animal which bears its young live''--Philogo 21:41, 23 May 2008 (UTC).
+
+:I agree with you completely. I had a wonderful formulation that I think Hans deleted: "A ''formal language'' is an organized [[set]] of [[symbol]]s the essential feature of which is that it can be precisely defined in terms of just the shapes and locations of those symbols. Such a language can be defined, then, without any [[reference]] to any [[meaning (linguistics)|meaning]]s of any of its expressions; it can exist before any [[formal interpretation]] is assigned to it -- that is, before it has any meaning." Would you support returning this formulation? [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 21:54, 23 May 2008 (UTC)
+
+::Well... the Cambridge language, is not exactly the greatest...hmm. However, I agree with the general direction you are taking it. Won't you reconsider my formulation as more understandable? [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:21, 23 May 2008 (UTC)
+:::No, IMHO the Cambridge formulation is more precise, general  and understandable. (What for instance do the words ''it can exist before any [[formal interpretation]] is assigned to it'' actually mean?  "Exist"???.   The rest of the article can explain in more detail how formal langauge may be  defined, give examples &c. &c just as the Cambridge Dictionary does (I have quoted verbatum just the first line of the entry. The rest of the Cambridge Entry puts this article as it is to shame.) Gregbard, try this.  Write down on a pice of paper a defeintion of the geometric term ''line''.  Now look up and see how Euclid defines it.  Which is the more exact precise and clear. Humbling isn't it? Do you cathc my drift? Fewer words and every one a winner! --Philogo 23:21, 23 May 2008 (UTC)
+::PS as always
+<blockquote>
+It is all the same to me...whether it is your own opinion or not.  It is the argument itself that I wish to probe, though it may turn out that both I who question and you who answer are equally under scrutiny.
+</blockquote>
+--Philogo 23:23, 23 May 2008 (UTC)
+:::Holy Moly. Did you see that movie The Number 23? [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 01:57, 24 May 2008 (UTC)
+:::: ? --Philogo 09:51, 24 May 2008 (UTC)
+
+:But to answer the question: it is not entirely accurate to say: "a formal language is a set of strings of symbols", because as you say this suggests that there is a distinction between formal languages and other languages.  The accurate thing to say is: in formal language theory, a language is, formally,  ...". [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 18:28, 24 May 2008 (UTC)
+
+::further any number of "strings of symbols" chosen at random would consitute "a set of a strings of symbols", so the opening sentence as was not only failed to distinguish a formal langage from any other kind of langauge it failed to distingish a language from a word salad, the mutterings of a lunatic, or the random output from a bombing computer program.  Unless, of course, the term "symbol" was supposed to preclude these examples.  In that case the opening sentence sought to define a language in terms of the term "symbol" which of course is undefined at that stage. Not to put too fine a point on it, the opening sentence was completly and utterly unfit for purpose, otherwise known as rubbish. Marks 0/10: must try harder, don't give up the day-job. Somewhat ironic really considering the term it sought to define and clarify.--Philogo 20:50, 24 May 2008 (UTC)
+
+:::Apparently it needs saying that any number of strings of symbols chosen at random is '''exactly''' what the mathematical definition of a formal language is about. This is not something to ridicule, it's intentional. (And it's the same "problem" as with interpretations/structures. The set consisting of the three elements Pythagoras, my computer and New York, together with the binary relation < such that Pythagoras < my computer and New York < New York, but no other relations hold, is a perfectly good interpretation/structure from the mathematical point of view.) --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 08:54, 25 May 2008 (UTC)
+::::The purpose of an encyclopedia is surely to say what needs saying.  You are saying I understand that in mathematics a formal language is ''any number of strings of symbols chosen at random''.  Could you put this on the diambiguation page please,  incorporating I suggest a definition of the term ''symbol''.--Philogo 13:03, 25 May 2008 (UTC)
+:::::You don't quite understand.  It is *not* the case that in mathematics in general, an arbitrary set of arbitrary sequences is known as a formal language.  Most fields of mathematics use the term ''formal language'' only informally.  But a *specific* branch of mathematics, known as formal language theory, is specifically devoted to the study of particular types of problems related to formal languages; an in that field, a language is mathematically defined as a set of finite sequences of symbols.  So your example above conforms to that definition, but that doesn't actually make it a formal language in the sense in which that term is generally used (i.e. outside formal language theory).  You have to distinguish between the general notion of formal language (if that can be pinpointed at all) and the specific mathematical formalization used in formal language theory. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 11:29, 29 May 2008 (UTC)
+
+== Degradation ==
+
+I have been travelling and couldn't follow what was going on here. I may not be impartial, since I am comparing a version significantly shaped by myself and one in which I wasn't involved. But it seems obvious that the [http://en.wikipedia.org/w/index.php?title=Formal_language&diff=214697569&oldid=210368768 changes over the last 3 weeks] constitute a severe degradation of this article. The following are some examples of the problems that were introduced.
+
+"''This article is about a technical term in logic, mathematics and computer science.''"
+:This is no longer true. The article covers the topic only from a philosophical POV and has become completely useless to any serious mathematician or computer scientist.
+
+"''A '''formal language''' is a language in which an expression’s grammaticality and interpretation (if any) are determined by precisely defined rules that appeal only to the form or shape of the symbols that constitute it (rather than, for example, to the intention of the speaker).''"
+:This is a philosophical definition and is completely different from the one used in mathematics and computer science. E.g. György E. Révész, "Introduction to Formal Languages":
+::"''A finite nonvoid set of arbitrary symbols [...] is called a ''finite alphabet'' and will usually be denoted by V. The elements of V are called ''letters'' or ''symbols'' and the finite strings of letters are called ''words'' over V. The set of all words over V is denoted by V<sup>*</sup>. [...] '''An arbitrary set of words of V<sup>*</sup> is called a ''language''''' and is usually denoted by L. [...] The above notion of language is fairly general but not extremely practical. It includes all written natural languages as well as the artificial ones, but it does not tell us how to define a particular language.''" (my bolding)
+:This author continues with the definition of ''generative grammar'' – a term that some of the authors of the current version of the article seem to confuse with the term language. A generative grammar ''generates'' a language, but it is not the same thing.
+
+"''A formal language is defined or characterised by its vocabulary and syntax. ''"
+:Wrong in mathematics and computer science, see previous paragraph.
+
+The lede is extremely logic-centric. Formal languages are a fundamental concept in computer science, and the vast majority of people who are familiar with them are computer programmers. Any mention of this has been suppressed completely, in favour of absurd detail about the use of formal languages in logic.
+
+"''Formal interpretations, grammar, systems, proofs''"
+:This is a heading, and it's completely inappropriate for an article on formal languages. "Grammar" would be OK, but the other three terms are from a very special field of applications of some formal languages. They are in fact so peripheral that this could be discussed ''at most'' under a heading like "Formal languages in logic". But this is absurd. There is no reason to duplicate discussion of the basic concepts of logic in every vaguely related article. Discussing [[root]]s, [[chlorophyll]] and [[colour psychology]] in the article [[rose]] would be equally justifiable.
+
+:The content of this section is mainly pseudo-mathematical gibberish. 
+
+I will ask for input from the relevant project for this article, which is [[WP:WikiProject Computer Science]]. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 09:52, 25 May 2008 (UTC)
+::Perhaps the term "formal language" has different meanings in in logic, mathematics and computer science, and perhaps in other fields. In that case we surel need a [[Formal language (disambiguation)]] page, and seperate articiles for each as Formal language (logic), Formal language (mathematics), and Formal language (Computer science)--Philogo 12:16, 25 May 2008 (UTC)
+:::The word has exactly the same meaning in ''mathematical'' logic, mathematics and computer science. Any confusion about its meaning would be restricted to either philosophy or linguistics, possibly both. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 12:25, 25 May 2008 (UTC)
+::::''The word has exactly the same meaning in ''mathematical'' logic, mathematics and computer science.''  If you say so; I have created a the dismabiguity page so any necessary distinctions can be made.  Are you proposing a distinction between use of term in logic and ''mathematical'' logic.--Philogo 12:35, 25 May 2008 (UTC)
+
+:Hans, you really are very hostile to anything that originates in a philosophy text or classroom. You really should take pride in your area of expertise, but also defer when appropriate. It's the philosophers and logicians that are going to be able to tell you the best way to define, and clarify things ''in general''. Philogo's formulation isn't the greatest with all that 'gramaticality', and 'interpretation' in the first sentence, etc. However, he is absolutely correct in priority in talking about appealing only to shapes (and positions). That is the key to this concept as it is understood in all of those fields. No disambig is needed. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 13:22, 25 May 2008 (UTC)
+
+:If Hans beleives the term is ambiguous then he can spell it out on the dismbiguity page. Let him have his say.--Philogo 13:30, 25 May 2008 (UTC)
+
+==disambiguation==
+An editor has suggested that the term "formal language" may have different meanings in logic, ''mathematical'' logic, mathematics, computer science, liguistics and philosophy.  Therefore a disambiguation page has been created to enable any distinctions to be made: [[Formal language (disambiguation)]].--Philogo 12:47, 25 May 2008 (UTC)
+:Please not another disintegration. It's the same concept. The only meaning of several disambiguation pages for the same concept is wikipolitics. Just because Hans cries 'gibberish' doesn't mean we need to split it all up. Whatever. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 13:14, 25 May 2008 (UTC)
+:Hold on there Gregbard, hold on.  If Hans is correct then he and others can spell it out for all to see on the dismbiguation page. Let them ride a spell. If he is not correct then we can ditch the disambiguation page and proceed as before. Lets see what Hans puts on the diambiguity page.  For all we know the terms has competlely different meanings/uses in other areas, and they have nothing in common bar the words.  We shall see. --Philogo 13:27, 25 May 2008 (UTC)
+:::Formal language in philosophy, logic, mathematics, and mathematical logic are all the same exact thing. Hans just can't stand anything non-mathematical/philosophical in a math topic article. How will it ever become a GA if it is split all over the place? How are people going to see the connections if they are split?  [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 13:33, 25 May 2008 (UTC)
+:::: Hans says that in mathematics "any number of strings of symbols chosen at random is exactly what the mathematical definition of a formal language is about", and therefore in maths apparently a formal language has no grammar.  Let Hans spell it out more carfully and we will see if there is a distiction. You will get nowhere with a ''yes it is - not is isn't-yes it is'' exchange. I do car whose idea it is, or why it is put forward, only if it is true. --Philogo 13:44, 25 May 2008 (UTC)
+::::It is all the same to me...whether it is your own opinion or not.  It is the argument itself that I wish to probe, though it may turn out that both I who question and you who answer are equally under scrutiny.
+<s>While researching the definition of "formal language" in linguistics, I found that there is in fact an alternative definition around in computer science, one that is more restrictive than the one I am familiar with. I will give references below. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 14:37, 25 May 2008 (UTC)</s> No, they are actually using the standard definition at [[Chomsky hierarchy]]. I was confused for a moment. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 14:42, 25 May 2008 (UTC)
+
+--Philogo 22:31, 26 May 2008 (UTC)
+
+==proposed definitions for the term ''Formal Language'' as used in various fields==
+An editor has suggested that the term ''formal language'' may have different meanings in logic, ''mathematical'' logic, mathematics, computer science, linguistics and philosophy.  Editors are invited to explore this possibility by defining the term ''formal language'' as used in distinct areas below.   Please provide '''concise''' and '''exact''' definitions, avoiding undefined terms or symbols.  Please be prepared to defend any proposed definition with a citation.--Philogo 13:54, 25 May 2008 (UTC)  
+
+*'''Formal language <s>(philosophy)</s>'''
+<blockquote>A. A formal language is a language in which an expression’s grammaticality and interpretation (if any) are determined by precisely defined rules that appeal only to the form or shape of the symbols that constitute it (rather than, for example, to the intention of the speaker).
+</blockquote> --Philogo 13:54, 25 May 2008 (UTC)
+
+This would be an adequate way of conveying the gist of the standard definition of a formal language to someone who is only interested in their use in philosophy, doesn't care about anything else, and would be confused by the correct definition. It's possible that this is not how this definition came about. Due to the generally conservative nature of philosophy I wouldn't be surprised if philosophers were still working with a pre-Chomskyan concept of "formal language". But that needs to be separated from the modern, Chomskyan definition, just like it makes no sense to discuss horses under [[coach (vehicle)]]. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 16:32, 25 May 2008 (UTC)
+: The above remarks, for which not citations are given, are value rather than factual judgments, and therefore neither adds to nor subtracts from the proposed definition, and hence do not appear to advance the discussion.
+::The above remarks advance the discussion by making clear what the problem is: Philosophers use an old, pre-Chomskyan definition of "formal language" (probably more than one, actually), while everyone else uses the modern definition which is presumably exactly the one introduced by Chomsky. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:19, 25 May 2008 (UTC)  
+:::Actually I fear I have mislead you somewhat by heading the above definition a Formal langage (philsophy).  So far as I know the term ''Formal Langauge'' is not a technical term in philosophy any more than is the term ''combustion engine''.  The article from which the sentence is taken(it is just the first sentence) did not describe it as a  technical term in philosophy nor did it claim that it was the meaning normally attribited to the term by philosophers. The article was written by Prof Steven T Kuhn of Georgetown University who received his B.A. (in mathematics) from Johns Hopkins University and his Ph.D. from Stanford. I express no views as to the accuracy or modernity of Prof Kuhn's article. We are merely  attempting to discover whether the term ''Formal Language'' has different meanings in different fields, as some editors have suggested.--Philogo 23:00, 26 May 2008 (UTC)
+::::Aha. Kuhn may have had a mathematical education originally, but his publications seem to be all about (the more technical side of) philosophical logic. I have looked at some of those where it wasn't clear from the title, but it is already obvious from the journals where he publishes: Synthese, Studia Logica, Journal of Philosophy, Theoria, Economics and Philosophy, Mind. You wouldn't publish good mathematical articles there.
+::::I found the dictionary definition on his homepage. From a scientific POV (as opposed to a humanities one) it is [[not even wrong]] (in the [[word salad]] sense). I started an explanation of the problems with this definition, but it became too complicated. It is written in such a way that every single statement is more or less correct, at least when interpreted in a specific way, but there is no consistent interpretation of the entire article that would make it correct. Now I also see where the absurd logic bias comes from. This dictionary entry is in no way adequate for an interdisciplinary dictionary; I even doubt it is adequate for a philosophical dictionary. It also conflates formal language and [[formal grammar]] (which Kuhn calls the "precisely defined rules"). --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:43, 26 May 2008 (UTC)
+*'''Formal language (logic)'''
+<blockquote>B. The vocabulary (basic expressions) of formal languages of '''[[logic]]''' typically consists of ''constants'', ''variables'' and the ''auxiliary signs''. The constants are either [[logical constants]] or [[non-logical constants]]. The non-logical constants have no fixed meaning ("semantic content") in a language except under an [[interpretation (logic) | interpretation]]. The auxiliary signs are such as brackets needed to give the language structure.
+</blockquote> --Philogo 13:54, 25 May 2008 (UTC)  
+: I think that this definition covers the same usage as in "mathematical logic" below; the difference seems to me that this definition explicitly refers to the meaning of a string (well-formed formula or basic expression), by stating that the alphabet is partitioned into constants, bracket symbols, and so on. The "mathematical" definition below is just a bit more abstract (and, in my opinion preferable for exactly that reason): a formal language is a set of finite strings. These '''strings''' have no fixed meaning ("semantic content") in a language except under an [[interpretation (logic) | interpretation]]. If we make a distinction between interpreted and non-interpreted strings, why do we require that however the vocabulary comes with an "a priori"-interpretation, `a la: the symbol "a" denotes a constant, while the symbol "x" denotes a variable?--[[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 16:29, 25 May 2008 (UTC)
+::IMHO logicians have specific interests so they have developed specific formal languages (or rather families of langages) to meet those interests. There is no intention to say that these families of languages are the only formal languages.  Languages that are of the sentential calculus allow as non-logical constants symbols called for sentential sysbols (looseley called sentenctial letters) and for logical contants symbols whose signifance '''can''' be defined by means of so-called truth tables, plus brackets etc.  The signofcacnace ("meaning") of the logical constants is thus fixed in any such language. The non-logical constants have no signifiacne ("meaning") accept under an interpreatation. Any such language will include rules of syntax specifying what is and what is not a well-formed formula. (It would appear, from what some editors are saying,  that the mathematical definition of ''formal language'', unlike the definition used used in Logic, including mathamatical logic,   EXCLUDES the rules of syntax - the grammar.  It would follow that the particular  languages described in books of logic/mathematical logic are not formal languages as defined in mathematics [other than mathematical logic],  since they include rules of syntax. Simply put, so far as I can make out, : FormalLanguage1 [mathematics] =Vocab+Grammar [[logic inc mathematical logic]; FormalLanguage2 [maths]: Vocab only.). Languages of the type or class of first order predicate language may include in addition non-logical symbols called variables, predicates and individual constants, and in addition symbols for quantification.  It is a mere convention that predicate letters are in upper case, etc: it has not always been so.  In summary in Logic, the languages used include rules of grammar but this is considered compatible with their being formal languages.  Apparently they do not conform to the definition of formal language used in mathematics (according to some editors).  Further in these formal languages of Logoc  the signifcance of some symbols, i.e. the non-logocal constants, varies under each intertpreataion; others (the logical constants)  have a signifcance defined in the langauge and are invariant under interpretations (~ has the same signfcance under every interpretation of a partilaur language).  
+::The sentence labelled B (a) does not purport to be a definition of anything (b) it merely describes the ‘‘vocabulary’’ of certain formal languages.  In does not state or imply that any formal language is defined just by its vocabulary. (c) It does no state that a formal language ''is a set of finite strings''--Philogo 22:35, 25 May 2008 (UTC)
+:::This was exactly my point. "Logic" does not define formal languages, it just uses them. Therefore logic texts are not reliable sources for an encyclopedia entry on the ''definition'' of  formal languages. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:19, 25 May 2008 (UTC)
+: Besides, the brackets don't give structure to the language, but to the words/formulas in it.--16:29, 25 May 2008 (UTC) 
+:: I’ll try and cite the text which says it does later.  --Philogo 22:35, 25 May 2008 (UTC)
+
+
+As the word "typically" already indicates, these are practically important ''examples'' of formal languages. Logic as a field does not study formal languages as such. The examples that occur in logic are very special (type 3 in the Chomsky hierarchy) and not representative at all. Moreover, they have a lot of extra structure that is not formally part of the language. Since logicians are using specific languages, not studying languages in general, they can be sloppy about this. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 15:55, 25 May 2008 (UTC)
+: The word typical was carefully chosen, and the above remarks do not dissent. The statement B does not state that the example languages discussed are "representative", therefore the remarks above are addressed to a straw man, and are therefore off-topic do not appear to advance the discussion. --Philogo 22:35, 25 May 2008 (UTC)
+
+*'''Formal language (linguistics)'''
+<blockquote>
+C. [No offerings so far]
+</blockquote>
+I could not find an original text by Chomsky, but I found no indication that he defined formal languages in any way differently from their definition in mathematics and computer science. In fact, the broad definition (allowing "random" languages) has the advantage that apart from the fuzziness problem (for some sentences native speakers disagree whether they are grammatical or not) English can be seen as a formal language, and we can ask whether it has a formal grammar. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 15:10, 25 May 2008 (UTC)
+: Since the above remarks cite no sources to explain how the term ''formal language'' is used in linguistics, they are just POV conjecture and therefore do not advance the discussion.--Philogo 22:35, 25 May 2008 (UTC) 
+::I am sure the sources can be found, just not on books.google.com, where I found almost everything else. Then my "POV conjectures" will magically become verifiable facts, because they are in fact educated guesses by someone who knows what he is talking about. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:19, 25 May 2008 (UTC)
+The Routledge Dictionary of Language and Linguistics has two contradictory definitions, one ("philosophical") under the lemma "formal language", and one (the mathematical one) under the lemma "formal language theory". --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 15:29, 25 May 2008 (UTC)
+:Only if the two entries in The Routledge Dictionary of Language and Linguistics were quoted editors could see whether they are indeed contradictory.--Philogo 22:35, 25 May 2008 (UTC) 
+::Easy to find on books.google.com. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:19, 25 May 2008 (UTC)
+In computational linguistics they seem to be using the standard (mathematics/computer science) definition. [http://www.sfs.nphil.uni-tuebingen.de/minervaschool/courses.html] (Read definition of "language" in slides to first course. Note that it is directed to graduates in linguists and has a long introduction about sets.) --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 15:50, 25 May 2008 (UTC)
+*'''Formal language (mathematical logic)'''
+<blockquote>
+D [No offerings so far]
+</blockquote>
+There is no difference between mathematical logic and mathematics. When mathematical logicians deal with formal languages it is usually for one of the following two reasons: (1) when defining a specific language, such as first-order logic. These languages are typically [[regular language|regular]], i.e. they are of type 3 in the Chomsky hierarchy. People who see only these examples may be under the misapprehension that regularity is a requirement for formal languages; so long as they don't introduce this misunderstanding into an encyclopaedia there is no problem. (2) Because they are working in the interdisciplinary area between mathematical logic and computer science. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 15:12, 25 May 2008 (UTC)
+: The above remark ''There is no difference between mathematical logic and mathematics.'' cites no sources.  Does it mean the terms are synonymous?  The above remarks do not explain how the term ''formal language'' is used in mathematical logic and therefore do not appear to advance the discussion.--Philogo 22:35, 25 May 2008 (UTC) 
+::My remarks explain ''why'' there are so few mathematical sources that I couldn't find any: The area is interdisciplinary. Mathematicians, when dealing with formal languages, "wear their computer scientist hats". --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:19, 25 May 2008 (UTC)
+:Because of the occurrence of brackets, these languages are typically of type 2 (not 3) in the Chomsky Hierarchy. Of course, this does not affect the point you made. --[[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 16:29, 25 May 2008 (UTC)
+::I see. I wasn't aware that the regularity definition is ''that'' restrictive. So they are only type 3 when we use the Polish notation variants. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 16:42, 25 May 2008 (UTC)
+*'''Formal language (mathematics)'''
+<blockquote>
+E. Any number of strings of ''symbols'' chosen at random.
+</blockquote>
+ --Philogo 13:54, 25 May 2008 (UTC)
+
+Correct in principle. But italics for ''symbols'' are misleading, because anything can serve as a "symbol". "At random" is also misleading since there is of course no "randomness" condition. In fact, like everybody else, mathematicians are interested mainly in languages which have some "grammatical" structure. They just don't exclude the others a priori. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 14:59, 25 May 2008 (UTC)
+: The above remark does not explain what is meant by "in principal" means. The previously proposed definition E says nothing about what may serve as a symbol, only that any number of them chosen at random would be a formal language.  The above remark (a) proposes the withdrawal of the qualification "random" so that the revised definition becomes:
+<blockquote>
+E1. Any number of strings of ''symbols''
+</blockquote>
+::I don't understand your problem with "in principle". Would you prefer me to say you are wrong because I think that while you caught the gist of the definition the way you express it should be improved? --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:28, 25 May 2008 (UTC)
+
+If the definition means that being ''Any number of strings of ''symbols'''' and being ''a formal language as the term is used in mathematics'' are synonymous, then mathematicians who ''are mainly in languages which have some "grammatical" structure'' are only interested in some formal languages, i.e. those strings of ''symbols''''  which have ''some "grammatical" structure''''.  It should be noted that the original defection that included randomness would surely have expressly excluded any strings of ''symbols'''' that had any "grammatical" structure''''.  
+
+The [[Mathematics Subject Classification]] shows that formal languages are a marginal topic in mathematics, and their mathematical study (often by mathematicians) is usually seen as part of computer science. They are covered by 68Q45 and 68Q70 (under [http://www.ams.org/msc/68Qxx.html 68 Computer Science]), 94A45 (under [http://www.ams.org/msc/94Axx.html 94A Communication, information]) and 03D05 (under [http://www.ams.org/msc/03Dxx.html 03D Computability and recursion theory]). Only the last field (03D) is really a part of mathematics, but it is equally a part of computer science. So it is no wonder mathematicians use the same definition of computer scientists. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 16:09, 25 May 2008 (UTC)
+:The above remarks do not appear to clarify the meaning of the term ''formal language'' as used in mathematics, and therefore do not advance the discussion.--Philogo 22:35, 25 May 2008 (UTC)
+::As I said above, the point of these remarks was: There is no "mathematical" definition, because mathematicians dealing with formal languages are doing computer science. Or the mathematical definition is identical to the computer science one. A matter of interpretation. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:28, 25 May 2008 (UTC)
+
+:::Hans is correct regarding this issue of math vs computer science definition.  --[[User:C S|C S]] ([[User talk:C S|talk]]) 02:43, 26 May 2008 (UTC)
+
+*'''Formal language (computer science)'''
+Defined as in <s>mathematics</s> computer science. See e.g. [[Chomsky hierarchy]]: As in <s>mathematics</s> computer science, a "language" need not have anything remotely like a "grammar" or internal structure, or several different grammars may define the same language. In particular in the case of a "random" language it may not even be possible for a computer to enumerate all words (= strings of symbols) in a language. The languages for which this is possible are called the type 0 languages in the Chomsky hierarchy. In the previous section I gave a quotation from the book of György Révész, a computer scientist. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 14:59, 25 May 2008 (UTC)
+:It would help if the actual definition were provided in order to advance the discussion.--Philogo 22:35, 25 May 2008 (UTC)
+::I don't know why you couldn't find it above and copy it here yourself instead of complaining, but here it is again:
+::"''A finite nonvoid set of arbitrary symbols [...] is called a ''finite alphabet'' and will usually be denoted by V. The elements of V are called ''letters'' or ''symbols'' and the finite strings of letters are called ''words'' over V. The set of all words over V is denoted by V<sup>*</sup>. [...] An arbitrary set of words of V<sup>*</sup> is called a ''language'' and is usually denoted by L. [...] The above notion of language is fairly general but not extremely practical. It includes all written natural languages as well as the artificial ones, but it does not tell us how to define a particular language.''"
+::--[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:28, 25 May 2008 (UTC)
+"A Language is just a set of strings". This is from a lecture on [[compiler]]s. [http://www.inf.unibz.it/~artale/Compiler/slide2.pdf] --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 15:29, 25 May 2008 (UTC)
+:See also here, in the section "External links" of the article: Alexandru Mateescu and Arto Salomaa, "Preface" in Vol.1, pp. v-viii, and "Formal Languages: An Introduction and a Synopsis", Chapter 1 in Vol. 1, pp.1-39. (The Handbook is a standard reference for formal language theory.) On page 5, they say: "Indeed, we will view a language as '''a set of finite strings of symbols from a finite alphabet'''. Formal grammars will be devices for defining specific languages. Depending on the context, the finite strings constituting a language can also be referred to as words, sentences, programs, etc. Such a formal idea of a language is compatible with [...], although it '''neglects all semantic issues''' and is restricted to written languages." The last point does of course not prevent us from assigning a meaning to the words, i.e. defining semantics; The point of view is just that the meaning is attached to, as opposed to being an integral part of, the words in a language. --[[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 16:29, 25 May 2008 (UTC)
+: The above remarks do not appear to say how the term ''Formal language’’ is used in computer science to distinguish it from language.--Philogo 22:35, 25 May 2008 (UTC)
+::Computer scientists do not deal with natural languages. Therefore they just use "language" as a synonym for "formal language". This is also common practice among mathematicians including mathematical logicians, but of course not among linguists, one of whom (Chomsky) first gave the modern definition. It is unlikely that we will find any source for this that is more direct than what we already have: Things like a section called "Formal Languages" in which the words "formal language" never occur, but the term "language" with no adjective is defined in exactly the same way that linguists define "formal language". You can choose to use this "lack of explicit sources" for wikilawyering if you wish, but it would not improve my opinion of you. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:55, 25 May 2008 (UTC)
+
+:::What Hermel (and Hans) is saying is what I've seen in the standard textbooks in both undergrad and graduate computer science.  I'm surprised this is so contentious.    --[[User:C S|C S]] ([[User talk:C S|talk]]) 02:43, 26 May 2008 (UTC)
+
+Editors  do not appear to have yet provided suitiably precise definitions of the term ''Formal language'' as used in various fields to establish whether the term has significantly different meanings in these different fields. Some editors appear to believe that there are significacant differences; some editors disagree; some editors  await the clear definitions from each field to show which of the two former views is correct.--Philogo 22:43, 25 May 2008 (UTC)
+:I have yet to hear from any editor with relevant knowledge in mathematics, computer science or linguistics who claims that there are any significant differences between the definitions in these three fields. No proper ''definition'' in logic was offered, only applications which currently get absurdly overproportional weight in the article, while much more notable applications were deleted/marginalised without any explanation or justification. Where are the philosophy books that deal mainly with "formal languages"? There are hundreds of computer science and linguistics books on this topic. Where are all the philosophers who are being paid for developing new logics? In which national or international standards organisations do philosophers meet to develop new industry standards for "formal languages" in the philosophical sense? There are thousands of computer programmers who develop new programming languages, write compilers for existing ones, discuss on standardisation of them for ANSI, ECMA or ISO.
+:This article started as an interdisciplinary article on computer science and linguistics, and you have converted it into something that reads much more like a philosophy article. Computer scientists and linguists have very clear and precise terminology: A [formal] language is just a set of words. If you want more than that, then you need a language + some kind of grammar, semantics, or whatever additional structure. But it's not part of the "formal language". If you don't like this the right thing is to start a new article or add a philosophy section to this one, for the (much less notable) definitions of "formal language" by some philosophers. But just throwing out the much more relevant stuff is not acceptable. I don't go to [[Category (philosophy)]] and replace the article by one about [[Category (mathematics)]]. And I wouldn't even do it if the article were called just [[Category]]. I don't do it because it would be ''obviously completely unacceptable and rude''. Is noticing that you have been rude, and stopping to be so, too much to ask for? --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 23:55, 25 May 2008 (UTC)
+
+::I'm not familiar with linguistics but I have friends who studied that subject along with computer science.  It seemed to me fromm discussions that both linguists and computer scientists used the term in a similar (if not exactly the same) manner.  The current bias in editing away from these subjects makes no sense and is no doubt a reflection of those editors ignorance of these technical subjects. --[[User:C S|C S]] ([[User talk:C S|talk]]) 02:43, 26 May 2008 (UTC)
+
+::We might as well switch to the version of the article before Greg and Philogo started modifying it [https://secure.wikimedia.org/wikipedia/en/w/index.php?title=Formal_language&oldid=204680454].  That version has plenty of references to satisfy Philogo.  The current version is a mish-mash and it is difficult to understand formal language as used in a particular subject.  --[[User:C S|C S]] ([[User talk:C S|talk]]) 02:56, 26 May 2008 (UTC)
+
+:::Actually I now notice the current article includes those references and external links too.  So I am puzzled by Philogo's demand for references.  It is somewhat unreasonable to make such demands without taking a look oneself. --[[User:C S|C S]] ([[User talk:C S|talk]]) 02:58, 26 May 2008 (UTC)
+
+::::I am not sure if you have noticed that I had rewritten large parts of the article before Gregbard and Philog rewrote it again. I would like to hear your thoughts on [http://en.wikipedia.org/w/index.php?title=Formal_language&oldid=211352298 this version], which I would much rather revert to than the one you linked to. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 07:36, 26 May 2008 (UTC)
+
+:::::Ok, sorry, I didn't check out your edits closely.  That version is good.  It has the advantage of being more precise.  --[[User:C S|C S]] ([[User talk:C S|talk]]) 16:33, 26 May 2008 (UTC)
+Please note that I have made changes only to the lede. Also please note that this section of the talk page was set up to discover whether the term ''formal langauge'' has different meanings in different fields (as some editors have suggested and other editors denied.)  I have not expressed a view on this either way. The idea is that cited definitions are given from each field so that editors can see and judge.  It  is hard to see how a definition can be judged as either good or bad while it is not ageed  whether there is one or more terms to be defined. --Philogo 22:22, 26 May 2008 (UTC)
+
+:Sorry that I was so irritated. Apparently you were misled by a single bad source (Kuhn's definition) which blatantly contradicts what every undergraduate in computer science and linguistics, the relevant fields for this article, knows. The point where I really got angry was when you started wikilawyering and asking for references instead of understanding what I wrote to humour you.
+:I don't understand why you seem to be still confused about the number of definitions of the term. It was introduced as a scientific term by Chomsky, and every scientist uses essentially the same definition. Like most mathematical definitions it has several minor variants, similar to the case of the [[natural numbers]], where people don't agree whether 0 is one of them. But the scientists who use the term don't see this as a problem because they have their strategies for dealing with this, which do ''not'' include extensive discussion of these minor variants. Apparently the only definitions that contradict the scientific one are those that can be found in poorly edited dictionaries or the works of philosophers who were not influenced by Chomsky for the simple reason that they wrote before him.
+:The current lede is completely wrong. It starts with the template that asks for an expert from, of all fields, logic, when the article is about a term from computer science and linguistics. It continues with the disambiguation note "This article is about a technical term in logic,...". It continues with the Kuhn sentence that suggests that formal languages can have a semantical dimension, which is only true in the sense of what mathematicians call "abuse of language", i.e., we sometimes "equip" a mathematical object with additional structure, with the understanding that this is somehow fishy and should only be done "when there is no danger of confusion". The stuff about Leibniz and Frege is completely irrelevant. It's like saying that the idea of a [[group (mathematics)]] was invented in India 2000 years ago because they used negative numbers at the time. And all that really needs saying has been deleted from the lede or moved elsewhere.
+:In the body we have a strange section on an irrelevant example ("Formal languages used in logic") even before the definition. And of course Gregbard's absurd pseudo-mathematical section "Formal interpretations, grammar, systems, proofs".
+:I am waiting for one more opinion from a scientist before reverting to "my" version of the article. It's not optimal. For example it has a computer science bias because the article was a computer science article when I found it. I would have to borrow linguistics books from the library to fix this problem, and it would be more economical if a linguist did it. What the article definitely doesn't need, and I am saying this as a "logician", is any discussion of logic that goes beyond a short mention with a wikilink in one or two places. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 00:45, 27 May 2008 (UTC)
+:Please note that I made no changes to this article until May 23rd 2008 22:02 and then only to the lede by quoting from a cited source.  I see you have reerted to aversion much earlier than that so I assume that you would agree that the May 23rd 2008 22:02 version needed re-writing.  It is unfortunate that I chose a controversial cited source.  If we now have a better lede that on May 23rd progress has been made.  Pleae do not confuse my edits with those of any other editor.--Philogo 18:46, 27 May 2008 (UTC)
+
+==proposed definitions for the term ''Formal Language'' as used in various fields provided so far==
+An editor had suggested that the term ''formal language'' might have different meanings in logic, ''mathematical'' logic, mathematics, computer science, linguistics and philosophy.  Editors were invited to explore this possibility by defining the term ''formal language'' as used in distinct areas. UNfortunalte the various defeintion offered have become seperated by comments & therofe hard to follow, I reproduce below what appear to be the definitions offered so far.  Please make any comments at the end of the list rather than between the defeintions.
+
+
+<blockquote>
+A.  A '''formal language''' is a language in which an expression’s grammaticality and interpretation (if any) are determined by precisely defined rules that appeal only to the form or shape of the symbols that constitute it (rather than, for example, to the intention of the speaker).  <ref>{{cite book | last = Audi | first = Robert | authorlink = | title = The Cambridge Dictionary of Philosophy | publisher = Cambridge UP | series = Second Edition | year = 1999 | doi =  | isbn = 10 0-521-63722-8 }}</ref>
+</blockquote>[Prof S.T. Kuhn: not proposed as the meaning in any specific field]
+
+<blockquote>
+A1. A formal language is defined or characterised by its vocabulary and syntax.  <ref>{{cite book | last = Gamut | first = L.T.F | authorlink = | title = Logic Language and Meaning, Vol 1 Introduction to Logic publisher= The University of Chicago Press | series =  | year = 1991 | doi =  | isbn = 0 -226-28085-3}}</ref> <ref> name= Gamutv11991 {{cite book | last = Gamut | first = L.T.F | authorlink = | title = Logic Language and Meaning, Vol. 1 Introduction to Logic publisher= The University of Chicago Press | series =  | year = 1991 | doi =  | isbn = 0 -226-28085-3}}</ref>
+</blockquote> [not proposed as the meaning in any specific field.  The authors of the book say they merged their identities in order to underline their common vision.  The authors are at three universities: two logicians, two philosophers and a linguist]
+
+'''Formal language (logic)'''
+<blockquote>B. The vocabulary (basic expressions) of formal languages of '''[[logic]]''' typically consists of ''constants'', ''variables'' and the ''auxiliary signs''. The constants are either [[logical constants]] or [[non-logical constants]]. The non-logical constants have no fixed meaning ("semantic content") in a language except under an [[interpretation (logic) | interpretation]]. The auxiliary signs are such as brackets needed to give the language structure.
+</blockquote> [This is not a definition of the term Formal Langauge, but characteristics of families of formal languages used in Logic. Logic lierature  uses the term ''Formal lanaguage'' but does not seek to define it.
+
+*'''Formal language <s>(philosophy)</s>'''
+''Formal language'' is not a technical term in philosphy. Philosophy literature  uses the term ''Formal lanaguage'' but does not seek to define it.  
+*'''Formal language (linguistics)'''
+<blockquote>
+C. [No offerings so far]
+</blockquote>
+
+*'''Formal language (mathematical logic)'''
+<blockquote>
+D. [No offerings so far]
+</blockquote> 
+<blockquote>
+D1. Same meaning as given in mathematics
+</blockquote>
+
+*'''Formal language (mathematics)'''
+<blockquote>
+E. Any number of strings of ''symbols'' chosen at random.
+</blockquote>
+
+<blockquote>
+E1. Any number of strings of ''symbols''
+</blockquote>
+<blockquote>
+E2. Same as for computer science
+</blockquote>
+
+*'''Formal language (computer science)'''
+<blockquote>
+"F. ''A finite nonvoid set of arbitrary symbols [...] is called a ''finite alphabet'' and will usually be denoted by V. The elements of V are called ''letters'' or ''symbols'' and the finite strings of letters are called ''words'' over V. The set of all words over V is denoted by V<sup>*</sup>. [...] An arbitrary set of words of V<sup>*</sup> is called a ''language'' and is usually denoted by L. [...] The above notion of language is fairly general but not extremely practical. It includes all written natural languages as well as the artificial ones, but it does not tell us how to define a particular language.''"
+</blockquote>
+
+<blockquote>
+"F1. A Language is just a set of strings".
+</blockquote>
+
+I hope I have reproduced the proposed descriptions and definitions fairly and without bias.  Some editors have claimed that the term ''Formal Language'' has different definitions in different fields and other editors have denied it.  No editor has claimed the term has a special meaning defined in the fields of Logic, Mathematical Logic or Mathematics. The description offered from the field of Computer Science is of language not specifically ''formal'' language. No definition for the terms as used in linguistics has been quoted. 
+
+IMHO the suggestion that the term has different meanings in the fields of logic, ''mathematical'' logic, mathematics, computer science, linguistics and philosophy is not proven (although this does not entail that it is not true, of course). It therefore seem unlikey that seperate articles will be forthcoming and therfore there is no need for the diambiguity page I created in anticipation. Please make any comments below so as not to seperate the definitions.
+
+--Philogo 00:27, 27 May 2008 (UTC)
+=== comments on proposed definitions for the term ''Formal Language'' as used in various fields provided so far===
+--Philogo 00:27, 27 May 2008 (UTC)
+
+Philogo, can you please '''stop repeating nonsense'''? If you don't have a clue how the scientific culture works then that's probably OK for a philosopher, but then you shouldn't try to control an article on a science topic. "The description offered from the field of Computer Science is of language not specifically ''formal'' language." What's going on here? Did you (1) not read my reply to this nonsense when you last proffered it, or are you (2) not able to understand my reply, or do you (3) just have a perverse desire to control an article about a subject that you are completely clueless about, against the experts? What's the point of forcing me to go to the library and waste my time looking through computer science books until I find the odd one that actually uses the redundant adjective "formal" in the definition of "language"? Do you think I am an idiot who somehow missed that there are two notions ("language" and "formal language") around in computer science, and because I don't want to admit it I am making up absurd excuses? If that's the case why did Hermel and C S agree with me?
+
+To everybody: The only editor so far who has claimed that there are several definitions around is Philogo. I merely argue that there ''may'' be other definitions around in philosophy (including "logic" the humanity as opposed to mathematical logic the science), and possibly the humanities part of linguistics, which (if they exist) in my opinion should not be discussed in this article, or at least not get more space than a single short section and perhaps one sentence in the lede. But it looks as if any "philosophical" definitions of "formal language" are merely the result of sloppy dictionary writing and are completely non-notable. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 01:16, 27 May 2008 (UTC)
+:For the record I have never claimed that there are several definitions around for the term "formal language".  As I recall the suggestion was made by [User:Hans Adler|Hans Adler]], but I do not suppose it matters much.  The claim has not been substantiated so far as I can see. --Philogo 11:59, 27 May 2008 (UTC).--[[Special:Contributions/146.101.133.76|146.101.133.76]] ([[User talk:146.101.133.76|talk]]) 11:56, 27 May 2008 (UTC)
+::May I remind you of [http://en.wikipedia.org/w/index.php?title=Talk%3AFormal_language&diff=214819971&oldid=214801635 this exchange], which happened immediately before you started this large obfuscation project of asking for the definitions in various fields? --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 12:49, 27 May 2008 (UTC)
+
+== Major reversion ==
+
+As there seems to be a consensus from everybody except Gregbard and Philogo, I have restored the article to its last sane state (9 May). I have also made a few immediate changes to make it harder to misunderstand the article in the way that led to the degradation. I ask those who have been responsible for the changes to look at a dozen or so of the articles in [[:Category:Formal languages]] before they decide that they know enough about the subject to undo my changes. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 13:21, 27 May 2008 (UTC)
+: Looks OK to me (bar lack of citations) and not the same lede as I found on May 23rd 2008 22:02.--Philogo 18:29, 27 May 2008 (UTC)
+:Out of interest is the following accurate (so far as it goes) :
+<blockquote>
+Formal Language
+ 
+In mathematics, a formal language is normally defined by an alphabet and formation rules. The alphabet of a formal language is a set of symbols on which this language is built. Some of the symbols in an alphabet may have a special meaning. The formation rules specify which strings of symbols count as well-formed. The well-formed strings of symbols are also called words, expressions, formulas, or terms. The formation rules are usually recursive. Some rules postulate that such and such expressions belong to the language in question. Some other rules establish how to build well-formed expressions from other expressions belonging to the language. It is assumed that nothing else is a well-formed expression. 
+
+For example, the language of propositional calculus could be defined as follows. The alphabet of this language is comprised of English letters with optional indexes and the following special symbols: (NOT), (AND), (OR), (implies), and (grouping). The formation rules are then that every English letter and every letter with an index is a formula, and if and are formulas, then so are , , , , and .
+</blockquote>  
+
+http://mathworld.wolfram.com/FormalLanguage.html
+--Philogo 18:50, 27 May 2008 (UTC)
+:::FWIW, The mathworld article is by Alex Sakharov, I've studied a few other articles there, authored by him, and have decided that at least some of these are suspicious. (I'm pretty sure one is flat-out incorrect) Just because it says something on mathworld doesn't mean its true. In this particular case, the definition given is not really correct, at least, not in the usual sense taught to undergrads. The 'usual sense' is simply that a language is a subset of A^* where A is the alphabet; its nothing more, nor less -- the 'usual definition' says nothing about "well-formed formulas" or rules, or anything like that. [[User:Linas|linas]] ([[User talk:Linas|talk]]) 01:29, 1 September 2008 (UTC)
+
+:Philogo, you deserve an apology from me for my lumping you together with Gregbard. Of course it was he who started this, and of course it was natural when the article was absurdly categorised as philosophy (and nothing else) to look for philosophical sources. I happen to know about these things because they are very close to my (and even closer to my wife's) professional interests, but one can't expect you to spot such a miscategorisation.
+:The Wolfram text has some problems. "A formal language is normally defined by an alphabet and formation rules" is quite weasly. I don't think anybody leaves the alphabet out of the definition. The normal definition of a [formal] language allows it to be an arbitrary set and doesn't involve formation rules, but the statement can still be interpreted in two different, non-obvious ways so it is correct: 1) While the formation rules are not part of the definition of the ''notion'' of a formal language, when you define a ''concrete'' formal language you normally use formation rules. 2) Since mathematicians and some theoretical computer scientists are happy with having an infinite number of formation rules, one could simply say that every language can be defined by formation rules, even the "random" ones: For every word in the language the there is a formation rule saying that it is.
+:"Some of the symbols in an alphabet may have a special meaning." This is usually the case, but that's already semantics and therefore outside the scope of the formal language proper. Discussing this in such a prominent position is misleading.
+:"The formation rules are usually recursive." Again, this is true as a statement about how individual languages are usually defined in practice, but wrong as a statement about the notion.
+:"It is assumed that nothing else is a well-formed expression." Very odd choice of words. This is of course not "assumed"; it is a universal convention in formal language theory and more generally in connection with inductive definitions.
+:The second paragraph is a correct example; unfortunately it stresses the questionable part ("special meaning") of the previous one. Judging from his homepage, the author seems to have a logic in computer science background, and he probably felt the same urge as Gregbard to reconcile the official definition of the term formal language with its specific (ab)use in logic.
+:The problem is that while a formal language is defined so that it is purely syntactical, in fact so purely that it doesn't even have any inherent "grammar", we do of course study formal languages exactly because we want to study their grammar and usually also their semantics. When I think of "a language" I envisage it as an arbitrary set; when I think of a concrete language, such as a first-order language or [[Pascal (programming language|Pascal]], my idea of it is much closer to that of a typical grammar (set of formation rules) for it. 
+:Language and grammar shouldn't be confused: For every language there are many different grammars that describe it. In concrete examples most of these are completely useless, and only a few of them are "correct" in the sense that they are structurally related to the intended semantics. A priori there is no way to identify them. But for most applications it is harmless to think of languages as "equipped" with a grammar, and in many areas this is actually done. Formally the language is redundant in this case and one should just talk about the grammar, but psychologically we have an urge to call it the language. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 22:19, 27 May 2008 (UTC)
+:OK Hans. I found a lede which appeared non-sensical with no citations. I replaced it with the best definition I could lay my hands on at the time and carefully  cited it.  I gave another citation which supported the first.  I assumed the lede would be edited and built upon. 
+
+My appetite is somewhat whetted.   I read elsewhere:
+<blockquote>
+The theory that we consider in this chapter is based on the following simple abstract notions.<br /> 
+
+An alphabet is a set of symbols.<br />
+A string over an alphabet is a sequence of symbols taken from that alphabet.<br />
+A formal language over an alphabet is a set of strings over that alphabet.<br />
+
+http://www.cs.princeton.edu/introcs/71language/
+</blockquote>
+
+and 
+
+<blockquote>
+Symbol <br />
+  A character, glyph, mark.<br />
+  An abstract entity that has no meaning by itself, often called uninterpreted.<br />
+  Letters from various alphabets, digits and special characters are
+  the most commonly used symbols.<br /><br />
+
+
+Alphabet <br />
+  A finite set of symbols.<br />
+  An alphabet is often denoted by sigma, yet can be given any name.<br />
+  B = {0, 1}  Says B is an alphabet of two symbols, 0 and 1.<br />
+  C = {a, b, c}  Says C is an alphabet of three symbols, a, b and c.<br />
+  Sometimes space and comma are in an alphabet while other times they<br />
+  are meta symbols used for descriptions.<br /><br />
+
+String also called a Word <br />
+  A finite sequence of symbols from an alphabet.<br />
+  01110 and 111 are strings from the alphabet B above.<br />  
+  aaabccc and b are strings from the alphabet C above.<br />
+  A null string is a string with no symbols, usually denoted by epsilon.<br />
+  The null string has length zero.<br />
+  The null string is usually denoted epsilon.<br />
+  Vertical bars around a string indicate the length of a string expressed as
+  a natural number. For example  |00100| = 5, |aab| = 3, | epsilon | = 0<br /><br />
+
+Formal Language, '''also called a Language''' [emphasis addeded] <br />
+  A set of strings from an alphabet.<br />
+  The set may be empty, finite or infinite.<br />
+  There are many ways to define a language. See definitions below.<br />
+  There are many classifications for languages. See definitions below.<br />
+</blockquote>
+http://www.cs.umbc.edu/help/theory/lang_def.shtml
+
+Putting these latter together we have:- 
+
+<blockquote>
+A formal langauge is a set of finite sequences of symbols from a finite set of symbols, where a symbol is either a character, glyphs or  mark OR abstract entitity that has no meaning by itself OR a letter from one of various  alphabets.</blockquote>
+
+The definitions of alphabet and word are familiar enough. What is surprising is this concept of ''formal language'' does not include any rules of syntax.  It does not exclude them so I must suppose that SOME formal langauges are defined by rules of syntax as well as an alphabets (otherwise known as a ''vocabulary'' I believe) and our old friends used in Logic are examples of the latter - formal languages with a syntax/rules of grammar.
+--Philogo 23:51, 27 May 2008 (UTC)
+:I don't know what you want about the letters/symbols/whatever. Mathematically these are just arbitrary things/ideas/sets/elements/whatever. We are not concerned with what they are; its outside the scope of formal language theory.
+:Of course, (almost) all formal languages that are defined in practice are defined via some rules of syntax. The important points for a mathematician are 1) even an arbitrary set of words with no (known) rules of syntax is still a formal language, and 2) two languages ''L<sub>1</sub>'' and ''L<sub>2</sub>'' that have exactly the same words but different rules of syntax are in fact exactly the same formal language. Mathematician need this degree of precision because, for instance, they need to know whether the set ''{L<sub>1</sub>, L<sub>2</sub>}'' has one or two elements. So it has to be fixed whether the grammar is "officially" part of the language or not. It could have been fixed in a different way, but this is how it has been done.
+:In the meantime I found a source for many of the things that I wrote without a source (because I had learned them by osmosis rather than from a book). It's already cited in the article: [http://www.cs.cmu.edu/~lkontor/noam/Mateescu-Salomaa.pdf]. Please look at the basic definitions in Section 2.1. In particular it defines the term "(formal) language". It seems to contradict what I said about the field being computer science rather than mathematics; this may be because just like mathematicians feel it's really computer science, perhaps computer scientist feel it's really mathematics. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 14:09, 28 May 2008 (UTC)
+:PS: You might also want to search for "logic" in the text I cited. They are of course not using logic to explain the basics of formal languages, because it would be confusing and misleading. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 14:20, 28 May 2008 (UTC)
+:Philogo, the reason that the definition of (formal) language does not include rules of syntax is that formal language theory is concerned with means of describing languages!  It studies, for example, whether particular types of syntactic rules are more expressive, or less expressive, than other types of syntactic rules.  It studies whether for particular types of syntactic rules we can automatically determine whether a particular sequence of symbols is valid according to those rules (it turns out that it's very easy to define types of rules for which this is not the case).  Etc. Etc.  Therefore, in formal language theory we strictly separate  languages themselves (i.e. that which can be described) from formalisms to describe languages. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 12:07, 29 May 2008 (UTC)
+
+== Metalogic ==
+
+The "basic objects of study in [[metalogic]] are formal languages ..." according to Hunter. That would seem to be a pretty firm statement of the fact. I don't think Hans has given a very good reason for deleting this fact. Either we recognize and identify this fact here, or perhaps there needs to be a separate article if other editors are going to let Hans delete anything having to do with logic, metalogic, or philosophy. Hans will no doubt claim that the "Handbook" doesn't include these aspects, and that is all that matters. I think that is a very limited way to understand formal languages. Metalogic, and the Hunter textbook is still being used in classrooms Hans. So, I think you are relying on a very limited experience of it to say what everyone should and should not be doing here. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:17, 7 June 2008 (UTC)
+
+: Greg could you, as you so often exhort others to do, limit your comments to content and stop the personal attacks? Thanks [[User:Zero sharp|Zero sharp]] ([[User talk:Zero sharp|talk]]) 23:51, 9 June 2008 (UTC)
+
+::Well this isn't very "personal" at all. So that is really just ramping up the sensitivity level. However, in the spirit of cooperation, I will conciliate. My apologies Hans. However it is fair to note that ''we all'' have a limited perspective on things, so we shouldn't be so quick to condemn other people's perceived ignorance. I think there has been entirely too much of that sort of thing, and I for one would be grateful to see it end. Hans has been very strident in his positions, and I don't think even his colleagues in mathematics agree with everything he does. He has deleted a great deal of wonderful material from this article, much of which can be found preserved [[User:Gregbard/Sandbox/Formal language (logic)|here]]. --GB 
+
+: In what way does "metalogic" differ from "mathematical logic"?  Reading the talk page of [[metalogic]], apparently none.  So perhaps everyone would be agreeable to putting "mathematical logic" there in the sentence.  --[[User:C S|C S]] ([[User talk:C S|talk]]) 00:29, 10 June 2008 (UTC)
+
+::That would be just fine. Thanks. Now that we agree that there is some place for logical applications of formal languages here, I invite you all to consider [[User:Gregbard/Sandbox/Formal language (logic)|this content]]. Be well, [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 01:28, 10 June 2008 (UTC)
+
+::The differences between "metalogic" and "mathematical logic" seem to be the following:
+::*The term "mathematical logic" is used by mathematicians to refer to a wide area of mathematics that includes the kind of elementary logic + incompleteness theorem (the latter is not elementary) that philosophers are typically interested in, and that also includes formal language theory (something completely different). But also recursion/computability theory, set theory, infinitary logics, and many other fields.
+::*The term "metalogic" is not used by mathematicians at all.
+::*The term "mathematical logic" is used by philosophers to refer to the kind of elementary logic + incompleteness theorem that they are typically interested in. They are typically unaware that this is only a tiny fraction of the mathematical area of that name. This definition of "mathematical logic" does not include formal language theory, although syntactically, finitary logics can of course be formalised as certain formal languages. This is how the term "formal language" gets into books that don't define it and aren't interested in it in general. (In other words: which aren't reliable sources for the topic.)
+::*The term "metalogic" has been used by one author (Hunter) to refer to "mathematical logic" in the restricted, philosophical, sense.
+::Hunter's book seems to have a reputation for being particularly accessible. It seems that Gregbard has read the book. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 11:42, 10 June 2008 (UTC)
+
+::: Hans: I find the term 'metalogic' used to refer to things like satisfiability, consequence and validity (in the model-theoretic sense) in: Boolos, Burgess, Jeffrey "Computability and Logic" 4th Ed Section 10.2 "Metalogical Notions" where the term seems to be in distinction to 'logical' notions such as negation, conjunction, etc. Whether this is the sense of the term meant by Gregbard (or by Hunter who I have not read) isn't clear. [[User:Zero sharp|Zero sharp]] ([[User talk:Zero sharp|talk]]) 14:52, 10 June 2008 (UTC)
+
+::::I think we had a similar discussion before, when Gregbard was moving everything and the kitchen sink into the category [[:Category:Metalogic]], which he created. If I remember correctly, Hunter is using the word in the way I described above, and that's what Gregbard relies on.
+::::Also, while formal language theory can be argued to be in the scope of mathematical logic (although not in the way that Gregbard seems to imagine, but because things like Turing machines are in the scope of mathematical logic), I don't think it makes sense to say that it falls under "metalogic" in the sense that you describe. Under both interpretations of "metalogic" the word doesn't belong into this article. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 22:53, 10 June 2008 (UTC)
+
+::::: Understood, thx for clarifying [[User:Zero sharp|Zero sharp]] ([[User talk:Zero sharp|talk]]) 23:35, 10 June 2008 (UTC)
+
+== Definition of a formal language allowed to contain 'rules' but not 'syntactical rules'? ==
+
+I'm a little confused by the following two statements in the article (emphasis mine) "Formal language theory is most interested in formal languages that are defined by some syntactical rules, <b>but these rules are not part of the definition</b>...", because under the heading that follows the first example says, "The following <b>rules</b> define a formal langugae L...".  Aren't some of those rules syntactical?  What's going on here?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tevoosare|Tevoosare]] ([[User talk:Tevoosare|talk]] • [[Special:Contributions/Tevoosare|contribs]]) 23:26, 31 August 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:A formal language is defined as a subset of A<sup>*</sup> -- the set of all possible finite-length strings the alphabet A (where * is the [[Kleene star]]). It is nothing more, nor less.  Some languages can be described by rules: for example, the [[regular language]]s, or [[context-free language]]s.  Part of comp sci is to figure out when you can use rules to define a language (and what kinds of rules these might be). [[User:Linas|linas]] ([[User talk:Linas|talk]]) 01:44, 1 September 2008 (UTC)
+
+:Yes, all rules are syntactical. I'll see if I can fix the wording. [[User:Linas|linas]] ([[User talk:Linas|talk]]) 01:45, 1 September 2008 (UTC)
+
+::Ah, I see.  Thank you for clarifying.  Would it be useful to distinguish between the words 'define' and 'describe' in the article?  For instance, "In practice, there are many languages that can be <b>described</b> by rules, such as regular language..." and "The following rules <b>describe</b> a formal language L over the alphabet Σ = ...".  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tevoosare|Tevoosare]] ([[User talk:Tevoosare|talk]] • [[Special:Contributions/Tevoosare|contribs]]) 19:19, 1 September 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+::imo that would reduce the ambiguity even further, although this being a math article I hesitate to make the change myself for fear of introducing some other confusion.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tevoosare|Tevoosare]] ([[User talk:Tevoosare|talk]] • [[Special:Contributions/Tevoosare|contribs]]) 21:04, 1 September 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:::Done. [[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 09:27, 19 January 2009 (UTC)
+
+==Inconsistent example==
+1=1 is in L - by 3 and 1
+2=2 is in L - by 3 and 1
+
+1=1+2=2 is in L - by 4
+
+On the other hand, 1=1+2=2 is not in L - by 3
+Therefore, contradiction.
+[[Special:Contributions/121.44.250.248|121.44.250.248]] ([[User talk:121.44.250.248|talk]]) 12:26, 23 May 2009 (UTC)
+
+:Thanks, fixed. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 15:24, 23 May 2009 (UTC)
+==Assessment comment==
+{{Substituted comment|length=599|lastedit=20080214212511|comment=Restructuring would help. The lead should be an overview, and more introductory material could make this article more accessible. [[User:Geometry guy|Geometry guy]] 23:22, 22 June 2007 (UTC)
+
+
+
+A clear distinction should be drawn between the syntax, which is defined through a formal language (or, more indirectly, by the a set of rules describing the language), and the semantics, which is *assigned to*, not: *part of*, the formal language itself. For a more detailed account, see my post on the bottom of talk page. [[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 21:23, 14 February 2008 (UTC)}}
+Substituted at 20:34, 2 May 2016 (UTC)
+==Structural linguistics==
+
+I once had a book entitled "Structural Linguistics". It appears to me that "formal" here is simply a synonym for "structural", and that "language" is being used to refer to "linguistics".  Does structural linguistics merit a mention in this article? [[User:Unfree|Unfree]] ([[User talk:Unfree|talk]]) 22:37, 28 June 2009 (UTC)
+
+:Perhaps.  [[Formal language theory]] is definitely a particular continuation of [[Structural Linguistics]].  However, linguistics is the study of natural languages, while formal language theory is mostly applied to artificial ones.  [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 19:11, 29 June 2009 (UTC)
+
+==Feminist grammar==
+
+I find nothing in Wikipedia about the alterations to English usage recommended by feminists. [[User:Unfree|Unfree]] ([[User talk:Unfree|talk]]) 22:37, 28 June 2009 (UTC)
+
+:You are clearly at the wrong article. There is a hatnote starting with "This article is about a technical term in '''mathematics and computer science'''" (my bold). Both of your questions relate to linguistics, so you probably want [[grammar framework]] or an article linked from there. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 23:40, 28 June 2009 (UTC)
+
+== Every set of words ==
+
+I agree with Hans Adler's edit earlier today. Once one fixes an alphabet, every set of words on that alphabet is a formal language. Moreover, I am not sure what "precise syntactical meaning, programmable for computer interpretation" means. If one starts with an uncountable alphabet, how could the language be programmable for computer interpretation in any sense? &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 16:09, 30 June 2009 (UTC)
+
+==We have a excessive general definition==
+
+In the sense defined in this article, one could create a 'formal language' exactly as English, but without empirical semantics. So, altrough even Routlegde Encyclopedia of Philosophy says that "In the most general sense, a formal language is a set of expressions", would be great to include a not-so-general definition in the article. (Rafael, 9 July 2009)
+:I don't see a problem. If you can give a precise definition of the grammatical sentences of English (actually I am sure you can't), or something that comes pretty close, then you can define a formal language that looks like English. Also, the set of all Wikipedia article source codes as of today midnight GMT is a formal language over the Unicode alphabet.
+:This is currently a mathematics and computer science article, and for these fields this is a well established standard definition. I am not aware of any variants, other than the occasional assumption that every language is defined by a grammar, which is made either for expository reasons or due to the author's confusion, and is not made in situations where the definition is used in a non-trivial way, i.e. for mathematical existence or non-existence proofs.
+:If you can find a different precise definition of the term 'formal language', say in linguistics, then it can be added to this article or put into a separate article; or perhaps it will be better known under a different name, and already have an article under that name. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 15:01, 9 July 2009 (UTC)
+::This problem keeps coming up.  The article should make it clear ''why'' the definition is what it is (namely, that formal language theory is devoted to studying formalisms for defining syntax). [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 16:32, 9 July 2009 (UTC)
+:::I agree. Unfortunately it's rare for mathematics texts to discuss the motivations for definitions in detail, so finding a reliable source for such an explanation might prove tricky. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 17:21, 9 July 2009 (UTC)
+::::A bit of explanation for this modeling decision is found at the very beginning of Chapter 1 in the Handbook: [http://www.cs.cmu.edu/~lkontor/noam/Mateescu-Salomaa.pdf "Preface" in Vol.1, pp. v-viii, and "Formal Languages: An Introduction and a Synopsis", Chapter 1 in Vol. 1, pp.1-39]. Maybe this can serve as a source, I am currently not aware of others. There might be some textbook on Computational Linguistics that elaborates more on this point, but this is a vague guess. [[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 09:00, 10 July 2009 (UTC)
+:::::Another clue: the book that established most of the framework of formal language theory is called [[Syntactic structures]]. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 07:51, 21 July 2009 (UTC)
+
+== Merger proposal ==
+
+It has been proposed to merge the stub [[Formal language theory]] into this article. Since it's only a stub, I agree. I guess one could write a big article on the topic. In that case the present article would serve as a simple introduction to just the basic notion, which is also used in fields not closely related to formal language theory. But a temporary merge is OK and probably beneficial. A section on formal language theory in this article might even attract more activity than the separate article. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 08:26, 20 August 2009 (UTC)
+:I agree to merge, especially since it is a stub and reduplicates (only a small part of) the information found in this article. [[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 12:15, 20 August 2009 (UTC)
+:I also agree.  What is more, I propose to call the merged article '''Formal language theory''': it may put an end to some of the unsatisfactory discussions we've seen here. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 19:58, 20 August 2009 (UTC)
+::I am not sure that renaming is a good idea. At the moment it wouldn't really reflect the content of the article, and it might even inspire someone to create a POV fork under the present name. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 20:07, 20 August 2009 (UTC)
+:::I'm also not sure about the renaming idea. I support the merge though (since I proposed it). --[[User:RobinK|Robin]] ([[User talk:RobinK|talk]]) 22:00, 20 August 2009 (UTC)
+
+==Redundant passage removed==
+I have just removed the following passage recently added to the article text by Gregbard:
+:"A formal language can be identified as its set of well formed formulas. If the set of all wffs of a formal language <math>\mathcal{L}</math> is identical to the set of all wffs of a formal language <math>\mathcal{L'}</math>, then <math>\mathcal{L}</math> is the same formal language as <math>\mathcal{L'}</math>; and if not, then it is not the same.<ref>Geoffery Hunter, ''Metalogic''</ref>"
+According to the mathematical definition given few lines before that passage, a formal language is nothing else than a set of words, or equivalently, of well formed formulas. Following this definition, the removed passage says that two sets of wffs are the same if the wffs they contan are the same. This is clearly true for any [[set (mathematics)|set]], so where is the point? [[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 16:39, 13 September 2009 (UTC)
+:I agree. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 16:48, 13 September 2009 (UTC)
+
+::The reason it is of note is that it contrasts to formal systems in that a formal system cannot be identified by a set of all its theorems. Two formal systems <math>\mathcal{S}</math> and <math>\mathcal{S'}</math> may have all the same theorems and yet differ in some significant proof-theoretic way ( a formula A may be a syntactic consequence of a formula B in one but not another for instance). The statement itself seems very fundamental to the nature of a formal language, so as to just if its conclusion in the lead paragraph. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:31, 14 September 2009 (UTC)
+
+:::The point you seem to want to stress is the following: A formal system is a certain mathematical object, of which a central property are its theorems. But a formal system is more than just a set of theorems, or formulas, and that is why we do *not* consider two formal systems equivalent already if the sets of their theorems are the same. In contrast, a formal language is nothing else than a set of words (in some contexts called wffs or theorems). Thus (of course) we consider two formal languages equivalent already if their wffs coincide. I want to explain my problem with the removed paragraph using a somewhat absurd analogy. The removed paragraph says something like
+::::Two [[real number]]s x,y are considered as being the same if their [[real part]]s coincide, i.e. <math>\Re(x)=\Re(y)</math>.
+:::Of course, the above sentence no longer holds for [[complex number]]s and thus "seems very fundamental to the nature of a real number". Yet this sentence about the real numbers makes sense only if one already has in mind more complicated objects (complex numbers). It is thus probably more appropriate to explain that difference in the article about [[formal system]]s &ndash; provided it needs to be explained at all. [[User:Hermel|Hermel]] ([[User talk:Hermel|talk]]) 13:21, 15 September 2009 (UTC)
+
+== Image ==
+
+What exactly is the problem with the clear image explaining these basic relationships? I think if you do not see this as a correct understanding of things I would find that astonishing. These are the basics. Furthermore, I have seen this type of diagram in several different texts on the subject. If there is some clarification to make, I would welcome that, however blank stares or their equivalent will not suffice. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 23:52, 12 September 2009 (UTC)
+
+:I am quite confused about what the text "Formal languages" at the top is supposed to mean. The formal language consists of the well-formed formulas, so I would expect "formal language" to be in the second square instead of the top. Is it supposed to be a title? If so, I would suggest moving it to the caption. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 00:18, 13 September 2009 (UTC)
+
+::This is very constructive, I may redo the image soon. It is true that a formal language is identical to its set of wffs. Basically "Formal languages" was intended as a title and also seemed to serve as the title of the "universe" which these squares are slicing up just fine. However if there is confusion, I will address it by removing the title. The diagram is saying that for any formal language there are ''symbols and strings of symbols'' ... and among those symbols and strings of symbols some are ''well formed formulas'' ... and among those well formed formulas some are ''theorems''. In my mind a diagram like this helps the reader quite a bit. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 01:03, 13 September 2009 (UTC)
+
+:::What exactly is the image conveying? Is it conveying this relationship: The set of theorems is a subset of the set of wffs. The set of wffs is a subset of <math>\Sigma^{*}</math>? --[[User:RobinK|Robin]] ([[User talk:RobinK|talk]]) 02:24, 13 September 2009 (UTC)
+
+::::That's what I get out of it, now that it has been updated. I don't have any problem with a Venn diagram illustrating the relationships between these things. In the context of the present article, there is an an additional, subtle point. A formal language, on its own, doesn't have "theorems"; one has to introduce some sort of deductive system to get that. So in the context of this article, only the outer two boxes in the diagram are truly relevant. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 12:22, 13 September 2009 (UTC)
+
+::::: The content which provided much relevance has been repeatedly removed. I have tried to provide content on the use of formal languages in formal systems, proofs etcetera. It's a big waste of wonderful contributions in an area needing coverage, to which many of the math regulars have been quite hostile. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:37, 14 September 2009 (UTC)
+
+Gregbard has solved the worst problem, but the image is still not appropriate for this article, at least not in its current position. (Perhaps in a new subsection on logic.) The problem is that the terms ''well-formed formula'' and ''theorem'' don't occur outside a logic context, and that this logic context is ''not'' the overwhelmingly dominating context for the discussion of formal languages ''at all''. If we take [[ASCII]] as the alphabet we can consider the set of syntactically correct [[C (programming language)|C programs]]. These are not called "well-formed formulas" to distinguish them from arbitrary strings of ASCII symbols. And as CBM pointed out, an analogue of "theorems" doesn't even exist in this case. Similarly for linguistics, the original context of formal languages: Given a formal grammar that approximates English, the syntactically correct English sentences are ''not'' normally called "well-formed formulas", and again there is no analogue for "theorems". [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 14:31, 13 September 2009 (UTC)
+
+The image is inappropriate both here and at [[symbol (formal)]].  CBM and Hans Adler explain it pretty well.  The theorems that come from a given deductive system do constitute a formal language, just like grape juice fermentation constitutes a chemical reaction, but we wouldn't expect a large diagram about wine varieties at the top of the general article about chemistry.  I'd suggest having a section about complexity classes, in which the theorems of some mathematical [[theory (mathematical logic)|theories]] could be mentioned as examples of recursively enumerable languages. [[Special:Contributions/207.241.229.56|207.241.229.56]] ([[User talk:207.241.229.56|talk]]) 23:05, 15 September 2009 (UTC)
+
+::I have to strongly disagree with this very silly analogy. While almost all (if not all) the mathematical and computer use of formal language can expressed in terms of the logical uses of formal language, it is not true that all of chemistry consists in variations of grape juice. This content is either appropriate here or we need to create [[formal language (logic)]], which I am increasingly seeing as inevitable. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 21:09, 17 September 2009 (UTC)
+
+:::I think it's a bit idiosyncratic to think of formal languages as a topic within mathematical logic, rather than one slightly intersecting it.  I don't see a need for a separate logic-specific article about formal languages either, but that's a separate issue.  Sure, all the stuff in Hopcroft and Ullman's book can be expressed in terms of mathematical logic, but so can basically everything else in mathematics (that's the whole ''point'' of mathematical logic).  We still treat mathematical logic as a branch of mathematics, not the other way around.  [[Special:Contributions/207.241.229.56|207.241.229.56]] ([[User talk:207.241.229.56|talk]]) 03:22, 18 September 2009 (UTC)
+
+::::As I understand it, the goal of [[formal language (logic)]] is ''not'' to describe the usage in mathematical logic, but rather th explain the usage in some other, nebulous kind of logic. To the extent that formal languages are "studied" in mathematical logic, they are the same as in computer science and linguistics. But it's actually a stretch to claim that mathematical logic involves the study of formal languages, just as it would be a stretch to say that physics includes the study of functions because the position of a particle is a function of time. Mathematical logic uses the terminology of formal languages when it is convenient to do so, but otherwise is not particularly interested in the generalities of formal languages. I am going to touch up the lede on this point. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 17:47, 18 September 2009 (UTC)
+
+== proposed expansion ==
+
+The current state of the article seems pretty skimpy to me, despite the excessive diagram.  I think it could be refactored/expanded with an outline something like this:
+
+* Mathematical definition
+* Formal grammars
+* [[Chomsky hierarchy]] and relation between grammars and automata
+* [[complexity class]]es
+* deductive systems and [[theory (logic)|theories]]
+* maybe another topic or two, like infinitary languages
+
+The logic section would allow getting in a mention of wff's and theorems.  I might attempt this in my nonexistent free time.  Anyone else is of course also welcome to.
+
+[[Special:Contributions/207.241.229.56|207.241.229.56]] ([[User talk:207.241.229.56|talk]]) 23:40, 15 September 2009 (UTC)
+
+: Please be careful not to elaborate on topics that have their own articles.  [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 00:22, 18 September 2009 (UTC)
+
+::Some of the topics that have their own articles '''shouldn't''', and should be reabsorbed here.  — [[User:Arthur Rubin|Arthur Rubin]]  [[User talk:Arthur Rubin|(talk)]] 00:25, 18 September 2009 (UTC)
+
+:::Are you referring to any of the six bullets above? &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 00:47, 18 September 2009 (UTC)
+
+::I was thinking in terms of having a paragraph or so about each of the bulleted topics, with a "main article: ..." link to the separate article about the topic.  "Formal language" would become an overview article, since it reaches out into a lot of different areas. [[Special:Contributions/207.241.229.56|207.241.229.56]] ([[User talk:207.241.229.56|talk]]) 03:13, 18 September 2009 (UTC)
+
+I also think the complexity classes should be mentioned. I added [[Kolmogorov complexity]] and [[descriptive complexity theory]] to "see also for now". [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|<small>ping</small>]] 05:35, 19 September 2009 (UTC)
+
+==OMG==
+
+Having just read through the talk archive of this article, I see there's been longer-running disagreements than I'd realized.  I admire Gregbard's enthusiasm but Hans Adler and CBM really do know what they're talking about.  Greg, you might read the Hopcroft and Ullman book cited in the article.  It is pretty accessible without requiring knowing a lot of math.  It is probably the most reliable source in the subject.  It has 9785 citations in Google Scholar [http://scholar.google.com/scholar?cites=11232671229043125301&hl=en] while Hunter's Metalogic has 56 citations.[http://scholar.google.com/scholar?cites=9796218229339377061&hl=en].  
+
+I think the article should be rewritten using the H&U book as the main authority for determining weight, with a few other topics like logical theories sprinkled in (and maybe also something from algebra, like the word problem for finite groups).  The outline I gave further up should still more or less work.  
+
+I notice that the strings/wffs/theorems diagram is gone from this article now, but it is still in some other articles [[Theorem]], [[Well-formed formula]], [[Syntax (logic)]], and [[Symbol (formal)]], plus [[Formal language (logic)]] which is under deletion discussion.  I think it is out of place in at least the wff, syntax, and symbol articles.  I also don't understand its emphasis on wffs and theorems.  CBM would know better than me, but I thought the king of logical theories was [[true arithmetic]], to which I'd say the concept of theorems doesn't apply in the usual sense.  The diagram is misleading regarding theories like this.  Anyway I mention that to point out that there may still be problems related to the diagram.  
+
+I hope the disputes can be sorted out since I'm sure they are burning a lot of people's energy.  I personally had a kind of epiphany when I first studied mathematical logic as an undergraduate.  I wanted to apply ideas like models and interpretations to everything in life.  I got over it.  It wasn't quite as bogus as realizing that the universe is a giant burrito and starting a religion based on that, but maybe the comparison will make sense. From surprising statements like "I also believe that [[Theory]] and [[Theory (mathematical logic)]] are the same, and yet there are two articles. These splits are the result of politics not academics."[http://en.wikipedia.org/w/index.php?title=User_talk:Pohta_ce-am_pohtit&diff=314655078&oldid=314654239] (e.g. literary theory is part of that topic in mathematical logic?!) I wonder if Greg also had one of those "Eureka" moments from Hunter's book and is pursuing it wherever it goes.  If so, it's a wonderful feeling, but try not to take it too seriously.  And I wouldn't be surprised if CBM and Hans experienced it even more intensely than I did, since they became research specialists in logic, while I'm just a computer guy.  But their perspective at least now is very realistic.
+
+I'm going to try to sign off and stay away from this topic rather than get sucked into it even more.  Good luck everyone.  [[Special:Contributions/207.241.229.56|207.241.229.56]] ([[User talk:207.241.229.56|talk]]) 07:38, 18 September 2009 (UTC)
+
+: Yes, OMG indeed. [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|<small>ping</small>]] 11:17, 18 September 2009 (UTC)
+
+== Formal languages in logic ==
+
+I think I found a good source for this. [http://www.math.tau.ac.il/~aa/ Arnon Avron], "[http://books.google.com/books?id=XqCu4XjHrIQC&pg=RA1-PA217&dq=Arnon+Avron,+%22What+is+a+logical+system%3F%22#v=onepage&q=Arnon%20Avron%2C%20%22What%20is%20a%20logical%20system%3F%22&f=false What is a logical system?"], section 1. On an alphabet, one may want to distinguish several syntactic categories, e.g. variables, and for a logical system, one needs to have a category of wffs. Category here needs to be understood as subset/sort. Note that the rest of a logical system should not be confused with the formal language, so other issues like deduction and what not are off-topic here. [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|<small>ping</small>]] 14:40, 18 September 2009 (UTC)
+
+:Deduction may strictly-speaking be off-topic to an article about formal languages, but there seems to be an awful lot of confusion between formal languages, formal systems (which are also defined in syntactic terms) and formal semantics.  A brief mention is clearly appropriate in order to motivate the distinction between these. --[[User:Classicalecon|Classicalecon]] ([[User talk:Classicalecon|talk]]) 15:56, 18 September 2009 (UTC)
+:: Mention yes, [[formal language (logic)|takeover]] no. [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|<small>ping</small>]] 16:47, 18 September 2009 (UTC)
+::I repeat, I think the confusion is due to the article trying to cover formal language theory (i.e. syntax only) under the title of ''formal language'' - which name is strongly associated with languages in which both syntax and semantics are formally defined and therefore strongly invites discussion of semantical aspects of such languages. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 17:10, 26 September 2009 (UTC)
+
+== Sentence ==
+
+I moved this from the lede:
+:Formal languages are purely [[syntax (logic)|syntactical]] entities; they are defined without any reference to their [[meaning (linguistics)|meaning]] or [[semantics]], either formal or informal. 
+
+The issue is that the following are mutually inconsistent:
+* The set of formulas in the language of Peano arithmetic that are true in the standard model is a [[theory (mathematical logic)]]
+* Every theory is a formal language
+* A formal language is always definable without reference to the semantics of its words
+
+:Correct.  The third statement is false.  It is false because in this case, the semantics are defined entirely in terms of formal symbol manipulation rules.  There isn't a clear-cut universally upheld between syntax and semantics in this area. [[User:Rp|Rp]] ([[User talk:Rp|talk]]) 10:30, 6 October 2009 (UTC)
+
+The key point here is that ''every'' set of words in a particular alphabet will be a formal language, but only countably many sets of words over a finite language can possibly be finitely definable, much less syntactically definable. The bullets above are just one concrete instance of this phenomenon. 
+
+If we want to add something to the article to the effect that Hunter's book uses "formal language" in a more restricted sense, that should not be in the lede, since that would be just a point about a particular book. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 02:06, 3 October 2009 (UTC)
+
+::The exact quote is "It must be possible to define both sets [referring to the set of A) symbols and B) the formation rules] without any reference to interpretation: otherwise the language is not a formal language." Carl, this makes complete sense otherwise mathematics wouldn't be useful at all. The whole point is that they are truths, the truth of which does not depend on any particular subject matter it is applied to. I find as least some issues in your first two statements:
+
+::1) seems to be breaking the rule directly, and so the question is 'Is #1 wrong or is it sometimes okay to let semantics creep into these definitions.' This is what I think is the essence of the problem in this case. You cannot define a formal language by saying "all the sentences that are '''true''' in this case, the other case, etcetera.... are formulas of a formal language L." That is expressly forbidden, and forbidden for a good reason. You no longer have claim to a rigorous system if you let this slide. Hunter gives ''several'' examples.
+
+::2 should be more precisely stated: "Every "formal theory" can be expressed as a formal language." I think the stronger claim that it ''is'' a formal language depends on the fact that there do not have to be any actual token instances of a formula in order for it to be a formula of a formal language -- I am pretty sure you were backing away from that claim in another discussion?! In any case, perhaps there is some kind of mish-mash when going from theory to language in this case?
+
+::Be well,[[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 23:39, 3 October 2009 (UTC)
+
+:::There are huge numbers of sources for the claim that any set of words constitutes a formal language; here are some that I looked up on google books just now. 
+:::*"A (formal) language is a set of strings of symbols from some one alphabet." ''Introduction to automata theory, languages, and computation'', John E. Hopcroft, Jeffrey D. Ullman, 1979, p. 2
+:::*"Any set of words over [an alphabet] is called a formal language over [that alphabet]" ''Encyclopedia of Computer Science and Technology'', Allen Kent, James G. Williams, p. 366 
+:::*"Subsets (finite or infinite) of [words over an alphabet] are referred to as (formal) languages over [the alphabet]." ''Handbook of Formal Languages: Word, language, grammar'', Grzegorz Rozenberg, Arto Salomaa, p. 11
+:::*"A formal language over an alphabet is any set of strings of characters of the alphabet" ''Discrete mathematics with applications'', Susanna S. Epp, p. 243
+:::*"A formal language is any proper or non-proper subset of the set of all strings which can be formed using zero or more symbols of the alphabet A" ''A Concise Introduction to Languages and Machines'', Alan P. Parkes, p. 15
+:::*"A (formal) language L over an alphabet is simply defined as any subset of [the set of words over the alphabet." ''A first course in formal language theory'', V. J. Rayward-Smith, 1983
+:::*"A language over [an alphabet] is any subset of [the set of words over the alphabet]." ''Theoretical computer science'', Juraj Hromkovič , p. 22
+:::*"By a language we simply mean a set of strings involving symbols from some alphabet." ''Introduction to languages and the theory of computation'', John C. Martin, p. 28
+:::*"A language is a subset of [the set of words over an alphabet], and every such subset is a language." ''An introduction to formal languages and automata'',  Peter Linz, p. 279. From p. 15: "A language is defined very generally as a subset of [the set of words over some alphabet]. ... any set of strings over [an alphabet] can be considered a language". 
+
+:::None of these authors (several of whom are writing books explicitly about formal languages) adds a caveat that the language must be syntactically definable. Several, however, explicitly use the word "any". The restriction to languages that can be defined "without any reference to interpretation" is simply an idiosyncrasy of Hunter's, not a generally-accepted definition of a formal language. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:34, 4 October 2009 (UTC)
+
+::::Um, Carl, I hate to do this to you, but not one of the several definitions you gave necessarily says anything about an ''interpreted'' word or an ''interpreted'' string of symbols etcetera. It still could be that these authors just take it for granted that they are uninterpreted, and it is still the case that the requirement holds. I would say that since that is the case for all of them, that they are purposely avoiding the issue in their language. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 01:42, 4 October 2009 (UTC)
+
+:::::Let L be "the set of all sentences in the language of arithmetic that are true in the standard model of Peano arithmetic". Then L is certainly some set of words over a finite alphabet, so according to all these authors L is a formal language. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:44, 4 October 2009 (UTC)
+
+::::::...and that is a circular definition of a language defined as a language. L is the set of '''true''' sentences of a '''language''', and oh by the way L is a language, and by the way it is a language useful for expressing truths. That doesn't work. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 01:49, 4 October 2009 (UTC)
+
+:::::::Are you saying that set L is not actually well defined? L is the theory known as "true arithmetic" and is perfectly well defined. In the terminology explained at [[theory (mathematical logic)]], L is the "complete theory of the standard model of arithmetic using the signature of first-order arithmetic". &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:54, 4 October 2009 (UTC)
+::::::::PS We even have an article on it: [[true arithmetic]]. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:58, 4 October 2009 (UTC)
+:::::::::Carl, the article states explicitly that "true arithmetic" is not arithmetically definable. That is a separate issue from defining a formal language....although it is still consistent with my claim.-GB
+
+Remember we are talking here about the claim I moved from the article,
+:"Formal languages are purely [[syntax (logic)|syntactical]] entities; they are defined without any reference to their [[meaning (linguistics)|meaning]] or [[semantics]], either formal or informal."
+It is true that formal languages are syntactical entities, in the sense that they are simply sets of words, and words are by definition syntactical entities. But there is no restriction on how the set of words that constitutes a formal language may be defined. In many cases there will be no definition, because there are uncountably many sets of words over any nonempty alphabet, but only countably many definitions of a set of words in English. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:54, 4 October 2009 (UTC)
+::There does seem to be an explicit statement to the contrary in a reliable source. Furthermore, the many examples you have taken the time to gather (which I appreciate) do not serve to support the point you were trying to make. It seems for sure that things are being taken for granted here, and commonly so. So my question now is, "Should we take for granted that it is okay to allow the interpretation of a formal language to become part of its definition?" There does not seem to be any evidence given that we can, only that apparently we do anyway. 
+::I don't think we should take things for granted on behalf of the reader. If you include any semantic element in defining a formal language, you can't use it to reason. Perhaps this is the issue? If you are not using the formal language to infer from one formula to another it doesn't matter at all? Because in the context of a formal system it has to be this way or it isn't a deductively sound system. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 19:35, 5 October 2009 (UTC)
+
+:::The point of the sources I gathered was to document the standard definition of a formal language as any set of strings in a fixed alphabet.  Do you dispute either of the following?
+:::* There are several textbooks on formal languages that explicitly define a "formal language" as any set of strings over an alphabet
+::::Why would I dispute it, it does not refute my point at all. "Any strings" means the same thing as "any strings regardless of their meaning."
+:::* "The set of formulas in the signature of Peano arithmetic that are true in the standard model" is a set of strings over a finite alphabet
+::::I wouldn't refute that either, it seems to be a sentence that makes sense and is true... however it also does not refute my point at all. It may be the case that the "formal language" being used is required to be defined only syntactically, and that you are in ''reality'' dragging a interpretation of a distinct, but apparently identical formal language into the picture with this fallacious move. '''You can't be defining the formal language at this point if you are already using it and saying what is true or not in the language.''' It must be a distinct formal language being used which ''is'' defined only syntactically, and only later down the road are you able to say anything about "true in a standard model". You can say they are the same, one, and identical; they can have all the same formulas in practice too; but if it is only that way by accident it isn't a formal language. If you define it the way you have, you do not have a deductively valid system. I'm sorry Carl, I don't see any way out of this other than to understand it. It absolutely ''is'' circular the way you have it.
+:::It is true that Hunter does not follow the common definition, but (as I have been saying) this is apparently simply an idiosyncrasy of Hunter's. It doesn't mean that the majority of sources about formal languages are ignoring something. If anything, it means that Hunter has ignored the definition of "formal language" that is commonly used in books about formal languages. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 19:44, 5 October 2009 (UTC)
+::::It seems you are falling back on impugning the source. I don't agree that Hunter is idiosyncratic. I sought out my own copy because he was covering the material I was interested in ''after reading many other sources''. I find his usage quite consistent with a lot of others. Hunter has quite a bibliography in the back as well. I think there is just a different body of literature out there for philosophers than there is for mathematicians. The attitude always seems to be that the philosophers are pretenders, when in reality that is not the case (especially in this particular case of deductive integrity). On certain issues the philosophers are going to deserve the final say, and on some issues the mathematicians deserve the final say. In the end it is a matter of giving each their due. I hope you are well Carl. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 20:41, 5 October 2009 (UTC)
+:::::If you argue that Hunter agrees with other texts, can you point to any other books, beside Hunter, who claim that a formal language is not just any set of strings, but only a set of strings that can be defined "without reference to their meaning or semantics, either formal or informal."? I went to the trouble of pointing out several books that do not make any such restriction. Moreover, those books are explicitly on the topic of formal languages, unlike Hunter's book. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 22:07, 5 October 2009 (UTC)
+
+One thing that may be confusing you is that, in the example of true arithmetic, there are two formal languages in play. 
+:Formal language 1: the set of all well-formed formulas over the signature of Peano arithmetic. This formal language is syntactically definable. 
+:Formal language 2: those elements of formal language 1 that happen to be true in the standard model of Peano arithmetic
+So there is no circularity in the definition of language 2: it is a well-defined subset of the already well-defined formal language 1. On the other hand, there is no possible syntactical definition of language 2. If there were such a definition, then language 2 would be definable within Peano arithmetic, which is impossible. This is why Hunter's definition disagrees with the definition presented in the texts quoted above. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 22:07, 5 October 2009 (UTC)
+
+::Carl, if you now agree with me that you were talking about what is in fact two languages, you actually have to go back and show that the ''initial one'' has any non-syntactic elements in its definition. It is very clear that the second one does, so that does not refute the point at all (still). It appears very much as a shell game to me, only why are ''you'' taken in by it? The book I am reading now is consistent with formal languages being uninterpreted until given an interpretation. This guy [http://tedsider.org/books/lfp_sample.pdf Sider has posted most of his book online]. Check out pages 4, and 41, and the rest as well. It is all consistent with what I am saying.[[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:22, 5 October 2009 (UTC)
+
+:::Could you explain how language 2 being a formal language is consistent with the claim that every language can be defined "without reference to their meaning or semantics, either formal or informal."? &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 00:34, 6 October 2009 (UTC)
+::::The fact that there is any need to split the analysis into two languages is for what reason? It is so that there exists a formal language which is only syntactically defined. THAT is a formal language. The second one which depends on what is "true in the standard model" is not a formal language. This is consistent with what I was saying. I never said that number 2 was a formal language. I also think an understanding of what "formal" means is instructive. It's the language that only contains the ''forms'' of the expressions, not any meaning, etcetera. It would seem to be a fundamental part of what it means to be a formal language. Did you take a look at that online book? Would you now say that it is also idiosyncratic? [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 22:07, 6 October 2009 (UTC)
+
+:::::Sider seems to be confused about formal languages. It seems clear that they are called "formal" to distinguish them from natural languages, which is necessary especially for the following two reasons: (1) They are a purely syntactical notion in the sense that any semantics is not part of the formal language, but something existing outside it. (Your extremist reading that such a semantics may not even be used to define the language is absurd and totally inconsistent with general mathematical practice.) (2) Also in contrast to natural languages, they are well defined. A single word either belongs to the language or not. We may not know whether it belongs to it, but that's a different matter. What can't happen is that status of a word as part of the language or otherwise depends on a speaker's mood, or changes through the invention of a neologism. This is my only attempt to explain this to you, for the reason given below. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 23:33, 6 October 2009 (UTC)
+::::::Sider does not give any definition of "formal language" in general that I can see (particularly not on page 4 or 41, but I tried to scan the rest as well). On the other hand, Sider is focused on just a few particular formal languages, rather than formal languages in general. This is why I did not look to mathematical logic books in my list of references above, because they also are unlikely to need a definition of formal languages in general. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:40, 7 October 2009 (UTC)
+
+This is getting beyond ridiculous. Gregbard, you have no right to exploit the extreme patience of Carl, a subject matter expert and a voluntary contributor to Wikipedia, in this way. If you want to learn logic, take a philosophy or mathematics course at a university, or pay for a private tutor. Or pay Carl for his tutoring. But don't force him to tutor you for free. Wikipedia is not a suitable place for [[WP:RANDY|Randy]] to get history lessons from a professor of ancient history, and it is not a suitable place for you to get logic lessons from Carl.
+
+Surely there is a point where an editor has demonstrated sufficient incompetence concerning a subject that they can be shown the door if they bother the experts in this way. ("The only book I trust, although I can't point to any particular reason to do so, disagrees with everybody else and therefore we have to follow this book." And similar nonsense.) 
+
+It does not matter whether Hunter got this definition wrong, whether he tried to introduce a new one different from the usual one (very unlikely I would think), or whether he was merely trying to explain that "a formal language is just a set of words" to non-mathematicians in words that this particular non-mathematician managed to interpret in an extremist way that has nothing to do with Hunter's intention. Carl is right and you are wrong, and every half-competent mathematician or computer scientist can see that with (or in many cases even without) a small amount of research. If you don't understand why it is ''your'' problem, and you have no right to make it Wikipedia's problem. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 23:23, 6 October 2009 (UTC)
+
+:Uncivil Hans as usual. The only person demonstrating impatience is you. Very presumptuous too. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 02:13, 7 October 2009 (UTC)
+
+As I was saying, Language 2 certainly meets the definition of "any set of symbols over a finite alphabet". That is my point: language 2 meets the definition of "formal language" that is used by the vast preponderance of texts about formal languages. Sider does not appear to directly give a definition of "formal language", unlike the sources I cited. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:40, 7 October 2009 (UTC)
+::...and that makes complete sense if you take for granted that "symbols" means "uninterpreted symbols". You think its okay to take that for granted, and I do not. Sider does face up to this issue rather than ignore it so he doesn't take it for granted, same for Hunter. Be well Carl. Thanks for your patience. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 02:25, 7 October 2009 (UTC)
+:::I do not know what you mean by "makes sense". It seems to me that Language 2 being a language flatly contradicts Hunter's definition, which is why I removed Hunter's definition from the lede. None of the references I pointed out makes any distinction between "interpreted" and "uninterpreted" symbols in the definition of a formal language. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 02:32, 7 October 2009 (UTC)
+::::A formal language is the same whether or not the symbols are interpreted.  I don't so how any rational person (even Hunter) can come to a different conclusion.  — [[User:Arthur Rubin|Arthur Rubin]]  [[User talk:Arthur Rubin|(talk)]] 02:34, 7 October 2009 (UTC)

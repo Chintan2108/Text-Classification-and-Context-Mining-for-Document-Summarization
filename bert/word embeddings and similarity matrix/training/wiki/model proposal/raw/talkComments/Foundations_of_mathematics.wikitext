@@ -1,0 +1,436 @@
+{{talkheader}}
+{{WPBS|1=
+{{maths rating|class=B|importance= top|field=foundations}}
+{{philosophy|importance=high|class=Start|logic=yes}}
+}}
+{{User:MiszaBot/config
+| algo=old(365d)
+| archive=Talk:Foundations of mathematics/Archive %(counter)d
+| counter=1
+| maxarchivesize=75K
+| archiveheader={{Automatic archive navigator}}
+| minthreadsleft=5
+| minthreadstoarchive=1
+}}
+__TOC__
+
+== Foundations and philosophy of mathematics ==
+----
+
+The recently-added text has the bias that a foundation of mathematics is actually possible.  Before that the text was balanced and ended with 'the matter remains controversial' without advocating any particular approach.  The subject matter after that line belongs in [[philosophy of mathematics]] under whatever old school (or new school) believes in it.
+
+The majority of modern mathematicians seem to believe that foundations are either non-existent or unnecessary.  They accept neither the positions of the older schools, nor do they accept the cognitive or social foundations theories.  [[Hilary Putnam]] pointed out that one can accept a sort of weak realism without accepting any form of [[Platonism]] tied to Plato's [[ontology]]  <-- apologies for the lousy condition of that article, it was written by a local sacred idiot.
+
+----
+
+Article now more complete.  Papers at end are critically important to this field and deserve summary treatment as articles, each of them.  Particularly as there are fools out there who think realist=Platonist which is just wrong.  Calling Putnam in particular a Platonist would piss him off to no end, dude.
+
+Foundations search itself may be [[scientism]].  Is that view too contoversial?
+
+:Scientism is defined on that page as:
+
+::''Scientism is the acceptance of scientific theory and scientific methods as applicable in all fields of inquiry, including morality.''
+
+:Personally I don't see the connection between a search for a Foundation for Mathematics, and say, morality; so I would call it controversial. [[User:Chas zzz brown|Chas zzz brown]] 21:16 Jan 20, 2003 (UTC)
+::Fine, we'll leave it out.  Various arguments about this connection are in Talk:Philosophy_of_mathematic, which I notice you've found, so discuss it there.
+
+-----
+
+[[Hilary Putnam]] raised an extremely important point in [[What Is Mathematical Truth?]] - which is, that you must consider [[foundations of mathematics]] as a quite separate issue from an [[ontology]], which most [[philosophy of mathematics]] theories fail to do, as they confuse the two quite hopelessly.  Specifically, Putnam said he was a realist but not a Platonist, and was clear that one could believe that mathematical ideas were 'real' without believing in any aspect of [[Plato's ontology]].  What he meant was [[foundation ontology]] or [[cosmology]] it seems, but that aspect or usage of an ontology is not in the ontology article due to it being authored by, as the above claims, a local sacred idiot.  According to the existing article there, a foundation ontology is just some kind of comp sci thing, and [[cosmology]] is only about physics and religion.
+
+At some point this sacred idiocy must be challenged and Putnam's disctinction accepted and noted in either or both of the [[ontology]] and [[philosophy of mathematics]] articles, plus here in [[foundations of mathematics]].  As it stands, this article is trapped in about 1980 and those are trapped in about 1959, without even acknowledging Wigner's points.  This is a bit confusing for anyone who actually knows the topic, and may discourage intelligent contributors, leaving the articles sadly in the hands of local sacred idiots.
+
+----
+
+Thank you Axel. [[User:Chas zzz brown|Chas zzz brown]] 18:00 Feb 10, 2003 (UTC)
+
+----
+
+Anyone, a mathematician especially, who appreciates the “unreasonable effectiveness of mathematics” and the “unreasonable ineffectiveness of philosophy" to scientific endeavors must recognize the dangers of letting "philosophy of math" ride roughshod over "foundations of math" and as a last line of defense, of letting "philosophy and foundations of math" ride roughshod over proper pure and applied maths.
+
+Just look at the talk page for "philosophy of math"!  What a mess.  Note that some of these people actually believe the destiny of science can be mastered thru verbose semantics, concepts, schema, arguments, etc.  The last time I looked, the language of science was still written in mathematics.  Fortunately, bullshit had not yet taken over in the math journals.
+
+Specialists in foundations and/or philosophy of math often over-estimate the importance of their work to those in other specialties. In fact, few mathematicians are typically concerned on a daily, working basis over logicism, formalism or any other philosophical position. Instead, their primary concern is that the mathematical enterprise as a whole always remains productive ...
+as evident by the work they are doing at the moment.
+
+Typically, they see this as insured by remaining open-minded, practical and busy; as potentially threatened by becoming overly-ideological, fanatically reductionistic or lazy. I do not know of a name for this “philosophical 
+position” but it may be the one most mathematicians adhere to more strongly than any traditional, philosophical position they also favor or agree with
+(if any).
+
+I think it would be choice to boldly, truthfully publish that the nihilistic and productive "philosophical positions" are by far the most populus amongst modern mathematicians on the "philosophy of math" and "foundations of math" pages.  Let the silent majority be heard at last.  Let the fanatical minority, steeped with all of their dreaded, formidable philosophical arguments, just go nuts (as usual).  We have nothing to fear from these people.  Some of them are just "naked emperors".  Some of them are qualified mathematicians but with a strange psychological affliction involving philosophy and/or religion.
+
+[[User:OmegaMan|OmegaMan]]
+
+== A working perspective ==
+
+==A working perspective==
+This section was moved here from the article. See above for a explanation why. :)
+{{Refimprovesect|date=July 2008}}
+To give an example, in number theory there is a huge body of doctrine, a tiny fraction of which has been developed in a particular axiomatic system, say Peano arithmetic (PA). Most of this work could be developed in PA; as a famous example, the [[prime number theorem]] is provable in [[primitive recursive arithmetic|PRA]] (Sudac (2001)), a much weaker theory than PA. But the working number theorist is concerned with proving theorems from initial assumptions which are obviously true using proof methods which are obviously correct, not with any particular logical system. In fact, the "crisis"-causing assertions discovered by Gödel ''are'' assertions about [[Diophantine equation]]s, one of the main avenues in number theory. It may or may not be the case that there is a fundamental limit to what humans can understand about numbers (i.e., there may be true number-theoretical principles which cannot be perceived as being true by any human), but Gödel's theorem does not tell us which of these is the case, and we have no way of knowing. It may or may not be that we are required to introduce principles which are not expressible in the language of first order arithmetic in order to decide questions which are (e.g. the consistency of PA), but Gödel's theorem does not tell us which of these is the case, and again we have no way of knowing. It is often asserted that in light of Gödel's theorem one must introduce set-theoretical principles in order to decide certain number theoretical questions, but this assertion is unjustified. Gödel's theorem does not put any such constraints on the nature of the principles involved (i.e. the language in which they must be expressed). The attitude of the working number theorist is thus a reasonable one: one does not spend time thinking about such things, as there is simply no way to know. Instead one continues to prove theorems, and true principles which may be outside this or that logical system will be appealed to as required. Such principles will be introduced by people thinking about and solving actual problems, on the front-line. The problems (assuming there is no limit to what humans can understand about numbers) will be solved by people carrying on in the same way as they did before.
+
+== Eudoxus ==
+
+In the section on ancient Greek mathematics, we have the following:
+:The discrepancy between rationals and reals was finally resolved by Eudoxus of Cnidus (408–355 BC), a student of Plato, who reduced the comparison of irrational ratios to comparisons of multiples (rational ratios), thus anticipating the definition of real numbers by Richard Dedekind (1831-1916).
+As I understand it from reading [[Eudoxus of Cnidus]], what Eudoxus actually did was define equality of two ratios by way of a logical relation between comparisons of each ratio's components: given integers m and n, a/b = c/d if and only if for all R in {<, =, >}, ma R nb if and only if mc R nd. To use this definition to "reduce comparisons of irrational ratios to comparisons of rational ratios", we would need to choose m and n such that ma, nb, mc and nd are all integers. But this is impossible: if m and ma are integers, a = ma/m is rational, contradicting the assumption that it's irrational. Is the article [[Eudoxus of Cnidus]] mistaken in asserting that m and n must be integers? For this reduction to work, they must be allowed to be irrational - and possibly not even numbers, albeit still quantifiable, e.g. physical quantities, such as the lengths of two line segments. [[User:Hairy Dude|Hairy Dude]] ([[User talk:Hairy Dude|talk]]) 01:17, 6 September 2015 (UTC)
+
+== Definitions ==
+
+Article jumps into talking about "ZF" and "ZFC" without explaining, or linking to, a definition of either. --[[User:Cholten99|Cholten99]] ([[User talk:Cholten99|talk]]) 00:31, 2 May 2016 (UTC)
+{{Automatic archive navigator}}
+
+== Sustain problems of foundations as separate article ==
+
+The joy of wikipedia is the teaching of feverent independent thinkers to honor disagreements also of a deep kind.
+
+*Removing merge tag. [[User:Kerowyn|Kerowyn]] 04:35, 14 January 2006 (UTC)
+
+== So if this remains as a separate article... ==
+
+...then why is it still a mere shadow of [[philosophy of mathematics]]? This deserves to be remedied, especially as this is not tucked away in an obscure corner but can be linked to directly from the mathematics portal (care of the rather nifty Topics in Mathematics table).
+
+My opinion is that attention should be focused on those programs various mathematicians and logicians have advanced to supply a formal foundation (or more generally something along the way towards one). The main lines have been set theory (Cantor -> Zermelo -> ZFS and others) and type theory (Frege -> Russell -> Ramsey and Church -> ... -> Martin-Löf) with assorted logical calculi (often in league with type theory) and more recently category and topos theory too. This work has begun to bear fruit in the form of programs for [[computer-assisted proof]] and [[automated theorem proving]], which I think are areas that will grow in importance as the "heroic" proofs get longer and longer and more difficult to check for errors.
+
+[[User:Abt 12|Abt 12]] 04:57, 24 March 2006 (UTC)
+
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as start, and the rating on other projects was brought up to start class. [[User:BetacommandBot|BetacommandBot]] 04:00, 10 November 2007 (UTC)
+
+==Paradoxes==
+
+The statement that:
+
+"In most of mathematics as it is practiced, the various logical paradoxes never played a role anyway, and in those branches in which they do (such as logic and category theory), they may be avoided."
+
+leads one to believe that the formal foundations of modern mathematics contains logical paradoxes.  This is not generally beleoved to be the case.  Unless the author is able to point to logical paradoxes present in what is considered to be the formal foundations of mathematics, I suggest that this line be changed to:
+
+"In most of mathematics as it is practiced, the incompleteness of the underlying formal theories never played a role anyway, and in those branches in which they do (such as logic and category theory), they may be treated carefully."
+
+[[Special:Contributions/71.148.59.179|71.148.59.179]] ([[User talk:71.148.59.179|talk]]) 04:07, 3 August 2008 (UTC)
+:You make a good point about the problem, but I'm not sure your proposed solution is really on point; that section is describing a historical perspective that predates Goedel. Not that I have a better suggestion at the moment. It might be more accurate to say that foundationalism itself has become less popular in mathematics and philosophy of mathematics (and of course without foundationalism, there's no foundations "problem"). --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 04:36, 3 August 2008 (UTC)
+
+:"In most of mathematics as it was practiced in the first half of the 20th century (and is practiced today), the various logical paradoxes never played a role anyway (and do not play a role today); in those branches in which they were influtential and continue to have a role (such as logic and category theory), they may be avoided." Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 17:50, 3 August 2008 (UTC)
+
+:It is too facile to completely identify the ''foundations'' of mathematics with any specific formalization of a fragment of mathematics, such as [[New Foundations|NFU]], [[ZFC]], or [[Von Neumann–Bernays–Gödel set theory|NBG]]. If no logical paradoxes are known in these formalizations, this is due to the fact that logicians know the problems and how to avoid them{{spaced ndash}}although occasionally [[Per Martin-Löf|someone]] falls again in the same trap. &nbsp;--[[User talk:Lambiam|Lambiam]] 16:07, 11 August 2008 (UTC)
+::So I certainly agree with your first sentence, but I don't think that's what's going on here. The ''informal'' picture behind ZFC is in fact completely different from the one behind Fregean set theory. It's based on building up sets level-by-level, where at each level you form subsets in a completely arbitrary, lawless way, not as extensions of definable properties. Of course all the definable properties restricted to existing sets ''have'' extensions, but this is simply by virtue of the fact that if you form all possible subsets of a given set lawlessly, one of them will be found to have all and only the elements of that set satisfying the property.
+::This is not ''avoiding'' the paradoxes. There simply do not appear to ''be'' any paradoxes in this conception of set. Of course this is a provisional, falsifiable claim; mathematics is an empirical science. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 23:20, 16 August 2008 (UTC)
+:::As is noted both in our article on [[Zermelo–Fraenkel set theory]] as in that on the [[axiom schema of specification]], the latter axiom schema "avoids" paradoxes by the restriction that the set whose existence is postulated and which is defined by "comprehension" (or "specification") be a subset of an (already given) set; the naive unrestricted [[Axiom schema of specification#Unrestricted comprehension|axiom schema of comprehension]] allows Russell's paradox. In the formulation of Zermelo: "<span style="font-family:Times; font-size:115%">Ist die Klassenaussage ℰ(''x'') definit für alle Elemente einer Menge ''M'', so besitzt ''M'' immer eine Untermenge ''M''<sub>ℰ</sub>, welche alle diejenigen Elemente ''x'' von ''M'', für welche ℰ(''x'') wahr ist, und nur solche als Elemente enthält.</font>" As is noted in [[Zermelo set theory]], Zermelo himself commented that this axiom was "the one responsible for eliminating the antinomies" ("<span style="font-family:Times; font-size:115%">Erstens dürfen mit Hilfe dieses Axiomes niemals Mengen ''independent definiert'', sondern immer nur als Untermengen aus bereits gegebenen ''ausgesondert'' werden, wodurch widerspruchsvolle Gebilden ... ausgeschlossen sind.</font>") &nbsp;--[[User talk:Lambiam|Lambiam]] 18:20, 22 August 2008 (UTC)
+::::With benefit of hindsight we can see that this is not correct. It is not that the ''axiom'' "avoids" the paradox; it is that it holds in an informal conception, based on forming subsets lawlessly, collecting them, and proceeding iteratively, that (apparently) does not have the paradox. This was not so clear in the late 19th and early 20th centuries—while Frege clearly got Cantor wrong, this was partly because Cantor himself was not so clear as he might have been.
+::::Note that Aussonderung does not ''say'' that we're forming subsets lawlessly; you can't say that in first-order logic at all. Zermelo apparently intended his "axioms" to be understood in the sense of second-order logic (and then they become categorical except that the height of the universe is not determined). --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 19:16, 22 August 2008 (UTC)
+:::::You are welcome to your point of view, but to me it is obvious that Zermelo formulated the axiom the way he did, with the restriction to subsets of an ''already given'' set, in order to exclude specifying "contradictory entities", such as the subject of Russell's paradox. I think it is fair to say then that he knew how to avoid the problem, namely by not allowing such things as [[impredicative definition]]s. &nbsp;--[[User talk:Lambiam|Lambiam]] 19:55, 22 August 2008 (UTC)
+::::::Well, he ''may'' have done that, historically; I don't know. My mindreading abilities across most of a century are not as good as I'd like them to be. That doesn't change what the situation is ''now''. The right way to think of set theory, the way set theorists think of it when they're actually working (as opposed to what stories they may tell when trying to elaborate a convincing foundational view), is the one I describe above, and there is no "evasion" of the paradoxes involved. The antinomies—at least in their classical form—are simply not ''there'' to be avoided. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 20:15, 22 August 2008 (UTC)
+
+:::::::I was thinking about how the position expressed in the sentence "In most of mathematics as it is practiced, the various logical paradoxes never played a role anyway, and in those branches in which they do (such as logic and category theory), they may be avoided" would fare in the context of [[non-standard analysis]], which certainly goes beyond logic and foundations (I recently added an application in topology to the page).  I have the impression that in non-standard analysis one has a critical need for a good handle on issues of this sort, see [[transfer principle]].  [[User:Katzmik|Katzmik]] ([[User talk:Katzmik|talk]]) 14:01, 16 September 2008 (UTC)
+::::::::Honestly I don't quite see what that has to do with the antinomies. With mathematical logic, yes, but not specifically with the "logical paradoxes". The antinomies arise from conflating the notion of intensional class with the notion of extensional set. Why would you be tempted to do that in nonstandard analysis? --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 09:05, 17 September 2008 (UTC)
+:::::::::You are correct, this has nothing to do with antinomies.  What I had in mind were things such as Illegal Set Formation, only tangentially related to the specific paradoxes you were talking about.  Still, if one understands the word paradox in a somewhat wider sense, then it could be argued that foundational paradoxes do play a role in "mathematics as it is practiced" at least in certain fields not strictly contained in logic.  [[User:Katzmik|Katzmik]] ([[User talk:Katzmik|talk]]) 13:48, 17 September 2008 (UTC)
+
+:I was hunting around in Goedel's works for his comment about impredicative definitions and bumped into his 1933 "On Intuitionistic Arithmetic and Number Theory" here he baldly states:
+::"Intuitionism would seem to result in geunuine restrictions only for analysis and set theory, and these restrictions are the result, not of the denial of tertium non datur, but rather of the prohibition of impredicative concepts." (Undecidable, p. 80)
+:I read this to mean that he is saying that if we were to prohibit impredicative concepts that analysis and set theory would come unravelled. Has this issue been settled in "the community" since Goedel's time?
+
+:And Kleene in his 1952 (1971 edition) is unable to resolve the impredicative definition re the l.u.b. Has all this been resolved to everyone's satisfaction? Or is this still a foundational issue (with some folks, at least). That's my question. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 22:12, 23 September 2008 (UTC) 
+
+:Also, there's a Goedel quote I can't seem to find to the effect that all the antinomies (and I guess I'd have to call them "the paradoxes", as does Kleene -- he attributes this idea to Poincare and Russell) are the results of impredicative definitions. Kleene 1952:42 comes right out and says this about the famous 6 he itemizes -- (A) The Buraliz-Forti paradox 1897, (B) Cantor's paradox, (C) The Russell paradox 1902-03, (D) Richard paradox, (E) Liar Paradox. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 17:49, 23 September 2008 (UTC)
+
+::Remember to take anything before the mid century with a grain of salt - there was a lot of very fast progress, and many things that are better understood now weren't yet understood at the time. It's now well known that most undergraduate real analysis can be carried out in predicative subsystems of second-order arithmetic, for example. 
+
+::I don't remember what Keene's concern with least upper bounds is. I don't see any issue with a predicative definition offhand, so I'll have to look at the text to see what the concern is. There aren't any major concerns with impredicative definitions in contemporary mathematics. In particular many [[universal properties]] in category theory are impredicative. 
+
+::To the extent that predicative statements are incapable of self reference, of course the self-referential antinomies of set theory will not be predicative. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:36, 24 September 2008 (UTC)
+
+Clarifying, about least upper bounds: of course the definition "the upper bound that is less than or equal to any other upper bound" is impredicative. But ''x'' is the l.u.b. of a set ''A'' if and only if every element of ''A'' is less than or equal to ''x'', and for every natural number ''n'' there is an element of ''A'' greater than ''x'' - 1/''n''. That definition seems perfectly predicative to me, athough Weyl would not accept it as such. Predicative subsystems of second-order arithmetic, such as ACA<sub>0</sub>, can prove things like "every bounded set of rational numbers has a least upper bound" and "every bounded open set of real numbers has a least upper bound". &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 01:43, 24 September 2008 (UTC)
+
+: Just to clarify: Kleene says "Thus it might appear that we have a sufficient solution and adequate insight into the paradoxes, except for one circumstance: parts of mathematics we want to retain, particularly analysis, also contain impredicative definitions." (p. 42). He goes on to use the Dedekind cut definition of real numbers to produce his '''u''' = l.u.b. example. (Perhaps in the intervening years a better definition exists?) And then he responds "One can attempt to defend this impredicative definition by interpreting it, not as defining or creating the real number '''u''' for the first time (in which interpretation the definition of the totality '''C''' of real numbers is circular), but as only a description which singles out the particular number '''u''' from an already existing totality '''C''' of real numbers. But the same argument can be used to upold the impredicative definitions in the paradoxes." (p. 43) He then mentions Weyl's "Das Kontinuum" (1918) failing to "retain" this particular theorem.
+
+: Also the article [[Impredicative definition]] uses this same example. None of my modern books excepting Boolos-Burgess-Jeffrey 4th Edition ''Computability and Logic'' have "impredicative" in their indexes. B-B-J discusses P<sup>**</sup> and P<sup>+</sup> in their chapter "25.3 Nonstandard Models of Analysis" (p. 315) but it's way over my head. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 13:42, 24 September 2008 (UTC)
+
+::The standard definition of least upper bound is certainly impredicative, and since it's pretty elementary it's a good example. The accompanying issue of "an arbitrary bounded set of real numbers" is the underlying source of the problem, though - like I was saying, for open sets, or countable sets, there is no issue with obtaining the least upper bound through predicative means. As foundations of mathematics is no longer a hot topic in mathematical logic, it's not surprising that few contemporary texts discuss it. Contemporary research in philosophy of logic has a much more active interest in foundations.
+
+::Regarding Kleene, it looks to me like he is simply arguing that we cannot appeal to predicativity to resolve the paradoxes, while still studying mathematics as it is commonly known. That's a reasonable point, but not much of a surprise once you rephrase it in those words. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 14:15, 24 September 2008 (UTC)
+
+::P.S. Just to help you get your bearings: Weyl's groundbreaking work in ''Das Kontinuum'' inspired work in [[constructive analysis]] later in the century, by Bishop and others. In turn, it came to be recognized that results in constructive analysis were closely related to results in [[computable analysis]]. All of this led to interest in [[second-order arithmetic]], and to [[reverse mathematics]] in particular. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 14:20, 24 September 2008 (UTC)
+
+: Carl, thanks, this helps. Since a lot of mathematics has occurred since 1950 I needed to, like you said, "get my bearings". In the intervening time between these postings I downloaded the Feferman paper "Predicativity" (referenced in the [[Impredicative definition]] article), and I managed to skim enough of it to encounter the notions of [[reverse mathematics]] and "unfolding of a schematic system S"; the "unfolding" section p. 24ff I thought was particularly interesting as it was dealing with finitistic versus non-finitistic arithmetic. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 14:59, 24 September 2008 (UTC) The article [[Unfolding]] doesn't seem to treat the same notion as Feferman's notion. (This looks like yet another article for you to author). Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 15:09, 24 September 2008 (UTC)
+
+::I think that Feferman's work on "unfolding" should be covered in the predicativity article (if anywhere - it may be too specialized to cover in depth here). It appears to me that "unfolding" attempts to make a rigorous version of the informal idea that objects in a predicative system are "built up" in stages starting with some basic object like the set of natural numbers. 
+
+::A more important moral to take from Feferman's paper is that ''predicative'', like ''constructive'', is used as an informal term that has different meanings to different people. He discusses this at length on p. 28. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 15:28, 24 September 2008 (UTC)
+
+: I Googled [[computable analysis]] and found a paper treating "analog computation" -- back in "my time" that's about all the computation there was, excepting some primitive stuff written in Basic on the Dartmouth time-share system. It was very interesting to see someone actually uncover such an old notion and (attempt to) treat it in a "modern" investigation. What I am taking from all this, is that "foundations" work may be evolving in subtle ways. (There's no doubt in my mind that continuous functions (restricted at least to the idealistic notion) can be created by analog computation down to any (unmeasurable-by-modern-tools) accuracy; but, the physics-of-the-real-world reality of this is that noise (e.g. quantum mechanics, possible graininess of the universe) intrudes. (Looks like [[computable analysis]] also needs your handiwork). Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 15:48, 24 September 2008 (UTC)
+
+::You would want to look at the ''Handbook of recursive mathematics'' if there is a copy near you. &mdash;&nbsp;Carl <small>([[User:CBM|CBM]]&nbsp;·&nbsp;[[User talk:CBM|talk]])</small> 15:56, 24 September 2008 (UTC)
+::There is also a stub article at [[real computer]]. [[Special:Contributions/207.241.239.70|207.241.239.70]] ([[User talk:207.241.239.70|talk]]) 01:47, 3 December 2008 (UTC)
+
+== Several possible roots of mathematics - not clear. ==
+
+I was once told that mathematics had several roots, a set of assumptions, such as set theory, peano arithmetic or lambda calculus.  From any of these roots it was possible to derive the same theorems.  Is this a widely held view?  If so, perhaps it could be made clearer in the article. [[User:Pgr94|pgr94]] ([[User talk:Pgr94|talk]]) 18:00, 17 February 2010 (UTC)
+
+:No. They are only equivalent if you think that a pocket knife ([[Lambda calculus]]), an axe ([[Peano axioms]]), and a chain saw ([[Zermelo–Fraenkel set theory]]) are equivalent. They tend to do the same thing, but some are much more powerful (and easier to use) than others. [[User:JRSpriggs|JRSpriggs]] ([[User talk:JRSpriggs|talk]]) 04:27, 18 February 2010 (UTC)
+::Thanks for your reply.  But suppose we ignore the difficulty/elegance of proofs.  Starting from Lambda calculus, is there any theorem that cannot be proved that can be proved if we assume ZF set theory?  And conversely, assuming ZF set theory, is there any theorem that cannot be proved that can if we assume Lambda calculus? [[User:Pgr94|pgr94]] ([[User talk:Pgr94|talk]]) 04:39, 18 February 2010 (UTC)
+:::There are facts about arithmetic which can be proved with the help of set theory which cannot be proved directly in arithmetic. For examples, the consistency of arithmetic (see [[Gödel's incompleteness theorems]]) and [[Ramsey's theorem]], (see [[Paris–Harrington theorem]]). However, set theory might be considered more risky by those who worry about contradictions hiding in the foundations. I do not know enough about Lambda calculus to give examples there. [[User:JRSpriggs|JRSpriggs]] ([[User talk:JRSpriggs|talk]]) 05:08, 18 February 2010 (UTC)
+
+==Platonism compulsive Q/A==
+The section '''Platonism''' ends with a (cited) quest{{color|#00001|i}}{{color|#000022|o}}{{color|#000033|n }}{{color|#000044|o}}{{color|#000055|u}}{{color|#000066|t }}{{color|#000077|o}}{{color|#000088|f }}{{color|#000099|t}}{{color|#0000AA|h}}{{color|#0000BB|e }}{{color|#0000CC|b}}{{color|#0000DD|l}}{{color|#0000EE|u}}{{color|#0000FF|e}}:
+:''The obvious question, then, is: how do we access this [real] world [of mathematical objects]?<sup>[3]</sup>''
+It would be profitable if this question be put in a context, such as reference [3] being a critic of the platonic view, otherwise I cannot perceive the question as especially "obvious" since it is not too far fetched to perceive our brains as an "eye" that can be taught to look straight into that real world of mathematical objects, and also into other worlds. Another more platonic answer would of course be, that since we are shadowy copies of that mathematical plane, some of us would retain a semblance of the mathematical plane. [[User:Rursus|Rursus]] dixit. ([[User talk:Rursus|<span style="color: red; background: #FFFF80"><sup>m</sup><u>bork<sup>3</sup></u></span>]]!) 20:18, 29 June 2010 (UTC)
+
+== Removal of section “a working perspective”. ==
+
+First of all, it’s nothing but a blurb of personal opinion in comment form, and should go on the discussion page. Not the actual article. Second of all, it contains a blatant error in logic, by stating “But the working number theorist is concerned with proving theorems from initial assumptions which are '''obviously''' true using proof methods which are '''obviously''' correct, not with any particular logical system.” [emphasis mine]. “Obviously” is a weasel word, stating nothing about actual truth, and showing that the author has not understood, that this exact thing (“what do you mean with ‘obvious’? what is actually true?”) is the exact problem that the foundational schools are trying to solve. For example: Someone might state, that it is “obvious”, that the sun is yellow. Until he is told to look at it at dusk. Meaning that humans can not physically state objective things anyway, since all input their brain receives, is already subjective (processed by senses and other sources), and the brain additionally makes it even more subjective, since processing only happens relative to previous experiences. (You can look up how neural networks work.)
+
+Since I find deletion of the opinions of others in a public spaces (which in my eyes includes Wikipedia) to be morally wrong and a violation of free speech, I have not deleted but moved the section right below this one.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/188.100.192.146|188.100.192.146]] ([[User talk:188.100.192.146|talk]]) 09:17, 19 August 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:I have no problem with the removal of this section.  It was overly essay-like.  Some of the points might be re-included in a style more appropriate to an encyclopedia, if sources can be found. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 10:18, 19 August 2010 (UTC)
+
+:I agree with both of you. But I have no problem with deletion of opinion from wikipedia articles -- remember that it is still here, but now moved into the article's history; it can be retreived at any time.  Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 14:32, 19 August 2010 (UTC)
+
+==Proposed Merge : FPIM => FOM==
+
+===I concur with a merge===
+
+The philosophy of math article is getting bigger, the stuff about all this "problems with the foundations of maths" and "Godel proves that all truth is relative" crap is getting a little tighter.
+
+FPOM and FOM should probably be merged to FPOM, not the other way around though.  ZF(C) is A foundation of math, but the foundations PROBLEM raised by Hilbert, and the Godel and co. are the meat.
+
+Thoughts?  --[[User:M a s|M a s]] 18:38, 22 May 2006 (UTC)
+
+JA: The main thing is that the current split is a WikiPeculiar Neologism that does not really exist in the Literatures, as all of these questions have always been discussed under ∃! umbrella, to wit, FOM.  [[User:Jon Awbrey|Jon Awbrey]] 18:48, 22 May 2006 (UTC)
+
+JA: The term "foundations of math", as with the longstanding FOM discussion list, is generally taken to include the consideration of problems associated with foundational questions.  If I don't hear any strong objections in the next day or so, I'll go ahead and do the merge.  [[User:Jon Awbrey|Jon Awbrey]] 21:46, 29 May 2006 (UTC)
+
+:The present article [[Foundational crisis of mathematics]] is rather specifically about the historical quest and fight that took place about 85 years ago. In the [[Foundations of mathematics]] article I see mainly philosophical issues that are treated in more depth at [[Philosophy of mathematics]]. So I'd propose to redirect this article to there, instead of merging the Foundational crisis to here, and expend further effort in improving the Philosophy article (by which I do not mean making it fatter than it already is, although there could be a spinout covering the material of [[Hilbert's program#Hilbert's program after Gödel]] as far as it reflects current common thinking in more depth). --[[User:Lambiam|Lambiam]][[User talk:Lambiam|<small><sup>Talk</sup></small>]] 02:27, 31 May 2006 (UTC)
+
+JA: I don't see much prospect of folding this bit of [[Bokononism|Foma]] back into the [[Philosophy of mathematics]] article, as things are more likely to spin the other way sooner or later.  In math as in architecture, as any home-owner knows, problems with foundations just go with the territory, so I think it's still the best course to combine those two.  [[User:Jon Awbrey|Jon Awbrey]] 13:40, 31 May 2006 (UTC)
+
+JA: I begin to think that it should be called the "Identity crisis in some people's mathematics", as there seems to be a need to change the name of the article on a recursèd basis.  Well, enough of that not-so-abstract non-sense.  [[User:Jon Awbrey|Jon Awbrey]] 15:54, 31 May 2006 (UTC)
+
+=== W.S. Anglin (1994) ''Mathematics: A Concise History and Philosophy'', Chapter 39 ''Foundations''  ===
+
+In his Chapter 39. Foundations, Anglin has three sections titled “Platonism”, “Formalism” and “Intuitionism”. I will quote most of “Intuitionism”. Anglin begins each as follows:
+
+:”'''Platonism'''
+
+:”Platonists, such as Kurt Gödel, hold that numbers are abstract, necessarily existing objects, independent of the human mind” (p. 218)
+
+:”'''Formaism'''
+
+:“Formalists, such as David Hilbert (1862-1943), hold that mathematics is no more or less than mathematical language. It is simply a series of games...” (p. 218)
+
+:”'''Intuitionism'''
+
+:”Intuitionists, such as L. E. J. Brouwer (1882-1966), hold that mathematics is a creation of the human mind. Numbers, like fairy tale characters, are merely mental entities, which would not exist if there were never any human minds to think about them.
+
+:”Intuitionism is a philosophy in the tradition of Kantian subjectivism where, at least for all practical purposes, there are not externally existing objects at all: everything, including mathematics, is just in our minds. Since, in this tradition, a statement p does not acquire its truth or falsity from a correspondence or noncorrespondence with an objective reality, it may fail to be ‘true or false’. Thus intuitionists can, and do, deny that, for any mathematical statement p, it is a logical truth that ‘either p or not p’.
+
+:”Since intuitionists reject objective existence in mathematics, they are not necessarily convinced by the reasoning of the form:
+
+::”If there is not mathematical object A, then there is a contradiction; hence there is an A.
+
+::: [I found this confusing. Does he mean: There exists B: (~A -> ~B) & B -> A [?]]
+
+:"If the details of the reasoning provide a way of imagining or conceiving an A, in a way open to ordinary human beings by, say, calculating it in a finite number of steps), then the intuitionist will agree that there is, indeed, an A. However, if the details of the reasoning do not provide this, the intuitionist will remain skeptical. For a Platonist, it is of interest that there is an A even if it is only God who can conceive it. For an intuitionist, however, a mathematical object is meaningless unless it can be somehow ‘constructed’ and ‘intuited’ by a human being.
+
+:"For the intuitionist, the human mind is basically finite, and Cantor’s hierarchy of infinites is just so much fantasy. Intuitionists thus reject any mathematics which is based on it, including most of calculus and most of topology.
+
+:"... To ... objections, the intuitionist can replay: (1) it does not make sense for human minds to try to conceive a world without human minds, and (2) it is better to have a small amount of mathematics all of which is solid and reliable than to have a large amount of mathematics, most of which is nonsense”(p. 219)
+
+wvbailey[[User:Wvbailey|Wvbailey]] 16:01, 27 June 2006 (UTC)
+
+-----
+I am just as confused as everyone else above as to exactly what is meant by "foundations" -- is it "philosphy of approach" re the existence of mathematical "objects", or what? (I usually think of it as the core logic and axioms especially with regard to arithmetic (numbers) -- but clearly a specific choice of axioms/methods is made within a philosophic framework). So I quote Anglin above -- he wasn't confused cf his chapter 39. At least Anglin produces some "quotable objects" in the spirit of inline citation. I will work on this more when I get back to my books.
+wvbailey[[User:Wvbailey|Wvbailey]] 18:01, 6 October 2006 (UTC)
+
+:It's one of those words with lots of different meanings. One of them is just "mathematical logic plus set theory" (or "mathematical logic including set theory" if you think of set theory as part of logic; in that case it's just a synonym of "mathematical logic"). Another is the more philosophical meaning -- the question of what, if anything, mathematics is based upon. There's a book I want to get around to reading called ''Foundations without Foundationalism'', which presumably advocates studying mathematical logic and set theory without assuming that mathematics is "founded" on them in some Euclidean sense. --[[User:Trovatore|Trovatore]] 18:43, 6 October 2006 (UTC)
+
+::''Foundations without foundationalism'' (by Shapiro) focuses on second order logic and second order semantics as a non-"foundational" way to study math. The mathscinet review says that it discusses second order set theory, but I don't remember the book spending a long time on that.  The "without foundationalism" might refer to the problem that second order semantics are often criticized by formalists as being really set theory, whearas they are defended by others (such as Shapiro, I believe, and by several category theorists) as capturing intuitive notions better than first order logic.   An interesting thread on FOM entitled "Second order logic is a myth" had interesting opinions (for example Simpson [http://cs.nyu.edu/pipermail/fom/1999-February/002612.html] and Black [http://cs.nyu.edu/pipermail/fom/1999-March/002801.html]). [[User:CMummert|CMummert]] 18:58, 6 October 2006 (UTC)
+
+:::I'm pretty sure the original meaning was: the base on which the mathematical edifice rests. If the foundations are not sound, then neither is the superstructure. The issue was: Is there an incontrovertible justification for the leap from "P has been proved (by a ''mathematical'' proof)" to "P is ''true''"? Obviously, you can't consider this without going into both the nature of mathematical proof and the nature of mathematical truth. Since mathematicians have learned how to skirt paradoxes and antinomies, this is generally no longer considered a burning question. &nbsp;--[[User:Lambiam|Lambiam]][[User talk:Lambiam|<small><sup>Talk</sup></small>]] 20:51, 6 October 2006 (UTC)
+
+::::I think your phrasing "if the foundations are not sound, then neither is the superstructure" captures excellently what I would call the foundationalst ''error''. The fact of the matter is that the so-called foundations are generally developed and understood ''after'' the things that supposedly "rest" on them, and this does not invalidate what came before. To take a particular case, the calculus of Newton and Leibniz was, in my view, just fine, even before the work of Dedekind and Cauchy and so on.  The latter work ''was'' extremely valuable, but not for the reasons often thought; it was valuable in that it provided ways to analyze corner cases where it's not clear what the Newtonian/Leibnizian intuitions even ''said'', and in that it provided a way of connecting it better to a larger mathematical framework.
+::::The Euclidean foundationalist supposes that there is some way of providing an unshakeable base, once and for all, that will provide apodeictic certainty to that which rests upon it. He's just wrong. No such certainty is available to us, even in mathematics. Luckily, we don't really need it. --[[User:Trovatore|Trovatore]] 21:02, 6 October 2006 (UTC)
+
+:::Whether we now believe we need it or not, the point is that mathematicians in the first half of the 20th century, or at least those that cared, sure thought they did. If ZFC was strongly suspected to be inconsistent, perhaps present-day mathematicians would also feel a bit queasy. &nbsp;--[[User:Lambiam|Lambiam]][[User talk:Lambiam|<small><sup>Talk</sup></small>]] 00:34, 7 October 2006 (UTC)
+
+----
+I cc'd this over from the Intuitionism talk page. The question I have after reading all of the above: what is the "modern" take on "foundations"? We still have the Platonists (Roger Penrose for example; his ''Emperor's New Mind'' really surprised me) and the Logicists (almost everyone else who isn't a computer scientist or a Platonist [?]) and the Intuitionists (aka computer scientists, perhaps with their "IF then ELSE" constructions)... but what is going on in "modern" thought?. The following I thought was interesting: (wvbailey[[User:Wvbailey|Wvbailey]] 18:14, 8 October 2006 (UTC))
+ 
+=== Ian Stewart for '''Encyclopedia Britannica''' 2006 ===
+
+Stewart's reference in E.B.:
+::"Errett Bishop and Douglas Bridges, ''Constructive Analysis'' (1985), offers a fairly accessible introduction to the ideas and methods of constructive analysis."
+
+:"Constructive analysis
+
+:"One philosophical feature of traditional analysis, which worries mathematicians whose outlook is especially concrete, is that many basic theorems assert the existence of various numbers or functions but do not specify what those numbers or functions are. For instance, the completeness property of the real numbers tells us that every Cauchy sequence converges, but not what it converges to. A school of analysis initiated by the American mathematician Errett Bishop .... This philosophy has its origins in the earlier work of the Dutch mathematician-logician '''L.E.J. Brouwer''', ''who criticized “mainstream” mathematical logicians for accepting proofs that mathematical objects exist without there being any specific construction of them'' (for example, a proof that some series converges without any specification of the limit which it converges to). '''Brouwer''' founded an entire school of mathematical logic, known as '''intuitionism''', to advance his views [italics and boldface added]
+
+:"However, constructive analysis remains on the fringes of the mathematical mainstream... Nevertheless, constructive analysis is very much in the same algorithmic spirit as computer science, and in the future there may be some fruitful interaction with this area" (Britannica ''Analysis/Constructive Analysis'')
+
+wvbailey[[User:Wvbailey|Wvbailey]] 13:10, 15 June 2006 (UTC)
+
+:What the "modern take" is will depend on who you ask. I had a look at how other-language Wikipedias deal with the subject.
+:*Class A: It is about the question of providing semantics and a criterion for the truth of mathematical statements: French, German;
+:*Class B: It is about mathematical logic, axiomatization, model theory, category theory, ...: Slovenian, Spanish, Turkish;
+:*Class C: <? could not decipher>: Bulgarian (which has, in any case, a historic account from Aristotle to Church), Chinese (has the same external links as our article), Japanese (but I can see they go from Frege to von Neumann and Turing).
+:&nbsp;--[[User:Lambiam|Lambiam]][[User talk:Lambiam|<small><sup>Talk</sup></small>]] 21:44, 8 October 2006 (UTC)
+
+OK, there's some misinformation in the remarks by wvbailey, which I'd like to address. First off, hardly anyone claims to be a "logicist" these days. There are a few serious thinkers who will call themselves "neo-logicist" or some such. But logicism in its original Frege–Russell form (mathematical truth can be derived from logic alone, without any assumptions not justifiable by logic) is pretty hard to sustain in the wake of the Russell paradox (which refuted the logicist version of set theory) and the Gödel theorems (which made a logicist take even on arithmetic seem very problematic, though they may not have refuted such an account outright).
+
+What I suspect wvbailey means by "logicist" is really more like "formalist" (the content of mathematics is what we can formally prove from well-specified assumptions).
+:Correct. I used the word synonymously because for me it is easier to remember and more expressive -- all good math is "formal" -- Platonism, Formalism, Intuitionism. But I agree with your distinction. wvbailey[[User:Wvbailey|Wvbailey]] 18:23, 10 October 2006 (UTC)
+
+Formalism is probably the dominant view (or at least publicly ''professed'' view) among, to put it bluntly, those mathematicians who haven't really thought about it very much and don't really want to. Since that's most of them, it comes out dominant overall. That's not to say there aren't serious thinkers who are formalist. But it is to say that it's a very appealing position to those who don't want to spend much time on it. They dismiss the question and move on, before the harder questions show up, like: "If mathematics is about formal theorems, then why have you never proved a nontrivial theorem formally?" and "If you really think that's what math is about, then why on Earth do you care about math?".
+
+<s>As for intuitionism, the above discussion of motivations does not apply only to them, nor to all of them. The defining feature of an intuitionist is that he doesn't accept excluded middle. Lots of formalists and fictionalists and instrumentalists (who might recognize themselves in the above discussion) accept excluded middle (and thus are not intuitionists). And plenty of intuitionists are very realist (that is, Platonist) about the natural numbers individually, even if not about the totality of natural numbers as a completed whole. </s> --[[User:Trovatore|Trovatore]] 15:57, 10 October 2006 (UTC)
+:Sorry, the last paragraph doesn't correspond very well to what's described above for intuitionism, now that I reread it. I'm not sure where the text is that I thought I was responding to. The other two paragraphs stand. --[[User:Trovatore|Trovatore]] 16:09, 10 October 2006 (UTC)
+
+::What the heck are "fictionalists" and "instrumentalists"? Re proving theorems, there is this mysterious component of "randomness" (I've never proved a theorem but I've done lots of other creative things)... you suppress your rational (logicist, formalist) self and let "the bubbles" percolate to the surface -- dreams, images, doodles, impulses to follow leads even if they seem misdirected -- but all this will be useful only after much training so that the (logicist, formalist self) can recognize any value to be found in "the bubbles". (Hence to "sleep on it" can be a creative act. I used to get ideas while jogging, when my mind was totally wiped and "off-task"). In a lecture I attended some years ago the philosopher Daniel Dennett proposed the importance of "randomness" in creative thought. The idea is not too novel, really. But if I read between the lines above Travatore seems to be daring the mathematicians to admit they are really closet [what? Platonists? "creators"?] -- while they may be using the formal tools and techniques of Formalism in their work, secretly they are relying on their clever creative natures that cannot be described in Formalism. Because Formalism does not admit cleverness (randomness + "value-recognition"), Ergo: Formalism is incomplete, insufficient. wvbailey[[User:Wvbailey|Wvbailey]] 18:23, 10 October 2006 (UTC)
+::::Dec 2011: RE fictionalism, Yes, Trovatore is correct, see below. I know, now, what a fictionalist is, at least as Goedel applied the name to Russell: it's embodied in Russell's "no-class" theory, i.e. that classes don't really exist altho we talk about them as if they do. The only thing that exists is the "extensions" of the classes, i.e. the elements themselves. This is true even in the case of bundles of classes (Russell's words). By adopting this stance he was trying to avoid having the unit class be an element of itself and thus be impredicative. And the null or zero class didn't exist at all for Russell. Goedel concluded that his was where Russell went wrong -- while he could have maintained this stance for the null and unit classes, he shouldn't have maintained it for the rest of his "system". Goedel's 1944 paper ''Russell's mathematical logic'' can be found on pages 119ff in Feferman et. al. 1990 ''Kurt Goedel Collected Works Volume II Publications 1938-1974'', Oxford University Press, NY, ISBN-13 978-0-19-514721-6 (v.2.pbk). He states in a footnote that "What, in Russell's own opinion, can be obtained by his constructivism (which might better be called fictionalism) . . ." (p. 119) Bill[[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 16:27, 9 December 2011 (UTC)  
+:::If I get started here I might never stop, and this sort of discussion, fun as it is, is not what talk pages are for. So briefly: fictionalists/instrumentalists hold that mathematical objects, particularly completed infinities, are "useful fictions" that help us to make correct predictions, and as long as the predictions are correct, we needn't worry about whether there's any underlying reality to them. They differ from formalists in that they put the emphasis on reasoning with the fictional objects, rather than uninterpreted strings in a formal language. Your "reading between the lines" is mostly correct, except that I don't think real-life mathematicians even use the ''tools'' that formalism theoretically exalts. Formal proofs are almost never seen except for the most trivial theorems. Instead people write prose proofs that, allegedly, can "in principle" be reduced to formal proofs, but this reduction is almost never carried out in practice. --[[User:Trovatore|Trovatore]] 15:58, 11 October 2006 (UTC)
+
+Re [[Constructivism]] as a foundational "movement": "computer science" is necessarily constructive (hmm... I wonder why... pure syntax?). Has there been any "foundations" discussions/papers re the effects of "computer science" on "foundations?" Wasn't the four-color theorem finally proved by exhaustive search? This must have "rippled thru" the mathematics community. In a similar vein, the [[Turing test]] debates of the past 60 years must have had some effect on "foundations", it certainly roiled the philosphers-of-mind:
+
+Re [[philosophy of mind]] playing a role in foundations: I am currently reading parts of a book by the philosopher-of-mind [[John R. Searle]] (2002), ''Consciousness and Language'', Cambridge University Press, Cambridge England. He comes back to, again and again, the notion that a mind adding 2+2 as different from a computer adding 2+2 because the latter (computer, calculator) case is one of syntax only (symbols in relation to symbols) but the former "has semantic content" ( i.e. "meaning"-- whatever ''that'' means...) as well (and he keeps bringing up intentionality... but I'm not convinced ...). In the machine's case "the information" is defined ''exterior'' to the machine, and becomes "information" only in the eye of the machine's beholder (e.g. the computer programmer -- who serves as the homunculus for the machine (cf he states this explicitly p. 122)):
+:"...information processing and symbol manipulation are observer-relative ... the addition in the calculator is not intrinsic to the circuit, the addition in me is intrinsic to my mental life..." (p. 34-35)
+
+:"For the commercial computer we are the homunculi who make sense of the whole operation" (p. 122)
+
+The last paragraph of the "foundations" article touches on this notion of "mind of the mathematician" (without references). This Searle philosophy seems germane to the article but how hasn't crystallized yet. Maybe this will trigger some other folks' thinking. wvbailey[[User:Wvbailey|Wvbailey]] 18:55, 12 October 2006 (UTC)
+
+Searle doesn't have too much good to say about "cognitive science" (of any sort, mathematical or otherwise) and its attempts to devolve everything into "algorithms" (cf pp. 108 ff) -- in his view "algorithms" are just "syntax in motion" -- sound and fury implying nothing. wvbailey[[User:Wvbailey|Wvbailey]] 19:02, 12 October 2006 (UTC)
+
+== excessive emphasis on Weyl ==
+
+The section on formalism is currently dominated by quotations from Weyl.  This may be excessive not only because Weyl is highly critical of formalism here, but also because Weyl himself rejected intuitionism and retracted most of these views, merely a few years later.  Perhaps some quotes from Bernays would be more appropriate.  The way it stands now, we learn more about Weyl's somewhat vague philosophical speculations about formalism than about formalism itself.  The main point that needs to be emphasized is that Hilbert saw formalism as a way of answering paradoxes of set theory.  It's not that mathematics is a game, but merely a way of grounding mathematics in finitistic procedures so as to minimize risk of paradox.  Formalism is not a denial that mathematics is meaningful, but rather an attempt to steer clear of foundational paradoxes.  [[User:Tkuvho|Tkuvho]] ([[User talk:Tkuvho|talk]]) 17:33, 8 December 2011 (UTC)
+
+:I moved the 2nd half of the quote into the footnote(this was actually the part that I liked because it mentiond the philosophic issue). I'm seeing a deeper problem here with the whole article (nutshell synopsis: what content it has fails to give the reader the "wide angle" view). I'm working on a new section to suggest how tackle the problem. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 00:25, 9 December 2011 (UTC)
+
+::My main problem is with an attempt to present formalism through the eyes of its opponents.  I think we should present a sympathetic picture of formalism emphasizing the points I mentioned above.  Certainly all three foundational schools had nasty things to say about the other.  I don't think this page is the right place to get involved in that.  I don't think Weyl (in his  brief intuitionist period) is necessarily our best source on formalism.  Also, I don't find his philosophical comments particularly clear.  A good source on Hilbert and formalism is the article by Avigad and Reck.   [[User:Tkuvho|Tkuvho]] ([[User talk:Tkuvho|talk]]) 08:17, 9 December 2011 (UTC)
+
+--
+ 
+Actually I'd like to see more of the nasty dialog in this article (ie. the "crisis" part of it) -- the criticisms and counterclaims/rebuttals help us understand the issues. More on this to follow in another section.
+
+I'm trying to broaden us out, pulling the lens back so we get a wider-angle view of "foundations of mathematics" and what "foundations" is all about/what it means. I'm using as references the following books, the 4th being dubious (but it has Dedekind's and Cantor's works). Notice that the years stop at about 1936-7 with Turing. So there's lots of stuff missing:
+
+I. Grattan-Guinness 2000 ''The Search for Mathematical Roots 1870-1940: Logics, Set Theories and the Foundations of Mathematics from Canotr Through Russell to Goedel'', Princeton University Press, Princeton NJ, {{ISBN|0-691-05858-X}} (pbk.: alk. paper)
+:* CH 2: Preludes: Algebraic Logic and Mathematical Analysis up to 1870
+:* CH 3: Cantor: Mathematics as ''Mengenlehre''
+:* CH 4: Parallel Processes in Set Theory, Logics and axiomatics, 1870s-1900s
+:* CH 5: Peano: the Formulary of Mathematics
+:* CH 6: Russell's Way in: From Certainy to Paradoxes, 1895-1903
+:* CH 7: Russell and Whitehead Seek the ''Principia Mathematica''
+:* CH 8: The Influence and Place of Logicism, 1910-1930
+:* CH 9: Postludes: Mathematical Logic and Logicism in the 1930s
+:* CH10: The fate of the search 
+:: Grattain-Guiness seems mostly interested in Logicism. So this is a good companion to Mancosu/van Stigt who are specializing in Formalism and Intuitionism.
+
+Paolo Mancosu 1998 ''From Brouwer to Hilbert: The Debate on the Foundations of Mathematics in the 1920s'', Oxford University Press, NY, {{ISBN|0-19-509632-0}} pb. 
+::This book has 4 major parts: Part I: L.E.J. Brouwer, II: H. Weyl, III: P. Bernays and D. Hilbert, IV: Intuitionistic Logic. Each part is prefaced by a discussion written by either Mancosu or Walter P. van Stigt. Then each Part has a number of original articles for a total of 25 articles. This is a useful companion to van Heijenoort because the papers here are unique and don't overlap.
+
+Jean van Heijenoort, 1967, ''From Frege to Goedel: A Source Book in Mathematical Logic 1879-1931'', 3rd Printing 1976, Harvard University Press, cambridge, MA, {{ISBN|0-674-32449-8}} (pbk).
+::This excellent book has 41 original papers each with commentary by various mathematicians.
+
+Stephen Hawking ed., 2005, ''And God Created the Integers: The Mathematical breakthrougs that Changed History'', Running Press, Philadelphia PA, ISBN-13: 978-0-7624-1922-7. 
+::Excerpts of papers seem to be culled from out-of-copyright works. Not very good commentary, what there is of it is mostly biographical. Starts with Euclid, Archimedes, Diophantus, Descartes, Newton, Laplace, Fourier, Gauss, cauchy, Boole, Riemann, Weierstrass, Dedekind, Cantor, Lebesgue, Goedel and Turing. Notice the odd jump: from Dedekind and Cantor straight through to Goedel and Turing (with Lebesgue in there. Why him?)  
+:Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 18:04, 9 December 2011 (UTC)
+
+Howard Eves 1990 ''Foundations and Fundamental Concepts of Mathematics: Third Edition'', Dover Publications, Inc, Mineola, NY, ISBN: 0-486-69609-X (pbk.)
+:* 1 Mathematics Before Euclid: 1.1 The Empirical Nature of pre-Hellenic Mathematics, 1.2 Induction versus Deduction, 1.3 Early Greek Mathematics and the Introduction of Deductive Procedures, 1.4 Material Axiomatics, 1.5 The Origin of the axiomatic Method.
+:* 2 Euclid’s Elements
+:* 3 Non-Euclidean Geometry: 3.1 Euclid’s Fifth Postulate, 3.2 Saccheri and the ‘’Reductio ad Absurdum’’ Method’, 3.3 The Wrok of Lambert and Legendre, 3.4 The discovery of Non-Euclidean Geometry, 3.5 The Consistency and the Significance of Non-Euclidean Geometry
+:* 4 Hilbert’s ''Grundlagen'': 4.1 The work of Pasch, Peano and Pieri, 4.2 Hilbert’s ‘’Grundlagen der Geometrie’’, 4.3 Poincare’s Model and the Consistency of Lobachevskian Geometry, 
+:* 5 Algebraic Structure [Finite algebra] 
+:* 6 Formal Axiomatics: 6.1 Statement of the Modern Axiomatic Method, 6.2 A Simple Example of a Branch of Pure Mathematics, 6.3 Properties of Postulate Sets – Equivalence and Consistency, 6.4 Properties of Postulate Sets – Independence, Completeness, and Categoricalness
+:* 7 The Real Number System: 7.1 Significance of the Real Number System for the Foundations of Analysis, 7.2 The Postulational Approach to the Real Number System, 7.3 The Natural Numbers and the Principle of Mathematical Induction, 7.4 The Integers and the Rational Numbers, 7.5 The Real Numbers and the Complex Numbers
+:* 8 Sets: 8.1 Sets and Their Basic Relations and Operations, 8.2 Boolean Algebra, 8.3 Sets and the Foundations of Mathematics, 8.4 Infinite Sets and Transfinite Numbers, 8.5 Sets and the Fundamental Concepts of Mathematics
+:* 9 Logic and Philosophy: 9.1 Symbolic Logic, 9.2 The Calculus of Propositions, 9.3 Other Logics, 9.4 Crises in the Foundations of Mathematics, 9.5 Philosophies of Mathematics
+
+Charles Seife 2000 ''Zero: the Biography of a Dangerous Idea'', Penguin Books, NY, NY, ISBN 0 14 02.9647 6 (pbk).
+:* The ancient Greeks and Zero: "Zero had no place within the Pythagorean framework" (p.34)
+:* "The Pythagoreans had tried to squelch another troublesome mathematical concept -- the irrational . . . The concept of the irrational was hidden like atime bom inside Greek mathematics." (p. 35)
+:* RE Zeno's paradox and the Greek distaste for infinity and the infinitely small (limits) (cf "The Infinite, the Void, and the West" pp. 40ff)
+:* RE imaginary numbers in CH 6: Infinity's Twin: 6.1 The Imaginary, 6.2 Point and Counterpoint, 6.2.2 Projective geometry, 6.2.2 Gauss and imaginary numbers circling around origins, 6.2.3 Riemann's spirals into the origin and his spheres, 6.3 The Infinite Zero [6.3.1 Riemann --> Cantor], 6.3.2 The real number line and the "size" of the rational numbers ["They take up no space at all . . . Kronecker hated the irrationals, but they take up ''all'' the space on the number line" (p. 155)]
+
+W. S. Anglin 1994 ''Mathematics: A Concise History and Philosophy'', Springer-Verlag, New York, ISBN: 0-387-94280-7.
+:1 Mathematics for Civil Servants, 2 The Earliest Number Theory, 3 The Dawn of Deductive Mathematics, 4-6 The Pythagoreans, 7 The Pythagoreans and Irrationality, 8 The Need for the Infinite, 9-11 Plato & Aristotle [e.g. Aristotle and the Infinite], 11 In the Time of Eudoxus, 13 Ruler and Compass constructions, 14-15 [Euclid's Elements], 16-17 Alexandria and Archimedes, end of Greek Mathematics [the Romans], 18 Early Medieval Number Theory, 19 Algebra in the early Middle Ages, 20 Geometry in the Early Middle Ages, 21 Khayyam and the Cubic, 22 The Later Middle Ages, 23 Modern Mathematical Notation, 24-25 The Secret of the Cubic, 26 [Napier's logarithm calculating device] 27-31 The Seventeenth Century Astrononmy, Pascal, Leibniz 32-33 The Eighteenth Century, Lagrange, 34-37 Nineteenth Century Algebra, Analysis, Geometry, Number Theory, 38 Cantor, 39 [Modern] Foundations, 40 Twentieth Centry Number Theory.
+
+Ian Stewart 2007 ''Taming the Infinite: The story of mathematics from the first numbers to chaos theory'', Quercus Publishing Plc, London UK, ISBN: 978 1 84724 7 68 1.
+:In particular CH 1 Tokens, Tallies, and Tablets, The birth of numbers [tally marks, symbolizing], CH 3 notations and Numbers: where our numbers come from,[Roman numerals, Greek numerals, Indian numerals, Hindu numerals, Arabic numerals, negative numbers, CH 4 Algebra: the equation, Al-jabr, the cubic, symbolism, Vieta and "the logic of species";  CH 11 Firm Foundations: Making Calculus Make Sense, i.e. the problem of the infinitesimal and the notions of continuity, convergence and limit, 
+:[etc. There's more good stuff to be used as back-up sourcing]    
+
+== Opening up the topic Part I-- "foundational crises" with emphasis on the plural ==
+The book by Eves, above, offers a list of three "foundational crises". The advantage of using this is that it is clearly not OR. The disadvantage of sticking to it is Eves has missed some "difficulties" in ancient and medieval foundations that spurred on the development of modern mathematics. Some of these can be inferred from the topics in the other books above (Eves has some but not all of these): symbolization, 0, the infinite, negative numbers; roots of equations and the square root of a negative number; convergence, limits, continuity; inadequacy of Aristotelian logic and the school-men forms (e.g. failure of Euler diagrams), etc. This is not a complete list, just an example.    
+
+Eves identifies 3 major “profoundly disturbing” crises of foundations (pages 262-263):
+*1: Discovery of irrational numbers (5th C B.C. Greece, Eudoxus’s treatment of incommensurables 5th book of Euclid’s Elements)
+* 2: In the calculus of Newton and Leibniz, the failure of the notion of “infinitesimal” later rectified by Cauchy (Hawking:635ff)
+* 3: (1897: Burali-Forti). The paradox discovered in Cantor’s set theory in Frege’s symbolic logic, and by Russell (Russell 1903).
+
+My intention is to work up a list of "difficulties". Then move to a list of "foundations" (ancient, medieval, early modern, modern) e.g. topics like axiomatization, proof; algebraic generalization and symbol-manipulation; calculus (analysis), etc. Any thoughts? Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 22:34, 12 December 2011 (UTC)
+
+== Nasty dialog ==
+
+An editor recently commented that "Actually I'd like to see more of the nasty dialog in this article (ie. the "crisis" part of it) -- the criticisms and counterclaims/rebuttals help us understand the issues".  My personal preference would be to have succinct sympathetic statements of the positions of the various schools.  Other editors are welcome to chip in.  [[User:Tkuvho|Tkuvho]] ([[User talk:Tkuvho|talk]]) 12:47, 14 December 2011 (UTC)
+
+---
+
+Here are some examples of "the nasty dialog" so editors know what this is about. Even this small selection either directly covers or hints at a wide range of foundational issues -- the nature of mathematical thought, the completed infinite, the continuum, impredicativity, tacit contentual assumptions vs formalism, the nature of mathematical induction, the various philosophic "-isms" (Finitism/constructivism/intuitionism, Logicism, Formalism):
+
+'''Strict finitism vs set theorists: Those who were mishandled by Kronecker, in particular: Dedekind and Cantor''': Here's Dedekind 1887: 
+:" . . . Kronecker not long ago (Crelle's Journal, Vol. 99, pp.334-336) has endeavored to impose certain limitations upon the free formation of concepts in mathematics which I do not believe to be justified" (footnote on page 45 of  Dedekind 1887 ''The Nature and Meaning of Numbers'' Dover edition).
+
+'''The infinite taken as a completed whole -- Cantor''': There's a whole chapter to be written here about how badly treated he was (or felt he was) by Kronecker and Kronecker's Crelle's Journal.
+:"His former teacher Kronecker turned out to be a particularly uinremitting opponent of the entire direction of Cantor's research, even trying to prevent the publication of some of his papers. In this atmosphere, an appointment to a university where Cantor could have contact with colleagues of his own stature was not to be." (Davis 2000:68) 
+:"A story that has been circulating among mathematicians and has been widely believed has it that the influential French mathematician Henri Poincare said that one day Cantor's set theory "would be regarded as a disease from which one had recovered." (Davis 2000:73)
+:"Cantor suffered the first in a series of nervous breakdowns in 1884 . . . Having recovered, Canotor attributed his mental problems to the intensity of his work on the Continuum Hypothesis and to his difficulties with Kronecker." (Davis 2000:78
+  
+'''The continuum: Analysis and Dedekind cuts, Zermelo's set theory''': Apparently any "contentual assumptions" in a theory were an anathema to Hilbert. Here's Bernays 1922: "In Dedekind's grounding of analysis what is taken as a basis is the system of the elements of the continuum, and Zermelo's construction of set theory it is the domain of operations '''B'''" (p. 215 in Mancosu 1998). After a glowing tribute to the ideas of Zermelo, Hilbert adds this zinger:
+::"Of course, a definitive solution of the foundational problems is never possible through this [Zermelo's] axiomatic procedure. For the axioms taken as a basis by Zermelo contain genuine contentual assumptions, and to prove the latter is, I believe, precisely the main task of foundational research." (Mancosu p.228)
+
+'''Impredicative definitions and Zermolo's set theory''': In a section b. of his 1908 ''The Possibility of a Well-Ordering'', Zermolo states:
+: ". . . he [Poincare] presses his attack so far -- since his opponents made use chiefly of set theory -- as to identify all of Cantor's theory, this original creating of specifically mathematical thought and the intutition of a genius, with the logistic that he combats and to deny it any right to exist, without regard for positive achievements, solely on the grounds of antinomies that have not yet been resolved<sup>7</sup>. [Footnote <sup>7</sup> See ''Poincare 1906 p. 316: "There is no actual infinite; the Cantorians forgot that, and they fell into contradiction]" (Zermelo 1908:190 in van Heijenoort 1967)
+The following is a very important quote, e.g. taken up in detail by Goedel 1944. This is Zermelo
+:"But according to Poincare (1906, p. 307) a definition is 'predicative' and logically admissible only if it ''excludes'' all objects that are "dependent" upon the notion defined, that is can in any way be determined by it. Accordingly, in the example cited here the set ''M'' [similar to Dedekind's chain theory], the totality of θ-chains, whould have had to be excluded from the definition of these chains, and my definition, which counts ''M'' itself as a θ-chain, would be "nonpredicative" and contain a vicious circle. . . . A definition may very well rely upon notions that are equivlanet to the one to be defined; indeed in every definition ''definiens'' and ''definiendum'' are equivalent notions, and the strict observance of Poincare's demand would make every definition, hence all of science, impossible". (Zermelo 1908:190-191 in van Heijenoort 1967)   
+
+'''Hilbert criticises everyone''':
+:"Already at this time I should like to assert what the final outcome [of my proof theory] will be: mathematics is a presuppositionless science. To found it I do not need God, as does Kronecker, or the assumption of a special faculty of our understanding attuned to the principle of mathematical induction, as does Poincaré, or the primal intuition of Brouwer, or, finally, as do Russell and Whitehead, axioms of infinity, reducibility or completeness . . ." (Hilbert 1927 ''The Foundations of Mathematics'' in van Heijenoort 1967:479.)
+
+:"Kronecker coined the slogan: God created the integer, everything else is the work of man [Die ganze Zahl shuf der liebe Gott, alles andere ist Menschenwerk]. Accordingly he despised -- the classical prohibiting dictator -- everything that did not seem to him to be integer; on the other hand, it was also far from his practice and that of his school to think further about the integer itself.
+
+:"Poincaré was from the start convinced of the impossibility of a proof of the consistence of the axioms of arithmetic. According to him, the principle of complete induction is a property of our mind -- i.e. (in the language of Kronecker) it was created by God" (Hilbert 1922 ''The New Grounding of Mathematics'' in Mancosu 1998:201)
+
+'''Re the completed infinite, the LoEM -- Hilbert's famous boxer quote''':
+:"Taking the principle of excluded middle from the mathematician would be the same, say, as proscribing the telescope to the astronomer or the boxer the use of his fists. To prehibit existence statements and princple of excluded middle is tantamount to relinquishing the sciene of mathematics altogether . . . I am most astonished by the fact that even in mathematical circles the power of sugestion of a single man [Brouwer], however full of temperament and inventiveness, is capable of having the improbable and eccentric effects." (Hilbert 1927:476 ''The Foundations of Mathematics'' in van Heijenoort 1967) 
+
+Bill[[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 16:23, 14 December 2011 (UTC)
+
+== [[WP:Foundations of mathematics]] ==
+
+My essay about problems related to this topic in Wikipedia. A help to improve the quality of articles on mathematical logic, currently being unsatisfactory, is appreciated. [[User:Incnis Mrsi|Incnis Mrsi]] ([[User talk:Incnis Mrsi|talk]]) 09:10, 5 March 2012 (UTC)
+
+== References ==
+
+I removed the reference of the book by W.S. Anglin as I read [http://www.fen.bilkent.edu.tr/~franz/M300/anglin.pdf this critique]. I did not see the book however. Can someone who saw the book confirm or infirm the validity of this critique ? If it is valid, can someone justify to include the reference of a book like this in this article ? I mean, it did not seem to me that the quotations from this book had any specially unique value here. I guess that if any reference is needed, other sources can be found as well in replacement. Sorry I did not make a search on the issue.  
+As for Gödel, I mention him for his set-theoretical platonism later in the article where modern mathematics are concerned. Quoting him in a section about the Ancient Greek philosophy would be anachronistic, and there is no need to quote Anglin about Gödel for giving a definition of Platonism.[[User:Spoirier|Spoirier]] ([[User talk:Spoirier|talk]]) 22:00, 16 September 2012 (UTC)
+:I'm in the process of travelling so I can't do any research RE the issue of Anglin. The original entries were indeed derived from Anglin (I put them there), for better or worse. As I say I'm travelling so I can't examine the criticism-paper in more depth, right now. I did look at the first few paragraphs of the paper and the criticism seems harsh (aka extreme), so all of us (me and you included) need to be cautious. On the other hand, new scholarship (i.e. new papers) emerge and have to be accounted for. I'd say if you were willing to completely rework/reword these sections, with appropriate attribution, so they don't reflect Anglin then that would be okay. (I wouldn't use the criticism paper). But to delete the references as to where the Anglin-derived text derives from renders these sections plagiarism (plagiaristic?). I'd say forge ahead and make improvements on the article. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 23:23, 16 September 2012 (UTC)
+
+== Remove Uncertainty Principle as paradox? ==
+
+The following entry is in the more Paradoxes section of the article, but doesn't seem to be part of mathematics and further it isn't a paradox.  Any reason not to remove it? [[User:RJFJR|RJFJR]] ([[User talk:RJFJR|talk]]) 19:02, 16 January 2014 (UTC)
+::"1927: [[Werner Heisenberg]] published the [[Uncertainty principle]] of quantum mechanics"
+
+
+:I think the section is just misnamed.  It's mostly not about paradoxes (what's counterintuitive about AC being consistent with ZF, for example?); it's actually more of a timeline of intellectual developments related to foundations.  The uncertainty principle, though not mathematical in itself, does arguably have some sort of place in such a timeline, as it's one of the "limitative" results that were popping up frequently in the era. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 20:35, 16 January 2014 (UTC)
+
+:: I suggest also  removing the Einstein and Bell papers. They have no relevance to the subject matter. [[User:Schlafly|Roger]] ([[User talk:Schlafly|talk]]) 05:54, 25 August 2014 (UTC)
+
+:: I belled the cat, but the part about Chaitin I kept and hung a "citation" flag on the possible influence of QM or uncertainty or whatever on Chaitin; I agree with Trovatore on this. If you want to go down this route, there's also the influences of statistical mechanics (thermodynamics and information theory of Shannon et. al.) on mathematicians and physicists both. I also agree that the section title should be different; per Torvatore's suggestion, the problem is: the section could way back in time, clear back to the Greeks and even further: wouldn't you agree that tallying (putting sheep in one-to-one correspondence with marks on a stick, or pebbles in a pouch) is "foundational"? Ditto for Euclid's algorithm, and geometry, and Arabic numerals, and the factor of ten symbolism of "place" arithmetic (as opposed to Roman numerals), and etc, etc.  Bill[[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 13:43, 2 September 2014 (UTC)
+
+==Assessment comment==
+{{Substituted comment|length=197|lastedit=20070416204702|comment=This article is just an outline, but it could be expanded to a more thorough description.  That is, there are a lot of references but the content is shallow. [[User:CMummert|CMummert]] - 5 Oct 2006}}
+Substituted at 14:48, 1 May 2016 (UTC)
+
+== Some doubt ==
+
+Under "Group theory", Wantzel gets the credit for the work of Hermite and Lindemann.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/81.171.52.6|81.171.52.6]] ([[User talk:81.171.52.6|talk]]) 11:49, 2 September 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:You are correct, circle squaring was not disproved by Wantzel. I'll try to fix this. [[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 21:12, 2 September 2014 (UTC)

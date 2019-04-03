@@ -1,0 +1,85 @@
+{{maths rating|class=list|importance=top|field=general}}
+
+==about cryptology==
+
+Nothing on the page about either [[computational number theory]] or [[cryptology]], as far as I can see. This makes me sceptical about the claim that all areas are covered. [[User:Charles Matthews|Charles Matthews]] 23:00, 19 Feb 2005 (UTC)
+
+Cryptology belongs under 'Information and communication' (#94) and computational number theory belongs under 'Number theory' (#11). 
+
+What I would like to see is the raw sub-headings expanded in the same way as those under Geometry and some of the Physical sciences. [[User:Tompw|Tompw]] 14:44, 28 Apr 2005 (UTC)
+
+==Other lists==
+Charles Matthews had some other lists/categorizations, but I can't find these now. I've been staring at bits of AMS for a while, and, while the top-level categories make sense, some of the subcategories seem insane to me. 11B in particular seemed bizarre. For example, where can we classify stuff published in "Journal of Integer Sequences"?  Thus, I am lead to look for Charles other lists ... [[User:Linas|linas]] 18:22, 24 July 2005 (UTC)
+: I don't know if this is helpful, but see [http://en.wikipedia.org/w/index.php?title=Wikipedia:Classifications_of_mathematics_topics&oldid=14555103 Wikipedia:Classifications_of_mathematics_topics] which I made redirect to  [[Areas of mathematics]]. [[User:Oleg Alexandrov|Oleg Alexandrov]] 20:45, 24 July 2005 (UTC)
+::There was some non-AMS list that he'd scavenged from somewhere. I didn't much care for such questions when I first saw it. Maybe I should ask directly. [[User:Linas|linas]] 03:27, 25 July 2005 (UTC)
+:Actually, Intereger sequences come under [http://www.ams.org/msc/11Yxx.html 11Y55]. I agree that the AMS has severe limitations when used in a context like Wikipedia. However, as the article states, the AMS classifcation "has been used as a starting point to ensure all areas are covered, and related areas are close together". I fully expect the headings to be tweaked and moved around within the article. [[User:Tompw|Tompw]] 15:11, 25 July 2005 (UTC)
+
+== Deletion of MSC numbers? ==
+
+I note [[User:Tompw]] recently deleted, without explaination, some MSC numbers I'd just added. Why? Maybe I misunderstand the purpose of this list, but it seems that it was trying to be a cross-list to the MSC numberigng system, so I'm wondering why these are now being deleted.  [[User:Linas|linas]] 21:39, 25 July 2005 (UTC)
+: I thought I had replied to this, but it seems not. I didn't delete it because it had the extra AMSC numbers, I deleted it because I felt it went into too much detail for the page, although I should've stated this under the edit summary. On reflection, it would be nice to re-include them as easily comprehended areas of Number Theory. I also feel that putting in AMSC numbers below the top level makes the article less readable. (There is something to be said for removing all AMSC numbers - they are a hang over of a copy and paste of the AMSC top levels. - see first few edits). Anyway, hope tha tclears that one up. [[User:Tompw|Tompw]] 00:21, 9 December 2005 (UTC)
+
+::OK, not too big a deal, otherwise I would ave argued. I think it might be useful to have, somewhere, a cross-reference between MSC numbers and WP categories. However, this is not so urgent that I'll push on this. BTW, you may want to (re-) announce this page on [[Wikipedia talk:WikiProject Mathematics]], as this may get you help filling out some missing sections. [[User:Linas|linas]] 23:21, 9 December 2005 (UTC)
+
+::: I think I wrote about it a while ago. I have a map between MSC and WP categories, at [[User:Mathbot/msc]]. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 01:02, 10 December 2005 (UTC)
+
+==about differential geometry==
+
+Wouldn´t it be more appropiate to include differential geometry in applied mathematics and appart of the algebraic structures? --anon
+
+
+== Intro line to analysis ==
+I think it is misleading to say that analysis is primarily related to rates of change.  Many aspects to the theory do not arise in this way.  I think it would be better to say that analysis is the study of inequalities, because this is the theme that runs through every branch, at least it seems to me. To quote Krantz (from a book review of 'A Companion to Analysis: A Second First and First Second Course in Analysis') "Analysis is dirty, rotten, hard work. It is estimates and more estimates. And what are those estimates good for? Additional estimates, of course. We do hard estimates of integrals in order to obtain estimates for operators. We obtain estimates for operators in order to say something about estimates for solutions of partial differential equations. And so it goes."  Any comments?  I tried to change it initially myself, but instantly got reverted. :) I should have started here I suppose. [[User:Thenub314|Thenub314]] 02:51, 28 September 2006 (UTC)
+: Inequalities play an important role in analysis, but this is not what the analysis is about however. I would argue that derivatives and integrals are much more important. Either way, I would suggest you copy your post to [[Wikipedia talk:WikiProject Mathematics]] where more people will see it. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 03:15, 28 September 2006 (UTC)
+Will do thanks. [[User:Thenub314|Thenub314]] 03:26, 28 September 2006 (UTC)
+
+:I just rewrote the introduction to analysis, incorporating most of what was already there. My goal is to add paragraphs for most of the subdivisions of analysis that are already present in skeletal form. I do have a question about content, and style, though.
+
+:Since the math portal points directly to this page, I think this ought to be a survey article describing things at a fairly high level. And since the non-mathematical reader is likely to look at it, I also think it ought to be lively and entertaining, to the extent that is possible. So I tried to make the lead-in to "analysis" informative, but also fun to read.
+
+:I'm interested in other people's opinions. Brickbats? Laurels? Whatever you think I deserve, please send it my way! Thank you.  ;^>  [[User:DavidCBryant|DavidCBryant]] 18:59, 13 December 2006 (UTC)
+
+::Well, I'm starting to understand why Thenub314 gave up and wandered away without contributing anything to this article. My new intro to analysis lasted exactly 45 minutes. And it took almost an hour to write it! That's pretty discouraging.
+
+::Just so it will still be easy to find, I'm going to quote it here. If I don't get some feedback in a couple of days, I'll probably drag this whole discussion over to the [[Wikipedia talk:WikiProject Mathematics|general math forum]] and see what kind of response I can elicit over there. Oh -- here's the intro to analysis as I rewrote it.
+
+::<blockquote>More than 2,500 years ago, [[Heraclitus|Heraclitus of Ephesus]] taught the ancient Greeks that the world itself is change.</blockquote>
+
+::<blockquote>Within the world of mathematics, '''[[Mathematical analysis|analysis]]''' is the branch that focuses on change: [[Derivative|rates of change]], [[Integral|accumulated change]], and multiple things changing relative to (or independently of) one another. From [[Archimedes]] to [[Zeno's paradoxes|Zeno]], the ancient Greek mathematicians and logicians embraced Heraclitus's idea, thus planting the seeds that would finally spring into full flower with the advent of [[Isaac Newton|Newton's]] and [[Gottfried Leibniz|Leibniz]]'s [[calculus]] during the seventeenth century.</blockquote>
+
+::<blockquote>Modern analysis is a vast and rapidly expanding branch of mathematics that touches almost every other subdivision of the discipline, finding direct and indirect applications in topics as diverse as [[number theory]], [[cryptography]], and [[abstract algebra]]. It is also the [[Lingua-franca|lingua franca]] of science itself. In [[chemistry]], [[biology]], and [[physics]], from [[astrophysics]] to [[X-ray crystallography]], the language of analysis is spoken.</blockquote>
+
+::I'm still hoping to get some feedback!  [[User:DavidCBryant|DavidCBryant]] 19:45, 13 December 2006 (UTC)
+:theres nothing about the subdivisions of analysis! [[User:Brad7777|Brad7777]] ([[User talk:Brad7777|talk]]) 18:24, 10 November 2011 (UTC)
+
+==Combinatorics==
+I don't see the reason for classifying combinatorics under algebra.  It is not algebra.  Some combinatorics is algebraic, much is not.  Any replies?  (Is this the wrong place for this comment?)  [[User:Zaslav|Zaslav]] 06:15, 1 December 2006 (UTC)
+
+:seems ok to me. go ahead and split it. [[User:Mct mht|Mct mht]] 06:34, 1 December 2006 (UTC)
+
+== mere stub, with an "appendix" of citing the American Mathematical Society's Mathematics Subject Classification ==
+
+This "article" is a mere reproduction of American Mathematical Society's Mathematics Subject Classification. It does not even establish basic facts that 
+Analysis is commonly divided in two major branches. It does not meet C criteria but is a mere stub. [[User:Mootros|Mootros]] ([[User talk:Mootros|talk]]) 23:31, 27 September 2010 (UTC)
+:I'm making an effort to clean up the article. It looks like the material can be divided naturally with encyclopedic information with external sources given here and a page for navigating withing WP at [[List of mathematics lists]]. I've already moved some the purely MSC listings to the MSC article.--[[User:RDBury|RDBury]] ([[User talk:RDBury|talk]]) 10:49, 5 October 2010 (UTC)
+::While I support removing the AMSC numbers (see my comments a few sections up), please ensure that the ''areas'' they refer to are still covered. It looks like the numebrs have been removed without adding any real content in their place... for example, there is now nothing on group theory, differential equations, sequences/series or game theory. [[User:Tompw|Tom<small>pw</small>]] ([[User talk:Tompw|talk]]) <small>([[Wikipedia:Editor review/Tompw|review]])</small> 01:33, 6 October 2010 (UTC)
+
+== Suggested reading ==
+
+Suggested reading for editors of this page:
+
+{{wikisource-inline|Popular Science Monthly/Volume 73/October 1908/The Classification of Mathematics|single=true}}. --[[User:Siddhant|Siddhant]] ([[User talk:Siddhant|talk]]) 06:13, 1 February 2014 (UTC)
+*I'd like to add Timothy Gowers, June Barrow-Green, Imre Leader (editors): The Princeton Companion to  Princeton University Press, Jul 18, 2010, Part IV: Branches of Mathematics.--[[User:Vujkovica brdo|Vujkovica brdo]] ([[User talk:Vujkovica brdo|talk]]) 12:41, 6 March 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Areas of mathematics]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=744791525 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20100815034900/http://www.math.niu.edu:80/~rusin/known-math/index/tour_div.html to http://www.math.niu.edu/~rusin/known-math/index/tour_div.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 13:05, 17 October 2016 (UTC)

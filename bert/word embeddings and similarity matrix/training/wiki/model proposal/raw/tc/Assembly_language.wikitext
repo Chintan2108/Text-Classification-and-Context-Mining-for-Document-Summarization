@@ -1,0 +1,1187 @@
+{{talk header}}
+{{Vital article|level=4|topic=Technology|class=B}}
+{{WikiProject Computer science |class=B |importance=High}}{{WikiProject Computing |class=B |importance=High |software=y |software-importance=High |early-comp=y |early-comp-importance=High}}
+
+== Pronunciation ==
+
+Can you add the pronunciation of ''assembly''? In particular, assemb'''ly''' as in '''li'''ght or as in '''li'''terature? And where is the stress? '''A'''ssembly or ass'''e'''mbly? Thanks--[[User:Stemby|Stemby]] ([[User talk:Stemby|talk]]) 10:43, 17 June 2008 (UTC)
+: It's  IPA: /əˈsɛmb.lɪi/. See [http://en.wiktionary.org/wiki/assembly Wikitionary]. [[User:BenFrantzDale|—Ben FrantzDale]] ([[User talk:BenFrantzDale|talk]]) 12:09, 17 June 2008 (UTC)
+
+== http://en.wikipedia.org/wiki/List_of_assemblers <> Comparison of assemblers ==
+
+In "See also" section the point "List of assemblers" linked to [[Comparison of assemblers]]!
+And where the link to [[MACRO-11]] should be added? --[[User:Tim32|Tim32]] ([[User talk:Tim32|talk]]) 19:20, 22 June 2008 (UTC)
+
+== Syntax section ==
+Since this section has to deal mostly with [[x86 assembly language]], I suggest that it be moved there.  ( [[User:RCX|rCX]] ([[User talk:RCX|talk]]) 03:59, 4 July 2008 (UTC) )
+:I moved it. [[User:RCX|rCX]] ([[User talk:RCX|talk]]) 00:57, 23 July 2008 (UTC)
+
+== FAQ ==
+
+The representation in here does it refer to the hexadecimal address that machines use, such as when Blue Screen of Death error, they consists of a particulara hardware address in hexadecimal form. (I have very little macros programming foundation.)
+ This representation is usually defined by the hardware manufacturer, and is based on 
+ abbreviations (called mnemonics) that help the programmer remember individual instructions, 
+ registers, etc
+
+By the way some interpreter use to translate XML documents according to XML schema, are they consider assemblers?
+
+--[[User:Ramu50|Ramu50]] ([[User talk:Ramu50|talk]]) 03:24, 13 July 2008 (UTC)
+
+This is mostly OT, but I can't stand to let a question on BSODs go unanswered. :) In most blue screen messages, one or more of the hex numbers you see are virtual addresses, and often one of them will be the virtual address of an instruction. If you could look in memory at that address you would find the numeric (usually displayed in hex) coding of the actual instruction (or "opcode"). The blue screen however never displays the instructions themselves, only their addresses. The documentation that comes with the Windows Debugging Tools will tell you all about how to interpret blue screen data. The debugger can of course display the hex coding for the instructions and can also "disassemble" them, turning them back into assembly language mnemonics. There is a decent quick tutorial on using the debugger here: [http://www.networkworld.com/news/2005/041105-windows-crash.html]. If you want to know more than most of us need to know about how Intel x86 instructions are encoded, download the three volumes of "IA32 Architecture Software Developer's Manual" from the Intel site, particularly volumes 1 and 2. You don't need to know the instruction coding in depth unless you're writing a compiler, an assembler, a debugger, or the microcode for the CPU itself, but it helps if you understand the general principles and if you can recognize a few common patterns. I can also highly recommend Matt Pietrek's articles from MSJ, [http://www.microsoft.com/msj/0298/hood0298.aspx|"Just Enough Assembly to Get By"], for a look at how the x86 instruction set is actually used by everyday code. There's nothing there on how the instructions are coded into hex, though, only on the assembler mnemonics. 
+
+I never heard of an XML interpreter called an assembler - they're usually called interpreters, or some more specialized name depending on their function. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 08:02, 16 July 2008 (UTC)
+
+
+-- Fasmlib keeps cropping up throughout wikipedia Assembler articles ---
+
+Seems to me the author of Fasmlib is quietly seeking to advertise his product through wikipedia. Fasmlib isnt even a working product as far as I can tell, nor is it unique in what it attempts to deliver ( Randolph Hyde has done a similar, yet complete  work in the past ).  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/217.42.215.104|217.42.215.104]] ([[User talk:217.42.215.104|talk]]) 21:45, 16 November 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Ext links (Absolute Begineers guide to assembly language ==
+Hi MrOllie.  I'm publishing (with permission) Doug Dingus' comprehensive guide to Assembly Language for the Absolute Begineer.  Not trying to sell anything, but I think it would be a valuable external resource that goes into detail beyond what would be appropriate for an article. This is inline with the External Link guidlines.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Nmcclana|Nmcclana]] ([[User talk:Nmcclana|talk]] • [[Special:Contributions/Nmcclana|contribs]]) 02:07, 18 February 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:You're publishing? Please do not add links to your own site. See [[WP:EL]] and especially [[WP:COI]]. - [[User:MrOllie|MrOllie]] ([[User talk:MrOllie|talk]]) 15:42, 18 February 2009 (UTC)
+
+::This EL doesn't promote anything other than a better understanding of assembly language.  And linking to an article you've reprinted doesn't qualify for automatic deletion.  [[User:MrOllie|MrOllie]] thinks an EL to 'Assembly Language for the Absolute Beginner' is spam, a COI, and requires deletion without discussion.  I think it is a useful guide for someone who would read about assembly language and want to learn more.  Any other opinions? --[[User:Nmcclana|Nmcclana]] ([[User talk:Nmcclana|talk]]) 19:16, 18 February 2009 (UTC)
+
+:::Quoting [[WP:EL]] - 'In line with Wikipedia policies, you should avoid linking to a site that you own, maintain, or represent — even if WP guidelines seem to imply that it may otherwise be linked.' - [[User:MrOllie|MrOllie]] ([[User talk:MrOllie|talk]]) 19:26, 18 February 2009 (UTC)roza is a bitch
+
+== Ext links (Pagetable.com) ==
+
+Pagetable.com was removed from the external links/software section - pagetable.com is a unique resource for assembly language analysis and history/evolution of the language across various architectures and compilers; I believe it comes into category 3, [[Wikipedia:EL#What_should_be_linked]]. One of the admins should examine the content of pagetable.com and other links and not just delete en masse because they don't have either the expertise or time to identify useful resources [[Special:Contributions/121.45.167.176|121.45.167.176]] ([[User talk:121.45.167.176|talk]]) 20:29, 19 March 2010 (UTC)
+
+== one pass / two pass assemblers ==
+
+as per this edit that was reverted [http://en.wikipedia.org/w/index.php?title=Assembly_language&diff=294177058&oldid=294176194], I think it would add something to have a brief description of one pass vs two pass assemblers.  I know what they are, but don't have any references at the moment (although I'm sure I could find some).  However, I have not heard of "Jove" pass assembly?  Does anyone know what this is?  
+--[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 18:30, 3 June 2009 (UTC)
+
+:I've never heard of a Jove pass assembler either. A Google search does not turn up anything likely. Shouldn't be too hard to find sources on one and two pass assembers, though.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Yworo|Yworo]] ([[User talk:Yworo|talk]] • [[Special:Contributions/Yworo|contribs]]) 19:22, 3 June 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:: well, it was a bit harder than I thought to find a reference.  I found a lot of interesting class notes, each with a little different interpretation.  However, I don't think class notes are RS. But, I put in a brief description of the basic types of each, and the main differences.  I think currently, the 2 kind of blend into each other because of more sophisticated one-pass assemblers, which build tables which allow them to plug in addresses that are forward referenced.  But, imo, this is hazy as to whether it is a one-pass or a two-pass or something in between.  Plus, they have multi-pass assemblers, however that is just more passes to do more sophisticated processing of the source.  I left that out as I think just a basic definition will do for this article.  
+However, if anyone feels that they can improve it.. be bold!!  --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 02:37, 4 June 2009 (UTC)
+
+:::I believe that historically it was more common to have 3 or more passes than it was to have only one. I've revised the text to reflect that, and also briefly mentioned the possible need for an extra pass when doing [[peephole optimization]]. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 19:14, 11 December 2011 (UTC)
+
+== Manuals, etc. ==
+
+The list of manuals, tutorials, etc. seems too long. I would argue that only links to sites/pages which are about assembly language in general should go here. Links for specific assembly languages for specific machines or chips belong on the article about that machine or chip.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Yworo|Yworo]] ([[User talk:Yworo|talk]] • [[Special:Contributions/Yworo|contribs]]) 23:06, 9 June 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+I'd also propose that we link to the Open Directory page at http://www.dmoz.org/Computers/Programming/Languages/Assembly/ Wikipedia can never be a complete directory to pages about every assembly language and we should not try to be. A link to Open Directory will give the read a much better overview and categorization of assembly languages.
+
+:I believe that references for specific assemblers belong here and that they do '''not''' belong in articles on hardware.
+
+:OTOH, some of the references are about architecture and hardware and have nothing to do with assembler languages; I believe that those should be moved. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 12:27, 10 August 2010 (UTC)
+
+== separate Manuals / Tutorials ==
+
+I think this article would be of more benefit to the public if there was a section for manuals, and a section for tutorials.  A manual would be any assembly manual put out by the company that made that particular computer (IBM/Unix/etc.).  Online manuals are really of great benefit to anyone interested or working in the field.  Tutorials would be those tutorials written by experienced people/teachers/universities/etc.
+Right now.. it is all jumbled together.  Not very user friendly. --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 23:10, 9 June 2009 (UTC)
+
+:See my update above. I think we should just link to Open Directory.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Yworo|Yworo]] ([[User talk:Yworo|talk]] • [[Special:Contributions/Yworo|contribs]]) 23:10, 9 June 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:Or rather, we should link ''only'' to pages/sites about assembly language in general and then provide a link to OD for those wanting to find manuals/tutorials for specific architectures.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Yworo|Yworo]] ([[User talk:Yworo|talk]] • [[Special:Contributions/Yworo|contribs]]) 23:13, 9 June 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:: Yworo, I took a look at the Open directory, and it is a nice idea, but I couldn't find some basic things for IBM like the online IBM manuals for assembly language.  I am not against putting a link to there, it is a good source - but I don't think it is a complete source (wikipedia isn't either).  As for putting the assembler manuals on the 370 system architechure article, then maybe we could put a link to it from here (and the same with other architechures).  But I still think that if a company that manufactures the hardware has online manuals which programmers use as reference to program that machine, then perhaps a link to all the manuals from that particular architecture would be great.  
+:: --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 23:32, 9 June 2009 (UTC)
+
+:::I don't believe we should be linking to the IBM manuals from this article. I think they should be link from the article about the machine itself. This article is not about specific assembly languages. Maybe there should be subarticles about specific assembly languages, the links would be appropriate there....  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Yworo|Yworo]] ([[User talk:Yworo|talk]] • [[Special:Contributions/Yworo|contribs]]) 23:36, 9 June 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:::: Then how about something like, '''''There are assembly languages for these architectures:''' ''then list the architectures, with wiki links to the articles on the different architectures.  Then have a link to the online manuals from the different architectures. --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 23:56, 9 June 2009 (UTC)
+
+:::: also, Yworo, if you follow your posts with <nowiki>--~~~~</nowiki> , wiki will automatically sign the post, so that people will know that you wrote the post. --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 23:58, 9 June 2009 (UTC)
+
+:::::Yah, I've just been informed on my talk page about the tildes. Thanks. You may have something there about how to do this. The current list is just so disorganized. Maybe some sort of a "list" subarticle would be better. And what about obsolete architectures, do we list them too? I took a machine language/assembly language class many years ago which used Burroughs, PDP-11, and CDC Cyber assembly languages as examples. PDP-11 assembly may well still be an excellent example of an orthogonally designed assembly language, but the other too are certainly obsolete. Do we link to info about say 8008 assembly? I still think it might be better to put the links on the pages about the machines, but perhaps we could create a see also section which mentions that that is where to find the assembly language reference links? Or? There just has to be a better solution than the current one... [[User:Yworo|Yworo]] ([[User talk:Yworo|talk]]) 13:13, 10 June 2009 (UTC)
+
+:::::: Yworo, I think we should just start with what we have, rather than worrying about getting everything in at once.  If we set up the structure, then I think people will add in the right place if they can see it easily.  How about if I set up something tonight, then you can give me your opinion, or change/tweak it, then we can go from there.  Ok?  --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 18:27, 10 June 2009 (UTC)
+
+:::::::Sure thing, go ahead. I'm the newcomer here... :-) [[User:Yworo|Yworo]] ([[User talk:Yworo|talk]]) 19:07, 10 June 2009 (UTC)
+
+:::::::: Yworo, I took a look around, and I see that this has already been created: [[List_of_assemblers]].  At the bottom of the Assembler article, it has this mixed in with other links here: [[Assembly_language#See_also]].  I think we should the link to a section by itself with a little paragraph explaining that this is a link of the different assemblers for the different machines.  Then, maybe organize the rest of the links so they make better sense.  What do you think?  --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 09:11, 11 June 2009 (UTC)
+
+Yworo, I created a new section: [[Assemblers#List_of_assemblers_for_different_computer_architectures]] which just has an introductory sentence explaining that a list of assemblers and architectures is on an associated page.  Now, I think we can go through the links, and add those links to different assemblers into the table on the other page (if they are not already there), and take them off this page.  The table is a more user friendly presentation of the information, than a bunch of links.  You are right in that all the jumbled links with no organization is not good.  If you need any help figuring out how to put something in the table, let me know.  I will be glad to help --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 19:29, 11 June 2009 (UTC)
+
+:OK, let's make sure I have this straight, most of the links, the ones specific to architechtures, will go into the table on the subpage? And we'll have only a few general links on this one? I think that solves it quite nicely and is much more navigable and user-friendly. Good work. [[User:Yworo|Yworo]] ([[User talk:Yworo|talk]]) 13:12, 12 June 2009 (UTC)
+
+:: yes, the table give like a crossroads link page between the different articles - between the assembly language, and the architecture.  For each specific language, the table points to a wikipedia article on that language.  For each architecture, there is a wikipedia article on that architecture.  
+:: So, I was thinking of going back to what you originally suggested, with a variation.  For each wiki article on a language, add a subsection: manuals - then add the links to the assembly manuals there.  And for each architecture, add a section for manuals.  This will streamline this article, which, like you said, shouldn't have every assembler manual referenced in this article, and it will provide a way for a person to see all assemblers and their associated architecture, and point them to the correct articles for more information, and the manuals.  If someone adds a manual here, we just move it and explain on the talk page and edit summary - that way the editor is still encouraged to contribute to the article. 
+:: I think this will make the wikipedia articles on this subject much more user friendly, and provide a nice resource for the public.  I will start with the IBM Z/Architecture Assembler (HLASM) that is my ballpark.  --[[User:Stmrlbs|<span style="color:#AF0AAB;background:#FFFFbb;font-family:Viner Hand ITC; margin-right:0;padding:2px 5px 1px">'''stmrlbs'''</span>]]|[[User_talk:Stmrlbs|<span style="color:#396400;background:#CCFFff;font-size:85%">'''''talk'''''</span>]] 18:14, 12 June 2009 (UTC)
+
+== Modulo ==
+
+I made a long research to use the [[Modulo]] operator in [[Assembly language]] and the closest I found was the DIV operator however it's not available on the simple educational Assembler PEP8 [http://www.filewatcher.com/b/ftp/ftp.pepperdine.edu/pub/compsci/pep8/downloads.0.0.html] (French operators instruction ''Chapitre 7'' in http://www.er.uqam.ca/nobel/k20250/Notes_cours.html).
+
+Is there a simpler way of doing a modulo ?  Perhaps doing bitwise operations ?  --[[User:DynV|DynV]] ([[User talk:DynV|talk]]) 19:29, 12 June 2009 (UTC)
+
+Only thing I can think of is performing the DIV operation to return an integral value and multiplying it with the divisor then subtracting it from the dividend.  This is probably how it's done physically in architectures. [[User:ChazZeromus|ChazZeromus]] ([[User talk:ChazZeromus|talk]]) 18:05, 13 August 2009 (UTC)
+
+== Immediate encodings ==
+I thought I'd put a little section about the ModR/M operand specifier byte underneath the opcode section. Please edit if their are any erroneous typings in my words lol.
+[[User:ChazZeromus|ChazZeromus]] ([[User talk:ChazZeromus|talk]]) 18:11, 13 August 2009 (UTC)
+
+: I reverted this change. You are describing the underlying machine language of x86, not assembly language. The ModR/M byte details, etc., aren't part of and are not reflected in the assembly language. You could however see if the x86 architecture article could use this material. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 18:14, 13 August 2009 (UTC)
+
+: Hm, maybe there should be a section approaching the architecture of the assembler itself?  This article describes the different language, and so I thought I'd put an example, but I forgot about the assembler part!  Alright, I'll see what I can plug around in the x86 article. [[Special:Contributions/72.91.245.68|72.91.245.68]] ([[User talk:72.91.245.68|talk]]) 21:45, 13 August 2009 (UTC)
+
+:::Some assemblers are remarkably flexible when it comes to typing in immediate code.   I can't speak for the x86 series of microprocessors as I have no real experience with that microprocessor, but there are assemblers around for [[MOS Technologies|6502]]s that let you type the following kind of stuff in:
+
+:::::hex  41424344  45464748             ; lowercase [[PETASCII]] clumped together into 4 byte series
+:::::hex  41 42 43 44 45 46 47 48       ; lowercase [[PETASCII]] with a space between the arguments for easier reading   
+:::::hex c1 c2 c3 c4 c5 c6 c7 c8          ; uppercase [[PETASCII]] same thing as above, but it's standard uppercase format
+:::::bin 1010 0000 1011 1111            ; series of 4 bit nybbles with zeroes on the upper nybbles
+:::::scr  "abcdefgh"                           ; [[VIC-II]] compatible screencodes
+:::::scr  "ABCDEFGH"                              ; [[VIC-II]] compatible screen codes
+
+:::and so on.   Naturally, good assemblers also let you decide for yourself whether the bytes are being generated in reverse order (so, in effect, you could spell strings backward).   Assemblers usually (or at least often) try to avoid byte-framing errors by keeping the object code on an even boundary, unless the programmer actually wanted things to end up on odd boundaries for copy protection purposes.  Similarly, some assemblers are designed in such a way that you can generate and deposit object directly in memory, or in specific tracks and sectors.   An essential feature for programmers who prefer to write their own Disk Operating Systems.   [[User:Dexter Nextnumber|Dexter Nextnumber]] ([[User talk:Dexter Nextnumber|talk]]) 22:29, 9 December 2009 (UTC)
+
+
+As far as i know, *all* assemblers have directives for entering Hex and other literal values.  There is nothing special about what you are describing.   Good little assemblers everywhere, let you enter the byte codes "in the same sequence" that you want them to appear in memory, the only issue being endieness.  It would be a very unusual assembler indeed that would reverse the order of an arbitrary sequence of bytes for you.  Maybe as a Unicode function, but not otherwise, I don't recall ever encountering such a directive.  Assemblers only align the bytes on memory boundaries when and where you tell them to by using the appropriate directives they have no crystal ball to allow them to predict where the alignment should be placed.  And unless you are dealing with FORTH and writing to BLOCKS which are obsolete, then assemblers do NOT "deposit object directly ... in specific tracks and sectors"  assemblers use ordinary files same as any other program and they generate executable machine code not objects.  Well, perhaps this is something unique to the VIC20?  does the VIC not have a file system?  I've never used a VIC, maybe it does use tracks and sectors, some early mainframes did use tracks and sectors because that was before the development of file systems.   [[User:OldCodger2|OldCodger2]] ([[User talk:OldCodger2|talk]]) 22:02, 15 September 2012 (UTC)
+
+== Vic-20 assembler ==
+
+The main page for this article includes a reference to an assembler named "French Silk" and touts it as being the smallest assembler ever written.   In fact, the ''Instant Editor Assembler'' (known more by its acronym, IEA) was the smallest assembler around.   I am not sure who wrote it, but remember it was marketed through Randy Chase's Commodore Users' Group Newsletter.   I am not a fan of the IEA, as I was one of many dissatisfied customers who bought a copy of it, and tried to use it.   French Silk, on the other hand, had a much better reputation for speed of execution and assembling.   [[User:Dexter Nextnumber|Dexter Nextnumber]] ([[User talk:Dexter Nextnumber|talk]]) 08:22, 2 January 2010 (UTC)
+
+:No size given, but it's mentioned [http://forum.6502.org/viewtopic.php?t=941 here] [[User:Tedickey|Tedickey]] ([[User talk:Tedickey|talk]]) 14:10, 2 January 2010 (UTC)
+
+== Automatic optimization ==
+
+Some assemblers do limited [[Peephole optimization]], e.g., converting long branches to short branches. I believe that there should be a discussion of this in the article, preferably with some examples. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 12:39, 10 August 2010 (UTC)
+
+== Neutral nomenclature ==
+
+Some terms have different definitions in different assemblers. In particular, some assemblers use the term ''pseudo-instruction'' to refer to assembler directives. The article should avoid conveying an impression that the nomenclature used is universal. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 13:22, 10 August 2010 (UTC)
+
+:There's no neutrality/POV issue here, so I'm removing the systematic bias template. If reliable sources give distinctly different definitions of a term, and I think this is the case, the article should reflect this. That much is very straight forward. [[User:ButOnMethItIs|ButOnMethItIs]] ([[User talk:ButOnMethItIs|talk]]) 08:47, 6 September 2010 (UTC)
+
+::The NPOV issue is the '''removal'' of neutral language, as discussed in [[#A pseudo-opcode is a directive]]. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 13:35, 6 September 2010 (UTC)
+
+:::I think you misunderstand the meaning of neutrality. Your language may have been more accurate, but it was not more neutral. Again, I see no NPOV issue. [[User:ButOnMethItIs|ButOnMethItIs]] ([[User talk:ButOnMethItIs|talk]]) 15:48, 6 September 2010 (UTC)
+
+== A pseudo-opcode '''is''' a directive ==
+
+A pseudo-opcode is a directive, and some assembler use only the term ''pseudo-op'' for the functions listed in the article as pertaining to directives. The text
+
+
+<nowiki>
+* An '''assembler directive''' or ''pseudo-opcode'' is a command given to an assembler. These directives may do anything from telling the assembler to include other source files, to telling it to allocate memory for constant data. Some assemblers use special syntax for directives; others do not.
+</nowiki>
+
+
+should be reinstated [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 14:57, 22 August 2010 (UTC)
+
+:A pseudo-opcode is not a directive. A pseudo-opcode is a stand-in opcode for another opcode. For example, many older CPUs do not have a ''nop'' instruction. But often there is another instruction that can be used instead with the same effect as a ''nop''. In 8086 CPUs the instruction ''xchg ax,ax'' was always used for ''nop''. With ''nop'' being a pseudo-opcode to encode the instruction ''xchg ax,ax''.
+::That's not a psuedo-op, just an alias (sometimes called an ''extended mnemonic''). [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:51, 23 August 2010 (UTC)
+
+:A directive is something that generates no output code but instead directs the assembler to do some internal function.
+
+::So is a pseudo-op. Of course, some pseudo-ops do generate output, e.g., the '''PUNCH''' statement in the System/360 assemblers. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:51, 23 August 2010 (UTC)
+
+:::Please don't misrepresent what I wrote. I said "generates no output '''code'''" not "generates no output". [[User:HumphreyW|HumphreyW]] ([[User talk:HumphreyW|talk]]) 18:00, 23 August 2010 (UTC)
+
+::::Fine, then try the '''DC''' statement, which can be used to generate output '''code'''. And lest you quibble about that not being a directive, the article says ''For example, directives would be used to reserve storage areas and optionally their initial contents.'' [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 11:45, 24 August 2010 (UTC)
+
+:Even the names say exactly what they are, a directive directs the assembler, and a pseudo-opcode is a fake opcode for something else. [[User:HumphreyW|HumphreyW]] ([[User talk:HumphreyW|talk]]) 16:52, 22 August 2010 (UTC)
+
+:: Agree with HumphreyW. It may be true that some assemblers use the same term for both; nevertheless the concepts are quite different and should be named differently here. Perhaps the article could say something like "some assemblers, including x, y, and z, use the term 'a' for both 'a' and 'b'."  [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 07:47, 23 August 2010 (UTC)
+
+:::I have already made some changes to the main article. But I think it would not be a good idea to start listing specific assemblers that misuse the term. [[User:HumphreyW|HumphreyW]] ([[User talk:HumphreyW|talk]]) 07:53, 23 August 2010 (UTC)
+
+:::: I'm just thinking that a statement that "some assemblers use one term for both" would really require support from an example. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 11:30, 23 August 2010 (UTC)
+
+::::: What is the referent for ''both''?  Some assemblers use the term ''pseudo-op'' for what the articles calls ''directive'', and AFAIK the tern is older than ''directive'' in that context. See, e.g., {{cite manual
+ |    author = IBM
+ |     title = IBM 7090/7094 Programming Systems FORTRAN II Assembly Program (FAP)
+ |        id = C28-6235-3
+ |      date = April 1964
+ |   version = 
+ | separator = ,
+ }} {{cite manual
+ |    author = IBM
+ |     title = IBM 7090/7094 IBSYS Operating System Version 13 Macro Assembly Program (MAP) Language
+ |        id = C28-6392-4
+ |      date = December 30, 1966
+ |   version = Fifth Edition
+ | separator = ,
+ | postscript= ,
+ }}
+
+::::I can provide examples of assemblers that use the term properly. What is your basis for claiming the historical usage to be a misuse? [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:51, 23 August 2010 (UTC)
+
+:::The nomenclature should agree with what is actually used by the authors of assemblers, not the local CS department. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:51, 23 August 2010 (UTC)
+
+::{{cite manual
+ |    author = IBM
+ |     title = FORTRAN Assembly Program for the IBM 709/7090
+ |        id = J28-6098-1
+ |      date = 1961
+ |   version = 
+ |     pages = 24-53
+ |     quote = In addition to recognizing all the 709 machine operation codes and extended operation codes listed in the 709 Reference Manual, the FAP language also recognizes the following psueod-operations, described in detail in the succeeding chapters.
+ | separator = ,
+ }}
+:::psueod-operations [sic] is not a pseudo-opcode. [[User:HumphreyW|HumphreyW]] ([[User talk:HumphreyW|talk]]) 18:00, 23 August 2010 (UTC)
+
+:::: In matters of language, e.g. word usage, I think ancient references are less good than current ones - language, especially technical language, does evolve. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 19:07, 23 August 2010 (UTC)
+
+::::: Is April, 2010 too ancient? [http://publib.boulder.ibm.com/infocenter/aix/v6r1/index.jsp?topic=/com.ibm.aix.aixassem/doc/alangref/machine.htm AIX Version 6.1 Assembler Language Reference], "Pseudo-ops are sometimes called assembler instructions, assembler operators, or assembler directives." [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 23:39, 23 August 2010 (UTC)
+
+::::::I see three problems with your reference.
+::::::#It says "pseudo-ops" and not "pseudo-opcode".
+
+::::::::Fine, then use ''pseudo-op'' in the article. Historically ''pseudo-op'' and ''pseudo-operation'' are synonymous: {{cite manual
+ |    author = IBM
+ |     title = FORTRAN Assembly Program for the IBM 709/7090
+ |        id = J28-6098-1
+ |      date = 1961
+ |   version = 
+ |     pages = 24-53
+ | separator = ,
+ }} [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 11:45, 24 August 2010 (UTC)
+
+::::::#It uses weasel words. "sometimes"? When and by whom?
+
+::::::::That would be relevant if I were arguing for the legitimacy of ''directive''; it doesn't use weasel words about the use of ''pseudo-op''. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 11:45, 24 August 2010 (UTC)
+
+::::::#It is very vague and seems to cover everything with one catch-all term.
+
+::::::::Historically the term ''pseudo-op'' has covered everything that is not a machine instruction or macro invocation. The same is true of the term ''directive''; it's as much of a catch-all term as ''pseudo-op''. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 11:45, 24 August 2010 (UTC)
+
+::::::But more pointedly, do you really think that using that as a reference would really help the encyclopaedia? It looks to me like it creates more confusion rather than actually clarify anything. [[User:HumphreyW|HumphreyW]] ([[User talk:HumphreyW|talk]]) 02:06, 24 August 2010 (UTC)
+
+:::::::Have you stopped beating your wife? You wanted a reference as to the legitimacy of the term, and I provided references. The question is whether the reference establishes the usage, not whether it is the best reference to cite in the article. I've established that the usages is decades old and still current. That should be enough to justify restoring the deleted text. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 11:45, 24 August 2010 (UTC)
+
+:Reading through this discussion again I see that there is confusion about what is being discussed. I have been careful to always say pseudo-opcode, but I think the point did not get across properly. One commenter talks about pseudo-op, and said "''Fine, then use ''pseudo-op'' ''". Well we can't do that because it is not the same thing. Pseudo-op is ambiguous and can mean other things. Pseudo-operation is also ambiguous and is not used consistently in many cases. Pseudo-opcode has a very clearly defined meaning, and currently the article gives that meaning.
+
+::No, it does not have a clearly defined meaning. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 15:22, 7 September 2010 (UTC)
+
+:If one wants to add pseudo-op to that article, then by all means do that. But please do not do it at the expense of removing/replacing the pesudo-opcode description. It will require a different/new description explaining the ambiguity and alternative uses. However I think that adding pseudo-op, and talking at length about various meanings in various places, will not help to make the article any clearer or better. [[User:HumphreyW|HumphreyW]] ([[User talk:HumphreyW|talk]]) 14:07, 6 September 2010 (UTC)
+
+::'''All''' of the terms are ambiguous. My intent is not to replace one parochial view with another parochial view, but rather to convey the fact that the nomenclature is not standardized; in fact, not even the taxonomy is standardized. The initial issue was the '''removal''' of text indicating the variability.
+
+::What I'd like to do is to use neutral descriptions of various categories and cite the various terms that are used for those categories, with references if that's not TMI. Can I do that without the changes being reverted? [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 15:22, 7 September 2010 (UTC)
+
+:::I wonder if it is even worthwhile to have such a lengthy description of taxonomy and/or nomenclature? Since you say it is currently wrong (or misleading, or whetever), then maybe the whole section should actually be axed from the article. But to replace with something even more cumbersome and lengthy seems unhelpful. If it is really as complicated as you say then it sounds like it is just going to confuse readers more than help them. If every term can mean every other term the the terms themselves become useless.
+:::As for your question "Can I do that without the changes being reverted?" that is unanswerable. There are so many editors here on Wikipedia that no one can speak for all of them. What I would suggest is that you can put you proposal here in the talk page and assuming it is well referenced with relevant sources and no one bitterly complains then it can be copied into the main page later. That will likely give the best chance of not having edits reverted. [[User:HumphreyW|HumphreyW]] ([[User talk:HumphreyW|talk]]) 04:41, 8 September 2010 (UTC)
+
+:::I wholly support the mention of alternative usage of technical terms as used in reliable sources. I think we should stay away from "x vendor says y" because there's just too much variation across vendors and authors. A short nomenclature section that briefly discusses the lack of an industry standard or clear norm and makes it clear that definitions in this article are not entirely representative sounds very reasonable. It could also be done with footnotes where appropriate, though this sounds more cumbersome. [[User:ButOnMethItIs|ButOnMethItIs]] ([[User talk:ButOnMethItIs|talk]]) 05:00, 8 September 2010 (UTC)
+
+::::I've added some text to make it more neutral, and have also added a reference to support the usage of ''pseudo opcode'' as equivalent to ''directive''. I was going to make it a footnote, but I saw that the article has a long list of references that are simply links. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 14:59, 8 September 2010 (UTC)
+
+OK, I am a little late to this one, but it seems to me that different assemblers, or assemblers for different processors, use different names for some terms.  A table indicating the meaning, and the different names would be useful.  Still remembering from when I was first learning about assemblers, this was what confused me.  The descriptions, in at least the IBM manuals, of assemblers mostly describes what the assembler does.  You need to find somewhere else the descriptions of machine instructions, and how to use them. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 05:25, 29 November 2016 (UTC)
+
+As far as I can tell, IBM OS/360 assemblers call all these ''assembler instructions'', and PDP-10/[[MACRO-10]]<ref name="Macro10">{{cite web|title=Macro_Assembler_Reference_Manua|url=http://bitsavers.trailing-edge.com/pdf/dec/pdp10/TOPS10_softwareNotebooks/vol13/AA-C780C-TB_Macro_Assembler_Reference_Manual_Apr78.pdf|website=bitsavers.trailing-edge.com|publisher=DEC|accessdate=29 November 2016}}</ref> call them all ''pseudo-ops''.
+
+And VAX/Macro<ref name="Macro32">{{cite web|title=VAX-11_MACRO_Language_Reference_Manual|url=http://bitsavers.trailing-edge.com/pdf/dec/vax/vms/1.5/1c/AA-D032B-TE_VAX-11_MACRO_Language_Reference_Manual_Feb79.pdf|website=bitsavers.trailing-edge.com|publisher=DEC|accessdate=29 November 2016}}</ref> seems to call them ''assembler directives''. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 06:31, 29 November 2016 (UTC)
+
+:For the [[IBM System/360]] line, a given assembler will have a programmer's guide<ref>{{cite manual
+|title=OS/VS-VM/370 Assembler Programmer's Guide
+|id=GC33·4021·4
+|edition=Fifth Edition 
+|date=September 1982
+|publisher=IBM}}</ref> and a language reference manual<ref>{{cite manual
+|title=OS Assembler Language OS Release 21
+|id=GC28-6514-9
+|edition=Tenth
+|date= January 1974
+|publisher=IBM
+}}
+<br />{{cite manual
+|title=OS/VS-DOS/VSE-~VMl370 Assembler Language
+|id=GC33-4010-5
+|edition=Sixth Edition 
+|date=March 1979
+|publisher=IBM
+}}</ref>, neither of which explains the semantics of machine instructions in detail. The architectural details are in a separate principles of operation manual<ref>{{cite manual
+|title=IBM System/360 Principles of Operation
+|id=A22-6821-7
+|edition=EIGHTH
+|date=September 1968
+|publisher=IBM
+}}
+<br />
+{{cite manual
+|title=IBM System/370 Principles of operation
+|id=GA22-7000-10
+|edition=Eleventh
+|date=September 1987
+|publisher=IBM}}</ref>, possibly supplemented by manuals on specific feature. Other vendors do something similar, although some do include hardware details in their assembler documentation. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 22:13, 29 November 2016 (UTC)
+
+::Yes, IBM also had both manuals for most compiled languages, keeping the language definition separate from how to use the compiler.  Some other companies don't make this distinction.[[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 23:43, 29 November 2016 (UTC)
+
+::Maybe I am the only one to learn OS/360 Assembler only reading IBM reference manuals. It was some time of looking at the manuals, and then understanding the distinction, and ''Assembler Instruction'' doesn't make it easier, if you don't yet know the distinction. In the cases I show above, the same wording is used for allocating and initializing data blocks, defining macros, defining entry points and external names, and formatting the output listing. That is, the distinctions that some used above don't seem to exist in the cases shown. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 23:43, 29 November 2016 (UTC)
+
+{{reflist-talk}}
+
+== Prevalence of name spaces ==
+
+Are there any data to support the claim that most assemblers have symbol management, e.g., name spaces? There are certainly many assemblers that don't. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 18:13, 23 August 2010 (UTC)
+
+:I seriously doubt it. I'm sure ''most'' assemblers are extremely spartan in their feature set. [[User:ButOnMethItIs|ButOnMethItIs]] ([[User talk:ButOnMethItIs|talk]]) 01:00, 7 September 2010 (UTC)
+
+::And for that reason, I have replaced "most" with "some." Although I don't have any reference to support even "some" I assume that the person who put the statement there in the first place would have first-hand experience. Most of the assemblers that I have used have been, as noted above, quite spartan in the features they supported. An old 6502 assembler wouldn't even calculate forward branches for you. [[User:Dead Horsey|Dead Horsey]] ([[User talk:Dead Horsey|talk]]) 06:48, 21 December 2010 (UTC)
+
+== Removal of Systemic bias template ==
+
+I did in fact initiate a discussion prior to adding a {{tl|Systemic bias}}; the proper course for someone who disagreed would have been to discuss the reasons instead of removing the template. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 15:09, 7 September 2010 (UTC)
+
+:There was no on-going discussion or clear claim of bias. If there were, I would have started there. [[User:ButOnMethItIs|ButOnMethItIs]] ([[User talk:ButOnMethItIs|talk]]) 15:54, 7 September 2010 (UTC)
+
+::There was, and the template linked to it. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 18:00, 7 September 2010 (UTC)
+
+== Clarification of extended mnemonics? ==
+
+There is a comment suggesting that the following text is unclear
+{{quote box|quote =
+<!-- unclear -->
+''Pseudo-opcodes'' are often used within the instruction set to support alternative mnemonics for instructions that the CPU designer did not specifically include. For example, many older CPUs do not have a true ''nop'' (no operation) instruction. But often there is another instruction that can be used instead with the same effect as a ''nop''. In 8086 CPUs the instruction ''xchg ax,ax'' is used for ''nop''. With ''nop'' being a pseudo-opcode to encode the instruction ''xchg ax,ax''. Some disassemblers recognize this and will decode the ''xchg ax,ax'' instruction as ''nop''.}}
+
+I agree that it is misleading, and suggest the following
+{{quote box| quote = ''extended mnemonics'' are often used to support specialized uses of instructions, often for purposes not obvious from the instruction name. For example, many CPU's do not have an explicit NOP instruction, but do have instructions that can be used for the purpose. In 8086 CPUs the instruction ''xchg ax,ax'' is used for ''nop'', with ''nop'' being a pseudo-opcode to encode the instruction ''xchg ax,ax''. Some disassemblers recognize this and will decode the ''xchg ax,ax'' instruction as ''nop''. Similarly, IBM assemblers for [[IBM System/360|System/360]] and [[IBM System/360|System/360]] use the extended mnemonics ''NOP'' and ''NOPR'' for ''BC'' and ''BCR'' with zero masks.}} [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 15:22, 8 September 2010 (UTC)
+
+== Early alternatives to assemblers for systems programming ==
+
+While it is certainly true that most compilers and operating systems in the 1950s and 1960s were written in assembler, the article overstates the degree of dominance. Notable examples of languages used for system implementation include
+
+*Algol 60
+*BLISS
+*ESPOL
+*FORTRAN<ref name=bletch>I happen to believe that it was an awful choice -:(</ref>
+*JOVIAL
+*NELIAC
+*Pascal<ref name=bletch/>
+*PL/I
+
+{{Reflist}} [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 13:12, 18 November 2010 (UTC)
+
+
+I think that such lists should be avoided, there are too many languages for them to be documented in this fashion.  For instance, you somehow missed naming what is arguably the most influental language of all, a language that has probably been used to create more operating systems than any other.  That language is 'C' which often has the nickname of Portable Assembly or High Level Assembly.  So how many other languages got missed from that list? How about something exotic like FORTH which was an operating system complete unto itself?  You have defined a nearly impossible task.  If you limit it to generalities, then yes, I agree most operating system development in the later days was done in higer level languages.  The earlier it was, the more likely it was to be done in assembly, it was an evolutionary process -- go back far enough and it was done in hand coded binary.  [[User:OldCodger2|OldCodger2]] ([[User talk:OldCodger2|talk]]) 07:52, 29 January 2013 (UTC)
+
+:You seem to miss the point here... The languages mentioned were used decades before C became dominant as a systems implementation language in the late 1980's (basically because of it's tight association with UNIX). The early C (or B) of 1972 was a hack used to port an early version of UNIX to the PDP-8. B as well as early versions of C lacked typing and was basically just a simplified and – sadly enough – a syntactically changed variant of Martin Richard's simple but elegant BCPL (which in turn was a partial implementation of the CPL language). A modern C appeared on the public scene around 1978, but it was not until 10 years later that it became really dominant. At that point, languages like Algol68, PL/1, BLISS, JOVIAL, PL/M, Simula, Pascal, Modula, and even Ada, had been used for systems programming for many years, just like C today.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/83.253.229.235|83.253.229.235]] ([[User talk:83.253.229.235|talk]]) 01:33, 27 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Meta: Quotes and italics ==
+
+There is a general convention to use ''italics'' to represent quoted material that is not surrounded by quotaion marks or apostrophes. [[User:Nigelj ]] recently added quotation marks around material that already was framed by double apostrophes, the Wiki markup for italics. E.g.,
+{{Quote|"''[[floating point]] partial [[Inverse trigonometric functions|arctangent]]''"}}
+Shouldn't it be one or the other but not both? [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 14:48, 19 November 2010 (UTC)
+
+:Yes, I added the double quotes after having added the wikilinks inside the italic phrases.[http://en.wikipedia.org/w/index.php?title=Assembly_language&action=historysubmit&diff=397556789&oldid=397556377 diff] I wasn't sure, but I felt that the blue then black type broke up the phrases making it difficult to see what was going on. I was in two minds about the double quotes, but was just trying to make the meaning easy to see. I'm not attached to them and they could be removed without any problem if people think that is best. --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 22:58, 19 November 2010 (UTC)
+
+== Macros ==
+
+The section on macros has a lot of good information, but it seems to get very off-topic. It starts with a good discussion of the use of macros, and then diverges into specific uses of macros in legacy systems, using the macro assembler as a code generator for COBOL, history of the C preprocessor, and then discussions of the underlying structure of Prolog, LISP, and Forth. I'd like to trim this section down dramatically, and move the more advanced content to another article. Any comments? [[User:Dead Horsey|Dead Horsey]] ([[User talk:Dead Horsey|talk]]) 06:55, 21 December 2010 (UTC)
+
+:I agree. It's legitimate to mention that macro assemblers inspired macros in other language, but not to go into detail about macros in languages other than assemblers. Separate articles about macros in document formatting languages, e.g., [[SCRIPT/VS|SCRIPT]], general programming languages, e.g., [[PL/I]], and shell script languages, e.g., [[CLIST]], would be helpful. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 11:20, 21 December 2010 (UTC)
+
+::I will try to make some time in the next week to make these changes. I need to find out if there are other articles where the content can move. Someone put a lot of effort into writing all that information, and if it can be moved somewhere else that makes sense, I'd rather do that instead of deleting it. [[User:Dead Horsey|Dead Horsey]] ([[User talk:Dead Horsey|talk]]) 03:52, 22 December 2010 (UTC)
+
+:Discussion of using the assembler macro facilities to generate code in other languages definitely belongs in this article. As I noted last year, discussion of features in other languages inspired by the macro languages of assemblers probably does not belong here. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 18:47, 11 December 2011 (UTC)
+
+== Add references or TMI? ==
+
+I corrected the dates for some milestones in the evolution of assembler languages, and in the process I wondered whether it would be appropriate to add references, e.g., 705 Autocoder, 709 FAP, for the approximate dates. Would that be helpful, or would it be TMI? [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 21:12, 18 January 2011 (UTC)
+
+== CPU loading ==
+
+I added a citation needed template to the text referring to CPU's being idle. My first take was that while it was not true for mainframes that it was plausible for desktops, but then it occurred to me that the delays in loading the all too common bloated web pages might be due to CPU consumption for rendering. If anybody has hard data on CPU consumption in various applications on various classes of machines, citations would be appreciated. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 13:22, 19 January 2011 (UTC)
+
+:Looking at the statement, it seems to me that it means that often the CPU isn't doing useful work. That might be an idle loop on many processors, or a wait state on others. When computers cost millions of dollars, people worked hard to keep them busy.  Now they don't work so hard. IBM used to lease machines with a charge based on how much they were actually used, with a meter that ran when it wasn't in a wait state. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 06:36, 14 May 2018 (UTC)
+
+::I modified the I/O routines used by the IBM1130 at Victoria University to employ the WAIT op-code rather than just loop-on-busy, with a view to the usage meter not advancing during such WAIT intervals (before the operation-complete interrupt arrived) however, I had not looked closely enough at the behaviour of the meter (like a car's odometer) - it did not stop its advance until nearly a second ''after'' the cpu had entered the "wait" state. Even the longest delay, for the page-throw action of the slow lineprinter, completed in less time. Pox. But, it was fascinating to observe the flickering lights showing just how much time was spent waiting during I/O action, and a friend was prompted to devise a buffering scheme employing unused memory that could run the devices at top speed - until memory ran out. [[User:NickyMcLean|NickyMcLean]] ([[User talk:NickyMcLean|talk]]) 11:49, 14 May 2018 (UTC)
+
+== Why use assembly language? ==
+
+Hi all,
+
+I stumbled across this page via Random Article, it brought back happy memories of writing TSRs and trying to understand PC BIOS routines (ahem). 
+I feel that the first main section (Why use assembly language?) dives a little deep into the nitty-gritty for an opener. But the first para of the  Historical perspective section is just what the article needs at the beginning (from a layman's point a view), and I was wondering about incorporating it at the top of the page. [[User:MinorProphet|MinorProphet]] ([[User talk:MinorProphet|talk]]) 23:03, 28 April 2011 (UTC)
+
+== Why Assembly? ==
+
+The "Why Assembly Language" section focussed on the question why to use assembly language rather than to code mahine instruction dirctly. I think it gives a helpful explanation of the functionality provided by an assembler. But no sensible person will ever code machine instructions directly (e.g. with a binary editor), so this alternative is merely academic. or educational, if you like.
+
+In contrast, the question why to write assembly language rather than a high(er) level language is a serious practical question, and  
+I started reading the section with that question in mind. Because this aspect was not covered, I added some text. Because I am not a professional programmer, I don't know to what extent assembly language is still used today. Perhaps others can add some comments to that extent. Anyway, I am old enough to remember the days when even administrative programs were occasionally written in assembly language. Which is not as bad as it may seem if appropriate macro's and subroutines are used. I guess that the introduction oof C in the 1970's has greatly reduced the need to revert to assembly language. Older languages like COBOL, FORTRAN, ALGOL or even Pascal are less suited to write operating system functions, not to speak about the terrible "esperanto" developed by IBM in the 1960's called PL/I. [[User:Rbakels|Rbakels]] ([[User talk:Rbakels|talk]]) 10:35, 9 December 2011 (UTC)
+
+:Actually, people did program in machines language. The three situations I'm aware of are
+
+:*Pedagogical. Force students to write in machine language to give them an understanding of why they will be using assembler for the rest of the semester.
+
+:*Binary patches<ref group=NB>Sometimes automated with “zapmaker” programs that post-process assembler output</ref>. This was more common when assemblies ran for a long time, but still is done when the source code is not available.
+
+:*During the development of a new machine.<ref group=NB>These days it is more common to write a [[Assembly language#Related terminology|cross assembler]].</ref>
+
+:I would argue that [[PL/I]], used in [[Multics]] and [[PRIMOS]], is a much better choice than C for writing an operating system. Further, the experience of [[Burroughs Corporation|Burroughs]]<ref group=NB>Now [[Unisys]]</ref> writing [[Burroughs MCP|MCP]] suggests that Extended ALGOL<ref group=NB>including [[ESPOL]]</ref> is also a better choice. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 18:39, 11 December 2011 (UTC)
+
+{{Reflist|group=NB}}
+
+::Chatul - I'd agree about PL/I, but arguing over choice of a favored language is about as useful as arguing whose wife is better. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 13:37, 16 January 2012 (UTC)
+
+== Bytecode assemblers ==
+Would it be worth making specific mention of bytecode assemblers (e,g, Jasmin)?  Or are these subsumed under the notion of a virtual machine architecture? [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 13:33, 16 January 2012 (UTC)
+
+
+Well, if you want to go down that path, I think you would have to start talking about Java, Java Script, PHP, etc, etc, all of which are Byte Code Assemblers for Virtual Machines.  And none of those would really be appropriate for this page which focuses on Machine Language as excuted by actual Hardware.  Certainly we get into grey areas with things like QEMU or MIX, but they still are dealing with Virtual Hardware.  I feel that Byte Code would really be a separate topic.  As a further consideration, nobody is expected to write programs in the Byte Code itself, it is an internal language that is not normally exposed.  [[User:OldCodger2|OldCodger2]] ([[User talk:OldCodger2|talk]]) 08:25, 29 January 2013 (UTC)
+
+:It seems to me that there isn't anything fundamentally different about ''Byte Code'' assemblers. Even the name is somewhat strange, as many hardware architectures are byte based.  (See [[VAX]] for one example.)  At one time, Sun did have hardware that at least partly executed JVM in hardware, and others could still build such hardware.  As above, nobody is expected to write programs in JVM code, but pretty much nobody writes assembly code for the RISC processors, either, though someone has to write the templates for compiler code generators. So, it seems to me that JVM code has as much use here as, for example, SPARC assembly code. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 03:34, 20 October 2016 (UTC)
+
+:No, Java et al are not assemblers; the source languages are not machine oriented. [http://jasmin.sourceforge.net/ Jasmin], OTOH, is, although the machine in question is virtual. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 15:04, 25 October 2016 (UTC)
+
+Rumors are that Sun at least was working on hardware to execute JVM code, and might have even fabbed a chip.  I don't like the name byte code, as all that means is that the opcodes and operand specifiers are in units of bytes, which is true for many hardware architectures.  Sun calls (called) it JVM, which is fine with me. But maybe I was mixing assembly code and machine code. For most architectures, there is an assembly language designed along with the hardware. As long as there is only one assembler, or all assemblers accept the same input source, there is no confusion.  Normally, one can discuss machine code and assembly code without any confusion. Since Jasmin is, as well as I know, not written by Sun, there can be confusion.  But Sun (and now Oracle) supply the javap disassembler, so at least some of the assembler syntax had to be defined. (I don't know how close javap output is to what is needed for Jasmin input.)  Even though JVM is mostly emulated, without any dedicated hardware, I don't find the fundamental ideas of machine code (JVM bits) and assembly code (Jasmin input source) fundamentally different from other machine code and assembly code.  And yes, I was not trying to confuse Java source and assembler source. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 18:57, 25 October 2016 (UTC)
+
+== Help request: Decoding starting opcode 69h at ofs 000h in FAT formatted floppy boot sector ==
+
+I am currently working on a significant overhaul of the [[File Allocation Table]] article for accuracy and completeness, and I have run into a question I was unable to answer myself so far. Perhaps someone of you can help out and provide an answer.
+
+Primer: All FAT formatted volumes since DOS 2.0 contain a BIOS Parameter Block (BPB) in the boot sector describing the volume, wheras DOS 1.x volumes did not. In their course to determine the actual medium format, among other methods MS-DOS, PC DOS and DR-DOS check various byte patterns at offset 000h in a boot sector in order to find out, if a given sector might contain some form of BPB or not. Volumes containing a BPB typically start with a jump instruction at offset 000h to skip over the BPB.
+Patterns tested for by DOS include a short jump sequence "JMPS ??, NOP" (<tt>EBh ??h 90h</tt>, as seen since DOS 3.0) or a near jump (<tt>E9h ??h ??h</tt>, as seen on DOS 2.x formatted disks). On harddisks, DR-DOS (but not MS-DOS/PC DOS) additionally checks for a swapped sequence <tt>90h EBh ??h</tt>. (To be precise, these tests alone are not enough to be sure a BPB is present since some DOS 1.1 disks contain <tt>EBh ??h 90h</tt> as well, but still have no BPB; but I won't go into further details here, as it doesn't matter in regard to my question below.)
+
+On floppies, all these operating systems (MS-DOS, PC DOS and DR-DOS) also check for a byte pattern <tt>69h ??h ??h</tt> at offset 000h in the boot sector. This is documented for MS-DOS/PC DOS in at least one book, and it can be found in the OpenDOS source code as well, but without further explanation. Stepping through MS-DOS in a debugger it can be verified that the test actually exists in MS-DOS as well, however, in none of the books I have checked so far, 69h is a valid [[8086|x86]] opcode. So, I wonder what it is. Perhaps a jump instruction for a non-x86 processor? Mind, that the FAT file system was also used on [[Atari ST|Atari]]s ([[Motorola 680x0]]) as well as on some very late [[CP/M]] variants ([[8080]]) and all [[MSX-DOS]] machines ([[Z80]]), but a starting opcode of 69h does not seem to make sense on these platforms as well. The [[IBM PC RT]] was built around the [[IBM ROMP]] processor, a RISC processor -- certainly not x86-compatible, but unfortunately I cannot find any opcode maps for this specific processor. What about the extra opcodes supported by the NEC [[NEC V20|V20]]/[[NEC V30|V30]]? Or some undocumented opcode? Was there any other platform important enough to have Microsoft or IBM add this special test into the volume mount code of MS-DOS/PC DOS? Windows NT? Any ideas? --[[User:Matthiaspaul|Matthiaspaul]] ([[User talk:Matthiaspaul|talk]]) 01:41, 21 January 2012 (UTC)
+
+== General cleanup ==
+
+I did some more general cleanup on this article, but it is still disorganized and full of redundancies.  In particular the sections "current usage" and "typical applications" should be combined, but there are lots of other instances of duplication.[[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 13:39, 9 March 2012 (UTC)
+
+== Two of these things are not like the others... ==
+
+Please stop adding these external links:
+* [http://www.btinternet.com/~btketman/tutpage.html#Visual DOS assembly Interpreter and Assembler]
+* [http://www.bbcbasic.co.uk/bbcwin/bbcwin.html# BASIC with a 32 bit inline assembler]
+
+In the first place, if you look you will notice that the "external links" here are pointers to information, not pointers to specific assemblers - the page [[List of assemblers]] is intended for that.  In the second place, BBC Basic is not an assembler, even if it contains one.  By that criterion, almost all C compilers would be assemblers because they allow imbedded assembly code. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 23:34, 7 June 2012 (UTC)
+==Locked==
+As a new editor I cannot yet edit this article. Is there a way to get it unlocked? I only want to make some minor edits to make it read more smoothly.  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Geau|Geau]] ([[User talk:Geau|talk]] • [[Special:Contributions/Geau|contribs]]) 12:09, 26 August 2012 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:See this: http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi [[User:HumphreyW|HumphreyW]] ([[User talk:HumphreyW|talk]]) 12:33, 26 August 2012 (UTC)
+
+Thank you. I can see why it was protected, from looking at the history. I suppose I can wait until I am validated. --[[User:Geau|Geau]] ([[User talk:Geau|talk]]) 15:41, 26 August 2012 (UTC)
+
+== /* Macros */ removed a bogus claim, about built-in operations for gaming and data managment ==
+
+
+Removed: "Many assemblers have built-in (or predefined) macros for system calls and other special code sequences, such as the generation and storage of data realized through advanced bitwise and boolean operations used in gaming, software security, data management, and cryptography."
+
+The above is just total nonsense.  First off, hardly any assembler has anything like this.  Second off, if it's a macro library, then that has nothing at all to do with the assembler itself.  Third, I know of nothing that is specific to "gaming" that is implemented in any cpu architecture unless it is a custom designed cpu.  Intel has announced/documented built-in instructions for AES, but guess what, they have yet to ship any actual x86 cpus which implement these instructions -- see Intel's manual for details.  By advanced bitwise operations, I guess you mean the usual shifts and rotates?  nothing special about that. me?  I've programmed so many different computers using so many different assemblers that I've lost count.  [[User:OldCodger2|OldCodger2]] ([[User talk:OldCodger2|talk]]) 22:13, 15 September 2012 (UTC)
+
+:I looked at this claim crosswise too.  I have a vague recollection that some assemblers may have had predefined macros, maybe SDS Metasymbol for example, but not for anything mentioned.  In any case I think it would need a citation. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 23:05, 15 September 2012 (UTC)
+
+:While we're looking at macros, the article says this "Note that this definition of "macro" is slightly different from the use of the term in other contexts, like the C programming language. C macro's created through the #define directive typically are just one line, or a few lines at most. Assembler macro instructions can be lengthy "programs" by themselves, executed by interpretation by the assembler during assembly."  While this may be true of C other high-level languages have macro facilities that can be and sometimes are used to write lengthy programs, PL/I, for example. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 23:08, 15 September 2012 (UTC)
+
+::Also, both assembler and PL/I macros have been written with the function of generating text unrelated to the native language, e.g., Stage 1 of the OS/360 systems generation (SysGen) process.[[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 12:00, 19 September 2012 (UTC)
+
+:In the early days it was common for assemblers to have built-in macros but not macro libraries. However, I'm not aware of any that did so in the time-frame of the game consoles; the cases I'm aware of were much earlier. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 12:00, 19 September 2012 (UTC)
+
+== I disagree with your revert -- Data Sections ==
+
+{{User|EvilKeyboardCat}} left the following comment on my talk page. I'm moving it here, as it would be better if other editors of this page joined in. 
+:"I don't agree with either of these changes: 'sections' are not instructions; hardware architecture can easily be a c..." 	
+:I simply provided context and added a link, what is there not to agree with?	
+:If you don't agree please fix rather than revert.	
+:I'm an experienced assembly programmer for Hobby operating systems and as far as I'm aware data sections are produced by pseudo-ops, which are instructions.	
+:Please discuss.
+[http://en.wikipedia.org/w/index.php?title=Assembly_language&diff=520885017&oldid=520870318 My edit summary] was truncated by Twinkle, but I went on to say something like "hardware architecture can easily be a constraint on the use of high-level languages." Taking the two parts of the edit in turn, the edit changed a sentence to begin "Data sections are instructions used to define data elements..." My point is simply that data sections are ''sections'' of assembly programs. They ''contain'' instructions, and these instructions may well be pseudo-ops, but sections are not instructions. They are sections of the programm, or sections of memory - however you look at it - that contain instructions, or data. I cannot see how more simply to state that. Adding this minor confusion of terminology is not an improvement. The second part of the edit I reverted changed a sentence to specifically say that "constraints or peculiarities in the target <ins>operating</ins> system's architecture" may prevent the effective use of higher-level languages (The edit also spoiled the number agreement in the sentence by changing ''prevent'' to ''prevents'', even though ''constraints or peculiarities'' were still plural). My point was that although the [[operating system]] may reflect and model the  constraints or peculiarities of the underlying hardware, there is no benefit in specifying that it is not the hardware but the OS that has the constraints or peculiarities. Indeed, very often it is the OS that is being written in Assembler, so that the point as changed becomes rather tautologous. As to my admonishment to "please fix rather than revert", that is what I did: the phraseology was fine beforehand, the edit did not improve it, so I fixed it by putting it back exactly as it was, since there was nothing that I can see that was wrong with those passages in the first place. --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 16:52, 2 November 2012 (UTC)
+
+Okay, I agree with you on the point that data pseudo-ops are sections not instruction but would it be better for the start of the text on data sections to read "Data section are" not "These are"? Perhaps it could be reworded? Also I think my link to the variables page was justified. [[User:EvilKeyboardCat|EvilKeyboardCat]] ([[User talk:EvilKeyboardCat|talk]]) 00:09, 3 November 2012 (UTC)
+
+'''Data Sections''' is still wonky...  I think the term is being misapplied.  Normally the SECTIONS of a program are used to define the memory space in which it will reside.  The typical divisions are between ''code'' and ''data'' spaces with some operating systems providing Read Only Protection for the ''code'' space.  Other section properties are for ''Read Only Data'' and memory address alignment.  Sections can be used to group related parts of data together.   What is currently described by this article does not fit any of the above but instead appears to be talking about DIRECTIVES that can be used to define DATA TYPES.  A TYPE is not a SECTION, the concepts are completly different. Also DIRECTIVES are sometimes called PSUDO-OPS but they are never (as far as I know) called INSTRUCTIONS.  Please clarify your intent...  ''Tautologies'' aside, how much assembly programming have you people actually done?  [[User:OldCodger2|OldCodger2]] ([[User talk:OldCodger2|talk]]) 00:23, 13 December 2012 (UTC)
+:I regularly work on a 16-bit x86 [[Hobbyist operating system development|hobby operating system]] and the operating system kernel is written in assembly, which I have worked on many times. The operating system compiles using NASM and  [http://www.nasm.us/doc/nasmdoc3.html#section-3.2 section 3.2] of the NASM manual references data and macro statements as '''Pseudo-instructions'''. This is what I though they were called, i.e. there are real and pseudo instructions. Here is a quote from the manual: ''Pseudo-instructions are things which, though not real x86 machine instructions, are used in the instruction field anyway because that's the most convenient place to put them. The current pseudo-instructions are DB, DW, DD,DQ, DT, DO and DY; their uninitialized counterparts RESB, RESW, RESD, RESQ, REST, RESO and RESY; the INCBIN command, the EQU command, and the TIMES prefix.''. NASM calls them pseudo instruction but different assemblers (like FASM or MASM) may call them by different names. We should put the most use name first then a ''(also known as foobar)'' afterwards. [[User:EvilKeyboardCat|EvilKeyboardCat]] ([[User talk:EvilKeyboardCat|talk]]) 08:46, 13 December 2012 (UTC)
+
+:Nomenclature is not consistent between systems, and sometimes not even consistent between assemblers on the same system. My background is heavilly S/360, through z, although I've been exposed to a dozen or so assemblers on other systems.
+
+:A section is a block of storage<ref>It may be delimited by a pseudo-op, but it is not itself a pseudo-op.</ref> that a loader can treat as a unit; it can contain code, data or a mixture, and can be r/o, writable or copy on write. A section usually has a name, although do to FORTRAN there is supprot for unnamed common sections. The details depend on the program structure of the OS<ref>A single assembler may support more than one object format.</ref>, not on the hardware architecture.
+
+:I wouldn't mention this had you not asked, but I've been writing in assembly languages since 1960; I feel confident that there are others here of the same vintage. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:26, 18 December 2012 (UTC)
+
+{{Reflist}}
+
+  
+  
+
+I still disagree with the wording of sections.  Perhaps it's because my experience has mostly all been with microprocessors and yours is mostly mainframes???  If you look at the [http://www.nasm.us/doc/nasmdoc6.html#section-6.3 NASM manual] and how it describes sections for x86...  which is also very similar to how sections are used for z80 and other processors I've programmed. Here is what the manual has to say.  And I cannot reconcile what the manual says with what this article trys to say....  [[User:OldCodger2|OldCodger2]] ([[User talk:OldCodger2|talk]]) 10:45, 29 January 2013 (UTC)
+
+<code>
+  6.3 SECTION or SEGMENT: Changing and Defining Sections
+   
+  The SECTION '''directive''' (SEGMENT is an exactly equivalent synonym) changes which section of the output file the code you write will be assembled into. 
+  In some object file formats, the number and names of sections are fixed; in others, the user may make up as many as they wish. Hence SECTION may 
+  sometimes give an error message, or may define a new section, if you try to switch to a section that does not (yet) exist.
+  
+  The Unix object formats, and the bin object format (but see section 7.1.3, all support the standardized section names '''.text, .data and .bss''' 
+  for the code, data and uninitialized-data sections.
+  
+</code>
+
+:A few points.
+
+:The nomenclature among assemblers is inconsistent, and any of the terms ''directive'', ''pseudo-instruction'' or ''pseudo-operation'' may be used with the same meaning. As noted, a section is not a pseudo-op, but the selection of what code goes into what section is controlled by pseudo-ops.
+
+:The details of defining sections have almost  nothing to do with the hardware's architecture and are strongly tied to the operating system. Historically sections were influenced by the need to support named common in FORTRAN. The NASM paragraph 6.3 quote is fully consistent with that. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 22:58, 31 January 2013 (UTC)
+
+== Don't like the example ==
+{{Resolved}} <small> marked as resolved by [[User:Diamondl|Diamondl]] ([[User talk:Diamondl|talk]]) 03:25, 18 January 2018 (UTC) </small>
+
+I really don't like the section called
+"Example listing of assembly language source code"
+It provides no useful information and is in no way informative.  Maybe a section of code from a real micro(processor/controller) would be useful but a snippet of code from a virtual device is useless.  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mtpaley|Mtpaley]] ([[User talk:Mtpaley|talk]] • [[Special:Contributions/Mtpaley|contribs]]) 22:57, 20 December 2012 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+
+I agree, the example fails to convey anything meaningful, it appears to just be a bunch of random additions without any apparent purpose.  Would it be okay with people if I were to replace it with this code instead? (taken from an actual program)  [[User:OldCodger2|OldCodger2]] ([[User talk:OldCodger2|talk]]) 09:41, 29 January 2013 (UTC)
+
+<code>
+       Example: x86 32 bit  NASM, Note: this is a subroutine not a complete program.
+    
+    
+   178                                  ;ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+   179                                  ;
+   180                                  ; counts a zero terminated ASCII string to determine it's size
+   181                                  ; in:   eax = zstr.addr
+   182                                  ; out:  ecx = zstr.count
+   183		    
+   184                                  zstr_count:                       ; entry point 
+   185                                  
+   186 00000030 B9FFFFFFFF                      mov  ecx, -1              ; init the loop counter, pre-decrement to compensate for increment
+   187                                  
+   188                                  .loop:
+   189 00000035 41                              inc  ecx                  ; add 1 to the loop counter
+   190                                  
+   191 00000036 803C0800                        cmp  BYTE [eax + ecx], 0  ; compare the value at the base memory address + the loop offset to zero
+   192 0000003A 75F9                            jne  .loop                ; if the memory value is Not Equal to Zero then jump to the label called '.loop'
+   193                                  	
+   194                                  .done:
+   195                                                                    ; we don't do a final increment because, even though the count is base 1, 
+   196                                                                    ; we do not include the zero terminator in the count
+   197 0000003C C3                              ret                       ; return to the calling program
+   198                                  	
+   199                                  	
+   200                                  
+</code>
+
+:I agree, and I note that one difference is that the suggested example specifies the architecture and the assembler for the listing. However, it might be better to create a separate article for assembler examples and to include examples for disparate assemblers, including IBM's [[IBM High Level Assembler|HLASM]] and an assembler for at least one [[Reduced instruction set computing|RISC]]. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 21:57, 31 January 2013 (UTC)
+
+okay, thanks for the feedback, glad you agree, I have gone ahead and updated the article.  Hopefully this won't lead to any disagreements. I will leave the creation of a separate page with lots of assembly examples for a different day.   [[User:OldCodger2|OldCodger2]] ([[User talk:OldCodger2|talk]]) 18:58, 5 February 2013 (UTC)
+
+== Link to assembler disambiguation page? ==
+
+The last update changed the bare word ''assembler'' to a link. However, [[assembler]] is just a disambiguation page rather than an explanation of assembler programs. Is such a link appropriate? [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 22:22, 7 February 2013 (UTC)
+
+:In general, you are not supposed to link to disambiguation pages.  In some cases, though, it might be interesting to see other uses for a word. More specifically, what is an assembler assembling? Is that meaning related to other uses for the words assembler and assembly?  (And, for that matter, should it be ''assembly language'' or ''assembler language''?) [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 23:11, 29 November 2016 (UTC)
+
+== Assemblers scheduling instructions? ==
+
+"Modern assemblers, especially for RISC architectures, such as SPARC or Power Architecture, as well as x86 and x86-64, optimize instruction scheduling to exploit the CPU pipeline efficiently." - What? There is no citation but this suggests there exists an assembler which can do this. The closest thing I can think of would be [[MIPS]] branch delay slots, where assemblers exist (such as GNU gas) that can fill the slot with an instruction. [[Special:Contributions/24.85.180.193|24.85.180.193]] ([[User talk:24.85.180.193|talk]]) 04:27, 11 January 2014 (UTC)
+
+:OK, how about for [[IA-64]] (Itanium) where a 128 bit word contains three instructions, controlling different functional units at the same time.  Hopefully the assemblers provide some help on organizing instructions such that things happen at the right time. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 05:44, 29 November 2016 (UTC)
+
+== Compiler optimization versus hand optimization ==
+
+One fact to to keep in mind is that code rearrangements that improve performance on one processor may degrade it on another. A compiler (including an assembler) that has an option to do optimization for a specific processor may give result better than an assembler program hand optimized for one processor but run on another. Of course, configuration management will be more complicated if you have to distribute more versions of the object code. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 18:40, 22 January 2014 (UTC)
+
+== User asm ==
+
+Hi, I've suggested to rename seven [[Wikipedia:Categories_for_discussion/Log/2014_February_15#user_asm|User asm]] categories to '''User ASM'''. The lower case names would conflict with the Ethnologue/IANA/ISO [[Assamese language|asm]] language code as used in the <code><nowiki>{{#babel:&hellip;|asm-?|&hellip;}}</nowiki></code> magic. The existing {{tlx|User Assembly Language}} templates '''-0'''&hellip;'''-5''' and '''-N''' won't be affected. &ndash;[[User:Be..anyone|Be..anyone]] ([[User talk:Be..anyone|talk]]) 05:48, 15 February 2014 (UTC)
+
+== ERRATA sheet, what? ==
+
+I consider myself an assembler expert, and I've never come accross an erata sheet,
+much less one that is treated by a linker. The suggestion ensues that one pass assemblers were the norm in primitive system, while in fact two pass assemblers were, and passing a long source on paper tape was twice done on e.g. Intel's first development system for the 8080. 
+Later came the Isis system featuring double 8 inch floppies, and undoubtedly the assembler was two pass, but who to prove it.
+[[Special:Contributions/80.100.243.19|80.100.243.19]] ([[User talk:80.100.243.19|talk]]) 04:21, 19 February 2014 (UTC)
+
+== variable instruction length ==
+
+The authors are muddying the waters by considering early on in the discussion of the number of passes  the possibility that the assembler decides whether a jump could be long or short. It is quite common that the assembler forces or allows the programmer to specify the length. Under that assumption the one versus two pass can be discussed clearly. It must also be pointed out that in that case more than two passes are never applicable.
+
+:Address fix-ups and exploitation of short jumps are not the only reasons for multiple passes, especially in the early days. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 20:10, 26 February 2014 (UTC)
+
+== Sample code missing language ==
+
+[[User:Ankitapasricha]] (no talk page) added a sample code section, but failed to mention the language. Any sample code in an article covering multiple languages should indicate the specific language, and, in this case, also the hardware platform. If anybody knows the processor, OS and assembler for the sample code, please update [[Assembly language#Sample Code]] to reflect that.
+
+[[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:06, 2 October 2014 (UTC)
+
+:Do we even need this section?  It's nice-looking code and all, but what point is being made by this?  Even if the language is given, do we expect readers to decode the instructions to follow the algorithm?  If the point is just to give a "feel" for assembly, we have an image of some assembly code already included at the start of the article.  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 17:46, 16 October 2014 (UTC)
+
+::I could make a case for having examples, but I could also make a case for not having them, at least in the same article. My major concern is that if there are to be examples that they should be properly identified. I certainly have no objections should you decide to remove the unattributed example. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:01, 24 October 2014 (UTC)
+
+== Errata assemblers, huh? ==
+
+I count myself as an assembler expert, and even have written a few. I never have come accross an errata assembler as described here, let alone as a class in its own standing apart from multi pass assemblers. Is this a crippled way to describe assemblers that give relocatable output? But in that case the term <i> one pass  </i> is misleading, as relocatable output must be processed by a linker before it can be executed.
+
+I'm so non plussed that I hesitate to try clear things up.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.100.243.19|80.100.243.19]] ([[User talk:80.100.243.19|talk]]) 14:09, 2 December 2014 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:I've read about such one-pass assemblers, although I've never encountered one. But then I only started in 1960, and there were a lot of assemblers out by then. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 20:17, 2 December 2014 (UTC)
+
+::I remember stories about Soviet processors, where each came with a list indicating which instructions didn't work.  (Similar to a bad-block map for older disk drives.)  I suspect that having assemblers and compilers that could work with such lists would be useful. I don't know if that is related to errata assemblers, though. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 22:59, 29 November 2016 (UTC)
+
+== reverted edit - opinions? ==
+
+One of my recent edits was reverted: 
+
+[https://en.wikipedia.org/w/index.php?title=Assembly_language&diff=704677108&oldid=703759095]
+
+While the original version may have been more concise I felt that it was incomplete.  I'd appreciate it if someone could provide another opinion. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 22:45, 12 February 2016 (UTC)
+
+== Typical applications - reverse engineering ==
+
+[[Reverse engineering]] of software/firmware can be used for many reasons, from the most worthy to the most unworthy:
+*To address a flaw in a product that is no longer supported by the company who designed it, either because that company is defunct or because they moved on to fancier products...
+**for example, the Turbo-C 1.0 compiler has been release into the public domain, but if you try to use a timing function on a modern computer (400Mhz+), it won't work. That particular library function would have to be rewritten for fast computers.
+*For educational purpose. Figuring out who things are done.
+**for example, you can disassemble any product to learn how good (or bad) algorithms are written.
+*For making a competitive product, changing just enough to circumvent a patent.
+*for finding the security holes in a product in order to created viruses or other malware.
+I wonder if the sentence that was added today in the article, belongs here or better under [[reverse engineering]]. [[User:Dhrm77|Dhrm77]] ([[User talk:Dhrm77|talk]]) 13:26, 22 June 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:4|one external link|4 external links}} on [[Assembly language]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=745246625 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20110708061040/http://programminggroundup.blogspot.com/ to http://programminggroundup.blogspot.com/
+*Added archive https://web.archive.org/web/20051124110958/http://www.drpaulcarter.com:80/pcasm/ to http://drpaulcarter.com/pcasm/
+*Added archive https://web.archive.org/web/20160304070400/http://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1001&context=oer to http://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1001&context=oer
+*Replaced archive link https://web.archive.org/web/*/http://win32assembly.online.fr/tutorials.html with https://web.archive.org/web/20051125010505/http://grc.com:80/smgassembly.htm on http://www.grc.com/smgassembly.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 02:26, 20 October 2016 (UTC)
+
+==Machine Language Assemblers==
+An assembler for assembling machine language uses Mnemonics to represent the binary codes of machine language. So it is not technically a separate language but an easier to remember alphabet for typing that machine language. Very high level macro-assemblers create what may look like an addition to the language giving rise to the idea that a new and separate language has been created but this article is about Machine Language Assemblers and should avoid such confusion IMHO [[User:Scottprovost|Scottprovost]] ([[User talk:Scottprovost|talk]]) 02:59, 14 November 2016 (UTC) [[User:Scottprovost|Scottprovost]] ([[User talk:Scottprovost|talk]]) 02:55, 14 November 2016 (UTC)
+
+: You are forgetting (or perhaps you were never aware of) the fact that the vast majority of assemblers, even non-macro assemblers, support symbolic names for memory locations - both for code (branch points) and for data. The assembler must assign numeric locations for each symbol and include the appropriate address in the generated binary code for each of the instructions that reference such locations. So it is not just a matter of changing mnemonic opcodes, etc., into the machine language. Plus, in most modern environments, the output of the assembler is not yet executable; it must be processed by a "linker"; some of the assembler language constructs are interpreted by the linker, or are instructions to it.  [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 19:53, 14 November 2016 (UTC)
+
+::Usually there is a link step, but not always. For IBM S/360, there is a three card loader that will load an object program, as generated by the assembler, into core and start executing it.  While the usual way to use an assembler is to generate relocatable object code, many have the ability to generate absolute addresses. For the IBM 360/20, the usual way to load programs is with a one card loader. (There is no OS, you just load and run your program.)   Other systems have a similar ability to load and run programs. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 22:57, 29 November 2016 (UTC)
+
+==Machine Language Assembly Code==
+Since the assembly represents actual executable content and does not require decoding or compiling to run. Assembler code is not "Source" code, it is simply code. More accurately, it is object code. This machine code may be loaded into memory and called with no need for compiling as long as it is in binary format. The term source code is improper but acceptable in a non academic discussion. Whether it is appropriate in a Wikipedia Article I will leave up to others. [[User:Scottprovost|Scottprovost]] ([[User talk:Scottprovost|talk]]) 03:11, 14 November 2016 (UTC)
+[[User:Scottprovost|Scottprovost]] ([[User talk:Scottprovost|talk]]) 03:18, 14 November 2016 (UTC)
+
+: Incorrect. Assembly code is not the same as the machine code (what you call "binary format"), does not usually express the same thing as machine code, and is not necessarily invertibly mappable to machine code. Assembly code must be translated to the actual machine code. There is not necessarily a one-to-one correspondence between the two - for just one of the reasons, see the above comment regarding symbolic names for memory locations. 
+: Anyway this opinion of yours is moot as far as Wikipedia is concerned unless you have references for recognized authorities in the field expressing it. (I seriously doubt your idea is common in academia.) Do you have references? [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 19:45, 14 November 2016 (UTC)
+
+::Not only is he wrong, but it's possible to write useful assembly code that generates no machine code, e.g., [[OS/360 and successors|OS/360]] [[System Generation (OS)|SysGen]] Stage 1. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 21:19, 18 November 2016 (UTC)
+
+:::Just to be sure, some call it Assembly Source.  Yes it is source code, much more readable than object code.  As for OS/360 sysgen, I would not call that assembly code, but use of the assembler for something else. But one can assemble a table of address constants, which aren't machine code, but are referenced by machine code, or even non-address constants. (The initialization for a Fortran COMMON block is all data, no instructions.) [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 01:35, 19 November 2016 (UTC)
+
+== Not one to one ==
+
+Assemblers are, in general, not one-to-one. They frequently have multiple mnemonics for the same opcode, and may perform optimizations, e.g., selecting near branches versus far branches. Then there are statements like EQU that do not generate code at all. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 18:22, 26 June 2017 (UTC)
+
+:OK, for the actual quote: ''Unlike high-level languages, there is usually a one-to-one correspondence between simple assembly statements and machine language instructions.''  I do agree that it could use fixing, though I am not so sure about your explanations. I read it as one line of assembler source generates one hardware machine instruction. You do have to separate what IBM calls ''assembler instructions'' (which complicates the quoted part) and others call ''pseudo-ops'', from machine instructions. I don't read it to disallow that different assembler opcodes can generate the same machine opcode, or vice versa. Just that, as written, it is one of each. But okay, CNOP can generate more than one NOPR. But then again, it says ''usually''.  Another complication in counting is prefixes, such as in x86.  They might be written on separate lines, or on the same line (an actual prefix) as the instruction they apply to, or even part of an address specifier (segment overrides). Some assemblers might fill a branch delay slot with a NOP. I suspect that there are some other cases, in other assemblers, but rare enough to satisfy ''usually''. And, of course, there are macros which, sort of by definition, often generate more than one instruction.
+
+::I agree that most assemblers support a few non-one-to-one operations, but the main distinction of assemblers from compilers is that assemblers focus on one-to-one operations, while compilers have little or no concept of one-to-one support.  The "usually" statement emphasizes that distinction, as we should.  So, "one to one" must stay.  Is there some suggestion for tweaking the wording?  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 23:53, 26 June 2017 (UTC)
+
+:::As I suggested above, there is the complication that IBM calls the assembler source for executable instructions ''machine instructions'', which is confusing, as the quoted statement calls the assembler output ''machine instructions''.  Statements that don't generate anything, but tell the assembler something are called ''assembler instructions''. The quoted statement could have some way to make the distinction between such statements. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 02:38, 27 June 2017 (UTC)
+
+::::Why?  Of course there are details of reality that are more complicated than a single sentence can ever completely encompass.  But the quoted statement is not attempting to completely encompass everything; it's only stating the main distinction between assemblers and compilers.  I see nothing brought up here that affects the stated distinction, or implies the "usually" qualification insufficient or incorrect.  Again, the wording might be improved, but we need to keep its substance and simplicity.  --[[User:A D Monroe III|A D Monroe III]] ([[User talk:A D Monroe III|talk]]) 19:49, 27 June 2017 (UTC)
+
+:::::Yes. If someone happens to have better wording, it would be interesting to see. No complaints about the ''usually'', but about the meaning of ''machine instruction'', which can mean different things to different people. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 22:40, 27 June 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[Assembly language]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=789978674 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20111210201410/http://www.sparc.com/standards/V8.pdf to http://www.sparc.com/standards/V8.pdf
+*Corrected formatting/usage for http://www.drpaulcarter.com/pcasm/
+*Corrected formatting/usage for http://grc.com/smgassembly.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 20:43, 10 July 2017 (UTC)
+
+== Potential Citation/Reference Issue ==
+
+I am not sure if you had intended to link to another article but currently the citation:
+Booth, A.D.; Britten, K.H.V. (September 1947). "Coding for the ARC" (PDF). Birkbeck College, London. Retrieved 23 July 2017.
+
+Points to the following document:
+
+Booth, A.D.; Britten, K.H.V. (August 1947). "General Considerations In The Design Of An All Purpose Electronic Digital Computer" (PDF). [Source/Date TBD]
+
+I did search for another PDF to what I think you intended, but could not readily find a PDF.  I did include the following link as it might be helpful in the search for the actual content: http://hopl.info/showlanguage.prx?exp=4929
+
+Thoughts?  <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Illusive.D0ct0r|Illusive.D0ct0r]] ([[User talk:Illusive.D0ct0r#top|talk]] • [[Special:Contributions/Illusive.D0ct0r|contribs]]) 13:25, 7 December 2017 (UTC)</small> <!--Autosigned by SineBot-->
+
+== someone asked: ''are there programmable devices, that have assemblers, that aren't computers?'' ==
+
+''are there programmable devices, that have assemblers, that aren't computers?''  It depends. There are things that aren't computers in the way most people think about them, but then again, you might define anything programmable as a computer. How about programmable hand (or desk) calculators, that are most often not considered computers, but might do many things that one would commonly do on a computer. Assemblers are commonly used for microcoding, that is , for the internal control code of a computer. There are assemblers written specifically for finite state machines that are part of other systems, but not general enough to be computers. One of the less obvious ones, is that IBM OS/360, and likely other IBM systems, use the assembler to generate JCL for doing system generation. The assembler macro facility is general enough to do things other than generate machine code. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 04:44, 14 May 2018 (UTC)
+
+:DOS/360 and TOS/360 certainly did the same thing for stage 1 of a SysGen. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 13:09, 14 May 2018 (UTC)
+
+== Overly broad claim. ==
+
+[[Assembly language]] has the statement "Despite the power of macro processing, it fell into disuse in many high level languages (major exceptions being [[C_(programming language)|C]], [[C++]] and [[PL/I]]) while remaining a perennial for assemblers." The preprocessor facilities of C and C++ are not particularly powerful, and can't even do simple computations.
+
+I added the footnote "Of those listed, only the PL/I macro facility is [[Turing Complete]]" and [[user:Wtshymanski]] reverted it with no explanation. I'm throwing this open to discussion before I reinstate my correction. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:08, 24 May 2018 (UTC)
+
+: This is an article about assembly language, not macro preprocessors.  It is ''hugely'' common in C, even today, and even though it's not powerful. The point here isn't whether macro languages are powerful in particular languages, it's about whether they're used ot not. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 17:20, 24 May 2018 (UTC)
+
+::That's a good reason to remove the references to C and C++ entirely. It's not a good reason to make misleading claims about them, or to remove clarifications of those claims. And what is the ''it'' that's hugely common in C? Certainly not the types of mac4ros that have been common in assembler code for the last half century. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]])
+
+:: Does anyone but comp-sci profs actually care if thus-and-so is Turing complete?  And more importantly, is it necessary to send the reader of this article off on a wild goose chase to learn what "Turing complete" means? --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 19:34, 24 May 2018 (UTC)
+
+:::Is it necessary to give the reader a misleading reference to C and C++? If you don't want the reference to those languages to be clarified, then remove them entirely, not just the clarification. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 15:02, 25 May 2018 (UTC)
+
+:I was going to say that it belongs in an article on assemblers, and not on the language that they process, but it seems that this is also, with a redirect, the article on assemblers. There are articles on specific assemblers, but not on the general idea of an assembler program.  One solution is to actually split this up, with the more theoretical parts here, and more practical parts, such as the need for multiple passes, in another article. Since macros are an integral part of many assemblers, discussing them doesn't seem so far off. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 20:37, 24 May 2018 (UTC)
+
+::[[Assembly language]] '''is''' the article on the general idea of an assembly program; the presence of examples doesn't change that. If you know of something that makes a claim specific to a particular assembler, please correct it or point it out here. BTW, do you know of an inappropriate redirect to [[Assembly language]]? [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 15:02, 25 May 2018 (UTC)
+
+:::I was thinking along the lines of the difference between IBM's ''Language Reference'' and ''Programmer's Guide'', or more generally, between theory and practice. As an example, which may not actually apply here, it is usual to use a hash table in an assembler to keep track of symbols. That is an implementation detail unrelated to the actual language.  More obviously, as I noted above, the use of multiple passes. I do believe that it is possible to separate the language from the programs that process it, and still independent of any specific assembler. [[User:Gah4|Gah4]] ([[User talk:Gah4|talk]]) 18:28, 25 May 2018 (UTC)
+
+::::Does wiki currently have articles on compiler implementations{{efn|[[Programming language implementation]] is not that article}}? If so, one on assembler implementations might be a good idea if someone is willing to do the work. Such an article could go into the tradeoffs among, e.g., a hash table, a B-tree, sorting the symbol table. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 17:28, 27 May 2018 (UTC)
+
+{{Notelist}}
+
+== To add a paragraph on the origin (the first machine assmenlr was made for, date and authors,) reason ir was naed assembler, etc.  ==
+
+I want to add a short description of the origins of assembler. 
+(a) the first digital computer an assembler was written for, what it (assembler) was like
+(b) it's author
+(c) why it is named assembler/assembly language? by whom and when?
+(d) did it have another name originally?
+
+Unfortunately, The sources I found are somehow contradictory. 
+A number of different views can be found at https://www.quora.com/Why-is-the-assembly-language-called-so
+Particularly, it has the following statements:
+''1. The inventor actually called what we now call an assembler (which converts the mnemonics of Assembly into machine code) a “converter.” 
+2. the programmer would convert each symbolic instruction to its binary equivalent, which became known as “assembling” the program. It wasn’t long before someone wrote a program to do the job, and naturally named it the “assembler.” In a backward way, the symbolic instructions became known as “assembler” or “assembly” code.
+''
+The most reliable source I found is IEEE computer society article David Wheeler 1985 Computer Pioneer Award "For assembly language programming". https://www.computer.org/web/awards/pioneer-david-wheeler
+''Wheeler's "initial orders" allowed Edsac instructions to be provided in a simple language rather than by writing binary numbers, and made it possible for non-specialists to begin to write programs. This was the first "assembly language" and was the direct precursor of every modern programming language, all of which derive from the desire to let programmers write instructions in a legible form that can then be translated into computer-readable binary.''
+--[[User:P.maistrenko|P.maistrenko]] ([[User talk:P.maistrenko|talk]]) 14:26, 4 October 2018 (UTC)
+
+== "First appeared 1949" -- did it? ==
+
+The infobox claims that "assembly language" first appeared in 1949, and the article also has a number of categories relating to that year.  However, I can't find any text ''or'' citations in the article justifying that date, and in fact the section on "Historical perspective" claims that "The first assembly language was developed in 1947 by Kathleen Booth for the ARC2".  Seems like an error.
+
+==Kathleen B, 1947, Assembly language==
+The second paragraph of the paper written by the Booths begins:
+:"The non-original ideas, contained in the following text, have been derived from a number of sources, ... It is felt, however, that acknowledgement should be made to Prof. John von Neumann and to Dr. Herman Goldstein for many fruitful discussions ..."
+
+Kathleen Booth's 1947 contribution to the field began with a 1946 trip by her future husband, [[Andrew Donald Booth|Andrew Booth]], to the USA, spending time at Princeton, gaining insight into the field from Prof. von Neumann. The following year they both came, for a longer (6 month) visit. 
+
+Their 1947 paper envisioned parallel arithmetic units and/or a large memory. Each parallel unit would possibly do 100 calculations per second, and a large memory would be 1,000 to 10,000 "numbers" of "approximately 40 binary digits." After talking theoretics, they labeled this "quite impracticable."
+
+Over a decade later the word sizes of 36 bits (e.g. IBM 7094) were the high end,
+and while 32K did exist by that time, earlier machines were typically in the 4K range.
+
+In short, since programming in those days meant flipping switches, Kathleen Booth's work was not the writing of an assembler, with or without a symbol table. It was really about not having to flip switches over and over, but rather recording binary values on paper tape.
+
+One someone or several someones, together or at similar times but isolated from one another, developed assembly language. The "is credited" wording seems short and to the point. The Von Neumann reference isn't really necessary - it would require splitting all of this into sections to cover
+* Andrew Booth's 1946 trip
+* The six month follow up trip by both Kathleen and Andrew
+* Kathleen's flipping of switches - early day "programming"
+* Their review of possible memory types, including paper tape, magnetic tape, magnetic drum
+* Her theoretical work, which didn't product an actual assembler program, since symbolic characters were not even part of the system - there were no character strings.
+
+It should be understood that even [[Project Whirlwind]] didn't meet all of the goals envisioned by the Booths.   To recap, even "is credited" may be an overstatement, but to say that she actually wrote an assembler, on a machine that didn't deal in character data, is untrue. [[User:Pi314m|Pi314m]] ([[User talk:Pi314m|talk]]) 07:34, 10 February 2019 (UTC)
+{{talkarchivenav}}
+
+== Need simple program with explanations ==
+
+A simple hello world program that explains the mneumonics and registers would be nice!
+:that tends to get a bit bulky, but for DEBUG here:
+
+:jmp 112                    ; jump over the next bytes which is the string,they could code fro something like jne in which case the program might not work.
+:db "Hello world!",10,13,24 ; define byte "stuff" will be made into it'shex and th 10,13 is a charrage return 24 is "$" it :marks the end of the string.
+:mov ah,9                   ; function 9 (string to stdout)
+:mov dx,[103]               ; using data at 103 till the $
+:int 21                     ; interupt 21 
+:int 20                     ; interupt 20 (close)
+
+linux asm
+
+:section .data
+:hello db "Hello Word",10
+:hellolen db $-hello
+:section .global
+:global _start
+:_start
+::mov eax,4         ;write system call
+::mov ebx,1         ;file descriptor for stdout (remmeber in unix "evryhting's a file"
+::mov ecx,hello     ;adress of hello
+::mov edx,hellolen  ;adress of the strins length
+::int 80h           ;interupt only one for unix
+::mov eax,1         ;system call for close
+::mov ebx,0         ;exit code 0 no error
+::int 80h           ;interupt
+
+I haven't used DEBUG in ages but it should work.[[User:Wolfmankurd|Wolfmankurd]] 09:16, 23 June 2007 (UTC)
+
+== optimizing compilers ==
+
+"But in general, modern optimizing compilers are claimed to render high-level languages into code that runs at least as fast as hand-written assembly, despite some counter-examples that can be created."
+
+:Above statement has no basis. I am a practicing programmer and know several CPU families, and I am damn sure that today's "optimizing" compilers are not yet able to produce code which is even close to what human coder would do. I think that people who claim otherwise did not actually look at assembler output of the compilers. It's their wishful thinking.
+
+:Of course it doesn't mean that compilers are "bad" and assembler should be used instead. No, because (1) coding in assembler language is far too slow and hard to be useful for general programming, and (2) compilers are improving, albeit slower that we want them to. ;)
+
+:It simply means that if you absolutely _must_ optimize some small portion of code (e.g. numerical sumilation code which has to go over millions of trillions of data points), do not think that high level language compilers will do the work best. You can do significantly better.
+
+::From my experience, as for "leaf" code, eg. procedure doesn't call anything, just performs some algorithm (like sorting array, searching tree, etc), human can do better. For procedure which calls several other procedures, checks their return values, has some resource handling, compiler can do much better than human (human could beat it with much effort, but such code will be messy and hell to maintain, with little gain). I think we should put it this way in article, just with better wording than mine (mine english is not so good yet). [[User:Vid512|Vid512]] 14:35, 9 November 2007 (UTC)
+
+== Metaprogramming == 
+
+Seems there are some individuals interested in a concept called [[metaprogramming]] on wikipedia, which I believe is being regarded as something new. Note, Viruses can metaprogram, and why? Code and Data looks the same in assembly (well in machine code, but ever disassembled machine code with the wrong code offset?). I'm of the camp that belives all coders should begin with assembly language, at least to keep them from assuming too much. To really understand object oriented design you should try taking a course on assembly language and digital electronics. [[Digital_electronics]] are very object oriented, so much so, just by the arrangement of circuits you can program without ever writing a line of code.    
+
+Truths about assembly: 
+
+Assembly Language is a macro language version of machine code, its a one to one reltationship. Anyone can program in machine code given enough time but it offers no advantage over using assembly language (usually). 
+
+Assembly language is needed to use computers effectively in the initial stages. 
+
+Assembly language is not often cross platform compatible. 
+
+Assembly language is a general name for a style of programming language where the syntax and semantics are similar but not equal; reliant on the CPU make/model, the system architecture, and working environment of the computer. This is why there is different kinds of assembly, like 8080+ assembly (IBM PC's, MSDOS, Windows), 68000+ assembly (Macs, Amigas) , 6502 assembly (Commodore 64), etc..  
+
+The use of compilers afforded programmers the ability to apply their abilities to a general set of computers, rather than being stuck to a particular platform, so that programmers become masters of patterns and not wizards of a particular archiecture (not unless they prefer that kind of masochism). 
+
+Compiled programs cannot run faster than assembly programs as compileable languages are a superset of assembly language. Think of a a compiled program as a set of assembly language programs strung together. Each command in C is at least one assembly language statement, but is usually tens, hundreds, thousands of lines of assembly code.   
+
+Assembly language is not very effective for rapid prototyping (unless you are a really good assembly programmer who prefers to write in assembly code before writing a language to manage the complexity)
+
+Assembly language is often machine dependent (not portable).
+
+Java bytecode is not better than assembly language, its just a condensed and unreadible form of Java code (think code obfuscation and commercialization, read up on interpretive languages, Java is just a compileable interpretive language). 
+
+Sometimes stuff is coded in assembly to allow it to be sold and impossible to dis-assemble (a business/political concern). 
+
+Due to continual changes in microprocessors, investment in experience of programming 
+in assembly is not very rewarding unless you are involved with embedded technologies. So applications programmers tend to use compilers, hardware designers tend to work with assembly language..
+
+Data and Code are represented in machine code the same way, with bytes, so assembly programs must be executed from a particular offset in memory. The facility that a disk based operating system brings to users is the ability to relocate and access code and data over a hard disk platter, but beyond that it doesn't do anything that can't be done with some memory and a CPU.
+
+Assembly language can be abstracted to function like the most capable object oriented language.  C is less capable of this feat.  
+
+Assembly language is less forgiving than C.
+
+Assembly programs are often written by other programs written by humans, than by humans, this is what a compiler is - a program that writes assembly programs (from instructions written by humans). 
+
+Rewriting a program in assembly is not a good way of optimizing a program (many advances in computing came from significant advancements in software design not in advancements in hardware technology), Example, MPEG/JPEG compression, MPEG audio compression, web browsers, etc. Software is like liquified hardware, hardware is like solidified software. 
+
+Analogy for younger programmers:
+Consider high level applications to be like boats, and cros-compilers and virtual machines to be like  canals between oceans, and oceans to be the computer platforms, assembly language programs are like the water. However it breaks down when considering the distinction between aseembly languages, versus the distinction of water from one ocean or another.      
+  
+--[[User:Rofthorax|Rofthorax]] 06:47, 31 October 2005 (UTC)
+
+--
+
+''Unlike in high-level languages, there is a 1-to-1 mapping from simple assembly to machine language, so that computers can translate in both directions without losing information.''
+: this is not entirely correct. Much information is lost if the assembled executable does not contain debugging information (most executables don't). Such debugging information includes the names of variables, procedures, labels, et al. Without this information, a disassembler cannot show meaningful symbol names and as a result, disassembly listings use addresses or numbered labels which are not human readable (rendering the program almost useless except by experts with a ton of time on thier hands to figure out what each peice of data is used for). Comments and whitespace are also not stored in the executable, meaning that a disassembler cannot recover this information. It would be more correct to state that there is a ''logical'' 1-to-1 relationship. [[User:24.198.144.163|24.198.144.163]]
+
+== Usefulness of assembly language. ==
+
+''There is some debate over the usefulness of assembly language.''
+:Debate? over the ''usefulness''? I think this is a bit far fetched, maybe debate over suitability for some fields of application, I think nobody with sufficient experience would debate the ''usefulness'' of asm. Maybe people who don't use asm would ''debate'' the usefulness, but that's with any tool.
+''In many cases, modern compilers can render higher-level languages into code as that runs as fast as hand-written assembler. ''
+:Really?? can anyone give a reference for one of these ''modern compilers'' please? I've never heard such claims by compiler authors, nor did I encounter such a compiler, I'm very doubtful about the existance of such a compiler, for which programming language? the so called 'high-level' langs of today, don't allow the programmer to express the ''meaning'' of the code enough for the compiler to have enough data to make optimisations which the programmer could see. (Nov,2003)
+
+::: This is an old conversation, but here are a few comments. 
+:::* Two commonly-cited examples of highly-optimized compiling that were observed to beat hand-coded assembler are the [[BLISS]] compiler (see Wulf, ''The design of an optimizing compiler'', Elsevier, {{ISBN|0444001581}}, originally published in the 70s) and compilers for [[regular expression]] [[state machine]]s. The BLISS compiler was noted for combining bit-level operations in ways that were counterintuitive, yielding strange but very compact code. BLISS was a long time ago; more recent compiler technologies have added a range of new optimizations.
+:::* It should be pointed out, of course, that open-source compilers are not known for being highly optimized.
+:::* Compilers have typically done a good job at optimizing things like register allocation, locality of reference, paging efficiency, loop-invariant code, reference counting, garbage collection, and address mode usage &ndash; in other words, optimizing at the 4K level rather than the 20-byte level.
+:::* A good but prudent assembler programmer, writing a large application, will use [[defensive programming]] and similar techniques to write clear, maintainable code. Thus certain instructions might get placed at the top or bottom of a loop, to ensure that their purpose is clear. The compiler can move or eliminate such instructions since readability of generated code is not an issue. 
+:::* Techniques like [[peephole optimization]] can take general-purpose constructs and replace them with special-purpose equivalents that might be confusing or error-prone. 
+:::* I don't regard the examples cited below as terribly illuminating. A single sixteen-bit or thirty-two-bit instruction can indeed sometimes replace a few specific higher-level statements (though the implications in a pipelined CPU are not always obvious), and not all compilers will take full advantage of this. But this is not sort of hand-optimization that I think most assembly coders spend their time on. We don't need super-fast string comparisons to look for "BOO"; we need super-fast inner loops, and this is an area where good optimizing compilers have tended to do well. (However, optimized string comparisons HAVE been a feature of many compilers, and many library calls ARE replaced by smart in-line code generation.)
+:::* I don't think most compiler designers would agree with the assertion that hand-coded assembly will generally outperform a good compiler. 
+:::* The proof is not in how a couple of specially-selected statements get compiled. Look at large all-assembler applications, and compare their performance with comparable applications written in C or other optimized languages. Big assembly applications are often pigs.
+::: I should point out that I am not an anti-assembler bigot, and spent a good slice of my career hand-coding super-optimized assembler. But there's no excuse for compilers that can't do as good or better. Many have. Blame [[Moore's Law]] for the fact that we haven't expected more from our day-to-day compilers. [[User:Spinality|Trevor Hanson]] 03:24, 31 December 2006 (UTC) 
+
+::I think the above quote is an overstatement. A compiler like the GCC with optimisation as high as it will go can probably out-optimise a new ASM programmer. It has been programmed with weird and wonderful shortcuts that the human just wouldn't know about. However, if you pitch a modern compiler against an experienced ASM programmer, the issue would not be optimisation, it would be time. [[User:Giddie|Paul Gideon Dann (Giddie)]] 30/03/2004 0241 UTC
+
+:::How about programming RISC chips? From what I have heard it is extremely hard to do it the optimal fashion by hand. Modern "CISC" chips aren't much better with their out-of-order execution, branch prediction and "some other nasty little" features that are way too hard (time and brain consuming) to facilitate by hand. Even for a very experienced hand. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:83.31.219.66|83.31.219.66]] ([[User talk:83.31.219.66|talk]] • [[Special:Contributions/83.31.219.66|contribs]]) {{{2|}}}.</small>
+
+::::: Did _you_ try it? I did. No compiler I ever tried produced code which is not visibly suboptimal. The difference is that good compilers produce code which is suboptimal from place to place, whereas less-than-good ones produce outright awful code.
+
+::::: Example. Find C compiler which will generate optimal i386 code for the following C costruct:
+
+::::: int v(char *p) { if ((p[0]==1) & (p[1]==2)) return 1; return 0; }
+
+::::: Hint: optimal code should do ONE 16-bit comparison instead of TWO separate 8-bit ones. It's faster and code is shorter. I bet no current C compiler will be smart enough to do it. (NB: & instead of && is intentional, otherwise my optimization won't be 100% valid).
+
+::::: Example 2.
+
+::::: int v(char *p) { if (memcmp(p, "BOO", 4)==0) return 1; return 0; }
+
+::::: Just one 32-bit compare will perform this memcmp! However, you will be lucky if your C compiler will not generate whole stinkin' function call instead! Inlined string compare instruction or a small loop is what the very best C compilers do here. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/195.212.29.171|195.212.29.171]] ([[User talk:195.212.29.171|talk]]) 10:11, 29 December 2006 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+::::There are several challenges to the assembly-language programmer:
+
+:::::*Scheduling: It's very difficult to schedule instructions so that they keep all the multiple execution units of a modern processor simultaneously busy. For example, you may need to be simultaneously executing several integer instructions, an FP instruction (if available), and a branch.
+
+:::::*Getting instructions to the execution stage: Taking a step back, the circuits that pipeline instructions to the execution units may have a lot of data dependencies that affect whether or not those instructions actually make it to the execution units. For example, data results may or may not be "short-circuited" so they're available in the next microcycle for use by the same or another execution unit. You may also need to keep very cognizant of what's in the various cache levels of the processor (where some of the closest caches may be very small).
+
+:::::* Etc., etc., etc. ...
+
+:::::While a human could keep some of this in their heads, it's very difficult to keep '''all''' of it in mind simultaneously. It also varies greatly from implementation to implementation within a given architecture. It's really become a lot easier to Relegate all [this] Interesting Stuff to the Compiler. ;-)
+
+:::::[[User:Atlant|Atlant]] 17:53, 2 June 2006 (UTC)
+
+''some low-level programming is simply easier to do in assembler.''
+:Sometimes some ''high-level' programming is simply easier to do in assembler, depends what the high-level language you would compare it to at the time would 'hide' from you. for example, writing many numerical abstactions is more direct in ASM, including some work in represantations of groups.
+
+Anyway, the point being that ''ease'' is not really dependant on the ''abstraction level'' of the code, but rather, on the abstract-idioms or details that the high-level language chose to ignore. (simplest example, C programming language, in-ability to access to carry-flag)
+
+==Generations of Programming Languages==
+So what is a '''First Generation''' programming language? and is there a '''Third Generation'''? [[User:Phil Boswell|Phil]] 15:40, Dec 8, 2003 (UTC)
+
+: See [[First-generation programming language]], [[Third generation language]] and even [[Fourth-generation programming language]]. This naming is probably more a naming gimmick than anything else. Especially the 4th. generation languages. [[User:Rasmus Faber|Rasmus Faber]] 15:45, 8 Dec 2003 (UTC)
+
+:: My problem was that [[Second-generation programming language]] is a REDIRECT to [[Assembly language]], so there's no cross-reference to the other generations there. Maybe a covering article showing all four generations in overview? [[User:Phil Boswell|Phil]] 16:43, Dec 8, 2003 (UTC)
+
+::: Ah, sorry about that! Good idea. I don't think the generations warrant a page each. [[User:Rasmus Faber|Rasmus Faber]] 16:47, 8 Dec 2003 (UTC)
+
+---- 
+I frankly don't know whose idea it was to name this article ''assembly programming language'', but although it is in use and parallels the names of other articles like [[C (programming language)|C programming language]], I believe the term '''assembly language''' is considerably more common and entirely unambiguous. I will move this page and talk page. [[User:Dcoetzee|Derrick Coetzee]] 22:42, 17 Sep 2004 (UTC)
+
+:Assembly language is used specifically in dissembly, so its useless to underestimate its need in present as well as future scenario. shareplatform.com disclose its importance.
+
+== Another Book ==
+
+I didn't want to spam the main page, but since you're linking to Randall Hyde's book on assembly language, I thought you might be interested in linking to my book, "Programming from the Ground Up".  It's being used by both Princeton University and DeVry right now.  It's Linux-specific, so I don't know if it would belong on this page or not.  But if you want to add it you can link to it:
+
+http://www.amazon.com/exec/obidos/ASIN/0975283847/
+
+There's a slightly older online version at:
+
+http://savannah.nongnu.org/projects/pgubook/
+
+:I didn't even see this, but I added a link to the savannah page a while back. I personally think people on wikipedia prefer a free book over a pay one, but that's just because I'm cheap.(one of the best assembly books I've read yet, BTW :D)
+
+== History and variation ==
+
+IMHO, this article is a bit x86-centric, and it needs a history section.
+Right now it gives the impression that Lotus 1-2-3 was remarkable in using assembly.
+Surely the idea was born in the 1950s or earlier, and widely used?
+The Unix OS was noted for ''not'' being written in assembly, circa 1970.
+
+:Since 1948, and the [[Manchester Small-Scale Experimental Machine|SSEM]] - [[User:Raceprouk|RaceProUK]]
+
+Possibly there is a reference to some article on computer instruction sets that I missed.
+[[User:Jgrahn|Jgrahn]] 22:41, 2 March 2006 (UTC)
+
+== Merge with Assember ==
+I vote : yes [[User:KymFarnik|KymFarnik]] 06:14, 29 April 2006 (UTC)
+
+I vote : no [[User:Marsman57|Marsman57]] 16:50, 2 June 2006 (EDT) - My reasoning is that an Assembler may not even be written in Assembly language itself. Also, it is a distinct type of program much like a Compiler or Linker.
+
+I vote : no - I agree with [[User:Marsman57|Marsman57]]'s rationale. [[User:RayGates|RayGates]] 22:36, 2 June 2006 (UTC)
+
+I vote : no [[User:EjayHire|EjayHire]]  10:02 11 June 2006 (CST) - Assembly is a Language.  An Assembler is a compiler that translates Assembly into machine language (or more commonly, object files which have to be linked by yet another program).  The Assembler performs many other functions, such as preparsing Macros for constants, and parsing "friendly" variable and function names into stack or heap offsets.  There is a fundamental difference.  The closest the two ever came was the old MS-DOS debug, where you could enter assembly and it would write or execute the machine language in real time.
+
+I vote : no - I agree with [[User:Marsman57|Marsman57]]'s rationale.--[[User:Kdakin|ken]] 04:53, 4 July 2006 (UTC)
+
+I'd have to go with 'No' as well, for reasons already stated above. [[User:Raceprouk|RaceProUK]], 4 July 2006 15:34 UTC.
+
+I vote: no - I agree with Marsman57 ---- Shahzad
+
+== Removal of short code and speed code ==
+
+Someone added to the first section of the article: 
+
+"Assembly is derived from a similar representation called short code, whose programming 'language' was of the same name. Contrast this with speed code / 'speedcoding'".
+
+Apparently (i've just read what is on wikipedia) short code was the first programming language, so "first" that it did not even have a compiler, but was compiled by a typist!!! So in a way, short code probably arrived before the notion of assembly code. But to say that assembly derives from short code is in my openion not correct! And I dont know what speed coding is, but I think this should all be removed from the article. At least it should be put into a subsection of the article, and rewritten. What do you say?
+
+[[User:Velle|Velle]] 13:31, 20 August 2006 (UTC)
+
+== You don't need an assembler to assemble ==
+
+Its important to understand, that you do not need an assembler to assemble an assembly program. In the old days, it was done by hand. It still can be done by hand. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:65.112.121.29|65.112.121.29]] ([[User talk:65.112.121.29|talk]] • [[Special:Contributions/65.112.121.29|contribs]]) {{{2|}}}.</small>
+
+== Latest revisions ==
+
+I started with what was intended to be a couple of minor edits here, to address what I saw was some redundancy and missing details. Somehow this morphed into a wholesale restructuring. I realize now that this will probably be seen as wrongheaded, especially now that I've looked through the comments here in more detail. I have been working on some other material that had a very limited audience, and seem to have got into the 'bold editing' mindset.
+
+Feel free to revert all my changes, or stick them in a sandbox or something, and we can talk about where I was going. If I don't see a bunch of flames here I will have a go at tightening up my edits, but for the moment I'll let things sit.
+
+Sorry if I stepped on any toes here. I really was starting with a very minor point (the focus on the post-x86 universe) and some minor duplications but I must have had too much coffee today. [[User:Spinality|Trevor Hanson]] 01:28, 18 September 2006 (UTC)
+
+== Overview ==
+
+The previous edit moved the article preamble into an 'Overview' subsection. However, I believe that the preferred structure is to use a [[Wikipedia:Lead_section|lead section]] before the TOC, which I have restored. I also fixed a couple of typos here (e.g. missing apostophe, self-referential link) and in the process did a little rewording/shortening which I think makes this a stronger lead section. Naturally, revert or change if you disagree. [[User:Spinality|Trevor Hanson]] 20:04, 31 October 2006 (UTC)
+
+== 'Assembly' vs. 'assembly language' vs. 'assembler' ==
+
+I observe some divergence here over the language name, e.g. in some recent cleanup edits. Throughout my career (30+ years), the terms '''assembly language''' and '''assembler''' have been normal and interchangeable. (One would also see '''assembler language'''.) However, I don't ever recall people talking about "programming in '''assembly'''" &ndash; a form which appears in this article. Are there any other comments on this issue? My inclination would be to follow what I believe is historical usage, i.e. to use both terms ''assembler'' and ''assembly language'', but not to use ''assembly'' as a stand-alone language name. [[User:Spinality|Trevor Hanson]] 18:33, 3 November 2006 (UTC)
+
+Today there was an interesting change/revert, proposing the replacement of '''assembler''' with '''assembly compiler'''. I have never heard of an ''assembly compiler'' (and, as my comment above indicates, I have never heard ''assembly language'' referred to as just ''assembly''). Like most contributors to this topic, I have worked with ''assemblers'', ''assembly language'', and ''assembler'' all my life. Moreover, a [[compiler]] is quite distinct from an assembler, a lower-level entity that performs an isomorphic map from a mnemonic language to machine instructions. It would be helpful for some of these terminology issues to get addressed here on the discussion page, rather than in comments on updates. [[User:Spinality|Trevor Hanson]] 00:58, 7 November 2006 (UTC)
+
+:I have heard people refer to the language as "assembler", although I think that this is either a pronunciation error, or a confusion of the language with the processing tool. It would be like saying I am "programming compiler", which may be a correct statement, but is wholely ambiguous. The term "assembly compiler" is completely incorrect, and it would be more accurate to call the the programs "assemblers", or more verbosely, "assembly language assemblers". Because of the distinct differences, it is common to refer to different assemblers by their target platform such as "x86 assembler", or "8051 assembler", or when the target platform is indiscriminant, simply "assembler". Also, I see no reason why we can't abbreviate the term "assembly language" as just "assembly", because this abbreviation creates no additional ambiguity. --[[User:Wknight8111]] ([[Wikibooks:User:Whiteknight|WB:Whiteknight]]) 14:09, 7 November 2006 (UTC)
+
+::: I agree that the use of "assembler" is highly ambiguous and could easily cause confusion to somebody who does not have the experience of the editors in filtering out otherwise confusing terminology. A quick look at college level text books and dictionaries shows a clear distinction between the language and the utility program. If no objection suggest adding a " not to be confused" comment in the article if people insist on enshrining the ambiguity in a ref text. GoldenMeadows 15:06 09 November 2006
+
+:::: It's fine to seek for linguistic clarity and the elimination of ambiguity, but I don't see how we can do that in the face of normal professional usage. Do we really want to redefine technical language in current use because it seems ambiguous? This is like saying "a bass guitar isn't really a guitar, so let's agree to call it an electric contrabass" (a frivolous example, but you see the point). Generations of programmers have talked about (and continue to talk about) "programming in assembler." There is of course a clear distinction between assembly language and an assembler utility; but I think this distinction is apparent from the article's current overview &ndash; and from the context where the term is used. I don't see any rationale (other than pedantry) for insisting on a revisionist nomenclature that singles out a particular naming scheme, and in the process rejects normal usage. Am I being stupid about this? Who is the intended reader of the article? [[User:Spinality|Trevor Hanson]] 20:09, 9 November 2006 (UTC)
+:::::I would use many technically imprecise/shorthand terms when speaking with experienced engineers I would not use with somebody who is not so familiar with the subject. The former have learned by experience to filter out confusing terms or without thinking so much establish the context, the latter have not. You may find it pedantic but your fellow professionals who also write books on the subject seem to suffer from this same quirk as me. Since the article is obviously not targeted towards "professionals" who already know the subject, and it does not purport to be an historical account of the development of computer languages it seemed a shame to introduce a possible source of confusion through the highly ambiguous use of the word "assembler" in the overview section of an introductory article. At best I thought it merited a footnote that mentioned how its misleading use first arose and why such ambiguity is generally avoided in ref book and articles.  My interest in assembly language programming goes back to 1976  and any text book or reference work I have used has kept the two things separate i.e. "Assembly Language" and the "Assembler" utility program so its more a matter of keeping to the mainstream , and simplicity, rather than historical revisionism as you suggest. Anybody who takes up the subject seriously will soon come across this and whole lot more in the way of ambiguous terminology but maybe it will have spared the person some confusion and time if they they do not encounter it in intro articles such as this when they are grappling with basic concepts - see earlier entries in this discussion page on the same topic [[User:GoldenMeadows|GoldenMeadows]] 14:05, 11 November 2006 (UTC)
+
+::::: Hmmm, well I am evidently not going to prevail in this debate. That's OK. Your argument is that the terms "assembler" (the utility) and "assembly" or "assembly language" (the language) are basically the correct, official ones. I disagree. Otherwise, I would agree with your view that the other usage is an ambiguous shorthand. My argument is that the terms are NOT used consistently now, and were not in the past. Inconsistency is different from ambiguity. Thus, in Stroustrup's venerable ''C++ Programming Language'', he states "C++ was primarily designed so that the author and his friends would not have to '''program in assembler,''' C, or various modern high-level languages" [emphasis added]. Conversely, on the IBM 1401, the assembler was called the "assembly program." [Saxon & Plette, ''Programming the IBM 1401''.] However, this is basically a pointless argument. The usage you prescribe is unambiguous. If you think that inconsistency would confuse newcomers, by all means enforce a simpler terminology. I agree that a footnote in the terminology section is enough to maintain accuracy. (I would resist characterizing the alternate usage as being an error, however. That was what riled me in the first place. Calling an assembly language ''assembler'' may be inconsistent, but it's not a mistake.) [[User:Spinality|Trevor Hanson]] 22:58, 11 November 2006 (UTC)
+::::::On looking at the comment I made to the original edit I agree that my assertion was too black and white and would indicate error -- my apologies, I should have elaborated here on the discussion page why I thought its use in an article overview  was a source of confusion. I agree with the proposal regarding a footnote.[[User:GoldenMeadows|GoldenMeadows]] 12:48, 13 November 2006 (UTC)
+
+:: In poking around, I have found more recent examples of the stand-alone name '''assembly''' than I expected, though I believe this is a recent change (in my professional experience, I never recall hearing people refer to assembly language as "assembly"). I agree that this form creates no ambiguity, and since it's in current use I withdraw my objection. 
+
+:: However, I disagree with you that referring to the language as "assembler" is the result of a pronunciation error or confusion. In my experience, this was long the most common term used for the language &ndash; no doubt a contraction of "assembly language," but not an error. I suspect it may still be the most common usage. Here are a few contemporary examples via a quick Google:
+
+::* http://www.simotime.com/indexasm.htm: ''"The 370 '''Assembler''' Instruction Overview"'' and numerous other examples
+::* http://www.masm32.com/: ''"for programmers who are interested in either learning or writing 32 bit Microsoft '''assembler'''"''
+::* http://home.snafu.de/nkomin/html/assembe.htm: ''"Why '''Assembler? Assembler''' gives you the opportunity to program right on the hardware"''
+
+:: Bottom line: I believe that all three names (''assembly language'', ''assembler'', ''assembly'') are in current use, and that this article (and its editors) should not choose one form over another. [[User:Spinality|Trevor Hanson]] 19:18, 7 November 2006 (UTC)
+
+:::I've known several people in my lifetime, many of whom are practicing engineers, who refer to the height of an object as the "heigth" of the object. The pronunciation is different, the spelling is different, and even though professionals are using it, it isn't correct. There is a difference between the slang words (or even the incorrect pronunciation) that people in industry are using, and ''what the thing is actually called''. In books and other scholarly publications, I have never once seen the language, or the act of programming in that language called "assembler". The language is called either "assembly" or "assembly language", and the software the converts the pneumonics into bytecode are called "assemblers". If you can cite a source that says differently, it would be news to me. --[[User:Wknight8111]] ([[Wikibooks:User:Whiteknight|WB:Whiteknight]]) 20:58, 15 November 2006 (UTC)
+
+:::: See the citations I recently added to the terminology section. (I believe you will accept Bjarne Stroustrup as a credible source. This is one example, NOT the result of an exhaustive search. If you haven't personally seen this usage, I submit that you haven't looked widely enough.) I agree that using the term "heighth" (or "heigth" as you say) is a well-known error, like saying "newcular" for "nuclear". But I do NOT agree that using the name "assembler" for the language is this kind of error. It is simply an alternate form, one that has been used in the literature for decades &ndash; like "register" versus "accumulator". There is no official authority who decides (as you put it) ''what the thing is actually called.'' (In fact, if enough professional morons misuse a term, it enters the official technical vocabulary; thus we say "graphical" instead of simply "graphic", and we have invented words like "prioritize" and "proactive". Computer scientists have also borrowed and bastardized plenty of mathematical terms; look at how we have reinvented [[isomorphism]] for example.) However, I can see that this argument is going nowhere, so I withdraw. By the way, the word is ''mnemonics,'' not ''pneumonics.'' [[User:Spinality|Trevor Hanson]] 04:50, 16 November 2006 (UTC)
+
+== Why is machine language included here? ==
+
+Why is machine language included here? Surely this material should be merged with the [[Machine Language]] article. [[User:Jpaulm|Jpaulm]] 19:18, 2 December 2006 (UTC)
+
+: I agree; although for this article to stand alone, some of the basic concepts and issues may need to be summarized. Several related articles really could also use a brush-up, such as [[instruction set]]. There is duplicated material, and I don't think they present the subject matter clearly and generally enough. [[User:Spinality|Trevor Hanson]] 23:49, 2 December 2006 (UTC)
+
+== Cut material, 12/4/2006 ==
+
+The following was removed by [[User:Ashmoo]] today without leaving a comment as explanation:
+::However, a strong case can be made that any serious programmer should learn at least one assembly language &ndash; to understand the fine structure of how computers function, to anticipate how application design choices can improve generated code, and to appreciate all the work high-level languages save.
+
+Does this need to be removed? Is it wrong? or badly stated? or POV? (I should disclose that I think I may have written this in its current form, based on an earlier similar statement; but this is not a question of pride of authorship. If it should go, it should go.) This idea is stated in much writing about assembly language; I'm surprised to see it removed from this article, and wonder what the consensus opinion would be. [[User:Spinality|Trevor Hanson]] 06:49, 5 December 2006 (UTC)
+
+:Sorry for chopping it without adding a comment. My thinking was, basically that WP shouldn't be 'making cases', the concept of a 'serious programmer' is ill defined and qualatative and the sentence seemed like an opinion without a source. If it can be made more definite, put into context (ie who says this IT lecturers, industry leaders, internet programmer forums?) and hopefully a notable source, I wouldn't have any issue with its reinclusion. Regards, [[User:Ashmoo|Ashmoo]] 04:16, 7 December 2006 (UTC)
+
+:: I see, thanks for replying. I'll see if I can come up with a good source stating this position (though I think you'd have a hard time finding many professionals who would dispute it). [[User:Spinality|Trevor Hanson]] 21:29, 7 December 2006 (UTC)
+
+There's a bunch of statements to that effect on the original wiki:
+* "If a programmer really wants a solid foundation, there is no substitute for assembly." -- GarryHamilton [[WikiWikiWeb:FirstLanguageLearned]]
+* "CeeLanguage and AssemblyLanguage ... really make you understand how the machine actually works. Thus, one of these low-down-and-dirty languages should be the FreshmansSecondLanguage?. I would favour asm over C, as it has less magic (malloc and free - too high level!)..." -- TomAnderson [[WikiWikiWeb:FreshmansFirstLanguage]]
+* "assembly language (and I don't deny it's a good idea at some point, but I certainly wouldn't start with it)" -- KarlKnechtel [[WikiWikiWeb:FreshmansFirstLanguage]]
+* "You '''need''' both ends of the spectrum" -- WilliamUnderwood [[WikiWikiWeb:FreshmansFirstLanguage]]
+* "Only working in ASM will really teach the student where these proficiencies lie. However, these environments will also eventually drive the students mad" -- [[WikiWikiWeb:LearningAssemblyLanguage]]
+
+Of course, on the same page there are people who disagree.
+Do any of these quotes meet Wikipedia article standards?
+--[[User:68.0.120.35|68.0.120.35]] 06:11, 4 October 2007 (UTC)
+
+:Looking at the site and the authors, we're faced with the usual notability problem. The contributors sound like knowledgeable and thoughtful practitioners; but from the ones I looked at, they are apparently not recognized experts; and of course, the source is not a mainstream refereed publication. I conclude that these quotes would ''not'' be regarded as ideal sources. If we were dealing with an esoteric subject with a small community of specialist practitioners, something like this might be the best one could get. But computer science education is not a fringe discipline. So we ought to be able to find authoritative textbooks, curriculum guidelines, etc. to make the point. At any rate, I think the concept has been reinserted in the article, with some supporting sources. The mere fact that so many computer science programs include assembler programming would seem to be ''prima facie'' evidence that its study has recognized value. [[User:Spinality|Trevor Hanson]] 03:12, 5 October 2007 (UTC)
+
+== An anecdote ==
+
+Hi! I spent about 20 years programming in assembly language, primarily on IBM mainframes (S/360, S/370, 43xx computers, DOS, DOS/VSE, OS/MFT, OS/MVS, etc). I've got an interesting story to relate.
+
+In 1983 I was working in Denver, Colorado when we hired a new programmer named Olga Hnizdil. Olga had recently emigrated from Czechoslovakia, and didn't speak English very well. I was assigned the task of making sure she was reasonably familiar with assembly language. So I sat down with Olga and a simple BAL output listing, and proceeded to describe to her the various fields (location counter, assembled opcodes / data, input statement numbers, symbolic labels, mnemonics, comments -- left to right on IBM assembler SYSOUT), and to explain how they all hooked together, as best I could.
+
+After about 10 minutes of this I noticed that Olga was just staring at me, her jaw slack in amazement. "What's wrong, Olga?" I asked. "Am I talking too fast? Is this making any sense?"
+
+She shook her head slowly. "Are you telling me that if you want to add one more instruction to this program you can just put it in there, then run it through this ''assembler'', and all the offsets to data items, and to other places in the program, will be fixed up ''by the computer itself?''", she asked, incredulous. (Well, actually she didn't say it quite like that. She didn't speak English very well, then. But that was the gist of it.)
+
+"Yes, Olga." I said. "That's exactly what I'm telling you. What's wrong with that?"
+
+She shook her head in amazement again. "Well, in Czechoslovakia, if we added one more instruction to the program we had to go all the way through the rest of it ''by hand'', and compensate for the extra 2 or 4 or 6 bytes that were in the program now. Sometimes it took a week just to put one new instruction into a big program!"
+
+Olga was one happy camper right from the getgo. She could get an entire month's worth of work done in one or two days! And after that I never worried a bit about her facility as an assembly language programmer.  [[User:DavidCBryant|DavidCBryant]] 20:20, 17 December 2006 (UTC)
+'''Bold text'''
+
+== Syntax ==
+
+I'm trying to understand what GDB's <code>disas</code>'s output means. For example, this function takes a <code>double</code> and squares it:
+ 0x08048758 <_Z7squareBd+0>:	push   %ebp
+ 0x08048759 <_Z7squareBd+1>:	mov    %esp,%ebp
+ 0x0804875b <_Z7squareBd+3>:	fldl   0x8(%ebp)
+ 0x0804875e <_Z7squareBd+6>:	fmul   %st(0),%st
+ 0x08048760 <_Z7squareBd+8>:	leave  
+ 0x08048761 <_Z7squareBd+9>:	ret    
+I [http://sig9.com/articles/att-syntax get the impression] this is [[AT&T assembly syntax]], but that page doesn't exist here and the page I found the most information on could be more helpful. Should this syntax be mentioned in this article? [[User:BenFrantzDale|—Ben FrantzDale]] 21:30, 8 February 2007 (UTC)
+
+== Links ==
+
+I have found that [[MenuetOS]] has a WP page, so have added the link to the LI under ext. links, though it is obviously int. Suggest int. links section or renaming the current section...
+
+Thoughts:  [[User:MonstaPro|MonstaPro]] 00:34, 18 February 2007 (UTC)
+
+== No article about macro assembler ==
+
+The article mentions in passing the S/370 macro assembler, and talks about macros and macro languages, but there is nothing about macro assembler (I don't know if macro assemblers have something to do with macros in assembly languages). The [[MASM]] article doesn't explain what a macro assembler is, so I think someone more knwoledgeable than me could give the definition of a macro assembler. [[User:Apokrif|Apokrif]] 15:56, 8 March 2007 (UTC)
+
+: A macro assembler is an assembler that includes a macro facility. Simple as that. I'll check that the recent changes make this clear, and if not I'll add some verbiage. [[User:Spinality|Trevor Hanson]] 20:15, 18 April 2007 (UTC)
+
+: See revised overview, which now ends with a definition of '''macro assembler'''. [[User:Spinality|Trevor Hanson]] 22:18, 18 April 2007 (UTC)
+
+== Language design rewrite, April 2007 ==
+
+I've just done a partial rewrite of the [[Assembly language#Language design|Language design]] section. I ended up dividing it into three subsections and changing the bulleted lists to paragraphs. Most of my changes were reorganizing existing text without much change, but I've also (1) added stuff about pseudo-operations and local symbols, and (2) expanded the coverage of macros. 
+
+(I'm biased about macros. I used to do a lot of PDP-11 assembler programming using the MACRO-11 assembler, which had an amazingly useful macro system.)
+
+As always, corrections and improvements are welcome. Cheers, [[User talk:Chris Chittleborough|CWC]] 11:59, 10 April 2007 (UTC)
+
+== Overview editing, April 2007 ==
+
+I made some changes to the overview which I hope will be seen as positive. I didn't like the little footnote about compilers/interpreters &ndash; it didn't really seem like "the Wiki way" &ndash; so I have tried to put it back into the text. In the process, I've tried to clarify the relationship between assemblers and high-level languages, which seems at the heart of the matter. I also though a mention of [[second generation programming language]] was a good idea, and added a few other bits which I think clarified things. As always, do feel free to revert or change if you disagree. [[User:Spinality|Trevor Hanson]] 22:23, 18 April 2007 (UTC)
+
+:That change isn't just positive, it's brilliant. For one thing, mentioning [[second generation programming language]]s adds important historical context. Thanks, Trevor! Cheers, [[User talk:Chris Chittleborough|CWC]] 05:36, 19 April 2007 (UTC)
+
+::<nowiki><blush></nowiki>...Thanks. It's always nice to know somebody else looks at the articles. [[User:Spinality|Trevor Hanson]] 23:06, 19 April 2007 (UTC)
+
+==Cleanup 22 June==
+I'll tag this are requring a clean up, I've read through it it doesn't flow well and there is loads of repetition. The information could also be organised so it's more concise. [[User:Wolfmankurd|Wolfmankurd]] 10:30, 23 June 2007 (UTC)
+
+
+=="Secure application"==
+From the "reasons you might choose assembly":
+:When a secure application is needed and no high-level compiler is trusted by the programmer.
+What's up with that? It seems to me if the programmer doesn't "trust" a higher-level compiler, why should they "trust" the assembler? Why should they "trust" the operating system? Why should they "trust" the CPU it's running on? If that really ''was'' a legitimate reason for not using a higher-level compiler, you'd better be sure that absolutely every else in the system were controlled by you as well.[[User:DeanHarding|DeanHarding]] 01:27, 3 July 2007 (UTC)
+:Agreed. This thinking is perhaps appropriate when using nonstandard compilers, which might have [[trojan horse (computing)|Trojan]] code generation, but is not relevant to normal use. An exception might be [[National Security Agency|NSA]] circles &ndash; where absolutely nothing would be taken for granted, and where the object code (or the compiler/assembler source) would be scrutinized to ensure clean output.  So this struck me, also, as being a bogus claim. Go ahead and reword it, by all means. [[User:Spinality|Trevor Hanson]] 06:08, 3 July 2007 (UTC)
+::I've modified the point a bit and pointed to the section on "reflections on trusting trust" article which describes how a backdoor can be placed in a compiler that is almost undetectable. Mind you, there's nothing stopping someone putting such a backdoor in an assembler, but at least you can counter that by doing the assembly by hand.[[User:DeanHarding|DeanHarding]] 06:46, 3 July 2007 (UTC)
+:This is also part of the point of [[typed assembly language]] - removing the compiler from the trusted computing base - which we ought to point out. [[User:Dcoetzee|Dcoetzee]] 22:42, 25 July 2007 (UTC)
+
+== No mention of micro controllers ==
+Micro controllers used in electronics still use Assembly Language as their main programming language, yet there is no mention of it on this page. It seems as though this page is focused more on the PC user's computer than anything else. [[User:Salgat|Salgat]] 03:09, 16 July 2007 (UTC)
+
+== "Smallest symbolic assembler?" ==
+
+Code size was critical in the 50s-70s, when you'd reference instruction opcodes as constants to save a byte or two. I can't remember the size of assemblers running on IBM 70x, IBM 1130, CDC lower 3000, or  PDP-8, but let's see some citations to back up this claim. [[User:Spinality|Trevor Hanson]] 20:30, 25 July 2007 (UTC)
+:I'm not confident of that statement either - given modern RISC instruction sets, I'm sure someone could at least potentially hack together a smaller basic assembler. It's certainly small though. Seeing as there are many assemblers that were never publically released, and there's no Guinness Book for these things, we should avoid absolutes. [[User:Dcoetzee|Dcoetzee]] 22:41, 25 July 2007 (UTC)
+
+== "Opcode" versus mnemonic ==
+
+A recent change asserts that the term "opcode" properly only refers to the binary instruction (presumably, instruction fragment) and not to the mnemonic used to refer to it. This seems vaguely plausible, but it isn't the way I've seen the terms used (working on a wide variety of instruction sets and processor architectures, on projects at various levels of distance from the bare electrons). To avoid this perhaps reflecting one editor's POV, let's please see a citation that makes the distinction in an authoritative way. [[User:Spinality|Trevor Hanson]] 04:10, 4 September 2007 (UTC)
+:There is not necessarily a one-to-one relationship between mnemonics and machine codes. It is possible for a processor to use different machine codes for performing slightly different shades of an operation. For example, if there were a hardware based advantage in execution speed for an instruction that refers to a data register being different from the equivalent instruction for an index register, it makes sense to use the same mnemonic in order to simplify programming and use the assembler to generate the proper instruction based on the argument(s). Whether such a situation exists today is irrelevant; using "opcode" to refer to mnemonics limits extensibility.--[[User:Flagmichael|Flagmichael]] ([[User talk:Flagmichael|talk]]) 21:31, 23 May 2008 (UTC)
+
+== Merger proposal ==
+
+By the terms of both articles, [[Second-generation programming language]] = [[Assembly language]].  The articles should probably be merged.  But, I don't have the subject matter knowledge to do it.--[[User:Doug|Doug.]]<sup>([[User talk:Doug|talk]] <small>•</small> [[Special:Contributions/Doug|contribs]])</sup> 04:56, 7 October 2007 (UTC)
+
+:It seems that Assembly language is the much more common term so the merger should probably go TO this page.  Second-generation programming language is part of a series of articles on programming language generations, but there is no reason it can't simply redirect here.--[[User:Doug|Doug.]]<sup>([[User talk:Doug|talk]] <small>•</small> [[Special:Contributions/Doug|contribs]])</sup> 05:12, 7 October 2007 (UTC)
+
+I would have thought this could make sense, until I read [[Second-generation programming language]]. It makes the astonishing assertion that C can be considered a second-generation language. I am dubious, but if this topic is even discussed there, then the articles need to remain separate &ndash; since obviously C is not an assembler. I am skeptical, however, that this application of the term has any support in the literature. The whole idea of language generations developed along with hardware generations &ndash; and by the time C came on the scene, the second generation was far behind us.
+
+However, thinking further about the merger proposal, the language generation articles probably should stay as they are, in a series; but we should put a <nowiki>{{main|Assembly language}}</nowiki> on [[Second-generation programming language]], and transfer anything substantive from it to this article, only leaving in place discussion pertaining to the generational changes. [[User:Spinality|Trevor Hanson]] 17:17, 7 October 2007 (UTC)
+
+****Note my recent edit to [[Talk:Second-generation programming language]]. [[User:Spinality|Trevor Hanson]] 18:22, 7 October 2007 (UTC)
+
+:I agree with Trevor.[[User:RayGates|RayGates]] 17:23, 7 October 2007 (UTC)
+
+::My lack of technical expertise puts me in no position to disagree.  I would point out though that [[2GL]] is a stub, and my limited understanding would suggest that any further expansion would require it to simply draw from here.  Further the discussion of [[C (programming language)|C]] seems to say that it's considered by some to be a hybrid or an intermediate between 2GL and 3GL.  That doesn't seem to jive with what it says at [[C (programming language)]], but that's up to technical folks to figure out.  But if it's not true it should just be deleted and not affect merger/non-merger discussion.  Someone else's poor scholarship shouldn't affect a decision here.  It seems to me to make perfect sense that I should click on 2GL and get this page rather than that one.  The question shouldn't really be "should we have two pages", at least not in the first instance, but "are the terms synonymous or substantially so?"  If they are they should be merged, even if it involves removal of all content at [[2GL]].  If on the other hand, I have misunderstood and 2GL is not substantially the same thing as [[Assembly language]] then both articles need some clarification but merger would clearly not be appropriate.--[[User:Doug|Doug.]]<sup>([[User talk:Doug|talk]] <small>•</small> [[Special:Contributions/Doug|contribs]])</sup> 23:59, 7 October 2007 (UTC)
+
+**** Notwithstanding the further comments below, I think this is an interesting issue. As a technical (Wiki, not assembler) matter, I disagree with the premise that two synonymous terms should necessarily always be merged into one article. This is a case in point, highlighted by [[User:SilentC|SilentC]]'s comment. If it makes sense to have a series of articles on language generations (I think it does), then it makes sense to have an article on 2GL ''qua'' generationality. It might be (probably should be) one short paragraph that links to [[assembly language]] AND [[programming language generations]] as main articles, and that addresses specifically the historical transition of language generations. It should NOT duplicate any material from either main page. But it is useful (I assert) to have essentially a placeholder article that shows how this technology fits in the timeline. It would then be our responsibility to be sure that substantive additions to ''that'' article usually get shifted to the appropriate destination. This strikes me as the Wiki way to assemble an appropriate network of references. [[User:Spinality|Trevor Hanson]] 07:38, 8 October 2007 (UTC)
+
+:I disagree with the proposed merger. 2GL is an abstract term and is usually discussed in the context of first, second, third etc.. generation languages. Assembler happens to be the main or only real example of a 2GL but you can say the same about machine code, which is the only example of a 1GL. There are many more 3GLs. It does not make sense in the context of the series to remove or merge 2GL - and if you did that it would be logical to also remove or merge 1GL. It is an abstract discussion concerning programming languages. Assembler, C, COBOL, Visual Basic are real examples of the abstract definitions. [[User:SilentC|SilentC]] 01:34, 8 October 2007 (UTC)
+
+I've now reviewed Trevor's comments at [[Talk:Second-generation programming language]] more thoroughly and have to say I agree generally.  The generation pages need substantial work.  I don't have the technical expertise to fix the problem though I can see what I can come up with for resources and I can do some copyediting, etc.  I'll remove the merge tags, would anyone be interested in working on those pages from a technical perspective?  Should this discussion be moved there?  It seems to have more of an effect on that article (or series) than this one.--[[User:Doug|Doug.]]<sup>([[User talk:Doug|talk]] <small>•</small> [[Special:Contributions/Doug|contribs]])</sup> 03:03, 8 October 2007 (UTC)
+
+: I think I agree that this discussion makes more sense in the context of language generations; though I tremble to move discussion text from one article to another. Fortunately we aren't in the middle of a revert war so I guess it's not a problem.
+::I also agree that this is a moderate project, beyond anything I personally could take on right now. The research will be somewhat challenging, because little of this history is available on-line (as I found out working on early [[CP/CMS]] history). So this will take library visits and book purchases. I will watch what emerges on these articles over the next few weeks, hoping for a champion to rise to the occasion. If not, perhaps I can free up some time next month. [[User:Spinality|Trevor Hanson]] 07:38, 8 October 2007 (UTC)
+
+== Typical uses: video codecs ==
+
+May be it is a good idea to add video codecs to the list of typical uses, in the first section, since most video codecs spend most of their processing time in assembly written loops. This makes them quicker or helps conserving power during video decoding, which is an important laptop/notebook-benchmark. 
+
+I think people who look up assembly language in a dictionary can relate to "video encoding and decoding" better than to "driver programming". Even now (2007) Intel adds new instruction to the IA32 architecture to enable better optimized assembler loops specifically for video encoding/decoding.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.171.29.82|80.171.29.82]] ([[User talk:80.171.29.82|talk]]) 18:33, 11 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Intrinsics / builtins ==
+
+Nowadays, Intrinsics or builtins can be used in many C/C++ compilers to insert assembly level instructions into compiler generated code. This style of programming is highly encouraged by processor vendors and gives a very sweet break-even between development costs and performance, rarely worse than hand written assembly yet much easier to write and maintain. This is not discussed in Wikipedia.
+
+Inline assembly is only briefly discussed in Wikipedia.
+
+I suggest a section of "assembly language" should describe the transition from machine code -> assembly language -> inline assembly -> intrinsics.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.171.29.82|80.171.29.82]] ([[User talk:80.171.29.82|talk]]) 18:49, 11 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->

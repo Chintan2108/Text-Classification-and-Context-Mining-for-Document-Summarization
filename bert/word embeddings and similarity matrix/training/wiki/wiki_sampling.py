@@ -1,5 +1,5 @@
 import wikipedia, pickle, sampling
-import sampling, os
+import os
 import pandas as pd
 
 

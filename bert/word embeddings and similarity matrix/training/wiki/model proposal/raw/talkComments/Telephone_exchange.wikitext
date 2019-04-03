@@ -1,0 +1,325 @@
+{{Article history
+|action1=RBP
+|action1date=12:29, 19 January 2004
+|action1link=Wikipedia:Archive/Refreshing brilliant prose - Science
+|action1result=kept
+|action1oldid=2199636
+
+|action2=FAR
+|action2date=05:54, 12 October 2006
+|action2link=Wikipedia:Featured article review/Telephone exchange/archive1
+|action2result=demoted
+|action2oldid=79202626
+
+|currentstatus=FFA
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Technology|class=B|importance=Mid| b1 = y| b2 = y | b3 = y | b4 = y | b5 = y | b6 = y}}
+{{WikiProject Telecommunications|class=B}}
+{{WP1.0|v0.5=pass|class=B|category=Engtech}}
+}}
+
+==Mobile phone standards table==
+The mobile phone standards table is irrelevant to this article. Please provide some explanation as to why it should be included. Tables should supplement information in the article. Also, the table disrupted the formatting of the historic perspective section and moved the central office photo. [[User:Teglin|Teglin]] 15:57, 14 September 2006 (UTC)
+
+==Description of central office==
+This article does not address several major functions of a central office. I suggest further contributions to this article that elaborate on how central offices support public data networks. It might also be worth discussing the regulatory framework that allows CLECs and other network providers collocation space and access to interconnection facilities. This is a very important role of central offices and it should be included as part of this article --teglin
+
+==Introduction==
+In the field of [[telecommunications]], a '''telephone exchange''' or '''central office''' houses equipment that is commonly known as simply a '''switch''', which is a piece of equipment that connects phone calls. It is what makes phone calls "work" in the sense of making connections and relaying the speech information.
+
+I disagree with this definition. First, a central office is not a telephone exchange. A central office is used to operate telecommunications equipment, not exclusively telephone switches. I suggest the following wording:
+
+A '''central office''' is the physical building used to operate telecommunications equipment.
+
+Next, When referring to a switch (more accurately, a telephone switch), we are referring to a system, not just a single piece of equipment. I recommend the following wording:
+
+In the field of [[telecommunications]], a '''telephone exchange''' or '''telephone switch''' is a system of electronic components that connects telephone calls.
+[[User:Teglin|Teglin]] 01:48, 29 August 2006 (UTC)
+
+== Old talk ==
+I suggest that, for the sake of clarity we use these terms throughout, pointing out the other sometimes confusing usages in a special para of its own.
+* ''exchange building'' (=US "central office", UK "telephone exchange": can house switches, concentrators, or both)
+* ''remote concentrator'' 
+* ''telephone switch''  (=UK "telephone exchange", too, but being replaced in UK technical use by the US term, for reasons of clarity)
+
+----
+Ok - I spent 3 years in and about the BC Telephone system from 1969 to 1972 and the nomenclature at that time was something like:
+
+* Exchange: 10,000 numbers denoted by common first 3 digits of a 7 digit number
+* Central Office: where the equipment for one or more Exchanges lived
+* Switch: the equipment used to implement an "exchange". Distance between COs was dictated by the physical characteristics of the twisted pairs used as trunks between offices - typically around 18,000-25,000' by cable (4-6 miles) in urban areas.
+
+
+Since then I've been involved in specifying systems for a CLEC (1997) and things have changed - electronic exchanges and fibre optics have taken over and:
+
+Switch: hardware capable of one or more sets of 10,000 (or in some cases groups of 1000) numbers, each of which  might be terminated in a "remote concentrator" many miles (100+) from the CO.
+
+So, you see that the nomenclature changed with the time period.
+
+comments?
+
+----
+During the mid 1980's to late 1980's in America in my hometown of Parma, Ohio, there was a "prank" which some people did at a public phone.  They would dial 555 then the last four digits of the phone number that appeared on the public phone.  Let the phone ring once.  Then they would hang up and leave.  This would then cause the phone to ring a few seconds later.  Of course no one was on the line.  This 555-test was also capable of being executed from a private house phone.  To the best of my knowledge this 555-test longer works as described.
+
+Can other people please provide further details on the 555-test?
+
+:Many central offices of specific types had a similar arrangement whereby the dialing of a specific 3-digit code followed by the last 4 digits of one's own number would result in the line being rung back.  These were test numbers, intended primarily for engineers and installers in the field to use to test and adjust telephone ringers without needing to tie up an operator or other engineer.  The actual 3-digit code which was used varied from one office to another - There was no fixed code, but obviously it had to a code which was not in use as a local exchange prefix in the area concerned.  [[Special:Contributions/146.90.55.170|146.90.55.170]] ([[User talk:146.90.55.170|talk]]) 19:35, 16 October 2012 (UTC)
+
+----
+I removed the following because it's wrong:
+
+"In [[1971]] the computerized switching system for telephone traffic was invented by
+[[Erna Schneider Hoover]] and replaced existing hard-wired, mechanical switching equipment."
+
+"Computerized" or stored program control (SPC) switching was put into practice as early as 1958 with the early ESS prototypes that Bell Labs made.  If one reads the Hoover patent (US Pat. No. 3623007) it can be seen that Hoover didn't invent SPC switching but rather came up with a method for process priority.  This is still used today and was an important development, however the above statement is wrong.
+
+[[User:Sam Etler|sam]] 14:38, Sep 22, 2004 (UTC)
+----
+The section on topological sort needs to be rewritten.  I find it hard to understand (which is surprising since this is a featured article). -- [[User:Mordomo|Mordomo]] 00:23, 30 Nov 2004 (UTC)
+
+== Request for references ==
+
+Hi, I am working to encourage implementation of the goals of the [[Wikipedia:Verifiability]] policy. Part of that is to make sure articles [[Wikipedia:Cite sources|cite their sources]]. This is particularly important for featured articles, since they are a prominent part of Wikipedia. The [[Wikipedia:WikiProject Fact and Reference Check|Fact and Reference Check Project]] has more information. If some of the external links are reliable sources and were used as references, they can be placed in a References section too. See the cite sources link for how to format them. Thank you, and please [http://en.wikipedia.org/w/wiki.phtml?title=User_talk:Taxman&action=edit&section=new leave me a message] when a few references have been added to the article. - [[User:Taxman|Taxman]] 19:46, Apr 22, 2005 (UTC)
+
+== FARC ==
+The following objections to this article should be adressed: <s>Well, this is the first time I have seen a lead which consists of a note and bulleted list :> (Update: Lead is better, but still strange - 2 one sentence paras and one giant para don't look good. ). </s> No references, bad prose (lots of single sentence paras) and stub sections, <s>some strange bolding/red links in the bottom,</s> notes and sources in text (not formatted). Not up to a FA stanard. The lead should be divided into 2-3 paras of similar size instead of the current one giant and two tiny. --[[User:Piotrus|Piotr Konieczny aka Prokonsul Piotrus]] <sup>[[User_talk:Piotrus|Talk]]</sup> 09:32, 8 Jun 2005 (UTC)
+: Update. I see progress, but it is still short of FA, I am afraid. --[[User:Piotrus|Piotr Konieczny aka Prokonsul Piotrus]] <sup>[[User_talk:Piotrus|Talk]]</sup> 18:45, 16 Jun 2005 (UTC)
+
+==Ringdown method==
+My source for the Ringdown method (a chain of manually operated long-distance switchboards) is http://www.du.edu/~jcalvert/tech/phones.htm  My source for the 2-hour wait time to request and schedule a cross-country toll call in 1943 was my mother who told me about calls she made between western Pennsylvania and California which in todays money would cost about $500 for each call.  [[User:Greensburger|Greensburger]] 06:12, 3 September 2006 (UTC)
+
+
+==International View==
+I agree with the lack of world view and it being [[Anglosphere]]-centric, but where to begin? There are X number of countries and each country has a patriotic-ugly PSTN or is in some deregulation [[Telecommunications_Act_of_1996|mish-mash]]. [[User:Luis F. Gonzalez|Luis F. Gonzalez]] 18:01, 15 October 2006 (UTC)
+
+Well yes this article is written in English.  As it happens I know a little about European switching in the 1970s and would welcome contributions by anyone who knows more about equipment and practices among non English speakers.  In particular, what's been happening in China and the former Socialist Community of Nations?
+[[User:Jim.henderson|Jim.henderson]] 13:49, 19 October 2006 (UTC)
+: The article needs to reference or state that it is U.S. (North American) centric. The telecom industry is a moving target. Additionally each language's Wikipedia (personal note - NOT countries) will have a certain navel gazing. This little article in the German wiki on telephone switches just makes me want to hit the [[aspirin|brain candy]]. http://de.wikipedia.org/wiki/Vermittlungsanlage. [[User:Luis F. Gonzalez|Luis F. Gonzalez]] 20:19, 28 October 2006 (UTC)
+
+I can tell you what is happening in Africa - every time they try to get a telephone network going in certain places, there are rogues who go at night and dig up the telephone cables in order to strip the copper out and sell it as bulk for smelting. Kinda goes against the progress concept. [[User:Rarelibra|Rarelibra]] 17:41, 26 October 2006 (UTC)
+: New or ancient infrastructure is just a scavenging yard for the impoverished, ignorant and criminal. When in Rome, do as the Vandals do. A while ago, Euro-centric telco's wanted to sell all mobile (wireless) infrastructure in the third world. [[User:Luis F. Gonzalez|Luis F. Gonzalez]] 20:19, 28 October 2006 (UTC)
+:: They are, and it's working in many places. There are quite a few countries that are ''more advanced'' in telecommunications than the United States. Imagine getting wireless coverage '''anywhere''' in a country - even in the subway or on a 120mph train? Amazing. [[User:Rarelibra|Rarelibra]] 23:23, 28 October 2006 (UTC)
+::: I hope someone compiles this valuable information into an article.  Just not this one.
+::: [[User:Jim.henderson|Jim.henderson]] 00:22, 29 October 2006 (UTC)
+::: No doubt about some places being more advanced. My theory is that the U.S. is the world's test lab. All the best and worst ideas are implemented in the U.S. first, creating a quilt of this and that, with the survival of the fittest (not necessarily the best) or most advanced. If the new trend was not started by the "world community", ala Spice Girls, the rest of "world community" then picks the best features and creates a brand new widget. Some ideas are slick and nifty for the technorati, but really plain silly for the 3rd world. Example, a little old lady (i.e. my grandmother) wanting to make a long distance phone call thru a voice recognition system on a pay phone. HA!  [[User:Luis F. Gonzalez|Luis F. Gonzalez]] 04:37, 2 November 2006 (UTC)
+I completely disagree. There are many times where the US either lacks creativity or innovative thought, or times where the apathy and ignorance keeps the US from real progress. Take, for instance, the fact that there are many places in the US where you can go and not be able to get a signal for your cellular phone. In India, you can go ''anywhere'' and get signal for your cell phone (and in Japan as well). As far as "high speed" Internet, our fastest broadband access here looks like a 12k modem over in Korea - where not only is '''real''' high-speed access cheap, but plentiful as well. There is medical technology brought to Iraq by the Germans that ''isn't even available in the United States yet''! Why? One can only figure because it is not too profitable for the doctors and HMOs (or something like that). [[User:Rarelibra|Rarelibra]] 05:29, 2 November 2006 (UTC)
+
+:Good grief.  Progressive countries and apathetic Spice Girls?  Am I alone in thinking this section has gone seriously off the rails and ought to be wiped clean?
+:[[User:Jim.henderson|Jim.henderson]] 21:41, 2 November 2006 (UTC)
+
+:: The telecom environment in the US is different because of regulation, financial, geographical and time of installation (first to implement) reasons. There is way too much investment in buried copper cable or buried fiber and equipment to just replace it all. As a side note: millions of dollars in taxes are paid each year for real property which includes copper and fiber cable owned by the telephone companies. In some areas, depending on the time or geographic area, there may be fiber or copper. Depending on geographic reasons there may be a combination of microwave(wireless),fiber and copper. Equipment costs $$ money and at times is subsidized by the US government through funds or low interest loans. Without incentives, there is no financial reason to install massive amounts of equipment and cabling (or wireless) to facilitate faster service for a few people. In some foreign countries there were places that did not have telephone service as little as 25 years ago, which allows them to skip the old TDM technology and copper cable and go directly to fiber or wireless and Carrier Ethernet technology thereby providing VOIP and fast internet. A company needs to recover an investment in order to stay in business and not become a monopoly. If you think about it, the average person in America used dial up until about 2000 because we were centered around 98% of the population having TDM phones. Around 2000 Wireless became more prevalent and affordable but was still not fast enough for data rates. Everyone screams for super fast data but does not want to pay the price to completely replace all existing equipment and facilities.  DEO.  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/98.17.202.245|98.17.202.245]] ([[User talk:98.17.202.245#top|talk]]) 21:17, 15 January 2018 (UTC)</small> <!--Autosigned by SineBot-->
+
+Too americanised I say. Maybe some more photos of exchanges?
+[[User:150.101.76.15|150.101.76.15]] 05:03, 14 May 2007 (UTC)
+
+Pictures?  Doesn't a building in one country look much like a building in another?  Yes, let's have more words from around the world that explain the differences in what's going on inside, but not more pictures of the outside of buildings except where they illustrate functional peculiarities.  Maybe fewer pictures.  [[User:Jim.henderson|Jim.henderson]] 05:11, 14 May 2007 (UTC)
+
+==Phone number trivia==
+In the interests of relevance, brevity and international view, the whole section should be moved to [[telephone number]].  
+[[User:Jim.henderson|Jim.henderson]] 13:49, 19 October 2006 (UTC)
+
+Absent objections, it is done.
+[[User:Jim.henderson|Jim.henderson]] 06:28, 28 October 2006 (UTC)
+
+Are you talking about just the phone number section? I concur, if so. [[User:Rarelibra|Rarelibra]] 00:25, 29 October 2006 (UTC)
+
+As you see, that's what I did.  The section sits uneasily in its new home and requires work to integrate it there, but at least now it's uneasy where it belongs, rather than out of place.
+[[User:Jim.henderson|Jim.henderson]] 01:17, 29 October 2006 (UTC)
+
+==Off-Hook Tip condition==
+Tip condition?  What's that?
+[[User:Jim.henderson|Jim.henderson]] 00:22, 29 October 2006 (UTC)
+:Ah.  British term, for a line that has gone offhook in order to make a call, but has not yet received dialtone.  Or, being British, dialling tone.  A handy concept, for which American jargon doesn't provide a near equivalent.
+:[[User:Jim.henderson|Jim.henderson]] 23:34, 29 October 2006 (UTC)
+
+==Out of place images==
+The maps of exchanges and wire centers are not very informative.  They (1) are entirely American, and (2) indicate little more to the casual eye than the fact that American places that have a lot of people have a lot of telephone exchanges.  They are like a night photo from orbit, showing where the lights are on.  These maps should go to an article about MFJ, if they belong anywhere in the encyclopedia.  Kind of a shame, since they are nice maps but their relevance to the topic is tangential.
+
+Tangential also is a photo of an office building.  If the exterior gave a hint of telephony going on inside, for example the old Post Office Tower in London with its microwave horns, it would be relevant.  This illustration, however, doesn't illustrate much of anything.
+[[User:Jim.henderson|Jim.henderson]] 23:34, 29 October 2006 (UTC)
+
+If the data for wire centers (or equivalent) and/or central offices for other countries was readily available, I would present the same maps - but the data is not available. If you know different, point me in the direction. However, 'from orbit' is a pretty ''harsh'' term to use as it is an overall perspective of just the US. With 24,000+ wire centers and central offices, what would you like? A view of each state? It is to give the overall ''effect'' of mapping to show the exhaustive locations. Simply put. The building, well, I agree - especially when most central offices are very boring locations anyway - maybe if the photo showed the inside guts of a central office, then we'd be talking interesting. But don't bang on the maps just because they are 'entirely American'. They are an addition to an article and not centric. Plus a lot of other countries do not treat exchanges and wire centers the same at all. So it is merely an inclusion of one system in the overall article topic. [[User:Rarelibra|Rarelibra]] 01:17, 30 October 2006 (UTC)
+
+Yeah, most countries think wire center data are secret or boring or for other reasons unpublished.  Only in the USA does an old lawsuit force publication in uniform, machine readable format.  That's why the maps would fit better in [[Local access and transport area]] or any similar article that may discuss or illustrate the geography of American telephony.   Here, they look little different than a map of Post Office Section Centers would, or Catholic Diocese, or pizza delivery zones, or electric power grids, or police precincts, or legislative consituencies, or maps of other activities that divide the territory in order to serve the people.  Each such map will show a great purple splotch where people are numerous, and leave rural areas like northern Maine white.  There, isn't that a little less harsh?
+
+Note the map in [[Zip code]] which covers the USA.  The country has something like as many Section Centers as LATAs, and about as many Post Offices as officially listed Exchanges, but the postal map is informative because it doesn't try to show all the POs.  And it isn't in a general article about Post Offices; it's in a specific one about how USPS divides the country.
+
+Yes, maps of the hundreds of legal "exchange" areas or wire centers in each individual LATA would be much more informative, if they were put in the correct article.  Each one could be as readable as the USA map you already made of the LATAs.  Of course, such a breakdown would be a huge job.
+[[User:Jim.henderson|Jim.henderson]] 21:35, 30 October 2006 (UTC)
+
+:Jim - maybe if I expand the information about Wire Centers into a paragraph (explaining how the names are assigned - such as CHCGILFN for "Chicago, IL - Franklin (St)" location), and added a couple of informative example maps instead of the "orbit" view (lol). What do you think? [[User:Rarelibra|Rarelibra]] 00:53, 31 October 2006 (UTC)
+
+::Ooh, goody more maps.  I love maps, just not in this article which is already too big.  I mean, either the map is of Chicago or New York or otherwise local, thus lacking relevance for distant people, or else it's continental or more, thus to too small a scale to be informative.  A map of the world numbering plan areas can be OK since there are only a little over a hundred country codes, but a US map of area codes gets busy because there's over two hundred and they concentrate thickly in those urbanized areas that look solid purple or white on an exchange map or orbital night photo.
+
+::So yes, if more maps are a good thing, they are a good thing in an article that's about the geography of telephony.  And, lacking good data sets elsewhere, telephone maps are necessarily of the USA and its parts.  So, the place to start displaying telephone exchange maps is in the LATA article which, not by intention but in effect, is the article about USA phone geograpby.  More detailed maps could cover a particular state or operating company.  Heck, from memory I could draw a map showing the dozen places where I've repaired switches in Manhattan.  Not that my talents run in that direction, but it would make a nice illustration for the history I already wrote in the [[New York Telephone]] article.
+
+::Yes, by all means make more good maps.  But better to move them into an article that's specialized on that topic, just as the maps of the [[Dioceses of the Episcopal Church in the United States of America]] are in an article about the geographical divisions of that denomination rather than in a general article about the Church in America.
+::[[User:Jim.henderson|Jim.henderson]] 03:56, 31 October 2006 (UTC)
+
+
+Could we get rid of those American maps? Also, those 2 photos outside offices/exchanges are irrelevant... they show a building, but do not have anything remotely related to telecomms,except for the fact that some american company owns them.
+[[User:150.101.76.15|150.101.76.15]] 05:07, 14 May 2007 (UTC)
+
+==Central Office==
+This article really ought to be moved to "Central Office".  [[User:X570|X570]] 02:13, 23 November 2006 (UTC)
+
+No, Central Office should be moved to Telephone Exchange.  The expression "Central Office" is too ambiguous.  Every large company has a Central Office.  Blue Cross has a central office.  Starbucks has a central office.  General Motors has a central office.  "Telephone Exchange" tells the reader that the industry is telecom and not something else.  [[User:Greensburger|Greensburger]] 08:12, 23 November 2006 (UTC)
+
+My favorite name would be "wire center" for the place where the wires come together to be switched, etc.  Anyway, what most bothers me is the history of American switching section.  It's a lovely piece but it has little connection to the rest of this article, which is about inside plant that's actually working today.  Ancient history (much of which I worked through) would better belong in its own article.
+[[User:Jim.henderson|Jim.henderson]] 16:31, 23 November 2006 (UTC)
+
+==Distribution frame==
+Ancient history question for Jim Henderson: What is a "distribution frame"?  Is that the long (40') frame where the pairs from the street terminated on one side of the frame, and pairs to the switches terminated on the other side of the frame, and in the middle of the frame were thousands of crossed pairs physically connecting the switch wires to the street wires?  So every time a subscriber ordered another phone and got an unused number, somebody had to physically connect a pair of wires across the frame.  Is that a distribution frame?  If not, what did you call the thing I described?  [[User:Greensburger|Greensburger]] 22:58, 23 November 2006 (UTC)
+
+Yes.  See [[Distribution frame]] and [[Main distribution frame]].  I wrote part of the former and most of the latter.  Oh.  I must ensure that the present article has a link.  Distribution frames are alive and well, having changed in the ways I described.  
+
+Oh!  Silly me.  There are separate [[Main distribution frame]] and [[Main Distribution Frame]] articles.  I foolishly worked on one of them weeks ago without noticing that the link in the present article goes to the other.  Tomorrow I'll merge the two, carefully, unless someone beats me to it.  I won't bother with the rigmarole of writing proposals in the two articles.
+[[User:Jim.henderson|Jim.henderson]] 09:23, 24 November 2006 (UTC)
+
+Thanks Jim.  And silly me for not looking for a Wiki article on Distribution frames.  [[User:Greensburger|Greensburger]] 04:44, 25 November 2006 (UTC)
+
+Anybody kindly look and see whether I omitted anything important in the merger, introduced errors, left ugly seams between the merged articles, or just don't know what I'm talking about, being an old switchman and never a framer.
+[[User:Jim.henderson|Jim.henderson]] 05:42, 25 November 2006 (UTC)
+
+==The System==
+Looking around Wikipedia, I see articles on specific parts of the network, with less thorough coverage of outside plant than inside, and no article at all with an elementary summary of how telephone signals get from your phone jack to the jack across town or across the ocean that you're calling.  I figure this is a need.  This "telphone exchange" article comes closest but it's mostly about switchgear of the 20th century rather than anything either comprehensive or modern.  I could create a new "telphone system" article or some similar name, but instead I intend to expand an existing inadequate one.  My current candidate is "[[Telephony]]" which today is poorly organized despite being short, and is mostly about the fairly unimportant topic of IP telephony.  
+
+Naturally my version will have links that eventually lead to links to articles for [[1ESS switch]] and [[Main distribution frame]] and [[TASI]] and other topics,  but it will be a broad summary of the system and not get bogged down in details.  It will be approximately like the data path portion of [[DSL modem]] except of course since the phone system is more complex the article will end up being longer.  Does anyone have a better idea where to start than with [[Telephony]]?
+[[User:Jim.henderson|Jim.henderson]] 01:52, 5 January 2007 (UTC)
+
+== Puskás? ==
+
+Hi there!
+Perhaps [[Tivadar Puskás]] should be mentioned in this article as - though some would argue, but - he was the inventor of the phone exchange. (Also credited in [[Hello]]: ''According to Thomas Edison, "Tivadar Puskas was the first person to suggest the idea of a telephone exchange".'') See: [http://www.iec.ch/cgi-bin/tl_to_htm.pl?section=person&item=44 Puskás on IEC.ch] ; [http://www.globusz.com/ebooks/Edison/00000020.htm Early telephone history]. -- [[hu:User:CsTom|CsTom]] 16:33, 27 February 2007 (UTC)
+
+:Might be worth a "See also" but the article in question says much about what a great fellow he was and little to describe what was invented or what kind of work he did that qualifies him as having invented this item.  Edison was a great fellow too, but his telephone work as far as I know had nothing to do with switching, so he's not such a great recommendation even if were to say "invent" rather than "suggest".  I hope you can find more relevant material.  [[User:Jim.henderson|Jim.henderson]] 21:03, 27 February 2007 (UTC)
+
+::It seems that someone has decided he was the inventor, as he now appears as such in the article. Anyway, I thought I would mention what I found in an old public-domain book (Herbert N. Casson, ''The History of the Telephone'', 1910 [http://etext.lib.virginia.edu/toc/modeng/public/CasTele.html]). According to this, the first exchange was built by the burglar-alarm business of E. T. Holmes in Boston in 1877. Holmes just hooked up a couple of telephones to his already-invented burglar-alarm switchboard. Since WP claims that Puskás invented, or 'suggested', the idea in the same city in the same year, I wonder if there was any connection between the two men. --[[User:Heron|Heron]] ([[User talk:Heron|talk]]) 09:42, 14 October 2012 (UTC)
+
+== How to find the location, the community for a USA area code and exchange ==
+Where around the web is there reliable information as to what location, what community a USA area code and exchange is designated?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Donwarnersaklad|Donwarnersaklad]] ([[User talk:Donwarnersaklad|talk]] • [[Special:Contributions/Donwarnersaklad|contribs]]) 16:24, 4 September 2007 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:See [[List of NANP area codes]] for the former.  [[User:Jim.henderson|Jim.henderson]] 12:13, 8 September 2007 (UTC)
+::Try localcallingguide.com and telcodata.us - either should be able to turn an area code and three-digit exchange prefix into a town name. Better yet, the primary sources - nanpa.com (US) and cnac.ca (Canada) - have a list for each area code which indicates which exchange prefix is which village. [[User:K7L|K7L]] ([[User talk:K7L|talk]]) 03:41, 2 June 2013 (UTC)
+
+== The [[Nuremberg Trials]] telephone exchange ==
+
+[[Image:TelephoneExchange.gif|right|The [[Nuremberg Trials]] telephone exchange]]
+Could anyone please provide more context about the image on the right?  I don't understand what's depicted, and I cannot see how it relates to the Nuremberg Trials. -- [[User:Ddxc|Ddxc]] ([[User talk:Ddxc|talk]]) 06:09, 18 November 2007 (UTC)
+
+:It's a short clip of activity at a typical manual telephone exchange. In particular it happens (or at least claims) to be the exchange supporting the Nuremberg Trials. [[User:Bellhead|Bellhead]] ([[User talk:Bellhead|talk]]) 04:10, 19 November 2007 (UTC)
+
+::Well, then this is idiotic, it's not sourced at all. Changing the caption to reflect the little we do know about it.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.180.38.221|67.180.38.221]] ([[User talk:67.180.38.221|talk]]) 17:36, 27 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:::If you would bother to watch the original movie, stated as the source, you should have understand... That's what sources are for. --[[User:Alex:Dan|Alex:Dan]] ([[User talk:Alex:Dan|talk]]) 18:42, 6 January 2008 (UTC)
+
+==stepping switch sounds==
+In the "sounds" sub-section, the following questionable sentence appears:
+
+"Some systems had a continual, rhythmic "clack-clack-clack" from [[wire spring relay]]s that made [[Reorder tone|reorder]] (120 ipm) and busy (60 ipm) signals."
+
+I recall that reorder, busy, and several other beep-beep-beep signals were generated by a silently running electric motor that rotated (through a worm gear) a commutator drum made of bakelite containing several exposed bronze segments of various sizes that made contact with brushes.  Electromagnetic relays fed these beeping signals to selected lines, but most of the clack-clack-clack sounds in the exchange building came from stepping switches doing the step-by-step sequence in response to pairs of rotary dialed digits.  Touchtone replaced step-by-step.  Reorder, busy, etc are still being done, but with electronic switching rather than electromagnetic relays.  If that is correct, the above sentence should be changed. [[User:Greensburger|Greensburger]] ([[User talk:Greensburger|talk]]) 15:25, 15 February 2008 (UTC)
+
+:Yes, technology varied and changed, but remember the paragraph in question starts with "On a pre-dawn Sunday morning" ie when steppa switches were silent.  I indeed saw your quiet drum and brush machines in Step and [[Panel switch]]es, and heard the rhythmically thumping Office Interruptor Frames of [[1XB switch]] and the similar but higher pitched drumming of wire spring interruptors in a few upgraded 1XB and many [[5XB switch]].  And no, TT didn't precisely replace Strowger switches, since in many places the former arrived before the latter departed.  During the overlap in the early 1970s, I tested and repaired the Touch Tone to Dial Pulse Converters. [[User:Jim.henderson|Jim.henderson]] ([[User talk:Jim.henderson|talk]]) 18:01, 15 February 2008 (UTC)
+
+==Paste template==
+Someone has indicated that this article is pasted from an unidentified source.  Can't be sure without an identification, but I've seen it grow over the years and think the opposite is more likely.  Anyway, seems to me the flag should be either substantiated or taken down.  [[User:Jim.henderson|Jim.henderson]] ([[User talk:Jim.henderson|talk]]) 05:10, 12 August 2008 (UTC)
+
+:Ah.  I had looked only at the result of the insertion of the template, not the edit comment which cites [http://www.telephone-exchange.co.uk/article1.html this page].  But notice, it's a British site, whilst the contents reflect the American biases of our article, which I know are original here because I, ahem, inserted some of them myself before my understanding broadened outside my own country's experience.  So, no, unless someone's got more solid evidence to offer as to who pasted from whom, it appears to be more appropriate to accuse someone of stealing from Wikipedia (though, why steal what's offered for free???) than vice versa.  [[User:Jim.henderson|Jim.henderson]] ([[User talk:Jim.henderson|talk]]) 04:01, 18 August 2008 (UTC)
+Then, I think you're true, so I do the removing. If nobody takes the decision it would remainforever (laugh). [[User:Almeo|Almeo]] ([[User talk:Almeo|talk]]) 20:22, 8 December 2008 (UTC)
+
+== That's not a DMS-100 ==
+
+That picture is not a DMS-100.  DMS-100's are sh*t brown with green lettering, do not have bay doors in front, are not installed on false flooring with 110/220 AC power, but rather earthquate mounts (floor to ceiling ramsetted into concrete), have overhead cables, lights on the front cables at the back, have lines and therefore cable trays, sit beside main distribution frames, have associated carrier equipment and 48VDC bus bars over the bays.  This picture does not appear to be a telephone switch at all, but rather computer cabinets.  Perhaps someone at Nortel or from a phone company can donate a picture of a real DMS-100.  Unless someone can vouch for this picture (and explain how a DMS-100 can possibly be hidden somewhere inside these computer cabinets), I will remove it. — [[User:Dgtsyb|Dgtsyb]] ([[User talk:Dgtsyb|talk]]) 09:22, 19 April 2009 (UTC)
+
+:I've seen a dozen DMS-100 offices all in northeastern US and none of this color.  However I work in a DMS-100 that sits on false flooring with AC wiring as well as DC.  Most circuit packs are exposed in front, but some are in cabinets much like the ones illustrated, with similar doors.  The MDF is three floors below, and CXR five floors above.  So, no, I don't find it unbelievable that the front parts of a French DMS-100 could look like this with the colors customized to a user's more refined taste.  [[User:Jim.henderson|Jim.henderson]] ([[User talk:Jim.henderson|talk]]) 04:22, 23 April 2009 (UTC)
+
+::Well, then, maybe you could take a picture of yours 'cause this ain't no DMS-100.  With that color, if it is a Nortle switch at all, it is an SL-100 (reeally beeg PABX for anyone that doesn't know what that is) not a DMS-100. — [[User:Dgtsyb|Dgtsyb]] ([[User talk:Dgtsyb|talk]]) 04:45, 23 April 2009 (UTC)
+
+:::It's European equipment practice. EMC (Electro Magnetic Compliance) regulations introduced in the mid 90's mean that kit has to be housed in racks with doors. Most European telcos no longer use building DC distribution and so kit is either 220vAC or 50vDC with a rectifier provided per suite.  I've seen two DMS-100s in London in the colour and equipment practice shown. [[Special:Contributions/86.185.37.22|86.185.37.22]] ([[User talk:86.185.37.22|talk]]) 17:47, 17 December 2010 (UTC)
+
+== link to telestation (Swedish) ==
+
+When i look up Telestation in swedish, I get a similar idea of the telephone exchange.
+
+HOWEVER, even though several other languages are listed, English is not one of them!
+
+is there something called a telestation in Europe that doesn't exist in N.A. or what?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/81.233.236.3|81.233.236.3]] ([[User talk:81.233.236.3|talk]]) 22:09, 11 June 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:Unfortunately, I speak no Swedish, my grandmother's native language, but notice an Interwiki link to [[:sv:Telefonväxel]] which seems to be about [[telephone switchboard]]s.  My guess is, different languages conventionally divide differently the concepts that in American English are called "wire center", "exchange area" "switchboard" and "automatic telephone switching system".  Alternatively, the Wikipedia editors in various languages including English may have made different arbitrary choices of division points among these and related concepts.  This is one of the difficulties of translation.  Quickly checking articles in Spanish and French, which are more familiar to me, I don't find these difficulties immediately.  Editors with wider language skills should check, and make appropriate Interwiki links.  [[User:Jim.henderson|Jim.henderson]] ([[User talk:Jim.henderson|talk]]) 18:46, 14 June 2009 (UTC)
+==File:Nortel DMS100 public voice exchange.jpg Nominated for Deletion==
+{|
+|-
+| [[Image:Icon Now Commons orange.svg|50px]] 
+| An image used in this article, [[commons:File:Nortel DMS100 public voice exchange.jpg|File:Nortel DMS100 public voice exchange.jpg]], has been nominated for deletion at [[Wikimedia Commons]] for the following reason: ''Deletion requests June 2011'' 
+;Factual error in description. This is a PBX installation, not a central office, and definitely not a DMS-100.
+|-
+|
+| A discussion will now take place over on Commons about whether to remove the file. If you feel the deletion can be contested then please do so ([[commons:COM:SPEEDY]] has further information). Otherwise consider finding a replacement image before deletion occurs.
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 21:56, 27 June 2011 (UTC)
+|}
+
+== "Early" automatic exchanges ==
+
+The article has a section called "Early automatic exchanges," but it only briefly mentions that exchanges were somehow automated in "the early 1900s." The rest of the section is about computers, dial tones, ANI, and DTMF, none of which existed in the early 1900s.
+
+== Introduction poorly focussed ==
+There's a lot about "rate centre" and "local calling area" in the intro which needs to be moved to a section in the article body. These are both regulatory constructs and a bit off-topic as each may contain multiple exchanges - or even be mismatched to the exchange boundaries. [[User:K7L|K7L]] ([[User talk:K7L|talk]]) 04:05, 2 June 2013 (UTC)
+
+:Most of the article is a random accumulation of material. [[User:Kbrose|Kbrose]] ([[User talk:Kbrose|talk]]) 20:37, 2 June 2013 (UTC)
+
+== Satellite PBX foto ==
+
+The foto of the satellite PBX needs to be rotated 90 degrees clockwise... [[Special:Contributions/201.77.180.126|201.77.180.126]] ([[User talk:201.77.180.126|talk]]) 19:27, 24 July 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Telephone exchange]]. Please take a moment to review [[special:diff/820063877|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20130605155116/http://www.mosi.org.uk/media/33871608/early%20manchester%20telephone%20exchanges.pdf to http://www.mosi.org.uk/media/33871608/early%20manchester%20telephone%20exchanges.pdf
+*Added archive https://web.archive.org/web/20140525024839/http://www.rhaworth.myby.co.uk/phreak/tenp_01.htm to http://www.rhaworth.myby.co.uk/phreak/tenp_01.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 21:43, 12 January 2018 (UTC)
+
+== First telephone exchange? ==
+
+Is the following text in this article accurate?
+
+"The world's first commercial telephone exchange opened on November 12, 1877 in Friedrichsberg close to Berlin. George W. Coy designed and built the first commercial US telephone exchange which opened in New Haven, Connecticut in January, 1878."
+
+The sources I was able to find do not support the Friedrichsberg claim. 
+
+"The first commercial telephone exchange in the world began operations on January 28, 1878 in a storefront of the Boardman Building in New Haven. George W. Coy designed and built the world's first switchboard for commercial use. Coy was inspired by Alexander Graham Bell's lecture at the Skiff Opera House in New Haven on April 27, 1877." [https://www.nps.gov/nhl/find/withdrawn/telephone.htm]
+
+"In 1878, the world’s first telephone exchange opened in New Haven. The first telephone subscriber was John E. Todd..."[http://archives.yalealumnimagazine.com/issues/2005_07/old_yale.html]
+
+"Many, including Bell, realized the phone’s one-to-one usage limited its potential, but it was Coy who first implemented a solution in the Elm City. In 1877, Coy, then the manager of the Atlantic and Pacific Telegraph Co., attended a lecture given by Bell at the Skiff Opera House in New Haven. During the lecture, Bell demonstrated the effectiveness of a three-way phone network by connecting with Hartford and Middletown on a call.
+
+Coy was intrigued and obtained a Bell telephone franchise for New Haven and Middlesex counties later that year. The agreement stipulated that Bell’s company would own 35 percent of Coy’s new venture. Coy enlisted Walter Lewis, superintendent of the New Haven Clock Co., and Herrick Frost, a prominent businessman, as investors, and incorporated the New Haven District Telephone Co. on Jan. 15, 1878.
+
+Soon after, on Jan. 28, from the Boardman Building in New Haven, the newly formed company launched the world’s first commercial telephone exchange. The exchange allowed anyone connected to the network to call anyone else on the network, though they would have to call into a central operator who would transfer the call."[http://www.connecticutmag.com/the-connecticut-story/ct-files-new-haven-was-home-of-world-s-first/article_bef57208-3a4e-11e7-9176-a7aa002e4aad.html]
+
+"Tivadar Puskás (1844-1893) was born in Budapest. He was a Hungarian inventor,
+telephone pioneer, and inventor of the telephone exchange. 
+
+In 1879 Puskás set up a telephone exchange in Paris. In Paris he was greatly helped by his
+younger brother Ferenc Puskás who later established the first telephone exchange in Pest.
+
+Puskás was working on his idea for a telegraph exchange when Alexander Graham Bell
+invented the telephone. He decided to get in touch with the American inventor Thomas
+Edison. Edison said "Tivadar Puskas was the first person to suggest the idea of a telephone
+exchange". Puskás's idea finally became a reality in 1877 in Boston.
+
+In 1879 Puskás set up a telephone exchange in Paris. In Paris he was greatly helped by his
+younger brother Ferenc Puskás who later established the first telephone exchange in Pest."[www.viszki.sulinet.hu/tananyagtar/angol/Virag/sol7.pdf]
+
+"When he heard about Bell’s new invention, the telephone, Puskás realized that he should build a telephone exchange.  He visited and convinced Edison that the great service of telephone is needed to be available to the public as well. In 1879, he built Europe’s first telephone exchange in Paris. In Budapest, the world’s 4th exchange commenced in 1881." [http://www.fabulousbudapest.com/famous-hungarian-inventions-the-telephone-exchange/]
+
+--[[User:Guy Macon|Guy Macon]] ([[User talk:Guy Macon|talk]]) 20:11, 1 February 2018 (UTC)
+
+: It is quoted with a reference, but I clarified the statement. ''commercial'' was misleading. [[User:Kbrose|Kbrose]] ([[User talk:Kbrose|talk]]) 22:08, 1 February 2018 (UTC)

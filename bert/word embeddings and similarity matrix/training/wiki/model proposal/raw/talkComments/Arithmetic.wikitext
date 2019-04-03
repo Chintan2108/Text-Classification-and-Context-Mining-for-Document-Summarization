@@ -1,0 +1,290 @@
+{{Talk header}}
+{{Vital article|topic=Mathematics|level=2|class=B}}
+{{WikiProjectBannerShell|1=
+{{maths rating|frequentlyviewed=yes|vital=Y|class=B|importance=top|field=basics}}
+{{WP1.0|v0.5=pass|class=B|category=Math|VA=yes|WPCD=yes}}
+}}
+{{To do|2}}
+{{Outline of knowledge coverage|arithmetic}}
+{{User:MiszaBot/config
+| algo=old(365d)
+| archive=Talk:Arithmetic/Archive %(counter)d
+| counter=1
+| maxarchivesize=75K
+| archiveheader={{Automatic archive navigator}}
+| minthreadsleft=5
+| minthreadstoarchive=1
+}}
+{{Archive box|auto=yes}}
+
+== Pronunciation ==
+
+It seems absurd to include a section on pronunciation here. Can't someone just look it up in the dictionary if they want to know? The pronunciation of the word "arithmetic" has nothing to do with arithmetic itself. I'm deleting it.
+
+:You really should. [[User:Asdfv|Asdfv]] 00:42, 2 February 2006 (UTC)
+[[User:130.13.73.232|130.13.73.232]] 00:50, 18 January 2006 (UTC)
+
+:Agreed, it is unnecessary for this article, as pronunciation does not drastically affect meaning.  This belongs in a dictionary, not an encyclopedia. I'll remove it. &mdash;[[User:Siroxo|siro]][[User talk:Siroxo|''&chi;'']][[Special:Contributions/Siroxo|o]] 16:25, 2 February 2006 (UTC)
+
+::Well plenty of pages include pronunciations, they either belong here or they don't. In addition, according to Oxford, when pronouncing arithmetic, if the emphasis placed on the MET instead of the RITH, then arithmetic is an adjective instead of a noun. Since having TWO pronunciations for a single word is out of the ordinary, I think pronunciation definitely has a place on the page...  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/199.247.188.184|199.247.188.184]] ([[User talk:199.247.188.184|talk]]) 04:23, 7 October 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:::It’s wrong to say that pronounciation doesn’t belong here, and just not true that it doesn’t alter the meaning, or belong here (the fact that you even suggest so seems to show that it is needed) - as the comment above states, arithmetic does have two very distinct meanings, each with a different pronounciation, and that should be reflected in an encyclopædic work (which covers everything about a subject, not just the mechanics of the subject). You might not be interested in the etymology, use and pronounciation of the word, but that doesn’t mean that others investigating the subject won’t just as it’s significant to include mention of where and when different arithmeticians were at work - or should that be left out too, with a direction to look up a history book, or consult an atlas? Dropping the linuistic part of the entry is as wrong as would be to keep the pronounciation but drop the bit about the sums, because you could look that up in a maths book… [[User:Jock123|Jock123]] ([[User talk:Jock123|talk]]) 16:19, 24 June 2013 (UTC)
+
+:::As a non-native English speaker, I opened Wikipedia and looked up this page with the single purpose of learning how to pronounce the word arithmetic. I was disappointed to see your discussion guys. I think it does belong here, and I vote for putting it back. [[User:Weitzhandler|Shimmy]] ([[User talk:Weitzhandler|talk]]) 22:25, 27 September 2017 (UTC)
+
+----
+
+What about original meaning of word arithmetic and name "modular arithmetic"? I cannot see that at this page.--[[User:Vanished user 8ij3r8jwefi]]15:50, 3 February 2006 (UTC)
+
+How about including "'''finger math'''"?
+
+== Numeralization ==
+
+Don't you think "numeralization of the null concept" should be changed to "invention of zero"? If not, I think at least "numeralization of the null concept (invention of zero)" should be written instead. This would be much clearer. [[User:A.Z.|A.Z.]]
+
+== Arithmetic and number theory (reprise) ==
+
+A recent discussion at [[Talk:Algebra#Areas of mathematics]] brought to light some concerns about this page. Some of this has already been dealt with but I would like to raise some concerns about the section on Number Theory. The way this is written makes it sound like using arithmetic as a synonym for number theory is common usage, but this has not been true for a considerable amount of time. The confusion stems from the fact (which is currently not in the history section, but should be) that the ancient Greeks used two words, ''logistike'' and ''arithmetike'' to encompass what we would today call arithmetic. The Greek ''Logistic'' was the art of calculating, the "how to" of working with numbers while the Greek ''Arithmetic'', "... was not at all the 'arithmetic' of our own day, but what we would describe as 'theory of numbers' or possibly as 'higher arithmetic'." [NCTM ''Historical Topics for the Mathematics Classroom'' p.32] However, by the beginning of the 16th century the more "aristocratic" term arithmetic came to be applied to both disciplines. [Smith, ''History of Mathematics''] Modern authors will sometimes use the term arithmetic for number theory to evoke the old Greek meaning of the term, but this is poetic license and not common usage. A usage such as ''arithmetical'' algebraic geometry is alluding to the logistic aspect of the subject. I think that the current section needs to be tweaked to avoid its current POV. [[User:Wcherowi|Bill Cherowitzo ]] ([[User talk:Wcherowi|talk]]) 16:38, 20 June 2014 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Arithmetic]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=785337971 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20110413234352/http://web.mat.bham.ac.uk/C.J.Sangwin/euler/ to http://web.mat.bham.ac.uk/C.J.Sangwin/euler/
+*Added archive https://web.archive.org/web/20070713083148/http://mathdl.maa.org/convergence/1/ to http://mathdl.maa.org/convergence/1/
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 23:46, 12 June 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Arithmetic]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=793562899 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20150504004020/http://www.lloffion.org.uk/docs/walkingames_arithmetic/walkingames_arithmetic.pdf to http://www.lloffion.org.uk/docs/walkingames_arithmetic/walkingames_arithmetic.pdf
+*Added archive https://web.archive.org/web/20150504004020/http://www.lloffion.org.uk/docs/walkingames_arithmetic/walkingames_arithmetic.pdf to http://www.lloffion.org.uk/docs/walkingames_arithmetic/walkingames_arithmetic.pdf
+*Added {{tlx|dead link}} tag to http://www.mathematicallycorrect.com/glossary.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 14:53, 2 August 2017 (UTC)
+{{Automatic archive navigator}}
+
+== '''"Exponentiation" & "square roots"?''' ==
+
+Binary operations exists in pairs of inverses.  The first- addition and subtraction; the second- multiplication and division; the third- involution (also called "exponentiation") and evolution.
+
+The term "exponentiation" is awkward because there is no linguistically-logical inverse term available.  [[User:OmegaMan|OmegaMan]]
+
+: &#8220;taking the [[logarithm]] of&#8221;? [[User:Mfc|mfc]]
+
+:: Although exponential and logarithmic functions are certainly inverses, there is no binary operation known as or similar to "taking the logarithm". [[User:OmegaMan|OmegaMan]]
+
+:: Assuming, from the discussion below, you are using ''binary'' in the sense ''dyadic'', then that rather depends on how one defines the operation.
+
+::For example, for almost any practical implementation of a function there is a defined ''context'': division without a context is only tractable if the answer is a rational pair&mdash;where one might argue that the division has not been effected.  So division is really a trinary operation.  And a log function needs to provide the base (and often other information, in practice).
+
+::'''x=y log 10''' might be one way of requesting logarithm of y in base 10.   
+
+The term "square roots" is clearly inadequate to describe a binary operation whereby roots can be extracted by any arbitrary amount.  [[User:OmegaMan|OmegaMan]]
+
+: square root is a bit of a special case, as it is included in [[IEEE 754]], which is often thought of as an arithemtic standard.  I'll see if I can rework that paragraph to make it clearer. [[User:Mfc|mfc]]
+
+: [[binary]] operations usually refer to those done on 0 and 1. Please do not confuse the issue. [[User:Dori|Dori]] 17:33, Nov 25, 2003 (UTC)
+
+"Base 2" or "a binary base" or simply "binary" are what you are inaccurately referring to.  Note that "binary operation" is a compound term with a distinctly different meaning.
+
+"Binary operations" are defined at this moment as such in their Wikipedia entry.  [Perhaps it carries some weight with you?]
+
+"In mathematics, a binary operation, or binary operator, is a calculation involving two input quantities and one kind of a specific operation. It is sometimes called a dyadic operation as well. 
+
+More precisely, a binary operation on a set S is a binary function from S and S to S, in other words a function f from the Cartesian product S × S to S."
+_________________________________________________________________________
+
+"Typical examples of binary operations are the addition and multiplication of numbers and matrices as well as composition of functions on a single set."
+__________________________________________________________________________
+
+"Binary operations are often written using infix notation such as a * b, a + b, or a · b rather than by functional notation of the form f(a,b)."
+________________________________________________________________
+
+The following definition is currently on the Wikipedia entry for "arithmetic"-
+
+"Arithmetic is a branch of mathematics which records elementary properties of certain arithmetical operations on numbers."
+
+This is an empty definition because it relies upon the term "arithmetical operations" to define the term "arithmetic".
+
+(Omitted an inappropriate remark.)
+
+[[User:OmegaMan|OmegaMan]]
+
+:I realize that there is more than one definition of binary, but the 1 and 0 one is more prominent and it is likely to confuse the readers. If you could explain it better, than maybe it could be used. You have to remember that this is an encyclopedia and the readers are not likely to be well versed in math. The first paragraph at least should probably be a general idea that describes the subject in the least confusing terms possible. Perhaps if you explained the term binary in this context later in the article, it would be more helpful and it could be used. I did not mean to imply that you do not understand the field (I am a math minor myself).
+
+:P.S. Consider getting an [[Wikipedia:How_to_log_in|account]] if you would like to be credited with your attributions. It also makes communication easier. 
+
+:regards, [[User:Dori|Dori]] 19:56, Nov 25, 2003 (UTC)
+
+I approve of your revision, Dori.
+Thank you.
+I took your advice.
+From this day forward ... I am OmegaMan.
+
+[[User:OmegaMan|OmegaMan]]
+
+
+::
+How about putting up something like this :
+
+===Examples===
+*Addition: <tt>2+2=4</tt> and Subtraction: <tt>4-2=2</tt>
+*Multiplication: <tt>4&times;4=16</tt> and Division: <tt>16÷4=4</tt>
+*Logarithms: <tt>log_10 1000 = 3 </tt> and Exponentials <tt>10^3=1000</tt> (maybe add 3rd root of 1000 = 10)
+
+(Maybe with a comment about the duality of these operations, and something about roots (perhaps just mentioning the n-th root of x is x^(1/n))
+
+
+----
+Hm. I tend to think of arithmetic as the symbol-manipulating procedures on numerals ... but I admit that the fundamental theorem of arithmetic is about something deeper than that, so it may be too narrow. [[User:142.177.23.79|142.177.23.79]] 23:40, 14 May 2004 (UTC) (My degree was in maths but all my education's Canadian, so ignore it. =p )
+
+----
+Can anyone explain what on earth "arithmetic" (in the sense of this article) has to do with "change"??
+
+----
+''Arithmetic is a branch of (or the forerunner of) mathematics which records elementary properties of certain operations on numerals.''
+:Completely inaccurate. "Arithmetic" has 2 distinct senses:
+:*The study and practice of computational algorithms involving certain operations on integers and other numbers. These typically include +, -, *, ...etc., etc. The focus here is on the ALGORITHMIC and COMPUTATIONAL nature. This type of arithmetic is not an exploration of "properties of certain operations". It is simply the application of algorithms which implement the operations.
+:*Number theory (MODERN, as well as "elementary"). The study of the properties of the integers, esp. related to primality, divisibility, etc., etc., as well as any of the outgrowths of modern research that have developed as a result of this study.
+:These are 2 different things. Saying "which records elementary properties of certain operations", makes it sound like a fuzzy combination of both. The first sense only records results of applying algorithms, not "properties", the second records properties of operations, but much more (not just "elementary properties", not just "operations", etc.) The definition at the start manages not to get EITHER sense correct.
+
+== Greek "Arithmetic" ==
+
+At the beginning, the Greek spelling "αριθμός" appears (on my Firefox 1.0.4, Linux FC 2) to have two non-greek letters at the end.  The next to the last letter appears to be letter o with an accute accent, and the last letter appears to be a c with a cedilla.  Was it meant to be "omicron" "zeta"?--[[User:Tdvance|Todd]] 17:43, 9 May 2006 (UTC)
+
+:The last two letters are "omicron with an acute accent" and "sigma", which indeed appear as you described (the letter [[sigma]] has an alternate form when it comes at the end of a word). -- [[User:Jitse Niesen|Jitse Niesen]] ([[User talk:Jitse Niesen|talk]]) 01:19, 10 May 2006 (UTC)
+
+==Is Arithmetic Trivial?==
+Research mathematicians like my colleagues and I generally consider the arithmetic algorithms not as a tedious school subject, but as the living heart of algebra.  Abstract algebra was not cut out of whole cloth by Galois or Kummer or Hilbert.  The ring axioms of associativity, distributivity, etc, are what make the standard algorithms work:  understanding the algorithms essentially means understanding these properties, which is half-way to abstract algebra.  Furthermore, the recent movement toward computational algebra and algebraic geometry (Grobner bases), is a direct continuation of the genius of the arithmetic algorithms.
+
+:I agree that there's a lot of beauty and elegance in the algorithms themselves, and the relationship to abstract algebra is clear.  There's plenty of documentation in the computational complexity studies to indicate that some computer algorithms for multiplication ([[Strassen]] etc.) were only developed after a more full understanding of abstract algebra.  But is there any reliable documentation to show that the development of ring theory, field theory, and aa in general was influenced by a desire to understand the school algoirthms for arithmetic in general?  In other words, which preceded the other?  Thanks.  --[[User:M a s|M a s]] 22:16, 12 May 2006 (UTC)
+
+==Thanks==
+I wanted to thank those people who have worked on this "core topic", it now looks so much better than when I read it in October!  I think we'll probably be able to include it on the test CD release when you're finished with it.  Thanks a lot! [[User:Walkerma|Walkerma]] 07:36, 27 May 2006 (UTC)
+
+== History ==
+
+I would like to work on the history of arithmetic, but I'm worried that it will take me too far afield.  I think the scope should be limited to arithmetic that can be performed with up to only pencil & paper (e.g. no [[Napier's bones]], no multiplication using trig functions, and certainly nothing electronic.)  This would include finger math, the [[Russian peasant multiplication|Russian peasant algorithm]] algorithm, and (a few others after I think about it.)  And also, limited to addition, subtraction, multiplication, division, and square roots.  Thoughts? --[[User:M a s|M a s]] 01:34, 5 May 2006 (UTC)
+
+
+Good edits, 35 / Pmagyar.  --[[User:M a s|M a s]] 00:47, 9 May 2006 (UTC)
+
+:I agree. [[User:Meekohi|Meekohi]] 00:53, 9 May 2006 (UTC)
+
+Have deleted the starting paragraph, 
+"Recent experiments in cognitive science {{Fact|date=April 2008}} have shown that even infant humans have an [[subitize|innate ability]] to add and subtract small numbers (up to about five.)  Linguistic evidence suggests that all cultures have had the concept of numbers greater than five, and the words for various numbers are in many languages simple additions (or in rare cases subtractions) of small numbers."
+
+The phrase "recent experiments" does not give a good introduction to history. "Cognitive science" can tell us about history but would need rather more discussion. The sentence on "linguistic evidence" is rather short considering it heads the section on "history".
+
+[[User:Mikeliuk|mikeliuk]] 18:20, 20 May 2006 (UTC)
+
+:Thanks for the comments Mike.  I was trying to create a case (which many people believe, and have argued better than I have) that concepts of arithmetic are innate or at least predate written or recorded history - hence the connection to the experiments in subitizing, and also the connection to linguistic evidence.  Is it your sense that such an argument should be integrated into the history section, or are you saying that a "prehistory" preamble doesn't belong?  Thanks!  --[[User:M a s|M a s]] 16:48, 22 May 2006 (UTC)
+
+Sorry that the original comments were terse :)  There should certainly be something about the observation that humans have a tendency to show understanding of number; both at very young ages (an innate understanding or an innate predisposition to formulating concepts of number), and this understanding is seen to develop independently in geographically separated civilizations.  The proper place for ideas of innateness should probably be in the unfortunately titled [[elementary arithmetic]] (which is elementary in the sense that this branch of mathematics takes so much paper to outline that it could be in no way innate) where there is discussion of mental arithmetic and the arithmetical operations that one could argue are innate.
+
+[[User:Mikeliuk|mikeliuk]] 16:29, 28 May 2006 (UTC)
+
+== '''Arithmetic and number theory''' ==
+
+According to the wikipedia entry on [[number theory]], (the sense of the term) arithmetic is not to be confused with (the sense of the term) [[elementary arithmetic]].  It seems that a lot of the material under arithmetic pertains solely to [[elementary arithmetic]].
+
+(corrections made)
+
+[[User:Mikeliuk|mikeliuk]] 04:58, 22 May 2006 (UTC)
+
+: Actually what the [[number theory]] article cautions is not to confuse the various senses of the term arithmetic:
+
+:<cite>The term "arithmetic" is also used to refer to number theory. .... This sense of the term arithmetic should not be confused either with elementary arithmetic, or with the branch of logic which studies Peano arithmetic as a formal system.</cite>
+
+:I do think there is a lot of good stuff in [[elementary arithmetic]] and am concerned that this article might evolve to duplicate much of what is there. 
+So we should probably try to be clear about what should go in which article. [[User:JakeVortex|Jake]] 17:59, 22 May 2006 (UTC)
+
+Probably not a lot of progress to be made until someone turns up who actually does arithmetic in a sense other than the sense of elementary arithmetic.
+
+[[User:Mikeliuk|mikeliuk]] 16:36, 28 May 2006 (UTC)
+
+There is currently no material here that cannot be put under either elementary number theory or elementary arithmetic. As such, this topic is superfluous. Arithmetic - in the broadest sense - is the set of properties one might associate with the integers. Yet arithmetic is in no way restricted to the integers. For instance, "arithmetic of elliptic curves" describes the point of view of treating points on elliptic curves as integers, whereas "arithmetic in rings" describes the use of number theoretic properties (such as divisibility and irreducibles) in general rings (usually in Dedekind domains where the definitions make most sense). If we are to make the topic of arithmetic different from that of number theory and elementary (aka pre-school) arithmetic, I suggest this is the most appropriate route to take. [[User:217.155.61.70|217.155.61.70]] 18:01, 7 June 2006 (UTC)
+
+:Strange enough, all commentors here agree that "arithmetics" should not be confused with "elementary arithmetics", yet this persists on the main page.
+:I think operations like + , - , x , / should definitely be discussed ''there'', not here. &mdash; [[User:MFH|MFH]]:[[User talk:MFH|Talk]] 22:42, 3 November 2006 (UTC)
+
+== what is arithmetics? ==
+
+This page should be much more of a disambiguation page:
+* [[elementary arithmetic]]s (i.e. numeric calculations)
+* ("basic") arithmetics ([[greatest common divisor]], [[least common multiple]], ... at high shool level) : this is definitely '''''not''''' number theory !!
+* [[number theory]] (really 'advanced' arithmetics, maybe (not necessarily) such as used for proving [[Fermat's theorem]]
+* [[Modular arithmetic]], the arithmetic of congruences.
+* [[floating-point arithmetic]], the arithmetic performed on real numbers by computers using a fixed number of bits.
+* [[nonstandard arithmetic]].
+* ...
+Unless it is not a disambiguation page, it should be about the second point, and not about the first one which already has a page on its own. &mdash; [[User:MFH|MFH]]:[[User talk:MFH|Talk]] 23:02, 3 November 2006 (UTC)
+
+== "opposite" terminology ==
+
+the statements that ''Subtraction is essentially the opposite of addition...'' and ''Division is essentially the opposite of multiplication...'' probably need to be removed, since the definition of an opposite to an operation isn't given.  it might be a simple way for schoolchildren to remember ("when i add two numbers, the result is bigger.  when i subtract two numbers, the result is smaller"), but i don't think that is a mathematically rigorous definition, though i may be wrong.  in fact, i'd be happy to find out that i am wrong and see an article on it, either old or newly created :) [[User:192.223.226.6|192.223.226.6]] 16:14, 29 December 2006 (UTC)
+
+== Egyptians - explain my reverting ==
+
+I reverted Milogardner's edits, then put back his reworked sentence about the Egyptians. Saying 'It is clear that Babylonians and Egyptians..' doesn't work for two reasons. Firstly the next sentence starts 'Likewise' and goes on to talk about Egyptian maths, and compare it to Babylonian maths. This doesn't make sense if the Egyptians have already been mentioned. Secondly, the first sentence claims 'historians cna only infer' the methods of derivation. But then the next sentence goes on to explain how the Egyptians did their arithmetic! If the Egyptians 'aren't given enough credit' in this paragraph, it needs to be properly reworked, and not butchered by a casual edit. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Via strass|Via strass]] ([[User talk:Via strass|talk]] • [[Special:Contributions/Via strass|contribs]]) 11:22, 14 January 2007 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+== Multiplication table ==
+
+Why are the entries in bold as they are (5x5, 5x10, 5x15, 5x20, but not 5x25, then 10x5, 10x10, etc.)? It would make more sense to make the perfect squares bold. -- [[Special:Contributions/12.116.162.162|12.116.162.162]] ([[User talk:12.116.162.162|talk]]) 19:47, 5 June 2008 (UTC)
+
+== Peano? Russell? ==
+There is no mention of either [[Giuseppe Peano]], or [[Bertrand Russell]] in this article. I think they both deserve at least a passing mention. [[User:Gregbard|Pontiff Greg Bard]] ([[User talk:Gregbard|talk]]) 20:14, 22 April 2008 (UTC)
+
+Along the same theme:
+
+The first mention of natural numbers is in the "Arithmetic in education" section more than half way down the page whereas "Elementary arithmetic" is more rigorous/mathematical in mentioning natural numbers in the second paragraph.
+
+Decimals are introduced before integers (which are introduced before natural numbers). The term non-negative is introduced before any mention of zero or positive/negative numbers. Powers and negative powers (comparatively advanced notation) are used to help explain decimal notation (comparatively simple notation)!
+
+[[User:Mikeliuk|mikeliuk]] ([[User talk:Mikeliuk|talk]]) 00:35, 19 December 2008 (UTC)
+
+== Decimal Arithmetic ==
+
+Am I being pedantic/awkward, but should "[a]lso, each position to the left represents a value ten times larger than the position to the right." be "nine times larger"?[[User:Ragnartheviking|Ragnartheviking]] ([[User talk:Ragnartheviking|talk]]) 02:04, 9 May 2010 (UTC)
+:No. Ten times larger than ten is 100. nine times larger than 10 is 90. Unless you're trying to say that there's a difference between "times larger" and "times as large as". I think that colloquially, these are the same. [[User:Cliff|Cliff]] ([[User talk:Cliff|talk]]) 21:31, 26 September 2011 (UTC)
+
+== Where is the arithmetic? ==
+
+For an article about arithmetic, this contains very few examples of it; it contains lots of algebra, though. The arithmetic operators should not be described using variables, they should have examples of arithmetic operations with actual numbers instead. [[User:Diego Moya|Diego]] ([[User talk:Diego Moya|talk]]) 18:23, 26 September 2011 (UTC)
+
+*Note that in general mathematics, the great subject of Arithmetic includes the variable operations of the "school algebra" and "number theory" you are referring to.
+*That said, this article should be written so that a pre-algebra audience can start on firm ground.
+[[User:RonPotato|RonPotato]] ([[User talk:RonPotato|talk]]) 18:33, 5 May 2012 (UTC)
+
+:I agree with what Ron has said - ideally the article should be written such that the pre-algebra reader can say "I'll skip that" without losing anything important.  Another option is to write two articles - "Arithmetic" and "Introduction to arithmetic" or "Arithmetic" and "Theoretical foundations of arithmetic".  If people think two articles is the way to go, it might be worthwhile for me to pass on the expereince I had when I rewrote the article [[Metric system]].  I felt that the rewrite was rather high-brow so I wrote a second article [[Introduction to the metric system]].  It is interesting to note that the original article gets about 2000 hits a day, but the introductory article (which probably contains more information relevant to non-academics) only gets about 30 hits a day.  (BTW, if anybody wants to check the hit rates out for themselves, please note that they were distorted earlier on this year when there was an edit war involving an editor who is now banned). 
+
+:Given my experience with the metric system articles, I would recommend writing "Theoretical foundations of arithmentic" as a partner for the article "Arithmetic" rather than "Introduction to arithmetic". [[User:Martinvl|Martinvl]] ([[User talk:Martinvl|talk]]) 20:16, 5 May 2012 (UTC)
+
+== Algebraic operations ==
+
+You recently added a table of algebraic operations to the [[arithmetic]] article. I'm not sure it fits there, but how about moving this stuff to a new article [[algebraic operation]]? It would fit nicely with the article [[algebraic expression]]. By the way, the last two rows in the table are properties, not operations. [[User:Isheden|Isheden]] ([[User talk:Isheden|talk]]) 09:05, 21 September 2012 (UTC)
+
+:I've taken the liberty of moving [http://en.wikipedia.org/w/index.php?title=User_talk:Iantresman&diff=513844999&oldid=512670679 your post] to this article talk page, where it seems more relevant. You have a good point. The table originally came from the [[elementary algebra]] page, where it seemed a little too detailed, and may do here too. I thought about a new article on algebraic operations, but (a) I wasn't sure I could justify a dedicated article (b) it seemed very similar, and overlapped with the section in Arithmetic. Certainly the last two rows of table (properties) can be removed. Shall we wait to see what others might suggest, I don't feel too strongly about it, but I think the table is useful, somewhere. --[[User:Iantresman|Iantresman]] ([[User talk:Iantresman|talk]]) 10:22, 21 September 2012 (UTC)
+
+::Yes, the table is useful, but I would place it in the article that [[algebraic operation]] links to. If this article is chosen, the table should be put at the end in a section called Generalizations or similar. [[User:Isheden|Isheden]] ([[User talk:Isheden|talk]]) 10:31, 21 September 2012 (UTC)
+
+:::I agree with [[User:Isheden|Isheden]].  I would also point out that the entry on exponentiation is incomplete - it should either not be in the table, or it should deal with the case ''a<sup>n</sup>'' where ''n'' is an integer.  Also, if we are dealing with exponents, then we need to have the inverse function present as well - the [[logarithm]].  Alternatively, leave exponentiation out altogether. [[User:Martinvl|Martinvl]] ([[User talk:Martinvl|talk]]) 10:40, 21 September 2012 (UTC)
+
+::::Note that only exponentiation to a rational exponent (''n''/''m'') is considered an algebraic operation, so the inverse operation is exponentiation to the reciprocal ''m''/''n''. [[User:Isheden|Isheden]] ([[User talk:Isheden|talk]]) 10:53, 21 September 2012 (UTC)
+
+:::::Could you clarify a bit more on what is meant by an algebraic operation, with a couple of examples of what is not? --[[User:Iantresman|Iantresman]] ([[User talk:Iantresman|talk]]) 11:14, 21 September 2012 (UTC)
+
+::::::What is meant by an algebraic operation can be deduced from the definition of an [[algebraic expression]]: addition, subtraction, multiplication, division and exponentiation to a power that is a rational number. That is precisely what your table lists, although the entry on exponentiation does not explicitely mention that the exponent must be rational. Examples of operations that are not algebraic are exponentiation by an irrational exponent (such as raising 2 to <math>\sqrt{3}</math>) and taking the logarithm. [[User:Isheden|Isheden]] ([[User talk:Isheden|talk]]) 12:06, 21 September 2012 (UTC)

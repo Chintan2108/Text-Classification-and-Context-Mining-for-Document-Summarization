@@ -1,0 +1,273 @@
+{{talkheader}}
+{{DelistedGA|2005-10-24, 10:30:45|oldid=26049890}}
+{{WikiProject Computing|class=C|importance=Mid|software=yes|software-importance=High}}
+
+== Older comments ==
+I will be doing some work on this page in the (near) future... in particular things like RMS need to be split out into their own pages (RMS isn't VMS-specific), and there's quite a bit more that could be said (see glossary list for some examples...). [[User:Lady Lysine Ikinsile|Lady Lysine Ikinsile]] 03:16, Jun 8, 2004 (UTC)
+
+When you do this edit, please note that Cutler was not a solo designer of VMS, it was a team effort, of which he was a member.  I do not have the whole list available, unfortunately.
+[[solak]] 18:21, Jul 16, 2004 (UTC)
+
+==Peter Conklin?==
+IIRC, Peter Conklin was also a member of VAX-A, although I can't remember whether his contribution was on the software, hardware, or overall system-architecture side(s). Perhaps someone who really knows can chime in?
+
+[[User:Atlant|Atlant]] 03:16, 20 Mar 2005 (UTC)
+
+== Missing information ==
+I don't know anything about computers, but i love browsing wikipedia to learn more.  I've heard of VMS, but after reading this article I still don't know what it is or what it's good for or why it existed or if it still exists or who uses it and why - these are important things in an encyclopedia article, and i hope somebody adds them. [[User:ZacharyS|ZacharyS]] 17:30, 8 August 2005 (UTC)
+
+Added. -Hoff, 27-Nov-2006
+
+OpenVMS is used by hospitals including the New Orleans Veteran's Administration Hospital and East Jefferson General Hospital.  It is also used by the U.S. Navy Reserve for a part of their personnel records management process.  Monsanto used it for a long time as a central system for agricultural research, though I must admit I've lost track of my contact at the St. Louis Monsanto facilities.  Hubble image processing was managed by an OpenVMS for a while though with the Hubble telescope in its declining years, I don't know what they are using now.  Again, I've lost track of my contact at LRL.  Some OpenVMS machines were used at the Stennis facility in southern Mississippi to do image processing (using a variant of the Patterson Projection algorithm that computes shapes given reflection data.)
+
+If you visit the OpenVMS support page at HP you will see lots of European and Asian posts to go with USA sites.
+
+[[User:The Doc Man|The Doc Man]] 18:10, 8 March 2007 (UTC)
+
+OpenVMS is (or was) used everywhere.  It is an operating system similar to Unix with a similar file system but also superior because it is very consistent and extremely well documented.  VMS was always a commercial product unlike Unix.  The only thing missing from VMS that Unix has is pipes and there are various workarounds using files and DCL.  VMS files have version numbers and ACLs.  DCL (the scripting language) provides similar functionality to Unix shells (C Shell, Korn Shell, etc.). VMS developers went on to create Windows NT. 
+
+:For my sins I am using OpenVMS V7.3-1 and it ''does'' have a PIPE command.  I'm not sure when this appeared, or even whether it isn't a third-party product.  It wasn't available on whichever version I was using in my previous job. [[User:Mr Larrington|Mr Larrington]] ([[User talk:Mr Larrington|talk]]) 14:34, 27 September 2011 (UTC)
+
+::The Pipe command is part of OpenVMS and was added sometime in the last 10 years. The syntax (and I suspect how it works) differs from UNIX, but it's still handy. Still using VMS every day to print property tax bills, payroll, and lots of other tasks around here. ''''  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/107.0.6.162|107.0.6.162]] ([[User talk:107.0.6.162|talk]]) 18:48, 29 August 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+Could we add in a comparison to Unix?  Could we put in information about TDMS? There is stuff about DecForms and FMS. [[User:talk|talk]] 10:41, 20 June 2008 (UTC)
+
+UNIX doesn't have proper locking.  And it both was and is commercial.  Linux isn't UNIX, though I think it's been made to be as UNIX-like as possible. - [[User:Denimadept|Denimadept]] ([[User talk:Denimadept|talk]]) 22:46, 11 September 2014 (UTC)
+
+== Delisted GA ==
+There are no references. [[User:Slambo|slambo]] 10:30, 24 October 2005 (UTC)
+
+=== Eh? ===
+There are plenty of cross-references to other sources of information about VMS.  Are you just saying that there's no "section" labeled '''Sources'''?
+: [[User:Solak|Solak]] 17:44, 4 November 2005 (UTC)
+
+I expect this was the "good article" de-listing.  As for what "there are no references" means, Slambo might want to elaborate on that detail. -Hoff 27-Nov-2006.
+
+:First, apologies for taking so long to reply; I don't have this page on my watchlist.  An anon left a note on my talk today requesting clarification.
+:Links to other Wikipedia articles are not considered references.  An External links or See also section does not indicate to the reader that the resources mentioned there were used as references in creating the article; the items listed therein are assumed to be places where a user might find more information that isn't necessarily contained in the article.  All source material that is used to create an article needs to be listed in a separate References section with appropriate inline citations to correlate the references to specific, verifiable statements in the article text.  The relevant guidelines here are [[Wikipedia:Verifiability]] and [[Wikipedia:Citing sources]]; the templates in [[:Category:Citation templates]] can also be used to present a uniform appearance to the references that are cited.  In general one citation per paragraph has been mentioned when discussing citation requirements for [[Wikipedia:Good articles]] (the archives of [[Wikipedia talk:Good articles]] and [[Wikipedia talk:WikiProject Good articles]] include several discussions about references).  Wherever possible, it's best to use resource material that is published in paper form (books and journal articles) versus strictly online form; since the OpenVMS name has been in use since (according to the article) at least 1991, there should be plenty of dead-tree edition titles to make a well resourced reference list.
+:Please keep in mind that the Good articles criteria now includes (as of Summer 2006) a requirement for inline citations to verifiable references.  If you're working toward [[Wikipedia:Featured articles|Featured]] quality, this requirement is even more necessary.
+:For examples of what I'm thinking of for articles about software, both the [[GNOME]] and [[KDE]] articles contain what I would consider a good amount of references, and the [[TeX]] article is even better with several printed resources by different authors in its references list. [[User:Slambo|Slambo]] <small><font color="black">[[User talk:Slambo|(Speak)]]</font></small> 21:21, 30 November 2006 (UTC)
+
+I find it amusing &mdash; even verging on the ironic &mdash; that a Wikipedian would be seeking “dead-tree” references, particularly for an article on computing technologies.  That aside, there are now added numbers of references to these “dead-tree” resources &mdash; both in-line and in a new bibliography at the end of the article &mdash; though these “dead-tree” references far more difficult to locate than the on-line references.  (There are far more books on trains and on train-spotting in your average bookstore than there are on OpenVMS, for instance.)  There are now yet more on-line references added, as well.  Both in-line references, and at the end of the article.  -Hoff 3-Dec-2006
+
+Regarding Solak's comment about "sources" - I started in the computer industry in the mid-1970s using the PDP-11 computer and the RSX-11M operating system.  This was a mini-computer environment with a maxi-computer attitude.  If any source can be named for the VMS code, it must be pointed out that VAX/VMS owes its existence to the STAR project as an extension of RSX-11.  Many of the commands and internal operating system calls from RSX-11 are directly available in OpenVMS.  The call formats are similar in many ways, and even the memory pagination controls are recognizable.  For instance, the event flag calls are nearly identical in concept.  The QIO calls are the same.  I/O synchronization with event-flag waits, an I/O status block, and calls to create or delete processes all match up.  Though the code is not identical due to instruction size differences, conceptually, RSX-11 is VMS's direct ancestor.  But then, people don't always remember that VAX is an acronym for Virtual Address eXtension.  The thing that was extended was the PDP-11 architecture.  - The Doc Man - 19 May 2013  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:The Doc Man|The Doc Man]] ([[User talk:The Doc Man|talk]] • [[Special:Contributions/The Doc Man|contribs]]) 04:05, 20 May 2013 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Standards ==
+It should be worthwhile to link basic VMS technologies like FMS, RMS etc to their ANSI/ISO standards.  For example, FMS is based on an older text console handling / layout standard. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:64.128.27.67|64.128.27.67]] ([[User talk:64.128.27.67|talk]] • [[Special:Contributions/64.128.27.67|contribs]]) 22:27, 5 May 2006  (UTC2)</small>
+
+RMS isn't an ANSI/ISO standard, and has no relationship to same.  Several hunks underneath RMS, such as the magtape and CD-ROM processing, do have associated standards.  FMS is a layered product, and not part of OpenVMS itself.  I've added a list of various of the applicable ISO/ANSI/FIPS/FED standards claimed by the HP OpenVMS folks, and it may or may not be complete or current.   -Hoff 27-Nov-2006.
+
+== Unicode ==
+
+What kind of support does OpenVMS have for Unicode? <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:68.116.98.179|68.116.98.179]] ([[User talk:68.116.98.179|talk]] • [[Special:Contributions/68.116.98.179|contribs]]) 18:08, 10 September 2006  (UTC2)</small>
+
+Relatively minimal.  See the current C Run-time library reference manual at http://www.hp.com/go/openvms/doc/ for details on the wide character and related character conversion support.  The file system on current releases (when ODS-5 is selected) can have Unicode characters within the filenames, though this is only used by a very few select products.  Within the file contents, you can store whatever data you want, whether Unicode or otherwise.  Most tools that process files do not have Unicode support.  (I did not add this discussion into the edit I just did.)  -Hoff 27-Nov-2006
+
+== OpenVMS support being wound way down ==
+
+[http://www.theinquirer.net/default.aspx?article=34342] If VMS is all but unsupported starting next week, this may deserve mention in the article - [[User:David Gerard|David Gerard]] 13:48, 18 September 2006 (UTC)
+:The Inquirer article does not say that support is being wound down. It does suggest some support is moving to call centres in India which isn't the same thing. My insurance company handles my calls in India but that doesn't mean it's winding down. In any case The Inquirer has reported this news before so we just have to wait and see.[[User:Citizensmith|Citizensmith]] 14:10, 18 September 2006 (UTC)
+
+HP has documented software support plans through (at least) 2011, per its published roadmaps.  See the current OpenVMS roadmap available at [http://www.hp.com/go/openvms/] for current details.  -Hoff 27-Nov-2006
+
+I think it's fair to say that VMS's userbase has been declining rapidly for at least a decade, and that HP will drop it as soon as its contractual obligations expire.  It'd be useful if the page made some mention of this.  [[User:Mkcmkc|Mkcmkc]] 22:11, 7 March 2007 (UTC)
+
+:You'd need a [[WP:RS|reliable source]] and H-P probably isn't talking and [[Terry Shannon]]'s dead. You'll know support has ended the day that H-P announces it to the remaining customer base.
+
+:[[User:Atlant|Atlant]] 23:46, 7 March 2007 (UTC)
+
+There has been a lot of talk about OpenVMS support being wound down, but it is still alive and kicking as of this date (19-May-2013).
+The Doc Man - 19-May-2013
+
+As of July 2013, HP announced they're ending OpenVMS support in 2020.[[Special:Contributions/107.0.6.162|107.0.6.162]] ([[User talk:107.0.6.162|talk]]) 18:53, 29 August 2013 (UTC)
+
+And at 31 July 2014 it has come back to life with VMS Software Inc licensing future development, which will include x86 port  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.26.172.217|86.26.172.217]] ([[User talk:86.26.172.217|talk]]) 20:47, 31 July 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Security Evaluations ==
+
+"High level of security with versions evaluated at DoD NCSC Class C2 and, with the SEVMS security enhanced services support, at NCSC Class B1, per the NCSC Rainbow Series"
+
+I think some links or references to that statement need to be added, its not that i doubt it. 
+ [[User:Allix|Allix Davis]]    Thu Sep 21 13:27:00 BST 2006
+
+:Howzabout:
+
+:*http://h71000.www7.hp.com/wizard/wiz_6600.html?jumpid=reg_R1002_USEN
+
+:[[User:Atlant|Atlant]] 12:58, 21 September 2006 (UTC)
+
+NCSC and Common Criteria citations added.  -Hoff 27-Nov-2006
+
+== Logo ==
+
+Whilst there have been shark logos associated with OpenVMS in the past, the one shown currently on the article is a copyvio from a Japanese (?) artist.  The image is likely lifted from a Hobbyist site, I'm not sure who originally adapted the image to associate it with VMS, but it does have its afficianados. --[[User:Brianmc|Brianmc]] 22:37, 7 October 2006 (UTC)
+
+There are other logos posted over at [http://www.openvms.org/pages.php?page=Logos].  I do not know what copyrights are in effect for those materials, or for the [http://h71000.www7.hp.com/swoosh.jpg] "official" logo over at the HP OpenVMS web site.  AFAIK, the swoosh is the only current HP official logo.  The shark logos aren't current or official, per various HP folks.  I'll leave it for somebody else to hack out the current shark logo.  -Hoff 27-Nov-2006
+
+: I was reminded of this issue because a recent editor pointed out that the logo is not a current HP logo. In fact, I don't believe that particular image it was ever used by DEC, Compaq, or HP. Plus, since that logo is copyrighted by Hajime Sorayama, I don't believe it should be used here at all -- I'm surprised the Wikipedia Copyright Police haven't cracked down on it yet. I've replaced it with the freeware shark image that was originally from [http://h71000.www7.hp.com/freeware/freeware40/vms_logo/]. -- [[User:CWesling|CWesling]] 04:57, 3 November 2007 (UTC)
+
+I don't know and don't care about the current logo, but back in the day of DECUS (Digital Equipment Corporation Users Society), which means 1980s and 1990s, the logo for VAX/VMS was the Cheshire Cat from "Alice in Wonderland," selected because he was a virtual cat.  Sometimes you could see the whole cat; other times, all you saw was the smile.  At least twice while attending a DECUS convention, I got a pin-on button of said cat.  It was a oss-up when you bought the button as to how much of the cat was on each button.
+The Doc Man - 19-May-2013  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:The Doc Man|The Doc Man]] ([[User talk:The Doc Man|talk]] • [[Special:Contributions/The Doc Man|contribs]]) 04:14, 20 May 2013 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Regarding the use of Digital Command Language ==
+
+<nowiki>
+In the main article, someone noted that some system operations can even be performed using the command scripting language, DCL.  This is true but doesn't cover the half of what DCL can really do.
+
+Because DCL uses the same exact string paradigms as BASIC and is capable of integer math, it is possible to do some very complex parsing and other types of analysis via the scripting language.  However, interpretive scripting overhead is ugly.  The neat part about DCL is that, since it is so close to BASIC, it is often trivial to whip up a quick-and-dirty script in DCL just to get it working, then convert it to compiled BASIC for efficiency.  The common language interface means you could also do the same for other target languages, but it happens that the BASIC string and file operations are so close to DCL that it is almost a "natural" prototyping environment.
+
+Further, DCL is capable of manipulating environmental variables, so it is possible to use DCL as a supporting environment for programs, making them much simpler.
+
+A feature not described very much in the main article is the LOGICAL NAME concept.  Other operating systems might refer to these as aliases.  In general, a logical name is a synonym for something else.  The logical name can list a single translation or multiple translations for the same name.  In the latter case, the name is referred to as a search list.
+
+Logical names can be used to generalize programs.  For instance, in UNIX environments, you can easily send input or output streams to / from files via various methods.  (Think STDIN and STDOUT.)  In OpenVMS, you can redirect SYS$OUTPUT to capture output files, or SYS$INPUT for input data streams, and other SYS$xxx logical names exist as well.  Thus, it is possible to use a script to redirect the standard input and output rather than having to make the programs smart enough to ask for or otherwise determine where files should be.
+
+Because logical names have scoping rules, it is possible to have a system-wide environment for something but then override it with a more localized scope of the same logical name.  For instance, a production ORACLE database might be defined at the SYSTEM level, but a given job might define the same exact symbol set to point to a test ORACLE database.  Because of scope search rules, the more localized versions "win" when they exist.  But if they don't exist, you see the SYSTEM-level names and use the production database instead.
+
+</nowiki>
+
+[[User:The Doc Man|The Doc Man]] 18:23, 8 March 2007 (UTC)
+Second edit to clarify - The Doc Man - 19-May-2013
+
+ISTR twenty-mumble years ago the tool requested by more DECUS members than any other was a DCL compiler, but an unrepentant DEC refused to provide one on the grounds that if the user wanted a compiled language for the sort of tasks typically undertaken using DCL procedures, there were already plenty available.  In a previous life, when even Alpha CPU power was a bit limited for the task at hand, I spent a good deal of my time rewriting DCL procedures in FORTRAN.  No, don't laugh. [[User:Mr Larrington|Mr Larrington]] ([[User talk:Mr Larrington|talk]]) 14:19, 29 September 2009 (UTC)
+
+== Worms ==
+
+I'm not an expert in the area, but I feel that there should be a section on [[computer worms]] that attacked VMS.  At least two I know of are the [[WANK (computer worm)|WANK worm]] and the [[Father Christmas (computer worm)|Father Christmas worm]].  ~[[User:AFA|AFA]] <sup>ʢűčķ¿</sup><sub>[[User_talk:AFA|Ю]]</sub> 11:39, 1 May 2007 (UTC)
+
+== ftp.digital.com ==
+
+It seems that HP has retired the server that runs ftp.digital.com. The announcement can be found here: http://h18002.www1.hp.com/alphaserver/options/asgs1280/asgs1280_options.html
+
+The ftp service is now inaccessible. The ftp.digital.com link at the bottom of this page should be replaced with another link that provides the same information if possible, or removed. [[User:Rilak|Rilak]] ([[User talk:Rilak|talk]]) 08:04, 28 February 2008 (UTC)
+
+== Process priorities and OS kernel jobs ==
+
+This is the fist time I have entered anything anywhere on Wikipedia, so please bear with me if I make a protocol error, or violate a guideline.  I am entering this comment in good faith to open for discussion what I believe is an inaccuracy in the OpenVMS article.  I am not wanting to make anyone "wrong" - rather, I am pursuing accuracy (see more comments at the end).
+
+In the second paragraph of the article on OpenVMS, this statement is made:
+
+OpenVMS is a multi-user, multiprocessing virtual memory-based operating system (OS) designed for use in time sharing, batch processing, real-time (where process priorities can be set higher than OS kernel jobs), and transaction processing.
+
+Most of this statement is accurate.  However, based on my knowledge of the OpenVMS operating system, and depending on precisely what the author of this statement intends to convey, I believe that the following part of this statement is inaccurate as a characterization of how the operating system schedules the CPU resource:
+
+real-time (where process priorities can be set higher than OS kernel jobs)
+
+OpenVMS schedules all processes, which have process priorities of 0 to 31, to execute at Interrupt Priority Level (IPL) 0 (zero), which is the lowest of the thirty-two system-level processing priorities.  Then all computable processes compete among themselves for the CPU, all at IPL 0, to execute based on which process currently has the highest process priority.  Everything that the OS needs to do to manage hardware interrupt requirements, and to schedule threads of software execution, is done at higher priority than any process-priority thread of execution.
+
+The only thing that even comes close to a process preempting an "OS kernel job" is that Asynchronous System Trap (AST) '''delivery''' occurs at IPL "ASTDEL," where ASTDEL is 2, I believe, and processes can trigger an AST delivery (to themselves or to another process).  However, the '''scheduling''' of process AST execution is done by the OS at that IPL (2), and there is nothing that executes at IPL 1, so the only thread of execution that an AST could preempt would be another process's AST code (or its OWN AST code, probably in another AST), not an OS kernel job.  I do not recall for sure, but I think the process either executes the AST at IPL 2 (I doubt it), or the OS, executing at IPL 2, '''schedules''' the process to execute the AST at its process's current process priority (interrupting the process's execution thread at the time of AST delivery).  I think that all the process code, including the AST, executes at the process's current priority, which runs at IPL 0, below all system-level processing.
+
+Correct me if you believe I am incorrect on any of my points here.  My knowledge of the OS is rusty nowadays, but I seriously doubt that process priorities can now preempt "OS kernel jobs," whatever that means, precisely.  Believe me, I am NOT out to make anyone "wrong," I just want the information published to be correct.  I could well be the one who is incorrect here, based on what the exact intended meaning of the original statement is.
+
+Thank you.  I look forward to someone commenting on my comments.
+
+
+[[User:DavidJohn|DavidJohn]] ([[User talk:DavidJohn|talk]]) 21:46, 19 June 2011 (UTC)
+
+:As far as I know, all user-mode code executes at IPL 0.  High IPL (anything higher than level 0) requires CMKRNL priv. [[User:Denimadept|Denimadept]] ([[User talk:Denimadept|talk]]) 20:37, 20 June 2011 (UTC)
+:: You are correct. User mode ASTs don't have any higher-priority access to the CPU than any other user mode code. A user-mode AST in a process at priority 12, let us say, can be pre-empted by non-AST user mode code in a process at priority 15. User mode ASTs run at IPL 0. The work to queue and deliver the AST is done in kernel mode at IPL ASTDEL; this is a serialization mechanism to make sure it doesn't "step on itself". [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 15:47, 13 March 2018 (UTC)
+
+From Burns Fisher, VMS Developer (retired) 18-Dec-2012:  I agree with the writer in essence.  "Real time" priority jobs have nothing to do with "interrupting the kernel".  As the writer suggests, I don't even really know what that means.  I would suggest the when this info gets transferred to the actual article, all mention of IPLs be expunged.  The writer is correct, but IPLs and process priorities are really quite different.  IPLs are, in fact, the priorities within the kernel, while process priorities describe how processes (or kernel threads) relate to each other.  As David John points out, without special dispensation, all user code runs at IPL 0, and I would add that this includes user mode ASTs.  This article is not about internals, so let's forget IPLs.
+
+To talk about real time priorities, we need to talk a bit about process priorities in general.  Each process (or kernel thread within a process) is assigned a priority between 0 and 63 (Alpha and Itanium) or 0-31 (VAX).  Priorities above 15 are called real time priorities; a process generally starts out around priority 3 or 4.  A process priority has several functions.  If a CPU is available, and if multiple processes are ready to run, then the process with the highest priority is the one which the scheduler chooses to run.  Further, if a process becomes ready to run but there are no CPUs available AND there is another process with a lower priority running, that lower priority process will be pre-empted (interrupted) to allow the higher priority process to run.  Process priorities can change.  If a process has been waiting a long time, it's priority is gradually raised to a higher value.  If a process completes an I/O under certain conditions, its priority is raised a bit.  If it has been running for a long time, its priority is lowered.   Ok so far?  So what about real-time processes?  They are just a process with a priority above 15.  It's pretty much the same as described above with a couple of differences:  1) Non-realtime processes can't become realtime by virtue of their priority being raised automatically.  2) Realtime processes can't be pre-empted, even by a higher priority realtime process.  In other words, once a realtime process is started, it runs until it voluntarily gives up control.  There are a few more things that differ in the priority modification algorithms, but those are the essential differences.
+
+So with all that said, I would edit the line in question to say "...real-time (where processes can not be pre-empted)...".  In fact I will do that now.
+
+<ref>
+Ruth Goldenberg and Denise Dumas, Open VMS Alpha Internals and Data Structures : Scheduling and Process Control : Version 7.0 (Difficult to find)
+Ruth Goldenberg and Saro Saravanan, OpenVMS AXP and Data Structures Version 1.5 
+</ref>
+
+The comments about setting real-time jobs to a higher priority than O/S kernel jobs is probably someone's misunderstanding of certain VMS functionality that has been split out into a separate process to support O/S functions.  If you have something called an ACP (Ancillary Control Processor) you can have a process that is an extension of the O/S but that runs in process context rather than O/S context.  You can set a real-time process to have a priority higher than an ACP priority if you wanted to do so.  It would be unwise to do that too often, though, because if you ever bumped the priority above 16, you risk interfering with SWAPER which manages memory in various ways.  There used to be an old saying about VAX performance - "When the VAX swaps, the world stops" - because when SWAPER had to sweep memory to initiate out-swaps, it did so at a priority higher than almost any other process on the system.  Therefore, it was not easy to interrupt SWAPER.  With the advent of multi-CPU and multi-core systems (that have multiple CPU threads running simultaneously), it becomes much harder to block SWAPER completely.  Also, a lot of things formerly in an ACP (such as the F11ACP for Files-11 support) are now in extended run-time libraries such as XQP (the eXtended QIO Procedures) that simply have become a shared library of code to handle as much as possible of the file system from user context.
+The Doc Man - 19-May-2013  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:The Doc Man|The Doc Man]] ([[User talk:The Doc Man|talk]] • [[Special:Contributions/The Doc Man|contribs]]) 04:26, 20 May 2013 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+: The claim that {{!xt|Realtime processes can't be pre-empted, even by a higher priority realtime process}} is incorrect. : The true differences between real-time and other processes are that 1) the OS does not perform automatic priority adjustment on them, and 2) they are not subject to ''quantum end'' (i.e. timeslicing). From IDSM version 1.5, page 374 (the very book ref'd by The Doc Man): 
+{{blockquote|A real-time process {{xt|executes until it is preempted by a higher priority process}} or it enters a wait state (see Section 13.4.3). A real-time process is not susceptible to quantum end [...] }}  
+: [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 15:47, 13 March 2018 (UTC)
+
+=== Priority and scheduling references ===
+<references/>
+
+== Role of VAX and VMS ==
+
+A reader having no prior VAX or VMS experience might be quite confused in trying to place these products in the larger computing context.  The first paragraph alone calls VMS &ldquo;a computer <u>server</u> operating system&rdquo;, compares it to ''other'' &ldquo;<u>mainframe</u>-oriented operating systems&rdquo;, and describes the VAX as a &ldquo;top-selling <u>workstation</u> line&rdquo;.  So is this about workstations, servers, or mainframes?  Or &ldquo;none of the above&rdquo;?, as the original 11/780 super-minicomputer didn't fit any of those categories.  Perhaps we should just withdraw the excessive adjectives and call it &ldquo;a computer operating system&rdquo;, which besides being less confusing, has the advantage of being more accurate.  :)  [[Special:Contributions/76.100.23.153|76.100.23.153]] ([[User talk:76.100.23.153|talk]]) 04:10, 22 October 2012 (UTC)
+:Yes, it's about all the above: workstations, servers, and mainframes.  The VAX line ran the whole gamut from desktop machines through minicomputers, to large systems like the VAX 9000.  And it still does, in the Alpha and Itanium world. - [[User:Denimadept|Denimadept]] ([[User talk:Denimadept|talk]]) 05:28, 22 October 2012 (UTC)
+
+The VAX 9000 was not a mainframe. It was a large mini. OpenVMS is not a mainframe operating system no matter how badly anybody wants it to be and no matter how much you try to change history.
+VMS is a server operating system. A mainframe is a server but not all servers are mainframes.[[Special:Contributions/87.68.42.34|87.68.42.34]] ([[User talk:87.68.42.34|talk]]) 20:45, 27 January 2015 (UTC)
+
+:Perhaps you'll explain how the VAX 9000 series wasn't a mainframe? - [[User:Denimadept|Denimadept]] ([[User talk:Denimadept|talk]]) 08:49, 28 January 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:2|one external link|2 external links}} on [[OpenVMS]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=678189528 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20090115092022/http://www.theminimumyouneedtoknow.com:80/about_java_on_openvms.html to http://www.theminimumyouneedtoknow.com/about_java_on_openvms.html
+*Added archive https://web.archive.org/20090115092536/http://www.theminimumyouneedtoknow.com:80/service_oriented_architecture_book.html to http://www.theminimumyouneedtoknow.com/service_oriented_architecture_book.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=true}}
+
+Cheers. —[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 22:07, 27 August 2015 (UTC)
+
+== See Also Sections ==
+...First, there are two independent "See Also" sections... not sure what's up with that. Also, the second one promises "Amusing [[Easter_egg_(media)|Easter Eggs]] found in older OpenVMS and other DEC products and Russian-language taunts lithographed into VAX chips.", but links to nothing except Easter Egg, which I'm pretty sure isn't what See Also is supposed to do. [[Special:Contributions/66.76.242.44|66.76.242.44]] ([[User talk:66.76.242.44|talk]]) 21:38, 12 April 2016 (UTC)
+:The article needs a lot of cleanup. It's a random accumulation of stuff. [[User:Kbrose|Kbrose]] ([[User talk:Kbrose|talk]]) 22:34, 12 April 2016 (UTC)
+
+== Port to Intel x86 Reports ==
+
+*{{Cite news |url=http://www.theregister.co.uk/2016/10/13/openvms_moves_slowly_towards_x86/ |title=VMS will be ready to run on x86 in 2019! |publisher=[[The Register]] |date=13 Oct 2016 |first=Richard |last=Chirgwin |accessdate=13 Oct 2016}}
+&ndash; [[User:ConradPino|Conrad T. Pino]] ([[User talk:ConradPino|talk]]) 15:21, 13 October 2016 (UTC)
+
+:Or just go to the VMS Software Web site, which the page does. [[User:Guy Harris|Guy Harris]] ([[User talk:Guy Harris|talk]]) 01:47, 28 October 2017 (UTC)
+
+== "Written like an advertisement"? Specifics requested ==
+
+User {{userlinks|Waggie}} has [https://en.wikipedia.org/w/index.php?title=OpenVMS&curid=32736&diff=786254053&oldid=785903005 added] an "advert" template. 
+
+It reads to me like a factual description of an operating system product. 
+
+I believe Waggie or others should provide specific complaints to support this accusation. Where is the "promotional content"? Where does it recommend VMS? What "inappropriate external links" are there? [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 08:55, 18 June 2017 (UTC)
+
+The topic appears factual, and is sourced.  Specific issues should be raised on the discussion page. [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 11:01, 18 June 2017 (UTC)
+:The third paragraph speaks at length of the features of OpenVMS, is ''clearly'' promotional, and completely unsourced: "When process priorities are suitably adjusted, it may approach real-time operating system characteristics. The system offers high availability through clustering and the ability to distribute the system over multiple physical machines. This allows the system to be tolerant against disasters that may disable individual data-processing facilities."
+:There's also: "Enterprise-class environments typically select and use OpenVMS for various purposes including mail servers, network services, manufacturing or transportation control and monitoring, critical applications and databases, and particularly environments where system uptime and data access is critical." which isn't supported by any source and also very promotional.
+:Also unsourced: "...features such as rolling upgrades and clustering allow clustered applications and data to remain continuously accessible while operating system software and hardware maintenance and upgrades are performed, or when a whole data center is destroyed. Customers using OpenVMS include banks and financial services, hospitals and healthcare, network information services, and large-scale industrial manufacturers of various products."
+:The entire "Clustering" sub-section appears to be sourced to a primary source (HP's website). The first paragraph in the "Programming" sub-section is almost entirely unsourced. The "Timekeeping" sub-section is also. "Debugging" has an external link to compaq.com. "C, Fortran and other languages are commercial products, and are available for purchase." in "Common Language Environment" is unsourced and '''clearly''' promotional.
+:Numerous external links reside in lede of the "Documentation" section. Overall, many of the sources are primary. HP is a primary source and not suitable for large tracts of content, Hoffman Labs is a primary source as well (they are not journalistic and they sell services directly related to OpenVMS - [https://web.archive.org/web/20160223111241/http://labs.hoffmanlabs.com/node/16 see here]).
+:As the problems are clear, I am restoring the tag. Please do not remove the tag without resolving these issues. Please review [[WP:RS]], [[WP:NPOV]], and [[WP:PRIMARY]]. Thank you! [[User:Waggie|Waggie]] ([[User talk:Waggie|talk]]) 15:54, 18 June 2017 (UTC)
+:: I'm not responding to a wall-of-text. Add some paragraph breaks, please. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 18:44, 18 June 2017 (UTC)
+::It's a wall-of-text, but no useful content. A constructive approach would have been to suggest improvements, rather than dismiss the entire topic.  [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 21:19, 18 June 2017 (UTC)
+:::I was asked for specifics to justify my addition of the advert maintenance tag and I did so. I was asked to re-format my response to aid readability, I did so. Suggesting constructive approaches to me is rather self-contradictory when you accompany it with contempt and also not bothering to respond to my concerns about the article. If you did not wish to collaborate, then why did you ask me to come to the talk page? [[User:Waggie|Waggie]] ([[User talk:Waggie|talk]]) 22:40, 18 June 2017 (UTC)
+:::: I will respond in more length later, but briefly: You have a case for more and better references needed on a few points, but not at all for "overly promotional". One of the things that differentiates WP from traditional encyclopedias is that we do include articles on commercial products. And such articles must necessarily describe those products. Some of the descriptions will  necessarily include statements that may be viewed as positive, i.e., reasons why one might consider buying the product. 
+:::: But simply mentioning the attributes and characteristics of a commercial product in an objective, descriptive, non-negative manner and tone is not what we consider "clearly promotional" here. (No matter how much you emphasize the word "clearly". Even using '''''both italics and boldface''''' won't help. Frankly, I laugh at such attempts at "argument by vigorous assertion". Drop them, please.) 
+:::: If it were, then we would have to remove just about every product description article that's here. (No, that is not an [[WP:OTHERSTUFF|"other stuff exists"]] argument. This is an "other stuff is pervasive through all of, and is practically a defining feature of, Wikipedia" argument.) 
+:::: Even if a product happens to be the first of its kind to provide some capability, saying so wouldn't be "promotional". "First to offer feature x", if true, is an objective fact. (But if we said "first and best", then that would indeed be promotional, unless we had some very very solid references.) 
+:::: Nor are primary sources a problem when they are only used for objective facts, as opposed to judgments and conclusions. 
+:::: In short I believe you need to review [[WP:NOTADVERTISING]] and then recalibrate your understanding of what is meant here by "overly promotional". [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 00:09, 19 June 2017 (UTC)
+:::::Thank you for your reply. Unsourced statements like "...features such as rolling upgrades and clustering allow clustered applications and data to remain continuously accessible while operating system software and hardware maintenance and upgrades are performed, or when a whole data center is destroyed. Customers using OpenVMS include banks and financial services, hospitals and healthcare, network information services, and large-scale industrial manufacturers of various products." are ''clearly promotional''.
+:::::Here's why: The first part is not "simply mentioning the attributes and characteristics of a commercial product in an objective, descriptive, non-negative manner and tone", it is a listing of supposedly impressive product features, if this was verifiable against a reliable source, then some slight re-wording and it would likely be acceptable - but without the reliable source it is promotional. The second part is a list of almost all major industries, it sounds quite impressive that so many industries would use this OS doesn't it? But what objective and useful information does that impart to the reader? If this was given in the context of what a reliable source might say about it, it might be OK, but again without a source, it's simply promotional.
+:::::I do not need to review [[WP:PROMO]], but thank you.
+:::::Wikipedia handles commercial products by sourcing information about them from reliable sources. We should not ever say "first to offer feature x" in Wikipedia's voice, unless the statement is cited to a reliable, secondary source - it is promotional of the subject otherwise. "First and best" would simply be a more egregious violation (unless cited to multiple, reliable sources, as "great claims require great sources").
+:::::You can laugh at me all you like, but I am intent on improving this article. If you feel the same, then we are on the same page. The more time we spend arguing semantics, paragraph formatting of talk page threads, and the use of character formatting for emphasis, the less time we spend improving the article.
+:::::How would you like to proceed in regards to improving the article? If you have reliable sources to provide for the unsourced and primary sourced content, feel free to add them, then we can work on cleaning up the verbiage. If you don't, I'd be happy to go through and remove the unsourced and poorly sourced content as appropriate then we can proceed from that point. Thank you for your time. [[User:Waggie|Waggie]] ([[User talk:Waggie|talk]]) 03:18, 19 June 2017 (UTC)
+::::::It seems to me you are saying "promotional" for many things that are merely "unsourced". I have some queries out to people who have maintained contact with VMS for far longer than I have... we'll see what they find in the way of sources. Much of what we're looking for will be in pre-web journals so sources will not necessarily be easy to find via Google. And I say again: Primary sources are not necessarily a problem; see [[WP:PRIMARY]].  [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 03:36, 21 June 2017 (UTC)
+{{od}}
+Claiming that a product has impressive features without a source (or using a primary source) is promotional. I'm familiar with all the relevant guidelines. From [[WP:PRIMARY]], "Wikipedia articles should be based on reliable, published secondary sources and, to a lesser extent, on tertiary sources and primary sources." The article is currently sourced mostly to primary sources, and this should be rectified. Also, please review [[WP:EXCEPTIONAL]]: "...challenged claims that are supported purely by primary or self-published sources or those with an apparent conflict of interest". Thank you for searching for secondary sources, I look forward to what they find. I know that sometimes finding good quality sources isn't easy and appreciate your efforts to improve the article. I'll hold off making any changes for now. [[User:Waggie|Waggie]] ([[User talk:Waggie|talk]]) 18:59, 21 June 2017 (UTC)
+
+== Documentation colors ==
+
+I seem to remember that the oldest binder color, before orange, was blue.  - [[User:Denimadept|Denimadept]] ([[User talk:Denimadept|talk]]) 13:33, 30 July 2018 (UTC)
+
+: Don't know if that was the "oldest", but certainly the V3 doc set came in blue binders. V4 was orange (actually "Chinese red"). V5 was gray. [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 17:49, 30 July 2018 (UTC)
+
+:: I seem to remember pre-VMS PDP-11 documentation coming in blue binders. [[User:Guy Harris|Guy Harris]] ([[User talk:Guy Harris|talk]]) 18:14, 30 July 2018 (UTC)
+
+== Source availability ==
+
+The article currently describes VMS as a closed-source operating system.   This seems inconstant with my experience.   It might be more accurate to describe it as [[source-available software]].  The sources were readily available on microfiche, so open to inspection but not easy recompilation. 
+
+My experience was strictly based on VAX systems, but I always assumed that something similar applied to OpenVMS as well.  Can anyone detail what has happened to source availability under the post-HP evolution of the software as it is being ported to x86?
+[[User:Burt Harris|Burt Harris]] ([[User talk:Burt Harris|talk]]) 19:44, 13 October 2018 (UTC)

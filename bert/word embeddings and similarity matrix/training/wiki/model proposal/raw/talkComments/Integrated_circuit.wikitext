@@ -1,0 +1,764 @@
+{{Electron|class=c|importance=High}}
+{{Vital article|level=3|topic=Technology|class=C}}
+{{WikiProject Technology|class=c
+| b1 <!--Referencing & citations--> = no
+| b2 <!--Coverage & accuracy    --> = yes
+| b3 <!--Structure              --> = yes
+| b4 <!--Grammar & style        --> = yes
+| b5 <!--Supporting materials   --> = yes
+| b6 <!--Accessibility          --> = yes
+|importance=High}}
+{{WP1.0|class=C|category=category|VA=yes}} 
+{{OnThisDay|date1=2004-04-25|oldid1=6718166|date2=2005-02-06|oldid2=16335592|date3=2006-02-06|oldid3=38417972|date4=2007-02-06|oldid4=105463049|date5=2011-02-06|oldid5=412246865|date6=2011-05-07|oldid6=427820197}}
+{{archives}}
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Integrated circuit]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=774900856 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20130511181443/http://www.epn-online.com/page/22909/the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-.html to http://www.epn-online.com/page/22909/the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 11:30, 11 April 2017 (UTC)
+
+==Archive==
+Topics that haven't been active in quite some time have been put into the archive, available from the link above. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 23:30, 17 May 2017 (UTC)
+
+==April 2017 merge proposal==
+Someone tagged [[Die (integrated circuit)]] for merger here back in April, but didn't set up any discussion.  It's essentially a one paragraph definition, and could easily and profitably be merged here. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 01:57, 12 July 2017 (UTC)
+* '''Oppose''' There's plenty of scope. The fact it hasn't been written yet is no reason. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 02:14, 12 July 2017 (UTC)
+: Care to amplify?  What do you see as possible topics for [[Die (integrated circuit)]]?  If someone ever adds enough to this article to make a "die" article feasible, that could be done, too.  --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 02:21, 12 July 2017 (UTC)
+:: [[Integrated circuit]] has to begin with, and is largely about, ICs as components, viewed from the outside. What do they do, how are they used, what are they useful for. A smaller part of that should be how they do it, how they're made and how they came to exist. This is still an enormous topic, far too big for a single article.
+:: [[Die (integrated circuit)]] is about an aspect of their manufacture. It's still a big topic, with plenty of scope for it. It could also spread into either the packaging issues off-die (packages, connections, connection bonding, heat management, UV windowing) or the manufacturing issues (wafer growth, dicing, header mounting, connection bonding, package sealing, longevity and whiskering).  
+:: Even stretching both of those topic areas quite broadly, there's still sufficient distance between them, and sufficient scope to fill them, that two (or more) articles would be far better than one, even for the lightweight generalist audience. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 10:23, 12 July 2017 (UTC)
+:::I don't buy the assertion that we need to leave mergeable turds around because someone could one day come and expand them. If someone does want to do some serious expansion they can easily do so within a section of an existing article and if that becomes outsized for the article a [[WP:SPLIT]] can be performed.
+:::More to the point, a lot of information on the [[Die (integrated circuit)]] topic already seems to exist at [[Wafer (electronics)]]. If there is to be a merge, this may be a better target. Maybe some sloshing between these three articles (and others, I'm sure) would improve organization. ~[[User:Kvng|Kvng]] ([[User talk:Kvng|talk]]) 13:24, 20 July 2017 (UTC)
+:::: The difference between wafers and dice is that wafers are grown and fabricated as such, then [[Wafer dicing|diced]] (another separate article) into [[die (integrated circuit)|dice]] and then packaged. The fabrication and packaging steps are both so big and so important that they can easily support separate articles. We can best cover fabrication under wafer and packaging under die.
+:::: If you object to this article as a "turd", then the obvious solution is to polish it. It's a well-known subject, there are many sources and many capable editors familiar with this field. You can't claim that it's unimprovable. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 14:13, 20 July 2017 (UTC)
+::::: Another legitimate alternative is to merge it into [[Wafer (electronics)]] until such time as the coverage there merits a [[WP:SPLIT]]. I am not trying to argue that [[Die (integrated circuit)]] is unimprovable, I'm just pointing out that there is more than one way to improve coverage of the topic and one such way starts with a merge. Having the content-under-development centralized is potentially helpful to readers and editors. That said, I respect the other ways this can be worked on and am not advocating that we do the merge in this case. ~[[User:Kvng|Kvng]] ([[User talk:Kvng|talk]]) 15:21, 23 July 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Integrated circuit]]. Please take a moment to review [[special:diff/810314781|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20150802073506/http://www.edac.org/industry to http://www.edac.org/industry
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 14:33, 14 November 2017 (UTC)
+{{talkarchivenav}}
+
+== Selected Article for Technology ==
+
+Since this article is the Selected Article, the example specs in the article should be more current than 5 years ago. Especially for a fast moving field like IC.
+
+==I'm not sure I'd ==
+I'm not sure I'd characterize the 4000 series as the successors to 7400 line.  My understanding was that there were uses where the 7400 would be preferable and others where the 4000 would be preferable.  And when CMOS really did eclipse TTL, both of these were commonly getting replaced with ASICs. [[User:Ckape|Ckape]] 06:44, 23 Dec 2003 (UTC)
+
+== Naming conventions ==
+
+Any information on why a particular IC, say the [[555 timer IC]] or any of the 74 ICs, is named so would be appreciated. Is it purely chosen by the manufacturer or is there some convention involved?
+:That is a great questions. The manufacturers, having technical backgrounds, tended to assign numbers as the names of products, such as Intel 40065, 386, Texas Instrument 5408 or 7409 series, Fairchild F8, etc. Some companies only selected prime numbers such as the Teradyne J937 (a semiconductor memory tester), etc. Since the Bell Labs studies which proved that a phone number should have no more than 7 digits to be easily remembereds, the manufacturers tended to select product names with fewer than 7 digits, as well. But a successful product meant that the product name needed to be kept, so a 4-digit or 5-digit product name, such as the 6502, tended to be the end of the line. The Motorola 6800 expanded to the 68000, then 68010, 68020, etc. The Intel 4004, 8008, 8080, 8088, 8086, 80186, 80286, 80386, 80486 was going to be usurped by an AMD 586. So the 586 series was renamed to a protectable name, "Pentium (TM)", breaking the numeric series, but protecting the brand. HP's audio oscillator, the 101, used by Disney in the production of Fantasia in the [[1930s]], was so numbered because Hewlett and Packard wanted it to sound like there was a full product line, so they started numbering from 100 instead of 1. [[User:Ancheta Wis|Ancheta Wis]] 17:06, 26 Mar 2005 (UTC)
+:So the quick answer is: Convention only, under the complete control of the manufacturer, but using the Intellectual Property rights available at the time of production or invention. 
+:The use of standards by some consortium, say under some API or programming language standard or the like is not in use at this time. The ISO networking layers, for example, were overkill, and were ignored by the development of real protocols like TCP/IP. [[User:Ancheta Wis|Ancheta Wis]] 17:06, 26 Mar 2005 (UTC)
+::someone I asked said the 555 timer IC was called so because of the internal potential divider formed by three 5K resistors. Is this correct?
+::I can't answer that. My coworkers liked them because they were easy to use, which would be the only reason to remember the product. [[User:Ancheta Wis|Ancheta Wis]] 20:16, 26 Mar 2005 (UTC)
+:::The JEDEC assigned a 4 digit number to industrial tubes starting with 5000, and going up to the 7000 by the time that tubes started to go out of favor, Transistors were numbered based on an older tube numbering system which resulted in the 2N0000 style numbers.  It is likly that this may have prompted firms to use 4 digit numbers in picking names for IC products.[[User:Cmacd123|cmacd]] 13:26, 16 March 2007 (UTC)
+
+== lowercase i ==
+
+Since alot of devices have a name that starts with a lowercase I (e.g. iMac, iPod, ix86, etc.); does the I stand for integrated for those devices? --[[User:SuperDude115|SuperDude]] 22:21, 16 Jun 2005 (UTC)
+:That's likely in many cases, although the 'i' in Apple products you mentioned is a reference to the fact that they are '''I'''nternet oriented products. --[[User:Nbettencourt|Nbettencourt]]
+
+== The principle of dielectric isolation ==
+
+The text says "Noyce credited Kurt Lehovec of Sprague Electric for the principle of dielectric isolation caused by the action of a p-n junction (the diode) as a key concept behind the IC".  I've never heard of that principle, and a search using Google only retrieves exactly the same sentence.  It seems to me to make little sense - dielectrics are insulators, and in IC fab we would expect dielectric isolation to be caused by an oxide, nitride or similar layer on top of a conducting layer.  Can anyone shed light on whether this principle really exists? --[[User:Phil Holmes|Phil Holmes]] 10:46, 30 August 2005 (UTC)
+:<strike>Probably a patent</strike> A Google search for "Kurt Lehovec Sprague Electric" yields ''US patent 3 029 366 awarded on April 10, 1962, filed April 22, 1959.''. Lehovec said "I never got a dime out of it (the patent)." <strike>The concept might be peculiar to bipolar transistor technology, which Fairchild exploited, of course.</strike> [[User:Ancheta Wis|Ancheta Wis]] 12:22, 30 August 2005 (UTC) Lehovec's innovation was to consider the ''operation'' of a reverse-biased p-n junction, not merely the electrostatics of materials forms, which appears to be where you are taking this.
+:[http://kurtlehovec.com/professionalhistory.html Kurt Lehovec's scientific/technical autobiography]: [[LED]], [[Solid]] [[Electrolyte]] [[battery (electricity)|Battery]], [[MOS]] Surface States, [[p-n junction]] isolation, and more!
+:Robert Noyce credits Lehovec here: "Microelectronics", ''Scientific American'', September 1977 Volume 23, Number 3, pp. 63-9. I will add this to the article unless someone beats me to it. [[User:Ancheta Wis|Ancheta Wis]] 02:39, 31 August 2005 (UTC)
+:Lehovec deserves recognition and monetary reward for his role in the IC revolution; Kilby got a Nobel prize. We have one founder of the IC revolution still alive. I guess that means I owe [[Kurt Lehovec ]] an article in Wikipedia.
+
+Just done the search and come up with http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=3,029,366.WKU.&OS=PN/3,029,366&RS=PN/3,029,366 which is the full text of the patent.  I've OCRed it and it only mentions dielectric once - in a piece on capacitors.  Whilst I accept that a pn junction ''can'' function as a dielectric, I maintain that this is unusual usage.  It seems to me that Noyce actually credits Lehovec with the invention of pn junction isolation in ICs.
+
+I've tried to find the Scientific American article in full and failed - the best I can find is:
+"In an article entitled ""Microelectronics", published in "Scientific
+American", September 1977 Volume 23, Number 3, pp. 63-9, he wrote:
+
+"The integrated circuit, as we conceived and developed it at Fairchild
+Semiconductor in 1959, accomplishes the separation and interconnection
+of transistors and other circuit elements electrically rather than
+physically. The separation is accomplished by introducing pn diodes,
+or rectifiers, which allow current to flow in only one direction. The
+technique was patented by Kurt Lehovec at the Sprague Electric
+Company"." at http://www.virtuallystrange.net/ufo/updates/1997/sep/m01-033.shtml
+
+Again - no mention of the principle of dielectric isolation.  --[[User:Phil Holmes|Phil Holmes]] 20:11, 31 August 2005 (UTC)
+:I can change the sentence to "p-n junction isolation" per your note, or you can, for making the catch. [[User:Ancheta Wis|Ancheta Wis]] 21:22, 31 August 2005 (UTC)
+:Something like "Noyce credited [[Kurt Lehovec]] of [[Sprague Electric]] for the ''principle of p-n junction isolation'' caused by a biased p-n junction (the diode) as a key concept behind the IC."
+
+
+To be fair, [[Jean Hoerni]] deserves equal billing. [[User:Ancheta Wis|Ancheta Wis]] 11:28, 1 September 2005 (UTC)
+
+== The influence of silicon dioxide ==
+
+One of the fundamental features of silicon as a semiconductor is that it is easy to grow SiO2 on it, and that this glass layer forms a reliable barrier to dopants, and is (relatively) easily etched with good fidelity.  I'm convinced that this is one of the main reasons why silicon dominates IC fab (tho' there are others - mechanical strength and convenient band gap included).  I feeel strongly tempted to write a "why silicon" section, but I'm not sure where to put it.  It could go somewhere in this article (but where?) or in the fabrication article, or somewhere else.  Any thoughts?  --[[User:Phil Holmes|Phil Holmes]] 08:54, 7 September 2005 (UTC)
+:''Why silicon'' would fit naturally in the fabrication article.   [[User:Ancheta Wis|Ancheta Wis]] 22:23, 7 September 2005 (UTC)
+
+== SSI/MSI/LSI ==
+
+Were these the names given at the time? The article makes it sound like that, though I doubt it. The MSIs were probably considered very high-tech at the time, not "medium," just like our most advanced CPUs today will seem pathetic in a few years. Could that be clarified? [[User:Twilight Realm|Twilight Realm]] 02:08, 27 September 2005 (UTC)
+:They were named at the time that LSI was the state of the art. But when VLSI (very large-scale ICs) was the state of the art, the projected [[reticle|mask]]s could no longer be checked by tacking their images on the walls during the verification stage, as they were simply too large. Today verification is all done by computer anyway, with [[CAD]] programs. --[[User:Ancheta Wis|Ancheta Wis]] 16:06, 5 November 2005 (UTC)
+
+== Etymology ==
+
+Something that has puzzled me for a long time:  why are these slithers of silicon called dice when they don't at all look like dice?  Please help to unpuzzle me!  Thanks, --[[User:Maikel|Maikel]] 16:04, 2 November 2005 (UTC)
+:''Slice and dice'' is a common phrase; it simply refers to the act of cutting or dicing vegetables, like cucumbers or onions. ''Dice'' is the plural of the noun ''die'', which need not refer to the gambling objects. [[Silicon]] [[boule]]s, the long cylindrical [[ingot]]s are first sliced into [[wafer]]s, and then, after the fabrication process, then diced into rectangular die. If you look at an IC (out of its package), you can see the die. --[[User:Ancheta Wis|Ancheta Wis]] 12:09, 5 November 2005 (UTC)
+::Wow, Wikipedia DOES provide useful knowledge after all! ;-) Thanks! --[[User:Maikel|Maikel]] 13:34, 5 November 2005 (UTC)
+
+:: 'Dice' is NOT the (only) plural of 'die' when referring to a computer or electronic 'chip'.  Another COMMON plural of 'die' in this regard is 'dies', just like 'cucumbers', 'onions', etc, which plural form has the advantage of not confusing people as to why 'many dies' are referred to as 'dice', which itself probably derives from people correctly calling a bunch of dies as 'dies', but other people HEARING 'dice', and thinking that what they HEARD is how to correctly refer to them! You could also look up 'taps and dies', or look at  http://en.wikipedia.org/wiki/Die_%28manufacturing%29 to see a similar instance of how 'dies' is used as a plural of a 'die' as used in a manufacturing process (see 'tool and die maker', http://en.wikipedia.org/wiki/Tool_and_die_maker too).
+
+Does the ''microchip'' nickname come from the maker of PIC's name: [[Microchip Technology]]? --[[User:Jatkins|Josh Atkins]] <sup>([[User talk:Jatkins|talk]] - [[Special:Contributions/Jatkins|contribs]])</sup> 15:38, 17 September 2008 (UTC)
+: ''Microchip'' was common long before the manufacturer came along - I'm surprised they could trademark a fairly commonly distributed word. Microchip (the company) came along fairly recently and is a (relatively) small firm, compared with say TI or the once-mighty Motorola semiconductor division (now Freescale).  --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 17:45, 17 September 2008 (UTC)
+
+:: I agree -- "microchip" was common long before Microchip Technology was founded. Nitpick: I wouldn't call a firm that sells over a billion processors a year a "small firm". (That's more than Intel and AMD combined, right?) --[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 19:15, 8 October 2012 (UTC)
+
+I've been a working engineer in Silicon Valley (er, Santa Clara valley) since the latter 1970s. I spent ten years, for example, at MIPS Computer Systems and SGI. The usage "microchip" is so completely absent from the vernacular of our industry that its utterance can be reliably used as an indicator that the speaker is an alien; generally, some kind of journalist (the context of the not-at-all informidable Microchip Technology (formerly, GI) accepted). [[User:Rt3368|Rt3368]] ([[User talk:Rt3368|talk]]) 19:39, 7 June 2013 (UTC)
+
+== Artwork ==
+
+The term [[artwork]] has been in use on engineering drawings for electronic circuits, including [[printed circuit]]s, since before the invention of the [[IC]]. I object to the use of the phrase 'silicon artwork' solely for those constructs which might be construed as subject to [[artistic license]]. Hence I reverted. Real estate on a chip is valuable and subject to signoff. A chip such as a microprocessor is constructed by teams of hundreds of people. It would be difficult to get by a review. It is true that custom chips might be built by only a few minds, and that it is cheaper to build chips which might share a wafer in a custom run, and that it would then be possible to permit artistic license, but the occurrence would definitely not be on an industrial scale. --[[User:Ancheta Wis|Ancheta Wis]] 22:03, 18 February 2006 (UTC)
+
+:A far better thing to do would have been to reword the bit to be acceptable to you rather than reverting it.  I don't care for it much myself, but I moved it here from [[CPU]] where it really didn't belong.  On WP, in general you should reword rather than revert. -- [[User:Gnetwerker|Gnetwerker]] 23:08, 18 February 2006 (UTC)
+
+An already existing page [[Chip art]], covers this topic more thoroughly than Silicon Doodling.  Hence I replaced Silicon Doodling with a re-direct, and changed the link. [[User:LouScheffer|LouScheffer]] 02:18, 19 February 2006 (UTC)
+::Completely appropriate -- thank you. -- [[User:Gnetwerker|Gnetwerker]] 03:05, 19 February 2006 (UTC)
+
+== Die or Dice ==
+
+Due to the line "Each device is tested before packaging. The wafer is then cut into small rectangles called 'die'. Each die is then connected into a package using aluminium (or occasionally gold) wires which are welded to pads, usually found around the edge of the die". Actually it is die or dice?
+
+: <strike>Dice is singular, die is plural.</strike>  Die is singular, dice is plural.  This was always honored at Intel during 80s and 90s, and doubt it has changed. -- [[User:Gnetwerker|Gnetwerker]] 15:59, 28 February 2006 (UTC)
+
+:: Wrong way round : see [http://dictionary.reference.com/search?q=dice&db=*]  --  [[User:Alf Boggis|Alf Boggis]] &#91;&#91;User_talk:Alf_Boggis&#124;(talk)]] 12:11, 1 March 2006 (UTC)
+
+:::Duh, yes of course, I fat-fingered it when typing.  You are right. I fixed it above. -- [[User:Gnetwerker|Gnetwerker]] 18:15, 1 March 2006 (UTC)
+::: Both wrong: "dice" is plural, "[[douse]]" is singular :-). But "die" is standard terminology, corrupted in semicon by non-native English speakers, so that you may quite often read "dice" as singular. [[user:mikkalai|mikka]] [[user talk:mikkalai|(t)]] 18:23, 1 March 2006 (UTC)
+
+The definition die=singular; dice=plural is correct.  However, the original sentence wasn't good English - imagine if it had said "cut into small rectangles called square" - it should be "cut into small rectangles called squares".  So I've made it "dice" in that sentence and put a small parenthetic comment about die/dice. --[[User:Phil Holmes|Phil Holmes]] 13:07, 5 March 2006 (UTC)
+
+Dice is clearly the plural form of die when you're playing Craps or Yahtzee, but not when you're talking about integrated circuits cut from a wafer. According to several dictionary entries [http://dictionary.reference.com/search?q=die] and even other wikipedia articles [http://en.wikipedia.org/wiki/Wafer_%28electronics%29] [http://en.wikipedia.org/wiki/Die_preparation], the correct plural form of die is "dies" in this context. My best explanation for this is that the term "die" was probably borrowed from the metalworking industry, where repeated stamps or punches are commonly called "dies".
+~ [[User:Fanblade|Fanblade]] 20:52, 24 April 2006 (UTC)
+
+:Your explanation is plausible, but I stand by my reportage of actual usage in the chip industry, above.  This is, of course "original research", so I won't edit based upon it. :-) -- [[User:Gnetwerker|Gnetwerker]] 06:20, 25 April 2006 (UTC)
+
+::I used to work in a clean room making ICs and packaging them.  In our work we '''always''' referred to the diced components as dice, not dies.  I believe dies is incorrect, and the theory that is comes from the device used to cut metal components (as in "tap and die") is also incorrect.  Citing other articles that make the same mistake doesn't justify the error.  However, I guess this is unlikely to be resolved, and may be an instance of local usage (I'm from the UK).  It seems to me the best is to allow both, so I'll edit to that effect. --[[User:Phil Holmes|Phil Holmes]] 12:05, 30 April 2006 (UTC)
+
+::And I also think that Fanblade's explanation makes perfectly good sense, but that people who used the correct term 'dies' for  more than one die in SPOKEN conversation were MISHEARD by others to be saying 'dice', and that those and many other people repeated their mishearing and THAT's why many dies have become referred to as 'dice'.  So just because many people referred to them as 'dice' doesn't make it right, when it was likely just a matter of poor ENUNCIATION and mishearing, as opposed to READING technical articles about the things people were TALKING about, and SEEING, rather than HEARING the word 'dies' properly used.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/75.6.224.162|75.6.224.162]] ([[User talk:75.6.224.162|talk]]) 01:05, 29 May 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Definitions: [[IC]], [[hybrid circuit]], [[multi-chip module]] ==
+
+It is important not to Dice spread meanings  beyond usefulness. An IC, per history of the term, consists of a monolithic circuit. The current dual-core CPUs still qualify because they still use the same silicon; the  multi-die flash memories do not qualify because they are separate chips in a hybrid package. Same with the flash memories packaged a separate USB interface chip -- its hybrid packaging.Dice
+
+When matched transistors are an important consideration, the processing of an IC can provide intrinsically matched components without preselection. There is no poiDicnt in calling tube circuit an IC. This just makes the term a curiosity.
+
+The historical use of a separate glass assembly to hold multiple filaments calls to mind the use of chimneys to vent multiple flues, in Europe, thus avoiding the chimney tax. Interesting, but of small economic importance, compared to the huge stream of improvements on the IC.
+
+When you examine the history of the [[hybrid circuit]], look at the packaging. There are any number of important technologies, like the [[magnetic bubble memory]] or the [[multi-chip module]] etc which echo the concept of the [[blivet]]; interesting, but not in the main stream. 
+
+If you like, we can work on the prose in [[hybrid circuit]] to include history like the [[magnetic bubble memory]] or the [[multi-chip module]] which were tried and discarded by major manufacturers like [[IBM]]. But a [[triode]]/[[tetrode]]/[[vacuum tube]] etc just isn't part of an article about the IC. --[[User:Ancheta Wis|Ancheta Wis]] 21:45, 3 July 2006 (UTC)
+
+:I disagree with the whole concept of this.  The article has been written about one ''very'' specific type of integrated circuit - what is often described today as a monolithic integrated circuit.  The term 'Integrated Circuit' existed before these devices came into being.  Indeed the circuit shown on the illustration in the [[hybrid circuit]] article was (and is still entitled to be) called an integrated circuit.  When the newer types appeared, the older types were called 'thick film integrated circuits' and the newer types were known as 'thin film integrated circuits', since they used a process similar to that used for producing thin film transistors (an early type of the variety used in LCD displays).  Indeed, surface mount components, popular today were also around at the time when thick film integrated circuits were popular.
+
+:I have seen the Loewe multi valve device in several museums around Europe and in at least one (It may have been the Deutse Museum, Munich), it was described as the world's first integrated circuit.  It is precisely that - in integration of parts to make a functional modular circuit.  To be pedantic, a printed wiring board with components on is a 'integrated circuit' but that is stretching the point too far.
+
+:The contributor who added the Loewe device to the article is quite correct.  In my view he (or she) has not gone far enough, in that the article now seems to describe the beginning and end of the integrated circuit story, but completely omits the middle.  For example, there were several integrated circuits produced in the heyday of the valve computer era for use in analogue computers - plug in operational amplifiers, though they were spoilt by having a removeable (and replaceable) valve.  It is fair to say that the term 'integrated circuit' itself only seems to have been coined for the thick film devices (the manufacturers' literature described them as exactly that), but the concept was far from new, though the term 'module' was often used until something better came along.[[User:20.133.0.14|20.133.0.14]] 08:14, 4 July 2006 (UTC)
+::I agree that the Loewe device is a module. What I am objecting to is the broadening of the usage of the term ''IC''. An IC is a ''unitary'' component. It came about after a thorough understanding of the physics stemming from Dirac's ''[[sea of states]]'' whereas the tetrodes stem from the ''[[electron gas]]''. The electron gas had to be continuously generated by ''[[thermionic emission]]'' (heating of an electrode) but the  ''sea of states'' are [[quantum mechanics|quantum mechanical]]. The term ''IC'' evokes the use of semiconductor materials, whereas the ''[[tetrode]]'' came about from a different physical mechanism. 
+
+::I agree that [[William Shockley]] is indebted to the [[triode]]/[[tetrode]]/[[vacuum tube]]. He explicitly writes that he was attempting to create a ''solid state vacuum tube''. This discussion really belongs to the [[history of electronics]] and the encyclopedia needs such an article.  --[[User:Ancheta Wis|Ancheta Wis]] 17:54, 4 July 2006 (UTC)
+:::After visting [[Wikipedia:WikiProject Electronics]] I see that the vacuum tube is neglected. [[Semiconductor device#History of semiconductor device development]] has some of the history but the [[triode]]/[[tetrode]]/[[vacuum tube]] are not discussed. Thus there appears to be room for a history article. Anyone interested? --[[User:Ancheta Wis|Ancheta Wis]] 01:31, 5 July 2006 (UTC)
+:::[[History of electrical engineering]] treats the [[triode]] / [[tetrode]] / [[vacuum tube]] technology in only a few sentences. More discussion of [[analog circuit]]s, for example in its use in [[radio engineering]], [[sound reproduction]], [[cinema]], and [[television]] could be expanded, for example.
+
+::::In seeking a home for the anon. contribution, several of us have added it to [[vacuum tube]].
+
+==Stable version now==
+Let's begin the discussion per the [[Wikipedia:Stable versions now|protocol]]. --[[User:Ancheta Wis|Ancheta Wis]] 05:37, 11 July 2006 (UTC)
+*'''Oppose''', and not only due to my opposition to the process.  The article has a reference section, but no context as to what it's sourcing.  How can it be stable if someone comes up with new information or sources their additions differently, for instance? --[[User:Badlydrawnjeff|badlydrawnjeff]] <small>[[User_talk:Badlydrawnjeff|talk]]</small> 18:18, 11 July 2006 (UTC)
+*'''Oppose''' -- how can we even start to discuss stabilizing an article if we aren't confident enough to call it [[WP:GA|good]], let alone [[WP:FA|featured]]?  Why not continue pursuing good and featured articles, and then make those "certified" versions easy to link to?  I feel like, especially with articles like this one which could use attention from the Wiki community, making a "stable" version seems to imply, "no more work necessary here!"  I just don't think that's accurate with all but the very best of our articles.  [[User:JDoorjam|JDoorj]][[User:JDoorjam/Esperanza|<font color="green">a</font>]][[User:JDoorjam|m]]     [[User Talk:JDoorjam|Talk]] 21:37, 11 July 2006 (UTC)
+*'''Oppose'''. This proposal is just about dead, it would need to achieve consensus before any action could be taken under it - it has achieved the opposite. [[WP:CONSENSUS]], [[WP:PROT]], [[WP:5P]] all individually (never mind collectively) trump a still-under-discussion-but-largely-rejected proposal. [[User:Cynical|Cynical]] 20:29, 30 July 2006 (UTC)
+*'''Oppose'''. A "stable Wikipedia article" is a contradiction in terms. If it was a collection of stable (aka "dead") articles, it wouldn't be Wikipedia any more. And this particular article should at least make it to FAC status first. --[[User:Wtshymanski|Wtshymanski]] 01:24, 1 August 2006 (UTC)
+
+== The cleanup notice ==
+
+I mostly added it because the sections "Advances in integrated circuits" and "Classification and complexity" in length describes the same things. <sub>→<font style="color:#975612">[[User:AzaToth|A]][[Wikipedia:Esperanza|<font color="green">z</font>]][[User:AzaToth|a]]</font><font style="color:#325596">[[User_talk:AzaToth|Toth]]</font></sub> 02:44, 12 October 2006 (UTC)
+:Thank you for your note. I moved the most similar paragraphs under the same header. Everyone, please help by removing redundant sentences. --[[User:Ancheta Wis|Ancheta Wis]] 02:57, 12 October 2006 (UTC)
+::The cleanup notice can probably be removed now. --[[User:Ancheta Wis|Ancheta Wis]] 09:06, 30 December 2006 (UTC)
+
+== Advances in integrated circuits ==
+
+The section [[Integrated_circuit#Advances_in_integrated_circuits|Advances in integrated circuits]] should take into account emerging information represented by this news article, but no doubt related in greater detail and authority elsewhere: {{cite news |first=John |last=Markoff |authorlink=John Markoff |title=Intel Says Chips Will Run Faster, Using Less Power |url=http://www.nytimes.com/2007/01/27/technology/27chip.html?_r=1&th&emc=th&oref=slogin |work= |publisher=The New York Times |date=27 January 2007 |accessdate=2007-01-27 }} --User:Ceyockey (<small>''[[User talk:Ceyockey|talk to me]]''</small>) 14:04, 27 January 2007 (UTC)
+
+Another advance, currently underway, is the creation of 3D ICs. This has been added to the ITRS roadmap and is the subject of numerous articles and conferences. A whole collection of references is available at http://3d-ic.org/literature.html . The difficulty in creating a wiki on this is that the definition of 3D IC is still fluid. -- [[User:Gretchenpatti|Gretchenpatti]] ([[User talk:Gretchenpatti|talk]]) 15:53, 4 January 2008 (UTC)
+
+Not having received any opposition to teh above, I added 3D-IC to the ULSI/WSI/SOC section. [[User:Gretchenpatti|Gretchenpatti]] ([[User talk:Gretchenpatti|talk]]) 17:53, 8 February 2008 (UTC)
+
+== Inventors and Patents ==
+
+I note that the US patent 3138747, mentioned in the article, was not actually grated to Kilby, but to another TI engineer named Richard F. Steward. Is this a typo?
+
+Furthermore, there is a German patent number 833366 which was granted to a Mr. Werner Jacobi on May 15th, 1952, describing the idea of manufacturing several amplifier stages on a single semiconductor by means of applying multiple electrodes to the surface of the semiconductor. It is a rather cursory patent, but nevertheless contains the basic idea of an integrated circuit, at about the same time when Dummer described the idea. Maybe it would be appropriate to include this in the list of inventors. --[[User:Stefan heinzmann|Stefan heinzmann]] 11:33, 9 February 2007 (UTC)
+
+Patent #3,013,956 filed April 5, 1957 and granted in 1961 predates the Noyce/Kilby patent.  It was filed by Frances and William Hugle for Baldwin Piano: "Methods of Etching Metals in the Platinum Group and Producing Printed Circuits Therefrom".  The Hugles have not been credited in the development of the IC; why not?  ---- wimerhome@yahoo.com
+
+:In modern usage, "integrated circuit" means what used to be called "monolithic integrated circuit", that is what Noyce and Kilby invented. All the components are on a single piece of semiconductor. There were also "hybrid integrated circuits" where several bare, unpackaged semiconductors were attached to a ceramic substrate and connected with printed wires. The title of the Hugle patent suggests it is about printed circuits. Printed circuits are not integrated circuits. If a printed circuit contains any semiconductors, they will be in packages, not bare. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 15:45, 25 January 2012 (UTC)
+::Where are the transistors?  Nothing in patent 3013956 makes any transistors. It's not making "integrated circuits". --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 16:11, 25 January 2012 (UTC)
+
+Please see: {{cite patent|US|3226271}}, [[Frances Hugle|Hugle, Frances B.]] & William B. Hugle, "Semi-Conductive Films and Method of Producing Them", published March 29, 1956, issued December 28, 1965. 
+
+This patent was actually divided into two. The first set of claims were patented in 1961 (patent no. {{cite patent|US|2994621}}) and the second set in 1965 (patent no. {{cite patent|US|3226271}}). 
+
+In this patent(s), Frances describes how to make semiconductor devices connected by printed circuits, in other words, an integrated circuit. Though Frances does not use the term 'integrated circuit', this is the first description of how to actually grow semiconductor devices on a substrate incorporating a printed circuit (either added before the devices are grown or afterwards), the equipment she designed for this purpose and how to regulate the process depending upon what characteristics are desired.
+
+[[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 06:10, 3 December 2012 (UTC) Cheryl Hugle
+
+::: First of all, thanks for your efforts here and at [[Frances Hugle]]. My apologies for that unfortunate [[Wikipedia:Articles for deletion/Frances Hugle|AfD]] and the inane comments about merging to tape bonding. 8-(
+::: These are two notable patents, but both are fundamentally about materials processing, not circuitry. They address a problem in manufacture where a two-step process could be reduced to a one-step process. As they're assigned to Baldwin Piano, it's hardly surprising that they're mostly of relevance to infra red detectors (and the [[Sidewinder missile]], which is where the money was coming from). Baldwin didn't (AFAIK) develop much in the way of microelectronics ''as circuitry'', but they did make important steps in photodetectors. 
+::: There is a difference between what these patents describe, and an integrated circuit. They're important, but they're earlier. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 16:33, 6 December 2012 (UTC)
+
+:::: Thank you Dilby for your kind words... it sure is no fun always being in disagreement but...
+:::: Here we go again:(
+:::: In semiconductor manufacture, materials processing is how integrated circuitry is formed. Materials processing (as described in the Hugle patent) enables one to grow devices directly onto a printed circuit ('on step') and what an integrated circuit is, as opposed to...  separately forming semiconductor devices and then bonding them to the circuitry ('2 step').
+:::: And yes, you are definitely right that the Air Force and Army funded much of the research at Baldwin but the program at Baldwin to develop integrated circuits was in full swing at least by 1953 according to photos I have found.
+:::: Regardless of the initial reasons (intended applications) the military funded this research, those involved were well aware of the widespread applications for 'miniaturized circuits' with 'distributed devices'. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 06:10, 7 December 2012 (UTC) Cheryl Hugle
+
+::::: I'd have to disagree with the count of steps: this is a two step process (wiring, then production and deposition) rather than a three step process (production, deposition, wiring). It still has two fundamentally different processes used for the wiring and device production: an ''integrated'' circuits integrates these into variations of the same lithography. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 17:13, 7 December 2012 (UTC)
+
+:::::: Please read the first of the two. It specifically discusses the printing of the circuitry at the same time as the growing of the semiconductor devices. So, this is clearly the first explication of how to grow an integrated circuit in '1 step'. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:46, 7 December 2012 (UTC) Cheryl Hugle
+
+: "semiconductor devices connected by printed circuits" are ''not'' an integrated circuit, but rather a [[hybrid circuit]].  An "integrated circuit", per common use throughout, is a circuit that is formed of the same semiconductor material, with its own interconnections formed within it. It is formed by one sequence of operations (photolithography etc), rather than by two completely separate processes, one to form devices and one to form a separate substrate for it, no matter which order they're performed in.
+: The main advantage of ICs is this simplicity of manufacture. That's the crucial aspect that makes them, "as cheap as chips". [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 10:25, 3 December 2012 (UTC)
+
+:The patent does not discuss making devices that are preformed and then added to a printed circuit. It reveals how to grow semiconductor devices onto a substrate which is also printed with an interconnecting circuit. '''Please read the patent(s)''' and you will see that your assumptions are invalid. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:17, 3 December 2012 (UTC) Cheryl Hugle
+
+:: The Frances patent(s) were the first to do this, "... single-piece circuit construction originally known as a monolithic integrated circuit." quoted from this article's terminology section. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:35, 3 December 2012 (UTC) Cheryl Hugle [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 20:22, 3 December 2012 (UTC) Cheryl Hugle
+
+This article should at least acknowledge that the Frances Hugle patent(s) was the first patent application to describe how to make an integrated circuit. Otherwise, the invention section of this article is complete nonsense, historically speaking. Though her patent(s) were awarded after those granted to Kilby and Noyce, the fact that her application was submitted years before, demonstrates prior art and that she is the actual inventor of the IC. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 04:27, 6 December 2012 (UTC) Cheryl Hugle
+::[[WP:BOLD|You know what to do.]] Cite it and write it. Judging by the user ID, you may even have access to a scrapbook full of Grampa and Grandma's press clippings which would be a collection of valuable sources. But if it was really prior art, surely the patent examiner would have sent those carpetbaggers off on their way without a patent? Secret inventions don't count. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 14:26, 6 December 2012 (UTC)
+
+:::The Hugle patent(s) were issued later than those of Noyce or Kilby (though filed earlier). So, I am not sure what knowledge different examiners may or may not have had of pending applications prior to the actual award of patent. I expect data bases were a bit different in the 50's than they are now and I imagine in such a new field, cross referencing may have failed often. 
+:::I am concerned that 'being bold' will only result in COI charges. For this reason, I would rather enter info here in hopes that another editor w/o COI will 'be bold'. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 06:10, 7 December 2012 (UTC) Cheryl Hugle
+:::: Same problem in reverse - if K&N got a patent on an IC and then H gets a patent years later, it can't be for the same thing.  You may underestimate the patent examiners...just because they didn't have Google didn't mean they couldn't research a patent application thoroughly. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 15:03, 7 December 2012 (UTC)
+
+:::::: If you will read the Hugle patent and then look at this http://www.google.com/patents/US3150299?printsec=drawing#v=onepage&q&f=false and this http://en.wikipedia.org/wiki/Planar_process, you will see that for whatever reason, Noyce and Hoerni are being given credit for the work of Frances... In fact, Noyce DOES NOT describe the fabrication process but rather highlights some of its merits, uses and design possibilities, none of which were precluded in the Frances patent. If properly challenged, I am not sure if any of the claims of the Noyce patent would be upheld as most of it is a rehash (minus the specific how-to details) of the Hugle patent(s). Since the so-called Planar Process was also included in the Frances patent(s)... but, I think the real story of why credit was assigned as it was is a bit messier than just the limitations of patent examiners and has already been alluded to on the Frances Hugle Talk page (probably most of that already archived)... [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:46, 7 December 2012 (UTC) Cheryl Hugle
+
+:::::In theory: you are, of course, quite correct.  In practice though things are not quite so clear cut.  Patent examiners are not always quite on the ball particularly if a patent is not presented in quite the same way as a pre existing patent or attempt there at.  The position is not helped by the US patent office being notoriously laxadaisical over patent applications.  After all: they granted one Thomas A Edison many patents for devices that had already been invented by someone else (the light bulb, phonograph and nickel-iron battery leap instantly to mind - but there are plenty more).  In most of these cases, the prior invention occured outside of the US, but the US patent office frequently grants a patent for something that has been patented through their office years earlier leaving the protagonists to slug it out in the courts.  Other patent offices are not above slipping up and granting a patent that they shouldn't.  This is the problem with staffing them with human beings.
+
+:::::Also there is the large problem of what are known as 'submarine patents' (nothing to do with submarines).  These are virtually unknown inventions where an inventor invents some device or process that seems to have little practical value.   Companies specialising in these patents will buy the rights to them for a modest sum of money and then patiently wait for some other inventor to not only independently 'invent' the device or process, but find a profitable practical use for it.  The original patent then 'surfaces' with the company claiming damages for breach of their patent.  Most of these have traditionally occupied the largely unexplored dust laden shelves in the patent offices' archives, though with more and more being scanned into computer based retrieval systems, this particular problem is gradually going away.  [[User:DieSwartzPunkt|DieSwartzPunkt]] ([[User talk:DieSwartzPunkt|talk]]) 17:33, 7 December 2012 (UTC)
+
+:::::Wouldn't the first integrated circuit be this device ([[Loewe 3NF]])? [[User:DieSwartzPunkt|DieSwartzPunkt]] ([[User talk:DieSwartzPunkt|talk]]) 17:40, 7 December 2012 (UTC)
+
+:::::: What does that invention have to do with an integrated circuit? A circuit comprised of semiconductor devices grown with an interconnecting circuit on an appropriate substrate? [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:46, 7 December 2012 (UTC) Cheryl Hugle
+
+:::::::Where did the rule come from that says that the active devices in an 'integrated circuit' have to be semiconductor based and have to be grown on the substrate?  The 3NF has active devices (valves in this case), resistors and capacitors ''integrated'' into a single ''circuit'' - an 'integrated circuit'.  Modules constructed from small components mounted on a ceramic substrate and covered in epoxy were described as 'integrated circuits' long before the type we know today came along.  They were described as 'thick film' integrated circuits but not before the thin film types appeared.  [[Special:Contributions/86.145.244.183|86.145.244.183]] ([[User talk:86.145.244.183|talk]]) 13:53, 9 December 2012 (UTC)
+
+::::::::Definition of INTEGRATED CIRCUIT
+:::::::: a tiny complex of electronic components and their connections that is produced in or on a small slice of material (as silicon) 
+:::::::: quoted from: http://www.merriam-webster.com/dictionary/integrated%20circuit 
+::::::::Frances Hugle was the inventor. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:16, 9 December 2012 (UTC) Cheryl Hugle
+
+:::::::: In answer to, "Where did the rule come from that says that the active devices in an 'integrated circuit' have to be semiconductor based and have to be grown on the substrate?"
+
+:::::::: Regardless of why the Frances Hugle invention (as opposed to other types of circuit constructs) is now called an IC, what we are discussing in this section is who first described the process to fabricate it. I am only pointing out that the means to fabricate what is now referred to as an IC were first described in the Frances Hugle patent filed in 1956. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:36, 9 December 2012 (UTC) Cheryl Hugle 
+
+
+The early monolithic integrated circuits consisted of a monocrystaline wafer on which active devices capable of amplification were formed. This patent is about forming polycrystaline devices on a substrate such as a glass slide. While they may have been active in the sense of being light sensitive, they weren't amplifiers in an normal sense of the word. I don't think they're really comparable. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 17:39, 7 December 2012 (UTC)
+
+:"This patent is about forming polycrystaline devices..."
+
+:ALL transistors/semiconductor devices are polycrystalline in that they are of BOTH n AND p type. 
+
+:"... on a substrate such as a glass slide."
+
+:Yes, they are formed on a substrate, still today in fact, and the patent(s) specifically do not limit the type of substrate and include all glasses and ceramics as suitable substrates.
+
+:"While they may have been active in the sense of being light sensitive, they weren't amplifiers in an normal sense of the word."
+
+:The patent(s) specifically sets forth a method for growing any and all devices of P and N types connected by a printed circuit on substrates of glass or ceramic. Photocells are used as examples of N and P type semiconductor devices but this patent(s) does not exclude, but rather specifically includes, ALL devices of n and p type formed in conjunction with a printed circuit on an appropriate substrate. In other words, the classic definition of an integrated circuit.
+
+: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 18:31, 7 December 2012 (UTC) Cheryl Hugle
+
+:: This patent requires a pre-formed printed circuit board though. Integrated circuits do not. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 18:34, 7 December 2012 (UTC)
+
+::: It does not require that. It states that IF the circuitry is pre-printed onto an appropriate substrate, it should be of a material to withstand the temperatures required for subsequent processing. It actually states that the circuitry may be applied at any stage. Page 3, column 1, lines 52 through 65, patent 2,994,621. 
+
+::: Also, 'printed circuit boards' are another subject entirely. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 20:05, 7 December 2012 (UTC) Cheryl Hugle
+
+:::: "Pre-formed" or formed afterwards it doesn't matter – the point is that the interconnects aren't formed ''as part of the same process''. This is a necessary condition for any integrated circuit. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 21:54, 7 December 2012 (UTC)
+
+::::: Please see the section 'Metal layers' in this WP article, http://en.wikipedia.org/wiki/Semiconductor_device_fabrication The entire article is recommended as there seems to be much confusion regarding the multitude of steps involved in producing ICs and microprocessors.
+
+:::::From the WP article linked above:
+
+:::::Metal layers
+
+:::::"Once the various semiconductor devices have been created, they must be interconnected to form the desired electrical circuits. This occurs in a series of wafer processing steps collectively referred to as BEOL..."
+
+::::: I am pretty sure that after reading the above linked article, you will be able to better understand the importance of Fran's patent [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 23:27, 7 December 2012 (UTC) Cheryl Hugle
+
+"ALL transistors/semiconductor devices are polycrystalline in that they are of BOTH n AND p type" is nonsense. In the 1960s amplifying devices and decent quality diodes were monocrystaline. Most of the modern ICs such as memories and microprocessors are still monocrystaline, except for the gate of MOS transistors. A few device types, such as some solar cells, are polycrystaline. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 20:36, 7 December 2012 (UTC)
+
+:I was addressing another person's use of polycrystalline. With your definition, Fran is also not making polycrystalline devices. But, in the manner in which I understood the term to be used, all devices are 'poly-crystalline' in that more than one type of crystal structure is necessarily present. 
+:But, you are (apparently) referring (in part) to silicon gate technology. http://intel4004.com/sgate.htm and since you brought it up, I will note that it was not Faggin who first succeeded in reducing SGT to practical use for large transistor arrays but rather Frances Hugle. US 3574007, Hugle, Frances B., "Method of Manufacturing Improved MIS Transistor Arrays", published 19 July, 1967 (but again awarded much later and also after others were given credit.) Please see 'other references' at the bottom of the Frances Hugle patent. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 22:56, 7 December 2012 (UTC) Cheryl Hugle
+
+===Huggle: Reliable sources noticeboard===
+[https://en.wikipedia.org/w/index.php?title=Integrated_circuit&curid=15150&diff=535223472&oldid=535216873 This edit] is not supported by proper secondary sources and I am seeking dispute resolution through the [[Wikipedia:Reliable sources/Noticeboard]]. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 20:48, 27 January 2013 (UTC)
+
+: I see that a shortened version of this claim has been re-added, and added twice after I removed it, by a brand new editor "because an admin said to add it". Apart from admins still not being omniscient arbiters of disputed content, I also can't find any trace of this admin instruction, either here or at RSN. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 11:46, 31 January 2013 (UTC)
+
+::I have opened [[Wikipedia:Sockpuppet investigations/Cheryl Hugle]] after the material was re-added over Andy Dingley's revert. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 15:14, 31 January 2013 (UTC)
+
+::: The conclusion of the discussion at Reliable Sources Noticeboard was that only the text quoted below was supported by reliable sources. This text was subsequently introduced by another editor twice, and then was deleted by others who alleged sock puppetry. Though these allegations were found to be baseless, the approved text has not been reintroduced.
+
+::: "Also in 1956, a patent application describing how to fabricate an IC was filed by Frances Hugle, US 3226271, Hugle, Frances B. & William B. Hugle, "Semi-Conductive Films and Method of Producing Them", published March 29, 1956. This patent was ultimately divided into two claim sets, the first set was awarded articles of patent in 1961 (patent no. US 2994621) and the second set in 1965 (patent no. US 3226271)."
+
+::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 21:10, 26 February 2013 (UTC) Cheryl Hugle
+
+== Design Rules and Mead and Conway ==
+
+The text states:
+''This step was largely made possible by the codification of "design rules" for the CMOS technology used in VLSI chips, which made production of working devices much more of a systematic endeavour. (See the 1980 landmark text by Carver Mead and Lynn Conway referenced below.)''
+
+This seems (to me) to imply that Mead and Conway introduced the idea of design rules.
+
+I did not remove the reference to Mead & Conway and design rules, (later restored) but I think the removal was correct.  The idea of design rules pre-dates Mead & Conway.  We certainly used design rules in 1975, and Mead and Conway was published in 1980.  What Mead and Conway did in this area was introduce simplified "lambda based" rules.  This made it easier to get started, but was ultimately a dead end.  All modern processes have rules specified in absolute terms, and include values that are weird multiples of any underlying lambda.
+
+Does anyone else have a different view of this?
+[[User:LouScheffer|LouScheffer]] 06:46, 19 June 2007 (UTC)
+
+This whole section is bogus.  Microprocessors do not need millions of transistors and were introduced in 1971.  Mead and Conway is only relevant in terms of introducing more students to the field.  Design rules were codified much earlier.  Better tools and manufacturing were the keys. 
+[[User:LouScheffer|LouScheffer]] 06:56, 19 June 2007 (UTC)
+
+:I agree the whole section is bogus, since the early VLSI chips were all nMOS, and having design rules had little to do with them.  I don't agree, however, that simplified design rules were a "dead end"; they are still serving their purpose, which is to simplify, to give students and others a way to do simplified portable design not tied to the detailed design rules of a fab.  But, this polarization of opinion on their value is over 25 years old, and not really relevant here; I just thought I'd mention my POV on it. [[User:Dicklyon|Dicklyon]] 07:08, 19 June 2007 (UTC)
+
+::Agreed that simplified rules have value, and maybe there should be an article on ''Lambda rules'' or something similar.  But I don't think they were an enabler for the advances described in this section, except maybe indirectly by making it possible to educate enough designers to do the job. [[User:LouScheffer|LouScheffer]] 08:05, 19 June 2007 (UTC)
+
+::: I agree that "microprocessors do not need millions of transistors", since CPUs have been built entirely out of 4,100 (3-input) NOR gates.
+::: I also agree that "lambda rules" should be mentioned in this article because of their historical and educational use, even if no one today still uses them.
+::: If "lambda based" rules are a "dead end", why does the [[Magic (software)]] claim that Magic is still "widely used"? (Magic only uses lambda-based design rules. It can't handle "weird multiples of ... lambda"). --[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 19:11, 22 February 2008 (UTC)
+:::::I just don't like the tone of: "Better texts such as the landmark textbook by Mead and Conway helped schools educate more designers...." Weren't there outstanding texts before then? Carver & Mead might be an outstanding text but this is grandstanding.And it's uncited.--Richard Peterson[[Special:Contributions/198.189.194.129|198.189.194.129]] ([[User talk:198.189.194.129|talk]]) 00:30, 25 January 2012 (UTC)
+::::::The Mead and Conway approach was talked about much more than any academic system, and considerable software was created to support the approach. But as you say, there is no citation to demonstrate the approach was required in order to achieve the increased densities associated with VLSI, which is what the first sentence of the paragraph claims. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 00:45, 25 January 2012 (UTC)
+
+== Resistive structures ==
+
+"''Resistive structures, meandering stripes of varying lengths, form the loads on the circuit.''"  This sentence is a bit ambiguous to me.  Exactly what does this mean.  Does this mean that these structures are the only structures that causes electric load in the IC? --[[User:Renier Maritz|Renier Maritz]] ([[User talk:Renier Maritz|talk]]) 00:16, 13 March 2008 (UTC)
+
+: I agree that this is less informative than it could be. I think we should point out that most integrated circuits do not have deliberately added meandering resistive structures (although they unfortunately still have plenty of parasitic resistance). However, some early logic families [[Resistor–transistor logic]] did have some on-chip resistors. Do any more modern integrated circuits still have such meandering resistor structures, or do they all use the "resistor simulated by transistors" structures mentioned in the [[nMOS logic]] article? --[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 19:16, 12 December 2008 (UTC)
+
+::Resistors as loads are not that common, but resistors do find some uses, and meandering resistors are indeed used, in analog circuits especially.  I rewrote that stuff a bit. [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 22:26, 12 December 2008 (UTC)
+
+:::Resistors were not limited to families as early as RTL; they were used in [[Transistor–transistor logic]] and [[Emitter coupled logic]]. In bipolar transistor processes, there were diffusions available that could be used to form resistors with no need to meander; the aspect ratio of these resistors might be length/width = 5 or so. --[[User:Gerry Ashton|Gerry Ashton]] ([[User talk:Gerry Ashton|talk]]) 00:11, 13 December 2008 (UTC)
+
+::::True; in some cases they were even used as loads.  Nowadays, in CMOS, they're not common as loads, and can also be non-meandering when the values needed aren't large. [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 17:08, 13 December 2008 (UTC)
+
+== Gates v. Transistors ==
+
+How many logic gates are implemented in a typical VLSI chip? Is it half the number of transistors? [[User:Anwar saadat|Anwar]] ([[User talk:Anwar saadat|talk]]) 18:35, 10 May 2008 (UTC)
+
+:According to an [http://www.edn.com/archives/1998/080398/16cs.htm an EDN article] "Gate count as a measure of logic capacity has its roots in ASICs, in which the technique is reasonably straightforward. A gate-array ASIC's logic structure comprises a sea of fine-grained, two-input NAND gates." It takes four transistors to make a two-input CMOS NAND gate.
+
+:The problem is that VLSI chips contain many logic elements that are not two-input NANDs, so someone must decide how many two-input NANDs are equivalent to each logic element, how many transistors there are, and what the average number of transtistors per equivalent two-input NAND is. Various companies can come up with various counts. --[[User:Gerry Ashton|Gerry Ashton]] ([[User talk:Gerry Ashton|talk]]) 19:25, 10 May 2008 (UTC)
+
+== 65 nanometer ==
+
+My understanding is that the amount of stuff one can pack onto a wafer, and the performance of that stuff, is limited by the minimum size of 2 crucial features that can be produced by the machinery in a fab.
+These are 2 crucial measurements involved in chip manufacturing are:
+
+* the "channel length" of a [[MOSFET]].
+* the closest one can pack together polysilicon traces and first-layer metal traces and still (a) keep each trace fat enough to guarantee they make a continuous connection (rather than a useless dotted line), and (b) keep each trace narrow enough that it doesn't overlap a neighboring trace and cause a short circuit.
+
+A recent edit[http://en.wikipedia.org/w/index.php?title=Racetrack_memory&diff=next&oldid=207799334] of [[racetrack memory]] mentions that ''"In most cases memory devices store one bit in any given location, so they are typically compared in terms of "cell size", a cell storing one bit. Cell size itself is given in units of F², where F is the design rule, representing usually the metal line width."''
+
+However, the [[65 nanometer]] article implies that "F" is significantly larger than 65 nanometers.
+
+People who use [[Magic (software)]] for circuit board design seem to use a measurement called "L" or "lambda" a lot[http://opencircuitdesign.com/magic/tech.html][http://vlsitechnology.org/html/layout_rules.html][http://www.ece.iit.edu/~eoruklu/courses/ece429/tutorial/magic.html].
+
+This "integrated circuit" article mentions
+''"Use of 65 nanometer or smaller chip manufacturing process."'',
+but never mentions exactly what is 65 nanometers in size.
+
+* Could we add a sentence stating what this mysterious 65 nanometer object is?
+* Could we add a sentence to this "integrated circuit" article describing this "F" unit?
+* Could we add a sentence describing the "lambda" unit used in integrated circuit design?
+--[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 05:14, 15 December 2008 (UTC)
+
+== List of manufacturers moved to its own article ==
+
+I moved the list of chip manufacturers to its own article titled, [[List of integrated circuit manufacturers]]. It was getting too long in its section in this article. That [[Integrated_circuit#Manufacturers|section]] now has a "For" tag directing readers to the new article. The articles, [[List_of_microchip_manufacturers]], [[Microchip manufacturers]] and [[Integrated circuit manufacturers]] (among others), also redirects to the new article. If anyone has a problem with this change, please make your argument here, and, if it makes sense to those participating, we can move the list back. But, otherwise, I think this is good, considering the growing length of the list. [[User:Ask123|ask123]] ([[User talk:Ask123|talk]]) 08:12, 16 May 2009 (UTC)
+
+== What is Jack Kilby's true legacy? ==
+
+Would the development and later history of the integrated circuit been any different if Jack Kilby had never developed his IC in 1958?  Given it was germanium, how much of Kilby's work was later utilized by TI in developing their chips? Were Robert Noyce and others at Fairchild even aware of his work while they were developing the first silicon chip?  Was the "Noyce chip" a springboard for the IC revolution?
+
+I would be interested in hearing the opinions of others more knowledgeable on this subject than I am.--[[User:TL36|TL36]] ([[User talk:TL36|talk]]) 10:07, 6 August 2009 (UTC)
+
+:I think it's two things, really.  Not that his particular device was on the track, but it showed that he was pushing TI toward integration, and he kept at it when it became clear that the planar technology was the way to go, and made them a huge force in that development.  Personally, I think Noyce's device should get most of the credit for the invention of the IC though, as it incorporated the idea that worked and moved forward.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 16:02, 6 August 2009 (UTC)
+
+== Hearing aids as first applications ==
+
+As soon as I read the following line in the article: "Jacobi discloses small and cheap hearing aids as typical industrial applications of his patent. A commercial use of his patent has not been reported." I recalled the conclusion of R.S. Williams's memristor article in Spectrum a year ago [http://spectrum.ieee.org/semiconductors/processors/how-we-found-the-missing-memristor/6]: "Don’t forget that the transistor was lounging around as a mainly academic curiosity for a decade until 1956, when a killer app—the hearing aid—brought it into the marketplace." I'm somewhat confused, as R.S. Williams seems to be making the point that the first <i>industrial</i> application of the chip (& by that I assume he means a concrete one) was, indeed, the hearing aid. Anyone to elaborate further? [[User:Athenray|Athenray]] ([[User talk:Athenray|talk]]) 09:45, 20 November 2009 (UTC)
+: I don't think that particular quote was well founded. [[List of transistorized computers]] lists articles about several computers in the works or in use by 1956 - so the application of transistors to computing was appreciated early on. "Decade" sounds a bit long, Bell didn't disclose what they had until 1948 and U of Manchester was stringing them together into a computer only 5 years later...back when these things cost the equivalent of several hundred dollars each in today's money. You couldn't have done much with them at first due to the cost. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 14:36, 20 November 2009 (UTC)
+:: Excellent reply - thank you. Since I can only edit the WP page & not the Spectrum article, I'll leave it at that & keep in mind your remarks for future use. Thanks again! [[User:Athenray|Athenray]] ([[User talk:Athenray|talk]]) 17:20, 20 November 2009 (UTC)
+
+== What does an intergrated circuit do? ==
+
+As a high school physics student I found that this article contained a lot of terminolgy that was nintelligible to me. It would be helpful if the introduction of the article contained one or two sentences explaining the function of this device.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tessag2|Tessag2]] ([[User talk:Tessag2|talk]] • [[Special:Contributions/Tessag2|contribs]]) 06:51, 6 June 2010 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->[[User:Tessag2|Tessag2]] ([[User talk:Tessag2|talk]]) 07:09, 6 June 2010 (UTC)
+
+==No mention of where they get the silicon for the chips??==
+----
+They get the pure quartz from a mine in North Carolina, namely the town of Spruce Pine...the pure quartz needed is found only in that one mine in the entire world, so it is very unique, and therefore should be mentioned in the article since it's of such great importance in the process of making an Integrated Circuit.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.110.109.75|24.110.109.75]] ([[User talk:24.110.109.75|talk]]) 17:04, 12 December 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:That might be worth mentioning, but we would need a reliable source for that information (or it might be better in a general article about [[Semiconductor device fabrication]]. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 17:13, 12 December 2010 (UTC)
+:: Sounds like chamber-of-commerce boosterism to me, without any basis in fact.  You can get quartz sand anywhere in the world, and ICs aren't made of quartz anyway. There's so much processing involved you could probably start from old beer bottles and come up with usable ICs. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 17:18, 12 December 2010 (UTC)
+:::It is not hype at all. For starters, here is a BBC article all about it. Go to [http://news.bbc.co.uk/2/hi/technology/8178580.stm].  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.110.109.75|24.110.109.75]] ([[User talk:24.110.109.75|talk]]) 04:09, 15 December 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+::::Interesting article.  It makes it clear that this quartz is NOT what the silicon wafers are made from.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 04:53, 15 December 2010 (UTC)
+::::It also states that the silicon can be obtained anywhere.  The quartz is used to construct the processing equipment, not the wafers themselves.   [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 11:52, 15 December 2010 (UTC)
+:::::Once again showing the advantage of citing sources. I guess "Spruce Pine" is less unique than "very" unique, maybe only averagely unique...but a place named after two similar trees is unusual. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 14:23, 15 December 2010 (UTC)
+
+== Manufacturing, costs of constructing a FAB ==
+
+Just removed the text saying a FAB costs $1bn to construct. This seems to be purely based on the fact that an Intel FAB cost $1.5bn, and there is no evidence whatsoever to say that a FAB cannot built for less, probably because whoever wrote that line is talking out their ....  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Jatos|Jatos]] ([[User talk:Jatos|talk]] • [[Special:Contributions/Jatos|contribs]]) 23:29, 29 March 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:It's well founded for a modern fab.  [[Stepper]]s can cost $100m each and you may need a dozen of them per plant.  Source?  Well, the BBC covered this recently in their Discovery programme.  Go to [http://www.bbc.co.uk/podcasts/series/discovery] and click the Memristors podcast. [[User:Crispmuncher|Crispmuncher]] ([[User talk:Crispmuncher|talk]]) 01:21, 30 March 2011 (UTC)
+==ref 5==
+ref 5 "George Rostky, (n. d.), "Micromodules: the ultimate package", (HTML), EE Times, accessed July 8, 2008." returns a broken link[[User:Donhoraldo|Donhoraldo]] ([[User talk:Donhoraldo|talk]]) 05:49, 15 October 2011 (UTC)
+
+
+==Events of 1975-1976 - Noyce/Lehovec - junction isolation ==
+
+The article says that in 1977 "Robert Noyce credits Lehovec in his article – "Microelectronics", Scientific American, September 1977, Volume 23, Number 3, pp. 63–9". Leslie Berlin's bio of Noyce confirms that Noyce knew what Lehovec was doing, so there's no surprise that in Dec. 1958 - Jan. 1959 Noyce trailed Lehovec by a month or two. 
+
+But then in 1976 Noyce denied any prior knowledge of Lehovec: "I was unaware of that at the time", period [http://www.ieeeghn.org/wiki/index.php/Oral-History:Robert_N._Noyce].
+
+What happened? If, indeed, he changed his mind, what was the cause? [[User:Retired electrician|Retired electrician]] ([[User talk:Retired electrician|talk]]) 13:14, 22 April 2012 (UTC)
+
+== Packaging et al ==
+{{collapse top|highly motivated COI rant collapsed}}
+
+Whether flip chip or TAB, the inventor was Frances Hugle.
+
+"Ms. Francis Hugle (Hugle Industries of California) devised a package
+that used a flip chip directly bonded to a tiny flex circuit. Her "Flip Chip
+Strip" appears to be the first flex-based package and a close-up from
+the patent drawing is shown in Figure 5. A two-stage etching process,
+or step etching, produced the chip connection "bumps". The Hugle
+patent appears to be the first public documentation of Chip-on-Flex.
+The flex material was Dupont's polyester since Kapton was not available
+yet." http://www.allflexinc.com/PDF/Flip%20Chip%20on%20Flex%20-%20CircuiTree.pdf
+
+Yet any attempted mention in this article of the scientist and engineer who drove the industry for two decades and whose work continues to define it is summarily deleted.
+
+A few of her other seminal contributions:
+
+1) First ever published description of how to fabricate a monolithic IC (quote below was approved for inclusion in this article by an administrator at the Reliable Sources Noticeboard yet again deleted with socket puppet claims, and though these were found to be baseless, the words have still not been reintroduced.) 
+
+"Also in 1956, a patent application describing how to fabricate an IC was filed by Frances Hugle, US 3226271, Hugle, Frances B. & William B. Hugle, "Semi-Conductive Films and Method of Producing Them", published March 29, 1956. This patent was ultimately divided into two claim sets, the first set was awarded articles of patent in 1961 (patent no. US 2994621) and the second set in 1965 (patent no. US 3226271)."
+
+2) First reduction to practice of Silicon Gate Technology (invented the microprocessor):
+
+US 3574007, Hugle, Frances B., "Method of Manufacturing Improved MIS Transistor Arrays", published 19 July, 1967
+
+[[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 18:20, 24 February 2013 (UTC) Cheryl Hugle
+
+===Three different contributions===
+
+Lou, please do not insert your comments directly into my text. Your comments do make statements that beg correction... so the ensuing discussions may become lengthy. 
+
+Thus much of the cogency of the original text will be lost.
+
+You can copy those parts of my statement which you are referring to and then make your comment.
+
+[[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 20:01, 24 February 2013 (UTC) Cheryl Hugle
+
+=== Packaging ===
+
+Whether flip chip or TAB, the inventor was Frances Hugle.
+
+"Ms. Francis Hugle (Hugle Industries of California) devised a package that used a flip chip directly bonded to a tiny flex circuit. Her "Flip Chip Strip" appears to be the first flex-based package and a close-up from the patent drawing is shown in Figure 5. A two-stage etching process, or step etching, produced the chip connection "bumps". The Hugle patent appears to be the first public documentation of Chip-on-Flex. The flex material was Dupont's polyester since Kapton was not available yet." http://www.allflexinc.com/PDF/Flip%20Chip%20on%20Flex%20-%20CircuiTree.pdf
+
+:This seems plausible based on the one reference provided, though I'm no expert in the history of this field.  It is indeed already referenced on the page [[Tape-automated bonding]].  It might make sense to mention it in [[Flip chip]] or [[Integrated circuit packaging]].  It's too much detail for the [[Integrated circuit]] page, in my opinion.  None of the other packaging methods have inventors or patents mentioned, and doing so would be going fairly far afield. [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 19:40, 24 February 2013 (UTC)
+
+:: Flip chip and TAB represent the major breakthroughs in packaging, the importance of which only becomes greater with time. 
+
+::There is no reason that a discussion about packaging should not name its inventor, that's the addition of maybe four words. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 20:57, 24 February 2013 (UTC) Cheryl Hugle
+
+:::In the article [[Integrated Circuit Packaging]], this perhaps make sense.  In the article on [[Integrated circuits]], the section on packaging quickly mentions 12 different packaging technologies, six in one paragraph.  Specifying inventors does not seem, to me, what the reader would expect at this level of detail.  If they want that, they should go to the article on packaging, or better yet on the particular packaging method they are interested in.   [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 13:08, 25 February 2013 (UTC)
+
+:::The relevant patent appears to be 3440027.  It was filed in 1966, but not granted until 1969.  Since applications were not public then, the first public disclosure would have been on the granting date, not the filing date.  Anyone know what the corresponding GE patents/dates are?  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 16:48, 25 February 2013 (UTC)
+
+:::There appears to be an earlier patent, by Marley of ITT, US 3,390,308, that covers this technique, with cantilever leads on a flexible film.  This, and the Hugle patent, is covered in [http://material.htlwien10.at/wissensspeicher/Leiterplattengeschichte/Chapter_04_The_Printed_Circuit_as_a_Chip_Carrier_Part_2.pdf The Printed Circuit as a Chip Carrier, Part 2] by Gilleo and Murray.  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 20:51, 25 February 2013 (UTC)
+
+:::: We are now entering the field of definitions 'prior art', 'prior invention', etc... "The relevant patent appears to be 3440027. It was filed in 1966, but not granted until 1969. Since applications were not public then, the first public disclosure would have been on the granting date, not the filing date. Anyone know what the corresponding GE patents/dates are?" 
+
+:::: Here's how the industry sizes it up:
+
+:::: "Flex Packages
+::::TAB
+::::Let’s start with Tape Automated Bonding since that is where the history of flex packaging began. Several early packaging engineers were intrigued by the properties of flex and realized that here was an ideal system. One early developer was Dr. Francis Hugle of San Jose, California. Her concepts embraced the flexible characteristics leading to an easy-to-automate tape & reel approach. The flex substrate was Dupont’s polyester Mylar since Kapton was just being introduced and was not as widely available. The IC connection was DCA (Direct Chip Attach) with localized heating so that the temperature-sensitive film survived. Figure 5 shows the patent drawing and the innovative sprocket design in the “Flip Chip Strip”. The idea was to use the sprocket holes to move the reel of packages just like movie film. Note how the copper is used to frame the circuit and enhance strength. Ms Hugle had some advanced ideas of protection including overmolding the chip-on-flex as General Electric patented a similar tape & reel flex package called Minimod that is generally considered to be the first TAB although '''the patent date is later than the Hugle invention.''' Two significant differences for Minimod is that the flex is Kapton and the chip connection used cantilevered beams. Figure 7 shows the principles. Note that Hugle chose round holes while GE liked square ones. Modern TAB more or less follows the GE design." http://www.et-trends.com/files/Gilleo_IPC-flex00.pdf
+
+:::: What is most interesting about this is that, since the granting of Frances' patent claims were delayed (remained unpublished by the USPTO), GE could make minor changes to her invention and still obtain a patent on it. According to patent law, once Frances' claims (application) was published (patented) all 'augmentations, etc. that could have been reasonably deduced from it by one experienced in the art... would not be patentable' (paraphrasing) So, we now discover one of the reasons why a number of Frances Hugle's patents were delayed (in comparison to similar claims, applied for later but granted earlier).
+
+:::: Regardless, there aren't many (any?) industry experts who do not agree that Frances Hugle was the inventor... whether her claims were validated first or not, it is clear they were formally submitted before any others.
+
+:::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 23:41, 25 February 2013 (UTC) Cheryl Hugle
+
+:::::There are some who think this is not clear.  The [http://www.google.com/patents/US3390308?printsec=drawing#v=onepage&q&f=false Marley/ITT patent] was submitted earlier (March 1966) than the Hugle patent (June 1966).  As [http://material.htlwien10.at/wissensspeicher/Leiterplattengeschichte/Chapter_04_The_Printed_Circuit_as_a_Chip_Carrier_Part_2.pdf The Printed Circuit as a Chip Carrier, Part 2],  by Gilleo (same author you cited) and Murray states:
+
+:::::"However, the idea of a window in a flex circuit with cantilevered beam leads had already been patented by ITT, with a filing date of March 1966.  The ITT patent disclosed the use of a flexible circuit chip carrier with a window-like access opening in the bond area. The dielectric film could be polyester or polyimide. Additive plating formed the beam leads, although the exact method is not described."
+
+:::::In particular, look at Figure 1 of this patent.  This looks almost exactly like the Hugle and GE drawings.  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 00:29, 26 February 2013 (UTC)
+
+:::::: Still, ITT's patent is NOT TAB nor does the author infer that it is (what is stated is that GE should not alone be credited with the invention since it was clearly already invented by Frances and ITT had also introduced a prior packaging idea utilizing flexible strips). 
+
+:::::: This is TAB (from the abstract of the Hugle patent)
+
+:::::: "Abstract of the disclosure:
+
+:::::: A continuous roll form array of packages for flip chip semiconductor devices and integrated circuits wherein the delicate metal conductors to which the chips are face bonded are supported on a flexible insulating strip. This strip supports an entire role of packages and provides indexing holes along the sides. The individual packages may contain more than one chip and may provide chip to chip interconnections. The number of external electrical package connections is unlimited." http://www.archpatent.com/patents/3440027
+
+:::::: Also from the article, "Figure 3. A great many variations of Frances Hugle’s process
+:::::: developments appeared in the wake of her tragically early death." http://material.htlwien10.at/wissensspeicher/Leiterplattengeschichte/Chapter_04_The_Printed_Circuit_as_a_Chip_Carrier_Part_2.pdf
+
+:::::: I think that makes it pretty clear who this author is giving credit to for the invention.
+
+:::::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 04:01, 26 February 2013 (UTC) Cheryl Hugle
+
+::::::: No need to guess - Gilleo explicitly talks about giving credit:  "it is fair to say that a number of people were responsible for the TAB idea and credit should not go to GE alone."  This is right after the paragraph on Marley, so he is surely included.  The most straightforward re-writing of this might be "A number of people were responsible for the TAB idea - Marley, Hugle, and the folks at GE", in chronological order of contribution.  Or you could divide specific credit, "Marley first described the sprocketed plastic strip and cantilever bonds, Hugle the idea of storing these on a roll, and GE made it a commercial success".
+
+::::::: This seems perfectly normal to me.  Ideas normally emerge from a fog of ideas that are floating around.  It's also possible they both could have heard about the idea from some other industry person yet unnamed. And neither of them made it a commercial success, GE did that.  So who really invented it?  T-A-B has three parts - tape, automated, and bonding.  An advocate for Marley would argue that having leads on a flexible film was the really important part, and the idea continuous production is an application of his scheme, and is obvious from his diagram of tape with sprocket holes. Hugle could argue that the Marley never mentioned continuous production, the idea was not obvious, and that this was the critical contribution.  GE could argue that they actually invented a way to do this cost effectively, even though others had described similar methods earlier.  (This is the sense in which Edison "invented" the electric light.)  Like any complex invention, who the "inventor" is depends on what you consider the "crucial" part.   That's why Gilleo says "a number of people were responsible", which I think is the most correct statement.
+
+::::::: At any rate this sort of detail should probably go in the TAB article.  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 13:40, 26 February 2013 (UTC)
+
+:::::::: What is generally missing from our discussion is the relevant context (pertinent to ITT, http://en.wikipedia.org/wiki/ITT_Corporation#German_Subsidiaries_in_the_Nazi_Period) which at this stage is beyond the scope of Wikipedia. 
+
+:::::::: Frances was shadowed her entire career by industrial spies. One of those was John Broady mentioned in the book, Broker, Trader, Lawyer, Spy: The Secret World of Corporate Espionage by Eamon Javers (Feb 9, 2010). In fact the title describes John's profession quite aptly. He provided the funding for the first company Frances co-founded with her new husband William and William continued working for John Broady (and his partners) for years after Frances died. William was the principle confidant of Frances. And John Broady, according to one account, began his career in industrial spying for Bell Labs. According to reliable family accounts, John Broady was involved (like ITT/with ITT?) in high profile political assassinations in South America. And William Hugle was accused twice of illegal transfers of technology... the first time for a crime that parallels the activities for which ITT was charged (and who used a trick, blackmail, from John Broady's rule book to escape prosecution). 
+
+:::::::: So, the real history is that ITT did not invent the idea of the flexible strip but rather it was passed to them via industrial spy, William Hugle (and this is not the first time in Frances' career this happened.). This still has to be thoroughly proven, and it will take time to compile all the evidence and find someone courageous enough to publish it so that it can finally be written into the appropriate article(s) within Wikipedia.
+
+:::::::: But, as the complete story of Frances Hugle unfolds, we are going to see the enormous footprint of the MIC's power elite in determining how credit (and money) is apportioned, regardless of who the actual inventor was. 
+
+:::::::: Please forgive this digression. I added it only because as we search for logic in sometimes conflicting data, the only way to discover cogency (if we don't just throw out the offending bits of data) is to appropriately enlarge the context so that we can discover the actual dynamics in which the data arose.
+
+:::::::: 19:34, 26 February 2013 (UTC) Cheryl Hugle  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]] • [[Special:Contributions/Cheryl Hugle|contribs]]) </span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:::::::: In Sum,
+
+:::::::: ITT used Frances' work, illegally gotten, to rush a patent app prior to her filing. It included many of her ideas but not all. Patenting her application was delayed which allowed GE to obtain a patent for her work by simply redefining the shape of the holes. This type of modification would not have resulted in a patent for GE had the patent office published Fran's claims prior to GE's filing. The sticky problem here is how 'prior art' is defined. And that is not the same as who invented something.
+
+:::::::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 21:27, 26 February 2013 (UTC) Cheryl Hugle
+
+:::::::::From [http://www.globalimpactvideo.com/svec/files/SVEC%20Journal%20Volume%201.pdf A Brief History of IC Packaging and Interconnection Technology, by Joseph Fjelstad]: "As is often the case with many individuals seeking solutions, near simultaneous invention was the case for TAB. Two inventors of note in the area were Frances Hugel, a pioneering woman engineer in the field of IC packaging from Silicon Valley, who devised a method for automating assembly; and John Marley of ITT, who invented a device which was not only TAB-like but was among the first to describe what later came to be called a multichip module. Between them they had invented the important elements of TAB technology which found fairly wide popularity for many mid to high pin count ICs in the 1980s (see Figure 4)."
+
+:::::::::Unless you can find a reliable source for the espionage story, I suspect shared credit is all that can be shown.  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 04:46, 27 February 2013 (UTC)
+
+:::::::::: Espionage is a fact of the electronics industry, not just the life of Frances, as has been well documented elsewhere. 
+
+:::::::::::"Target industries
+
+::::::::::: Economic and industrial espionage is most commonly associated with technology-heavy industries, including computer software and hardware, biotechnology, aerospace, telecommunications, transportation and engine technology, automobiles, machine tools, energy, materials and coatings and so on. '''Silicon Valley is known to be one of the world's most targeted areas for espionage,''' though any industry with information of use to competitors may be a target.[7]" http://en.wikipedia.org/wiki/Industrial_espionage [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:04, 2 March 2013 (UTC) Cheryl Hugle
+
+::::::::::Here's a quote from http://www.bugsweeps.com/info/colliers_6-10-55.html specifically about John Broady: "Already some government officials are spying electronically on subordinates, some businesses are spying on competing firms, some unions are spying on rival unions, and anyone can have a peep-show view of anyone else's life.
+
+:::::::::: If these statements sound fantastic and unnecessarily alarming, just consult your daily newspaper. Only a few weeks ago the press carried page-one stories about a New York City wire-tapping ring that set up elaborate listening posts in two East Side apartments to monitor the telephones of assorted business firms and individuals. Two telephone-company technicians-since discharged-were accused of making certain technical adjustments in a nearby telephone exchange building to enable the listening posts to eavesdrop on any of the 56,000 lines served by the building. A cable capable of carrying up to 100 calls simultaneously led from one of the apartments to the telephone building. The ring operated for a year and a half before a police raid forced it to cease operations.
+
+:::::::::: '''Indicted as mastermind of the setup was John G. (Steve) Broady, a New York attorney and private investigator. He was accused specifically of having tapped 14 telephones in the names of eight persons and corporations on four different exchanges.''' The indictment said those whose phones were monitored included Ethelbert Warfield, former law partner of New York City Police Commissioner Francis W.H. Adams; the Knoedler Art Galleries; the pharmaceutical firm of E.R. Squibb & Sons; the wife of an investment banker involved in divorce proceedings, and two models. Broady had had a previous brush with the law over wiretapping. In 1949 he was indicted with two other private investigators on charges of tapping the telephones of New York City officials, including the then mayor, William O'Dwyer. The indictment subsequently was dismissed."
+
+:::::::::: In order to get officials to drop cases, blackmail was generally used. 
+
+:::::::::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 22:56, 27 February 2013 (UTC) Cheryl Hugle
+
+:::::::::Doing business the Hugle, ITT way... circumvent the rules:
+
+:::::::::"Criminal prosecution 
+
+:::::::::In March 2007, ITT Corporation became the first major defense contractor to be convicted for criminal violations of the US Arms Export Control Act. The fines resulted from ITT's outsourcing program, in which they transferred night vision goggles and classified information about countermeasures against laser weapons, including light interference filters to engineers in Singapore, the People's Republic of China, and the United Kingdom.[39] They were fined US$100 million although they were also given the option of spending half of that sum on research and development of new night vision technology. The United States government will assume rights to the resulting intellectual property.[40][41]
+
+:::::::::In its investigation and subsequent ruling the United States Department of Justice found that the corporation went to significant lengths to circumvent rules regarding the exports including setting up a front company. According to U.S. Attorney John L. Brownlee, the company fought the investigation in order "to essentially run out the clock on the statute of limitations." [42] http://en.wikipedia.org/wiki/ITT_Corporation#Criminal_prosecution
+
+::::::::: About Hugle, http://news.google.com/newspapers?nid=1310&dat=19831020&id=yTtWAAAAIBAJ&sjid=OOkDAAAAIBAJ&pg=6570,5173625 Needless to say, my statements in this article are a source of TOTAL embarrassment today:|
+
+::::::::: Obviously this is not the complete story of how the TAB invention was stolen but it flushes out some of the players.
+
+::::::::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 23:17, 27 February 2013 (UTC) Cheryl Hugle
+
+===Patents 3226271 and 2994621 ===
+1) First ever published description of how to fabricate a monolithic IC (quote below was approved for inclusion in this article by an administrator at the Reliable Sources Noticeboard yet again deleted with socket puppet claims, and though these were found to be baseless, the words have still not been reintroduced.) 
+
+"Also in 1956, a patent application describing how to fabricate an IC was filed by Frances Hugle, US 3226271, Hugle, Frances B. & William B. Hugle, "Semi-Conductive Films and Method of Producing Them", published March 29, 1956. This patent was ultimately divided into two claim sets, the first set was awarded articles of patent in 1961 (patent no. US 2994621) and the second set in 1965 (patent no. US 3226271)."
+
+:I have read these two patents in detail, and they appear to me to not involve what we now call a monolithic IC.  They work by vaporizing different materials to create semiconducting devices on top of a passive substrate.   "Thus it will be found that glasses and ceramics are most available for use in this process.", from 3226271.  In a monolithic IC, the substrate is part of the circuit, including all the active components.  In this sense, the Jacobi, Dummer, and Oliver patents, all earlier, describe the monolithic IC much better.  The patents here, on the other hand, basically describe a circuit board with devices fabricated on top from deposited materials.  This is a useful technology, but not a monolithic IC.  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 19:40, 24 February 2013 (UTC)
+
+:: "They work by vaporizing different materials to create semiconducting devices on top of a passive substrate."
+
+:: That's a definition of an IC. Nowhere is there mention of a printed circuit board in the Frances Hugle patent. You are simply and quite incorrectly conflating substrate and circuit board. Furthermore, "substrate is part of the circuit"? yes, if you are referring to the insulating part, which the Frances Hugle patent also specifies. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 20:53, 24 February 2013 (UTC) Cheryl Hugle
+
+:::What's the definition of IC you are using?  In conventional usage, what is mentioned in the patent is not an IC.  Here are some definitions of IC, italics added:  Google: "An electronic circuit formed ''on a small piece of semiconducting material'', performing the same function as a larger circuit made from.."  American Heritage: "A complex set of electronic components and their interconnections that are ''etched or imprinted onto a tiny slice of semiconducting material''."  Dictionary.com: "a circuit of transistors, resistors, and capacitors ''constructed on a single semiconductor wafer or chip'', in which the components are interconnected to perform a given function", and so on.   [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 13:08, 25 February 2013 (UTC)
+
+:::: You said, "I have read these two patents in detail, and they appear to me to not involve what we now call a monolithic IC. They work by vaporizing different materials to create semiconducting devices on top of a passive substrate. "Thus it will be found that glasses and ceramics are most available for use in this process.", from 3226271. In a monolithic IC, the substrate is part of the circuit, including all the active components."
+
+:::: This is more correct: "An integrated circuit consists of tens of thousands of transistors and other circuit elements that are fabricated in a substrate of inert material. '''That material can be ceramic or glass for a film-integrated circuit''' or silicon or gallium-arsenide for a semiconductor integrated circuit (SIC)." http://science.jrank.org/pages/2378/Electronics-Integrated-circuits.html 
+
+:::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 10:28, 27 February 2013 (UTC) Cheryl Hugle
+
+:::: McGraw-Hill Science & Technology Dictionary: film integrated circuit
+
+:::: (electronics) An integrated circuit whose elements are films formed in place on an insulating substrate.
+
+:::: http://www.answers.com/topic/film-integrated-circuit#ixzz2M5x6iCTy
+
+:::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 10:46, 27 February 2013 (UTC) Cheryl Hugle
+
+:::::However, the topic for *this* article is monolithic integrated circuits, as explained in the very first sentence.  Technical definitions such as [http://www.jedec.org/standards-documents/dictionary/terms/integrated-circuit-ic Jedec's definition of an IC] point out that there are many kinds of integrated circuits.  However, the monolithic, semiconductor IC is what is meant in the vast majority of cases, as demonstrated by the google and dictionary definitions above.  So although the article title is [[Integrated circuit]], and there are technically other kinds of integrated circuit (per the JEDEC standard, for example), the article is about the most common, and most commonly referenced, kind.  This is both what the typical reader expects and conforms to [[WP:PRIMARYUSAGE]].
+
+:::::I suspect the right answer is that this article should note there are other kinds of things technically called "Integrated Circuits", and link to the pages describing them.  Then it might make sense to list Hugle as an inventor of film-integrated circuits.  (On the other hand there might be controversy in this field as well as to the actual inventor(s) - I'm not familiar with the field).  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 11:41, 1 March 2013 (UTC)
+
+:::::: Still, Fran's patent describes the process to build the first IC of any type. And that makes her the inventor of the IC. Yet you suggest she be banished to an IC subcategory where mention might be allowed? But other developments in IC history should be included? 
+
+:::::: And thin film ICs are hardly just a step on the path to monolithic ICs. They continue to be a critical and developing member of the IC family and the type invented by Frances is often included in the monolithic IC family. http://books.google.com.mx/books?id=bmt-l0KgOdsC&pg=SA1-PA3&lpg=SA1-PA3&dq=are+thin+film+ics+considered+monolithic+ics&source=bl&ots=VVEdia4Abt&sig=ZWr8wMZPrwUwTR5i_8QROqEQSIQ&hl=en&sa=X&ei=yeMwUe-ADorO9ASGu4D4Ag&ved=0CEwQ6AEwBA#v=onepage&q=are%20thin%20film%20ics%20considered%20monolithic%20ics&f=false
+
+:::::: Also, the critical process for producing all types of monolithic ICs is the 'planar process' and this is the prominent process explained by Frances' patent(s).
+
+:::::: Again, "integrated circuit [′int·ə‚grād·əd ′sər·kət]
+::::::(electronics)'''An interconnected array of active and passive elements integrated with a single semiconductor substrate or deposited on the substrate by a continuous series of compatible processes,''' and capable of performing at least one complete electronic circuit function. Abbreviated IC. Also known as integrated semiconductor."
+
+:::::: Even this article states: "Terminology
+
+:::::: An integrated circuit is defined as:[2]
+
+::::::    A circuit in which all or some of the circuit elements are inseparably associated and electrically interconnected so that it is considered to be indivisible for the purposes of construction and commerce.
+
+::::::Circuits meeting this definition can be constructed using many different technologies - see for example thin-film transistor, thick film technology, or hybrid integrated circuit. However, in general usage integrated circuit has since come to refer '''to the single-piece circuit construction originally known as a monolithic integrated circuit.'''[3]"
+
+:::::: In sum, Frances invented the IC (even the monolithic IC by many peoples' definition) and some mention of her patent is entirely appropriate in the history section of this article even if it only notes, without insisting upon first invention, that she filed a patent in 1956 describing how to fabricate an IC. You deleted my text when I attempted to do that citing COI. So my hands are tied. (Even though I only added the text after presenting it on this Talk page and another editor suggested I do it myself.) I can only hope that others will review this situation with an open mind and make appropriate inclusions.
+
+:::::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 19:23, 1 March 2013 (UTC) Cheryl Hugle
+
+===Patent 3574007===
+
+2) First reduction to practice of Silicon Gate Technology (invented the microprocessor):
+
+US 3574007, Hugle, Frances B., "Method of Manufacturing Improved MIS Transistor Arrays", published 19 July, 1967
+
+:This patent speaks of building large arrays of transistors on non-single crystal insulating substrates.  The very first claim says "heating a non-single-crystal insulating substrate".  This is not a monolithic IC as we understand it today, which are built, and must be built, on single crystal, non-insulating substrate.  Also, though the patent speaks of arrays of transistors, there is no mention of applications, so it is not clear how this could be seen to invent the microprocessor.  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 19:40, 24 February 2013 (UTC)
+
+:: I have already addressed these points in detail elsewhere. I think the issue is that you are out of your element and do not understand the terms you attempt to use. I am not trying to insult you but your arguments are all based upon misunderstandings of basic terminology.
+
+:: The Frances patent is the first reduction to practice of Silicon Gate Technology:
+
+:: "Robert Kerwin, Donald Klein and John Sarace at Bell Labs improved the speed, reliability, and packing density of MOS transistors (1960 Milestone) '''by replacing the aluminum metal gate electrode with a polycrystalline layer of silicon in 1967'''. Boyd Watkins described a similar self-aligned, silicon-gate structure at General Microelectronics in 1965 but patent filing was delayed until 1969." http://www.computerhistory.org/semiconductor/timeline/1968-SGT.html
+
+:: The actual facts of this are; SGT was theoretically introduced by Boyd in 1965 but he did not describe (or apparently know) how to accomplish it practically. Frances was the first person to reduce it to practice and describe in detail how to do this and we have her published claims proving it. Bell Labs claimed they invented it but this claim was actually against Boyd, not Frances. Frances' patent was delayed until Bell Labs was given a patent on the technology that they clearly did not invent, either theoretically or practically and both Intel and Fairchild were using extensively. 
+
+:: FYI, Frances learned she had stomach cancer only months after publishing this patent application and died a few months before Intel was formed. She was participating in one day ski trips just prior to learning she had cancer with a group of engineers I assume included Noyce. I further assume the purpose of these trips was to spend the 10 hours driving to and from Tahoe (from Santa Clara) discussing how to overcome the production/fabrication unknowns (on the part of the other engineers). Frances was by anyone's account the industry expert in the production field. In fact, an engineer who worked both at Intel and Fairchild years later said he kept encountering her drawings being widely shared in both places, drawings he recognized from of her personal estate.
+
+::[[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 20:53, 24 February 2013 (UTC) Cheryl Hugle
+
+:: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 21:04, 24 February 2013 (UTC) Cheryl Hugle
+
+:::One additional comment here - the invention of the microprocessor is completely independent of silicon gates.  There were early microprocessors (early 1970s) that were build with metal gates, before silicon gate became a popular option.  More recently, there has been a move away from silicon gates, as seen in [http://download.intel.com/technology/silicon/HighK-MetalGate-PressFoils-final.pdf Intel announcement].  So whether or not the patent in question was important in the development of silicon gate technology, it was definitely not "invented the microprocessor".  [[User:LouScheffer|LouScheffer]] ([[User talk:LouScheffer|talk]]) 13:08, 25 February 2013 (UTC)
+
+::::: "One additional comment here - the invention of the microprocessor is completely independent of silicon gates." 
+
+::::: No, it is not: "The silicon gate technology (SGT) was also adopted by Intel at its founding (July 1968), and within a few years became '''the core technology for the fabrication of MOS integrated circuits worldwide''', lasting to this day." http://en.wikipedia.org/wiki/Self-aligned_gate [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 08:52, 17 March 2013 (UTC) Cheryl Hugle
+
+::::: The microprocessor was entirely dependent upon Silicon Gate Technology. Here's an excerpt referring to Faggin, the person most often credited with SGT and the architecture of the first microprocessor. 
+
+::::: " In 1968 he moved to Palo Alto and worked at Fairchild Semiconductor, '''where he created the MOS Silicon Gate technology with self-aligned gate, the basis of all modern CMOS computer chips.''' At Fairchild he produced the world's first commercial integrated circuit using Silicon Gate Technology with self aligned MOS transistors: the Fairchild 3708.[2]
+
+::::: In 1970 he joined Intel where Marcian (Ted) Hoff, with Stanley Mazor and Intel's customer Masatoshi Shima, had formulated a new architecture for a family of Busicom calculators in 1969. Faggin was hired as project leader to implement such architecture. '''He created a new methodology for random logic chip design using silicon gate technology,'''..[3][4]  http://en.wikipedia.org/wiki/Federico_Faggin
+
+::::: But, it was not Faggin who invented SGT, or the group from Bell, it was Frances and her patent proves it. [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 08:22, 17 March 2013 (UTC) Cheryl Hugle
+
+::::I don't know about the [[TMS 1000]], which may have been the first 4-bit microprocessor, but the first commercially available microprocessor, the Intel 4004, used self-aligned silicon gates. Being self-aligned was (and is) important, and I don't know if the patent mentioned above describes a self-aligned process. Even if it did, lots of patents describe dead-ends; the product isn't build commercially, and may not work at all. A secondary reliable source is required to determine which inventions had any influence on the industry. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 15:11, 25 February 2013 (UTC)
+
+::::: "...the product isn't build commercially, and may not work at all." 
+
+:::::'''The 'product' is a PROCESS''' which is used to build all sorts of ICs. It is the same process used initially by Intel and so we can be assured it works:
+
+::::: "'''The silicon gate technology (SGT) was also adopted by Intel at its founding (July 1968), and within a few years became the core technology for the fabrication of MOS integrated circuits worldwide, lasting to this day. Intel was also the first company to develop non-volatile memory using floating silicon gate transistors.'''" http://en.wikipedia.org/wiki/Self-aligned_gate [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 08:43, 17 March 2013 (UTC) Cheryl Hugle
+
+::::: "Innovations that made Self-Aligned Gate Technology possible
+
+:::::Certain innovations were required in order to make self-aligned gates:[2]
+
+::::::    a new process that would create the gates;
+::::::    '''a switch from amorphous silicon to polycrystalline silicon. This is because :::::amorphous silicon broke down during the oxide steps;'''
+::::::    a method for etching polycrystalline silicon (photolithography);
+::::::    a method to reduce the impurities present in silicon." http://en.wikipedia.org/wiki/Self-aligned_gate
+
+::::: [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 08:22, 17 March 2013 (UTC) Cheryl Hugle
+
+{{collapse bottom}}
+
+== Smoking Gun ==
+{{collapse top|highly motivated COI rant collapsed}}
+
+Frances Hugle died of stomach cancer in 1968.
+
+Frances Hugle filed a patent on Silicon Gate Technology in 1967, the technology that was the raison d'etre of Intel. She also held a number of other valuable patents. If she had lived, she may have successfully challenged the dates of the Bell Lab SGT patent and other patents awarded following her death to companies such as GE.
+
+Shortly after she died, her family moved and the house was rented to [http://en.wikipedia.org/wiki/Don_Hoefler Don Hoefler], a close friend and drinking buddy of William Hugle. Don's wife also soon developed stomach cancer and two years later, Fuji, the man who founded [http://www.hugle.co.jp/english/company.html Hugle Electronics, Japan], reported that his wife (age 37) had also developed stomach cancer. When Fuji was asked how he felt about his wife's cancer he reportedly said, "I'm not worried, I already found someone to replace her."
+
+Considering the value of Frances Hugle's inventions, that these properties came immediately (at least nominally) under the control of William Hugle following her death and that two other women NOT within Frances Hugle's social circle but who were within William's social circle, the following statistics seem to be a smoking gun.
+
+[http://cancer.emedtv.com/stomach-cancer/stomach-cancer-statistics.html Statistics for incidence and death from stomach cancer in women aged 35-44]:
+
+:During 1998-2002, the median age at death for stomach cancer was 74 years of age. The percentages of people who died from stomach cancer based on age were as follows:
+ 
+
+    ::0.0 percent died under age 20
+    ::1.2 percent died between 20 and 34
+    ::'''3.8 percent died between 35 and 44'''
+    ::8.8 percent died between 45 and 54
+    ::14.4 percent died between 55 and 64
+    ::24.5 percent died between 65 and 74
+    ::30.4 percent died between 75 and 84
+    ::16.9 percent died at 85 years of age or older. 
+
+ 
+:The age-adjusted stomach cancer death rate was 4.5 per 100,000 men and women per year. These rates are based on patients who died in 1998-2002 in the United States. Stomach cancer death rates by race and sex were:
+
+:'''2.8 per 100,000 White women'''
+
+So, if I understand correctly, approximately 1 in 1 million white women died between the ages of 35 and 44, the age range into which Frances fell at the time of her death. Though these incidence rates were higher in 1968 and higher yet in Japan, the likelihood of death by stomach cancer at such a young age was still statistically rare.
+
+If there is a 1 in a million chance that someone will die of a specific disease at a particular age, what is the probability that there will be three such cases at approximately the same time in one person's life?
+
+The number seems to be something greater than 1 in a quadrillion.
+
+[[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]]) 22:18, 1 April 2013 (UTC) Cheryl Hugle  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Cheryl Hugle|Cheryl Hugle]] ([[User talk:Cheryl Hugle|talk]] • [[Special:Contributions/Cheryl Hugle|contribs]]) 22:16, 1 April 2013 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+{{collapse bottom}}
+
+== "much less material used" ==
+
+i would like to see evidence for this statement  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/50.75.31.116|50.75.31.116]] ([[User talk:50.75.31.116|talk]]) 20:49, 3 November 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Suggest change in quantities ==
+
+In the very top section, above the contents list, there seems to be a discrepancy between two statements referring to the number of transistors which can be built into an IC. In the first paragraph, we have this:
+
+"ICs can be made very compact, having up to several billion transistors and other electronic components in an area the size of a fingernail."
+
+Then in the third paragraph, we have this:
+
+"As of 2012, typical chip areas range from a few square millimeters to around 450 mm2, with up to 9 million transistors per mm2."
+
+A fingernail is at best about one square centimeter, or maybe up to two if you count thumbs. If we are liberal in our estimation and allow for a large fingernail being 1.5 sq. cm., then at 9 million transistors per sq. mm., that makes no more than about 1.35 billion transistors per sq. sm., which is far short of the common understanding of the word "several" in this sort of context.
+
+I suggest that both of these two statements be checked for currency and accuracy, and then reconciled. Perhaps "several billion" could simply be changed to "more than a billion"?  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:KurtHLarson|KurtHLarson]] ([[User talk:KurtHLarson|talk]] • [[Special:Contributions/KurtHLarson|contribs]]) 22:11, 18 September 2015 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
