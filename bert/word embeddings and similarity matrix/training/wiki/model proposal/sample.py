@@ -23,7 +23,7 @@ def talkComments():
     df.to_csv('./processed/annotatedComments.csv')
 
     with open('./processed/articleComments.pkl', 'wb') as temp:
-        pickle.dump(articleName, temp)
+        pickle.dump(comments, temp)
 
 
 def articles():
@@ -55,4 +55,4 @@ def articles():
         pickle.dump(articleSentences, temp)
 
 talkComments()
-articles()
+#articles()
