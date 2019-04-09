@@ -55,4 +55,4 @@ def articles():
         pickle.dump(articleSentences, temp)
 
 talkComments()
-#articles()
+    articles()
