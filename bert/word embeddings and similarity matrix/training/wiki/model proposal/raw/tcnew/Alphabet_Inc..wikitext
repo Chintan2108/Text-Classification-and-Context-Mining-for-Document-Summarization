@@ -1,0 +1,161 @@
+{{Talk header}}
+{{Vital article|topic=Society|level=5|class=C}}
+{{afd-merged-from|List of assets owned by Alphabet Inc.|List of assets owned by Alphabet Inc.|5 November 2015}}
+{{WikiProject banner shell|collapsed=|banner collapsed=no|1=
+{{WikiProject Google |class=C|importance=Top}} 
+{{WikiProject California |sfba=yes |class=C|importance=Mid}}
+{{WikiProject Companies|class=C|importance=high}}
+{{Alphabet Task Force|class=Start|importance=Top}}
+{{WikiProject YouTube |importance=Top|class=Start}}
+}}
+{{Press|collapsed=yes
+|title= Introducing the new name in town - Alphabet Inc.
+|date=11 August 2015
+|url=http://www.heraldscotland.com/life_style/technology/13588440.Introducing_the_new_name_in_town___Alphabet_Inc_/?ref=mmpg
+|accessdate=12 August 2015
+|last=Casson
+|first=Ash
+|quote=Founded August 10th 2015, the company’s Wikipedia page is very bare as this goes to press - no more than 30 words all in all. That will change - dramatically - as time passes.
+}}
+
+==Alphabet Task Force==
+See [[Wikipedia talk:WikiProject Google#Alphabet Task Force]] [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 21:19, 10 August 2015 (UTC)
+
+== Rename Google Inc. to Alphabet Inc.? ==
+Why create a new article, according to Larry Page, Google Inc. is replaced by Alphabet Inc., all shares for GOOG will be changed to Alphabet, etc. Google Inc. ceases to exist, it's practically just a rebrand.
+"Alphabet Inc. will replace Google Inc. as the publicly-traded entity and all shares of Google will automatically convert into the same number of shares of Alphabet, with all of the same rights. Google will become a wholly-owned subsidiary of Alphabet. Our two classes of shares will continue to trade on Nasdaq as GOOGL and GOOG.", as written on [http://abc.xyz abc.xyz]. --[[User:YannickFran|YannickFran]] ([[User talk:YannickFran|talk]]) 21:29, 10 August 2015 (UTC)
+:Google Inc. is '''not''' Alphabet Inc. Google is a subsidiary of Alphabet.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:McoreD|McoreD]] ([[User talk:McoreD|talk]] • [[Special:Contributions/McoreD|contribs]]) 08:39, 11 August 2015 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:Because Google Inc. is still a company which is just a subsidiary of Alphabet and is still a historical company. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 21:31, 10 August 2015 (UTC)
+:Agree. It's not 'practically just a rebrand'. [[User:JoshuaWalker|<font color="blue">'''JoshuaWalker'''</font>]] &#124; [[User_talk:JoshuaWalker|<font color="red">'''Talk'''</font>]] 21:40, 10 August 2015 (UTC)
+
+This is all a bit premature. If you actually read the SEC filing, technically Alphabet Inc. is a subsidiary of Google Inc. until the merger.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.9.217.32|86.9.217.32]] ([[User talk:86.9.217.32|talk]]) 21:48, 10 August 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Yeah but ultimately it will become the holding company. That's what matters here. -- [[User:ChamithN|<span style="font-family:Segoe print; color:#CC4E5C; text-shadow:gray 0.2em 0.2em 0.4em;">Chamith</span>]] [[User talk:ChamithN|<span style="color:#228B22">''(talk)''</span>]] 13:22, 12 August 2015 (UTC)
+
+We need to remember [[WP:crystal]] [[User:Iady391|Iady391]] &#124; [[User_talk:Iady391|Talk to me here]] 11:47, 12 August 2015 (UTC)
+
+This is right Google is the subsidiary not Google Inc. [[User:Googedits|Googedits]] ([[User talk:Googedits|talk]]) 09:09, 9 August 2016 (UTC)
+
+== Alphabet's company type?  ==
+
+Should it be noted that the Alphabet restructing hasnt fully finished yet, and is not yet publicly traded? But the header should still have the Traded as portion. Am I mistaken?  [[User:Dxvin|Dxvin]] ([[User talk:Dxvin|talk]]) 03:50, 11 August 2015 (UTC)
+
+== Disputed ==
+We're all getting ahead of ourselves. Alphabet is still a subsidiary of Google (rather than Google a subsidiary of Alphabet). The restructuring was just announced hours ago hasn't happened yet. This article is describing future events is past or present terms. Just because there was an announcement, doesn't mean it has happened. The stock swap GOOGL/GOOG stock swap hasn't even happened yet. Although, as we speak, Google is probably transferring assets into Alphabet to prepare for the stock swap, which should be considered current events. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 06:00, 11 August 2015 (UTC)
+:Talk about grasping at straws. And we wonder why we're not attracting new editors. [[User:JoshuaWalker|<font color="blue">'''JoshuaWalker'''</font>]] &#124; [[User_talk:JoshuaWalker|<font color="red">'''Talk'''</font>]] 08:56, 11 August 2015 (UTC)
+
+Nice work correcting the article, but I think the [[Alphabet Inc.#Process|Process]] section has the definition of "merger all wrong. A merger is when two or more companies disband and fold their operations into one new company. This is a different kind of corporate restructuring that doesn't meet the definition of "merger." [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 09:15, 11 August 2015 (UTC)
+:Well, the SEC filing uses the word "merger," so this is all very confusing. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 09:56, 11 August 2015 (UTC)
+
+==In popular culture section==
+This section about hooli.xyz and ''Silicon Valley'' TV series may be arguable as a relevant section for Alphabet. Some editors may opt to keep it adding some more relevant focus or link to Alphabet. Some others may prefer to delete it altogether. Your opinions are very much appreciated as this is becoming a very much frequently visited page (around 8000 views on its first day of creation and counting) for obvious reasons. [[User:Werldwayd|werldwayd]] ([[User talk:Werldwayd|talk]]) 10:19, 11 August 2015 (UTC)
+:<strike>'''Move the info to another section.''' Per [[WP:TRIVIA]], the section needs to go, but I'd like to see the info moved. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 10:31, 11 August 2015 (UTC)</strike>
+:: Actually the section was titled "Easter eggs" earlier before I retitled it "Trivia". I am renaming it for now as "In Popular Culture" instead. I thought Easter eggs was an even more odd term to keep on the page! Naming of section can be amended, but calling it Easter eggs was unacceptable. Once we agree on relevance of content, the title may be further amended [[User:Werldwayd|werldwayd]] ([[User talk:Werldwayd|talk]]) 10:39, 11 August 2015 (UTC)
+::The section is still a stub. "In popular culture" isn't quite right either, because Alphabet isn't being referenced in pop culture, but rather Alphabet is referencing the series in the easter egg. "Easter egg" is actually a more focused name, and is better than either "trivia" (meaning misc. info) or "in popular culture." [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 10:59, 11 August 2015 (UTC)
+:'''Irrelevant''' Recent edits have made this discussion no longer relevant to the article. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 11:52, 11 August 2015 (UTC)
+
+==abc.xyz redirect==
+Presently our page Abc.xyz forwards to the page Alphabet Inc. But is there a way to also redirect a page to be named abc.xyz (with a non-capitalized A) to the same Alphabet Inc. page, as the URL is written as abc.xyz and not as Abc.xyz ... And as a curiosity how would people in general know the company, as abc dot xyZED or abc dot xyZEE ? The mind boggles... [[User:Werldwayd|werldwayd]] ([[User talk:Werldwayd|talk]]) 10:35, 11 August 2015 (UTC)
+:All [[MediaWiki]] mainspace pages must begin with an upper-case letter (unless the first character is not a letter). Example: [[abc.xyz]]. Only articles with the {{[[Template:lowercase title|lowercase title]]}} template can display a lower-case first character, but it's really upper-case behind-the-scenes. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 10:48, 11 August 2015 (UTC)
+:In plain English: it's already done and they are the same page. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 10:51, 11 August 2015 (UTC)
+==Protection Required==
+{{Edit semi-protected|answered=y}} [[User:Ankit555551|Ankit555551]] ([[User talk:Ankit555551|talk]]) 12:28, 11 August 2015 (UTC)
+:{{Not done}} requests for page protection must be made at [[WP:Requests for page protection]] - [[User:Arjayay|Arjayay]] ([[User talk:Arjayay|talk]]) 13:16, 11 August 2015 (UTC)
+
+No need. -- [[User:Charles Edwin Shipp|Charles Edwin Shipp]] ([[User talk:Charles Edwin Shipp|talk]]) 09:58, 12 August 2015 (UTC)
+
+'''Not needed:''' The volume of edits by IPs is low on this article. There's been, like, one or two vandal edits in total over the life of this article. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 10:09, 12 August 2015 (UTC)
+
+== Company type ==
+{{ping|Krimin killr21}}The type should be listed as subsidiary until the fourth quarter when that changes. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 16:28, 11 August 2015 (UTC)
+
+:{{ping|StudiesWorld}}The company doesn't even exist yet. It won't be a subsidiary until it's formed, when it will more or less immediately become a conglomerate. It's a legal work around that doesn't reflect the actual state or purpose of the company, nor how it will be for more than a tiny amount of time as is needed to execute the legal transition.--[[User:krimin_killr21|krimin_killr21]]([[User talk:Krimin killr21|talk]]) 16:32, 11 August 2015 (UTC)
+
+::{{ping|Krimin killr21}} So we should just change the type to not yet formed. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 17:47, 11 August 2015 (UTC)
+
+:::{{ping|StudiesWorld}}The status perhaps, but not company type. This is a proposed conglomerate holding company. This article is essentially about a proposed but yet unrealised company structure. We should reflect the type of proposed company. I'll add a status tag of proposed company or something along those lines.--[[User:krimin_killr21|krimin_killr21]]([[User talk:Krimin killr21|talk]]) 17:53, 11 August 2015 (UTC)
+
+== News is coming fast ==
+Just now, The New York Times writes an interesting article.
+ Headline-1: '''Alphabet? Google Might Get Some Letters'''
+* http://www.nytimes.com/2015/08/12/technology/google-creates-alphabet-but-runs-into-bmw.html?_r=0
+QUOTE: "One can only assume that before Larry Page and Sergey Brin chose Alphabet as the name for their new holding company, they Googled it. ... Alphabet is the name that Mr. Page and Mr. Brin, Google’s founders, have given the newly created parent entity that will house the Google search business and several smaller holdings like Nest, a maker of smart thermostats, and Calico, a company focused on longevity. ... " -- [[User:Charles Edwin Shipp|Charles Edwin Shipp]] ([[User talk:Charles Edwin Shipp|talk]]) 10:04, 12 August 2015 (UTC) -- PS: “Don’t worry,” Mr. Page wrote on that home page. “We’re still getting used to the name too!”
+
+I don't think it's worth a mention yet. [[User:Iady391|Iady391]] &#124; [[User_talk:Iady391|Talk to me here]] 13:41, 12 August 2015 (UTC)
+
+== New names for some "Google ..." formatted subsidiaries? ==
+It appears that some of the companies previously called "Google something" are going to drop the Google from their name. Examples: Google Fiber -> Fiber,[http://www.cnet.com/pictures/googles-new-alphabet-from-a-to-z/8/], Google Ventures -> Ventures,[http://www.cnet.com/pictures/googles-new-alphabet-from-a-to-z/10/] Google Capital -> Capital,[http://www.cnet.com/pictures/googles-new-alphabet-from-a-to-z/11/] and Google X -> X.[http://www.cnet.com/pictures/googles-new-alphabet-from-a-to-z/12/] . Thoughts on how to handle that? Obviously some of those names are a bit generic - so just [[Fiber (company)]]? --[[User:Varnent|Varnent]] ([[User talk:Varnent|talk]])<sup>([[m:User:Varnent/COI|COI]])</sup> 15:37, 12 August 2015 (UTC)
+
+Let's wait and see what the decide to name them first.<br />
+I'd personally go with [[Fiber (Alphabet Inc.)]] though [[User:Iady391|Iady391]] &#124; [[User_talk:Iady391|Talk to me here]] 15:53, 12 August 2015 (UTC)
+:We shouldn't rush to decide articles name yet. Per [[WP:COMMONNAME]] we have to use commonly recognizable names. Google's Fiber network is still prominent as "Google Fiber", not "Fiber (Alphabet Inc.)". Even most reliable sources still call it "Google Fiber" at the moment. This could change after the restructuring is complete. Until then I think we should keep using "Google Fiber" as the article title. We have to establish a consensus on specific Wikiproject nevertheless. -- [[User:ChamithN|<span style="font-family:Segoe print; color:#CC4E5C; text-shadow:gray 0.2em 0.2em 0.4em;">Chamith</span>]] [[User talk:ChamithN|<span style="color:#228B22">''(talk)''</span>]] 16:07, 12 August 2015 (UTC)
+:I was basically saying lets wait until the restructuring is complete, but I was giving my personal preference on what could happen. [[User:Iady391|Iady391]] &#124; [[User_talk:Iady391|Talk to me here]] 16:12, 12 August 2015 (UTC)
+::Yeah, I didn't mean to ping you straightforwardly. I removed it afterwards. My bad. Just wanted to participate in the discussion.  -- [[User:ChamithN|<span style="font-family:Segoe print; color:#CC4E5C; text-shadow:gray 0.2em 0.2em 0.4em;">Chamith</span>]] [[User talk:ChamithN|<span style="color:#228B22">''(talk)''</span>]] 16:14, 12 August 2015 (UTC)
+
+Future plans do not represent present facts. Wikipedia isn't a crystal ball, we change articles after real life changes are realized. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 10:08, 13 August 2015 (UTC)
+Also, there is no suggestion in those link that Google Fiber or Google X were changing since they never stated that. I think they may have been using shorthand. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 10:37, 13 August 2015 (UTC)
+
+== Relevance in lead section ==
+Someone has challenged the relevance of the last two sentences in the top section. IMO, these sentences are absolutely relevant. The CEO of Alphabet and future CEO of Google is absolutely relevant, as well as the stock tickers, which is probably the first piece of info web searchers would want to know. Many casual skim readers will be looking for info on corporate leadership and Google/Alphabet stock, which is why this info needs to be above the fold. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 10:26, 13 August 2015 (UTC)
+*I definitely agree with that because while we don't state the future as fact we should state the proposed future as a plan. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 10:32, 13 August 2015 (UTC)
+::Yes, I think it's relevant at the moment. However, it'll become trivial as the situation progresses. -- [[User:ChamithN|<span style="font-family:Segoe print; color:#CC4E5C; text-shadow:gray 0.2em 0.2em 0.4em;">Chamith</span>]] [[User talk:ChamithN|<span style="color:#228B22">''(talk)''</span>]] 13:42, 13 August 2015 (UTC)
+
+: Sorry but I'm reverting this back. This is not consensus. Keep the tags and allow the discussions to flow for several days. This is not relevant at all for the lead. It is entirely irrelevant for the Alphabet article to state in the lead who will lead Google. This relevant for the Google article but not for Alphabet lead section. Furthermore, a lead is a concise summary of the article that does not have to include intricate details important for a specialised audience. The lead is a general overview of the subject. Intricate details go into the body, not the lead. For this reason I'm restating back the tags, as this discussion was started yesterday and one day and only 3 people is not enough to conclude there is consensus. &mdash;[[User:Ahnoneemoos|Ahnoneemoos]] ([[User talk:Ahnoneemoos|talk]]) 21:56, 14 August 2015 (UTC)
+:However, Google is the largest part of Alphabet and a general user will want to know who will be leading one of the largest companies in the world. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 22:51, 14 August 2015 (UTC)
+::But not on the lead <span style="text-decoration: underline;">of this article</span>. &mdash;[[User:Ahnoneemoos|Ahnoneemoos]] ([[User talk:Ahnoneemoos|talk]]) 23:31, 14 August 2015 (UTC)
+:::I am going to try and rephrase this in a more appropriate way. If you disagree please readd the tags if you disagree. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 01:03, 15 August 2015 (UTC)
+::::  really like what you did. Is anyone NOT satisfied with this? I believe we have reached consensus. &mdash;[[User:Ahnoneemoos|Ahnoneemoos]] ([[User talk:Ahnoneemoos|talk]]) 13:19, 15 August 2015 (UTC)
+::::Wait, still don't like the fact we still mention the ticker symbols in the lead. That's unnecessary in the lead but fine in the body. &mdash;[[User:Ahnoneemoos|Ahnoneemoos]] ([[User talk:Ahnoneemoos|talk]]) 13:35, 15 August 2015 (UTC)
+:::::But, that is the primary identifier of many companies. So, I think that until we add it to the infobox it should stay in the lede. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 16:59, 15 August 2015 (UTC)
+::::::I'm fine with adding it to the infobox. However, it's not crucial to be mentioned in the opening sentence of the article. -- [[User:ChamithN|<span style="font-family:Segoe print; color:#CC4E5C; text-shadow:gray 0.2em 0.2em 0.4em;">Chamith</span>]] [[User talk:ChamithN|<span style="color:#228B22">''(talk)''</span>]] 17:20, 15 August 2015 (UTC)
+:What about "Following the restructuring, Google stock will be converted into Alphabet stock, and continue trading under the same ticker symbols."? The information is already available within the article, so IMO that's a decent middle ground for the lead. I'm OK with taking Sundar Pichai out of the lead, as long as he is still mentioned in the main body. [[User:Tcrow777|Tcrow777]]<sup> [[User talk:Tcrow777|Talk]]</sup> 12:22, 16 August 2015 (UTC)
+::We already agreed to keep Sundar Pichai. But, I support the solution about the ticker symbols. [[User:StudiesWorld|StudiesWorld]] ([[User talk:StudiesWorld|talk]]) 01:10, 21 August 2015 (UTC)
+
+== Alphabet status ==
+So if you look at the copyright citation at the end of https://abc.xyz, it says Alphabet Inc. This means that the company has already been legally incorporated enough to hold copyright. While the merger hasn't taken place yet as far as we know, the company still exists. We ought to continue speaking in the future tense about the company as far as how to it will end up, but it suspect that its current status is as a dummy subsidiary of Google until the merger takes place. I think it would be inappropriate to talk about the company in its present status in the article as it's just that way as a legal expedient; instead, we should talk about how it is going to function in the long run, that being as the parent-umbrella company like we do now. --[[User:krimin_killr21|krimin_killr21]]([[User talk:Krimin killr21|talk]]) 07:12, 20 September 2015 (UTC)
+
+== New NEWS today, for future editing ==
+Larry Page interview reveals some of the recent/past history of Alphabet, Inc. 
+ Headline-1: '''In rare appearance, Larry Page discusses new Alphabet structure'''
+* http://news.yahoo.com/rare-appearance-larry-page-discusses-alphabet-structure-064613346--finance.html
+QUOTE: "(Reuters) - In a rare public appearance, Google co-founder and Alphabet Inc CEO Larry Page explained why he was spurred to create a whole new structure for the company he created with Sergey Brin almost two decades ago.
+
+"I want to push the envelope for what's possible for an innovative company with large resources," he said during a Q&A session with Fortune editor Alan Murray at the magazine's Global Forum 2015 in San Francisco.
+
+He said the new company would operate a little bit like a venture capital firm, a little bit like Berkshire Hathaway Inc, the conglomerate controlled by billionaire investor Warren Buffett, whom Page admires." -- [[User:Charles Edwin Shipp|Charles Edwin Shipp]] ([[User talk:Charles Edwin Shipp|talk]]) 00:13, 4 November 2015 (UTC) -- PS: FYI for future editing.
+
+== 'Loon' must mean 'baloon' (for networks) ==
+What will they think of next?  Whatever works?
+ Headline-1: '''India might be the next to adopt Project Loon, Alphabet's ambitious Internet plan'''
+* http://www.foxnews.com/tech/2015/11/04/india-might-be-next-to-adopt-project-loon-alphabet-ambitious-internet-plan.html?intcmp=hphz03
+QUOTE: "Project Loon's next test location might be India, according to Alphabet and the Indian government. It follows an announcement last week that three major carriers in Indonesia would test Alphabet's Internet balloon program next year.
+
+Alphabet, the holding company responsible for Google and Nest Labs, has been testing the balloons for over a year. In that time, it has improved accuracy, time spent in the air, and Internet range. The company now believes it is in a position to offer the balloons as an alternative to traditional networking." -- [[User:Charles Edwin Shipp|Charles Edwin Shipp]] ([[User talk:Charles Edwin Shipp|talk]]) 20:57, 4 November 2015 (UTC) -- PS: FYI for future editing consideration.
+
+== The "Restructuring process" doesn't make sense ==
+Quote: ''"Alphabet was created as a subsidiary directly owned by Google Inc. The roles of these two companies – one as the owner and the other as the subsidiary – was then reversed in a two-step switch. First, a dummy subsidiary of Alphabet was created. Then Google merged with that dummy subsidiary while converting Google stock to Alphabet stock. The post-merger subsidiary, no longer a dummy, changed its name to "Alphabet Inc."''
+
+So, at very beginning, A is G's subsidiary. Then a dummy subsidiary of A (a grandchildren company of G then) created: let's call it D. Then G merged with its grandchildren company D, so it became A's subsidiary. But how could "The post-merger subsidiary, no longer a dummy, changed its name to "Alphabet Inc.""? "Post-merger subsidiary" here could be ambiguous, but followed by "no longer a dummy", I assume it means the one created by merging of G and D. Obviously this G+D company, which was and still is a subsidiary of A, should be Google now; while the original A, should still be Alphabet Inc..--[[User:Fireattack|fireattack]] ([[User talk:Fireattack|talk]]) 06:15, 14 December 2015 (UTC)
+
+It allowed Google to focus on internet [[User:Googedits|Googedits]] ([[User talk:Googedits|talk]]) 09:11, 9 August 2016 (UTC)
+
+== YouTube is missing? ==
+why is youtube missing from the article? wasn't it owned by this company since the foundation? <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:87.2.115.68|87.2.115.68]] ([[User talk:87.2.115.68|talk]] • [[Special:Contributions/87.2.115.68|contribs]]) 22:30, 12 January 2016‎ (UTC)</span></small><!-- Template:Unsigned -->
+:YouTube is mentioned in the article. YouTube, like many other Internet services, is still under the Google umbrella. [[:File:Alphabet_Chart-vector.svg|This graphic]] shows the relations well. '''~''[[User:SuperHamster|<span style="color:#07517C">Super</span>]]''[[User:SuperHamster|<span style="color:#6FA23B">Hamster</span>]]''' <small>[[User talk:SuperHamster|Talk]] [[Special:Contribs/SuperHamster|Contribs]]</small> 22:33, 12 January 2016 (UTC)
+fdgjd;thjtjyhtyjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq.nmfg;n.,rgn/r;lrm,.ggggbfj;vm,rrrrrrrrrdflmrtgjdfmrjgdfm.fk.gn,thn,  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/60.254.48.153|60.254.48.153]] ([[User talk:60.254.48.153#top|talk]]) 11:35, 5 July 2017 (UTC)</small> <!--Autosigned by SineBot-->
+
+== Disambiguation needed ==
+Disambiguation needed https://en.wikipedia.org/wiki/Alphabet Thank you.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/190.160.59.197|190.160.59.197]] ([[User talk:190.160.59.197|talk]]) 16:12, 12 February 2016 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== David Drummond / Ruth Porat ==
+
+Apparently the [[David Drummond (Google)]] article says the following: "David Carl Drummond is Google's Senior Vice President of Corporate Development and Chief Legal Officer. [...] He is the Senior Vice President, Corporate Development, Chief Legal Officer and Secretary of Alphabet Inc."; though I doubt that he is both, an exec of Google ''and'' Alphabet. The latter was [https://en.wikipedia.org/w/index.php?title=David_Drummond_(Google)&diff=676275552&oldid=643235989 added] by {{u|Pmsyyz}} in a rather bare-bones manor and completely unsourced. Further indications against this claim could be his disambiguator literally being "Google", and the [[David Drummond|respective dab page]] not having been updated since (two+ years now). Furthermore, [[Ruth Porat]] had a similar issue applied in [https://en.wikipedia.org/w/index.php?title=Ruth_Porat&diff=next&oldid=680046835 this edit] by {{u|Jerrystevens}}, simply changing "Google" to "Alphabet" as company she is CFO of (likely as part of a communication issue with the [https://en.wikipedia.org/w/index.php?title=Ruth_Porat&diff=prev&oldid=680046835 prior edit] adding that Alphabet is a subsidiary of Google). Could anybody fact-check these? If they turn out to be untrue, they should be reverted and both key people moved to Google's infobox. [[User:Lordtobi|<span style="font-family: Impact;">Lordtobi</span>]] ([[User talk:Lordtobi|<span style="color: #B0B0B0;">&#9993;</span>]]) 12:34, 9 September 2017 (UTC)
+:Regarding Drummond he is just it for Google as per this source.[https://www.bloomberg.com/profiles/people/1952796-david-c-drummond] However with Porat she does hold both positions as per.[https://www.bloomberg.com/profiles/people/2536317-ruth-m-porat] --[[User:Emir of Wikipedia|Emir of Wikipedia]] ([[User talk:Emir of Wikipedia|talk]]) 12:42, 9 September 2017 (UTC)
+::I believe you mean Drummond just for Alphabet (like it is in the source)? Anyway, although I don't doubt Bloomberg's reliability, these 'overview'-esque pages are not usually satisfactory. Nontheless, I'll edit out both pages to reflect what is said, yet I hope be find better sources for the cases at some point. [[User:Lordtobi|<span style="font-family: Impact;">Lordtobi</span>]] ([[User talk:Lordtobi|<span style="color: #B0B0B0;">&#9993;</span>]]) 12:47, 9 September 2017 (UTC)
+:::Oh yeah. I meant just for Alphabet not Google, but I found two better sources. [http://fortune.com/2016/08/29/uber-alphabet-board/][https://www.recode.net/2016/8/29/12701626/uber-google-david-drummond-steps-down] Some sources only mentioned his role as SVP, whereas some only mentioned his role as CLO, but thankfully the first source mentions both. [[User:Emir of Wikipedia|Emir of Wikipedia]] ([[User talk:Emir of Wikipedia|talk]]) 12:58, 9 September 2017 (UTC)
+::::Great find! I have incorporated both into his article. [[User:Lordtobi|<span style="font-family: Impact;">Lordtobi</span>]] ([[User talk:Lordtobi|<span style="color: #B0B0B0;">&#9993;</span>]]) 13:04, 9 September 2017 (UTC)
+
+== DIVISIONS ==
+
+Business segment (Business Division) or simply Division is used to categories each business or services a company is in and they operate as corporate units in the case of Disney or subsidiaries in case of Time Warner.
+:Google is an operating subsidiary of Alphabet incorporated as Google LLC under the laws of Delaware. By our definition, that is not a division. If you can provide sources that say Google is not incorporated, and as such a division, the info may be inserted, though as long as that is not the case, it shall not be included in the article. [[User:Lordtobi|<span style="font-family: Impact;">Lordtobi</span>]] ([[User talk:Lordtobi|<span style="color: #B0B0B0;">&#9993;</span>]]) 16:43, 6 November 2017 (UTC)
+:[[Template:Infobox company]] says {{TQ|The primary functional or operational business divisions of a company, listed alphabetically. These divisions align with the internal organizational structure of the company and may or may not align with the company's legally incorporated subsidiaries. If there is more than one entry, use ubl to format the entries. If there are more than five divisions and the article body lists them or discusses them, consider linking to that part of the article rather than listing them in the infobox.}} --[[User:Emir of Wikipedia|Emir of Wikipedia]] ([[User talk:Emir of Wikipedia|talk]]) 19:53, 6 November 2017 (UTC)

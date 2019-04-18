@@ -1,0 +1,235 @@
+{{WikiProjectBannerShell|1=
+{{WikiProject Computing|class=c|importance=mid|network=yes|network-importance=mid}}
+{{WikiProject Telecommunications|class=c|importance=high}}
+{{WikiProject Professional sound production|class=C|importance=Mid}}
+}}
+
+== Frivolity ==
+<blockquote>
+"...however, the VoIP guys would never admit this."
+</blockquote>
+This is quite frivolous and not what one expects to read in an encyclopaedia entry...
+Hence deleted.<br />
+[[User:Kanishk.iitr|Kanishk Mohan]] 13:32, July 10, 2008 (IST)
+
+== BRI/PRI are introduced without definition in "Consumer and Industry Perspectives" ==
+I explained the acronyms and added links to articles, but it might be useful for a more knowledgeable editor to weave in more definition. They are then later explained in "Configurations." Perhaps Configurations should appear before Perspectives? Describe the technology THEN describe reaction? I'll let someone else make that change, as it's late and I don't trust my judgment. ;) Cheers. [[User:Joshnpowell|Josh Powell]] 08:36, 19 April 2007 (UTC)
+
+I wrote the original paragraphs some 10 years ago. Previously, the focus of the article was mostly about BRI from a consumer perspective (handsets, plans, etc) and not so much about the signaling protocol. Many people here have pointed out that that BRI is/was obsolete. By introducing the idea of a difference between the consumer and the telephone professional, I was trying to show that ISDN was still a significant technology. What brought me back to this page after many years is that I was watching a video about GSM hacking. In the wireshark message dumps in the video, I saw what looked like ISDN messages, (SETUP, RR, etc). You are correct about the terms not being defined but mostly the idea was to re-orient the conversation away from the consumer point of view and to introduce the idea that ISDN was something more than a way of getting the Internet.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/63.235.131.194|63.235.131.194]] ([[User talk:63.235.131.194|talk]]) 18:23, 22 October 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+See [[LAPDm]] for how GSM cellular phone signaling relates to ISDN.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/63.235.131.194|63.235.131.194]] ([[User talk:63.235.131.194|talk]]) 18:55, 22 October 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Removed parts of article ==
+Removed 4ESS, 5ESS and DMS-100, which are products and not protocols. Although there may be protocol ''variants'' used by these products.
+
+[[User:Yaronf|Yaronf]] 22:11, Mar 3, 2004 (UTC)
+
+== Radio Stations ==
+
+I dont know if this is correct, but I believe a lot of radio stations used ISDN for studio to studio connections, such as interviews, panel discussions, guests, etc... as well as some times hosts working from home via ISDN connection to the studio.
+
+--[[User:Weyoun6|Weyoun6]] 07:52, 23 Mar 2005 (UTC)
+:In the 1990s they did, where available, however these days they'd use far more convential internet systems, or occasionally private setups, or leased lines. --[[User:Kiand|Kiand]] 00:43, 4 February 2006 (UTC)
+me a a user of ISDN
+
+Yep, at The BBC we use ISDN on a regular basis for connecting studios and most crucially for Outside broadcasts. All sporting venues have ISDN and they have proved a perfect solution for years and are not showing signs of vanishing. Unfairly the Network has suffered at the hands of engineer humour too... often labelled 'It Sometimes Dose Nothing'. However this is more often the Codecs problem not the Line. With Telos and SystemBase leading the Market in quality ISDN Codecs we currently broadcast Classical concerts live with almost no loss of quality. this is mostly using 4 bearers (256kbps).
+
+== Obsolete? ==
+
+Is it fair to declare ISDN dead yet?
+
+Where I am (the UK) it certainly seems to be in all areas where ADSL is available. The main advantage of ADSL through ISDN (being able to directly connect to another ISDN user and have a dedicated line) has been rendered moot by the sheer speed advantage of ADSL. Even with contention and network lag, an 8M/500K ADSL is still going to leave a 128K ISDN line standing, and is much cheaper (again, I can only speak for the UK here)
+
+I've been searching on google and I can't find any information on ISDN that isn't very outdated. [[User:Damburger|Damburger]] 08:59, 7 July 2006 (UTC)
+:Whereas internet access as one of the major drivers for initial ISDN take-up has largely been removed, the other (connection of company PBXs to the public network) remains strong and is either still growing or only slowly eroding in the countries that I am aware of. [[User:JanCeuleers|JanCeuleers]] 12:29, 7 July 2006 (UTC)
+
+In the US, ISDN appeared to be dead before it became alive. The joke among Bell Labs system engineers who worked on ISDN was that acronym stood for "Integration Subscribers Don't Need" and answered what ISDN is good for with "I Sure Don't kNow". [[User:LoopTel|LoopTel]] 09:37, 10 January 2007 (UTC)
+
+ISDN is still used for videoconferencing.  I am an installer and most of the systems we build have both ISDN and IP connections (both get used on a regular basis at most institutions.)  I have heard people talk about ISDN becoming extinct for at least a decade now, but from my perspective this is not the case.  ISDN is still a good way to make a videoconference call to another institution without extensive network configuration and without exposing the local data network.
+
+NEED A "ISDN vs. IP" CLARIFICATION  -  I recently became involved with videoconferencing and came here to learn the difference between ISDN and IP connections.  I often hear people (incorrectly?) referring to a network connection as being one or the other.  After reading the articles on both I feel that a paragraph stating their relation (with respect to videoconferencing) would be very helpful.  I'd offer but like I said, I'm a newbie.
+
+---------------------------------------------------------------
+'''Obselete for what?''' 
+*For Internet Access? - Yes, DSL and cable modems are much better and faster.
+*As a replacement for POTS? ''That'' depends on the country! ISDN was never widespread in most parts of the world, with one exception: the German-speaking countries and especially Germany. A German who is speaking about the ''"öffentliches Telefonnetz"'' (the German term for public switched telephone network) will most likely mean "ISDN and POTS"! (Yes, ISDN first!) However, in fact only 30% of the German public circuit-switched telephone network are actually ISDN lines, but that's only because there are so many old fixed telephone lines. I worked for Hansenet, a German telecom, until May last year, and 94% of all ''new'' fixed phone lines from this company between January and May last year were ISDN, only the other 6% were POTS lines. The reason for this popularity of ISDN in Germany is very simple: It's the price policy of the German telecoms! For example, an ISDN line from Hansenet costs only 2€ more then a POTS line, but an ISDN line has the 2 B-channels, and at least 3 telephone numbers. And there is Arcor Telecom, the second largest German telecom, which ''never'' offered POTS. They prefer to offer Hardware with an integrated terminal adapter to their customers. ISDN is actually the native mode of the German public telephone network (since the network is fully digital since 1995), POTS-service needs additional hardware, either at the side of the customer (Arcor), or at the telephone exchange (Which , however, is always installed at the telephone exchange - with the exception of Arcor, of course.) Even the very most German ADSL lines are bundeled with ISDN, and not with POTS! I think ISDN is as much obselete as POTS! ;) [[User:86.56.0.159|86.56.0.159]] 16:37, 12 August 2006 (UTC)
+:Being a German, I completely agree with what you wrote.
+:Here in Germany, you just order an ISDN line, buy a ISDN-DECT basestation with some handsets, and hand them out to your household members. Now everyone has its own phone number (MSN), up to two people can make calls at the same time, and the phone bill will be splitted by the MSNs. All at very decent prices (compared to POTS).
+:All this seems to be the result of the heavy ISDN marketing efforts Deutsche Telekom has made in the mid-1990s, making ISDN well-known and the equipment prices low.
+:--[[User:213.39.187.230|213.39.187.230]] 20:00, 3 December 2006 (UTC)
+
+Here in Colombia, medium and big Enterprises uses ISDN very regulary, and not only for videoconferences.
+
+Here in Australia. Telstra (National monopolistic communications carrier) no longer offer ISDN at all. As a result those of us unwilling to pay for Telstra's replacement offerings, (Wireless or Sat) suffer dialup speeds. (Or if your like me.. Connected thru a RIM exchange.. You get 31.2 kbps connects) During 2007 Telstra dropped Home ISDN as an option. Forcing would be ISDN customers to declare themselves a "business" and pay a "business" premium to aquire ISDN. Late 2008 ISDN was no longer being offered by Telstra in any form.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/144.134.1.19|144.134.1.19]] ([[User talk:144.134.1.19|talk]]) 21:16, 16 September 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Business Use: ==
+
+ISDN is still in massive use (even in the USA) for connecting multiples of 30/24 (PRI – E1/T1) voice channels to PBX and other switching gear.
+
+Needs timestamp.
+
+== VoIP products: ==
+Specifically IAD (Integrated Access Device's) may have ISDN BRI (S0) or ISDN PRI (E1/T1) interfaces – these IAD are used to front-end legacy equipment (PBX, IPBX), or supply PBX functionality towards the new voip standards (SIP/MGCP) that are now coming to the fore
+
+The main reason for using Voip is cost – 
+
+1.	An ADSL data link is effectively free - therefore you can have multiples of 30 (E1/T1) or 2 (BRI) voice channels connected for just the price of the ADSL/SHSL monthly connection fee.
+
+2.	 Alternatively you can connect to your own LAN/WAN for no cost (might be an idea to let your network people know first though :})
+
+The main reason for using an IAD is cost –
+
+1.	You do not have to replace your existing equipment and therefore there is little impact for users (and no re-training).
+
+2.	You can just use the IAD without a PBX (connect direct)
+
+
+3.	You can use other VoIP products connected to the IAD (and restrict their use)
+
+Note: PRI interfaces have normally been connected to SHDSL rather than ADSL - however with the recent innovation such as ADSL2+ and ADSL AnnexM - it is now entirely possible to provision an E1/T1 (depending on the codec used) on a single or bonded ADSL.
+
+Note: The QoS (ATM and IP) of the incumbent network is a vital factor in the quality of the voice. (See articles on DiffServ). 
+
+Note: There are also 'mixed' IAD as well - with POTS and ISDN interfaces - some IAD also have SIP Proxy servers enabled to connect up a network of VoIP (SIP) devices and either forward to other networks or just be a private network on its own.
+
+Note: SIGTRAN IUA is also possible on some VoIP [[Special:Contributions/217.207.193.222|217.207.193.222]] ([[User talk:217.207.193.222|talk]]) 13:47, 8 January 2008 (UTC)IAD
+
+Even in countries like Germany, there is starting to be an uptake on VoIP for BRI - purely for cost reasons (NetCologne are attempting a voip solution for BRI/POTS)
+
+== "Backronym" ==
+
+The article begins with,
+*"'''Integrated Services Digital Network''' ('''ISDN''')"
+and then goes on to explain,
+*"The English term is a backronym that was thought to be better for English-language advertisements than the original, "Integriertes Sprach- und Datennetz" (German for "Integrated Speech and Data Net")."
+
+::Why did you feel a desparate need to reproduce that here? [[Special:Contributions/109.145.22.224|109.145.22.224]] ([[User talk:109.145.22.224|talk]]) 13:00, 26 April 2012 (UTC)
+
+== Brazil ==
+"in Europe, India and Australia it is 30B+1D, with an aggregate bit rate of 2.048 Mbit/s (E1)"
+
+In Brazil, too.  [[User:Zwargh|Zwargh]] 23:55, 11 June 2007 (UTC)
+
+== Synchrony, where needed, is an important factor in ISDN's favor ==
+
+1. I don't think ISDN belongs so tightly coupled with the notion of Internet access, or TCP/IP, because it works '''just fine without either.''' ISDN originated for easily scalable constant-latency low-to-high-bandwidth guaranteed-in-order-arrival digital connections.  Point-to-point (dialled ISDN#-to-ISDN#), it is extraordinarily reliable - exactly as reliable as the digital backbone of the public switched telephone network itself, since each packet rides that same network.
+
+2. Internet access via ISDN is facilitated by a gateway which performs protocol conversion from circuit-switched to packet-switched: at this interface, all synchrony guarantees may be lost, since TCP/IP makes no such guarantee.  If the upper tier network is ATM or otherwise innately synchronous, then synchrony may still be guaranteed, depending on the service-level agreement.  Synchrony is not as critical for internet-access users, but is important to voice and video conference users.  
+
+--[[User:Lexein|Lexein]] 05:46, 2 September 2007 (UTC)
+
+: Yes, it is helpful for non-telco-geeks to understand that to the telco industry, the '''pipe''' is separate from Internet service it carries, whether we're talking about ISDN, T1, or DS3. In the most basic terms the pipe is nothing more than a serial data port, over which TCP/IP or anything else can be carried.
+
+: The end user could just as easily use ISDN to print to a remote serial printer miles away, directly feeding the serial port from the computer into the local ISDN customer premises interface, and the printer into the remote interface, and not using TCP/IP or anything else as an intermediary to carry the data.
+
+: ISDN somewhat predates the rise of the Internet's popularity, and wasn't explicitly built for that purpose. Videoconferencing equipment that utilizes ISDN in its rawest form is just a point-to-point serial data interface and doesn't need to use TCP/IP at all. Though in this configuration the connection is limited to a single videoconference link between two sites, and cannot utilize advanced TCP/IP routing features like [[multicast]] to send from one source to many destinations.
+
+: This holds true for faster services like T1. You can buy a raw pipe between two points and run your own serial data over it. Or you can buy a pipe that just goes straight to the telco only, on top of which you pay the telco for the separate Internet data service over the pipe from them.
+
+: [[User:DMahalko|DMahalko]] ([[User talk:DMahalko|talk]]) 20:24, 27 December 2007 (UTC)
+
+== Jaxin Hall ==
+
+The sentence about Prof. Jaxin Hall of Sussex inventing ISDN in the late 1980's is not correct. I did not delete the sentence because this - by an IP Address - would probably be interpreted as vandalism. ISDN has already been tested before Jaxin Hall supposedly invented it. The problem is that many other web sites copy this incorrect information, but because it is referenced (you need an IEEE usbscription to read the article) no one dares to delete it. MM  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/193.61.255.87|193.61.255.87]] ([[User talk:193.61.255.87|talk]]) 09:58, 5 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+: I have accessed the IEEE article from my University's network. There is no mentioning of a "Jaxin Hall" anywhere in the document. — [[User:134.100.32.10|134.100.32.10]] 16:09, 6 November 2007 (UTC)
+: The "Jaxin Hall" assertion was made by IP 146.171.254.66 on 20 September 2007 and has nothing to do with the IEEE article. I will remove the assertion. — [[User:134.100.32.10|134.100.32.10]] 16:25, 6 November 2007 (UTC)
+
+==ISDN at 128 kbits per second==
+
+Don't you think this artical should directly relate to ISDN's speed right at the very beggining or near, sometime after the introduction.  And why not?  The reference to it as you scroll almost WAY down begins in something like "Because ISDN's speed is
+only 128kbs," almost as if the article already informed you on the point; which I'm sure most readers looking up ISDN do it for history sake and really want to know it's speed right off.  Wikipedia is aimed at the leanient audience, so why be so unbecoming about it. ---------Bill Mclemore
+
+: I slightly rewrote the intro to highlight that detail. [[User:DMahalko|DMahalko]] ([[User talk:DMahalko|talk]]) 05:38, 31 December 2007 (UTC)
+
+: I have to say, ISDN is still very big here in Germany. However barely anyone is using it for internet access anymore as DSL is much faster and cheaper than dialup. But it is excellent for families or shared student flats as you get two voice channels and up to 10 phone numbers for only a few euros (2-4) more than analog. ISDN and ADSL on the same line is a very common configuration here. — [[Special:Contributions/213.39.174.131|213.39.174.131]] ([[User talk:213.39.174.131|talk]]) 10:35, 3 May 2008 (UTC)
+
+== ISDN is touted for videoconferencing? Are you joking? ==
+
+I am rather humored to see one of the positive aspects of ISDN being its support for videoconferencing. Has anyone writing about the positive features of ISDN ever even seen its videoconferencing in action? It is plainly just awful. Horribly low-resolution, low-framerate.. When videoconferencing is discussed in the context of ISDN they really mean "videoconferencing via a 320x200 pixel blurred, jumpy mess". Try to do anything serious with it, and it's more of a psychedelic artform that any sort of business conferencing system.  [[User:DMahalko|DMahalko]] ([[User talk:DMahalko|talk]]) 21:29, 31 December 2007 (UTC)
+: It depends upon how many B-channels you use. Business users often use more than two. ISDN is an excellent system for constant bitrate services like videoconferencing. --[[Special:Contributions/213.39.186.137|213.39.186.137]] ([[User talk:213.39.186.137|talk]]) 21:28, 7 January 2008 (UTC)
+
+
+I also agree, were I work we use 384KBs ISDN over a T1 for Compressed Video Confrencing using Cisco equipment and its wonderful...Its not FULL HD, but its still good quality and very decent frame rates. -Edwin  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.230.96.153|68.230.96.153]] ([[User talk:68.230.96.153|talk]]) 10:57, 26 January 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== ISDN ==
+
+How do I install ISDN ?–  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.168.230.46|71.168.230.46]] ([[User talk:71.168.230.46|talk]]) 12:53, 11 August 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== ISDN was never popular in India ==
+
+Hence I deleted the line:"In [[India]], ISDN was very popular until the introduction of [[ADSL]]." There is no evidence, cited or otherwise, of this. 
+
+[[User:Arunmehtain|Arunmehtain]] ([[User talk:Arunmehtain|talk]]) 11:40, 15 March 2009 (UTC)
+
+== ISDN Voice Talent --- citable? ==
+
+Okay, so I see that ISDN voice talent is very common. Many many Google hits for people offering it:
+
+* http://www.google.com/search?q=ISDN+voice+talent
+
+But can it be cited? Many of these businesses may not be around tomorrow so they probably are not individually good cites. Is there a book on the topic? [[User:DMahalko|DMahalko]] ([[User talk:DMahalko|talk]]) 06:19, 5 June 2009 (UTC)
+
+== Development and history ==
+I notice that there is virtually nothing about how old ISDN is, who developed it, its historical links to technologies that comprise or were originally designed for it, its early deployment history, or its contemporary competitors. [[Special:Contributions/72.235.10.142|72.235.10.142]] ([[User talk:72.235.10.142|talk]]) 13:47, 27 August 2009 (UTC)
+
+== Capitalization ==
+
+Why is this not done with Title Caps? It seems like it should be.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Stuart P. Bentley|Stuart P. Bentley]] ([[User talk:Stuart P. Bentley|talk]] • [[Special:Contributions/Stuart P. Bentley|contribs]]) 18:12, 23 October 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== lowercase correct ==
+
+Dgtsyb, you're confused about and confusing several completely different issues in this reasoning of yours: ''The ISDN. It is a proper noun. IEC like ISO like ITU-T do not capitalize proper nouns in titles (after the French).''
+
+# As you can see at the [http://www.iec.org/online/tutorials/dslam/topic02.asp International Engineering Consortium link], ''integrated services digital network'' is used in the middle of a sentence. The same is true of almost all [http://www.google.com/search?hl=en&num=50&q=site%3Aiec.org+%22integrated+services+digital+network%22&aq=f&oq=&aqi= IEC webpages]. 
+# The ITU also uses lowercase in the middle of sentences. Some [http://www.itu.int/net/itu_search/index.aspx?cx=001276825495132238663%3Anqzm45z846q&cof=FORID%3A9&ie=UTF-8&q=%22integrated+services+digital+network%22#964 ITU webpages] use uppercase, for example when explaining the acronym in a glossary, but most use lowercase. Wikipedia's MOS clearly says to avoid uppercase when not necessary.
+# Carefully edited reference works and publications such as Britannica also use lowercase when explaining acronyms of common nouns like ISDN. 
+#Just because a definite article is used before a noun in English does not make it a proper noun; "the" is very commonly used before common nouns. 
+#Some organizations (including Wikipedia) do not capitalise common nouns in titles, but they never lowercase proper nouns in titles (or in text). 
+# Not uppercasing every word in titles is not French. Most US newspapers have now also adopted this more modern and less baroque style, and UK newspapers and many publishers did this a bit earlier.
+#Please do not revert again while the issue is being discussed here. --[[User:Espoo|Espoo]] ([[User talk:Espoo|talk]]) 12:45, 1 January 2010 (UTC)
+* Please see discussion on [[Talk:Asynchronous Transfer Mode]] — [[User:Dgtsyb|Dgtsyb]] ([[User talk:Dgtsyb|talk]])
+
+:You wrote "please stop" after I reverted your removal of valuable info and after I'd asked you to not do so and to not revert until we'd finished the discussion. Please stop that aggressive behavior. Don't you think it'd be better to first discuss? 
+
+:Don't you agree that you cannot prevent the addition of the info from reliable sources? You can perhaps prevent uppercase use in WP, but you cannot prevent the addition of the info that many if not most distinguished and reliable organisations and publishers use lowercase. By simply repeatedly removing that info you're definitely weakening your chances of defending your preference because it definitely looks like you're afraid your position is so weak it won't hold if the lowercase info comes out. --[[User:Espoo|Espoo]] ([[User talk:Espoo|talk]]) 17:24, 1 January 2010 (UTC)
+
+Please see discussion on [[Talk:Asynchronous Transfer Mode]] — [[User:Dgtsyb|Dgtsyb]] ([[User talk:Dgtsyb|talk]]) 21:37, 1 January 2010 (UTC)
+
+== India ==
+
+Cleaned up the India section. [[User:Rdf0|Rdf0]] ([[User talk:Rdf0|talk]]) 15:43, 21 February 2010 (UTC)
+
+== Link to Reference point useless? ==
+
+The [[Integrated_Services_Digital_Network#Reference_points|Reference points section]] of this article (as well as the [[S interface]], [[T interface]] and [[U interface]] articles) link to a [[Reference point]] article which merely is redirected to the generic [[Reference]] article, while the [[Reference Point]] article is about a Jazz album. The information in the Reference points section is far better.
+
+I propose that the [[Reference point]] link is removed from this section and that other occurrences within the scope of ISDN is updated to point to this section. I might even get around to do this myself, unless spectacularily shot down here... 8)
+--[[User:Rootmoose|Rootmoose]] ([[User talk:Rootmoose|talk]]) 15:46, 20 March 2011 (UTC)
+
+== Requested move ==
+
+<div class="boilerplate" style="background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;"><!-- Template:RM top -->
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was: '''nomination withdrawn''' <small>(non-admin closure)</small>. [[User:Jenks24|Jenks24]] ([[User talk:Jenks24|talk]]) 01:38, 22 September 2011 (UTC) 
+
+----
+
+
+[[Integrated Services Digital Network]] → {{no redirect|1=Integrated services digital network}} –
+
+Per [[WP:CAPS]] and [[WP:TITLE]]: this is a generic, common term, not a propriety or commercial term, so the article title should be downcased. (ISDN is a ''set'' of standards, not a titled standard itself.) In addition, [[WP:MOS]] says that a compound item should not be upper-cased just because it is abbreviated with caps. Matches the formatting of related article titles [[User:Tony1|<font color="darkgreen">'''Tony'''</font >]] [[User talk:Tony1|<font color="darkgreen">(talk)</font >]] 23:23, 16 September 2011 (UTC)
+
+* '''Oppose''': the title is a proper noune for same reasons given [[Talk:Integrated_Services_Digital_Network#lowercase_correct|above]], [[Talk:Asynchronous_Transfer_Mode#lowercase_correct|here]] and [[Talk:Asynchronous_Transfer_Mode#Requested_move|here]]. — [[User:Dgtsyb|Dgtsyb]] ([[User talk:Dgtsyb|talk]]) 01:08, 17 September 2011 (UTC)
+* '''Oppose''': "a ''set'' of standards" is just another wording for "protocol stack" to manage the complexity of it (see [[OSI model]]), but ''Integrated Services Digital Network'' is the name of this stack, the name of a communications standard. -- [[User:SchreyP|SchreyP]]  <sup><small>([[User_talk:SchreyP|messages]])</small></sup> 06:01, 17 September 2011 (UTC)
+* '''Oppose''': It is a proper noun, both in the sense that one single network was envisioned (as in the [[Internet]]) as well as standards that are all rooted in the same basic documents (as in [[Asynchronous Transfer Mode]]). Very different meaning that the words taken together in their normal sense. Open standards can be proper nouns too, not just trademarks, if they refer to one specific thing. [[User:W Nowicki|W Nowicki]] ([[User talk:W Nowicki|talk]]) 18:24, 17 September 2011 (UTC)
+::OK, I'm convinced. Withdrawing request. [[User:Tony1|<span style="text-shadow:#BBBBBB 0.1em 0.1em 0.1em; class=texhtml"><font color="darkgreen">'''Tony'''</font >]] [[User talk:Tony1|<font color="darkgreen">(talk)</font ></span>]] 03:06, 18 September 2011 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.</div><!-- Template:RM bottom -->
+
+== Is [ISDN]/circuit-switched dead? ==
+
+In the lead: "ISDN is a circuit-switched"
+
+"[[Virtual circuit switching]] is a [[packet switching]] technology"
+
+I know my country has ISDN; you tend to not think of it, is at least non-ISDN [[circuit-switched]] (CN) dead? I tent to view IDSN not as CN, but packet switching, is CN (e.g. [[Public switched telephone network|PSTN]] except for the numbering system) dead, with or without ISDN? [I know of PBX as a possible exception; but even those VoIP..). [[User:Comp.arch|comp.arch]] ([[User talk:Comp.arch|talk]]) 17:04, 27 October 2016 (UTC)
