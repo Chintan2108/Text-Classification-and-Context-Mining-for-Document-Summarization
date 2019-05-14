@@ -22,6 +22,7 @@ def talkComments():
                 comments[i + globalRowCount] = ''.join(filter(WHITELIST.__contains__, str(comments[i + globalRowCount])))
                 comments[i + globalRowCount] = article.split('.')[0].replace('_',' ') + '\t' + comments[i + globalRowCount] 
             globalRowCount += (i+1)
+            print(comments[globalRowCount-1])
             print('Parsed %s successfully.' % article)
             print('*******************')
     df['Comments'] = comments
@@ -41,6 +42,7 @@ def articles():
     titles = open('articleNames.txt', 'r', encoding='utf-8').readlines()
     # titles = open('./../dataset/train/wikiTrainArticles.txt', 'r', encoding='utf-8').readlines()
     df = pd.DataFrame(columns=['Sentence', 'Article'])
+    globalRowCount = 0
     for title in titles:
         articleContent = wikipedia.page(title.split('\n')[0])
         for line in articleContent.content.splitlines():
@@ -49,9 +51,12 @@ def articles():
             if len(line) == 0:
                 continue
             lines = line.split('. ')
-            for i in range(len(lines)):
-                articleName.append(title.split('\n')[0])
             articleSentences.extend(lines)
+            for i in range(len(lines)):
+                articleSentences[i + globalRowCount] = title.split('\n')[0] + '\t' + articleSentences[i + globalRowCount]
+                articleName.append(title.split('\n')[0])
+            globalRowCount += (i + 1)
+        print(articleSentences[globalRowCount-1])
         print('Parsed %s successfully.' % title.split('\n')[0])
         print('*******************')
     df['Sentences'] = articleSentences
