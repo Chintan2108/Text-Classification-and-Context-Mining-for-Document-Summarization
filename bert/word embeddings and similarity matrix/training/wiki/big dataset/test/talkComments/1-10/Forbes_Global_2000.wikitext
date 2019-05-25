@@ -1,0 +1,70 @@
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Business|class=Start|importance=Mid}}
+{{WikiProject Lists}}
+{{WikiProject Globalization|class=list|importance=mid}}
+}}
+
+==Something wrong==
+It's something wrong with the sort-function. It thinks that 55 is a lot bigger than 350. Maybe it is sorting it in alphabetic order? [[User:Grrahnbahr|Grrahnbahr]] 20:31, 30 October 2007 (UTC)
+: It was an error in decimal point formatting. Fixed now (i hope). --[[User:Jklamo|Jklamo]] 02:21, 31 October 2007 (UTC)
+
+== Royal Dutch Shell ==
+
+If you disagree with [[Royal Dutch Shell]] HQ setting, please discuss that on Royal Dutch Shell article discussion page, not in this artile. You are not correcting error, it is disputable issue and this artilce is not place to solve that issue. Also note that this list is Forbes based list and Forbes is constatnly using Netherlands. --[[User:Jklamo|Jklamo]] ([[User talk:Jklamo|talk]]) 00:07, 28 January 2008 (UTC)
+:My edit had nothing to do with the HQ, my edit was on the 2006 list.  Look at the Shell site, if you read it you will see that the origins are both UK and Dutch, HQ in the Netherlands but stock listed in London and the registered Office in London as well.  That is clear so i can't see why you are so adament it is not UK/Dutch.  Whats Forbes says is irrelevent, would you transfer a sources inaccuracy to wikipedia, I think not.  On another note, I see no reason why this should not be discussed here, there is no conflict in the Shell article so why should it be discussed there.  The conflict is on this page 22:34, 28 January 2008 (UTC)  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.9.137.92|86.9.137.92]] ([[User talk:86.9.137.92|talk]]) {{{2|}}}</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:I don't get it. You stated "Also note that this list is Forbes based list and Forbes is constatnly using Netherlands", yet you reverted my correction to the list. Did you change your mind? If so, you didn't mention it here on the talk page. I'm reverting the article again. [[Special:Contributions/217.149.210.16|217.149.210.16]] ([[User talk:217.149.210.16|talk]]) 22:13, 11 January 2009 (UTC)
+
+::As far as I am aware Shell was formed out of the UK based 'Shell Transport and Trading' and the Dutch 'Koninklijke Nederlandsche Petroleum Maatschappij' on a 40/60% basis; hence the name which would be 'Koninklijke Nederlandse Shell' in Dutch. Also, at the bottom of the page Shell is listed as Netherlands/UK (for 2003), so perhaps that should be maintained for consistency. [[User:1812ahill|1812ahill]] ([[User talk:1812ahill|talk]]) 20:36, 13 November 2009 (UTC)
+:::Shell changed its structure in 2005, which is why the older lists don't match the current one. Your description is correct for the pre-2005 situation, not for today. [[Special:Contributions/217.149.210.16|217.149.210.16]] ([[User talk:217.149.210.16|talk]]) 17:48, 17 January 2010 (UTC)
+::I see an answer to this issue has been provided below;) [[User:1812ahill|1812ahill]] ([[User talk:1812ahill|talk]]) 20:53, 13 November 2009 (UTC)
+
+==Royal Bank of Scotland link==
+Presumably the links should be to [[Royal Bank of Scotland Group]] rather than [[Royal Bank of Scotland]], right? --[[User:David Edgar|David Edgar]] ([[User talk:David Edgar|talk]]) 15:04, 13 October 2008 (UTC)
+:Lol: then maybe. Now, alas, no more. Poor old [[Fred the Shred]] eh! (NOT)[[User:1812ahill|1812ahill]] ([[User talk:1812ahill|talk]]) 21:03, 13 November 2009 (UTC)
+
+== Consistency ==
+
+Since there was some discussion about consistency in relation to the headquarters of Royal Dutch Shell, I decided to go through the locations of the headquarters of all companies listed. The lists on this page should now be consistent with the original lists. If you find any residual error, feel free to fix them. Please note that the location of Shell's headquarters is listed as Netherlands from 2006 onwards. This is consistent with the original list and with reality. The list is a bit more dubious in several other cases (Fortis, Dexia) but I think it would be best to just stick with it and avoid all kinds of unnecessary debate. For instance, the revenue listed for ExxonMobil is not consistent with the company's own annual report or with the Fortune Global 500 list. However, it does seem to be consistent with the way Shell measures its revenue. There may be other such corrections and interpretations on part of Forbes that we are unaware of. [[Special:Contributions/217.149.210.16|217.149.210.16]] ([[User talk:217.149.210.16|talk]]) 12:33, 30 July 2009 (UTC)
+
+== How are the rankings determined?. ==
+
+As can be seen by glancing at the lists for 2009, 2008 and 2007, it becomes apparent immediately that many huge American banking corporations have disappeared. The article states that there are inconsistencies in the listings due to nationalised corporations not being present and so not being listed, so is this the reason for Citigroup and Bank of America vanishing from the list - due to government funds being pumped into these organisations? Does anyone know the exact reasoning behind the dramatic changes over the last few years (obviously the banking crisis is the answer, but how exactly has that affected the list)? The article and lists would be a lot clearer/understandable if someone with knowledge about this could include some details. For instance, what is the exact formulation used to establish the rankings? (It is obviously not a simple sum of the four factors described). [[User:1812ahill|1812ahill]] ([[User talk:1812ahill|talk]]) 20:51, 13 November 2009 (UTC)
+
+== Numbers Listed ==
+
+I think there ought to be some consistency as to how many corporations are mentioned for each year in this article. Some years have 10 entries listed here, whereas another year has 100. Perhaps the top 20 for each year would suffice, seeing as this is copyrighted information and displaying too much of it may be seen as plagiarism.[[User:Jon vs|Jon vs]] ([[User talk:Jon vs|talk]]) 21:17, 2 December 2009 (UTC)
+
+== Walmart ==
+
+Since when was Walmart's headquaters in China?
+
+== JPMorgan Chase is being replaced with TCS ==
+
+The 2011 list was edited by user 115.111.249.152.
+JPMorgan Chase was removed from rank number 1 and replaced with TCS.
+
+Can someone clarify?
+
+== Forbes web site broke ==
+
+The 2003-2005 lists have their front pages still listed but the lists themselves are no longer available. Does anybody have a solution for this? [[User:TMLutas|TMLutas]] ([[User talk:TMLutas|talk]]) 01:23, 2 May 2012 (UTC)
+
+== All kinds of problems ==
+
+Wait, Severstal Gazprom is in the US? That's what the list says for 2012 and 2011. Severstal Gazprom is not even listed on Forbes list for either 2012 or 2011. Weird. This list is all messed up and does not jive with the lists on Forbes website.
+
+[[User:Nasa-verve|Nasa-verve]] ([[User talk:Nasa-verve|talk]]) 03:51, 24 October 2012 (UTC)
+
+== ICBC ==
+
+ICBC no rankings 2014!  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/176.49.184.246|176.49.184.246]] ([[User talk:176.49.184.246|talk]]) 22:17, 12 January 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Copyright in lists ==
+
+I've removed the rankings here because they are calculated by Forbes according to a method which is not reproducible from publicly available data. Although the rankings are based on verifiable published data, and the calculation method is explained by Forbes (ref in the article), that calculation can't be reproduced without knowing how the "score" (their term) is assigned. Please see [[WP:CIL]]. I believe, though, that an unranked list of the top ten companies – in, say, alphabetical order – would be acceptable. In fact I'll go and do that now. [[User:Justlettersandnumbers|Justlettersandnumbers]] ([[User talk:Justlettersandnumbers|talk]]) 09:11, 12 December 2015 (UTC)
+:I disagree. [[WP:CIL]] is just essay, not policy or guideline. Also showing 20 items of 2000 (1%) seems to be covered by fair use for me. --[[User:Jklamo|Jklamo]] ([[User talk:Jklamo|talk]]) 02:08, 13 December 2015 (UTC)
+::Yes, {{u|Jklamo}}, it's an essay which gives detailed guidance on the application of United States law to cases such as this, written by someone who actually understands that topic (which is not a claim I'd make for myself – I'm just trying to apply the guideline where appropriate). [[Wikipedia:Copyrights]] is, however, policy, with legal considerations. Since you saw fit to restore the questionable content without discussion, I've now blanked it and listed the page at [[WP:CP]] for review. [[User:Justlettersandnumbers|Justlettersandnumbers]] ([[User talk:Justlettersandnumbers|talk]]) 10:49, 13 December 2015 (UTC)
+:::Unless there is going to be more discussion, I think what Justlettersandnumbers suggested above ("that an unranked list of the top ten companies – in, say, alphabetical order – would be acceptable") is what should be put in the article.--[[User:DerechoReguerraz|DerechoReguerraz]] ([[User talk:DerechoReguerraz|talk]]) 07:17, 16 December 2015 (UTC)
+::::Hi, {{u|DerechoReguerraz}}! I see you've gone ahead and reverted to that version of the page. That's an out-of-process removal of the copyvio template, but if {{u|Jklamo}} can be persuaded to agree on this then perhaps it can be allowed to stand. Jklamo, what do think? Can we agree to do it this way, or do you still hold to your earlier position – in which case I think the copyvio template should be restored so that this can wait its turn for review at [[WP:CP]]. That board is unfortunately back-logged, like so many others. For myself, I'd prefer this to be resolved through consensus if possible. [[User:Justlettersandnumbers|Justlettersandnumbers]] ([[User talk:Justlettersandnumbers|talk]]) 23:45, 16 December 2015 (UTC)
+As a patrolling administrator at [[Wikipedia:Copyright problems]], I've closed the listing as removed -- a removal that I agree with. Please do not restore the removed content. [[User:MER-C|MER-C]] 12:12, 4 January 2016 (UTC)

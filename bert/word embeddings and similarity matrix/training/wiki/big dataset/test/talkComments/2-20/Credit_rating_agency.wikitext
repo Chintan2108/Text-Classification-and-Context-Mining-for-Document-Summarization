@@ -1,0 +1,657 @@
+{{Connected contributor|Mysidae|BP|declared=yes|otherlinks=Close association declared at [[Wikipedia:Conflict_of_interest/Noticeboard/Archive_63#Assistance_with_.22Credit_rating_agency.22|COI noticeboard]]}}
+{{WikiProject Business & Economics| class= B| importance= mid}}
+{{WikiProject Finance|class=B|importance=high}}
+
+
+== Control of the market ==
+The article claims that S&P and Moody's controls 80% of the global ratings market.  Can Wikipedia please clarify if this means 80% of all issuances or 80% of the ratings market by dollar amount?   These two things are very, very different.
+[[Special:Contributions/199.253.174.9|199.253.174.9]] ([[User talk:199.253.174.9|talk]]) 19:53, 11 August 2016 (UTC)
+
+I was able to find the answer in http://garrettforms.house.gov/uploadedfiles/crs_report_may_15_2009_overview_of_the_credit_rating_agencies_and_their_regulation.pdf.   The 95% quoted by Wikipedia is probably the revenue generated from the ratings business.  In terms of issuance, they collectively issue 98% of all the ratings on the market.
+[[Special:Contributions/199.253.174.9|199.253.174.9]] ([[User talk:199.253.174.9|talk]]) 20:38, 11 August 2016 (UTC)
+
+
+== Email ==
+"More revenue was earned this way because many investors wouldn't buy an unrated bond so issuers wanted to be rated, while subscriptions were "always going to be optional" for bond buyers because information about ratings changes from the larger CRAs could spread so quickly (by word of mouth, email, etc.)." 
+
+How can this be correct for the time period mentioned (70s), since email was not used widely then ?
+--[[User:Robin of locksley|Robin of locksley]] ([[User talk:Robin of locksley|talk]]) 23:55, 19 October 2013 (UTC)
+
+== US/UK distinction ==
+
+Look, there needs to be a clear distinction between US and UK credit mechanisms.  This is important information thats usless in its current format.
+
+:What are the distinctions?  Corporate bonds are corporate bonds.  Sovereign bonds are sovereign bonds. ([[User:162.138.176.51|162.138.176.51]] 18:27, 16 May 2006 (UTC))
+
+== Implicit assumption this article is about one country ==
+
+"Ratings agencies... have been implicitly allowed by the government to fill a quasi-regulatory role"
+This is an international encyclopaedia, not about a particular country so this sentence shoud say which country's government has acted in this way rather than assume we know already. 
+Most of the article is almost entirely about the US. If all CRAs are American then perhaps this should be stated in the introduction
+[[Special:Contributions/77.103.6.140|77.103.6.140]] ([[User talk:77.103.6.140|talk]]) 17:45, 20 September 2010 (UTC)
+:I changed it to "governments" to clarify.  Previous parts of the article talk about ECAIs and how CRAs are used by many different governments under the Basel accords. [[User:Epstein&#39;s Mother|Epstein&#39;s Mother]] ([[User talk:Epstein&#39;s Mother|talk]]) 15:17, 24 September 2010 (UTC)
+
+== Fair Isaac Corporation and the FICO scores ==
+
+Will someone please mention [[Fair Isaac Corporation]] and its [[FICO score]] formula? Its rather important to correctly identify how they relate to the credit rating score.
+
+
+[[User:Quarl]] has merged credit reference/reporting agency with credit rating agency under the overall title of credit rating agency. I would note the following: 
+
+* This merge was done without any discussion whatsoever, or without a merge tag being added.
+* Credit reference agencies and credit rating agencies are two entirely different operations and surely deserve separate articles. The credit reference agencies go to great lengths to persuade people that they are ''not'' credit rating agencies.
+* Please discuss. [[User:Arcturus|Arcturus]] 18:43, 8 March 2006 (UTC)
+
+Okay, the articles seemed to be about the same thing to me, feel free to unmerge and discuss the difference in the articles.  Top Google hit for both "credit rating agency" and "credit reference agency" is Equifax.  <span class="user-sig user-Quarl"><i>—[[User:Quarl|Quarl]] <sup>([[User Talk:Quarl|talk]])</sup> <small>[[2006-03-08]] 21:41Z</small></i></span>
+
+:I'll leave it for a while to see if any other views are forthcoming. Another option would be an article of a completely different name, which includes ''rating'' and ''reference'' agencies, '''credit reporting industry''' or something like that. [[User:Arcturus|Arcturus]] 18:10, 10 March 2006 (UTC)
+
+
+I think they should be unmerged.  Rating agencies and credit bureaus are two entirely different animals.  One deals with consumer credit, with banks as the client, the other with bond ratings with investors as the client.  In theory these are similar, but the reality is very different.  One is mechanical and done almost entirely by mathematical algorythm, the other involves committees, interviews, and (supposedly) in-depth analysis of financial statements.  The problematical issues are entirely different, too. Finally, one "reports", while the other "rates" or "opines".  (A credit bureau doesn't say this individual's chances of default are X.  Rather, it says individuals with these characteristics tend to default this frequently.  A CRA, by contrast, actually says "We think this company's chances of default on this bond are X.")  [[User:70.92.247.123|70.92.247.123]] 20:32, 12 April 2006 (UTC)
+
+== Separated out credit bureaus from CRAs ==
+
+Consumer credit ratings and credit rating agencies are sufficiently different to warrant separate headings.
+([[User:Epstein's Mother|Epstein&#39;s Mother]] 20:23, 25 April 2006 (UTC))
+
+
+== Dun & Bradstreet, Inc. v. Greenmoss Builders ==
+
+I put this under "Credit Bureau" rather than here because the case actually deals with a private credit report on a company, and it is not clear that it would apply to an actual credit rating agency.  (Also, I changed "high court" to "Supreme Court" and deleted the reference to Bose because it is unclear from the context why Bose would be considered a public figure.  Did you mean a public company?  If so, Bose is not a public company.)  One of the reasons that the D&B case may not apply here is that CRAs "rate" mostly public companies.  Furthermore, unlike the D&B case, the largest CRAs make their ratings public, whereas D&B reported the false information to only five subscribers. [[User:Epstein's Mother|Epstein&#39;s Mother]] 21:10, 14 September 2006 (UTC)
+
+==fees==
+it would be nice to put here some information about the average fees asked by cra to make their ratings. [[User:90.152.2.74|90.152.2.74]] 09:50, 9 March 2007 (UTC)
+
+== Cities vs city councils ==
+
+On the 2nd line the article mentions cities. Would it not be more accurate to say that the credit rating is actually assigned to the council?<br />[[User:Zain Ebrahim111|Zain Ebrahim]] 11:45, 6 September 2007 (UTC)
+
+== Conflict of interest section ==
+
+These agencies meet frequently in person with the management of many companies, and advise on actions the company should take to maintain a certain rating. Furthermore, because information about ratings changes from the larger CRAs can spread so quickly (by word of mouth, email, etc.), the larger CRAs charge debt issuers, rather than investors, for their ratings. This has led to accusations that these CRAs are plagued by conflicts of interest that might inhibit them from providing accurate and honest ratings.
+
+
+This is a good observation and it seems Mr Trichet, the European Central Bank president agrees with this observation
+
+Mr Trichet says lessons need to be learned from the fact that the fees of the credit rating agencies are paid by the very financial institutions whose bonds they are assessing.
+
+hese bonds were frequently given coveted AAA ratings by the three credit rating agencies usually a sign that an investment is safe.[http://news.bbc.co.uk/2/hi/business/6990443.stm]  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Wk muriithi|Wk muriithi]] ([[User talk:Wk muriithi|talk]] • [[Special:Contributions/Wk muriithi|contribs]]) 04:46, 14 September 2007 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+One should quote him saying so, rather than citing unspecified chatter in France. The suggestion in the article is incorrect though. The rating agencies don't just award a rating to a tranche just because it's supposed to be the AAA tranche. They tell the issuer how it can achieve a AAA rating. The issuer might negotiate with the agency, by saying "can we do X instead of Y?", but the rating is assigned in a rigorous process, not simply bought. And where exactly is the conflict of interest? Yes, the issuer pays, but it cannot buy the rating it wants. The agency cannot benefit from up-rating an issue (they have strict rules on ownership of stock, so analysts cannot sneakily short issues that they have falsely rated) and I don't believe it's the case that an issuer can withhold payment if it doesn't get the rating it wants. Quite the opposite. They'd generally never sell their bonds if they weren't rated, and word would get round that their bonds were shit if they entered the rating process and then withdrew because they couldn't get what they wanted. There's no gun to the agency's head. Like I say, it gets paid anyway. I know it has become fashionable to blame them for the subprime crisis, but their methodology is not predictive. It says something like "this bond will be paid so long as there is not a recession the like of which we've never encountered" or "this bond will be paid so long as Issuer X is not lying through its teeth about the quality of its borrowers".[[User:Grace Note|Grace Note]] ([[User talk:Grace Note|talk]]) 07:42, 9 July 2008 (UTC)
+
+: lol. "The House Committee on Oversight and Government Reform accused the agencies of ignoring warnings signs and following the "delirious mob" on Wall Street. Professor Dean Baker, of the Centre for Economic and Policy Research in Washington, says there were cases of outright corruption."[http://news.bbc.co.uk/today/hi/today/newsid_7685000/7685597.stm] etc. etc. etc. --[[User:Mongreilf|Mongreilf]] ([[User talk:Mongreilf|talk]]) 22:19, 12 November 2008 (UTC)
+
+== Article title ==
+The use of the word "agency" is a misnomer and implies, at least in the US, that there is some kind of governmental relationship.  These companies aren't "agencies."  They are most often referred to as "ratings firms" in the US press. [[User:NoGutsNoGlory|NoGutsNoGlory]] ([[User talk:NoGutsNoGlory|talk]]) 18:18, 30 March 2008 (UTC)
+:There is no implication of government relationship in the title.  There are many different types of agencies other than those of the government.  For instance, modeling agencies, travel agencies, etc.  Further, "agency" is the proper title for these organizations as that is both what they call themselves and is their official business designation.  See [http://www.sec.gov/divisions/marketreg/ratingagency.htm].  I don't know where you got this idea that they are referred to as firms in the press.  See [http://www.marketwatch.com/news/story/sp-may-upgrade-sothebys-corporate/story.aspx?guid=%7B24280AFF-DA2B-43EA-956F-5AAF76F25EC2%7D] [http://www.reuters.com/article/bondsNews/idUSL265822420080326] [http://www.signonsandiego.com/news/metro/20080328-9999-1m28b2briefs.html][http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/03-24-2008/0004778885&EDATE=] --[[User:Ave Caesar|Ave Caesar]] ([[User talk:Ave Caesar|talk]]) 18:24, 30 March 2008 (UTC)
+
+== List of rating agencies ==
+
+The section at the beginning is merely a list of Credit Rating Agencies. Where do we draw the line regarding which of them are notable? I think we should create a [[List of credit rating agencies]]. [[User:Zain Ebrahim111|Zain Ebrahim]] ([[User talk:Zain Ebrahim111|talk]]) 13:17, 16 June 2008 (UTC)
+
+== Whoever is moderating here ==
+
+Need to add a chapter on the Housing Mortgage crisis and how CRA's  caused the fraud.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/69.154.21.149|69.154.21.149]] ([[User talk:69.154.21.149|talk]]) 21:33, 26 February 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:While they played a role, CRA's are not to blame entirely. Do you have a source to back your assertion?
+:Cheers!
+:[[User:Aua|<font size="2.5" color="blue">&Lambda;</font><font color="red">u</font><font color="gray">α</font>]] <sup><small>([[User talk:Aua|Operibus anteire]])</small></sup> 18:45, 25 July 2011 (UTC)
+
+::BTW, I'm not saying they have no hand in this, but I'm saying there are bigger factors: [[subprime lending]], [[defaults]], etc.
+::Cheers!
+::[[User:Aua|<font size="2.5" color="blue">&Lambda;</font><font color="red">u</font><font color="gray">α</font>]] <sup><small>([[User talk:Aua|Operibus anteire]])</small></sup> 21:26, 25 July 2011 (UTC)
+
+== Blackmail/Hannover Re example ==
+
+The Hannover Re example is not a very good example of the "blackmail" accusation.  Large CRAs will rate large issuers regardless of whether they request the rating or not, and the fact that the market dropped on news of Moody's downgrade would seem to indicate that investors believed there were good reasons for the downgrade.  In addition, Eliott Spitzer investigated Moody's in this case, and nothing ever became of it (and he would have been all over the news had he found anything at all).  [[User:Epstein&#39;s Mother|Epstein&#39;s Mother]] ([[User talk:Epstein&#39;s Mother|talk]]) 23:37, 20 January 2011 (UTC)
+== Turkey's lack of AAA rating ==
+http://www.hurriyetdailynews.com/n.php?n=turkey8217s-rating-dilemma-continues-2011-03-03
+<br />
+
+http://seekingalpha.com/article/116965-rating-agencies-unfairly-give-turkey-short-shrift
+
+<br />
+--[[User:Ericg33|Ericg33]] ([[User talk:Ericg33|talk]]) 08:54, 7 August 2011 (UTC)
+
+:I am confused. Where does it mention Turkey in the article? Also, the lists we have usually have some of the more known CRA's around (e.g. S&P, Moody's, Finch) and not what one of the articles had ('Euler Hermes Group").
+:Cheers!
+:[[User:Aua|<font size="2.5" color="blue">&Lambda;</font><font color="red">u</font><font color="gray">α</font>]] <sup><small>([[User talk:Aua|Operibus anteire]])</small></sup> 22:09, 12 August 2011 (UTC)
+
+== History expansion. ==
+
+Would be good to get origins and/or history section(s) in here. Some background to the groups that created these entitites, when and what the proposed motivation was at the time. Key figures and milestones. Evolution. Association with any particular philosophical movements. For example libertarianism or Chicago School economics. Change over time.
+Point is: Origins/History section(s) to this article would be v good.
+Thanks.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.53.3.229|72.53.3.229]] ([[User talk:72.53.3.229|talk]]) 15:15, 26 November 2011 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:I would like to expand on that and query why it is that in the last 5 years the media (in my case in the UK) have become obsessed by discussing various countries' 'Triple A' (or whatever they may be) credit ratings in such great detail. Barely a day goes by without the mention of 'S & P' and whether or not such and such a country is losing whatever rating they had; and this is discussed even in the regular evening news, never mind the finance programmes. 
+
+:Maybe this isn't the appropriate article for such a 'media influence/ implications' section, but this is an issue that warrants a section somewhere in some article as these credit agencies have an extremely powerful influence (even more so with all the media coverage) on many nations' governance and policy decisions - and I don't see it mentioned in a media context here.[[User:1812ahill|1812ahill]] ([[User talk:1812ahill|talk]]) 00:31, 14 February 2012 (UTC)
+
+== Suggestions for article improvement ==
+
+{{request edit|D|See comment.}}
+
+This article has many problems: much of the information presented is distorted, outdated, and uncited, and at 5000+ words it is very, very long. I have some suggestions about editing this article and updating particular details, but first I should note that I am a representative of Moody's—one of the "big three" agencies referenced in the article. Because of this conflict of interest, I won't be making any edits to the article, but hope that other editors will review my suggestions and make them if they judge them accurate and appropriate.
+
+My first suggested change is a rather simple one: cleaning up the "[[Credit_rating_agency#List_of_credit_rating_agencies|List of credit rating agencies]]" section. This has been one of the most edited sections recently, in what often seems to be a promotional manner. Some of the new additions to the list are not significant entities. Others are investment research companies or credit bureaus, not credit rating agencies. I would also suggest moving the list to the bottom of the article to improve overall readability. 
+
+This section would be improved if a clear set of criteria for inclusion is established. One possible solution is focusing on global agencies and prominent regional agencies which are the subject of Wikipedia articles now. I have compared the list of agencies recognized by the U.S. SEC ("[[Nationally Recognized Statistical Rating Organizations]]"), the [[European Securities and Markets Authority]] (based on [http://www.esma.europa.eu/page/List-registered-and-certified-CRAs this list]) and the [http://acraa.com/acraamembers.asp Association of Credit Rating Agencies in Asia] with existing articles, and this is the resulting list, presented alphabetically:
+
+*[[A. M. Best|A.M. Best Company]]
+*[[de:Assekurata|ASSEKURATA]]
+*[[it:Cerved Group|Cerved Group]]
+*[[Credit Rating Information and Services Limited|CRISL]]
+*[[CRISIL]]
+*[[Dagong Global Credit Rating]]
+*[[Dominion Bond Rating Service]]
+*[[Egan-Jones Rating Company]]
+*[[Fitch Group]]
+*[[ICAP (company)|ICAP Group]]
+*[[ICRA Limited]]
+*[[Japan Credit Rating Agency, Ltd.]]
+*[[Moody's Investors Service]]
+*[[National Credit Ratings Limited]]
+*[[SME Rating Agency of India]]
+*[[Standard & Poor's]]
+*[[Thai Rating and Information Services]]
+
+Other agencies may be notable, but all of these entries meet the criteria I outlined above, and helps in that it reduces the overall list from 27 to 17. I am open to other suggestions about how to improve this section, but this I believe is a neutral and clear solution. I hope to make further suggestions soon. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 22:53, 7 February 2013 (UTC)
+
+:Hi Mysidae. I deleted the section in its entirety. Generally a long list of vendors like that is just link-bait and is usually added by companies looking for a plug. The section "The Big Three" is a good example of how we handle this, though ideally I would like to see it merged into a general Business section that discusses the overall business model and market-size. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 20:40, 13 February 2013 (UTC)
+
+== Improving this article's coverage of CRA business models ==
+
+{{request edit|A}}
+I sometimes offer suggestions on Wikipedia articles on behalf of Moody's, and I would like to help improve this page without making direct edits, so I hope another editor can assist with a proposed revision to the current section "[[Credit_rating_agency#CRA_business_models|CRA business models]]". A newly prepared draft is in my userspace for others to review or even edit as they see fit: [[User:Mysidae/Business models]].
+
+The current version of this section leaves much to be desired. Firstly, it includes not a single third-party source, which should be of concern given the subject matter, and it makes a number of unsupported claims. The section is not wildly inaccurate, and its treatment of criticisms of the various models is mostly correct. However, it could be better, and reliable sources do exist to verify this information and even add some specifics. Finally, the unusual sub-heading "Open Source model" places too much emphasis on a rating method which is too new to have had much impact, and is not a significant business model at this time. However, it is appropriate to discuss as it is an interesting development, and I have retained a sentence about it. I look forward to any constructive feedback on this suggestion. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 15:07, 28 March 2013 (UTC)
+
+<s>== Globalize tag ==
+
+I've added the Globalize tag but I'm afraid I can't help much "globalizing" the article as I know nothing about Credit rating agencies outside of the US.
+
+Like some other articles ([[Executive compensation]], [[Social mobility]]) I think it would profit wikipedia to have spin offs articles for at least big countries like the US, because laws and practices are elemental to these issue and vary so much by country. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 20:55, 24 May 2013 (UTC)</s>
+Forget it. Agencies are pretty global. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 22:59, 30 May 2013 (UTC)
+
+*This is currently the oldest item in the Request Edit queue, most likely because it is difficult to tell if the request has been answered sufficiently. Can this Request Edit be closed yet or is there some item that is still open? [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 15:34, 30 July 2013 (UTC)
+
+::::CorporateM, I appreciate you raising this question. The request was mine, and yes I do consider it to be complete, and I am sorry I did not notice that it was still marked as outstanding, so I will with this edit mark the request as done. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 18:31, 30 July 2013 (UTC)
+
+== Edits ==
+
+I'm making a LOT of changes. Some will probably be trimmed and moved to the [[Credit rating agencies and the subprime crisis]] --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 18:53, 3 June 2013 (UTC)
+
+== The Big Three ==
+
+Hello, I have been away awhile but I have a few more proposals to help improve this article. For anyone who has not not seen my discussion on this page, I have been asked by Moody's to review this article and try to make it a better resource. Their goal is not self-promotion but better understanding of the industry, and the research and words I will offer here are mine.
+
+For now, I would like to suggest that we expand the [[Credit_rating_agency#.22The_Big_Three.22|Big Three]] section, which is currently three brief sentences and a link to a standalone [[Big_Three_(credit_rating_agencies)|Big Three]] article. I see that the standalone article has been expanded recently, and while I am hesitant to offer a contrary view so soon after its writing, I believe this material really belongs in the "Criticism" section of ''this'' article. Moreover, I have my doubts that it is a large enough topic to warrant a separate article, and material from that page could easily be merged back into the main article. To that end, I have prepared a draft of a new ''Big Three'' section in my userspace for others to review or even edit as they see fit: [[User:Mysidae/The_Big_Three]]
+
+I think this draft is an improvement over both the current section and standalone article for several reasons: 
+
+*First, this draft provides the most recent stats about the three agencies' relative market share, number of outstanding ratings, and personnel. Additional details are also provided about how the agencies' respective ratings systems differ from one another. 
+
+*Second, this draft provides a better treatment of the Big Three's combined market share by incorporating historical and global details alongside more contemporary analysis and criticism. This draft notes, for instance, that there have never been more than four credit rating agencies with significant market share, and that the situation for international financial markets is similar.
+
+*Third and finally, this draft briefly covers criticism of the Big Three regarding the 2008 financial crisis and European sovereign debt crisis. By including this material in the main article, we can avoid a longer (and possibly redundant) treatment since both topics are already covered in the [[Credit_rating_agency|Introduction]], [[Credit_rating_agency#Uses_of_ratings|Uses of ratings]] and [[Credit_rating_agency#Criticism|Criticism]] sections.  
+
+If others are happy with this draft, I hope they will add it to the article and redirect the standalone [[Big_Three_(credit_rating_agencies)|Big Three]] page to the updated section. I am happy to answer any questions and welcome any and all feedback. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 22:28, 7 June 2013 (UTC)
+
+:While I do detect a little plug for your employer, Mysindae, there certainly seems to be a lot of useful information in what you have written. Too bad we can't give someone from S&P and Fitch equal time.  --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 16:55, 10 June 2013 (UTC)
+:Personally speaking I'm ambivalent about the [[Big_Three_(credit_rating_agencies)|Big Three]] article. For all intents and purposes the Big Three ''were'' the rating agencies for the subprime financial crisis. So should we move most of the CRA article to [[Big_Three_(credit_rating_agencies)|Big Three]]? .... Yet that doesn't feel right IMHO. [[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 16:59, 10 June 2013 (UTC)
+::I very appreciate your reply, BoogaLouie. If I had to guess, it is the sentence about Moody's looking at investor loss vs. default probability? It is true enough that Moody's does view this as a key differentiator, however if you think the section is acceptable without it, then I can be amenable to this change.
+
+::About the Big Three article: there surely is no lack of discussion of these agencies' role in the 2008 financial crisis on Wikipedia. It is discussed in this article, in [[Financial_crisis_of_2007–08]], and I even made sure to give it proper discussion in the Moody's article: [[Moody's_Investors_Service#Financial_crisis_of_2007-2008]]. Meanwhile, when we say "credit rating agency" we almost always mean one of the big three, which makes that a subsidiary topic, and a redirect could always be created. This page also gets 5x more traffic, so this is likely where readers will look in any case. What do you think? [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 22:07, 10 June 2013 (UTC)
+:::I have little doubt that what you say about S&P is true, it's just that I'm sure S&P would have some rejoinder like "unlike Moody's we do blah blah blah" 
+:::As for the [[Big_Three_(credit_rating_agencies)|Big Three]] I'm leaning toward merge and redirect but maybe we should poll some other editors. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 23:22, 10 June 2013 (UTC)
+:::(Have asked Guy Macon to weigh in) -[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 23:52, 11 June 2013 (UTC)
+::::Apologies for the delay in responding. I do think your point about the one sentence being too much information about Moody's is a fair one. I would not object if it was removed before the section is updated.
+::::I am certainly open to a discussion about how best to handle the Big Three topic, Guy Macon would be a very welcome participant here. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 17:03, 12 June 2013 (UTC)
+:::::While we're waiting for Guy Macon, I will add your  [[User:Mysidae/The_Big_Three]] writing minus the remarks about the superiority of Moody's and shortcomings of S&P,  which we can argue about later. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 17:56, 15 June 2013 (UTC)
+::::::I see that you have, and I appreciate you doing so. Yes, let us see what Guy Macon says. Meantime, I am working on suggestions for other sections, but I don't have anything to share about them yet. When I do I will also bring them for discussion here first. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 17:52, 17 June 2013 (UTC)
+
+== A history section for this article ==
+
+{{request edit|D|Appears to be stale, so I'm taking this out of the queue.  }}
+Hello, I have formerly contributed to this page, yet it has been several months now since I last commented. I have been considering new ways to improve this article, and one important topic area not now included is the history of credit rating agencies (CRAs). I have previously written a [[Moody's_Investors_Service#History_of_Moody.27s|history of Moody's]] for that article. I was able to draw upon this prior work in addition to further research for the whole industry to prepare a wiki-appropriate summary of the development of CRAs. Please find it here for review: [[User:Mysidae/Credit_rating_agency_history]]
+
+Editors from this page may recall that I have worked (and continue to work) with [[Moody's Corporation]], as such I would prefer to avoid making direct edits to Wikipedia articles on subjects relevant to CRAs. I am posting this note with the express purpose of locating a neutral, unaffiliated Wikipedia editor who may review the draft on offer and consider it for inclusion in this article. I will try to check this page on a daily basis so I can be available to answer questions if any are forthcoming. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 22:34, 9 October 2013 (UTC)
+
+:Mysideae asked me to comment here in my volunteer capacity. I do not know anything about this topic, but looking at the Criticism section of the current article, it appears to all be reflective of specific time-periods and therefore belongs in the History section. A dedicated Criticism section is not a neutral title and draws undue attention to the criticisms. Though you could also look at it the other way, that they are buried at the bottom and belong near the top.
+
+:As for the draft, I see there are some nice plugs for Moodys, that are especially heavily cited and have substantial weight. Well... I wrote the article on [[History of public relations]] and it mentions some PR agencies that played a role in its history, so this is not unprecedented. However, I am concerned about the weight of this material and whether it is fair to other agencies. 
+
+:I think the draft is valuable enough as a starting point for it to be worth our attention, but I would suggest an editor do some light research independently, trim, copyedit and re-write it and mix it with the current Criticisms section into a more balanced History. The current article shows signs of RECENTISM. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 03:13, 12 October 2013 (UTC)
+
+::[[User:Mysidae/Credit rating agency history]] looks pretty good to me. It seems to give the appropriate weight to Moody's, S&P and Fitch and seems to avoid recentism. I am inclined to accept it as is. I could try copyediting, but I am not sure what if anything needs changing.
+
+::Note: I am here because I was invited on my talk to take a look at this. When I looked at the draft, I couldn't recall which agency Mysidae works for/with, and I really couldn't tell from reading the draft. --[[User:Guy Macon|Guy Macon]] ([[User talk:Guy Macon|talk]])
+
+:::Greetings CorporateM and Guy Macon, I do appreciate your responses. It is interesting that you have mentioned the "Criticisms" section which I do also believe needs a rewrite to comply with Wikipedia rules and simply to inform readers more concisely. However I have a separate draft of this which I have planned to share soon. Regarding "plugs" for Moody's I made careful efforts to accurately note its role in the industry's development while not overly privileging it compared to its historical rivals. If you are persuaded of Mr. Macon's observation that it appears suitable for mainspace at this time, will one of you consider moving it to the article? Following this I do have additional suggestions, including for "Criticisms". Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 12:31, 15 October 2013 (UTC)
+
+Hi Myside. I have started working on it. I don't have access to the first two book sources. Can you explain how/why the financial crisis of 1847 led to mercantile rating agencies and the difference between those and regular, modern rating agencies? [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 16:44, 15 October 2013 (UTC)
+
+:Hello, in most cases these are not books, but journal and conference papers, often collected in reviews and book form. The first source is a paper for the [http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf New York Fed] which is online although I had not linked to it. The second is a book, which I obtained on interlibrary loan. However, the New York Fed paper is enough to verify both sentences if you like.
+
+:I see that you have cut the "Criticisms" section from the article entirely. I had written on Guy Macon's discussion page that I do believe a separate "Criticisms" section is appropriate for the article, however it would need significant rewriting. Would you like that I post my "Criticisms" draft for review as well? This may assist you in seeing how the "History" and "Criticisms" subjects are more intelligible if kept separate. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 20:09, 15 October 2013 (UTC)
+
+::The criticisms section was not removed; it was divied up into sections on the financial crisis, integrity/accuracy of ratings, etc. with neutral headers and it was trimmed of anecdotes and POV quotes. It is best practice to create balanced sections, rather than concentrate all the good/negative into a designated area. I would like to see your criticisms content eventually, but would rather finish History first.  [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 21:59, 15 October 2013 (UTC)
+
+== Overlap? ==
+
+I noticed there is a lot of duplication between [[Credit rating]], [[Credit rating agency]] and [[Big Three (credit rating agencies)]].
+
+My suggestion would be that we merge all three into [[Credit ratings]]. Most articles about business topics should include a summary of the major players, business models, etc., but we don't need to break them out into separate articles. For example, we don't need separate articles on Banks and Banking or Insurance and Insurance companies. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 18:44, 15 October 2013 (UTC)
+
+:I would support a merge of [[Big Three (credit rating agencies)]] into this article and once suggested this myself. That article was once a stub unti earlier this year, when much information was added regarding the 2008 financial crisis. However, I believe even this article suffers from [[WP:RECENT]] with regards to the financial crisis. In short, I think the Big Three article could be merged without needing to save any of its content. It is all duplicative.
+
+:I would not support a merge of [[Credit rating]] with [[Credit rating agency]]. The mechanics of credit ratings are a worthy topic themselves. However, earlier this year, the rating table from that article was copied into this one. I believe that it belongs in one article, but not both. I strongly recommend that someone consider removing it from this one. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 20:30, 15 October 2013 (UTC)
+
+::I tend to agree with Mysidae, but I could go either way. I can't be a lot of help with merging/copyediting because this is so far from my field of expertise (engineering) but I will be glad to error check, look for references, ect. 
+
+::On a somewhat related subject, when I first opened this page, I expected to see that the three biggest U.S. credit rating agencies were Experian, Equifax and TransUnion, not Standard and Poor's, Moody's, and Fitch Group. Turns out that information is at [[Credit bureau]], [[Credit history]] and [[Credit score in the United States]]. It's like there are two different worlds using similar names for things. 
+
+::Another thing; while searching Wikipedia so I could write the above paragraph, I saw [[Credit bureau#List of credit reporting agencies]], which told me that I needed to write "the three biggest U.S. credit rating agencies" (my first draft said "the three biggest credit rating agencies", which of course made my wonder if Standard and Poor's, Moody's, and Fitch Group were country-specific or global. The mention of the EU in the fourth paragraph of this article made me think global, but [[Credit bureau#List of credit reporting agencies]] says that Experian and  Equifax are big in the UK but not some other countries. And of course ''that'' list seems to think that the EU and it's members don't exist.
+
+::[[Credit rating agency]] does a good job of sorting out the difference and sending the reader to the right place. [[Credit bureau]] does not. In the lead of that article I read  ''"..based on the different expected risks of different borrowers, as set out in their [[credit rating]]"'', with [[credit rating]] dumping me into a page that is suddenly talking about  Moody's, Standard and Poor's, Fitch Ratings, and DBRS, none of which are mentioned in [[Credit bureau]]. (Wait...What? Where did Experian and  Equifax go?) --[[User:Guy Macon|Guy Macon]] ([[User talk:Guy Macon|talk]]) 20:40, 15 October 2013 (UTC)
+
+:::This is very true, [[credit reporting]] pertains to individual [[credit score]]s. [[Credit rating]]s pertain to debt issuance by public and private entities (countries, states, corporations) and [[bond credit rating]]s are what a [[credit rating agency]] looks at. Indeed, it quite confusing. For now, my focus is this article, although the others would benefit greatly from expert attention. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 21:19, 15 October 2013 (UTC)
+
+::::Ok, I will add it to my To Do list to merge any salvageable content from the big three article. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 21:44, 15 October 2013 (UTC)
+
+{{done}}
+
+:::::Have attempted to clear up [[Credit rating]] lede with [https://en.wikipedia.org/w/index.php?title=Credit_rating&diff=579503654&oldid=576286235 this] [[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 18:18, 30 October 2013 (UTC)
+
+The merge was completed in 2013, but quickly reversed on [[Big Three (credit rating agencies)]]. However, the case for merge still stands. Therefore, to avoid duplication, and give more context to [[Big Three (credit rating agencies)]], I suggest again merging in using the former arguments. [[User:Klbrain|Klbrain]] ([[User talk:Klbrain|talk]]) 10:52, 20 November 2016 (UTC)
+::This merge proposal is stale and has not reached consensus, so I am removing the templates from the pages. [[User:El cid, el campeador|<span style="color:black">'''‡ Єl Cid of ᐺalencia'''</span>]] <sup>[[User talk:el cid, el campeador|<span style="color:teal">ᐐT₳LKᐬ</span>]]</sup>  21:36, 22 May 2018 (UTC)
+
+== How to fix this article ==
+
+Since I posted my [[User:Mysidae/Credit_rating_agency_history|proposed draft]] of the "History" section on October 9th, there has been a flurry of activity on the article. One editor, CorporateM, has made more than 30 edits over the past few days, among them several substantial rearrangements of article content. Ostensibly, this was done at my request. Yet the early results have not necessarily been an improvement. I appreciate CorporateM's efforts to address the article's numerous structural flaws, many of which I have identified in previous talk page posts. For instance, I think merging [[Big Three (credit rating agencies)]] into this article is a good proposal. However, I do think some of the other rearrangements deserve reconsideration. I have several concerns myself, which I have outlined. I apologize in advance for length, however I believe it is necessary to make myself clear.
+
+As I have stated on numerous times previously, I have on occasion researched and written new material for submission to Wikipedia on behalf of [[Moody's Corporation]] (I am a contractor). Their goal, as mine, is to produce a thorough, well-balanced and easy to read summary of the industry consistent with Wikipedia's Manual of Style and other content guidelines. I regret to say is my concern that CorporateM's well-intentioned changes this week have made the topic even more confusing. Before returning to this article in October 2013, I planned to present several section drafts for consideration in succession: "History", "Criticism", and "Role in capital markets". Because of these changes, I think the best solution is to present a complete alternative to the current version. I will explain why I believe the current version of the article is unhelpful, and present the case for my own. To the degree it informs the situation, following at a distance renewed debates surrounding "Paid editing" and "Paid advocacy" I should make clear my intentions here are not intended to be advocacy for Moody's or the industry, except inasmuch as it would help everyone interested in this subject to have a quality resource for explaining the topic. This can be that, although it isn't the case today.
+
+My full draft, submitted for consideration:
+
+*[[User:Mysidae/Credit_rating_agency_-_Proposed_version]]
+
+===Criticisms===
+To begin with, I'd like to address credit rating agency criticisms, no doubt a large topic for a complex industry closely involved with some very contentious world events. As the discussion in sections preceding this one indicates, the "Criticisms" heading has been cut from the article, the content divided among several other headings. CorporateM's decision for doing so is understandable: [[WP:CSECTION]] encourages editors to avoid sections focusing on criticism or controversies, as these issues are better contextualized under topical or thematic headings.  
+
+However, the essay concedes that a criticism section may be appropriate "if there is a large body of critical material, and if independent secondary sources comment, analyze or discuss the critical material." That is certainly the case with credit rating agency criticism, which is centered around several common points of concern, and almost always draws on or reflects a well-known body of literature (e.g. Lawrence White's 2010 article "[http://cybercemetery.unt.edu/archive/fcic/20110310192044/http://c0181567.cdn1.cloudfiles.rackspacecloud.com/2010-00-00%20Journal%20of%20Economic%20Perspectives,%20Markets-%20The%20Credit%20Rating%20Agencies,%20Lawrence%20J.%20White.pdf Markets: The Credit Rating Agencies]", which has been cited [http://scholar.google.com/scholar?hl=en&q=markets+the+credit+rating+agencies&btnG=&as_sdt=1%2C38&as_sdtp= 142 times] according to Google Scholar) and government reports (e.g. the SEC's [http://www.sec-oig.gov/Reports/AuditsInspections/2009/Report458.pdf 2008 report] on oversight of NRSROs).
+
+Indeed, other sources handle handle CRA criticism in this fashion, including a recent Council on Foreign Relations report, "[http://www.cfr.org/united-states/credit-rating-controversy/p22328 The Credit Rating Controversy]", and one of the books cited throughout the existing article, David P. Stowell's [<nowiki>http://www.amazon.com/Investment-Private-Equity-Second-Edition/dp/012415820X/ref=sr_1_1?ie=UTF8&qid=1382031932&sr=8-1&keywords=Investment+Banks%2C+Hedge+Funds%2C+and+Private+Equity</nowiki> Investment Banks, Hedge Funds, and Private Equity] (see: [http://books.google.com/books?id=HThWziP0X08C&pg=PA146&dq=credit+rating+agencies+criticism&hl=en&sa=X&ei=nBZgUtIpjLLKAcn4gCA&ved=0CGIQ6AEwBA#v=onepage&q=credit%20rating%20agencies%20criticism&f=false page 146]).
+
+The problem with integrating detailed criticisms of CRAs and CRA practices within other sections is that it disrupts the article's flow and diminishes its readability. In the current [[Credit_rating_agency#Uses_of_ratings|Uses of ratings]] section, for instance, the reader learns more about controversy surrounding the subprime mortgage crisis than the manner in which ratings are used in structured finance. A mention of the former topic is certainly warranted, but it doesn't deserve as much weight as currently allotted if we want section headings to reflect section material.   
+
+I strongly believe the best way to approach criticism in this article is to provide brief summaries of criticisms within [[Credit_rating_agency#History|History]], [[Credit_rating_agency#Uses_of_ratings|Uses of ratings sections]], and other sections, but to maintain a "Criticism" section near the end of the article that provides a more detailed treatment of each subject. That said, the previous "Criticism" section left much to be desired: It was more than 2400 words, and contained myriad complaints in no discernible order, often repetitively. This section was, simply put, a dumping ground for content, not an organized and cohesive treatment of CRA criticism. 
+
+As such, I have prepared a draft which seeks to address these problems. This draft begins by noting that CRA criticisms can generally be divided into three categories: criticisms about the rating agencies' perceived conflicts of interest, criticisms about the accuracy and responsiveness of ratings, and criticisms about the use of ratings by regulatory authorities and legislative bodies. After a brief introduction, the article addresses these criticisms individually in three different subsections. Whenever possible, I have tried to integrate existing material within this draft.
+
+*[[User:Mysidae/Credit_rating_agency_-_Proposed_version#Criticism]]
+
+===Role in capital markets (Currently: Uses of ratings)===
+Second, I would like to address the current [[Credit_rating_agency#Uses_of_ratings|Uses of ratings]] section, which contains useful research, but could benefit from stronger organization. As such, I have also prepared a draft which restructures the current material (whenever possible) and adds additional content. 
+
+*[[User:Mysidae/Credit_rating_agency_-_Proposed_version#Role_in_capital_markets]]
+
+The draft renames the section "Role in capital markets", and categorizes the existing material into four subsections. The first subsection, "Information services", details how credit rating agencies (a) serve to reduce [[Information_asymmetry|information asymmetries]] between the issuers of securities (borrowers of funds) and the investors (lenders of funds) regarding the creditworthiness of the borrower, (b) are used as a monitoring tool of debt security by some existing and potential debt holders, and (c) are used in a "certification" role when they are embedded in regulatory capital allocation requirements and thresholds. This subsection is new, and does not include any existing content. 
+
+The second subsection, "Market use", details how CRAs provide assessments about the creditworthiness of bonds issued by corporations, governments, and packagers of asset-backed securities. The third subsection, "Ratings use in structured finance", incorporates and refines existing material about the use of credit ratings for asset-backed securities, collateralized debt obligations, and mortgage-backed securities. Because my proposed "Criticisms" section also covers this topic, I have trimmed down content that seems redundant.
+
+The fourth subsection, "Ratings use in sovereign debt", details how credit ratings are assigned to sovereign borrowers, including national governments, states, municipalities, and sovereign-supported international entities. The fifth subsection, "Government regulators", details the use of credit ratings by regulatory authorities and legislative bodies in the United States and other jurisdictions.
+
+===Overall organization===
+
+The two sections described above need the most improvement, but the current article has numerous other problems.
+
+*The colorful table at the top of the article is a recent addition, one which makes it hard for readers to get into the article, and which belongs in the [[Bond credit rating]] or [[Credit ratings]] article, but is not a must have for this one. And certainly not at the very top.
+*Long sections of this article are unsourced, and those which are often are sourced to popular columnists in newspapers, hardly a scholarly source. The draft I have prepared relies upon scholarly papers, university-level textbooks and similar academic sources where possible to provide a dispassionate overview of the topic.
+*Large scans of images from government reports have been included recently. I believe they are difficult to read, and make the sections where they appear harder to read. While I do not categorically oppose their inclusion, I do not think they are helpful. I have omitted them from the draft I propose.
+*This is not an article which lends itself to "External links", and it has accumulated cruft. These I have removed. 
+*There is simply no clear organization to the current article, no logical flow of ideas. A reader who attempted to start at the beginning and read sequentially would be hopelessly lost not long after the introduction. The draft I propose limits the number of subsections and presents each idea in sequential order. One may quibble about the ordering, but I believe it makes sense to give first the concise history which also gives background on themes later to come, then explain what agencies do, explain how they operate as a business, and then discuss the criticisms of them. This is what I present.
+*It is some surprise to find the introduction is relatively cogent and free of unnecessary topics. It should be fine as is. I had previously contributed the "Big Three" and "Business models" sections, so I believe they should be fine as well, even accounting for some changes that have been made since.
+
+===Summary===
+
+I now present this full draft for consideration, and I wish to invite any and all editors interested in credit markets or global finance to consider these changes. It is my sincere hope that the benefits of presenting this subject in the way I have described will be agreed as superior to the article as it currently exists. This is not intended to be the "final" version of this article, and I understand Wikipedia is never finished. Yet I strongly believe that this draft is a substantial improvement over the existing one, that it is not advocacy notwithstanding my acknowledged connection to the industry, and I will consider making the change at some point soon unless there is a credible objection to the content I have presented. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 22:54, 17 October 2013 (UTC)
+
+===Discussion===
+I object to your making these edits. The article should continue improving incrementally. For basic articles about startups, software, etc. it is reasonable for us to copy/paste content that is a clear improvement on non-controversial topics. However, for an article that is this complex, important and controversial, each one of these sub-sections needs to be discussed individually. I do not consider it good conduct to produce a huge volume of content that no editor could possibly review all-at-once, then say you will make the edit if no one finds objection to it - finding objection itself being too time-consuming to be practical. I was only even one-paragraph through your draft history before I raised a question that was never answered. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 23:26, 17 October 2013 (UTC)
+
+:With all due respect, I did answer your questions, and you made no indication that you were unsatisfied. Instead you proceeded to make numerous edits without asking me for input. Meanwhile, I had asked you to consider why a "Criticism" section is in fact appropriate for this article, and received no reply. While I acknowledge you are acting in good faith, I believe your changes are taking the article in the wrong direction, when it was already in a very sorry state. This article needs to hit "restart". Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 01:12, 18 October 2013 (UTC)
+
+::This was my question: "Can you explain how/why the financial crisis of 1847 led to mercantile rating agencies and the difference between those and regular, modern rating agencies?" Can you please point me to the answer? I also explained above that we discourage having dedicated Criticism sections in almost all cases. It is preferred to have balanced sections under neutral titles, rather than creating designated areas for content that is critical.  [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 01:32, 18 October 2013 (UTC)
+
+:::As a matter of fact, it seems you have caught a typo. It was the [[Panic of 1837]] in the United States, not the [[Panic of 1847]] in Britain. I will make this change to my draft. However, I had pointed you to the source you asked for, from the [http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf New York Fed]. The relevant language can be found on the first page:
+
+::::The precursors of bond rating agencies were the mercantile credit agencies, which first rated merchants' ability to pay their financial obligations.
+
+:::Meanwhile, my explanation above referenced [[WP:CSECTION]] which explains where "Criticism" sections are appropriate. This topic clearly meets the requirements set forth in that guideline. As I further explained, because of the great deal of scholarly discussion about these criticisms, it is worthy of such treatment, meanwhile dividing various criticisms into different sections makes it difficult for readers to find this information and overwhelms the sections where they have been added. This is a case where a "Criticism" section is the better organizational principle. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 01:54, 18 October 2013 (UTC)
+
+::::A link to a 40-page source is not really an answer to a question, however the material was easy enough to find. It says that merchant rating agencies were the precursors to bond rating agencies, not to credit rating agencies. The source doesn't seem to validate treating mercantile agencies as being "not a credit rating agency" but rather just a precursor. However, I note there is another source in your draft that may support this positioning. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 03:29, 18 October 2013 (UTC)
+
+:::::Credit rating agencies rate bonds, this is their primary purpose. See also [[Bond credit rating]] for context. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 03:51, 18 October 2013 (UTC)
+
+== Source conflict ==
+
+[http://books.google.com/books?id=uChX5RuyDT4C&printsec=frontcover&dq=The+rating+agencies+and+their+credit+ratings&hl=en&sa=X&ei=cLFgUseTOu_F4APCmoCoAg&ved=0CEgQ6AEwAA#v=onepage&q=mercantile&f=false This source] says that the first creditworthiness guide was published in 1859 by Robert Dun, however [http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf this source] says that John Bradstreet published a "ratings book" in 1857, two years prior. It's possible a creditworthiness guide and a ratings book are two different things, or the sources may conflict with each other. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 04:33, 18 October 2013 (UTC)
+
+:CorporateM, there is no source conflict here. In fact, the first source you link to (Langohr and Langohr) mentions both:
+
+::The first mercantile credit agency was founded in New York in 1841. Robert Dun acquired the agency and subsequently published the first creditworthiness guide in 1859. John Bradstreet founded a similar agency in 1849 and published his first credit guide in 1857.
+
+:I had not included these in my draft, finding these details non-essential to telling the overall history of the rating agencies. As you can see, the idea did not trace to one individual or company. If these details must be included, it would be sensible to list both rather than try to choose from among them. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 13:29, 18 October 2013 (UTC)
+
+::"<b>the first</b> creditworthiness guide in 1859....<b>his first</b> credit guide in 1857" Doesn't make sense to me. Logic would dictate that the 1857 guide was "the first" since it is two years prior.  [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 13:35, 18 October 2013 (UTC)
+
+:::CorporateM, this appears to be an inconsistency in the source material, which we are under no obligation to resolve. It would seem my decision to omit the detail was more correct than I first realized. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 13:45, 18 October 2013 (UTC)
+
+== Asking CorporateM to restore the "Criticism" section ==
+
+CorporateM, I am troubled by the fact that you have not responded to my explanation of why a "Criticism" section is appropriate for this article, and why your decision to divide this subject matter among other sections is a well-intentioned mistake. It seems to be your assumption that any such section is a [[WP:POVFORK]]. In this case it is not. Rather it is a [[WP:CONTENTFORK]] which enables the topic to be addressed coherently, and allows other topics to be explained properly without being overwhelmed by the vast amount of debate about the industry. I have previously cited [[WP:CSECTION]] to show why my view is consistent with Wikipedia guidelines, the same section I believe you are using to justify your view, yet this guideline says more than you acknowledge. To quote:
+
+:In some situations the term "criticism" may be appropriate in an article or section title, for example, if there is a large body of critical material, and if independent secondary sources comment, analyze or discuss the critical material.
+
+This is emphatically the case with this particular subject (as I have explained in greater detail on this page - see "Criticism" subheading above). You have said that you would like this article to improve incrementally, yet this division of like material makes this substantially more difficult. I am requesting that you un-merge this material so the criticism sub-topic can be properly addressed. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 13:40, 18 October 2013 (UTC)
+
+:I have already explained. The proper way for you to handle this is to start a discussion string and ask other editors for input. [[User:DGG]] is an experienced admin that is often quite good about providing thoughtful input for editors with a COI. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 13:55, 18 October 2013 (UTC)
+
+::CorporateM, I have answered your explanation, and yet it appears your response is simply to ignore it. It seems that you will not defend your own editorial decision-making, which is more troubling still. If another editor wishes to weigh in, that is fine, however I am asking you because you are the one who made these changes. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 13:58, 18 October 2013 (UTC)
+
+:::Speaking in general, and not discussing the specifics of this particular article, it is established practice that WP avoids the use of sections labelled criticism, or even controversy, unless we are discussing criticism of the fine arts. For one things, such sections are unclear--is it discussing the validity of the general concept, the general practices of the industry, the practice of the industry in a particular place and period (such as 21st century US), or the practices of a particular firm. 
+
+:::This does not mean we avoid discussing such matters. WP proportionately covers all of them, in appropriately labeled NPOV sections, e.g. "political role" or even "legal problems"  In general, the actions of a particular firm are best discussed on the article on the firm.  We do not use them to draw the implication that they are characteristic or inevitable of the agency, unless there are reliable sources discussing that. Reliable sources do not include tabloids, nor do they include hard-luck stories of "human interest" -- such material is tabloid fodder no matter where published, unless something in particular becomes widely notorious and used as an example in multiple Reliable sources. Otherwise such writing is considered Synthesis or Undue coverage. NPOV requires dispassionate encyclopedic coverage, whatever may be our personal views.   Since whatever we do say includes links to the documentation, people looking for such material will find it. 
+
+:::I will look at this more closely tomorrow and see if I can make some practical suggestions. '''[[User:DGG| DGG]]''' ([[User talk:DGG| talk ]]) 01:12, 19 October 2013 (UTC)
+
+== Article updates: Use by government regulators ==
+
+I have now made a few changes to the article, the most significant being an updated version of "Use by government regulators". The previous version, but for a single sentence, failed to provide an overview of the prominent but controversial role CRAs play in government regulations. It also focused heavily on [[Basel II]], an agreement now superseded directly by [[Basel III]] and long predating the sweeping changes of the [[Dodd-Frank Act]] in the United States. The previous version also included a subsection about the United States that was overwhelming in minutae, so I have condensed it to the most important developments and worked it into the overall narrative, rather than treating it as a separate topic, which it is not. As well, the previous section had very few citations. The new version of the subsection accounts for all of these quite serious flaws.
+
+It should be noted that this also does incorporate discussions of criticisms about the role CRAs play. Following discussion above, I should underline the fact that I am not opposed to there being any discussion of critical views of CRAs in these topic sections, however those criticisms should be discussed in context, rather than simply being cut-and-paste from a now-nonexistent "Criticisms" section that was written entirely independently of the material it was recently joined with. (A separate section discussing the-debate-qua-the-debate remains an essential part of this article.) 
+
+This now should be an up-to-date, informative section that is supported by reliable third-party sources. [https://en.wikipedia.org/w/index.php?title=Credit_rating_agency&oldid=577736916#Use_by_government_regulators Here is the current version] and [https://en.wikipedia.org/w/index.php?title=Credit_rating_agency&oldid=577735932#Use_by_government_regulators here is the previous version], for ease of comparison. When I have time I will return and see how else I can improve this article. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 17:39, 18 October 2013 (UTC)
+
+== Article update: removing redundant table, providing early context with History ==
+
+I have removed the table showing the comparison of ratings applied by the top rating agencies. This already exists in [[Bond credit rating]] and [[Credit ratings]], two articles which may be duplicative by themselves, and if so, here it is in triplicate. This article is not about ratings, it is about rating agencies. In case readers want to find this information, I have for now added a "hat note" for each article at the top of this section.
+
+Secondarily, I have moved the History section to be the first section following the introduction. Considering that discussion of CRAs is complicated, we can at least do the favor to readers of giving them a background in the subject before launching into the discussion of "Ratings" and "The Big Three", subjects which require some context before the reader is so confronted. As always, discussion about these changes or others is welcomed. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 09:06, 19 October 2013 (UTC)
+
+:Based on your description above, these sound like good edits to me. The History section is normally first, except in cases where the subject of the article is complicated enough to warrant explanation up-front before the reader goes further. Sometimes there is overlap between articles if they are on related subjects. Editors could reasonably have different points-of-view about the ratings chart and whether it should be duplicated. I'm not sure whether I would want to keep it here or not. Maybe someone else will have an informed opinion at some point. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 13:35, 21 October 2013 (UTC)
+
+== [[Wikipedia:Best practices for editors with close associations]] ==
+
+I have just posted a message on CorporateM's discussion page inquiring why he feels entitled to directly edit articles about brands that pay him, while strongly discouraging me from editing this article about an industry I work in. This seems inappropriate as editor behavior, certainly it is a hypocritical position to take.
+
+Meanwhile, CorporateM only [[Talk:Credit_rating_agency#A_history_section_for_this_article|last week said]] "I do not know anything about this topic" and would that he left it there. I know a great deal about this topic, I have well-researched material to back up this expertise, and I have explained my views about this article's problems in detail above. 
+
+I think the best thing for everyone, especially readers of Wikipedia, is that I start making this article better. I will begin with sections that do not overlap with material worked on by CorporateM, and then review specific changes he has made, and where I make changes, I will explain why. I am very willing to discuss specific content changes, so please ask. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 16:33, 18 October 2013 (UTC)
+
+:Comment from someone with zero connections to or financial interest in this topic: I reviewed the place where you claim that CorporateM "feels entitled to directly edit articles about brands that pay him" and in my opinion it clearly falls under [[Wikipedia:Conflict of interest#Non-controversial edits]], and indeed none of the several other editors who were working on that page at the time reverted it or objected on the article talk page. That same section in [[WP:COI]] say, in bold, '''"If another editor objects for any reason, then it's a controversial edit"'''. CorporateM objected to your direct edits to this article, so by definition they are controversial and the non-controversial-edits exemption does not apply. Let me add my own objection to your directly editing this page as well, and in particular with any copying and pasting large sections. Yes, I know that I have in the past said I prefer that, but that is for a completely different situation. Sometimes a COI editor makes an edit request and gets no response because nobody is watching the page. In that particular situation, I ask them to show me their new version (drafted in userspace) of a section or even a whole article, and I spend a fair amount of time carefully examining it for bias and in following every reference. I may suggest changes, and when I am satisfied that it is something that I can put my name on and defend, I cut-and-paste it into the article. In other words, they do all the work (and get paid), I get all the credit (and someone who is likely to help me with other articles in the future) and his client gets a good, solid, well-referenced article that won't get deleted. All this is possible because we all agree to follow the letter and the spirit of [[Wikipedia:Best practices for editors with close associations]] and [[Wikipedia:Conflict of interest#Paid editing]]. --[[User:Guy Macon|Guy Macon]] ([[User talk:Guy Macon|talk]]) 18:55, 19 October 2013 (UTC)
+
+::Guy, thank you for providing a better explanation based on actual policy. There seems to be enough editors involved at this point and I think the PR rep has gotten the perspective they need. MySidea, you are too focused on your COI. It is routine for editors to discuss and hammer out content. Someone copy/pasting your content into article-space is an acceptable way to verify that they support the edit, but it does not protect you or your employer from COI criticisms. Thorough discussion and collaboration does. Since there are no other subject-matter experts in sight, <i>we need you</i>, but you need to work with us on it. I wasn't even done with the first paragraph of the History section!
+
+::I've taken it off my watchlist, because I imagine we've already built too contentious a relationship to work together on it, but I hope other editors will pick it up. Mysidea has done some good work pulling together a draft for us, the article is very important and needs improvement. I don't see any reason not to prioritize this article while we have someone willing to help us. Please ping me if anyone needs something from me, like a second opinion or whatnot. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 19:19, 20 October 2013 (UTC)
+
+:::Greetings, Guy Macon. After reading your note this weekend, I decided to step back and think a bit about this article. I recognize that consensus is that I should stop editing this article for the time being. I do not wish to be combative or unreasonable, and I apologize for my words and actions that have contributed to this unhappy situation. My intention is always to work constructively with editors, and I am disappointed that this has gone badly.
+
+:::I felt frustrated that CorporateM was disregarding my concerns about his edits to the article. Having previously said that he was not particularly knowledgeable about the subject, it was frustrating to watch as he made a series of ambitious edits that sometimes contradicted my suggestions without discussing them here on the discussion page. I also feel that it is bad form for a "COI editor" to make themselves the arbiter of another COI editor's suggestions. This itself seems like a conflict of interest, and perhaps it is better that he step away from this article for now.
+
+:::Given comments by Guy Macon and DGG, I have ceased editing directly, and I am very willing to discuss any of the edits I have made over the weekend.
+
+:::Regarding whether a "Criticism" section is desirable or not, I wonder if the matter can be resolved by considering a different heading. My fundamental point is that there is a longstanding debate surrounding the role of CRAs in the marketplace, which largely fall under three categories as I have outlined: concerns about conflicts of interest, whether ratings are responsive and accurate, and the extent to which government regulators rely upon them. These discussions are not necesarily tied to specific eras of the industry's history, although all are currently debated. To not treat this as a key subtopic of CRAs does a disservice to subject and to the reader. Perhaps these three sections could be standalone sections. Perhaps they may all be addressable under a different heading such as "Debates over role in capital markets". This would be more descriptive than "Criticisms".
+
+:::Assuming that others are still willing to work with me despite the recent unpleasantness (o move forward, shall we move section by section? In the "Role in capital markets" section, the discussion of CRA's role in structured finance and sovereign debt is disorganized and its explanation of CRAs' informational role is very incomplete. Moreover, it makes the common "recentist" error of viewing CRAs primarily through the lens of the 2008 financial crisis. If others are willing to hear my concerns and proposed solution in more detail, I wish to explain why I would change the section. If there are other suggestions on how to proceed, I am open to those suggestions as well. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 15:00, 21 October 2013 (UTC)
+
+== Role in capital markets: case for rearrangement and partial replacement ==
+
+Following a cool-down period I wish to propose further changes to improve this article, continuing from changes I had made a week before. In order to explain these changes thoroughly, I must write at some length, however I will be as concise as possible. First, I will offer a critique of the section as it exists. Second, I will explain what my proposed update will do to correct these issues:
+
+*The current "[[Credit_rating_agencies#Role_in_capital_markets|Role in capital markets]]" section (previously "Uses of ratings") is meant to explain, per the title, the functional use of ratings in capital markets. The third paragraph of the article's introduction effectively previews this section.
+
+*I'd like to focus on the "[[Credit_rating_agencies#By_bond_issuers|By bond issuers]]" and "[[Credit_rating_agencies#In_structured_finance|In structured finance]]" subsections, which are the two areas I feel need the most work. 
+
+:*The "By bond issuers" subsection is presently only two sentences, neither one of which adequately explains how and why credit ratings are issued for bonds. The second sentence is actually about the agencies' business models, a subject that receives ample coverage in the "Business models" section ahead. 
+
+:* The "In structured finance" subsection is longer, but not much better. Instead of explaining how credit ratings are used in structured finance transactions, the passage begins by addressing the role of credit rating agencies in the subprime mortgage crisis. 
+
+* The next subsection, "[[Credit_rating_agencies#Securities|Securities]]", is somewhat better as it at least attempts a functional explanation, especially of the tranching process. But these passages are very difficult to follow, especially for a lay reader. And because the ''Financial Crisis Inquiry Report'' is the primary source—it is cited six times—the subsection mostly reads like an extended discussion of the subprime mortgage crisis.
+
+* The next two sub-subsections, "[[Credit_rating_agencies#CDOs|CDOs]]" and "[[Credit_rating_agencies#Financial crisis|Financial crisis]]", are entirely about the subprime mortgage crisis. The "CDOs" section, in particular, is very difficult to read. If edited for clarity, material from these sections could be integrated into either the [[Subprime mortgage crisis]] article or the [[Credit rating agencies and the subprime crisis]] article. 
+
+* All of these sections feel like they were assembled piecemeal. There is little (or no) attempt at organization, and it's hard to imagine that a reader hoping to learn about the use of use of credit ratings in structured finance—with or without regard to the subprime mortgage crisis—would find any of this useful. 
+
+The draft I have put together takes a different approach, although I have tried to integrate the existing material whenever possible. My focus is on presenting a descriptive overview of the subject rather than framing it around recent events. My vision for this section can be found in my user space, which one may wish to follow along with as one reads: [[User:Mysidae/Credit_rating_agency_-_Proposed_version#Role_in_capital_markets]]
+
+*The "[[User:Mysidae/Credit_rating_agency_-_Proposed_version#Information_services|Information services]]" section is a high-level overview of CRASs' role in capital markets, the type of opinions expressed, and a preview of their "certification" role by regulators, which is explored in depth later in this overall section.
+
+*The "[[User:Mysidae/Credit_rating_agency_-_Proposed_version#Market_use|Market use]]" section follows immediately, building on the high-level discussion by specifying that CRAs provide assessments about the creditworthiness of bonds issued by corporations, governments, and packagers of asset-backed securities. I explain the process and methodology of how CRAs determine a bond's rating, and identify other sources of credit information about bonds and securities. This sets the stage for a more detailed treatment of "[[User:Mysidae/Credit_rating_agency_-_Proposed_version#Ratings_use_in_structured_finance|Ratings use in structured finance]]" and "[[User:Mysidae/Credit_rating_agency_-_Proposed_version#Ratings_use_in_sovereign_debt|Ratings use in sovereign debt]]".
+
+:*My draft of the structured finance section begins by explaining how credit rating agencies became involved in structured finance transactions. Then it identifies and explains the three ways credit ratings for structured finance instruments are different from ratings for other debt securities. Finally, it addresses criticism of the rating agencies with regard to the subprime mortgage crisis. 
+
+:*"Ratings use in sovereign debt" is entirely new material. It's surprising that this topic isn't covered more presently, as sovereign borrowers are the largest debt borrowers in many financial markets. My draft explains why national governments solicit credit ratings, details what the ratings represent in this context, and outlines the rating methodologies used to assess them. Finally, it address criticisms of CRAs related to the 1997 Asian Financial crisis and more recent Eurozone crisis. 
+
+*I had previously replaced the "Use by government regulators" section, and it has not been changed since. I believe it should be left as-is.
+
+It is my request that another editor review this material and express their opinions about its suitability for replacing the current section. For anyone who has read this full explanation and compared both sections, many thanks in advance. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 01:32, 28 October 2013 (UTC)
+
+==recent edits==
+I missed the dispute earlier this month between CorporateM and Mysidea but would like to put in my two cents worth on some of Mysidea's suggestions pasted here with their bullet points.
+
+*The colorful table at the top of the article is a recent addition, one which makes it hard for readers to get into the article, and which belongs in the Bond credit rating or Credit ratings article, but is not a must have for this one. And certainly not at the very top.
+::I was the one who originally added the chart and restored it but on further consideration I'll go along with the deletion. I have restored some deleted text which I think helps explain what the ratings ares supposed to represent.
+::::''Higher grades are intended to represent a lower probability of default. For example one study<ref>Cantor, R., Hamilton, D.T., Kim, F., and Ou, S., 2007 Corporate default and recovery rates. 1920-2006, ''Special Comment:'' Moody's investor Service, June Report 102071, 1-48 page 24</ref><ref>cited by authors Herwig Langohr and Patricia Langohr</ref> reportedly shows that over a "5-year time horizon" for bonds rated by Moody's, "the Aaa cumulative default rate was 0.18%, the Aa2 0.28%, rising to 2.11% for Baa2, 8.82% for Ba2 and 31.24% for B2. The order is by and large, but not exactly, preserved over longer time horizons."<ref name=defaults>{{cite book|last=Langohr|first=Herwig|title=The Rating Agencies and Their Credit Ratings: What They Are, How They Work|year=2010|publisher=Wiley|page=48|url=http://books.google.com/books?id=uChX5RuyDT4C&pg=PA48&dq=Aaa+cumulative+default+rate+was+0.18%25&hl=en&sa=X&ei=1YKrUe7-CeqGyAGDgoH4Aw&ved=0CDAQ6AEwAA#v=onepage&q=Aaa%20cumulative%20default%20rate%20was%200.18%25&f=false|coauthors=Patricia Langohr}}</ref>  
+
+*Long sections of this article are unsourced, and those which are often are sourced to popular columnists in newspapers, hardly a scholarly source. The draft I have prepared relies upon scholarly papers, university-level textbooks and similar academic sources where possible to provide a dispassionate overview of the topic.
+::If Mysidea is referring to journalists like Bethany MacLean and Joe Nocera, I can't agree. They are reliable sources. In particular I hope that any language with a trace of vividness is not deleted from the article on the grounds that it is "POV" or "unencyclopedic". 
+
+*Large scans of images from government reports have been included recently. I believe they are difficult to read, and make the sections where they appear harder to read. While I do not categorically oppose their inclusion, I do not think they are helpful. I have omitted them from the draft I propose.
+::Again I am responsible for these. One chart in particular shows that ''more than half'' of the CDOs given the ''highest credit rating'' by Moody and other agencies were "impaired" -- i.e. ''downgraded to junk or lost principal'' by 2010. Yes, scanning the charts causes some loss in resolution, and if you reduce them in size to what they are now they cannot be read. But if someone think this isn't relevent to an article on credit rating agencies, I am willing to go through the whole dispute process to keep at least some of them in. Why don't we make the images larger instead of deleting them? --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 19:19, 30 October 2013 (UTC)    
+[[File:Impaired Securities.GIF|thumb|500px|source: [http://www.gpo.gov/fdsys/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States], p.229, figure 11.4]]
+
+:::I noticed my name in the edit-history, but didn't investigate the diffs in detail. I did a very rough re-work of a lot of highly POV material that relied heavily on a single source and did some other initial re-working. On the contrary, not only is no RfC necessary, but I'm happy to see someone cleanup after me a bit. The "For example one study" sentence is very disorienting to the general audience that Wikipedia is intended for. It reads like a jumbled mess of letters and numbers and you would have to understand the rating system to be able to comprehend it. If it is included, it should be replaced with something a layman could understand without having to read the rest of the article or understand the ratings system to comprehend. Also, other agencies should be represented in a similar fashion. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 14:46, 31 October 2013 (UTC)
+::::I re-read that sentence after your first complaint on the talk page and didn't understand why you thought it was so bad. Have now gone back a 2nd time and have rewritten it. Hopefully an improvement.--[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 20:40, 2 November 2013 (UTC)
+
+==Comment - Per the dispute over history v. criticism==
+
+I agree that the Financial crisis of 2007–08 ''is'' history and should be covered in the history section, BUT it was a catastrophic breakdown of the ratings -- as of September 2008, bank writedowns and losses on subprime mortgage investments totaled "$523 billion"<ref name=loose>[http://www.bloomberg.com/apps/news?pid=20601109&sid=ah839IWTLP9s Bloomberg-Smith-Bringing Down Ratings Let Loose Subprime Scourge]| By Elliot Blair Smith | bloomberg.com| September 24, 2008</ref><ref name=scourge-gold/><ref name=bottom>[http://www.bloomberg.com/apps/news?pid=20601109&sid=ax3vfya_Vtdo Bloomberg-Smith-Race to Bottom at Rating Agencies Secured Subprime Boom, Bust]| By Elliot Blair Smith | bloomberg.com| September 25, 2008</ref> -- it needs either a very long subsection in history or something later in the article, IMHO. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 20:58, 2 November 2013 (UTC) [[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 20:42, 3 November 2013 (UTC)
+
+::There are a few different ways to do it, but I don't think we would be able to tell which is best until the content is further developed. 
+
+::If we feel it can be adequately summarized in a short length, it should be a sub-section, as it is now. Even though due weight may be substantial, the section should only be as long as it needs to be to cover the topic. We may find ourselves yammering on about how awful it is using 30 sources that all say the same thing.
+
+::If we feel more length is needed, we can summarize it during the appropriate time-period during History in a manner that balances its weight on a year-by-year basis, so it doesn't disrupt the flow, then create a separate section where it's covered in greater depth. I feel this is most likely.
+
+::If it needs to be even longer, I am a big fan of summary style and sub-articles that prevent really long articles. This is probably due to my background in marketing, where everything is shorter than Wikipedia's long-form content. 
+
+::The work I sorted through so far from MySidea was definitely worth our time - great sources. I only stopped working on it to avoid the drama, but if you pick up one the financial crisis, I'd strongly suggest looking at his/her draft as a starting point, or if it it's perfect the way it is, as the new material. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 18:57, 3 November 2013 (UTC)
+
+:::Since it sound like you like his draft and I think the early history part is not controversial, I'm going to add MySidea's early history and growth of bond market.  If the History section gets too long we can just create a "[[History of Credit rating agencies]]" and then go back and trim the history section in the original article. All his information seems to be "[[WP:Notable]]".  --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 21:43, 3 November 2013 (UTC)
+
+::::If you feel comfortable, you should go ahead. My approach for an article of this importance and magnitude would be to write the content independently, using the PR rep and their draft as a resource. As I do not know what's neutral until I've investigated the sources. I also think it may be a bad idea for Moodys for them to re-write the article without discussion and collaboration. Can you imagine when their competitors find out? On an article of this importance, volunteers should be adequately engaged in the content to defend it (and Moodys) from the COI whistle-blowers. 
+
+::::I haven't looked through the rest to vouch for it, so I couldn't have an opinion one way or another. [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 22:49, 3 November 2013 (UTC)
+
+== Feedback and suggestions ==
+
+Hello, everyone. I have a few feedback notes on recent changes to this article, along with suggestions for further changes. I think we can all agree that this article still needs a lot of work, but it's good to see that some editors are taking initiative to make corrections. 
+
+===Feedback===
+I am glad that BoogaLouie found my history draft useful, and inserted so much of it into the current article. However, the integration of this material alongside existing passages has created some structural problems. 
+
+There are currently two subsections that cover the emergence of credit rating agencies: "Origins" and "Early history". The presence of two such sections is confusing for readers, as they contain similar material, but are presented using different framing language. The one 
+"Origins" paragraph and the first paragraph of "Early history" could easily be consolidated for clarity. I suggest doing so as follows: 
+
+:;Early history
+:Mercantile credit agencies—the precursors of today's rating agencies—were established in the wake of the [[Panic of 1837|financial crisis of 1837]]. These agencies rated the ability of merchants to pay their debts, and consolidated these ratings in published guides.<ref name="Cantor 94">{{cite news |title=The credit rating industry |last1=Cantor |first1=Richard |last2=Packer |first2=Frank |date=Summer/Fall 1994 |work=Federal Reserve Bank of New York Quarterly Review |publisher=Federal Reserve Bank of New York |issn=0147-6580 |page=1-26}}</ref> The first such agency was established in 1841 by [[Louis Tappan]] in New York.<ref name="Langhor 09"/><ref name="Cantor 94"/> It was subsequently acquired by Robert Dun, who published its first ratings guide in 1859. Another early agency, [[John Bradstreet]], formed in 1849 and published a ratings guide in 1857.<ref name="Cantor 94"/>
+
+I think "Early history" is a better subhead than "Origins", in part because the latter is clearly borrowed from the Langohr and Langohr source. But choosing either one would be preferable to keeping both. I would also suggest cutting out the "Establishment of "The Big Three"" subhead (not the material itself), as it is unnecessary and disrupts the article's flow. 
+
+Regarding the inclusion of factual claims and language cited to the McLean and Nocera book:
+
+I am not opposed to using this source as a citation. My [[User:Mysidae/Credit_rating_agency_-_Proposed_version|proposed version]] preserves several of the book's claims, and I use ''Devils'' as a citation five times. However, I think CorporateM was correct in trimming out anecdotes and POV quotes from the book, as these made the article feel like a book report and not an encyclopedia article.  
+
+Rather than rewriting and restructuring so much of the article to include material from one source, we should integrate claims from the book within the established structure of the article. This approach is especially important as there are a great many books and academic articles about the financial crisis that could be used as sources (e.g. [<nowiki>http://www.amazon.com/Too-Big-Fail-Washington-FinancialSystem--/dp/0143118242/ref=sr_1_1?s=books&ie=UTF8&qid=1384282074&sr=1-1&keywords=Too+Big+to+Fail</nowiki> Too Big to Fail], [<nowiki>http://www.amazon.com/Fault-Lines-Fractures-Threaten-Economy/dp/0691152632</nowiki> Fault Lines], [<nowiki>http://www.amazon.com/Guaranteed-Fail-Freddie-Debacle-Mortgage/dp/0691150788/ref=sr_1_1?s=books&ie=UTF8&qid=1384282117&sr=1-1&keywords=Guaranteed+to+Fail</nowiki> Guaranteed to Fail], etc.) I would highly recommend reading Andrew Lo's [http://www.argentumlux.org/documents/JEL_6.pdf review] of financial crisis literature, which includes ''All the Devils Are Here'' (and of which he has many nice things to say). What's important here is that the author concludes that many of the books and academic articles reviewed present contrasting narratives of the financial crisis, and there is a little agreement as to its underlying causes. This makes this article's reliance upon one source all the more troubling. And while I'm not opposed to "language with a trace of vividness",  there are several passages throughout the current article that are simply not encyclopedic in tone. 
+ 
+(I will note briefly, in the current version, Bethany McLean is referred to as "Bethany MacLean" once within the article's text, five times in the references section, and once (again) on this talk page. The [<nowiki>http://www.amazon.com/All-Devils-Are-Here-Financial/dp/159184438X/ref=sr_1_1?s=books&ie=UTF8&qid=1384278851&sr=1-1&keywords=all+the+devils+are+here</nowiki> Amazon page] for ''All the Devils are Here'' spells her last name as McLean, as does the [[Bethany McLean|current Wikipedia]] page about the author. I don't mean to pile on, but this speaks to my stated concerns about the article's accuracy.)
+
+:edited article with most of your changes. Thank you for your work. Will get to capital markets stuff in the near future. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 18:25, 14 November 2013 (UTC)
+
+===Suggestions===
+Despite the concerns I've stated above, I'm very pleased that progress is being made in the development of this article. I would like to suggest that active editors—and this primarily means BoogaLouie—please review or re-review my [[Talk:Credit_rating_agency#Role_in_capital_markets:_case_for_rearrangement_and_partial_replacement|previous post]] about improving the "Role in capital markets" section.
+
+The [[User:Mysidae/Credit_rating_agency_-_Proposed_version#Role_in_capital_markets|proposed draft]] I put together includes several passages of new material that I don't think are at all controversial, especially the "[[User:Mysidae/Credit_rating_agency_-_Proposed_version#Information_services|Information services]]" subsection. My proposed "[[User:Mysidae/Credit_rating_agency_-_Proposed_version#Market_use|Market use]]" subsection is a combination of existing and new material, and presents a straightforward description of the process and methodology of how CRAs determine a bond's rating, amongst other information. 
+
+You'll find a more detailed description and explanation of my proposed changes in the post above. I hope you can review these suggestion, post questions or comments here, and insert the material into the article if you feel its ready. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 00:34, 13 November 2013 (UTC)
+
+===Reply to suggestions, i.e. [[User:Mysidae/Credit rating agency - Proposed version]]===
+I think it would be a good idea to use your [[User:Mysidae/Credit rating agency - Proposed version|proposed version]] as the structure for the article. However, I think the draft has some problems and part of the solution is to insert parts of the current article into it. 
+
+Goodness knows there are problems with sources, continuity, etc., in the current article, but my fear is that in upgrading the article from "book report" level you have bypassed "encyclopedic level" on the way to technical report level. 
+
+*Example: 
+
+:''CRA ratings have been used in a "certification" role when they are embedded in regulatory capital allocation requirements and thresholds.<ref name=GFSR/><ref name=Stanyer>{{cite book |url=http://books.google.com/books?id=utlxUmoOK_oC&pg=PT111&dq=credit+rating+agencies+capital+thresholds&hl=en&sa=X&ei=sQrCUc2fD8jWigLvtIH4Dw&ved=0CDwQ6AEwAA |title=Guide to Investment Strategy: How to Understand Markets, Risk, Rewards and Behaviour |author=Peter Stanyer |publisher=Bloomberg Press |chapter=Credit |date=2010 |isbn=1576603423}}</ref><ref name=CaprioRegulation>{{cite book |url=http://books.google.com/books?id=UUg8hxtaB5gC&pg=PA388&dq=credit+rating+agencies+use+by+regulators&hl=en&sa=X&ei=QcvJUa-5H8TbigLvhIDIAw&ved=0CF8Q6AEwBg#v=onepage&q=credit%20rating%20agencies%20use%20by%20regulators&f=false |author=Gerard Caprio |title=Handbook of Key Global Financial Markets, Institutions, and Infrastructure |year=2012 |publisher=Academic Press |pages=385-386 |isbn=0123978734}}</ref> ''
+
+I'm sure everyone who's anyone knows what the  "certification" role for "regulatory capital allocation requirements and thresholds" is, but wikipedia is intended to explain to the layperson! We need more explanation here.
+
+*In the next sentence:
+
+:''However, the [[Dodd–Frank_Wall_Street_Reform_and_Consumer_Protection_Act|2010 Dodd–Frank Act]] mandates United States federal agencies remove [[Statutory_law|statutory]] references to credit rating agencies and replace them with appropriate alternatives for evaluating creditworthiness.<ref name=Skeel>{{cite book |url=http://books.google.com/books?id=vczuePk-0uwC&pg=PA7&dq=dodd+frank+credit+rating+agencies&hl=en&sa=X&ei=f7nRUYjcIYmRiQKp1YGwBg&ved=0CF8Q6AEwBw#v=onepage&q=dodd%20frank%20credit%20rating%20agencies&f=false |author=David A. Skeel |title=The New Financial Deal: Understanding the Dodd-Frank Act and Its (Unintended) Consequences |year=2010 |publisher=Wiley |pages=6-8 |isbn=0470942754}}</ref>''
+
+Any idea what the "appropriate alternatives" are?  Have they been established? Or is this something that has to be developed under Dodd Frank? 
+
+*.. and the next
+:''The [[Basel III]] accord retains references to credit ratings with regard to minimum capital standards and minimum liquidity ratios for banks.<ref name=Noked>{{cite web |url=http://blogs.law.harvard.edu/corpgov/2013/02/03/basel-committee-revises-basel-iii-liquidity-coverage-ratio/ |author=Noam Noked |title=Basel Committee Revises Basel III Liquidity Coverage Ratio |work=The Harvard Law School Forum on Corporate Governance and Financial Regulation |publisher=Harvard University |date=3 February 2013 |accessdate=11 October 2013}}</ref><ref name=Véron>{{cite web |url=http://www.voxeu.org/article/basel-iii-europe-s-interest-comply |author=Nicolas Véron |title=Basel III: Europe’s interest is to comply |work=Vox |publisher=Centre for Economic Policy Research |date=3 March 2013 |accessdate=11 October 2013}}</ref>''
+
+How about some a thumbnail sketch of those references? I'm sure if the reader hunted around in articles under Basel II they could find more information but again, this shouldn't be need-to-know stuff. 
+
+*An example of my concern over "vivid" writing. Maybe I should say "getting-to-the-point" writing:
+ 
+:''Issuers of structured finance products embraced these ratings as they allowed investors who are subject to ratings-based constraints to access the securities market.<ref name=CovalHBR>{{cite web |url=http://www.hbs.edu/faculty/Publication%20Files/09-060.pdf |author1=Joshua D. Coval |author2=Jakub Jurek |author3=Erik Stafford |title=The Economics of Structured Finance |publisher=Harvard Business Review |year=2008 |accessdate=11 October 2013}}</ref><ref name=Telpner>{{cite web |url=http://www2.gtlaw.com/pub/articles/2003/telpner03a.pdf |author=Joel Telpner |title=A securitisation primer for first time issuers |work=Global Securitisation and Structured Finance 2003 |year=2003 |publisher=Greenberg Traurig |accessdate=11 October 2013 |format=pdf}}</ref>''
+
+By "ratings-based constraints", do you mean investors were required to buy only triple A rating securities? (Yes there are funds devoted to "high yield" securities but are they not overwhelmingly outnumbered in net worth by funds that require triple A ratings?)  I am concerned that vagueness and technical language in the article will cause readers eyes to glaze and fingers to click to something else. 
+Part of the hubbub about "conflict of interest" I suspect is not only that some information is squeezed out but that it be made vague and boring. Wikipedia is supposed to be neutral and encyclopedic, but not boring. 
+
+* In Structured Finance
+:''Third, the payment "waterfall" created by tranching is contractually complex, even in transactions with only a few tranches. Making accurate repayment prognoses is thus more difficult than in the case of other debt ratings.<ref name=Caprio382/><ref name=Qiao>{{cite web |url=http://books.google.com/books?id=NOBLXqkicKMC&pg=PA279&dq=credit+rating+agencies+structured+finance+repayment&hl=en&sa=X&ei=2S_gUafzGqPiiALe4ICAAg&ved=0CGYQ6AEwCA#v=onepage&q=credit%20rating%20agencies%20structured%20finance%20repayment&f=false|author1=Qiao Liu |author2=Paul Lejot |author3=Douglas W Arner |title=Finance in Asia: Institutions, Regulation and Policy |year=2013 |publisher=Routledge |page=280 |isbn=0415423201}}</ref> ''
+
+This is the first mention of the traunche structure in the article. Again, the reader can go to another article and find out how the tranches and waterfall work, but couldn't we have a thumb nail sketch? 
+
+PS: If my suggestions are too much work, I can work on them.
+
+*Concerning the structure: 
+**Not sure of the difference between '''Information services'''  and '''Market use''' is in those sections. The markets certainly use information. 
+**Not sure about the order of content either. Shouldn't we ''first'' have a brief explanation of the criteria for an initial rating and how it is determined, and ''then'' talk about rating on an ongoing basis? 
+
+See what you think --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 18:58, 16 November 2013 (UTC)
+
+:Thank you for this detailed review, BoogaLouie. Your recommendations are very reasonable, and I hope you'll give me a chance to adjust my proposed material to reflect your suggestions. I will try to post that new draft here in the next few days, along with some additional feedback to your points above. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 21:09, 18 November 2013 (UTC)
+
+== Updated "Role in capital markets" draft and reply to BoogaLouie's suggestions ==
+
+After reviewing the discussion above regarding the appropriate treatment of CRA criticism, I have restructured my proposed draft to integrate some of the critical material into the body of the "Role in capital markets" section. To make things clear, I have placed this [[User:Mysidae/Role_in_capital_markets_(revised)|updated "Role in capital markets" section on a new sub page]]. I hope this revision addresses not only the structural concerns, but also some of BoogaLouie's requests for additional contextual details where necessary. 
+
+Specifically, I have done the following: 
+*Created a "Role in bond market" header, and added new and existing material about credit rating grades. I also added critical information about ratings' accuracy and responsiveness here under a new heading. 
+*Moved the "Information services" subsection below the "Ratings use in sovereign debt" subsection. I also cut some of the regulatory discussion from this passage and moved it to the "Government regulators" subsection below. 
+*I added information about [[tranches]] from the existing article to the "Role in structured finance" subsection, and consolidated additional criticism about the subprime mortgage crisis and conflict of interest concerns.
+*The "Government regulators" subsections now includes further details about proposed alternatives to evaluating creditworthiness. I left the Basel III sentence alone as it's difficult to add additional details without a great deal of further context. 
+
+Please note that my "Role in capital markets" section only briefly touches on business model criticisms as these are currently (and adequately) addressed in detail in the "Business model" section. 
+
+I hope these revisions address your stated concerns, BoogaLouie. If you feel the material is ready, I hope you or anyone else watching this space will insert it into the article, or else post questions and comments about it here. Many thanks, [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 22:47, 20 November 2013 (UTC)
+:Thank you for all your work. (Though you are getting paid for this, right!) I will have to take some time and look it over. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 17:27, 21 November 2013 (UTC)
+
+::Hello, everyone. Just checking in to see if BoogaLouie or any other editors watching this page have had a chance to review my proposed edits, especially the [[User:Mysidae/Role_in_capital_markets_(revised)|revised "Role in capital markets" draft]]. I understand that said edits are fairly substantial and will take time to review, but I hope I can answer any questions you may have or make additional suggestions as necessary. 
+
+::To better facilitate the review process, I've integrated the aforementioned [[User:Mysidae/Role_in_capital_markets_(revised)|"Role in capital markets" draft]] into the [[User:Mysidae/Credit_rating_agency_-_Proposed_version|larger restructured version of the article]] I posted earlier. As you can see, in my version the "Role in capital markets" section—which now integrates material from the current [[Credit_rating_agency#Ratings|"Ratings"]] section—comes immediately after the "History" section.  Because I added nearly all of the critical material from the "Criticism" section I had previously proposed into the updated "Role in capital markets" section, I have removed that section entirely. 
+
+::Please let me know if there's any way I can be of further assistance here. Many thanks. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 19:13, 11 December 2013 (UTC)
+
+== Rewriting Mysidea's rewrites ==
+
+Went through Mysidea's history section and added and rewrote a lot of stuff. Got my hands on Sinclair, Timothy J. (2005). ''The New Masters of Capital: American Bond Rating Agencies and the Politics of Creditworthiness'' and added some information from that. 
+
+Unfortunately Mysidea's been waiting for me to go through the [[Credit_rating_agency#Ratings|ratings]] section, not the history. I have gone over and replaced [[Credit_rating_agency#Ratings_use_in_bond_market|Ratings use in bond market]], but am not done with [[Credit_rating_agency#Integrity_and_accuracy_of_ratings|Integrity and accuracy of ratings]]. [[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 22:29, 11 December 2013 (UTC)
+
+:Hi there, BoogaLouie. I see you have made a series of substantial edits, including the integration of material from my proposed draft. I think your edits are largely quite good, and I'm glad you have found my research worthy of inclusion. I do, however, have one suggested change. You folded the standalone "Big Three" section into the "Role in capital markets" section and retitled it [[Credit_rating_agencies#The_Agencies|"The Agencies"]]. I don't think this quite works, as the "Role in capital markets" section is intended to explain the functionality, application, and practical usage of the ratings—not the industry structure. 
+
+:After reexamining the organization of the entire article, I would now suggest you create a new section titled "Industry structure" and consolidate the "Agencies" and "Business models" / "Oligopoly produced by regulation" material under this heading. I have put together a draft version of this proposed section —which I think should be placed directly below "Role in capital markets"—and [[User:Mysidae/Industry_structure|posted it on my user page]]. I had to reformat two of the references to correct cite errors stemming from the move. I also included a "further information" link to the existing [[Big Three (credit rating agencies)|Big Three]] article, although I still support that article's merger into this article. 
+
+:Let me know if you have questions about this proposed organization, and many thanks again for your help with this page. [[User:Mysidae|Mysidae]] ([[User talk:Mysidae|talk]]) 21:48, 3 January 2014 (UTC)
+
+::Thank you. Didn't see this note until yesterday, when I did a quick move of "The agencies" after putting in my rewrites. Will look at your draft version tomorrow. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 18:27, 10 January 2014 (UTC)
+
+Have now gone through the article and [https://en.wikipedia.org/w/index.php?title=Credit_rating_agency&diff=590422995&oldid=588293751 completed] the replacement of [[Credit_rating_agency#Role_in_capital_markets]] with rewritings of Mysidea's rewrites. --[[User:BoogaLouie|BoogaLouie]] ([[User talk:BoogaLouie|talk]]) 22:35, 12 January 2014 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Credit rating agency]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=686123680 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Attempted to fix sourcing for http://www.iht.com/articles/ap/2008/08/22/business/NA-US-Mortgage-Giants-Crisis.php
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 04:32, 17 October 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:13|one external link|13 external links}} on [[Credit rating agency]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=752607064 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20131102043852/http://www.american.com/archive/2009/agency-problems2014and-their-solution to http://www.american.com/archive/2009/agency-problems2014and-their-solution
+*Added archive https://web.archive.org/web/20110429062213/http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf to http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf
+*Added archive https://web.archive.org/web/20110429062213/http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf to http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf
+*Added archive https://web.archive.org/web/20110429062213/http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf to http://www.newyorkfed.org/research/quarterly_review/1994v19/v19n2article1.pdf
+*Added archive https://web.archive.org/web/20110904204949/http://www.ba.metu.edu.tr/~adil/BA-web/bus%20press/credit%20raters.pdf to http://www.ba.metu.edu.tr/~adil/BA-web/bus%20press/credit%20raters.pdf
+*Added archive https://web.archive.org/web/20131214230123/http://mainelaw.maine.edu/academics/pdf/2010_franco_amer_557.pdf to http://mainelaw.maine.edu/academics/pdf/2010_franco_amer_557.pdf
+*Added archive https://web.archive.org/web/20131214230127/http://digitalcommons.law.wustl.edu/cgi/viewcontent.cgi?article=1481&context=lawreview&sei-redir=1&referer=http%3A%2F%2Fscholar.google.com%2Fscholar%3Fq%3Dcredit%2Brating%2Bagency%2Bmethodology%26btnG%3D%26hl%3Den%26as_sdt%3D0%252C38 to http://digitalcommons.law.wustl.edu/cgi/viewcontent.cgi?article=1481&context=lawreview&sei-redir=1&referer=http%3A%2F%2Fscholar.google.com%2Fscholar%3Fq%3Dcredit%2Brating%2Bagency%2Bmethodology%26btnG%3D%26hl%3Den%26as_sdt%3D0%252C38#search=%22credit%20rating%20agency%20methodology%22
+*Added archive https://web.archive.org/web/20100603093153/http://www.brookings.edu/papers/2009/0615_economic_crisis_baily_elliott.aspx to http://www.brookings.edu/papers/2009/0615_economic_crisis_baily_elliott.aspx
+*Added archive https://web.archive.org/web/20131214230350/http://lawreview.law-dev.library.pitt.edu/ojs/index.php/lawreview/article/viewFile/148/148 to http://lawreview.law-dev.library.pitt.edu/ojs/index.php/lawreview/article/viewFile/148/148
+*Added archive https://web.archive.org/web/20140304233809/http://www.dnb.nl/en/binaries/Working%20Paper%20278_tcm47-246556.pdf to http://www.dnb.nl/en/binaries/Working%2520Paper%2520278_tcm47-246556.pdf
+*Added archive https://web.archive.org/web/20140304233809/http://www.dnb.nl/en/binaries/Working%20Paper%20278_tcm47-246556.pdf to http://www.dnb.nl/en/binaries/Working%2520Paper%2520278_tcm47-246556.pdf
+*Added archive https://web.archive.org/web/20130605141052/http://rru.worldbank.org/documents/CrisisResponse/Note8.pdf to http://rru.worldbank.org/documents/CrisisResponse/Note8.pdf
+*Added {{tlx|dead link}} tag to http://www.another-rating.org/2012/03/dagong-new-bad-chinese-or-just.html
+*Added archive https://web.archive.org/web/20090615005411/http://ideas.berkeleylawblogs.org:80/2009/04/19/a-rescue-plan-for-rating-agencies/ to http://ideas.berkeleylawblogs.org/2009/04/19/a-rescue-plan-for-rating-agencies/
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 06:14, 2 December 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Credit rating agency]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=795450449 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20030717143150/http://bodurtha.georgetown.edu/enron/Credit%20Agencies%20Waited%20Months%20to%20Voice%20Doubt%20About%20Enron.htm to http://bodurtha.georgetown.edu/enron/Credit%20Agencies%20Waited%20Months%20to%20Voice%20Doubt%20About%20Enron.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 09:01, 14 August 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 5 external links on [[Credit rating agency]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=798652282 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20131019123822/http://cybercemetery.unt.edu/archive/fcic/20110310192044/http%3A//c0181567.cdn1.cloudfiles.rackspacecloud.com/2010-00-00%20Journal%20of%20Economic%20Perspectives%2C%20Markets-%20The%20Credit%20Rating%20Agencies%2C%20Lawrence%20J.%20White.pdf to http://cybercemetery.unt.edu/archive/fcic/20110310192044/http%3A//c0181567.cdn1.cloudfiles.rackspacecloud.com/2010-00-00%20Journal%20of%20Economic%20Perspectives%2C%20Markets-%20The%20Credit%20Rating%20Agencies%2C%20Lawrence%20J.%20White.pdf
+*Added archive https://web.archive.org/web/20131019123822/http://cybercemetery.unt.edu/archive/fcic/20110310192044/http%3A//c0181567.cdn1.cloudfiles.rackspacecloud.com/2010-00-00%20Journal%20of%20Economic%20Perspectives%2C%20Markets-%20The%20Credit%20Rating%20Agencies%2C%20Lawrence%20J.%20White.pdf to http://cybercemetery.unt.edu/archive/fcic/20110310192044/http%3A//c0181567.cdn1.cloudfiles.rackspacecloud.com/2010-00-00%20Journal%20of%20Economic%20Perspectives%2C%20Markets-%20The%20Credit%20Rating%20Agencies%2C%20Lawrence%20J.%20White.pdf
+*Added archive https://web.archive.org/web/20130514075731/http://personal.lse.ac.uk/debp/Papers/Ratings_Regulation.pdf to http://personal.lse.ac.uk/debp/Papers/Ratings_Regulation.pdf
+*Added archive https://web.archive.org/web/20130514075731/http://personal.lse.ac.uk/debp/Papers/Ratings_Regulation.pdf to http://personal.lse.ac.uk/debp/Papers/Ratings_Regulation.pdf
+*Added archive https://web.archive.org/web/20130619002922/http://www.sebi.gov.in/commreport/crareport.pdf to http://www.sebi.gov.in/commreport/crareport.pdf
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 03:43, 3 September 2017 (UTC)

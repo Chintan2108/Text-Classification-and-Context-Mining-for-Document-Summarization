@@ -1,0 +1,95 @@
+{{WikiProjectBannerShell|1=
+{{WikiProject Taxation |class=start |importance=low}}
+{{WikiProject Business |class=Start |importance=high |Accountancy=yes}}
+{{WikiProject Economics |class=start |importance=high}}
+{{WikiProject Finance |class=Start |importance=Top}}
+{{WikiProject Globalization |class=Start |importance=Mid}}
+}}
+
+==Untitled==
+I suggest a small paragraph on a comparison of the size of the four companies in terms of personnel and and revenue in let's say last fiscal year (2006) or 2005 if 2006 is not available. It would make sense. Actually, it has been done in the French version. so if anybody has the time to copy/paste/translate, than it's cool.
+
+
+The reference article refers to the demise of Arthur Andersen as follows: "Arthur Andersen is indicted for falsifying the financial statements of Enron, covering up millions of dollars in losses."
+
+In fact, Arthur Andersen was indicted for the charge of Obstruction of Justice.  
+
+What Arthur Andersen was indicted for and why it collapsed are two separate items.  They were indicted for obstruction of Justice, but their demise was because the financial statements of Enron were falsified and Arthur Anderson auditors looked the other way.
+
+\employees, with intent to cause and induce such persons to (a) withhold records, documents and other objects frinvestigations, and (b) alter, destroy, mutilate and conceal objects with intent to impair the objects, integrity and availability for use in such official proceedings."
+
+Hi - I was wondering where Accenture fits into this view of 'Big Four Auditors' since the company is the successor to Arthur Andersen. Why is Accenture excluded??? Thanks! [[User:Xbopper|Xbopper]] ([[User talk:Xbopper|talk]]) 02:01, 29 April 2010 (UTC)
+
+"THE CHARGE: OBSTRUCTION OF JUSTICE"
+
+== Big 8 page - Clayworth]] 17:49, 18 July 2006 (UTC)
+
+Accenture does not "fit in" to this as it is not an auditor, and is not the successor to Arthur Andersen. Rather, Accenture was formerly known as Andersen Consulting - the management consulting division of the Andersen firm. The Accenture name was adopted in 2000 at the end of an acrimonious split from Arthur Andersen which is well documented here on the Arthur Andersen and Accenture pages. [[Special:Contributions/81.187.26.230|81.187.26.230]] ([[User talk:81.187.26.230|talk]]) 10:53, 24 November 2011 (UTC)
+::Accenture, CapGemini, etc. should be mentioned in this article. [[Special:Contributions/167.219.88.140|167.219.88.140]] ([[User talk:167.219.88.140|talk]]) 01:19, 16 November 2013 (UTC)
+
+== The Final Four ==
+
+Just out of curiosity, has anybody else heard the term "Final Four" used in a derogatory manner towards the Big Four firms? I've heard it used, but have never seen it in print (thus, it wouldn't be encyclopedic).[[User:Balloonman|Balloonman]] 19:02, 20 July 2007 (UTC)
+
+- I've seen it for sure in The Economist and IIRC some of the accountancy trade magazines.  In The Economist there is an article from May 19, 2005 ("Sarbanes-Oxley A price worth paying?") which referred to the Big 4 a couple of times as the "Final Four", e.g.,"Already reduced in number by consolidation and the demise of Arthur Andersen, the big accounting firms are now known more often as the Final Four than the Big Four, since any further reduction is thought unlikely." The article goes on to discuss how the US GAO concluded there was a potentially unhealthy degree of concentration in the industry and then talks of industry groups complaining about lack of competition, so it is definitely painting a derogatory picture.  The article is subscription only from their website, I found a pdf version of the article at http://www.simon.rochester.edu/pdf/sarbanes_oxley.pdf but if someone wants to traipse over to their local library, they can confirm that the article at the link is authentic. Cheers, CrossroadsMan 17/09/07  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/142.221.110.4|142.221.110.4]] ([[User talk:142.221.110.4|talk]]) 16:36, 17 September 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Big Four in China ==
+
+I removed the section under "Other Countries" about China as it contained the request "Does anyone have market share information for Big Four in China? Please Post and cite source for accuracy. Thanks!" I'm not sure if this should've been in the article or moved here.  [[User:Tal Celes|Tal Celes]] 15:58, 10 August 2007 (UTC)
+
+==(d)evolution tree needs a graphic==
+I don't know the WikiMedia code well enough, but the evolution tree of how 30 companies became 4 is neat only if you can figure it out.  Really we need some graphical lines, and if not, a GIF tree. --[[User:Mrcolj|Mrcolj]] 11:31, 17 September 2007 (UTC)
+
+==Comparative table==
+
+It seems we have great problems in maintaining a good comparative table. It is the part of the article that suffers most of the attacks of trolls or, perharps, honest but misinformed contributors. Today I replaced Ernst & Young to the 3rd place. I don't see why placing KPMG ahead of them, since Ernst is larger by both revenue and employee count. I also changed Delloite's staff from 183,001 to 182,000. Anyone should know this numbers have not this kind of precision. Right now there are hundreds of people being hired or leaving the firm, any precision lower than one thousand is impossible, and a unite precision such as 183,001 is just ridicoulus. Also, I made it 182 instead of 183 because that is the number in the source provided. If anyone has a reliable source for 183,000 employess in 2011 (or even 183,001 employees), please add it so we can analyze it. [[Special:Contributions/201.58.136.100|201.58.136.100]] ([[User talk:201.58.136.100|talk]]) 06:32, 30 July 2012 (UTC)
+
+== Title of entry ==
+
+The title "Big Four (audit firms)" should be changed to "Big Four (professional-services firms)".  The vast majority of Big 4 operations are unrelated to auditing.  Auditing is simply one of the various functions these firms perform.  The majority of Big 4 employees will never audit anything.  The plurality of revenue does not come from auditing.  Accordingly, the current title of "Big Four (audit firms)" does not seem like an accurate title.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/167.219.88.140|167.219.88.140]] ([[User talk:167.219.88.140|talk]]) 01:25, 16 November 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+We can't call the article "Big Four (professional-services firms)", because that would implie those are the four largest professional firms. It is not true, as Accenture, for example, had a 2013 net revenue larger than 2 of the Big Four and has more employees than anyone of them (I am using the data from wikipedia itself). Although the Big Four provide other services, the only reason they are known as the "big four" is because they are the largest Audit firms. The use of the term Big Four was allways about auditing, never about the other services. There is no reason to exclude Accenture, Capgemni, etc, if someone is talking about general professional-services.[[Special:Contributions/187.20.4.230|187.20.4.230]] ([[User talk:187.20.4.230|talk]]) 03:45, 29 March 2014 (UTC)
+
+How is this entry now titled "Big Four accounting firms"?  Even "Big Four (audit firms)" was a more reasonable title than this.  The vast majority of employees are not accountants and have not studied accounting.  The firms themselves do not refer to themselves as accounting firms.  In contrast, each does offer an "audit" services group (among other services that are cumulatively or even individually larger than this audit services group); and even within audit services many of the front-line employees are not trained in "accounting" and don't consider themselves "accountants".  Most people who work at these firms or interact with these firms, in Manhattan (where I operate), refer to these firms as the "Big Four" or, in certain contexts, "Big Four audit firm(s)".  Moreover, outside of the United States these firms operate in a scope that is even broader than how they operate in the United States.  Calling these firms "accounting firms" would be like calling Brooks Brothers a "necktie store" instead of something more general (and accurate) like "an upscale professional clothing store" .  It makes no sense. [[Special:Contributions/64.111.73.32|64.111.73.32]] ([[User talk:64.111.73.32|talk]]) 03:39, 12 September 2016 (UTC)
+
+== 5th Largest Consultancy ==
+
+The 5th largest accountancy firm should be BDO. This is also listed on the [[https://en.wikipedia.org/wiki/BDO_International | BDO international]] Wiki page.
+[[User:Andy.bdo|Andy.bdo]] ([[User talk:Andy.bdo|talk]]) 17:36, 27 November 2014 (UTC) : Digital Marketing manager at BDO
+
+==List dates==
+Regarding the merger list [[Big Four (audit_firms)#List]].
+I remove the sentence talking about dates at the start - currently there are no dates at the start of entries. It would be better to have a date range (founding - defunct) rather than a single perhaps? [[User:Jonpatterns|Jonpatterns]] ([[User talk:Jonpatterns|talk]]) 07:20, 7 March 2015 (UTC)
+
+== Studies of the Big Four's impact on organisations and society? ==
+
+I am wondering why the entry does not discuss the interesting and partially troubling roles Big Four companies individually but also as a set play in organisations, society and economy. In my academic work on environmental accounting<ref>Lippert, I 2013: ''Enacting Environments: An Ethnography of the Digitalisation and Naturalisation of Emissions'' http://dx.doi.org/10/6vh</ref>, I came across several of the Big Four players - and interesting concerns crop up about politics of truth and discursive power. When I look at this entry, I guess, it would be helpful to readers to get a sense that the Big Four are not in themselves neutral or unproblematic. Instead, I propose we could work towards a section that sketches the range of results about the Big Four, when treating them as objects of studies.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Ingmar.lippert|Ingmar.lippert]] ([[User talk:Ingmar.lippert|talk]] • [[Special:Contributions/Ingmar.lippert|contribs]]) 20:11, 31 May 2016 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+{{reflist-talk}}
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:2|one external link|2 external links}} on [[Big Four accounting firms]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=747375597 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20100621014525/http://www.accountancyage.com:80/accountancyage/news/2264992/big-four-clauses-rare-bba to http://www.accountancyage.com/accountancyage/news/2264992/big-four-clauses-rare-bba
+*Added archive https://web.archive.org/web/20140810160142/http://www.ccer.ro/Ernst-Young-Romania-SRL*memberID_49-members_details to http://www.ccer.ro/Ernst-Young-Romania-SRL*memberID_49-members_details
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 01:04, 2 November 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Big Four accounting firms]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=791388247 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20140808055943/http://www.deloitte.com/view/en_RO/ro/about/index.htm to http://www.deloitte.com/view/en_RO/ro/about/index.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 23:13, 19 July 2017 (UTC)

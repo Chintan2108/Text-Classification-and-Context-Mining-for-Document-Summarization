@@ -1,0 +1,106 @@
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Companies|class=start|importance=}}
+{{WikiProject Business|class=Start|importance=Mid|attention=yes}}
+{{WikiProject Finance|class=Start|importance=Mid|attention=yes}}
+}}
+== Why is this a stub? ==
+This article is both concise, reasonable and seemingly accurate to the topic in question. I don't see what else could be said about it, so why is it a stub?  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Kfj001|Kfj001]] ([[User talk:Kfj001|talk]] • [[Special:Contributions/Kfj001|contribs]]) </span></small><!-- Template:Unsigned -->
+:For those reading the above who might think about looking at the article:  it's not a stub anymore.  [[User:John Broughton|John Broughton]] 17:32, 8 June 2006 (UTC)
+
+== Added links to the 10-K ==
+I came looking for information on the 10-K form, but didn't find it under this, the first topic I jumped to. I was forgetting the specific name of the form I had used in college to research a number of companies. Copied and pasted from [[Form 10-K]] on the Wikipedia with a minor edit to remove the redundant definition of the SEC. My first edit, hope all the rules have been satisfied. As an additional note to mods/editors, the See Also links to Private offering and Public offering are broken and perhaps should be removed and a link to relevant forms mentioned in the article added. I am not yet familiar enough with Wikipedia philosophy on these to do this as yet.
+[[User:Fugacity|fugacity]] 13:55, 31 January 2006 (UTC)
+
+== State-owned businesses ==
+I think that the explanation of why State-owned businesses are named "Public business" is just false. The State supposedly exists for and by the people, and so it represents and owns public things, simply because they are not private.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:200.85.113.49|200.85.113.49]] ([[User talk:200.85.113.49|talk]] • [[Special:Contributions/200.85.113.49|contribs]]) </span></small><!-- Template:Unsigned -->
+:I noticed this too, and that the article doesn't cover this meaning anyway, so have link to [[public ownership]].  I would construe 'publicly-owned company' to mean the second, and 'publicly-listed company' to mean the first. --[[User:Cedders|Cedders]]<sup>[[User talk:Cedders|tk]]</sup> 22:36, 7 June 2006 (UTC).
+::While this may not be the meaning of the english version of the article, it is the exact (and only) meaning of the portuguese version  linked as a translation, so I'm not sure if that link is correct or not as is. -- [[User:Drebes|Drebes]] 14 October 2009.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|undated]] comment added 13:19, 14 October 2009 (UTC).</span><!--Template:Undated--> <!--Autosigned by SineBot-->
+From my point of view, I do not agree with some explanation on this site. I mean, a private company which only issue security notes on the market (e.g. registery on SEC), must report the 10-K form to the SEC and must comply with Sarbanes-Oxley Act. Otherwise, the explanation of public company should be more open, including companies which the shares are held by privete owener and have notes on markets.
+Hugo Garvett 6 September 2006
+
+==The definition==
+This may be a UK thing, so I am hesitant to change this straight away - but in the UK a "public company" means a company that has "plc" as a suffix to its name, and as a result of which:
+*Can offer its shares to the public (in particular, list them on a public exchange);
+*Has more extensive regulatory disclosure requirements.
+More generally (and colloquially), it means a company that actually does have its shares listed on a public exchange.
+It is the same meaning as what is currently in the [[public limited company]] article, which applies only to UK and Irish companies simply by virtue of the fact that the "plc" terminology is unique to them, However, the term "public company" is used more generally to include the same sort of company across the world.
+The current definition in this article,  of a company being owned by the public rather than a small group of individuals, is not the definition to my mind, so much as one of the common consequences of a company being public. This is sort of reflected in the rest of the article, which talks in corporate law terms.
+What do people from outside the UK think about this? [[User:Arthur Markham|Arthur Markham]] 14:47, 13 November 2006 (UTC)
+:Noting that there are three discussion topics addressing similar concerns, it appears that the phrase "public company" is rather vague and confusing depending upon the context. Having studied business associations within business and law classes in American higher education, I believe the following definitions are the most clear: a "public company" is any company created and owned by a government (e.g. federal, state, local, etc.), whereas a "private company" is any company created and owned by private individuals. A private company may be either a "closely held company" (or "close(d) company"), one with a small number of shareholders that are restricted from transferring/trading shares; or a "publicly held company" (or "open company"), one with a large number of shareholders that are free to transfer/trade shares. [[User:Tedbinger|Tedbinger]] ([[User talk:Tedbinger|talk]]) 03:17, 19 July 2008 (UTC)Tedbinger
+:: That may be reasonably logical, but I don't think it's how the terms are used. I think that "public company" almost always means a company whose shares are publicly traded, not a company owned by the government. [[User:Westmorlandia|Westmorlandia]] ([[User talk:Westmorlandia|talk]]) 14:59, 28 April 2009 (UTC)
+:::I'm going to agree with Westmorlandia on this one. In common usage, the term "public company" is almost always used as the short form of "publicly held company".  I do not recall having seen a company "created and owned by a government" referred to in this way, at least not in the US.  That would be either a [[government-sponsored enterprise]] or [[government-owned corporation]], but not a "public company". — <span style="font-family:Palatino Linotype">[[User:Satori Son|<b>Satori Son</b>]]</span> 18:14, 28 April 2009 (UTC)
+
+== USA Definition of a Public Company ==
+Could there be a short explanation of what, exactly, a Form S-1 is here? Or a link, perhaps? It is confusing to a layman such as myself as the definition is now. [[User:Forst pineapple|Forst pineapple]] 20:39, 8 January 2007 (UTC)
+Also, if someone who understood this better then I could clean up the stuff about a "reporting company" and explain what a reporting company *is*, this would be clearer.
+[[User:Forst pineapple|Forst]] 22:17, 13 January 2007 (UTC)
+
+== Yankee Land Specific ==
+It should be noted that the "Public versus private companies" section (as well as other content on this page) is specific to [[United States|Yankee Land]] and is not a [[The_US_is_the_world|world view]].
+
+== Example of how a company goes public ==
+There needs to be an example of how a company goes public.  Specifically suppose someone has sole ownership of a company which company is worth $1 million in assets.  This company generates $100,000 in revenue per year and $50,000 in profit per year.  Now suppose this individual wishes to take his company public.  Would number of shares be based on total value of all assets of the company, or something else?  Now suppose the number of shares was determined to be 1 million.  Could the individual only offer 1/2 shares for share when his company went public, thus ensuring that he retain at least 50% equity?  - Yet the market cap would reflect his unsold shares and all other shares available to the public?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/206.126.163.20|206.126.163.20]] ([[User talk:206.126.163.20|talk]]) 06:56, 11 January 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==Advantages and disadvantages==
+Why is the "disadvantages" section just a list of more advantages?  Shouldn't disadvantages be, well, disadvantages?  Oh whatever, I'll change it myself.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Dstebbins|Dstebbins]] ([[User talk:Dstebbins|talk]] • [[Special:Contributions/Dstebbins|contribs]]) 02:01, March 17, 2008 (UTC)</span></small><!-- Template:Unsigned -->
+:Was [http://en.wikipedia.org/w/index.php?title=Public_company&diff=198767797&oldid=196486146 changed] but was later [http://en.wikipedia.org/w/index.php?title=Public_company&diff=next&oldid=214756753 changed back]. It's still a little confusing. — <span style="font-family:Palatino Linotype">[[User:Satori Son|<b>Satori Son</b>]]</span> 18:29, 28 April 2009 (UTC)
+::Hopefully [http://en.wikipedia.org/w/index.php?title=Public_company&diff=286693568&oldid=286658891 better] now. — <span style="font-family:Palatino Linotype">[[User:Satori Son|<b>Satori Son</b>]]</span> 18:35, 28 April 2009 (UTC)
+
+Why there is so few explaination about the advantages and disadvantages? And noboday adds the link of principal-agent problem which is so common in public compaies. By learning international financial management i add it myself.  <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:FreyaS|FreyaS]] ([[User talk:FreyaS#top|talk]] • [[Special:Contributions/FreyaS|contribs]]) 01:04, 18 October 2016 (UTC)</small> <!--Autosigned by SineBot-->
+
+==Five billion shareholders?!==
+Under the "Securities of a public company" section it states "companies with over 5,000,000,000 shareholders may be required to report". I'm guessing that number is wrong since I doubt any corporation is owned by 5/6 of the world's population. Anyone know the real number?
+[[User:JSLongwell|JSLongwell]] ([[User talk:JSLongwell|talk]]) 19:38, 12 September 2009 (UTC)
+
+== "Going public" ==
+
+Is this what's referred to when someone says that a company is "going public" or "taken public"? [[User:Gaiacarra|Gaiacarra]] ([[User talk:Gaiacarra|talk]]) 00:57, 30 October 2009 (UTC)
+
+== economics ==
+
+business cycle flatuation is part of our lifes it influence us in some of the ways  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/41.154.2.5|41.154.2.5]] ([[User talk:41.154.2.5|talk]]) 12:06, 13 November 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== '''what is the difference between an public and private company?''' ==
+
+public companies can be public companies without being publicly traded.
+ 
+so then, what is the difference between an public and private company?
+ 
+is it just the number of shareholders that makes a company have to be public, as per SEC regulations?
+ 
+or is it something else?
+ 
+ 
+ 
+This is what wiki says but it is not clear:
+ 
+A company with many shareholders is not necessarily a publicly traded company. In the United States, in some instances, companies with over 500 shareholders may be required to report under the Securities Exchange Act of 1934; companies that report under the 1934 Act are generally deemed public companies. The first company to issue shares is thought to be the Dutch East India Company in 1601.
+ 
+ 
+ 
+also, wiki says:
+ 
+A public company is a company that has permission to offer its registered securities (stock, bonds, etc.) for sale to the general public,
+ 
+but how would you define "general public?"  can't i put an ad in the paper to sell shares in my private company or is that illegal?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/69.244.63.248|69.244.63.248]] ([[User talk:69.244.63.248|talk]]) 13:06, 6 February 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== PLEASE PROVIDE SEC DEFINITION FOR PUBLIC COMPANY LIKE WIKIPEDIA DID FOR THE SPIN OUT ARTICLE ==
+
+FROM
+http://en.wikipedia.org/wiki/Spin_out#U.S._SEC_definition
+
+
+U.S. SEC definition 
+The United States Securities and Exchange Commission definition of "spin out" is more precise. Spin-outs occur when the equity owners of the parent company receive equity stakes in the newly spun out company. For example, when Agilent Technologies was spun out of Hewlett-Packard in 1999, the stock holders of HP received stock in Agilent.
+
+A company "spun out" in the common view but not considered a spin-out in the SEC's eyes would be considered by the SEC as a technology transfer or licensing of the technology to the new company.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/69.244.63.248|69.244.63.248]] ([[User talk:69.244.63.248|talk]]) 13:12, 6 February 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Public Administration  in Nigeria ==
+
+It started at far back as (1914) in the time of "Lord Lugard" a colonial ruler from 'Britain.' in (1914), Lord Lugard emerged the Westhern and the Northern to form Nigeria. 
+The Northerns are Hausas, westherns are Yorubas, Ibos are from east, and so on.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/41.220.68.55|41.220.68.55]] ([[User talk:41.220.68.55|talk]]) 08:56, 11 June 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== LLC? ==
+
+Yes, this only applies to the US. I don't practice business law, but my understanding is that an LLC is by definition not public. Ownership of its shares more closely resembles a partnership, where the ownership is not open to the general public. Further, taxes are pass-through to the owners of the company, meaning the LLC should not have to pay its own taxes. These two factors strongly suggest that an LLC is not a public company, and the wikipedia page for LLC states right at the top that it is a private form of business. [[Special:Contributions/104.1.44.94|104.1.44.94]] ([[User talk:104.1.44.94|talk]]) 19:12, 8 April 2019 (UTC)

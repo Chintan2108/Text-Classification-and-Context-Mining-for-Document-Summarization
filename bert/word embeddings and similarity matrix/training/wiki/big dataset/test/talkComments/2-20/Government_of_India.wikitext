@@ -1,0 +1,181 @@
+{{Talk header}}
+{{Ds/talk notice|ipa|long}}
+{{Indian English}}
+{{Copied
+|from = Cabinet Secretary of India
+|from_oldid = 827907724
+|to = Government of India
+|to_diff = 828564448
+|to_oldid = 827539091
+|date = 15:46, 3 March 2018‎ (IST)
+}}
+{{Copied
+|from = Supreme Court of India
+|from_oldid = 828392057
+|to = Government of India
+|to_diff = 828564448
+|to_oldid = 827539091
+|date = 15:46, 3 March 2018‎ (IST)
+}}
+{{Copied
+|from = Secretary to Government of India
+|from_oldid = 828600054
+|to = Government of India
+|to_diff = 828608562
+|to_oldid = 828607271
+|date = 22:35, 3 March 2018‎ (IST)
+}}
+{{Old peer review|archive=1}}
+{{WikiProjectBannerShell|1=
+{{WP India|class=C|importance=top|politics=yes|politics-importance=top}}
+{{WikiProject Politics|class=C|importance=high}}
+}}
+{{Friendly search suggestions}}
+{{dashboard.wikiedu.org assignment | course = Wikipedia:Wiki_Ed/University_of_Maryland/INST201-0101_Introduction_to_Information_Science_(FALL_2017) | assignments = [[User:Kirimani|Kirimani]] }}
+ 
+==Help deciphering [[Subhashini Ali]]?==
+The article [[Subhashini Ali]] consists of a list of what appear to be past and present Indian government officials. Anyone have any idea what this article is trying to communicate? I know there is a former MP by that name as well as an actress. They should probably have an article at that name but I'm trying to find out what the creator's intent was in putting up this list. Thanks for any insights! [[User:Demi|Demi]] <sup>[[User_talk:Demi|T]]</sup>/<sub>[[Special:Contributions/Demi|C]]</sub> 07:39, 10 November 2005 (UTC)
+
+FYI, it looks like the same content appears at [[Travancore sisters]]. [[User:Demi|Demi]] <sup>[[User_talk:Demi|T]]</sup>/<sub>[[Special:Contributions/Demi|C]]</sub> 07:41, 10 November 2005 (UTC)
+
+==Andaman has a high court?==
+The [[Government_of_India#State_Judiciary|list]] in the article misses the Andaman and Nicobar islands. Which high court has jurisdiction over them? [[User:Anwar saadat|Anwar]] 21:04, 23 May 2006 (UTC)
+The Jurisdiction of Kolkatta(Calcutta) extends upto the Andaman and Nicobar Islands i.e Kolkatta high court has the juridiction over Andaman & Nicobar islands.
+
+== Holding a portfolio? ==
+
+'''From the page:  "Any minister holding a portfolio must be a member of either house of parliament."'''  Can anyone explain this phrase "holding a portfolio" to someone unfamiliar with Indian or parliamentary government?   It might help to explain it in the article if it might be helpful to others as well.  [[User:24.155.88.186|24.155.88.186]] 22:46, 8 June 2006 (UTC)
+
+== proportional representation ==
+
+I believe there is an inaccuracy regarding whether indian legislators are elected to the Lok Sabha via proportional representation.  I believe they are elected via a first past the post system. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/128.36.68.201|128.36.68.201]] ([[User talk:128.36.68.201|talk]]) 06:44, 7 December 2006 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+==Socialism==
+The section on Socialism seems to be a non-NPOV. Consider revising.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.154.121.182|24.154.121.182]] ([[User talk:24.154.121.182|talk]]) 21:30, 29 June 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Orphaned references in [[:Government of India]] ==
+I check pages listed in [[:Category:Pages with incorrect ref formatting]] to try to fix reference errors. One of the things I do is look for content for [[User:AnomieBOT/docs/OrphanReferenceFixer|orphaned references]] in wikilinked articles. I have found content for some of [[:Government of India]]'s orphans, the problem is that I found more than one version. I can't determine which (if any) is correct for ''this'' article, so I am asking for a sentient editor to look it over and copy the correct ref content into this article.
+
+<b>Reference named "survey":</b><ul>
+<li>From [[Standard of living in India]]: {{cite web|title=Economic Survey 2004–2005|url=http://indiabudget.nic.in/es2004-05/esmain.htm| accessdate = 2006-07-15}}</li>
+<li>From [[Poverty in India]]: [http://www.sarkaritel.com/news_and_features/feb2005/25ecosurvey0405.htm Sarkaritel.com : Corporate News & Features : Highlights of Economic Survey 2004-2005<!-- Bot generated title -->]</li>
+</ul>
+
+I apologize if any of the above are effectively identical; I am just a simple computer program, so I can't determine whether minor differences are significant or not. [[User:AnomieBOT|AnomieBOT]][[User talk:AnomieBOT|<font color="#888800">⚡</font>]] 19:20, 31 December 2008 (UTC)
+
+==NPOV????==
+
+Who's been writing this article? The Indian Tourism Agency???
+
+"The concept of tipping and working on commission is new to India. She has enjoyed her freedom for little over 60 years, less than the average life span of a human. The democratic western world has enjoyed such privileges for a long time, whereas the other major communist or socialist nation have enforced its ways into people's lives. As India still maintains a free and fair policy to all citizens (with of course some exceptions) concepts like "premium" processing is new and is being slowly adopted to reduce the otherwise action of corruption. At micro levels, these are called as "Tatkaal" schemes being introduced in government offices, meaning immedidate processing, which directly deals with the common man. At macro levels these are called betterment charges that are levied on corporations that wish to invest in large projects. Starting early 90s, privatization has helped government to raise more taxes, than the money being laundered in corruptions. Professions such as facilitator, negotiator, or coloquillay known as an "agent", such professions were never part of the Indian society and in business there was a seller and a buyer; and negotiation was considered the skill of the seller to influence the buyer.
+
+Talking of corruption, press in India has more freedom and is not as supresssed as it is in rest of the world. Press plays an important role in dealing with corruption.
+
+In general, it is amazing how a nation in spite of having so many cross cultural relationships, different languages, people from various ethinicity and religion, the social fabric of India is still intact with of course a little abrasions here and there."  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/99.255.196.199|99.255.196.199]] ([[User talk:99.255.196.199|talk]]) 23:39, 13 April 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==Reform==
+The section on reform contains significant bias towards highlighting and enhancing the perception of corruption in the nation. The citations, though well-placed, have been selectively placed to cater to the presumed bias. The subject and the implications are too vast. There are no benchmarks on the quality of governance of a nation, let alone one with a diversity as huge and a complex past as that of India, factors which bring their own set of challenges. Using a singular lens to look at this democracy and to judge it thereby is a flaw which needs to be avoided and corrected.
+- [[User:Mave12|Mave12]] ([[User talk:Mave12|talk]]) 20:29, 21 May 2009 (UTC)
+
+:There are statistics gathered on corruption by country. While they also include business corruption, police and government corruption are also mentioned. India scored 88 out of 159. While this doesn't sound too bad, the actual subjective score was 2.9 out of a possible 10, with countries scoring close to ten. So while India has a lot of company, the corruption does not look good. [http://www.nationmaster.com/graph/gov_cor-government-corruption see]. I don't think anyone is making this up. Police are switched around fairly rapidly because they are corrupt and some of their superiors are trying to fight that. Not a good situation at all. Pretending it doesn't exist is not productive nor encyclopedic. This is not supposed to be [[WP:PR]] for India. It is supposed to report the truth. [[User:Student7|Student7]] ([[User talk:Student7|talk]]) 22:50, 21 May 2009 (UTC)
+
+== Important notice ==
+
+The [[Outline of India#Government and politics of India|government section of the "Outline of India"]] needs to be checked, corrected, and completed -- ''especially the subsections for the government branches''.
+
+When the country outlines were created, temporary data (that matched most of the countries but not all) was used to speed up the process.  Those countries for which the temporary data does not match must be replaced with the correct information.
+
+Please check that this country's outline is not in error.
+
+If you have any questions or comments, please contact [[User talk:The Transhumanist|<i>The Transhumanist</i>]] .
+
+Thank you.
+
+==Junk bonds?==
+An editor has removed the deterioration of bonds to '''near''' junk bond status as outdated (notice the "near"). I haven't checked this either way. However, if bonds '''ever''' deteriorated to where S&P rating was single B or Cs, this should be recorded somewhere, such as History of India. There is no reason why there can't be a "History" subsection in the Government article. [[User:Student7|Student7]] ([[User talk:Student7|talk]]) 11:28, 30 May 2009 (UTC)
+
+: I was the one who removed [http://en.wikipedia.org/w/index.php?title=Government_of_India&curid=553883&diff=293175226&oldid=293172897 the sentence], and my edit-summary may have caused the confusion, so let me explain: In 2008 the three credit rating agencies (S&P, Moddy's, and Fitch) were threatening to reduce India's external debt ratings from BBB- (which is the lowest rung of "investment grade") because of many factors including the deficits, economic downturn and particularly because of the uncertainty about the stability and effectiveness of the government once the Left parties had withdrawn from the coalition. The downgrade never came to pass, and after the 2009 elections the agencies either re-affirmed the BBB- rating or said that they were going to reevaluate in June.
+: Note that India's debt rating have been at the "junk status" for most of its history AFAIK, and in fact, in 1991 India came very close to defaulting on its external debt (it escaped narrowly by airlifting its gold reserves to London to be used as collateral)! The latter event is very significant in Indian economic history since it arguably sparked off the economic reforms during the 90's, and should be covered in [[Economy of India]] (see also [[1991 India economic crisis]]. The discussion of the proposed-downgrade-that-never-happened in 2008, on the other hand, is both [[WP:RECENTISM|recentism]] and outdated at the same time. It was also undue and misplaced in this article. 
+: Hope my removal now makes sense. Let me know if you have any further questions or comments. [[User:Abecedare|Abecedare]] ([[User talk:Abecedare|talk]]) 14:45, 30 May 2009 (UTC)
+
+::Thanks for the tutorial. Very informative. The story seems to be (now!) that the government '''recovered''' its bonds from junk status which it formerly held. That is (instead) a positive item that might be mentioned (and maybe is) in history or economy..., but if not there, it can wait I guess. [[User:Student7|Student7]] ([[User talk:Student7|talk]]) 21:11, 30 May 2009 (UTC)
+
+==Science and technology?==
+Is the government interested or engaged in these fields? Is there policy?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/193.166.137.75|193.166.137.75]] ([[User talk:193.166.137.75|talk]]) 08:49, 19 August 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Union of India ==
+
+To the reverter Abecedere. It's not saying "in the name of" anywhere. It's "by the name of". I don't know where you got the "in the name of" thing. I would also like to remind you, that "union of india" is the term which is used in the supreme court to denote the indian government. --[[Special:Contributions/91.130.91.48|91.130.91.48]] ([[User talk:91.130.91.48|talk]]) 07:42, 22 September 2009 (UTC)
+
+:Yes, that was a typo in [http://en.wikipedia.org/w/index.php?title=Government_of_India&diff=prev&oldid=315433872 my edit summary]. I should have said: "by the name of" does not mean "is the name of". Essentially, my understanding of the facts is as follows:
+:* The government of India (GOI) is also know as the "Union Government", especially when it is to be distinguished or contrasted with the state budgets. (cf. "Union Budget").
+:* The Republic of India (ROI), is also known as the "Union of India", especially when its [[Federal republic|federal]] structure or status as a legal entity, is being emphasized.
+:* As per [http://indiacode.nic.in/coiweb/fullact1.asp?tfnm=00%20382 Article 300] of the Indian constitution, which you cited, "The Government of India may sue or be sued by the name of the Union of India". This does not mean that the GOI '''is''' the "Union of India"; it simply lays down that the government is representative of the State, and thus may use that designation in legal proceedings. 
+:*Note that the Article 300 goes on to say that, "Government of a State may sue or be sued by the name of the State", which means, for example that suits in which the Gujarat state government is a party are labeled "State of Gujarat vs ..."  ([http://vlex.in/vid/narendra-amin-state-gujarat-and-anr-43119817 example]) etc; this does not mean that the "State Government of Gujarat" is officially know as "State of Gujarat".
+:* This is also similar to the situation in US, in which the [[Department of Justice|DOJ]] and other federal entities sue, and are sued, in the name of "United States", as in [[United States v. Microsoft]].
+:Let me know if you have any remaining questions or comments. [[User:Abecedare|Abecedare]] ([[User talk:Abecedare|talk]]) 08:26, 22 September 2009 (UTC)
+
+:::This is an awesome explanation. I understand the nuances now better. However, there are some issues left: 
+:::1) When India is known as Union of India, why the main article India isn't mentioning this fact, if it's a fact?
+:::2) Still the Indian government would be refered to as "Union of India", but if you're interpretation is right, then it's not "the official name" of the government and this association would have to be removed and a notice to be added, that it is only for these occations.
+:::3) Your point about the state government meaning would have the same issues as point 1) and 2)
+:::4) The "United States" must have a similar meaning like Union of India, because both of them are not the "official" names for India or USA (would be "United States of America")
+::Well, this is really interesting stuff. I would like to go deeper in this issue. Any good sources for this kind of stuff (us related)? checking now the us constitution --[[Special:Contributions/91.130.91.48|91.130.91.48]] ([[User talk:91.130.91.48|talk]]) 08:46, 22 September 2009 (UTC)
+
+:::: The official names of India are laid down in [http://india.gov.in/govt/documents/english/coi_part_full.pdf Article 1] of the constitution, which says, "India, that is Bharat, shall be a Union of States" (incidentally, that is where the Union in Article 300 arises from; note how article 1 emphasizes the federal structure in its use of "union"). I think the "Union of India" moniker is worth mentioning in [[names of India]] and in the body of this article, where we can explain that the GOI can ''assume'' that designation, in legal settings.
+:::: As for US: it is not really clear whether the "official" name of the country is ''United States'' or ''United States of America'', since the US Constitution, unlike the precursor [[Articles of Confederation]], does not make it explicit. This, in fact, has been long debated on the talk page of [[United States]] article; you can read a summary of the debate [[Talk:United_States/Frequently asked questions#Why is the article.27s name .22United States.22 and not .22United States_of America.22.3F |here]]. If you have further questions about US law or book recommendations, consider posting them at [[WP:REFDESK|wikipedia refdesk]], where you should get knowledgeable responses. Cheers. [[User:Abecedare|Abecedare]] ([[User talk:Abecedare|talk]]) 09:16, 22 September 2009 (UTC)
+
+[[User:Ishantvarade|Ishantvarade]] ([[User talk:Ishantvarade|talk]]) 20:07, 18 December 2013 (UTC) [www.constitution.org/cons/india/p01001.html Article 1] of The Constitution of India, which says "India, that is Bharat, shall be a Union of States". Here we can easily find that India is the name of the Union of States like USA also we call US is United States of America or United States, but never known as the by the name of United America. In the same manner, the Article 1 of The Constitution of India gives "India" as the name of the Union of States. When we don't have name of the Union of States then how can we know what is the Union of India. 
+After declaration of name of the Union of States as India in Article 1. 
+Now if we move to what is "Union of India" then [http://www.constitution.org/cons/india/p12300.html Article 300] clearly showing that it is the sue or sued name of "The Government of India". But if you see in the [http://www.indiankanoon.org/doc/305953/ Constitutional debates] we could find that '[[Dominion of India]]' really covers the period from 15th August 1947 tip to the 25th January, 1950. Before that we had the expression Government of India', the expression 'Government of India' should be confined to Government before the 'Dominion' stage came in. After the Dominion stage is over. Therefore we use 'Union of India' officially for 'Government of India'.
+Now if we further move and find that from The Constitution of India that [http://www.constitution.org/cons/india/p05.html Part V. The Union], we can easily find that what is Union of India. Therefore there is difference between 'Union of India' and 'Union of States'
+
+== Edit request from , 6 November 2011 ==
+
+[[Special:Contributions/173.49.246.160|173.49.246.160]] ([[User talk:173.49.246.160|talk]]) 22:23, 6 November 2011 (UTC){{edit semi-protected|answered=yes}}
+<!-- Begin request -->
+
+As per the CIA World Factbook, India ranks 49th in the world, with respect to the Public Debt, with a total of 51.9% of GDP (2010 estimated).[14]
+<!-- End request -->
+[[Special:Contributions/173.49.246.160|173.49.246.160]] ([[User talk:173.49.246.160|talk]]) 22:23, 6 November 2011 (UTC)
+:{{done}} <span style="background:silver;font-family:Kristen ITC;">[[User:Ctjf83|<font color="red">C</font><font color="#ff6600">T</font><font color="yellow">J</font><font color="green">F</font><font color="blue">8</font><font color="#6600cc">3</font>]]</span> 17:53, 7 November 2011 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:2|one external link|2 external links}} on [[Government of India]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=698579439 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20140527214936/http://pmindia.gov.in/details9.php to http://pmindia.gov.in/details9.php
+*Added archive https://web.archive.org/20090116065316/http://www.dailytimes.com.pk:80/default.asp?page=story_25-3-2005_pg5_13 to http://www.dailytimes.com.pk/default.asp?page=story_25-3-2005_pg5_13
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 00:20, 7 January 2016 (UTC)
+
+== Needs a real lead section ==
+
+The lead section should be a summary of the whole article, up to 4 full paragraphs long, not a one-liner. &middot; &middot; &middot; [[User:Pbsouthwood|Peter (Southwood)]] [[User talk:Pbsouthwood|<sup>(talk)</sup>]]: 18:16, 16 July 2018 (UTC)
+
+== Semi-protected edit request on 25 November 2018 ==
+
+{{edit semi-protected|Government of India|answered=yes}}
+In the paragraph:
+
+Modelled after the [[Westminster system]] for governing the state,<ref>{{Cite news|url=http://www.thehindu.com/opinion/op-ed/a-prime-ministerial-form-of-government/article6120400.ece|title=A prime ministerial form of government|last=Subramanian|first=K.|date=June 17, 2014|work=[[The Hindu]]|access-date=March 9, 2018|issn=0971-751X|oclc=13119119}}</ref> the union government is mainly composed of the [[Executive (government)|executive]], the [[legislature]], and the [[judiciary]], in which all powers are vested by the [[Constitution of India|constitution]] in [[Parliament of India|parliament]], the [[Prime Minister of India|prime minister]] and the [[Supreme Court of India|supreme court]].
+
+please change:
+
+"[[Parliament of India|parliament]], the [[Prime Minister of India|prime minister]] and the [[Supreme Court of India|supreme court]]. " TO "the [[Prime Minister of India|prime minister]], the [[Parliament of India|parliament]] and the [[Supreme Court of India|supreme court]] respectively."
+
+This is to correctly order these three with "the executive, the legislature and the judiciary..." in the preceding half of the sentence. [[User:Theuprightbassman|Theuprightbassman]] ([[User talk:Theuprightbassman|talk]]) 18:07, 25 November 2018 (UTC)
+:[[File:Yes check.svg|20px|link=|alt=]] '''Done'''<!-- Template:ESp --> [[User:DannyS712|DannyS712]] ([[User talk:DannyS712|talk]]) 19:00, 25 November 2018 (UTC)
+
+{{reflist-talk}}
+
+== Semi-protected edit request on 16 January 2019 ==
+
+{{edit semi-protected|Government of India|answered=yes}}
+ [[Special:Contributions/2405:204:A19C:D0EA:B27C:1D28:128B:B03D|2405:204:A19C:D0EA:B27C:1D28:128B:B03D]] ([[User talk:2405:204:A19C:D0EA:B27C:1D28:128B:B03D|talk]]) 10:04, 16 January 2019 (UTC)
+:[[File:Red question icon with gradient background.svg|20px|link=|alt=]] '''Not done:''' it's not clear what changes you want to be made. Please mention the specific changes in a "change X to Y" format and provide a [[Wikipedia:Identifying reliable sources|reliable source]] if appropriate.<!-- Template:ESp --> – [[User:Jonesey95|Jonesey95]] ([[User talk:Jonesey95|talk]]) 11:13, 16 January 2019 (UTC)

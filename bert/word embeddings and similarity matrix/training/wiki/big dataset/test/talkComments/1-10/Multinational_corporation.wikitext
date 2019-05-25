@@ -1,0 +1,383 @@
+{{Vital article|level=4|topic=Society|class=Start}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Business |class=C |importance=High}}
+{{WikiProject Economics |class=C |importance=High}}
+{{WikiProject Human rights |importance=Mid |class=C}}
+{{WikiProject International relations |class=C |importance=Mid}}
+{{WikiProject Sociology |class=C |importance=Mid}}
+{{WikiProject Trade |class=C |importance=High}}
+}}
+{{findsourcesnotice}}
+{{User:MiszaBot/config
+| algo=old(365d)
+| archive=Talk:Multinational corporation/Archive %(counter)d
+| counter=1
+| maxarchivesize=75K
+| archiveheader={{Automatic archive navigator}}
+| minthreadsleft=5
+| minthreadstoarchive=1
+}}
+{{Archive box|auto=yes}}
+{{Backwardscopy|title=Multinational Background information|url=https://www.bdo.nz/en-nz/microsites/business-education,-coaching-human-resource-(hr)/coaching-training/multinational-background-information|date=October 2016}}
+
+==1930 "start date"==
+Doesn't the "1930" "start date" look a bit late in the light of this from the [[BP]] article?
+
+"In May 1901 [[William Knox D'Arcy]] was granted a concession by the [[Shah]] of [[Persia]] to search for oil, which he found in May 1908. This was the first commercially significant find in the [[Middle East]]. In 1909 the Anglo-Persian Oil Company was created to exploit this find. The company grew slowly until [[World War I]] when its strategic importance led the British Government to acquire a controlling interest in the company and it became the Royal Navy's chief source of fuel oil during World War I.
+
+"In 1917, the war allowed it to take the British arm of the German Europaische Union, which used the trade name ''British Petroleum''. After the war ended the company, in which the British Government now had a 51% interest, moved to secure outlets in Europe and elsewhere. but its main concern was still Persia, following the [[Anglo-Persian Agreement of 1919]] the company continued to trade profitably in that country."
+
+[[User:Robin Patterson|Robin Patterson]] 02:26, 27 Oct 2004 (UTC)
+
+Or this:
+
+In 1905 [[Nestlé]] merged with the Anglo-Swiss Condensed Milk Company. By the early 1900s, the company was operating factories in the United States, United Kingdom, Germany and Spain. World War I created new demand for dairy products in the form of government contracts. By the end of the war, Nestlé's production had more than doubled.
+
+[[User:Robin Patterson|Robin Patterson]] 02:32, 27 Oct 2004 (UTC)
+
+
+Surely the debate should start with colonial nations (primarily Britain and Netherlands) with tea and spice trading and the East India Trading Company, Hudson Bay Trading etc
+
+== Dead link ==
+TNCONLINE.net^does not exist anymore
+
+
+== Microsoft ==
+
+Does MS belong here? Most of people work in Redmond, Washington, US. They have some labs outside US, they have support center in almost every country but I guess they would be only happy to get rid of them if possible. Does multinational == big? [[User:Pavel Vozenilek|Pavel Vozenilek]] 01:58, 20 Feb 2005 (UTC)
+
+:My understanding is Multinational means offices in multiple countries... those support centers make it a multinational company. [[User:Graniterock|Graniterock]] 00:43, Mar 4, 2005 (UTC)
+
+:::My understanding is that multinational implies large, formerly independent units in many countries. That MS has localisation and call centers doesn't fit the picture that much. (Someone had also added Google who doesn't have even these, AFAIK.) I think huge steelmakers/car manufacturer/food processors/etc are better examples. [[User:Pavel Vozenilek|Pavel Vozenilek]] 19:42, 4 Mar 2005 (UTC)
+
+::::MS and Google do not just have call centers, they do business in these countries, get sued and sanctioned by the governments of these countries, and follow different laws in every single one of these countries. If that isn't multinational I don't know what is --[[User:Alterego|Alterego]] 19:56, Mar 4, 2005 (UTC)
+
+:I agree... the act of doing significant business and having a presence in other countries makes it multinational.  I'm still trying to to research the transational thing.  It has to do with not having a cetralized head office.  Microsoft would be multi-national because it is clearly based out of the US.  A transnational company is much more decentralized often purchasing services from contractors rather than owning them directly.  This way, the company is not directly responsible for the contractors - they can cut themselves off and fluidly move into another country rather than having to face the legal rammifications. [[User:Graniterock|Graniterock]] 20:58, Mar 5, 2005 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[Multinational corporation]]. Please take a moment to review [[special:diff/814546183|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20031222070819/http://yaleglobal.yale.edu/about/globalinc.jsp to http://yaleglobal.yale.edu/about/globalinc.jsp
+*Added archive https://web.archive.org/web/20150207085730/http://www.kb.nl/themas/geschiedenis-en-cultuur/koloniaal-verleden/voc-1602-1799 to http://www.kb.nl/themas/geschiedenis-en-cultuur/koloniaal-verleden/voc-1602-1799
+*Added archive https://web.archive.org/web/20060909191922/http://www.unctad.org/Templates/Page.asp?intItemID=2095&lang=1 to http://www.unctad.org/Templates/Page.asp?intItemID=2095&lang=1
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 13:06, 9 December 2017 (UTC)
+
+== External links modified (February 2018) ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Multinational corporation]]. Please take a moment to review [[special:diff/824570018|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20150207185212/http://www.uib.cat/congres/ecopub/ecineq/papers/011Angeles.pdf to http://www.uib.cat/congres/ecopub/ecineq/papers/011Angeles.pdf
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 04:00, 8 February 2018 (UTC)
+{{Automatic archive navigator}}
+
+== where are these examples from? ==
+
+'''included (what for?):'''
+
+[[Apple Computer]]      (Revenue  $ 13.93 billion USD)
+
+[[Fonterra]]            (Revenue  $  6.80  billion USD)
+
+[[Google]]              (Revenue  $  3.19 billion USD and ''multi''national??)
+
+[[Kyocera]] 
+
+[[Nike,_Inc.|Nike]]                (Revenue  $ 13.74 billion USD)
+
+[[Nintendo]]            (Revenue  $  4.64 billion USD)
+
+[[Nortel Networks]]     (Revenue  $  9.82 billion USD)
+
+[[Parmalat]]            (both bankrupt and never a truly big player)
+
+[[Schlumberger]]        (Revenue  $ 17.46 billion USD)
+
+[[Yahoo!]]              (Revenue  $  3.57 billion USD !!)
+
+
+
+'''not included (why not?):'''
+
+[[Allianz]]             (Revenue  $128.00 billion USD)
+
+[[Altria Group]]        (Revenue  $ 89.61 billion USD)
+
+[[AXA]]                 (Revenue  $ 72.00 billion USD)
+
+[[Boeing]]              (Revenue  $ 52.45 billion USD) 
+
+[[Chevron Corporation]] (Revenue  $155.30 billion USD) !!
+
+[[Citigroup]]           (Revenue  $108.28 billion USD)
+
+[[ConocoPhillips]]      (Revenue  $136.90 billion USD) !!
+
+[[DaimlerChrysler]]     (Revenue  $19.32 billion USD) !!
+
+[[ING Group]]           (Revenue  $ 92.80 billion USD)
+
+[[Samsung]]             (Revenue  $116.80 billion USD) 
+
+[[Siemens AG]]          (Revenue  $ 75.17 billion USD)
+
+[[Total S.A.|Total]]               (Revenue  $159.00 billion USD) !!
+
+[[Volkswagen AG]]       (Revenue  $156.00 billion USD) !!
+
+... and quite a few other more worthy candidates
+
+
+[[User:IcycleMort|Sebastian Leibnitz]] &#124; &#91;&#91;User talk:Name&#124;Talk]] 23:57, 29 November 2005 (UTC)
+
+
+:: I'll change the lot if there is no complain... [[User:IcycleMort|Sebastian Leibnitz]] &#124; &#91;&#91;User talk:Name&#124;Talk]] 22:33, 17 January 2006 (UTC)
+
+::: Yes please. I was going to ask the same question. [[Airbus]] ($34 b) can be used as example of multinational corporation from the beginning. [[User:Pavel Vozenilek|Pavel Vozenilek]] 22:02, 18 February 2006 (UTC)
+
+==Demarcation between Multinational==
+i think this sucks 86.138.113.59|86.138.113.59]] ([[User talk:86.138.113.59|talk]]) 07:49, 1 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==Untitled==
+HARPREET DUSANJH
+RESEARCH FELLOW,
+INDIA
+
+YOU DONT NEED TO TALK IN ALL CAPS
+
+DAVID BOWMAN,
+EDIT NINJA,
+BEHIND YOU
+
+The difference = there isn't any major difference as such.  It is a term which has evolved over time - multinational corporation being the first title and transnational being the more modern name.  This is because corporations now operate transnationally abroad - not just nationally or regionally as competition has become more fierce/widepsread.  So, as the term suggests, as the multinational companies have advanced into markets overseas and worldwide, they have become transnational - rather than just multinational or regional.  Any standard IPE (International Political Economy) textbook will outline this for you. 
+
+([[User:NightShade101|NightShade101]] ([[User talk:NightShade101|talk]]))  <small>—Preceding [[Wikipedia:Signatures|comment]] was added at 22:13, 16 December 2007 (UTC)</small><!--Template:Undated--> <!--Autosigned by SineBot-->
+
+== multinationals in sectors of economis ==
+
+hi,i would like to know what attracts multinational corporations to specific sectors of the economy.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/217.21.112.18|217.21.112.18]] ([[User talk:217.21.112.18|talk]]) 11:00, 28 February 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== multinational companies are a big drawback for devoleping contries like INDIA ==
+
+''''''india one of a prestigious devoleping nation''''  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/58.68.95.59|58.68.95.59]] ([[User talk:58.68.95.59|talk]]) 11:39, 17 July 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==Unsubstantiated==
+''Avoiding transport cost is not really an incentive because transportation costs, at least on a large scale, are generally relatively cheap relative to the price of the product. Only heavy or large products may need to be produced in the market they are intended to sell in, products such as building materials.''  Ah, no. Try moving liquid oxygen or any other industrial gas across long distances and you'll find that the transport costs are prohibitive. Many chemicals -- very light -- are in the same category. (The comment also isn't sourced.)
+
+''Many MNCs are large in relation to the national income of the countries in which they are located. This means that it is not as easy for the host governments to enforce national laws on MNCs.'' How does a government's failure to enforce its own laws end up in an "ethical issues" section of an article on MNCs? Wouldn't this be better placed in an article on corruption or poor governance?
+
+''In a highly competitive world, companies seek to reduce their costs as much as possible. The prospect of a foreign company setting up in a country where labour is cheap is attractive both for the company and the host country's government.'' Labor is, in very, very many cases, an insignificant portion of total production costs. 
+
+In general, I find this article to be bias against MNCs. [[User:DOR (HK)|DOR (HK)]] ([[User talk:DOR (HK)|talk]]) 08:47, 20 August 2008 (UTC)
+
+==Copyright problems==
+This article was listed for evaluation at [[Wikipedia:Copyright problems/2009 April 26]]. The section on "Market imperfections" infringes on the 2000 book ''[http://books.google.com/books?id=mXjeiQYR088C&printsec=frontcover#PPA73,M1 The nature of the transnational firm]'' with a combination of close paraphrase and direct duplication, both comprehensive non-literal similarity and fragmented literal similarity. For example, compare the text in our article: "If there are unique assets of value overseas, why not sell or rent these assets to local entrepreneurs, who could then combine them with local factors of production at lower costs than those experienced by foreign direct investors?" with the source: "'''If''' a firm has some '''unique assets of value overseas, why not sell or rent those assets to local entrepreneurs, who could then combine them with local factors of production at lower costs than those experienced by foreign direct investors?'''" (emphasis added) The duplication continues, with the next sentence (for example) copied verbatim. While the source is cited, we cannot duplicate text from other sources or closely paraphrase them to comply with our [[WP:C|copyright policy]] (see also [[Wikipedia:CFAQ#Can_I_add_something_to_Wikipedia_that_I_got_from_somewhere_else.3F|the copyright FAQ]]). Duplicated text used under [[fair use]] must comply with our [[WP:NFC|non-free content guidelines]], which sets out those ''limited'' circumstances under which text may be duplicated verbatim and requires that duplicated text be properly noted with quotation marks. Given the extensiveness of duplication here, the entire section will need to be removed or revised, unless [[Wikipedia:Donating copyrighted materials|permission to use it can be verified]]. It has been blanked to allow time to address these concerns. --[[User:Moonriddengirl|Moonriddengirl]] <sup>[[User talk:Moonriddengirl|(talk)]]</sup> 12:03, 4 May 2009 (UTC)
+:Additional discussion of this matter, including another example of duplicated text, is in [http://en.wikipedia.org/w/index.php?title=User_talk:Grochim&oldid=287834912 user talk]. --[[User:Moonriddengirl|Moonriddengirl]] <sup>[[User talk:Moonriddengirl|(talk)]]</sup> 12:49, 4 May 2009 (UTC)
+
+== I agree there are issues ==
+
+Was just passing through but agree about the biased nature of this article. The article in Answers.com, although different in nature (it comprises this wiki article and others), surpasses the wiki article. Answers.com's history of MNCs in its "U.S. Foreign Policy Encyclopedia" component is short but good. 
+
+http://www.answers.com/topic/multinational-corporation
+
+[[User:DonL|DonL]] ([[User talk:DonL|talk]]) 05:02, 5 June 2010 (UTC)
+
+== multinational vs. international ==
+
+Obviously this page has issues, but as per countless debates on Microsoft international and multinational are apparently totally seperate things.  Multinational means has most of it's offices in one country while also serving others where international means an equal allocation across the globe.  At least that's what an edit war 5-year years ago on that article and others resulted in.  It was a long time ago though, comments?  [[User:RN|RN]] 16:21, 8 July 2010 (UTC)
+
+== Requested move ==
+<div class="boilerplate" style="background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;"><!-- Template:RM top -->
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was: '''page moved'''. Note the target and the various capitalized versions are far and away the most common on the inbound links.  [[User:Vegaswikian|Vegaswikian]] ([[User talk:Vegaswikian|talk]]) 18:51, 7 August 2010 (UTC)
+
+----
+
+
+[[Multi-National Corporation]] → {{noredirect|1=Multinational corporation}} — Per the discussion above. I arrived at this page, was surprised to see the page titled this way, and then noticed that it was moved without consensus. It should be moved back to the previous title. <font face="Verdana">[[User:Gary King|<font color="#02b">Gary&nbsp;<b>King</b></font>]]&nbsp;<span style="font-size: 0.9em;">([[User talk:Gary King|<font color="#02e">talk</font>]]&nbsp;·&nbsp;[[User:Gary King/Scripts|<font color="02e">scripts</font>]])</span></font> 01:22, 1 August 2010 (UTC)
+
+:As per my above comment (as RN), I '''strongly agree''' with this request. [[User:Ryan Norton|Ryan Norton]] 11:37, 5 August 2010 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.</div><!-- Template:RM bottom -->
+
+== sections 3-8 ==
+
+Dear Readers,
+
+I have recently added sections 3-8 and I would appreciate if you have any suggestions that I can make to make these sections better in any way.
+
+Thank you  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Alkhalifa.m|Alkhalifa.m]] ([[User talk:Alkhalifa.m|talk]] • [[Special:Contributions/Alkhalifa.m|contribs]]) 17:05, 31 March 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Potential resource from [[Talk:Global financial system]] ...   ==
+
+[http://www.sciencenews.org/view/generic/id/333389/title/Financial_world_dominated_by_a_few_deep_pockets Financial world dominated by a few deep pockets -- Economic “superentity” controls more than one-third of global wealth] by Rachel Ehrenberg [[Science News]] Monday, August 15th, 2011, related to [[Talk:Wealth]].  On [[arXiv]], excerpt ... {{Quotation|In 2007, a mere 147 companies controlled nearly 40 percent of the [[monetary value]] of all [[transnational corporations]] ... }}  [[Special:Contributions/99.181.145.108|99.181.145.108]] ([[User talk:99.181.145.108|talk]]) 06:02, 20 August 2011 (UTC)
+
+== Resource [[Vanity Fair (magazine)|Vanity Fair]] September 2011 ... ==
+
+[http://www.vanityfair.com/culture/features/2011/09/chinese-hacking-201109 Enter the Cyber-dragon]  {{Quotation| NATIONAL SECURITY  ''Enter the Cyber-dragon''  Hackers have attacked America’s defense establishment, as well as companies from [[Google]] to [[Morgan Stanley]] to security giant [[RSA (security firm)|RSA]], and fingers point to [[PRC|China]] as the culprit. The author gets an exclusive look at the raging [[Cyberwarfare|cyber-war]] — [[Operation Aurora]]! [[Operation Shady RAT|Operation Shady rat]] !—and learns why [[United States federal government|Washington]] has been slow to fight back. Related: [http://www.vanityfair.com/culture/features/2011/09/operation-shady-rat-201109  Michael Joseph Gross goes inside Operation Shady rat. ]}}  [[Special:Contributions/99.19.47.119|99.19.47.119]] ([[User talk:99.19.47.119|talk]]) 05:38, 23 August 2011 (UTC)
+Excerpt ... {{Quotation|[[Michael Hayden (general)|Michael Hayden]] was the director of the [[National Security Agency|N.S.A.]] and then the [[Central Intelligence Agency|C.I.A.]] during the period when the problem of Chinese [[Cyber spying|cyber-espionage]] developed. In a conversation with him about Operation Aurora, I asked what he believed to be the most significant fact about those intrusions.  He answered, “You see Google acting in some ways as nation-states used to act, exercising to the best of their ability some attributes traditionally associated with [[sovereign state]]s. ‘We’re going to break relationship’—cease doing business there, you know. It’s something I dwell on a lot. The cyberworld is so new that the old structures, you know—state, non-state, public, private—they all break down … The last time we had such a powerful discontinuity is probably the European discovery of the Western Hemisphere. At that point, we had some big, multi-national corporations — [[East India Company]] and [[Hudson’s Bay Company|Hudson’s Bay]] — that [[Non-state actor|acted as states]]. And I see elements of that with the big [[Microsoft]]s and Googles of the world. Because of their size, they actually are making decisions that have the impact of the kinds of decisions made in the halls of government. Google is not a state. But what constitutes Google’s inherent right of self-defense in this new environment against this kind of attack? I’m not accusing anyone of doing anything wrong. These situations are just so different. What do we believe would be legitimate for Google to do in response to this? Now, I don’t have answers. I really don’t know, but it’s a really good question.”}}  [[Special:Contributions/99.19.47.119|99.19.47.119]] ([[User talk:99.19.47.119|talk]]) 07:29, 23 August 2011 (UTC)
+
+== Multinational vs Transnational? ==
+
+I have to verify this - but I have been lead to beleive that a Multinational company is what is described on the page with a centrailzed head quarters.  A transnational company has no "head office" and move whatever base of operations it has fluidly between its national offices.
+
+If this ends up being correct should I create a new article and disable the redirects?  Or am I better to just make a note of it within the page itself?
+
+Thanks! - Graniterock
+
+:: I would suggest to make a note on "the page itself" and then redirect transnational company to this page. --[[User:PBS27|PBS27]] 15:35, 30 October 2005 (UTC)
+
+:: graniterock - make a new page and interlink the two somewhere; by the way, i believe you are right![[User:213.6.36.71|213.6.36.71]] 11:33, 6 November 2005 (UTC)
+
+:: Does a software development company come under MNC? Although, there is no physical things produced, but they happen to run their operations across two or more countries. Especially in case of Arabic Countries, at times it is easier to have a small office set up over there to keep operations costs low, while transfer the development job to India or China or wherever. [[User:Npindia|Npindia]] 00:16, 23 January 2006 (UTC)
+
+:: A multinational and a transnational are definitely not the same thing.  A multinational operates in two or more countries simultaneously but is based in (has a headquarters in) just one country.  Walmart and Coca Cola are multinationals.  A transnational has significant operations in more than one country simultaneously and decentralizes decision-making to the local countries.  They don't try to run their foreign ops from home; nationals are typically hired to run things in each country.  Nestle and Frito-Lay are transnationals.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Marlief|Marlief]] ([[User talk:Marlief|talk]] • [[Special:Contributions/Marlief|contribs]]) 15:38, 29 June 2010 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+
+==
+
+I agree, multinationals and transnationals differ. Multinationals may operate as subsets of our transnational organization. I say this as Mathematics, consistent with logic and the biosphere, oriented as world citizen, updating the definitions of if and money as a sub-activity of my masters degree thesis in Mathematics at Simon Fraser University, thereby demonstrating local = global. Multinational entities, of which I also am one, are subsets of Mathematics + logic + the biosphere updating if + money and reconciling monopoly + ubiquity. 
+
+[[User:JenniferProkhorov|JenniferProkhorov]] ([[User talk:JenniferProkhorov|talk]]) 17:29, 19 October 2011 (UTC)
+
+== Page move ==
+
+I note this article has just been moved (to Multi National Corporation (MNC)) without any prior discussion.  Does anyone agree with this?  I certianly don't.  For a start having an acronym embbeded in the title like that is an unlikely search term and goes against [[MOS:NAME]].  secondly "multi" is a prefix, not a word in its own right.  Against that we have a simple assertion that "Multi National Corporation (MNC)" (not even "Multi National Corporation") is the most commonly used term.  I was tempted to simply revert straight way but I'll give people a chance to comment first. [[User:Crispmuncher|Crispmuncher]] ([[User talk:Crispmuncher|talk]]) 13:32, 13 July 2010 (UTC)
+
+:It's a very odd move (with an edit summary of "widely recognized name"). Multinational is in most dictionaries now (with an origin from multi-national): the google hits for the double-word version are a mix of "Multi-National" and "Multi National," so it would seem to be that multi national is the older way of spelling it. [[User:RN|RN]] 14:31, 13 July 2010 (UTC)
+
+==
+
+Sounds like an inside joke, humourous and welcome. 
+
+[[User:JenniferProkhorov|JenniferProkhorov]] ([[User talk:JenniferProkhorov|talk]]) 17:32, 19 October 2011 (UTC)
+
+== Was Dutch East India Company the first multinational? ==
+
+I believe this article (http://www.bartleby.com/65/fu/Fugger.html) proves otherwise.
+
+
+The Dutch were the first.Not the British.
+
+The answer is neither, and such arguments get nowhere. Like most inventions defined retrospectively, this one developed in stages - a decent article should reflect the complexity and simply show the development of the idea of a multinational company and not state which was 'first'. The British EIC was founded two years earlier than the VOC. If there is some technical/legalistic reason some academic has defined the terms so that the VOC qualified by the the British EIC didn't (i.e., the stock, this should be explained - but that doesn't square with the definition given here, so the article's claim is suspect. [[User:Harsimaja|Harsimaja]] ([[User talk:Harsimaja|talk]]) 18:27, 18 June 2011 (UTC)
+
+:I would argue that the Templars were the first multinational in terms of business. They capitalized on their immense wealth and holdings to more than one country (and government)... way before the Dutch imagined or the British established the "East India Trading Company". [[User:Rarelibra|Rarelibra]] 15:03, 26 October 2006 (UTC)
+
+:Perhaps the whole part about the Knight's Templar should just be removed, until a conclusion can be made.  It doesn't seem very encyclopedic to say "Some believe A, while others believe B", without ever reaching a valid conclusion.  Make up your mind, and if a different conclusion is discovered to be correct, change the article to reflect it. [[User:Sandwiches99|Sandwiches99]] 02:39, 29 October 2007 (UTC)
+
+Don't assume that because you've thought of something earlier, it's the earliest - there are many candidates out there. If you're going to redefines terms so far as to include the Templars (a bit sensationalist and rather indefensible...), there are a great many more candidates even in the ancient world, many of them - gasp - not Western. For stricter definitions, don't forget the (nec. later) Hanseatic League and Muscovy Company. [[User:Harsimaja|Harsimaja]] ([[User talk:Harsimaja|talk]]) 18:27, 18 June 2011 (UTC)
+
+I think the article should not try to state who was first, just as an article on the car/computer/television etc. should not try to establish who was first - not because historians are clueless, but because when things develop in stages the idea of being 'first' overall can be ill-defined (giving patriots of various countries lots to bitch about). Hence the oft-used phrase 'the first modern...' - which is even more iffy. When a conclusion has to be subjective, it is NOT encyclopedic to reach a 'valid' conclusion, whatever that might be here. [[User:Harsimaja|Harsimaja]] ([[User talk:Harsimaja|talk]]) 18:37, 18 June 2011 (UTC)
+
+: This Dutch/English east indies company stuff should be removed. There were many trading companies that precede them - in England alone, there were the Merchant Staplers, the Merchant Adventurers, the Muscovy Company, the Levant Company, etc.   
+* To clarify on the "stock" issue: In the early 1600s, the English EIC only raised enough capital for one journey at a time; after that expedition returned, profits were distributed, ships sold off and investors liquidated; the EIC would then have to start afresh, raise new capital for the next expedition, and so on.  The VOC started off 1602 with a joint stock for multiple expeditions, initially 10 years-worth but then stretched that out permanently.  The EIC only introduced "joint stock", i.e. multiple-journey capital (four-years worth), in 1613.  On that front, the VOC certainly pips EIC as the "first" in the East Indies.  
+* If anyone wants to insist that joint stock is not a criteria, than I can list over a half-dozen Dutch companies (''voorcompagnie'') that were formed in 1594-1600 to trade in the east indies, each of which was formed before the EIC, and each of which raised far, far more capital and sent more expeditions to the East Indies than the EIC did (that is, until they were all force-mergered into the VOC in 1602).  
+* Contrariy, if anyone wants to insist joint stock is a criteria, then the Muscovy Company (1555) and Levant company (1581) had joint stock well before any of the East Indies companies.
+
+In short, trying to make historical claims for the "first" MNC is a ridiculous endeavor.  Either include a history of all overseas trading companies - which means starting with the Italians & Germans, which precede the Dutch & English - or just delete that paragraph.  [[User:Walrasiad|Walrasiad]] ([[User talk:Walrasiad|talk]]) 10:39, 27 November 2011 (UTC)
+
+== This article has multiple issues ==
+
+Including:  highly POV, copyright infringement (but see below), essay-like, lack of citations
+
+The main part of the article may be disguised advertising for the book cited, or may simply be done by a fan of the author.  How this made it above start class, I don't know.
+
+Any takers for major rewrite?[[User:Sfcardwell|Sfcardwell]] ([[User talk:Sfcardwell|talk]]) 04:43, 26 May 2010 (UTC)
+
+:It looks like this article hasn't been revised much since the "essay" and "POV" tags were added more than 18 months ago.  I am not in a position right now to do a major rewrite, but I can begin the process by removing and rewording the more troubling sections.  From looking at the article as it exists now, there is a large amount of material that probably needs to go.  I don't want to claim ownership of this article, but I would like to strip it back to a basic set of facts from which a properly written article could be extended.  - Authalic 21:41, 6 December 2011 (UTC)
+
+== removing POV tag with no active discussion per [[Template:POV]] ==
+
+I've removed an old POV template with a dormant discussion, per the instructions on that template's page:
+::This template is not meant to be a permanent resident on any article. Remove this template whenever:
+::#There is consensus on the talkpage or the NPOV Noticeboard that the issue has been resolved
+::#It is not clear what the neutrality issue is, and no satisfactory explanation has been given
+::#In the absence of any discussion, or if the discussion has become dormant.
+If editors are continuing to work toward resolution of any issue and I missed it, however, please feel free to restore. Cheers, -- [[User:Khazar2|Khazar2]] ([[User talk:Khazar2|talk]]) 01:12, 14 December 2012 (UTC)
+
+== Dr. Berghall's comment on this article ==
+
+
+Dr. Berghall has reviewed [https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=730979343 this Wikipedia page], and provided us with the following comments to improve its quality:
+
+
+{{quote|text=The article is biased. The positive view of MNEs has found them productive and technologically advanced. Helpman, Melitz and Yeaple (2004) show that more productive firms export, while the most productive ones invest abroad. At the theoretical level, Dunning (1981), Markusen (e.g., 1995) and Helpman (1984) refer to firm-specific advantages that parent firms share with their subsidiaries and/or plants. Hymer (1960) originally categorized as owner- or firm-specific advantages access to raw materials, economies of scale, intangible assets, superior management etc. In Dunning’s eclectic paradigm, i.e., the so-called OLI theory (ownership-specific, location-specific and internalization advantages), firm-specific advantages refer particularly to assets such as knowledge capital, which can be easily replicated and transferred within the firm across countries, without incurring high transaction costs or knowledge leakages.  Yet, FDI and trade are important vehicles of international technology diffusion (Keller 2004). 
+
+There is evidence showing that the higher productivity is related to the multinational character of the firms, rather than their foreign-ownership (see e.g., Martin and Criscuolo 2002, Criscuolo and Martin 2009; Griffith et al. 2002 for the UK; Doms and Jensen 1998 for the US; Globerman 1979 for Canada).  Original firm specific advantages that allowed firms to go global in the first place may have been further enhanced by their exposure to fierce international competition, ability to source technologies globally, organize their operations efficiently on the global scale, etc. Moreover, FDI is linked to high-tech industries (Griffith et al. 2002, Blomström and Kokko 2003) 
+
+
+Blomström, Magnus and Kokko, Ari, (2003): Human Capital and Inward FDI, CEPR Discussion Papers, C.E.P.R. Discussion Papers, No 3762, http://papers.ssrn.com/sol3/papers.cfm?abstract_id=387900
+
+Criscuolo, Chiara and Ralf Martin (2009): Multinationals and U.S. Productivity Leadership: Evidence from Great Britain, The Review of Economics and Statistics, Vol. 91, No. 2, Pages 263-281. 
+
+Doms, Mark E. and J . Bradford Jensen (1998): Comparing Wages, Skills, and Productivity between Domestically and Foreign-Owned Manufacturing Establishments in the United States, NBER Chapters, in: Geography and Ownership as Bases for Economic Accounting, pages 235-258. National Bureau of Economic Research, Inc.
+
+Dunning, J.H. (1981): International Production and the Multinational Enterprise. George Allen and Unwin.
+
+Globerman, Steven (1979): Foreign Direct Investment and `Spillover' Efficiency Benefits in Canadian Manufacturing Industries, Canadian Journal of Economics, Canadian Economics Association, vol. 12(1), pages 42-56, February.
+
+Griffith, Rachel, Helen Simpson and Stephen Redding (2002): Productivity convergence and foreign ownership at the establishment level, IFS Working Papers W02/22, Institute for Fiscal Studies. http://www.ifs.org.uk/publications
+
+Helpman, E., (1984): A simple theory of international trade with multinational corporations. Journal of Political Economy, 92:451477. 
+
+Helpman, E., M. Melitz and S. Yeaple (2004): Export versus FDI with Heterogenous Firms, American Economic Review, Vol.94, No.1, pp. 300-316.
+Dunning (1981),
+
+Hymer, S. H. (1960): “The International Operations of National Firms: A Study of Direct Foreign Investment”. PhD Dissertation. Published posthumously. The MIT Press, 1976. Cambridge, Mass. http://dspace.mit.edu/handle/1721.1/27375
+
+Keller, Wolfgang 2004. "International Technology Diffusion," Journal of Economic Literature, American Economic Association, vol. 42(3), pages 752-782, September.
+
+Markusen, J. R. (1995): The boundaries of multinational enterprise and the theory of international trade. Journal of Economic Perspectives, 9(2): 169-186. 
+
+Martin, Ralf & Chiara Criscuolo, (2002): A note on ownership and productivity in UK businesses, United Kingdom Stata Users' Group Meetings 2002 6, Stata Users Group.
+
+}}
+
+
+We hope Wikipedians on this talk page can take advantage of these comments and improve the quality of the article accordingly.
+
+We believe Dr. Berghall has expertise on the topic of this article, since he has published relevant scholarly research:
+
+
+
+*'''Reference ''': Cees van Beers & Elina Berghall & Tom Poot, 2007. "R&D Internationalization, R&D Collaboration and Public Knowledge Institutions in Small Economies Evidence from Finland and the Netherlands," DRUID Working Papers 07-12, DRUID, Copenhagen Business School, Department of Industrial Economics and Strategy/Aalborg University, Department of Business Studies.
+
+[[User:ExpertIdeasBot|ExpertIdeasBot]] ([[User talk:ExpertIdeasBot|talk]]) 16:59, 27 July 2016 (UTC)
+
+==Alleged copyright violation==
+
+Never remove an article from Wikipedia for copyright reasons without first checking backwards copy. Backwards copy is now very popular on the web. The copyright date on the external article is 2016, but the material was already present in Wikipedia in April 2015. For example in
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=655920741
+
+Further, this material had been developed within Wikipedia over a period of several years.
+
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=643106253 from Jan 2015
+overlaps the external article in six sentences:
+"A transnational corporation (TNC) differs from a traditional MNC in that it does not identify itself with one national home. While traditional MNCs are national companies with foreign subsidiaries,[10] TNCs spread out their operations in many countries sustaining high levels of local responsiveness.[11] An example of a TNC is Nestlé who employ senior executives from many countries and try to make decisions from a global perspective rather than from one centralized headquarters.[12] Another example of a Transnational Corporation is the Royal Dutch Shell corporation whose headquarters may be in The Hague, Netherlands but its registered office and main executive body where the decisions are made is headquartered in London, United Kingdom. Anti-corporate advocates criticize multinational corporations for entering countries that have low human rights or environmental standards.[13] The aggressive use of tax avoidance schemes allows multinational corporations to gain competitive advantages over small and medium-sized enterprises.[14] Organizations such as the Tax Justice Network criticize governments for allowing multinational organizations to escape tax since less money can be spent for public services."
+
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=612323384 from Jun 2014
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=590079921 from Jan 2014
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=558002420 from Jun 2013
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=530832435 from Jan 2013
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=495504748 fron Jun 2012
+overlap the external article in four sentences:
+"A transnational corporation (TNC) differs from a traditional MNC in that it does not identify itself with one national home. While traditional MNCs are national companies with foreign subsidiaries,[9] TNCs spread out their operations in many countries sustaining high levels of local responsiveness.[10] An example of a TNC is Nestlé who employ senior executives from many countries and try to make decisions from a global perspective rather than from one centralized headquarters. Anti-corporate advocates criticize multinational corporations for entering countries that have low human rights or environmental standards."
+
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=483267801 from Mar 2012
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=473094788 from Jan 2012
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=436091968 from Jun 2011
+https://en.wikipedia.org/w/index.php?title=Multinational_corporation&oldid=409323828 from Jan 2011
+overlap the external article in three sentences:
+"A Transnational Corporation (TNC) differs from a traditional MNC in that it does not identify itself with one national home. Whilst traditional MNCs are national companies with foreign subsidiaries,[5] TNCs spread out their operations in many countries sustaining high levels of local responsiveness.[6] An example of a TNC is Nestlé who employ senior executives from many countries and try to make decisions from a global perspective rather than from one centralised headquarters."[[User:Mollwollfumble|Mollwollfumble]] ([[User talk:Mollwollfumble|talk]]) 19:11, 30 November 2016 (UTC)

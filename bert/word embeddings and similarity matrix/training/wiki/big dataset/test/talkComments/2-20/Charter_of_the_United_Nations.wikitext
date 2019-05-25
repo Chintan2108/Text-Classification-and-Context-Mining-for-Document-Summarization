@@ -1,0 +1,113 @@
+{{Vital article|topic=Society|level=5|class=Start}}
+{{American English}}
+{{WikiProjectBannerShell|1=
+{{WikiProject International relations |class=C |importance=high |un=yes}}
+{{WikiProject Politics |class=C |importance=mid}}
+{{WikiProject California |class=C |importance=low |sfba=yes |sfba-importance=high}}
+{{WikiProject National Archives |class=C |importance=top |ARC=5730932}}
+}}
+{{On this day|date1=2004-06-26|oldid1=5150581|date2=2005-06-26|oldid2=16335270|date3=2005-10-24|oldid3=26354137|date4=2006-06-26|oldid4=60744893|date5=2006-10-24|oldid5=83426817|date6=2007-10-24|oldid6=166449508|date7=2008-06-26|oldid7=221919871|date8=2008-10-24|oldid8=246892292|date9=2012-10-24|oldid9=519490034|date10=2013-10-24|oldid10=578367540|date11=2015-10-24|oldid11=686943375|date12=2018-10-24|oldid12=865520363}}
+
+{{merged-from|Chapter XIX of the United Nations Charter|date=5 October 2017}}
+
+==Untitled==
+Why is it particularly relevant that the US ratified the treaty? - [[User:Khendon|Khendon]] 10:10 Oct 10, 2002 (UTC)
+
+Aha! I know, being the poster of that sentence. The relevance is that as the law of the United States the President of the United States is bound by the terms of the Charter; thus, the [[Bush doctrine]] is arguably in violation of law. (However, it is just a law and can be modified by statute, as the current (Ocober 10, 2002) resolutions being debated in Congress might do) [[User:Fredbauder]]
+
+Does the sentence I just added suit you, then? - [[User:Khendon|Khendon]] 13:55 Oct 10, 2002 (UTC)
+
+No, the United States is not a parlimentary democracy, thus attempts by the executive branch to act in violation of a United States statute have a significance different from an action by a prime minister. As far as nations being obligated by treaty, that's good in theory, but only in a few countries, and probably only in the United States could that form a complaint in a court that might eventually be granted relief. I think as a true statement, which conveys significant information, it should stay absent some overriding concern requiring its deletion. [[User:Fredbauder]]
+
+Then that point should be explicitly made, rather than just an arbitrary-seeming
+statement about one particular country. - [[User:Khendon|Khendon]] 08:01 Oct 11, 2002 (UTC)
+
+:Because it never ratified the [[Treaty of Versailles]], thus staying out of the [[League of Nations]], which was ultimately a fiasco? (Or looking at the previous text, probably just because the poster was looking at the legal aspect from a US point of view.) --[[User:Brion VIBBER|Brion]] 10:20 Oct 10, 2002 (UTC)
+
+<i>UN Charter question moved to [[Wikipedia:Reference Desk]] by [[User:Mattworld|Mattworld]]</i>
+
+== Bush Doctrine in UN Charter ==
+
+I think the issue of the Bush Doctrine and the UN Charter is a valid subject, but it doesn't belong in an article about the UN Charter, but rather in the already existing article about the [[Bush Doctrine]].
+
+:I concur. I'd rather see an annotated text of the charter, if it can be reproduced here, and a history of its development and noting nations that haven't ratified it. [[User:Mkilly|Mkilly]] 07:38, 20 Sep 2004 (UTC)
+
+If the issue is nations ignoring the UN Charter, there are many, including most of the major powers, not to mention that the US and all of NATO simply bypassed the UN to wage war in former Yugoslavia, because they knew Russia would veto it in the Security Council. If there is no reasonable onjection, I intend to move the material. [[User:Cecropia|Cecropia]] 06:04, 8 Mar 2004 (UTC)
+
+I do not agree NATO was not set up to be indecisive when it came to such matters as yugoslavia. so it it were neccessary for them to get UN approval it would be rediculous to think that they could then be able to react swiftly to any such matters.
+
+:I agree, but the material was still here, so I've moved it and made a link there.  [[User:SpaceFrog|SpaceFrog]] 17:46, 13 Oct 2004 (UTC)
+
+== New Picture ==
+
+Found a picture my Dad has of President Truman signing the Charter, inludes Senator Arthur Vandenburg, Harold Stassen, and, of course, Truman. Should I upload it to replace the current photo of the Egyptian Delegation?- Ben of Oz
+
+==Language template poll==
+A poll as to whether or not the language template should be included in this article is being conducted at [[Talk:United_Nations_Commission_on_Human_Rights#Poll]] [[User:Raul654|Raul654]] 19:41, 12 April 2006 (UTC)
+
+==Bricker Amendment==
+For some time I have been working on revisions to the [[Bricker Amendment]] article.  I finally posted it and have a PR at [[Wikipedia:Peer review/Bricker Amendment/archive1]].  I'd welcome comments.  I know all those references may seem extravagant, but I'm hoping to get it as an FA and those voters want lots of footnotes.  [[User:PedanticallySpeaking|PedanticallySpeaking]] 16:26, 1 July 2006 (UTC)
+
+== External links ==
+
+There are currently five different links to the text of the charter, which is rather excessive.  Surely a link to the official site and/or the Wikisource text are all that's needed.  [[User:Silverhelm|Silverhelm]] 06:33, 19 December 2006 (UTC).
+
+== The rest of it? ==
+
+As I understand it, there are nineteen chapters. We only have two here. Does anyone else see a distinct lack of information? [[Special:Contributions/125.238.89.244|125.238.89.244]] ([[User talk:125.238.89.244|talk]]) 19:53, 17 February 2008 (UTC)
+
+:Yes, but the links are there for the rest of it.  I actually came here looking for a list of signatories and was surprised that it's not here.  IIRC, the USSR, Ukraine, and Byelorussia all signed separately giving the USSR 'de facto' 3 votes.  If I can find a list of signatories, I'll post them here. [[Special:Contributions/138.162.128.55|138.162.128.55]] ([[User talk:138.162.128.55|talk]]) 03:42, 24 October 2008 (UTC)  NB: found and added [[Special:Contributions/138.162.128.54|138.162.128.54]] ([[User talk:138.162.128.54|talk]]) 03:46, 24 October 2008 (UTC)
+
+==Requested move==
+I'm requesting this article be moved to [[Charter of the United Nations]], as per the charter's official name given [http://www.un.org/aboutun/charter/ here] and [http://en.wikisource.org/wiki/Charter_of_the_United_Nations here]. Unable to move the page using the move tab. --[[User:Joowwww|Joowwww]] ([[User talk:Joowwww|talk]]) 14:37, 21 July 2008 (UTC)
+:Per [[Wikipedia:Naming conventions]], the standard is to use the most common name, not necessarily the official name.  In this case, the charter is most commonly known as the United Nations Charter or UN Charter.  [[User:Polemarchus|Polemarchus]] ([[User talk:Polemarchus|talk]]) 16:10, 21 July 2008 (UTC)
+::Actually you're right, don't bother it would mean moving all the chapter article pages too. Request withdrawn. --[[User:Joowwww|Joowwww]] ([[User talk:Joowwww|talk]]) 21:59, 22 July 2008 (UTC)
+
+==Pdf of signed Charter==
+Any one know if there is a pdf on the net of the above? I would like to see the signatures etc. Regards. [[User:Redking7|Redking7]] ([[User talk:Redking7|talk]]) 09:11, 21 June 2009 (UTC)
+
+:I think [http://treaties.un.org/doc/Publication/CTC/uncharter.pdf this] is it. --[[User:Mathew5000|Mathew5000]] ([[User talk:Mathew5000|talk]]) 01:13, 2 February 2010 (UTC)
+
+::That's quite a good external link - I've added it to the list. [[User:WikiLaurent|Laurent]] ([[User talk:WikiLaurent|talk]]) 01:39, 2 February 2010 (UTC)
+
+:::From [http://treaties.un.org/Pages/CTCs.aspx treaties.un.org/Pages/CTCs.aspx] you can get to some useful related pdfs, such as a single file with [http://treaties.un.org/doc/Publication/CTC/uncharter-all-lang.pdf all five language versions] of the original Charter, plus materials on the three amendments. Also it's worth mentioning the publication ''Multilateral Treaties Deposited with the Secretary-General'', which you can download in three volumes: [http://treaties.un.org/doc/source/publications/MTDSG/2009/English-I.pdf][http://treaties.un.org/doc/source/publications/MTDSG/2009/English-II.pdf][http://treaties.un.org/doc/source/publications/MTDSG/2009/English-III.pdf]. (Those pdfs are very large, so you should "save target as" on them instead of opening them in a web browser.) The first volume contains some information on the specific dates that each of the original UN members ratified the Charter (which you can also find [http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=I-1&chapter=1&lang=en here]). --[[User:Mathew5000|Mathew5000]] ([[User talk:Mathew5000|talk]]) 03:26, 3 February 2010 (UTC)
+
+== Link to nonexistent image of signing ceremony removed ==
+
+[http://en.wikipedia.org/w/index.php?title=United_Nations_Charter&action=historysubmit&diff=408291379&oldid=408096714 Here], I've removed the infobox link to what appears to be the latest in a longstanding series of nonexistent images or redirects. Perhaps one of the images [http://untreaty.un.org/cod/avl/ha/cun/cun_photo.html here] might be suitable (I don't know their copyright status -- perhaps images at the un.org website are public domain ??) [[User:Wtmitchell|Wtmitchell]]  [[User talk:Wtmitchell|(talk)]] <small>(earlier ''Boracay Bill'')</small> 23:17, 16 January 2011 (UTC)
+
+== Vandalizing admin ==
+
+ 20:49, 24 April 2014 RHaworth (talk | contribs) deleted page Charta of the United Nations (R3: Recently created, implausible redirect)
+"Charta of the United Nations" is the name given in the introduction.
+
+It is vandalism to delete a redirect that is named so. [[User:ArmijaDonetsk|ArmijaDonetsk]] ([[User talk:ArmijaDonetsk|talk]]) 22:07, 24 April 2014 (UTC)
+
+:I think you're trolling, but I'll bite anyway. It's not vandalism. Read the definition at [[WP:VANDALISM]]. The admin did not carry out a "''deliberate'' attempt to compromise the integrity of Wikipedia". [[User:Good Olfactory|Good Ol’factory]] <sup>[[User talk:Good Olfactory|(talk)]]</sup> 01:11, 25 April 2014 (UTC)
+:: Obviously ArmijaDonetsk was overlooking the difference between the correct English spelling "charter" and his misspelling "charta". I wouldn't call that an "implausible" misspelling though, so I find redirects from those misspellings at least worthy of consideration. It's "charta", "carta" or something similar in so many other languages that many non-native readers of English Wikipedia might easily look for it under such a spelling. I must admit that I myself, when I first saw these edits and deletions, was wondering "hey, what's wrong about those redirects, why didn't we have them all along?" [[User:Future Perfect at Sunrise|Fut.Perf.]] [[User talk:Future Perfect at Sunrise|☼]] 15:40, 25 April 2014 (UTC)
+:::My apologies if this was not trolling. It just sounded so—silly, or rap-tastic, or something. [[User:Good Olfactory|Good Ol’factory]] <sup>[[User talk:Good Olfactory|(talk)]]</sup> 05:16, 29 April 2014 (UTC)
+
+== U.S. did not sign at the San Fran ceremony ==
+
+According to the [http://2001-2009.state.gov/r/pa/ho/pubs/fs/55407.htm U.S. State Dept.], Truman witnessed but did not sign the charter in June with the rest of the member nations. He had to wait until August, after the treaty had been ratified by the Senate. Have I read this wrong, or is the first paragraph of this article in need of adjustment? [[User:Krychek|Krychek]] ([[User talk:Krychek|talk]]) 21:27, 22 July 2014 (UTC)
+:Signing a treaty and ratifying it are two separate steps. The U.S. ratifies treaties by having a two-thirds majority vote in the Senate. Prior to this, the President or his representative can sign treaties, after which they are sent to the Senate for ratification. Truman did not sign the UN Charter at the conclusion of the S.F. Conference, but the U.S. Secretary of State [[Edward Stettinius, Jr.]] did, as did six other U.S. officials. The original signed copy of the UN Charter can be found [https://treaties.un.org/doc/publication/ctc/uncharter.pdf here], where you can view the original signatures by all countries that were done in S.F. [[User:Good Olfactory|Good Ol’factory]] <sup>[[User talk:Good Olfactory|(talk)]]</sup> 00:18, 24 July 2014 (UTC)
+Ah, that clears it up. Thank you. [[User:Krychek|Krychek]] ([[User talk:Krychek|talk]]) 19:05, 24 July 2014 (UTC)
+
+==Good Olfactory's 'simplifications==
+I think that the simplifications and clarifications from Good Olfactory make the article harder to read (for a newcomer who looks first at an encyclopedia article for an introduction).  I think that the editor has made the article harder to read, not easier to read, merely by taking out core 'bits' of useful, helpful information. [[User:MaynardClark|MaynardClark]] ([[User talk:MaynardClark|talk]]) 05:15, 25 November 2014 (UTC)
+:Specifically, what from [https://en.wikipedia.org/w/index.php?title=United_Nations_Charter&diff=635339975&oldid=635337138 this] is problematic? The main simplification was clarifying the extremely convoluted sentence in the lead that set out the five permanent members. There was no need to mention Chapter II in that sentence at all, IMO. [[User:Good Olfactory|Good Ol’factory]] <sup>[[User talk:Good Olfactory|(talk)]]</sup> 05:23, 25 November 2014 (UTC)
+
+== Requested move 15 November 2018 ==
+
+<div class="boilerplate" style="background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;"><!-- Template:RM top -->
+:''The following is a closed discussion of a [[WP:requested moves|requested move]]. <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on the talk page. Editors desiring to contest the closing decision should consider a [[Wikipedia:move review|move review]] after discussing it on the closer's talk page. No further edits should be made to this section. ''
+
+The result of the move request was: '''moved''' <small>([[WP:Page mover|page mover]] [[Wikipedia:Non-admin closure|nac]])</small><!--Template:Pnac-->  <u style="font:1.1em/1em Arial Black">[[User:Flooded with them hundreds|<u style="color:#7f2ed1">Flooded </u>]]<u style="color:#bfa6d8"><small>with them </small></u>[[User_talk:Flooded with them hundreds|<u style="color:#7f2ed1">'''hundreds'''</u>]]</u> 12:25, 22 November 2018 (UTC)
+----
+
+[[:United Nations Charter]] → {{no redirect|Charter of the United Nations}} – "United Nations Charter" is not the official name of the document. The UN and the ICJ use the phrase "Charter of the United Nations" [http://www.un.org/en/charter-united-nations/][https://treaties.un.org/doc/publication/ctc/uncharter.pdf][https://www.icj-cij.org/en/charter-of-the-united-nations]. [[User:Indy beetle|Indy beetle]] ([[User talk:Indy beetle|talk]]) 18:54, 15 November 2018 (UTC)
+*'''Support'''. The official name of the document also happens to be more commonly used, from what I can see. [[User:Good Olfactory|Good Ol’factory]] <sup>[[User talk:Good Olfactory|(talk)]]</sup> 20:05, 15 November 2018 (UTC)
+*'''Support''' "United Nations Charter" is just shorthand for the correct title.   [[User:Daemonickangaroo2018|Daemonickangaroo2018]] ([[User talk:Daemonickangaroo2018|talk]]) 18:31, 21 November 2018 (UTC)
+
+----
+:''The above discussion is preserved as an archive of a [[Wikipedia:Requested moves|requested move]]. <b style="color:red">Please do not modify it.</b> Subsequent comments should be made in a new section on this [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Move review|move review]]. No further edits should be made to this section.''<!-- Template:RM bottom --></div>

@@ -1,0 +1,34 @@
+{{talkheader}}
+{{WikiProjectBannerShell|1=
+{{Physics|class=start|acoustics=yes|importance=mid}}
+{{WikiProject Professional sound production|class=C|importance=Mid}}
+{{Engineering|importance=high|class=C}}
+}}
+
+The information here is very clear and seems accurate, but it could be expanded. Each section only has one or two paragraphs where a lot more information could provided. For example, in the Fundamental Science section you talk about absorption, reverberation, diffraction, and refraction; each term only gets a few sentences or so when they could each be expanded into their own paragraph or something. In short, Acoustical Engineering seems like a very broad topic and there is very little in depth because you only have a few paragraphs in each section and it would be nice if it was expanded a little bit. [[User:Mfziegler|Mfziegler]] ([[User talk:Mfziegler|talk]]) 16:30, 9 April 2010 (UTC)
+
+:Thank you for your comment. A classmate and I expanded the article from a stub for a class project. We agree that Acoustical Engineering is a broad topic and further expansion is necessary. Our goal was to get the article going by providing a starting point for on-going development. We tried to only briefly mention the fundamental science concepts (absorption, reverberation, diffraction, and refraction) because they each have separate Wikipedia pages. If these concepts are expanded on, the expansion should focus on applications and information specific to acoustical engineering. It may also be beneficial to add additional fundamental science concepts or information on instrumentation.
+
+This article is well written but definitely needs to describe in more detail how acoustics is applicable to practising engineers, in that it closely relates to principles derived from other mechanical, electrical and aeronautical engineering disciplines. Also, a focus on acoustics in the audible (sound) sense forms a skewed picture and only represents a small part of what problems a practising engineer will encounter. Acoustical engineers play critical roles in the design of everything from the structure of foundations to subsea piping systems. Perhaps it would be good to list the main areas that this discipline covers first and allow a framework for more detail to be added later? [[User:AcoustiMax|AcoustiMax]] ([[User talk:AcoustiMax|talk]]) 01:16, 20 November 2010 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Acoustical engineering]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=787568485 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20130730104616/http://www.apl.washington.edu/projects/ASA-UATC/index.php to http://www.apl.washington.edu/projects/ASA-UATC/index.php
+*Added archive https://web.archive.org/web/20131103180745/http://fubini.swarthmore.edu/~bbard/savtc.html to http://fubini.swarthmore.edu/~bbard/savtc.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 04:00, 26 June 2017 (UTC)
+
+== If ==
+
+https://www.poemhunter.com/poem/if/
+
+https://www.france24.com/en/20190105-clashes-erupt-paris-between-yellow-vest-protestors-police
+
+[[Special:Contributions/86.143.95.1|86.143.95.1]] ([[User talk:86.143.95.1|talk]]) 12:19, 25 January 2019 (UTC)

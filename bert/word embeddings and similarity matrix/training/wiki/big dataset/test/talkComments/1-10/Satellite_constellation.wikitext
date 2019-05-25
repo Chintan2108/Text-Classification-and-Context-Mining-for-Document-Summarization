@@ -1,0 +1,11 @@
+{{WikiProjectBannerShell|1=
+{{WikiProject Spaceflight|class=Start|importance=high|unmanned=yes|unmanned-importance=}}
+{{WikiProject United States|class=Start|importance=Low}}
+{{WikiProject Russia|class=Start|importance=Low|tech=yes}}
+}}
+
+
+==Untitled==
+The latency numbers quoted 125ms for geostationary satellites is a one-way number (from earth to satellite) 22000/186000. It would be more meaningful to quote the up/down number of 220ms.  Not knowing LEO well I can't comment on the 1-4ms, but that does seem like a very large dispersion from min to max.
+
+[[Special:Contributions/76.204.180.175|76.204.180.175]] ([[User talk:76.204.180.175|talk]]) 02:53, 1 April 2009 (UTC)

@@ -1,0 +1,30 @@
+{{Talk header}}
+{{Vital article|topic=Society|level=5|class=C}}
+{{WikiProject Business|class=C|importance=High}}
+{{WikiProject Education|class=C|importance=Mid}}
+
+{{User:ClueBot III/ArchiveThis|archiveprefix=Talk:Professional certification/Archives/|format=Y|age=26297|index=yes|archivebox=yes|box-advert=yes}}
+{{merged-from|Advanced Professional Certificate|19 October 2016}}
+
+== Architecture Certification Incorrect ==
+
+The American Institute of Architects (AIA) does not confer professional certification. That task is the responsibility of the National Council of Architectural Registration Boards (NCARB). Architectural certification is designated with an 'RA' after one's name, which stands for 'Registered Architect.' Once registered, members of the AIA are free to use 'AIA' or 'FAIA' in lieu of 'RA.'
+
+NCARB website:
+http://www.ncarb.org/
+
+I don't typically contribute to Wikipedia, so apologies if I'm not following proper protocol for comments.
+
+[[Special:Contributions/8.11.249.194|8.11.249.194]] ([[User talk:8.11.249.194|talk]]) 15:12, 21 June 2016 (UTC)
+
+== Copy Edit ==
+
+{{GOCE}}
+
+== Long lists ==
+
+This article is basically a long list of certifications based on very few reliable, independent sources. This is against [[WP:NOTDIRECTORY]], among other things. Should this just be gutted and only lists certifications with articles, per [[WP:WTAF|"write the article first"]]? That would be much easier to maintain. Another alternative is to ditch the list entirely, since this isn't a list article by name. The article is almost useless right now, since it does nothing to clearly differentiate between reputable certifications and spam/cert-mill junk. Any other options? [[User:Grayfell|Grayfell]] ([[User talk:Grayfell|talk]]) 00:21, 26 November 2016 (UTC)
+
+:Since this hasn't really gotten better in years, I've removed a lot of totally unsourced content from the article. I've tried to remove entries with no sources at all, no linked articles, or with only primary sources. I'm sure I missed some, and I'm also sure that some of these are legitimately noteworthy certifications, but as I said in 2016, the article does nothing to differentiate the good from the bad. [[User:Grayfell|Grayfell]] ([[User talk:Grayfell|talk]]) 02:27, 13 February 2018 (UTC)
+
+i need an editing certificate how i get  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2405:205:C885:F871:54:4ADB:7C90:FB70|2405:205:C885:F871:54:4ADB:7C90:FB70]] ([[User talk:2405:205:C885:F871:54:4ADB:7C90:FB70#top|talk]]) 03:40, 22 June 2018 (UTC)</small> <!--Autosigned by SineBot-->

@@ -1,0 +1,66 @@
+{{Talk header}}
+{{British English}}
+{{WikiProject banner shell|collapsed=yes|1=
+{{WikiProject Brands |class=B |importance=mid}}
+{{WikiProject Companies |class=B |importance=high}}
+{{WikiProject Computing |class=B |importance=Low |hardware=Yes |hardware-importance=Mid}}
+{{WikiProject Electronics |class=B |importance=mid}}
+{{WikiProject Korea |class=B |importance=mid}}
+}}
+{{User:ClueBot III/ArchiveThis|archiveprefix=Talk:Samsung Electronics/Archives/|format=Y|age=26297|index=yes|archivebox=yes|box-advert=yes}}
+
+== request for service on a Samsung refrigerator ==
+
+I would like to share my experiences w/ your service rep in the Philippines. In October 2014, I contacted them because my 5 year old ref was not cooling properly. They sent a service person to my home and his diagnosis was that I needed a new evaporator. Several days later, her advised that there was no such part in stock and even asked me to check myself a shop in Metro Manila that may deal w/ such parts. However, that shop did not have th part so I called upi the service rep again. He finally came back after several weeks waiting to tell me that the part was not available, so I asked him to please make a special order to Korea. I never heard from him again. In December, I got the email address of the service rep's supervisor and contacted her. She asked me to send the original receipt of the item (luckily I had kept it) which I sent. I did not hear from her until January when I called to inquire what had happened. She said that me request for compensation was denied because her manager could not read my receipt clearly. I told her 1) that I did not ask for compensation 2) the recipt I sent was, by her own admission a clear copy 3) all I was asking was assistance to replace my evaporator. Again no response. In march, I emailed her again w/ the question It has been 5 months since your service rep visited my home and to date you have not come up w/ a solution to my problem. Meanwhile, I have a non-operating refrigerator in my home. Does this mean that I should throw my 5 year old ref away? Again no answer. Then in April, I wrote a message on your website. It was answered by "Ann" and she promised someone would call me within 24 hours. It is not May 7, and they finally fixed it.
+
+== mobile phones ==
+
+My mother currently owns a Samsung [[flip (form)]] phone.  i feel the section [[Samsung_Electronics#Mobile_phones]] implies the company has only ever made [[smartphone]]s, but i don't want to edit the article without a better idea of how much detail is noteworthy [http://www.samsung.com/us/support/owners/product/SGH-A207ZKAATT or] [http://www.samsung.com/us/support/owners/product/SCH-R270ZKAMTR verifiable] [http://www.samsung.com/us/mobile/phones/all-other-phones/samsung-m370-cell-phone-sph-m370baaspr/ or] whatever.  Thoughts?
+
+signed, R2-[[Special:Contributions/71.121.143.77|71.121.143.77]] ([[User talk:71.121.143.77|talk]])  <!--Template:Undated--><small class="autosigned">—Preceding [[Wikipedia:Signatures|undated]] comment added 20:44, 1 August 2016 (UTC)</small> <!--Autosigned by SineBot-->
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[Samsung Electronics]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=779312598 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20130121202828/http://www.businessweek.com/the_thread/techbeat/archives/2009/11/moto_droid_off.html to http://www.businessweek.com/the_thread/techbeat/archives/2009/11/moto_droid_off.html
+*Added archive https://web.archive.org/web/20090522000822/http://findarticles.com/p/articles/mi_m0EIN/is_2008_July_17/ai_n27929051/ to http://findarticles.com/p/articles/mi_m0EIN/is_2008_July_17/ai_n27929051
+*Corrected formatting/usage for https://archive.is/bBZIY
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 05:21, 8 May 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 8 external links on [[Samsung Electronics]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=782346627 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added {{tlx|dead link}} tag to http://eetimes.prohost.mobi/11495/show/a77e7471e348e21f44ff234d21395ce3%26t%3Dcf4828abdf4576697cb8aea6fbaeab41
+*Added archive https://web.archive.org/web/20150320044225/http://www.semiconductorpackagingnews.com/articles/article_22008.shtml to http://www.semiconductorpackagingnews.com/articles/article_22008.shtml
+*Added archive https://web.archive.org/web/20130514030508/http://techon.nikkeibp.co.jp/article/HONSHI/20100727/184604/?P=2 to http://techon.nikkeibp.co.jp/article/HONSHI/20100727/184604/?P=2
+*Added archive https://web.archive.org/web/20110311113703/http://www.zdnet.com/blog/gadgetreviews/ces-2010-samsung-reveals-03-inch-thin-flagship-led-hdtv-as-thick-as-a-pencil-with-touchscreen-remote/10820 to http://www.zdnet.com/blog/gadgetreviews/ces-2010-samsung-reveals-03-inch-thin-flagship-led-hdtv-as-thick-as-a-pencil-with-touchscreen-remote/10820
+*Added archive https://web.archive.org/web/20110616034418/http://www.samsung.com/in/aboutsamsung/management/boardofdirectors.html to http://www.samsung.com/in/aboutsamsung/management/boardofdirectors.html
+*Added archive https://web.archive.org/web/20140307062640/http://news.cens.com/cens/html/en/news/news_inner_34299.html to http://news.cens.com/cens/html/en/news/news_inner_34299.html
+*Added archive https://web.archive.org/web/20120907131823/http://www.smarthouse.com.au/TVs_And_Large_Display/Industry/T8B4V5U9 to http://www.smarthouse.com.au/TVs_And_Large_Display/Industry/T8B4V5U9
+*Added archive https://web.archive.org/web/20140102191833/http://throodalookingglass.com/2013/11/smart-phones-not-so-smart/ to http://throodalookingglass.com/2013/11/smart-phones-not-so-smart/
+*Added archive https://archive.is/20131122105448/http://throodalookingglass.com/2013/11/smart-phones-not-so-smart/ to http://throodalookingglass.com/2013/11/smart-phones-not-so-smart/
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 09:36, 26 May 2017 (UTC)
+
+== RE: Greenpeace ==
+
+[[user: Kleuske| Kleuske]] : Hi there! I jsut saw the notification for conflict of interest. I have just started to learn how to edit with Wiki during a course with an experienced Wiki editor and as my first edit I added an update to the entry on environmental record on this page following on from the previous entries on the Greener Guide to Electronics. The latest version was published by Greenpeace USA on the 17th of October and includes Samsung in the Guide. I tried not to include any bias and presented the score in a similar way to as it was written on the previous guides since 2010. The Guide itself is all based on publicly available information by the company. Thanks in advance and happy to clarify further! [[User:Robin Greenpeace|Robin Greenpeace]] ([[User talk:Robin Greenpeace|talk]]) 13:08, 27 October 2017 (UTC)
+:Remember that the article is on Samsung, not Greenpeace. Whatever it says in a Greenpeace publication is secondary at best and irrelevant at worst. Thanks. [[User:Kleuske|Kleuske]] ([[User talk:Kleuske|talk]]) 13:13, 27 October 2017 (UTC)
+:: Yes of course but this is on the Environmental Record section on Samsung and the Greener Guide has been oft cited for many years, and by many different media and other NGOs as a baseline for evaluating the environmental performance of major technology companies such as Samsung. This edit was an update on the previous versions of the Guide (2010 and 2011 are already cited in this same article). There is also a reference to the Global Ecolabel, the Electronics Take Back Coalition and the  Dow Jones Sustainability Index - all other entities mentioned on the Samsung page. Thanks! [[User:Robin Greenpeace|Robin Greenpeace]] ([[User talk:Robin Greenpeace|talk]]) 13:38, 27 October 2017 (UTC)
+
+== List of Samsung devices ==
+
+Hello, a user has created a new article: [[List of Samsung devices]]. It's currently an orphan and maybe this article would be good to link towards it. Or you can otherwise discuss its suitability / if it needs to be merged elsewhere. '''''[[User:Polyamorph|Polyamorph]]''''' ([[User talk:Polyamorph#top|talk]]) 14:37, 8 April 2018 (UTC)

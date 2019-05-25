@@ -1,0 +1,82 @@
+{{Vital article|level=4|topic=Geography|class=Start}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Physics |class=Start |importance=mid}}
+{{WikiProject Weather Data and Instrumentation |class=Start |importance=high}}
+{{WikiProject Spaceflight |class=Start |importance=mid}}
+{{WikiProject Robotics |class=Start |importance=high |attention=no |past-selected=no}}
+{{WikiProject Maps |class=Start |auto=Inherit |importance=high}}
+{{WikiProject Internet |class=Start}}
+}}
+
+==Interesting links==
+http://www.itc.nl/education/programme_levels/module_descriptions/M06-WRS-001.asp
+
+There's probably lots of these that could be used (probably as a source rather than external link). - [[User:Samsara|{{{2|Samsara}}}]] ([[User talk:Samsara|talk]] • [[Special:Contributions/Samsara|contribs]]) 23:46, 26 March 2006 (UTC)
+
+I added a link to [http://slashgeo.org slashgeo.org]. I don't consider this link spamming since it is an ad-free community-driven website specifically for remote sensing and geospatial technologies. If you disagree, simply [mailto:alexandre.leroux@ec.gc.ca email me] to discuss the issue. Thanks. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Lordsatri|Lordsatri]] ([[User talk:Lordsatri|talk]] • [[Special:Contributions/Lordsatri|contribs]]) {{{2|}}}.</small>
+With the addition of nacelles, the U2 became known as the TR-1.[[User:Radical man 7|Radical man 7]] 17:03, 17 January 2007 (UTC)
+The latest edits are based on actual usage of the following Imagery Analysis roles; tasking, Air force OJT development of film media, production of photo mosaics to include the actual production of images, photogrammetry, and exposure to different aerial platforms to include UAV's and open-source material.[[User:Radical man 7|Radical man 7]] 17:33, 7 May 2007 (UTC)
+
+== Links... ==
+
+
+sir i am going to do ph.d programme in remote sensing and i have to sent paragragh comprising of 1500 words about this.so i need you to sent me[[Special:Contributions/117.199.140.255|117.199.140.255]] ([[User talk:117.199.140.255|talk]]) 08:19, 29 December 2009 (UTC)
+
+== civil war?? ==
+
+Section history: "The first tactical use was during the civil war". Wich civil war are you talking? American civil war? Paris civil war? 
+The information is incomplete!!
+[[Special:Contributions/161.116.143.174|161.116.143.174]] ([[User talk:161.116.143.174|talk]]) 06:47, 28 April 2009 (UTC)
+
+== Thermal remote sensing? ==
+
+LANDSAT-TM, ASTER, MODIS and more sensors have thermal sensors to termine the land surface temperature or sea surface temperature. Please mention this in the article. [[User:Bumbulski|Bumbulski]] ([[User talk:Bumbulski|talk]]) 23:10, 3 August 2009 (UTC)
+
+Here a list for operational satellites with thermal sensors:
+* Geostationary satellites: [[Meteosat]] and [[GOES]]
+* Polar orbiting satellites:
+** Medium resolution: NOAA [[AVHRR]], Terra/Aster [[MODIS]]
+** High resolution: [[LANDSAT]] TM5 & ETM+ and Terra [[Advanced Spaceborne Thermal Emission and Reflection Radiometer|ASTER]]  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Bumbulski|Bumbulski]] ([[User talk:Bumbulski|talk]] • [[Special:Contributions/Bumbulski|contribs]]) 17:39, 4 August 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Article is too technical ==
+
+I am not part of the in-crowd, and I am still confused. Is this article about geology? Just guessing here. Perhaps a higher-level overview in the beginning of the article would be helpful... [[User:Selerian|Selerian]] ([[User talk:Selerian|talk]]) 14:00, 22 April 2010 (UTC)
+
+:It is about remote sensing - there are a fairly wideranging spread of sciences which would use the data collected. It is not too technical although it is possible that the lead is not properly explanatory for your purposes. I will reread it and examine how it may be improved
+:[[User:Chaosdruid|Chaosdruid]] ([[User talk:Chaosdruid|talk]]) 15:58, 9 October 2010 (UTC)
+
+== Wording ==
+
+"Examples of passive remote sensors include film photography, (?) infrared (?), charge-coupled devices, and radiometers"  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/188.223.72.236|188.223.72.236]] ([[User talk:188.223.72.236|talk]]) 15:25, 21 May 2011 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+
+== T & E ==
+
+Regarding the several Special Interest Groups on the topic, e.g. [http://www.earsel.org/SIG/ET/index.php EARSeL SIG Training and Education] and the ongoing debate abput a sustainable integration of remote sensing data and methods, I added a chapter dealing with training and education. Any improvement suggestions? --[[User:Arienow|Arienow]] ([[User talk:Arienow|talk]]) 14:08, 20 September 2012 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Remote sensing]]. Please take a moment to review [[special:diff/809766450|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20060929081013/http://hurricanes.nasa.gov/earth-sun/technology/remote_sensing.html to http://hurricanes.nasa.gov/earth-sun/technology/remote_sensing.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 07:37, 11 November 2017 (UTC)
+
+== External links modified (January 2018) ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Remote sensing]]. Please take a moment to review [[special:diff/821667084|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20100415095934/http://eospso.gsfc.nasa.gov/ftp_docs/2006ReferenceHandbook.pdf to http://eospso.gsfc.nasa.gov/ftp_docs/2006ReferenceHandbook.pdf
+*Added archive https://web.archive.org/web/20150910112227/http://www.digital-earth.eu/ to http://www.digital-earth.eu/
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 22:17, 21 January 2018 (UTC)

@@ -1,0 +1,28 @@
+{{Film|class=Start|Filmmaking-task-force=yes}}
+{{WikiProject Companies |class=Start |importance=Low}}
+
+==comments==
+Hi sir, m suraj from India I want be a porn star how can i do that.... Plz 
+Help me some 
+Mail I'd.(gahlotonly4u@gmail.com)
+
+== Virus Warning on external link ==
+
+My Avast virus scanner says the page on the external link contains a trojan horse called "JS:Packed-AA [Trj]". Please someone confirm that and remove the dangerous link if necessary. Thanks!  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/88.66.29.50|88.66.29.50]] ([[User talk:88.66.29.50|talk]]) 19:12, 14 January 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Requested move ==
+<div class="boilerplate" style="background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;"><!-- Template:RM top -->
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on the talk page or in a [[Wikipedia:move review|move review]]. No further edits should be made to this section. ''
+
+The result of the move request was: '''moved per request'''. [[User:Favonian|Favonian]] ([[User talk:Favonian|talk]]) 18:40, 5 July 2012 (UTC)
+
+----
+
+[[Movie studio]] → {{no redirect|1=Film studio}} – "Film" is the preferred term over "movie" throughout Wikipedia, and this article should also reflect this. --[[User:Robsinden|Rob Sinden]] ([[User talk:Robsinden|talk]]) 12:55, 28 June 2012 (UTC)
+*'''Oppose''' movie studio is more commonly used.  No indication has been given that it isn't in the nomination.  <span style="background:#66EE88">'''[[User talk:Hot Stop|<span style="font-family: comic sans ms,sans-serif;"><span style="color:#FFFFFF">Hot Stop</span></span>]]'''</span> 14:00, 28 June 2012 (UTC)
+::It would be in line with nearly all film production articles including [[major film studio]].  --[[User:Robsinden|Rob Sinden]] ([[User talk:Robsinden|talk]]) 14:29, 28 June 2012 (UTC)
+:::I should add that "movie studio is more commonly used" is entirely dependent on where in the world you live! - [[User: Schrodinger's cat is alive | SchroCat]] ([[User talk: Schrodinger's cat is alive #top |<font face="Webdings"><big>^</big></font>]] • [[Special:Contributions/ Schrodinger's cat is alive |<font face="Webdings"><big>@</big></font>]]) 18:18, 28 June 2012 (UTC)
+*'''Support''' The naming convention for film articles has been agreed as Film Title (film) not Film Title (movie) for about seven years and there's no reason why this shouldn't follow suit. Other aspects of Wiki also use "film", rather than "movie" so we have MOS:FILM, WikiProject Film etc, as well as more general industry usage (AFI, BFI etc) - [[User: Schrodinger's cat is alive | SchroCat]] ([[User talk: Schrodinger's cat is alive #top |<font face="Webdings"><big>^</big></font>]] • [[Special:Contributions/ Schrodinger's cat is alive |<font face="Webdings"><big>@</big></font>]]) 15:20, 28 June 2012 (UTC)
+*'''Support''' per [[WP:MOSFILM]] for film over movie. '''[[User:Lugnuts|<font color="002bb8">Lugnuts</font>]]''' ([[User talk:Lugnuts|talk]]) 18:12, 28 June 2012 (UTC)
+*'''Support''' – As per [[WP:COMMONNAME]]. Google returns a higher hit rate for "movie studio" ([http://www.google.com/search?&q=%22movie+studio%22 9.4 million])as opposed to "film studio" ([http://www.google.com/search?&q=%22film+studio%22 6 million]); however Google books favors "film studio" ([http://www.google.com/search?q=%22film+studio%22&tbm=bks 238,000] to [http://www.google.com/search?q=%22movie+studio%22&tbm=bks 87,000]) and likewise Google scholar ([http://scholar.google.com/scholar?q=%22film+studio%22 8,900] as opposed to [http://scholar.google.com/scholar?q=%22movie+studio%22 6,000]). On the basis of that, the more authoritative usage—in terms of what would qualify as reliable sources—favors "film studio". [[User:Betty Logan|Betty Logan]] ([[User talk:Betty Logan|talk]]) 05:04, 3 July 2012 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on this talk page or in a [[WP:move review|move review]]. No further edits should be made to this section.</div><!-- Template:RM bottom -->

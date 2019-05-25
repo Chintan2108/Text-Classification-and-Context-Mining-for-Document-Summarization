@@ -1,0 +1,83 @@
+{{talkheader}}
+{{Vital article|level=4|topic=Science|class=Start|subpage=Physics}}
+{{WPAstronomy|class=start|importance=Top}}
+
+==Image==
+{{reqphoto|astronomical bodies}}
+A Wikipedian out there who is good with 3D modeling could make a very slick image for this page. I know there is already an image but it would be pretty easy to make it a lot nicer. -[[User:Craig Pemberton|Craig Pemberton]] ([[User talk:Craig Pemberton|talk]]) 02:37, 22 September 2009 (UTC)
+: Check out [http://commons.wikimedia.org/w/index.php?title=Special%3ASearch&redirs=0&search=Celestial+sphere&fulltext=Search&ns0=1&ns6=1&ns12=1&ns14=1 Commons]. --[[User:Traveler100|Traveler100]] ([[User talk:Traveler100|talk]]) 17:30, 22 September 2009 (UTC)
+
+==Contradictory statement==
+Hi,
+
+The statement that the sun rotates 1 degree to the east every day resulting in 4 "extra" minutes being required in the diurnal motion for the sun to reappear at the same meridian appears to be contradictory.
+
+If the earth rotates from west to east and the sun moves east over its ecliptic, then the sun should appear 4 minutes earlier at the same point. This is substantiated by the rest of the numbers in the article.
+
+Someone please let me know if I am not understanding...or if I am right, please edit and correct. I do not feel qualified to do so.
+
+Thanks
+Madan
+
+-- I believe you're not understanding.  The article is correct.  The sun is moving eastward; the earth is rotating west to east.  The earth takes 23h56m04s to return to the same orientation with respect to the fixed stars; meanwhile, the sun has drifted eastward a bit more.  So, the earth has to keep rotating for another 3m56s before it comes into the same orientation with respect to the sun.  Put another way, successive meridian transits of a star occur on a 23h56m04s cycle (1 sidereal day), while successive meridian tranits of the sun take a little longer (1 solar day). -- JThorstensen
+
+== some questions? ==
+
+hi, i am only an beginner in astronomy. i am quite confused about the concept of celestial sphere. First, does the sphere means the whole universe(it contains the constellations)?or are the constellations inside the galaxy?
+second , do all stars complete its rotation in 23h56mins(even the giants,sun,etc)?
+third, can we gaze the stars on the southern celestial sphere if we're on the northern sphere on earth?
+last, is the radius of the celestial sphere equal to the distance of earth to sun?
+thanks-Mayer
+
+== who invented the celestial sphere? ==
+
+who invented the celestial sphere?
+who invented the celestial sphere?
+who invented the celestial sphere?  <small>—The preceding [[Wikipedia:Signatures|unsigned]] comment was added by [[Special:Contributions/{{{IP|{{{User|124.181.125.145}}}}}}|{{{IP|{{{User|124.181.125.145}}}}}}]] ([[User talk:{{{IP|{{{User|124.181.125.145}}}}}}|talk]]) {{{Time|08:39:22, August 19, 2007 (UTC)}}}</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Northern Pole Star ==
+
+So will our northern reference pole star change to another star in the future [[User:Risingsun56|Risingsun56]] ([[User talk:Risingsun56|talk]]) 16:22, 24 October 2008 (UTC)
+: Yes (see [[Polaris]]). --[[User:Roentgenium111|Roentgenium111]] ([[User talk:Roentgenium111|talk]]) 20:18, 13 June 2009 (UTC)
+:: And so will we change the celestial coordinates?[[User:Friendly person|Friendly Person]] ([[User talk:Friendly person|talk]]) 18:21, 1 October 2011 (UTC)
+
+== Eudoxan planetary model ==
+
+As this article presently stands, the 2nd paragraph on the Eudoxan planetary model seems only very thinly related to the subject of the article. Why is it there? [[User:Friendly person|Friendly Person]] ([[User talk:Friendly person|talk]]) 22:21, 9 October 2011 (UTC)
+
+== No, it does not apply to all celestial bodies ==
+
+Someone (apparently Student7) re-wrote this article to be "less earth-centric". Sorry, but it doesn't apply. The ecliptic, which is mentioned in the article, is the plane of Earth's orbit about the Sun. It does ''not'' apply to a planet around some other star. We could write it that way, but as it stands, it's now nonsense. [[User:Tfr000|Tfr000]] ([[User talk:Tfr000|talk]]) 21:32, 15 May 2015 (UTC)
+
+:I agree. The term should, for historical reason's, probably be reserved for ''the'' Celestial sphere (referring to Earth), not just ''any'' celestial sphere (referring to any object). Nothing stops us from defining the generalized concept in a separate section. [[User:YohanN7|YohanN7]] ([[User talk:YohanN7|talk]]) 14:45, 16 May 2015 (UTC)
+:Excellent idea... a separate section. [[User:Tfr000|Tfr000]] ([[User talk:Tfr000|talk]]) 15:10, 17 May 2015 (UTC)
+::I now agree with the editors. It should be worded earth-centric. There is no general set of coordinates for other stars/planets. Nor should there be. It is unique to Earth-Sol. [[User:Student7|Student7]] ([[User talk:Student7|talk]]) 20:56, 24 May 2015 (UTC)
+:It has now been fixed. Feel free to elaborate on it. [[User:Tfr000|Tfr000]] ([[User talk:Tfr000|talk]]) 13:24, 14 June 2015 (UTC)
+::Looks fine. [[User:YohanN7|YohanN7]] ([[User talk:YohanN7|talk]]) 13:43, 14 June 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Celestial sphere]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=793432220 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20070624193729/http://www.irbs.com/bowditch/ to http://www.irbs.com/bowditch/
+*Added archive http://webarchive.loc.gov/all/20050613050209/http%3A//skyandtelescope.com/observing/skychart/ to http://skyandtelescope.com/observing/skychart/%23
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 18:26, 1 August 2017 (UTC)
+
+== External links modified (January 2018) ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Celestial sphere]]. Please take a moment to review [[special:diff/821734690|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20110516145329/http://www.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Eudoxus/Astronomy/EudoxusHomocentricSpheres.htm to http://www.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Eudoxus/Astronomy/EudoxusHomocentricSpheres.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 09:00, 22 January 2018 (UTC)

@@ -1,0 +1,150 @@
+{{WikiProject Electronics |class=Start |importance=}}
+
+== CES/SEC ==
+i don't know but 
+
+Swiss Electrotechnical Committee (CES)
+seems like it should be (SEC)
+--[[User:Yskyflyer|E-Bod]] 22:39, 24 April 2006 (UTC)
+
+Swiss Electrotechnical Committee is an English translation of Comité Electrotechnique Suisse. English is not an official language in Switzerland so CES is correct.
+OK
+BYE
+SEE U NEXT TIME
+
+:That sounds french. - [[User:Thai H. Nguyen|Thai H. Nguyen]] 20:56, 7 May 2007 (UTC)
+
+== IEEE vs. IEC ==
+
+''The IEC publishes standards with the IEEE and develops standards jointly with the ISO [...].''
+
+Then, why is there IEEE, and which of these two organizations develops what kind of standards? Or, put in another why - why is there IEEE when there already is IEC and ANSI? --[[User:Abdull|Abdull]] ([[User talk:Abdull|talk]]) 12:24, 13 February 2008 (UTC)
+
+== What is IEC doing for the ISO standards....??? ==
+
+such as [[ISO/IEC 7812]]
+* {{See|Talk:ISO/IEC 7812}}
+--[[Special:Contributions/222.67.207.250|222.67.207.250]] ([[User talk:222.67.207.250|talk]]) 03:34, 22 April 2010 (UTC)
+
+== See also... ==
+
+Unfortunately, there is no consistent organization of the IEC standards pages here. The page may be named IEC-6000, or IEC 6000, or IEC6000. It may be in the IEC category, it may not. It may be on the "list of standards page", it may not.  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/203.206.162.148|203.206.162.148]] ([[User talk:203.206.162.148#top|talk]]) 01:17, 24 November 2016 (UTC)</small> <!--Autosigned by SineBot-->
+
+== Failed edit ==
+
+I tried to add 4 links to the "see also" section:
+** All pages starting with IEC: [[Special:PrefixIndex/IEC]]
+** All pages in IEC category: [[https://en.wikipedia.org/wiki/Category:IEC_standards]]
+** All pages starting with ISO/IEC: [[Special:PrefixIndex/ISO/IEC]]
+** All pages in ISO/IEC category: [[https://en.wikipedia.org/wiki/Category:ISO/IEC_standards]]
+
+They aren't very clean links: I don't know how to do better, or if it is impossible to do better. Unfortunately, the change was reverted: it appears that the links were found by some error bot, which, because of the way the links were formed, thought that they were some kind of bad link.  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/203.206.162.148|203.206.162.148]] ([[User talk:203.206.162.148#top|talk]]) 00:14, 17 January 2017 (UTC)</small> <!--Autosigned by SineBot-->
+
+== Quasi-governmental organization ==
+
+The IEC article has used the description "Non-governmental organization" with no citation to back this up.  Reliable sources on the IEC (which is headquartered in Switzerland) tell us that it is, in fact, a "Quasi-governmental organization".<ref>{{Citation | place = CH | url = http://www.iec.ch/about/profile/funding.htm | title = IEC Organization and funding | publisher = International Electrotechnical Commission | year = 2017}}</ref><ref>{{Citation | place = CH | url = https://www.eda.admin.ch/content/dam/mission-onu-omc-aele-geneve/en/documents/GI--en-chiffres_EN.pdf | title = International Geneva, Facts and Figures | publisher = Swiss Government| year = 2017}}</ref>  Several attempts to replace the uncited and erroneous description have been reverted by other editors for no apparent reason.  Can anyone justify why sources should be ignored in favor of the personal preferences of other editors? [[User:JimmiCheddar|JimmiCheddar]] ([[User talk:JimmiCheddar|talk]]) 19:24, 17 November 2017 (UTC)
+
+:The IEC is ''prima facie'' an NGO. That the Swiss government calls it something else for the purposes of meting out "privileges, immunities, exemptions and financial contributions" within the legal framework they've set up for themselves in their [https://www.eda.admin.ch/eda/en/home/foreign-policy/international-law/privileges-and-immunities/host-state-act.html ''Host State Act''] and associated ordinances is irrelevant.
+
+:The Genevan government calls the IEC "an independent, non-governmental international organization" [http://gvadata.ch/international-electrotechnical-commission-iec], the IEC's own Facebook page calls it a non-governmental organization [https://www.facebook.com/InternationalElectrotechnicalCommission/], IEC Technical Committee 114 calls it a non-governmental organization [http://www.tc114.us/about/about-the-iec/], and independent authors corroborate that repeatedly: [https://books.google.com/books?id=cdw6gtzwc-QC&pg=PA30&lpg=PA30&source=bl&ots=ivMT1RP8Pz&sig=nNf3Dzb1aaIlrkCcC2QZ3fXHJ0g&hl=en&sa=X&ved=0ahUKEwjM_OPr_8jXAhUH4WMKHYTBCXE4ChDoAQgnMAA#v=onepage&q&f=false "The IEC was founded in 1906 and is a not-profit, non-governmental organization..."], [https://books.google.com/books?id=B6P0C6_ZkyEC&pg=PA312&lpg=PA312&dq=iec+non-governmental+organization&source=bl&ots=4CaoIL7foo&sig=ceA4sOCZ_P5DeHVkQJFzZh47vJE&hl=en&sa=X&redir_esc=y#v=onepage&q&f=false "Despite seeking governmental recognition, the IEC was founded as and remains a nongovernmental organization..."], [https://books.google.com/books?id=Wy5F2IZK-AIC&pg=PA205&lpg=PA205&source=bl&ots=4PYQta5yfn&sig=WfqqET9n9B_V2fB940Kb3zR1hwA&hl=en&sa=X&ved=0ahUKEwjM_OPr_8jXAhUH4WMKHYTBCXE4ChDoAQg1MAM#v=onepage&q&f=false "... it is a non-governmental organization also headquartered in Geneva..."], [https://books.google.com/books?id=vvMBnAiYPIkC&pg=PA18&lpg=PA18&source=bl&ots=ulOKvX0xTG&sig=P84uV2DE5FEik8jvol6JNLvjHFY&hl=en&sa=X&ved=0ahUKEwjM_OPr_8jXAhUH4WMKHYTBCXE4ChDoAQgsMAE#v=onepage&q&f=false "It is a non-governmental organization with its Central Office in Geneva..."].
+
+:Attempting to push through this "quasi-governmental" non-sense is a blatantly transparent move to give some shaky support to your arguments at [[Talk:NEMA connector#Terminology section]]. It's patently obvious that the IEC is an NGO. [[User:CplDHicks2|CplDHicks2]] ([[User talk:CplDHicks2|talk]]) 21:39, 18 November 2017 (UTC)
+
+:: Please just stick to the facts, not your interpretation of them.  The IEC consists of national committees of the member counties.  Of the 60 full member countries of the IEC, at least 26 are represented by government departments or government agencies, so whatever the IEC is, it is clearly not "non-governmental".
+
+:: It is clearly not valid to argue that the Swiss Government (the host state for the IEC) is irrelevant in determining the status of the IEC.
+
+:: The IEC identifies itself as a "quasi-governmental organization" on at least three separate pages of its official website.  The fact that its Facebook page has an error is hardly significant, especially as that Facebook page also states: "The opinions expressed are those of the individual contributors and do not represent an official statement of the IEC."
+
+:: You attribute a statement to the "Genevan Government", but the page cited is actually part of a site belonging to an independent operation called GVADATA.
+
+:: You claim that "IEC Technical Committee 114 calls it a non-governmental organization" but the cited page is actually a website operated by the "US Technical Advisory Group" of TC 114, just a local group of a single Technical Committee who are clearly out of step with the IEC headquarters on the subject of the status of the IEC.
+
+:: I fail to see the significance of references in assorted books which are clearly in error, as they do not quote the official information. [[User:JimmiCheddar|JimmiCheddar]] ([[User talk:JimmiCheddar|talk]]) 02:31, 20 November 2017 (UTC)
+
+:::That you fail to see the significance of everybody else on the planet considering the IEC as an NGO is your problem. The North Korean government calls itself a "Democratic People's Republic". It is in fact an authoritarian communist dictatorship, but by your line of reasoning it's a democracy and a republic. Better go make that change at the [[North Korea]] article, Jimbo. See how far you get with that.
+
+:::The Swiss government can make whatever distinctions between "non-governmental" and "quasi-governmental" it wants for its own internal purposes (taxes, grant monies, whatever). To the rest of us on planet Earth who don't really give a damn if this means the IEC pays a different tax rate than the IOC, or whatever it is that the ordinances of the Swiss ''Host State Act'' says: if it looks an NGO, walks like an NGO and quacks like an NGO, it's an NGO. That's why an endless number of people call it an NGO. That's why this article calls it an NGO. Argue ''ad nauseum'' all you want: quite simply if you disagree, you're wrong. [[User:CplDHicks2|CplDHicks2]] ([[User talk:CplDHicks2|talk]]) 05:06, 20 November 2017 (UTC)
+
+:::: Continuing to claim that the most relevant sources are wrong, and that you are right, is not a constructive way forward.  Comparing the Swiss Government and the IEC to North Korea is also not constructive.  The simplest solution to this would be to remove mention of any reference to NGO from the article and describe the IEC as a "non-profit international standards organization".  [[User:JimmiCheddar|JimmiCheddar]] ([[User talk:JimmiCheddar|talk]]) 15:09, 20 November 2017 (UTC)
+
+::::: No, the simplest solution is you accept that the IEC is an NGO and move on. "Non-profit international standards organization" = NGO. Removing any mention to NGO from this article is wrong, because the IEC is an NGO. [[User:CplDHicks2|CplDHicks2]] ([[User talk:CplDHicks2|talk]]) 16:09, 20 November 2017 (UTC)
+
+:::::: Definition of quasi-governmental: supported by the government but managed privately 
+:::::: https://www.merriam-webster.com/dictionary/quasi-governmental
+
+:::::: Definition of nongovernmental: not of or relating to government or a particular government : not governmental 
+:::::: https://www.merriam-webster.com/dictionary/nongovernmental
+
+:::::: Quite clearly, an organization which has significant control from a variety of governments is not an NGO. [[User:JimmiCheddar|JimmiCheddar]] ([[User talk:JimmiCheddar|talk]]) 22:32, 21 November 2017 (UTC)
+:{{outdent}} So the Swiss taxpayer pays to run IEC?  Whose taxpayers pay to run IEC? "Suppported" is a mealy mouth way of saying "paid".  Who pays for IEC?  Of course our article doesn't know. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 00:32, 22 November 2017 (UTC)
+::So, IEC gets *no* money from the Swiss government and instead relies on standards sales (as anyone who's ever purchased an IEC standard knows, they are worth their weight in gold, perhaps more if you get the PDF versions), and membership fees.  Members are "national committees" - in Canada the member is [[Standards Council of Canada]], a corporation, which gets most of its revenue from non-governmental sources. In the US the member is ANSI, whose annual report shows no taxpayer money going in at all. How is it useful or accurate to describe IEC as "quasi" governmental?  Boeing gets more money from the US taxpayer than ANSI does - does that make Boeing quasi=governmental, too? --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 00:50, 22 November 2017 (UTC)
+
+:::From one of the sources I quoted earlier[https://books.google.com/books?id=B6P0C6_ZkyEC&pg=PA312&lpg=PA312&dq=iec+non-governmental+organization&source=bl&ots=4CaoIL7foo&sig=ceA4sOCZ_P5DeHVkQJFzZh47vJE&hl=en&sa=X&redir_esc=y#v=onepage&q&f=false]; bold is my emphasis:
+:::"'''''Despite seeking governmental recognition, the IEC was founded as and remains a nongovernmental organization.''''' ''In order to have no 'bureaucratic influence imported into the Commission','' '''''national technical societies, rather than governments, were to constitute each country's 'local [IEC] committee" and appoint representatives to the IEC. These national bodies constitute the IEC's member bodies to this day.'''''
+:::'''''Why did the founders put such emphasis on the IEC being a non-govermental organization?''''' ''Institutional mimicry may have played some role, as the nongovernmental British Institution of Electrical Engineers served as the explicit inspiration for the IEC. But'' '''''the commitment to the nongovernmental character of the IEC had broad support''''' ''from many countries' delegates because it served quite diverse interests. For electrical engineers from Britain and the United States, self-regulation was among the hallmarks of the traditional liberal professions (law and medicine) which they sought to emulate. In continental Europe, with its different political traditions and lack of the liberal Anglo-Saxon notion of the "profession", the explict recognition of autonomy and self-government in professional and industry associations (even if sometimes more apparent than real) compensated for the lack of democracy in political life.''
+:::'''''The sometimes adamantly nongovernmental character of the IEC has had three important consequences to this day. First, to underscore the nongovernmental cooperative character of the organization,''''' ''the founding delegates  agreed that "every country joining the Commission [should be placed] on an absolutely equal footing", with one vote per country whenever decisions were to be taken by vote. This system ensures that countries do not have influence in the IEC merely because they are large or possess economic or military power resources.''
+:::'''''Second, the nongovernmental character of the IEC''''' ''has restricted the fungibility of power resources. Economically or militarily powerful states have often been able to use seemingly unrelated power resources to influence outcomes in international governmental organizations, such as ITU and WTO — allowing their economic interests sometimes to dominate the preferences of smaller/weaker states (through issue linkage and other means).'' '''''In IEC standardization, attempts at direct governmental interference are considered illegitimate and rarely even tried:''''' ''in the International Standards Project's survey about international product standards among manufacturing firms in five industries, barely 6 percent of those who most frequently use IEC standards said they 'sometimes' or 'often' ask for help from the government.''"
+:::[[User:CplDHicks2|CplDHicks2]] ([[User talk:CplDHicks2|talk]]) 19:52, 22 November 2017 (UTC)
+::::CplDHicks2, your quote is full of fine ideas and high principles, but it does not represent reality.  
+::::Using the links provided by the [http://www.iec.ch/dyn/www/f?p=103:5:0 IEC] we can explore National Committees, and how they are related to Government.
+
+::::Starting with our neighbors to north and south, both are represented by governmental bodies. 
+::::Wtshymanski correctly tells us that the Canadian member of IEC is the [http://www.scc.ca/en/about-scc Standards Council of Canada (SCC)], but fails to mention that SCC is a federal Crown corporation which reports to Parliament through the Minister of Innovation, Science and Economic Development.  Definitely not "non-governmental".
+::::Mexico, the National Committee is part of the [https://translate.google.com/translate?hl=en&sl=es&u=http://www.2006-2012.economia.gob.mx/conoce-la-se/atencion-ciudadana/procesos-administrativos/dgn&prev=search General Directorate of Standards] within the Ministry of Economy of the Government of Mexico.
+
+
+::::Most of western Europe is represented by non-governmental bodies, but three are governmental.
+::::Ireland, the National Committee is part of the [https://www.nsai.ie/About-NSAI.aspx National Standards Authority of Ireland] and is accountable to the Minister for Business, Enterprise and Innovation within the Irish Government.
+::::Luxembourg, the National Committee is part of [https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=https%3A%2F%2Fportail-qualite.public.lu%2Ffr.html%23 ILNAS], a public administration under the authority of the Minister of the Economy. 
+::::Portugal, the National Committee is part of [https://translate.google.com/translate?hl=en&sl=pt&tl=en&u=http%3A%2F%2Fwww1.ipq.pt%2FPT%2FPages%2FHomepage.aspx IPQ] and is accountable to the Secretary of State for Industry within the Portuguese Government.
+
+
+::::The National Committees of six eastern European countries are also part of government departments.
+::::Czech Republic, the National Committee is part of [http://www.unmz.cz/files/Zprávy%20o%20činnosti/Annual%20report_2015.pdf Czech Office for Standards, Metrology and Testing (UNMZ)], part of the State budgetary organisation of the Ministry of Industry and Trade.
+::::Russia, the National Committee is part of [http://www.gost.ru/wps/portal/en/about?WCM_GLOBAL_CONTEXT=/gost/gost/aboutagency The Federal Agency on Technical Regulating and Metrology (GOST)] under the jurisdiction of the Ministry of Industry and Trade of the Russian Federation.
+::::Serbia, the National Committee is part of the [http://www.iss.rs/en/button_4.html Institute for Standardization of Serbia] founded by the Government of Serbia.
+::::Slovakia, the National Committee is part of the [http://www.unms.sk/?statute_sosmt Slovak Office of Standards, Metrology and Testing (SOSMT)] a central state administration body.
+::::Slovenia, the National Committee is part of the [http://www.sist.si/image/catalog/DOWNLOAD/Decision-on-the-Foundation-of-the-SIST.pdf  the Slovenian Institute for Standardization] founded by the Government of Slovenia.
+::::Ukraine, the National Committee is part of the [https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fukrndnc.org.ua%2F&edit-text=&act=url State Enterprise "Ukrainian Research and Training Center for Standardization, Certification and Quality"].
+
+
+::::The National Committees of a seven mideast countries are also part of government departments.
+::::Iran, the National Committee is part of the [http://www.isiri.com/about.htm Institute of Standards and Industrial Research of Iran (ISIRI)].  According to the [https://www.iso.org/member/1803.html ISO], ISIRI is a government body.
+::::Kuwait, the National Committee is part of the [https://translate.google.com/translate?hl=en&sl=ar&tl=en&u=https%3A%2F%2Fwww.pai.gov.kw%2F Kuwait National Committee for Electrical & Electronics (KNCEE)] within the Public Authority for Industry. 
+::::Oman, the National Committee is part of the  [https://nemko.com/news/uae-and-oman-become-members-iec Directorate General of Specifications and Measurements], part of the [https://www.moci.gov.om/wps/portal/MoCI/MOCI%20home/About/Profile/MOCI%20in%20Brief/!ut/p/a1/rZTBctsgEIZfJRcdMSuEQO5NSd3GbuyodjONdPEgBWRaS8gKsds-fVGaaWpNajsz4cCwzPLNv_wLOMO3OKvFVpfCalOLdRdnbHkdx3T8kZJxdDH1IV6EyQ358MkH7uOvOMNZUdvGrnC6bZaVKfRS1h6sTCW7wAORmwf7Z9m0Run10343n-n6LG-1VB2mKfQdTkUR8kCoAEFYFIhSFSIhhhIRBpKxO5DAhk5XekDXORyTffj8xD-pbJcC_xkxPCX8ZcD55cgxrvj8fcIBItpPeEFDj5AwB16weZJcTglwOEJwtzDBWbk2-aORaVznQVTirJVKtrIdPLRue2Vtc__OAw92u92gNKZcy0FhKg9eOrIy9xbf7mfi1N0lf1ZxfeFziAmdjz9_iQO4IXjxbO6Q-pwJppAqVI4ooQRFNKQIhpxEslCKOnMn-2X1gCPSKdPfNpssdq1nait_OFFHe0-JTV_qvieRz_6VelIf9oA9B2ZvDgzfGshfDZyc8LZe786Bn6Gpqij4qdH3-UhNbZiHzfbXlZrNkMgjCB6j-DdW8ZPi/dl5/d5/L2dBISEvZ0FBIS9nQSEh/ Ministry of Commerce and Industry]
+::::Qatar, the National Committee is operated by the  [https://www.iso.org/member/2049.html Laboratories and Standardization Affairs (QS)], part of the Ministry of Environment.
+::::Saudi Arabia, the National Committee is part of the [https://www.saso.gov.sa/en/about/Pages/default.aspx Saudi Standards, Metrology and Quality Organization (SASO)], headed by the Minister of Commerce and Industry.
+::::Turkey, the National Committee is part of the [https://www.tse.org.tr/en/icerikdetay/2/1/tse-nin-kurulusu.aspx Turkish Standards Institution (TSE)], a public body attached to the Ministry of Science, Industry and Technology.
+::::United Arab Emirates, the National Committee is part of the [http://www.esma.gov.ae/en-us/ESMA/Pages/About-ESMA.aspx Emirates Authority for Standardization and Metrology}, a department of the government of UAE.
+
+
+::::The National Committees of three African countries are also part of government departments.
+::::Algeria, the National Committee is part of the [https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=www.mdipi.gov.dz%2F%3FL-Institut-Algerien-de Algerian Institute for Standardization (IANOR)] under the supervision of the Algerian Ministry of Industry.
+::::Egypt, the Egyptian National IEC Committee (established by presidential decree) is part of the [http://web.vdw.co.za/Portals/15/Documents/Presentations/AFSEC%20P04_%20Egypt.pdf  Ministry of Electricity & Energy].
+::::South Africa, the National Committee is part of the [https://www.sabs.co.za/About-SABS/about_corpgov.asp  (SABS)] which operates under the authority of the Minister of Trade and Industry.
+
+
+::::The National Committees of ten Asian countries are also part of government departments.
+::::China, the National Committee is part of the [http://www.sac.gov.cn/sacen/aboutsac/who_we_are/201411/t20141118_169916.htm Standardization Administration of the People's Republic of China (SAC)] authorized by the State Council of China.
+::::India, the National Committee is part of the [http://www.bis.org.in/sf/international_cooperation.htm#BISIEC Bureau of Indian Standards] which is under the control of the [http://consumeraffairs.nic.in/forms/list.aspx?lid=1725&Id=17 Department of Consumer Affairs].
+:::::Indonesia, the National Committee is part of the [http://bsn.go.id/main/bsn/isi_bsn/43# National Standardization Agency of Indonesia (BSN)], a Non Departmental Government Institution.
+::::Japan, the National Committee is part of the Technical Regulation, Standards and Conformity Assessment Policy Division of the Industrial Science and Technology Policy and Environment Bureau, within the [http://www.meti.go.jp/english/aboutmeti/data/aOrganizatione/pdf/chart2017.pdf Ministry of Economy, Trade and Industry]
+::::Korea, the National Committee is part of the [http://www.kats.go.kr/en/content.do?cmsid=397 Korean Agency for Technology and Standards (KATS)] which is within the Ministry of Trade, Industry and Energy (MOTIE).  
+::::Malaysia, the National Committee is part of the [http://www.jsm.gov.my/ Department of Standards Malaysia], within the Ministry of Science, Technology and Innovation (MOSTI).
+::::Pakistan, the National Committee is part of the [http://www.psqca.com.pk/globalaffiliation.html Pakistan Standards and Quality Control Authority (PSQCA)], the National Standard Body of Pakistan under the administrative control of Ministry Of Science & Technology.
+::::Philippines, the National Committee is part of the [https://aboutphilippines.ph/files/DTI_PBS-Philippines.pdf Bureau of Product Standards (BPS)] under the Department of Trade and Industry.
+::::Singapore, the National Committee is part of the [https://www.spring.gov.sg/about-us/pages/spring-singapore.aspx  SPRING Singapore (Standards, Productivity & Innovation Board)], an agency under the Ministry of Trade and Industry.
+::::Thailand, the National Committee is part of the [https://www.tisi.go.th/tisiinbrief Thai Industrial Standards Institute (TISI)], part of the Ministry of Industry.
+
+
+::::The National Committee of New Zealand is also part of a government department.  [http://www.standards.govt.nz/ Standards New Zealand] is a business unit within the Ministry of Business, Innovation and Employment.
+
+::::Of the 60 IEC full members, a total of at least 32 of the National Committees are within governmental bodies, more than half!  Quite clearly the Swiss Government classification of IEC is correct, it is absolutely NOT "non-govermental".
+
+::::Wikipedia has a clear obligation to not mislead, it is completely wrong to assert that IEC is a "non-governmental organization".  I have to question the motives of those who claim that it is.  [[User:JimmiCheddar|JimmiCheddar]] ([[User talk:JimmiCheddar|talk]]) 18:16, 27 November 2017 (UTC)
+
+:::::"''CplDHicks2, your quote is full of fine ideas and high principles, but it does not represent reality.''" No, it does represent reality; that you've chosen to reject reality and substitute it with your own is your own doing and problem. I will remind you that [[WP:OR|Wikipedia must not contain original research]]. I have already provided source upon source upon source that say "the IEC is an NGO," which you have summarily ignored. If an overwhelming majority of indepedent, secondary sources say the IEC is a NGO then '''the IEC is an NGO'''. I refuse to argue this ad nauseum any further with you. [[User:CplDHicks2|CplDHicks2]] ([[User talk:CplDHicks2|talk]]) 19:03, 27 November 2017 (UTC)
+::::::CplDHicks2, providing multiple sources which prove you are wrong is not WP:OR!  Your idea of an "overwhelming majority" is yet another refusal to accept facts, all you have presented is an underwhelming minority of sources which are clearly incorrect.[[User:JimmiCheddar|JimmiCheddar]] ([[User talk:JimmiCheddar|talk]]) 20:07, 27 November 2017 (UTC)
+
+{{reflist-talk}}

@@ -1,0 +1,41 @@
+{{WPBS|1=
+{{WPUSA|class=C|importance=low}}
+{{WikiProject California|la=yes|class=C|importance=low}}
+{{WikiProject Cities|class=C|importance=low}}}}
+
+== Los Angeles city ==
+
+If 70% is in the City, then????  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/208.45.168.113|208.45.168.113]] ([[User talk:208.45.168.113|talk]]) 21:23, August 29, 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Nomenclature ? Changes ? Who Decides ? ==
+
+Universal City, '''California, Los Angeles''' OR  Universal City, '''California'''
+:'''A precedet setting decision for one of the world's largest city's deserves wider discussion and input.''' 
+:There is a definite lack of advance 'discussion width', which left me unaware of changes (considered or already done such as here) even though very active with L.A. Districts' articles. Personally I do not find using the word 'notorious' and L.A. used together by some 'change advocates' in other discussions positive or a npov backup. I'm '''neutral''' on the decision itself, but '''not on the process''' to date though.
+
+:More transparency before further changes, with notification and 'auto-forwarding' of 'old 3 names' titles (in both article links and new searches) could avoid difficult startles. The [[Reseda, Los Angeles, California]] (OR [[Reseda, Los Angeles]] ?? eg: the 'crap shoot' problem for now...) has discussion on talk page of neighborhood vs. district vs. [[census-designated place]] (CDP). If the change is inevitable perhaps doing so in district name alphabetical order would take out random 'crap shoot' searching now (or explaining another system being used).  
+
+:Please stop further districts' changes until this is resolved so we all know how to find an article. Thank you-[[User:Look2See1|<span style="font-weight:bold; color=BBBB00">Look2See1</span>]]&nbsp;[[User talk:Look2See1|<span style="color:#808080; font-weight:bold; font-style:italic; ">t a l k →</span>]] 22:36, 29 April 2010 (UTC)
+
+::Because most of Universal City is in unincorporated territory, this article has historically been written as if it was a full unincorporated area. Therefore, it uses the standard <nowiki>[[Placename, State]]</nowiki> naming convention as per [[Wikipedia:Naming conventions (geographic names)#United States]], and thus was not affected by the discussion at [[Talk:Los_Angeles#Various_move_requests_involving_LA_Neighborhoods]]. [[User:Zzyzx11|Zzyzx11]] ([[User talk:Zzyzx11|talk]]) 08:18, 11 July 2010 (UTC)
+
+== copyediting ==
+
+I managed to rewrite a segment of the section that was identified as needing changes but then had my attention diverted to the Lead section, as it also in need of changing. I am going to try and come back to this article later. --Soulparadox 03:50, 29 April 2012 (UTC)
+
+==NBC relocation section outdated==
+The section on NBC's relocation is all about plans for 2011. It's 2013 now, so this should be updated to reflect what has actually been completed or is underway. I've added an "updatesection" tag accordingly. [[Special:Contributions/70.72.211.35|70.72.211.35]] ([[User talk:70.72.211.35|talk]]) 18:11, 8 February 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:2|one external link|2 external links}} on [[Universal City, California]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=730919109 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20070913190430/http://fire.lacounty.gov/HometownFireStations/HometownFireStations.asp to http://fire.lacounty.gov/HometownFireStations/HometownFireStations.asp
+*Added archive http://web.archive.org/web/20100125075225/http://www.lasd.org:80/stations/for2/westh-ucity/index.html to http://www.lasd.org/stations/for2/westh-ucity/index.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 18:36, 21 July 2016 (UTC)

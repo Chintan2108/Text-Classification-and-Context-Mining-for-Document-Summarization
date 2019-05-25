@@ -1,0 +1,128 @@
+{{Engineering|class=start|importance=mid}}
+
+== Disagree as stub ==
+
+I disagree that this article is a stub. This is all the available information that can be found and an external link has been given.
+
+:Beg to differ.  [[User:Una Smith|Una Smith]] 17:21, 12 February 2007 (UTC)
+
+However, I do agree that sources may need to be cited. --[[User:AOL Alex|AOL Alex]] 01:33, 6 October 2006 (UTC)
+
+
+I just looked at this article for the first time.  As one interested in ASTM, it seems a bit thin.  In writing articles that reference ASTM, I would expect anyone clicking the wikilink would get a rasonably detailed description of what the organization does.  I'm immediately struck by the fact that the article and its links do not actually tell the reader what a Standard is.  The ASTM definition of a standard, at least in paraphrase, would appear to be essential information.  Rules on committee balance are also important information that is missing.  I would normally jump straight in and do a major re-write, as I have done in other cases.  However, looking through the history page, I notice a major chunk of stuff eliminated 19 Sept 2006, and I got cold feet.  What's the problem?  Shall I go ahead and add these features?  Does someone else want to?
+
+[[User:LinguisticDemographer|LinguisticDemographer]] 13:53, 18 March 2007 (UTC)
+
+:Go right ahead. [[User:Una Smith|Una Smith]] 20:24, 18 March 2007 (UTC)
+
+:It looks like that huge chunk removed by [[User:Argyriou]] was copied straight from ASTM's [http://www.astm.org/ABOUT/ website]. It also has a significant amount of self-touting weasel words and phrases such as "a trusted source for technical standards..." and "ASTM answered the call..." And speaks nothing of the criticisms of ASTM. It was probably easier to simply dump the sections rather than rewrite them at the time.<br>You're welcome to dig in if you want; aside from using the standards in practice, I have very little familiarity with their organizational side. <b><i><font face="Times New Roman" color="darkblue">[[User:Zuejay|Zue]]</font></i><font face="Times New Roman" color="blue">[[Special:Contributions/Zuejay|Jay]]</font><small> ([[User talk:Zuejay|talk]])</small></b> 14:58, 18 March 2007 (UTC)
+
+==See also links==
+Some of these links seem very appropriate, such as the [[List of materials properties]] which references ASTM. <b><i><font face="Times New Roman" color="darkblue">[[User:Zuejay|Zue]]</font></i><font face="Times New Roman" color="blue">[[Special:Contributions/Zuejay|Jay]]</font><sup>[[User talk:Zuejay|talk]]</sup></b> 05:30, 13 February 2007 (UTC)
+
+:[[List of materials properties]] references [[ASTM International]] for a legitimate reason, but the converse link has no relevance in the article as written.  Instead, the reader should check ''what links here''. ASTM has thousands of committees, and lists them all on its website.  [[List of materials properties]] is borderline not allowed in wikipedia, being little more than a list.  [[User:Una Smith|Una Smith]] 15:31, 13 February 2007 (UTC)
+
+:The link to NFPA is also extraneous.  NFPA is just one of thousands of other organizations that have some role in developing standards.  But NFPA is not principally a standards developing organization;  NFPA also adopts standards, and has other purposes.  There are other, more relevant wikipedia pages to which this one should be linked, but that a job for someone who knows a lot about standards. [[User:Una Smith|Una Smith]] 15:55, 13 February 2007 (UTC)
+
+::Yeah, so some of these links are definitely questionable. The [[Search and rescue]] one was way out there. I didn't feel right taking NFPA off the list until I looked further into it; it does serve more purposes than just standards issuing and thus might be, as you indicated, a stretch; I think we can ding it for now (until another editor goes ''Hey!'' anyway ;) ). <br>The [[List of materials properties|materials properties]] is the type of thing I primarily use ASTM for; but ASTM issues many standards ranging from those to other, stranger, stuff (I think there's one involving a highchair). I'm walking the line on this one - probably because that's what I, and most other, [[civil engineering|civil engineers]] utilize the standards for. We might need a third opinion on that. (And as to whether or not the list shoud exist - you might consider raising that question on the bugger's [[Talk:List of materials properties|talk]] page; its a valid one.) <br> However, I would like to include [[Occupational Safety and Health Administration|OSHA]] and [[American Association of State Highway and Transportation Officials|AASHTO]] whose primary goals are to develop standards (and enforce, in the case of OSHA). Sound ok on these additions? <b><i><font face="Times New Roman" color="darkblue">[[User:Zuejay|Zue]]</font></i><font face="Times New Roman" color="blue">[[Special:Contributions/Zuejay|Jay]]</font><sup>[[User talk:Zuejay|talk]]</sup></b> 07:59, 14 February 2007 (UTC)
+
+:::Lets pretend for a moment that lists are allowed on Wikipedia.  In that case, a list of standards orgs belongs on [[standards organizations]], not on [[ASTM International]].  Re materials standards, doesn't NIST belong on your list too? [[User:Una Smith|Una Smith]] 23:48, 14 February 2007 (UTC)
+
+::::Ah, bugger. So really, the only "See also" links on this page should be for [[Standards organizations]], [[International standards]] and perhaps [[Standardization]]. All the individual orgs and agencies should be listed on [[Standards organizations]] page. It looks like the standards page needs a read-through as well, as it does not have NIST listed except for as an external link when it should be a "see also" as well (as you pointed out). <b><i><font face="Times New Roman" color="darkblue">[[User:Zuejay|Zue]]</font></i><font face="Times New Roman" color="blue">[[Special:Contributions/Zuejay|Jay]]</font><sup>[[User talk:Zuejay|talk]]</sup></b> 00:56, 15 February 2007 (UTC)
+
+==intro==
+
+[[User:LinguisticDemographer|LinguisticDemographer]] deleted ''Thousands of members from over 100 countries represent manufacturers, industry users, governments, researchers, and consumers.''  I'd like to put it back in, or put in something like it. It has been my experience that people who are interested in standards but are not members of ASTM do not understand that anyone who wants to pay $75/year can be a member.  And that any member can vote on any standard (although as a rule most don't exercise that right). [[User:Una Smith|Una Smith]] 18:38, 19 March 2007 (UTC)
+
+I added (under Membership) a sentence defining the the categories of members.  This was necessary in order to define the balance and voting rules.  This rendered the sentence in the preamble redundant.  Multiple votes (as I pointed out) are not allowed.  I was for years the voting member for a company that had over twenty ASTM members.  None of the others could vote.  Failure to vote on ballots results in expulsion from committees, so voting members had better exercise their right.  Anyone can vote in Task Groups, but these do not make standards.  I guess I can dig out the references from the rule book if you're not convinced by this. . . .[[User:LinguisticDemographer|LinguisticDemographer]] 19:49, 19 March 2007 (UTC)
+
+You were an organizational representative, casting the organization's
+vote.  In some ASTM committees it is common practice for all members to be individual members, each one with an individual vote.  To be really technical about it, if task groups do not make standards then subcommittees and committees also do not make them, because there is yet another level of review:  society review.  ASTM's rule book is online, BTW, and I have a copy.
+
+I just want the intro to state that ASTM has a significant and growing international membership;  it isn't a purely "American" (meaning USA) standards organization. [[User:Una Smith|Una Smith]] 01:17, 20 March 2007 (UTC)
+
+Fine: thanks for the addition.  It might be worth while finding out the proportion of non-North American members (of which I'm one).  I'll see what I can dig out. . . .[[User:LinguisticDemographer|LinguisticDemographer]] 08:42, 20 March 2007 (UTC)
+
+==Worldwide view==
+There is currently a tag indicating that a worldwide view is needed.  I have expanded the discussion to more international subjects.  I have given an example of international usage of ASTM. Yet, the tag remains.  Please tell us specifically what your objection is.  We cannot fix something without a detailed explanation of the problem.  Rlsheehan  July 20, 2007
+
+:If you follow the interwiki links to other language wikipedia, you may begin to understand how narrow this page is. --[[User:Una Smith|Una Smith]] 23:20, 20 July 2007 (UTC)
+
+:In any case, if you're at a loss about what to write then leave it for someone else to do. --[[User:Una Smith|Una Smith]] 23:35, 20 July 2007 (UTC)
+
+I'd like to open up discussion on this, since the tag is still there after 6/7 weeks.  What do we need to do to obtain the required international viewpoint, so that the tag can be removed?  Just how much international view is necessary (or available) on the subject of an organization that is essentially American?  The [[St. Louis Cardinals]] article appears to have a mainly American viewpoint, but that's not a problem, because people outside the US a) don't much care about them, and b) don't know enough to make sensible edits.  Following the above suggestion, I have looked through all the interwiki links, and I'm still in the dark as to what else is needed to adequately "internationalise" the article.  I agree that people who can't think of anything to write should defer to those who can.  But in view of the fact that the tag is still there, the latter category is presumably unpopulated.  If anybody feels that the article still lacks ''adequate'' international viewpoint, please make a detailed list of its deficiencies, so that editors can address them.  If no list appears, I shall remove the tag. . . .[[User:LinguisticDemographer|LinguisticDemographer]] 19:40, 10 September 2007 (UTC)
+
+Hm.  ASTM's website is increasingly multilingual, so there is more material for non-English wikipedia to use and cite.  And its magazine seems to report every month a new MOU between ASTM and one or more foreign national standards bodies.  Then there is adoption of ASTM standards by '''inter'''national standards bodies.  And there is the significance of certain ASTM standards for international trade (eg, in food ingredients, steel, oil and gas products), etc. --[[User:Una Smith|Una Smith]] 21:12, 10 September 2007 (UTC)
+
+The purpose of the article is to describe ASTM, not to sell it.  Presumably in the interests of NPOV, so that the article doesn't sound like an advert for ASTM (prohibited by Wikipedia policy), we ought also to mention the prevailing international opinion that ASTM is a relatively insignificant player on the world standardisation stage.  Its standards "market share" speaks volumes.  One can (and one will) argue that the ASTM website and "Standardization News" are not suitably neutral citation sources.  No doubt non-English-Wikipedia editors appreciate this point.  And if the non-English articles are insufficiently fulsome in their praise of ASTM, presumably it's those articles that need tagging, and not this . . . .[[User:LinguisticDemographer|LinguisticDemographer]] 23:28, 10 September 2007 (UTC)
+
+The ASTM website and magazine are not neutral but they are a source of facts (eg, which national standards bodies have signed MOUs with ASTM).  Do you have an appropriate source for "the prevailing international opinion that ASTM is a relatively insignificant player"?  If the world view of ASTM is that it is a minor player, put that in the article.  The ASTM page on most other wikipedia is a stub, so don't merit more precise tagging.  I think one of the most interesting things about ASTM is that it as large as it is, despite not being a national standards body.  And the pros and cons of a volunteer-based standards development organization merit some discussion. --[[User:Una Smith|Una Smith]] 04:10, 11 September 2007 (UTC)
+
+I agree that a lot more can be said about ASTM, in an objective way.  I'm not sure that MOUs are all that significant: most of these bodies also have MOUs with other standards suppliers: if it were otherwise it would be "restraint of trade".  I suppose that one could cite the dismissively small non-English-Wikipedia articles as evidence of the world view.  No, just kidding - Wikepedia articles are ''far'' too unreliable for that!  I recall a survey that showed ASTM's market share at around 11% - I'll see if I can find it. . . .[[User:LinguisticDemographer|LinguisticDemographer]] 11:23, 11 September 2007 (UTC)
+
+==History==
+
+The Italian and Spanish wikipedia mention the ancient history of ASTM International.  Relevant to that history, on [[JSTOR]] I find this:
+
+Title:	
+	The Work of the International Association for Testing Materials
+Authors:	
+	Merriman, Mansfield
+Publication:	
+	Science, Volume 10, Issue 247, pp. 396-402
+Publication Date:	
+	09/1899
+
+Does anyone here have access to JSTOR and care to write a synopsis of this article so we can cite it? --[[User:Una Smith|Una Smith]] 23:33, 20 July 2007 (UTC)
+
+Some more (and interesting) material about IATM and Charles Dudley is [http://www.astm.org/cgi-bin/SoftCart.exe/HISTORY/hist_chapter1.html?E+mystore here]. --[[User:Una Smith|Una Smith]] 23:39, 20 July 2007 (UTC)
+
+== Usefulness to the General Public ==
+
+It would be most helpful to cite a reference, or have links to provide the non-engineering public where to go for a layman's understanding of ASTM citations on consumer products (construction materials, supplies, and other safety products), or at least where one can go for an interpretation of the Standards.  ASTM citations on a product only provides an indecipherable code, written by and between materials testing engineers. While this may be a good thing for them, the public has no way of breaking the code (to understand whether the standard is appliciable to a particular purpose) unless they are willing to shell out costly document (approx $12/page each of which customarily references numerous other standards), or membeship fees [http://www.astm.org/cgi-bin/SoftCart.exe/DEMO/subscriptions.htm?L+mystore+phkv2421+1189778373].   For Example: I hired a local firm to install a stucco application on my home. I was counting on them matching the materials to their previous work. When they began they used a new subtrate cement backer-board which was had a goodly percentage of styrofoam aggregate along with the customary cement. I was concerned about the fire rating of the finished work given that styrofoam emits a deadly gas when exposed to heat.  The backer board cited an ASTM code (HTML link [http://www.astm.org/cgi-bin/SoftCart.exe/DATABASE.CART/REDLINE_PAGES/C1535.htm?L+mystore+bwbq9052+1189802324]) which did not lend any intelligence on the matter. Were I to pay the $35 for the referenced document, I cannot be sure that would find what I was looking for.
+
+[[User:James Hade|James Hade]] 13:27, 14 September 2007 (UTC)
+: That is a good question.  As to availability, a set of ASTM standards is often found in the reference section of a major library, certainly a library of an engineering college. But yes, these are often technical [[specification]]s or [[test method]]s which the lay public might not relate with.  As an engineer, I support ASTM and other technical standardization groups - - - but not blindly.  Just because an item is stamped with an ASTM specificaiton number does not, by itself, indicate that the item is correct for any particular use.  The people who use the item (engineers, trade unions, etc) or specify the item (building codes, government, industry, etc) have the responsibility to consider the available specifications, specify the correct one, enforce compliance, and use the item correctly. This does not fully answer your question but I hope it helps a little.  [[User:Rlsheehan|Rlsheehan]] 14:53, 14 September 2007 (UTC)
+
+== What system is used in ASTM International? ==
+
+Is it a metric system - or imperial american measure system???  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/203.34.140.154|203.34.140.154]] ([[User talk:203.34.140.154|talk]]) 04:31, 28 November 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Wikipedia Projects? ==
+
+This article talk page does not show any Wikipedia projects. The organization is very important, and should have projects shown. Perhaps {{WPMeasure}? --[[User:Dthomsen8|DThomsen8]] ([[User talk:Dthomsen8|talk]]) 12:06, 13 June 2009 (UTC)
+
+:If anything it would probably be a business wikiproject, but you ought to ask someone who's part of the project to confirm that. [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 13:25, 13 June 2009 (UTC)
+
+== Headquarters location in Philadelphia ==
+
+The ASTM headquarters was formerly in the 1800 block of Race Street on [[Logan Circle]] in Philadelphia, but they moved out and their building was sold to [[Moore College of Art]], which was already next door. Can this history be added to the article, with the date, which I don't know. --[[User:Dthomsen8|DThomsen8]] ([[User talk:Dthomsen8|talk]]) 12:13, 13 June 2009 (UTC)
+
+:I don't see how this is important to the article. Perhaps the only thing that ''might'' be worth mentioning is that their headquarters were at A, but then moved to B in XXXX. [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 13:29, 13 June 2009 (UTC)
+
+== What does this mean? ==
+
+As someone familar with ASTM and wikipedia, I'm even having trouble understanding this statement in the "History" heading:
+:The organization celebrated its Centennial in 1998 with an examination of the group's mission and discussion about their relevance in today's global environment.
+This seems to touch a bit of recentism, but more importantly, I'm unclear as to what is meant by "examination of the group's mission...relevance".  In my view, this needs to be sourced and have more detail about the results of such an examination; or it should be removed.  Thoughts? <span style="color:Purple">—</span> '''[[User:Fcsuper|<span style="color:#006699">f</span><span style="color:#6666FF">c</span><span style="color:#666699">s</span><span style="color:#336633">u</span><span style="color:#006699">p</span><span style="color:#6633FF">e</span><span style="color:#9966FF">r</span>]]'''<sup> ([[:User talk:Fcsuper|<span style="color:Olive">How's That?</span>]], [[Special:Contributions/Fcsuper|<span style="color:Teal">That's How!</span>]])</sup> <sub>([http://meta.wikimedia.org/wiki/Exclusionism <span style="color:Maroon">Exclusionistic</span>] [http://meta.wikimedia.org/wiki/Immediatism <span style="color:Red">Immediatist</span>] ) </sub><span style="color:Purple">—</span>  20:54, 30 November 2010 (UTC)
+
+:It's sounds like pure marketing bullcrap to me. Remove it. [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 21:03, 30 November 2010 (UTC)
+
+::Someone bet me to it. :)  <span style="color:Purple">—</span> '''[[User:Fcsuper|<span style="color:#006699">f</span><span style="color:#6666FF">c</span><span style="color:#666699">s</span><span style="color:#336633">u</span><span style="color:#006699">p</span><span style="color:#6633FF">e</span><span style="color:#9966FF">r</span>]]'''<sup> ([[:User talk:Fcsuper|<span style="color:Olive">How's That?</span>]], [[Special:Contributions/Fcsuper|<span style="color:Teal">That's How!</span>]])</sup> <sub>([http://meta.wikimedia.org/wiki/Exclusionism <span style="color:Maroon">Exclusionistic</span>] [http://meta.wikimedia.org/wiki/Immediatism <span style="color:Red">Immediatist</span>] ) </sub><span style="color:Purple">—</span>  07:35, 1 December 2010 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[ASTM International]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=698797996 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20051119212130/http://www.tc.gc.ca:80/tdc/summary/14000/14063e.htm to http://www.tc.gc.ca/tdc/summary/14000/14063e.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner]]:Online</sub></small> 08:59, 8 January 2016 (UTC)
+
+== What was the original name? ==
+
+According to the intro, ASTM was founded as "the American Section of the International Association for Testing Materials". In the history section, however, no "International Association" is mentioned, and the original name of ASTM is given as "the American Society for Testing Materials". I suspect that one of the sections is incorrect here? [[User:Nikolaj1905|Nikolaj1905]] ([[User talk:Nikolaj1905|talk]]) 11:19, 9 May 2018 (UTC)

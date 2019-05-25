@@ -24,13 +24,13 @@ def getContent(titleList):
         print('%s saved successfully' % title.split('\n')[0])
         index += 1 
 
-    with open('./dataset/articles.pkl', 'wb') as temp:
+    with open('./big dataset/articles.pkl', 'wb') as temp:
         pickle.dump(articles, temp)
     print('%d articles pickled successfully.' % index)
 
 def saveData(para = False):
     '''
-    This function saves the data as 2d and 3d pickles 
+    This function saves the data as 2d and 3d pickles, if para is true then talk comments are sampled as a para otherwise as a sentence 
     '''
     pids = []
     responses = []
@@ -170,8 +170,8 @@ if __name__ == "__main__":
     main/ driver function
     '''
     # testDataSP()
-    # articlesList = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()
-    # getContent(articlesList)
+    articlesList = open('./big dataset/train/2-20wikiArticleNames.txt', 'r', encoding='utf-8').readlines()
+    getContent(articlesList)
     # saveData(para=True)
     
     # articles = []
@@ -181,5 +181,5 @@ if __name__ == "__main__":
     # sampling.trainingData(articles, tuples=10000, overall=True)
     
     # trainPP()
-    print('\n\n*********************\nSampling Test Data\n')
-    testDataPP()
+    # print('\n\n*********************\nSampling Test Data\n')
+    # testDataPP()

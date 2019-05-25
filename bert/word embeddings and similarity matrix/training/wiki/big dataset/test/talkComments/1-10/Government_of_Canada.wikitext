@@ -1,0 +1,210 @@
+{{WikiProjectBannerShell|1=
+{{WikiProject Canada|class=C|importance=Top|cangov=Yes}}
+{{WikiProject Politics|class=C|importance=mid}}
+}}
+{{Canadian English}}
+
+==Moved==
+I've mostly copied and pasted parts from the [[Politics of Canada]] article. It needs work, so I hope there will be help. -[[User:PullUpYourSocks|PullUpYourSocks]] 01:30, 7 July 2006 (UTC)
+:I think your solution was great. As I commented on the [[Politics of Canada]] [[Talk:Politics_of_Canada#Requested_move|talk page]], there may be articles pointing there that really ought to link to this article. I assume the long list of articles already linking did so when this article was still a redirect, so it might not be necessary to undertake such a review. I'll keep my eyes open and take care of it if and when I get a chance. [[User:Agent 86|Agent 86]] 23:46, 10 July 2006 (UTC)
+
+== Reference to Government ==
+
+I think that this page should perhaps include a note at the top that would read something along the lines of:
+
+''The '''Government of Canada''' often refers to the governing ministry, rather than the institution of government as a whole.  For this usage, see the [[28th Canadian Ministry|28th Ministry of Canada]].''
+
+When I searched for Government of Canada, I was actually searching for a page about the ''current'' Government (as in the Conservative Government), and I think it would make sense if we had a quick link at the top to that effect.  Thoughts? [[User:Paradokuso|Paradokuso]] 06:59, 26 July 2006 (UTC)
+
+== Usage ==
+
+Should say this:
+
+In [[Canadian English]], the word "[[government]]" is used to refer '''both''' to the whole set intitutions that govern the country (following American usage, but where Britons would use "[[state]]"), and to the current political leadership (following British usage, but where Americans would use "[[administration]]").  For example a Canadian could be a "government employee" but never a "state employee", and they would vote for the "[[Harper government]]" but never the "Harper administration".
+
+Right?! [[User:Kevlar67|Kevlar67]] 22:16, 18 October 2007 (UTC)
+
+:: I'll take that as a yes. [[User:Kevlar67|Kevlar67]] ([[User talk:Kevlar67|talk]]) 00:04, 21 November 2007 (UTC)
+
+::::Bingo. I've reworked it for better clarity though, and added a reference. - [[User:The Fwanksta|The Fwanksta]] ([[User talk:The Fwanksta|talk]]) 04:03, 26 January 2009 (UTC)
+
+Official government press releases traditionally do not use the name of the Prime Minister to identify the government. This is a fairly recent occurrence as the citation supports. It was also very controversial.<ref>http://www.theglobeandmail.com/news/politics/tories-re-brand-government-in-stephen-harpers-name/article1929175/</ref> To say that it is general practice is somewhat misleading.[[User:Rich1542|Rich1542]] ([[User talk:Rich1542|talk]]) 17:38, 17 March 2013 (UTC)Rich1542
+
+{{reflist-talk}}
+
+==Fair use rationale for Image:Can-pol w.jpg==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Can-pol w.jpg]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Can-pol w.jpg|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.<!-- Template:Missing rationale2 -->
+
+[[User:BetacommandBot|BetacommandBot]] 05:40, 27 October 2007 (UTC)
+  :D  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2001:550:1D05:B:0:0:0:2|2001:550:1D05:B:0:0:0:2]] ([[User talk:2001:550:1D05:B:0:0:0:2#top|talk]]) 14:32, 8 May 2018 (UTC)</small> <!--Autosigned by SineBot-->
+
+== Capitalization ==
+
+Terms for offices such as governor general, prime minister, and premier appear to be capitalized inconsistently throughout the article. Is there a rationale for the current capitalization choices, or should I clean it up? -[[User:Rrius|Rrius]] ([[User talk:Rrius|talk]]) 09:31, 25 December 2007 (UTC)
+:After reviewing [[WP:Manual of Style (capital letters)#titles|the Manual of Style]], I think editors may have used its rule of thumb while ignoring the basic rule. The issue is general versus specific uses of "prime minister". Capitalize it when discussing the official title (''Prime Minister of Canada''), when using it as a prenomial title (''Prime Minister Stephen Harper''), or when using it to refer to a specific individual ("today the ''Prime Minister'' met with the premiers of Alberta and Ontario"). When writing of the office generally, it should be lower case. For example, "such appointments are made on the advice of the ''prime minister''". -[[User:Rrius|Rrius]] ([[User talk:Rrius|talk]]) 16:07, 25 December 2007 (UTC)
+
+ok i really like vewin this information it was really helpful  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.229.105.215|76.229.105.215]] ([[User talk:76.229.105.215|talk]]) 23:05, 16 March 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+The usage here doesn't seem to gel with similar articles, such as [[Federal government of the United States#Executive branch]], where "President" is used throughout, although forms such as "presidential" or "presidency" are uncapitalised. This is usual in written English. One talks of "a president" but "the President". As with "Queen" and "Governor-General". --[[User:Skyring|Pete]] ([[User talk:Skyring|talk]]) 04:12, 16 December 2011 (UTC)
+:Rrius correctly summarises the Manual of Style above. In the sentence "she appoints as her viceregal representative in Canada a governor general", "governor general" refers to the office generally. It therefore should not be capitalised in that context. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 22:52, 16 December 2011 (UTC)
+
+==WikiProject template and assessment==
+I changed the WP Canada template today by removing links to the individual provinces/territory projects (as redundancies) and I raised the quality rating from 'Start' to 'C'.  The article is of reasonable quality, although it is need of more referencing and footnoting.  '''[[User:PKT|<font color="#880088">PK</font>]][[User talk:PKT|<font color="#449900">T</font>]]''' 00:46, 16 September 2008 (UTC)
+
+== Aboriginal Governance Section should be Added ==
+
+There is nothing about Aboriginal Governance in the article. First Nations essentially operate at a level of Government that is provincially separate. I believe information should be added regarding Aboriginal governance in Canada historically and contemporarily.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.17.170.158|71.17.170.158]] ([[User talk:71.17.170.158|talk]]) 21:19, 3 November 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==The constitutional powers and rights of the Crown==
+:My suggestion is that the facts be simply presented as thus, which is that the executive power of the country is vested in the Crown (i.e. the Queen and Governor General). Thus, Forsey's interpretation is entirely correct as the standard in law. As the quoted Canadian public service article itself states:
+:::<small>Since Canada is a constitutional monarchy, the Queen is the head of state in whom full executive power is vested. When the Queen is not in Canada, she is represented by the Governor General, who exercises the legal powers of the Crown on her behalf. For the most part, the Governor General exercises these powers “with the advice” or the “advice and consent” of the Queen’s Privy Council for Canada ... The executive power of the government is extensive ... Under the constitution these powers are exercised by the Crown on the advice of the elected government of the day. At issue is whether the convention leaves any discretionary decision-making room in the hands of the Crown, that is, room not to follow the advice of the government and instead to do something else. If the Crown is to serve as a check on the government of the day, it must possess a discretionary power. Otherwise, it is simply a rubber stamp of the government’s actions.</small>
+:Then the CSPS goes on to state:
+:::<small>Forsey’s credibility as an authority on these matters notwithstanding, many Canadians today would find these scenarios unthinkable. Thankfully, they are not used to seeing Prime Ministers act unconstitutionally and naturally would regard such concerns as overblown. '''Furthermore, they might view the exercise of the reserve power of the Crown as undemocratic because the Crown is not an elected institution''' ...  Yet the system of responsible government needs a head of state with enough independence to withstand a determined government’s assault on the constitution, although not enough to interfere in democratic politics.</small>
+:I bolded that one sentence because it is referring to the Canadian people. It is not presenting an official or legal opinion, but rather hypothesizing a possible reaction on the part of the Canadian populace in the event of the Crown exercising its executive power, which normally is viewed as ceremonial and symbolic by the population. However, the gist of what the article is talking about is that in reality, the power of the Crown is '''not''' ceremonial or symbolic - far from it. The CSPS is further stipulating that the Crown '''must''' retain this ability to counteract the government in the event of a constitutional crisis.
+:So, we simply need to state the facts, which is that the Crown has real (as opposed to symbolic or ceremonial) executive power and has the right to exercise that power if it so chose, which normally it does not, except under those circumstances when the government is acting unconstitutionally, which in this day and age, is quite rare. If I'm not mistaken, none of the editors disputes any of this, and the CSPS basically states exactly this, and this is a publicaation which is intended primarily for public servants.
+:However, the Liberal Party has a different opinion. They believe that the Crown has absolutely no right whatsoever to exercise its executive power independently. In other words, the Liberals have a very controversial disagreement with the constitution, and this is not surprising considering the level of republican sentiment in the Liberal Party, so this is consistent with the direction that they've been heading in for years, i.e. attempting to transform the Crown into a purely ceremonial institution or eliminate it altogether. But that's just my opinion.
+:Thoughts? Comments? [[User:IranianGuy|IranianGuy]] ([[User talk:IranianGuy|talk]]) 16:20, 4 November 2008 (UTC)
+:: The paper doesn't take a position on the powers of the GG. It reviews the POV of monarchists Forsey (which is essentially the POV that you summarize above}, and summarizes the POV of most Canadians and Liberal governments (i.e. that the Crown would not have the democratic legitimacy to interfere in Canadian politics. It reviews various opinions on the matter. It's also not Republican to believe that the GG or monarch should have no discretionary powers. It just means that you believe the Crown should be strictly ceremonial, which it has been since 1926. In anycase, the important thing in the article is that all significant views be presented fairly.  --[[User:Soulscanner|soulscanner]] ([[User talk:Soulscanner|talk]]) 08:37, 5 November 2008 (UTC) 
+I also have to say editing this particular section is a bit tedious considering all the citation tags. Is there any way at all to streamline them or organize them together somewhere else so the text is not so cluttered in the editing box? The way it is now, you have to constantly find your place again with the text in between these hideous tags. It's a rather cumbersome way of editing text. [[User:IranianGuy|IranianGuy]] ([[User talk:IranianGuy|talk]]) 16:35, 4 November 2008 (UTC)
+: It's a problem. I don't know how to solve it. --[[User:Soulscanner|soulscanner]] ([[User talk:Soulscanner|talk]]) 08:37, 5 November 2008 (UTC)
+
+== Important notice ==
+
+The [[Outline of Canada#Government and politics of Canada|government section of the "Outline of Canada"]] needs to be checked, corrected, and completed -- ''especially the subsections for the government branches''.
+
+When the country outlines were created, temporary data (that matched most of the countries but not all) was used to speed up the process.  Those countries for which the temporary data does not match must be replaced with the correct information.
+
+If you have any questions or comments, please contact [[User talk:The Transhumanist|<i>The Transhumanist</i>]] .
+
+Thank you.
+
+== Monarchy ==
+
+I recently moved the monarchy section down the body of the article. The move was reverted citing "precedence". The monarchy has very little relevance in the modern Canadian government and should not be one of the first focal points of the article. For a reader not familiar with the government it would appear that the nation is ruled by the monarch in day to day affairs, which is obviously misleading. The section should be moved down to allow for more focus on relevant government information of "today's" Canada. After all this isn't the 1800's. [[User:Po&#39; buster|Po&#39; buster]] ([[User talk:Po&#39; buster|talk]]) 15:24, 8 April 2010 (UTC)
+:Prececence in the sense of wider concepts before narrower ones. All areas of Canadian governance in all jurisdictions of the country derive their authority from the Crown. It's therefore counterintuitive to explain the first institution of government last. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 15:35, 8 April 2010 (UTC)
+
+::The monarchy does not affect day to day governance of Canada. They have simply become symbolic figure. [[User:Po&#39; buster|Po&#39; buster]] ([[User talk:Po&#39; buster|talk]]) 15:45, 8 April 2010 (UTC)
+:::All areas of Canadian governance in all jurisdictions of the country derive their authority from the Crown, though the royal figures have predominantly ceremonial roles. This is explained in the article; have you even read it? --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 15:55, 8 April 2010 (UTC)
+
+::::I have read it and have a vast knowledge of the Canadian system. Please do not question my intelligence again. Perhaps you should join the rest oft he nation in 2010, or would you prefer to keep pretending it is 1867 ? [[User:Po&#39; buster|Po&#39; buster]] ([[User talk:Po&#39; buster|talk]]) 16:01, 8 April 2010 (UTC)
+:::::I think I'm within my rights to question your knowledge when you demonstrate a lack of it and cover that deficiency with snide personal attacks. Please review [[WP:NPA]]. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 16:05, 8 April 2010 (UTC)
+
+::::::It is you who seems to be delivering the "snide personal attacks". I am simply stating the monarchy is all but a ceremonial symbolic figure in Canada. It has little relevance to day to day governance. Period. [[User:Po&#39; buster|Po&#39; buster]] ([[User talk:Po&#39; buster|talk]]) 16:08, 8 April 2010 (UTC)
+:::::::I see no personal attack directed your way. Can you be more precise?
+:::::::That the monarchy "has little relevance" to the Canadian government remains your personal opinion. Your description of the monarchy as a "figure" might suggest you're confused between the person who is sovereign and the institution of the Crown; the former certainly has little direct participation in governance, but the latter permeates government in every way. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 16:21, 8 April 2010 (UTC)
+::::::::I am more than familiar with the monarch position in Canada and have studied it for years. I have a number of "pieces of paper" on the wall to show for it. Perhaps you are confused with what the monarch in Canada truly entails. The point is it shouldn't be the main focal point of the article, no matter how relevant it "was". [[User:Po&#39; buster|Po&#39; buster]] ([[User talk:Po&#39; buster|talk]]) 16:26, 8 April 2010 (UTC)
+:::::::::It's counterintuitive to explain the first institution of government last. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 16:35, 8 April 2010 (UTC)
+As the article is written, it makes more sense to have the monarch first, and I'm not sure that rewriting it would really make a difference. Neutered or not, the Crown connects each of the other sections: Executive, legislature, judiciary, and federalism. It would be weird to discuss those in sequence, then say, "Oh, by the way, here is this other thing that ties the others together and is where sovereignty comes from." I say this as an American (and let's please skip the "As an American, you couldn't possibly know what you're talking about" drivel) who has no ax to grind in the monarchist-republican debate. Canada is a constitutional monarchy, and what that higher level concept means should be dealt with before trying to explain the machinery of government. -[[User:Rrius|Rrius]] ([[User talk:Rrius|talk]]) 18:45, 8 April 2010 (UTC)
+:I agree, but I feel it should be mentioned in the lead with a brief description, and the main section with a lengthy description below. It would appear that Canada is a loyal subject to the Queen herself from the looks of this article, and not a separate self governing body (which it basically is). But I could care less if it remains the way it is, obviously some feel strongly about "her majesty". Either way is fine with me I guess. [[User:Po&#39; buster|Po&#39; buster]] ([[User talk:Po&#39; buster|talk]]) 19:43, 8 April 2010 (UTC)
+:: I agree that the Crown should be detailed first, as every facet of HM Government is derived from the Crown. And in response to the above, the ideas of Canada as "a loyal subject of the Queen herself", and as a "separate self governing body", are not mutually exclusive. The institution of the Crown, and position of HM the Queen of Canada, are independent and separate from those of other countries and are thus uniquely Canadian.   [[User:Trackratte|Trackratte]] ([[User talk:Trackratte|talk]]) 01:30, 3 February 2011 (UTC)
+
+Explaining the Canadian government starting from the monarchy is like explaining mathematics starting with axiomatic set theory: technically true and practically useless. I came to this article hoping to learn how my government works in practice and I'm leaving disappointed. [[Special:Contributions/24.67.204.216|24.67.204.216]] ([[User talk:24.67.204.216|talk]]) 07:52, 7 December 2012 (UTC)
+:Perhaps you could be a little more constructive and offer a draft of your proposal for a comprehensive, reliably sourced article on the government of Canada that ignores the so-called "practically useless", "irrelevant" monarchy. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 17:05, 7 December 2012 (UTC)
+
+:Ours is a constitutional monarchy, with a often physically absent monarch. But, it ''is'' a constitutional monarchy & should be treated like the constitutional monarchial governments of the world :) [[User:GoodDay|GoodDay]] ([[User talk:GoodDay|talk]]) 00:25, 8 December 2012 (UTC)
+
+==Logo==
+I see an edit war brewing between [[User:Oddbodz]] and [[User:Miesianiacal]] on whether the Government of Canada "wordmark" ("Canada" with the flag about the last "a") should be included along with the flag to the left of "Government of Canada/Gouvernement du Canada". As the "Canada" mark is the logo that the Government uses on all of its communications and buildings, I say "yea". The "Government of Canada/Gouvernement du Canada" is also used, but it is not the most commonly used symbol of the government. [[User:Ground Zero|Ground Zero]] | [[User talk:Ground Zero|t]] 18:51, 16 April 2011 (UTC)
+
+:The logo with the flag to the left is incorrectly labelled as the "Wordmark".  The following is from the Federal Identity Program<ref name="Federal Identity Program">{{cite web|url=http://www.tbs-sct.gc.ca/fip-pcim/man-eng.asp}}</ref> :
+
+:The Coat of Arms symbol is used to identify ministers, secretaries of state, parliamentary secretaries and their offices, institutions whose heads report directly to Parliament and institutions with quasijudicial functions. 
+
+:The flag symbol [the flag to the left] is used to identify all departments, agencies, corporations, commissions, boards, councils, and other federal bodies and activities, unless they are authorized to use the Coat of Arms symbol.
+ 
+:The Canada wordmark [the flag over the letter "a"] is the global identifier of the Government of Canada and is used in association with the appropriate signature (incorporating the flag or the Coat of Arms symbol). [[Special:Contributions/198.103.104.11|198.103.104.11]] ([[User talk:198.103.104.11|talk]]) 16:53, 11 January 2012 (UTC)
+
+::With five little maple leaves on the page, will people get the impression that Canadians have an inferiority complex? I think it could look better with fewer, myself. [[WP:ICONDECORATION]] comes into play. --[[User:John|John]] ([[User talk:John|talk]]) 08:46, 9 April 2013 (UTC)
+
+{{reflist-talk}}
+
+=="Her majesty's gov't" as formal name *correction has been made*==
+
+Methinks "Government of Canada" is the formal name, as all gov't-issued materials carry that name, not "Her majesty's gov't". That would imply a correction is needed to the very first sentence as it stands now.  [[User:Elpincha|elpincha]] ([[User talk:Elpincha|talk]]) 06:11, 2 July 2011 (UTC)
+
+: I believe Her/His Majesty's Government is the formal name. The term "Government of Canada" is the corporate title, as well as in common usage. [[User:Trackratte|Trackratte]] ([[User talk:Trackratte|talk]]) 06:15, 12 February 2012 (UTC)
+
+I see that the article now reads "The Government of Canada, formerly Her Majesty's Government" [[User:MsBatfish|MsBatfish]] ([[User talk:MsBatfish|talk]]) 11:40, 17 October 2011 (UTC)
+
+== Queen-in-Council?? (definition of the term "government") ==
+
+The introduction currently states, "in Canadian English, the term can mean either the collective set of institutions or specifically the Queen-in-Council." I believe that the word government in Canadian English can refer to more than just those two things. In addition, forgive my ignorance, but I am confused about what the "Queen-in-Council" even is. The "Queen-in-Council" article itself is a stub and I found it difficult to understand. Is there some way this sentence could be re-written to make it clearer and more comprehensive? I didn't want to just go ahead and edit it without an understanding on what the "Queen-in-Council" is. I am a Canadian and I have never heard that term used before. Is it perhaps an antiquated term that is not regularly used in the public vernacular? And, when I think about it, the phrase "the collective set of institutions" could be a bit clearer as well. Thoughts? [[User:MsBatfish|MsBatfish]] ([[User talk:MsBatfish|talk]]) 11:24, 17 October 2011 (UTC)
+
+ADDITION: I also noticed under Usage that there is a similar definition:
+"In Canadian English, the word government is used to refer both to the whole set of institutions that collectively govern the country as well as the reigning monarch, or her viceroy, in her current council; when used in the latter context, the word is usually capitalized to make the distinction.[10] Thus, Canadians would say the 28th Ministry is the Government that currently administers the Canadian government. Contrasts can be drawn with the British usage — where the government is synonymous with the state — and the American usage — where the Government is synonymous with the administration."
+
+Is it really true that the word government is used in Canada to refer to "the reigning monarch or her viceroy"?? Meaning that the Queen of England is the "government" of Canada?
+
+Another sentence of this paragraph that I would dispute is that "Contrasts can be drawn with the British usage — where the government is synonymous with the state — and the American usage — where the Government is synonymous with the administration" - in the public vernacular the administration is often referred to as "the government". If the article is making a distinction between the technical or legal meaning of the term "government" as opposed to the way the term is widely used by the people, perhaps this distinction should be outlined? [[User:MsBatfish|MsBatfish]] ([[User talk:MsBatfish|talk]]) 11:38, 17 October 2011 (UTC)
+:The Queen of England is not the government of Canada, no. The last Queen of England died some three centuries ago. According to Section III of the Constitution Act 1867, the executive government of Canada is the Queen of Canada in Council, usually acting through her representative, the governor general. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 17:17, 17 October 2011 (UTC)
+
+* Thank you [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]] I wish the article on the "Queen in Council" was clearer! Although I did mean the current monarch of the UK, sorry if I didn't use the correct term. So are you saying she is the "Queen of Canada in Council"? So I guess that is a technical/legal definition then, as opposed to a vernacular one? No one refers to the governor general as "the government". But I'm still not sure how one would go about making the article easier to understand?
+: Another thing I noticed is that the article states that there is a distinction between the meaning of the word government as used by the Canadian public as opposed to as used by the American public and that no one in Canada would refer to the administration as the government. But I actually hear this done all the time. It seems like this was opinion or at least "original research" (and I know that what I'm saying is too), but can I remove that sentence on that basis? [[User:MsBatfish|MsBatfish]] ([[User talk:MsBatfish|talk]]) 11:26, 19 October 2011 (UTC)
+
+I would also dispute the statement "Contrasts can be drawn with the British usage — where the government is synonymous with the state — and the American usage — where the Government is synonymous with the administration" I favor either citing a reference supporting it or removing it. My argue for removing follows: the American Federal Constitution specifies a "seat of Government" but does not limit the capital "G" Government as being an administration, or president or congress (etc.).  An example of this non-localization of the term Government is found in the American Federal Bill of Rights, where it states in the first amendment, it part, ".. petition the Government for a redress of grievances..".  Who is petitioned? The amendment does not direct (or limit) petitioning action towards the President, Congress or Courts.  Instead it leaves it open ended.  [[User:Rmo111|Rmo111]] ([[User talk:Rmo111|talk]]) 19:08, 28 January 2012 (UTC)
+:I don't beleive that paragraph refers to official usage, but common, instead. Could sources therefore not be found in media articles? --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 22:45, 28 January 2012 (UTC)
+
+:What happened is that in January 2009 an editor who didn't know what he or she was talking about reworded the passage such that it took on the opposite meaning to what it had previously said. It was so badly worded that it couldn't even be set right by swapping "British" and "American". I have restored the old wording that was correct and understandable. -[[User:Rrius|Rrius]] ([[User talk:Rrius|talk]]) 09:17, 9 April 2013 (UTC)
+
+== Anon reverts ==
+
+Would the anon user {{user|2.27.78.52}}/{{user|2.25.186.230}}/{{user|2.27.81.7}} care to explain why he/she feels allowed to disregard [[WP:LR]]: "Do not delete cited information solely because the URL to the source does not work any longer. WP:Verifiability does not require that all information be supported by a working link"? Further, how the word "dominion" disqualifies a source; [[WP:RS]] makes no mention of it. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 01:00, 17 January 2015 (UTC)
+:Neither of these sources support the claim made. [[Special:Contributions/2.27.78.52|2.27.78.52]] ([[User talk:2.27.78.52|talk]]) 01:08, 17 January 2015 (UTC)
+::What do the sources claim, then? --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 21:36, 17 January 2015 (UTC)
+::Let me answer that for you:
+::* [https://gct3.net/grand-chiefs-office/gct3-info-and-history/government-of-canada-document/]: "...[A]lso to lay aside and reserve for the benefit of the said Indians, to be administered and dealt with for them by ''Her Majesty's Government'' of the Dominion of Canada, in such a manner as shall seem best..."
+::* [http://www.speech.gc.ca/eng/frequently-asked-questions-faq]: "The Governor General, as the Queen's representative in Canada, reads the Speech from the Throne prepared by the government of the day, which is ''Her Majesty's government''."
+::* [http://www.canadiancrown.com/crown-of-maples-2012.html]: "In the day-to-day operation of government, the use of terms such as 'The Queen's Privy Council for Canada,' <nowiki>'</nowiki>''Her Majesty's Government''<nowiki>'</nowiki> and 'the Leader of Her Majesty's Loyal Opposition' serves to reinforce the point that basic authority and legitimacy of government fow from the Crown on behalf of the people."
+::Hope that clears things up for you, {{user|Chrisieboy}}. --<span style="border-top:1px solid black;font-size:80%">[[User talk:Miesianiacal|<span style="background-color:black;color:white">'''Ħ'''</span>]] [[User:Miesianiacal|<span style="color:black">MIESIANIACAL</span>]]</span> 21:48, 17 January 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Government of Canada]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=698633004 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20091229100400/http://www.monarchist.ca:80/cmn/2009/Autumn_2009_CMN.pdf to http://www.monarchist.ca/cmn/2009/Autumn_2009_CMN.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 08:53, 7 January 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 4 external links on [[Government of Canada]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=771802079 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive http://www.webcitation.org/5qXvz463C?url=http://www.queensu.ca/iigr/conf/ConferenceOnTheCrown/CrownConferencePapers/The_Crown_and_the_Constitutio1.pdf to http://www.queensu.ca/iigr/conf/ConferenceOnTheCrown/CrownConferencePapers/The_Crown_and_the_Constitutio1.pdf
+*Added archive https://web.archive.org/web/20090325074418/http://www.parl.gc.ca/information/library/idb/forsey/PDFs/How_Canadians_Govern_Themselves-6ed.pdf to http://www.parl.gc.ca/information/library/idb/forsey/PDFs/How_Canadians_Govern_Themselves-6ed.pdf
+*Added archive https://web.archive.org/web/20110430173135/http://www2.parl.gc.ca/MarleauMontpetit/DocumentViewer.aspx?DocId=1001&Sec=Ch01&Seq=5&Lang=E&Print=2 to http://www2.parl.gc.ca/MarleauMontpetit/DocumentViewer.aspx?DocId=1001&Sec=Ch01&Seq=5&Lang=E&Print=2
+*Added archive https://web.archive.org/web/20081115155249/http://www.gg.ca/media/fs-fd/P1_e.asp to http://www.gg.ca/media/fs-fd/P1_e.asp
+*Added {{tlx|dead link}} tag to http://www2.parl.gc.ca/Sites/LOP/Infoparl/30/4/30n4_07e_Neitsch.pdf
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 16:15, 23 March 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 4 external links on [[Government of Canada]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=799014555 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20131019051528/http://www.speech.gc.ca/eng/frequently-asked-questions-faq to http://www.speech.gc.ca/eng/frequently-asked-questions-faq
+*Added archive https://web.archive.org/web/20100404065405/http://www.gct3.net/grand-chiefs-office/gct3-info-and-history/government-of-canada-document/ to http://www.gct3.net/grand-chiefs-office/gct3-info-and-history/government-of-canada-document/
+*Added archive https://web.archive.org/web/20110611162155/http://www.pch.gc.ca/pc-ch/publctn/gp-pg/ppc-chp/ppc-chp-eng.pdf to http://www.pch.gc.ca/pc-ch/publctn/gp-pg/ppc-chp/ppc-chp-eng.pdf
+*Corrected formatting/usage for http://www.queensu.ca/iigr/conf/ConferenceOnTheCrown/CrownConferencePapers/The_Crown_and_the_Constitutio1.pdf
+*Added {{tlx|dead link}} tag to http://publiservice.gc.ca/directories/infor_e.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 03:58, 5 September 2017 (UTC)

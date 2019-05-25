@@ -1,0 +1,97 @@
+{{Vital article|topic=Society|level=5|class=B}}
+{{WikiProjectBannerShell|collapsed=No|1=
+{{WikiProject Business|Accountancy=Yes|class=B|importance=Mid}}
+{{WikiProject Companies|class=B|importance=High}}
+{{WikiProject London|class=B|importance=Low}}
+{{WikiProject Taxation|class=B|importance=Low}}
+}}
+{{User:ClueBot III/ArchiveThis|archiveprefix=Talk:Ernst &#38; Young/Archives/|format=Y|age=26297|index=yes|archivebox=yes|box-advert=yes}}
+
+== Requested move 4 December 2016 ==
+
+<div class="boilerplate" style="background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;"><!-- Template:RM top -->
+:''The following is a closed discussion of a [[WP:requested moves|requested move]]. <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on the talk page. Editors desiring to contest the closing decision should consider a [[Wikipedia:move review|move review]]. No further edits should be made to this section. ''
+
+The result of the move request was: '''Not moved''' {{RMNAC}} [[User:Fuortu|Fuortu]] ([[User talk:Fuortu|talk]]) 20:46, 11 December 2016 (UTC)
+----
+
+[[:Ernst & Young]] → {{no redirect|EY (company)}} – Three years ago Ernst & Young changed its name to EY. EY was a nickname for Ernst & Young for many years and now it's the official name so the article name needs to reflect that. [[User:Thunderbolt.wiki|Thunderbolt.wiki]] ([[User talk:Thunderbolt.wiki|talk]]) 19:37, 4 December 2016 (UTC)
+:'''Oppose'''. This was considered in 2013 (see archives) and the decision was '''not moved'''. Also according to its [http://www.ey.com/uk/en/newsroom/facts-and-figures website] the official name is still Ernst & Young. In any case Ernst & Young is not a company. [[User:Dormskirk|Dormskirk]] ([[User talk:Dormskirk|talk]]) 21:13, 4 December 2016 (UTC)
+*'''Oppose''' per [[WP:COMMONNAME]], which to the wider world is still Ernst & Young. -- [[User:Necrothesp|Necrothesp]] ([[User talk:Necrothesp|talk]]) 15:42, 5 December 2016 (UTC)
+
+----
+:''The above discussion is preserved as an archive of a [[Wikipedia:Requested moves|requested move]].  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on this talk page or in a [[Wikipedia:Move review|move review]]. No further edits should be made to this section.''</div><!-- Template:RM bottom -->
+
+== Most globally managed ==
+The linked reference for the above claim "EY is the most globally managed of the Big Four firms.[28]" does not appear to provide support for the claim. Correct reference or remove claim?   <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/62.254.134.114|62.254.134.114]] ([[User talk:62.254.134.114#top|talk]]) 15:39, 2 January 2019 (UTC)</small> <!--Autosigned by SineBot-->
+:Agreed and deleted. [[User:Dormskirk|Dormskirk]] ([[User talk:Dormskirk|talk]]) 16:14, 2 January 2019 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:15|one external link|15 external links}} on [[Ernst & Young]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=756666279 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20130504074355/http://www.ey.com/GL/en/About-us/Our-global-approach/Our-leaders/Ernst---Young---Global-Executive---John-Ferraro---Biography to http://www.ey.com/GL/en/About-us/Our-global-approach/Our-leaders/Ernst---Young---Global-Executive---John-Ferraro---Biography
+*Added archive https://web.archive.org/web/20090715172635/http://www.ey.com:80/GL/en/About-us/Our-history to http://www.ey.com/GL/en/About-us/Our-history
+*Added archive https://web.archive.org/web/20100604110017/http://www.ey.com/US/en/About-us/Our-people/About-us-recruiting-minority-recruiting-diversity to http://www.ey.com/US/en/About-us/Our-people/About-us-recruiting-minority-recruiting-diversity
+*Added archive https://web.archive.org/web/20111114060135/http://www.gti.org/Press-room/Brazil-member-firm-departure.asp to http://www.gti.org/Press-room/Brazil-member-firm-departure.asp
+*Added archive https://web.archive.org/web/20130704001432/http://www.ey.com/GL/en/Issues/Business-environment/building-a-better-working-world to http://www.ey.com/GL/en/Issues/Business-environment/building-a-better-working-world#home
+*Added archive https://web.archive.org/web/20100210073218/http://www.ey.com:80/US/en/Newsroom/News-releases/Ernst-and-Young-LLP-named-to-FORTUNE-100-Best-Companies-to-Work-For-list-for-the-12th-year-in-a-row to http://www.ey.com/US/en/Newsroom/News-releases/Ernst-and-Young-LLP-named-to-FORTUNE-100-Best-Companies-to-Work-For-list-for-the-12th-year-in-a-row
+*Added archive https://web.archive.org/web/20070302144543/http://www.computerworld.com/action/article.do?command=viewArticleBasic to https://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=318958/
+*Added archive https://web.archive.org/web/20130513190129/http://www.universumglobal.com:80/US-Undergraduate-Rankings to http://www.universumglobal.com/US-Undergraduate-Rankings
+*Added archive https://web.archive.org/web/20120213080002/http://www.shane-ross.ie/archives/456/where-were-the-auditors/ to http://www.shane-ross.ie/archives/456/where-were-the-auditors/
+*Added archive https://web.archive.org/web/20120919235939/http://www.irishtimes.com/newspaper/breaking/2008/1219/breaking13.html?via=mr to http://www.irishtimes.com/newspaper/breaking/2008/1219/breaking13.html?via=mr
+*Added archive https://web.archive.org/web/20140222154521/http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aWP18uiUC6dQ to http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aWP18uiUC6dQ
+*Added archive https://web.archive.org/web/20100502185054/http://www.accountancyage.com:80/accountancyage/news/2259670/y-face-questions-lehman-audit to http://www.accountancyage.com/accountancyage/news/2259670/y-face-questions-lehman-audit
+*Added archive https://web.archive.org/web/20120714073340/http://www.ey.com:80/US/en/About-us/Entrepreneurship/Entrepreneur-Of-The-Year/US_EOY_Article_FAQ to http://www.ey.com/US/en/About-us/Entrepreneurship/Entrepreneur-Of-The-Year/US_EOY_Article_FAQ
+*Added archive https://web.archive.org/web/20131020202134/http://www.thehrdirector.com/business-news/diversity_and_equality/untitled-resource/ to http://www.thehrdirector.com/business-news/diversity_and_equality/untitled-resource/
+*Added archive https://web.archive.org/web/20131109230833/http://www.ey.com/AU/en/Newsroom/News-releases/Ernst-and-Young-renews-relationship-with-Cadel-Evans to http://www.ey.com/AU/en/Newsroom/News-releases/Ernst-and-Young-renews-relationship-with-Cadel-Evans
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 00:50, 26 December 2016 (UTC)
+
+== Hellas addition ==
+
+This inclusion was a part of a larger personal attack on Nikesh Arora. That entry has been restored but seems the attack editor included it on a couple of more articles. I will revert here and those also.--[[User:WatchingContent|WatchingContent]] ([[User talk:WatchingContent|talk]]) 16:31, 29 March 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[Ernst & Young]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=781971479 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Corrected formatting/usage for http://www.irishtimes.com/business/sectors/financial-services/ernst-young-re-brands-1.1449229
+*Added archive https://web.archive.org/web/20110512022845/http://www.universumglobal.com/IDEAL-Employer-Rankings/The-National-Editions/American-Student-Survey.aspx to http://www.universumglobal.com/IDEAL-Employer-Rankings/The-National-Editions/American-Student-Survey.aspx
+*Corrected formatting/usage for https://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=318958%2F
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 07:18, 24 May 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[Ernst & Young]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=801977995 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20130703212323/http://www.ey.com/US/en/Newsroom/News-releases/Ernst-and-Young-LLP-ranks-among-the-top-10-companies-for-working-mothers-for-7th-straight-year- to http://www.ey.com/US/en/Newsroom/News-releases/Ernst-and-Young-LLP-ranks-among-the-top-10-companies-for-working-mothers-for-7th-straight-year-
+*Added archive https://web.archive.org/web/20130703212250/http://www.ey.com/US/en/Newsroom/News-releases/News_Ernst---Young-LLP-named-to-the-top-10-of-The-DiversityInc-Top-50-Companies-for-Diversity-for-the-fifth-consecutive-year to http://www.ey.com/US/en/Newsroom/News-releases/News_Ernst---Young-LLP-named-to-the-top-10-of-The-DiversityInc-Top-50-Companies-for-Diversity-for-the-fifth-consecutive-year
+*Added archive https://web.archive.org/web/20130103173632/http://www.ey.com/GL/en/Newsroom/News-releases/Ernst---Young-announces-partnership-with-The-2012-European-Ryder-Cup to http://www.ey.com/GL/en/Newsroom/News-releases/Ernst---Young-announces-partnership-with-The-2012-European-Ryder-Cup
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 05:11, 23 September 2017 (UTC)
+
+== [[ S.D. Leidesdorf & Co]] ==
+
+History section is very incomplete! Missing is the company S.D. Leidesdorf & Co. --[[Special:Contributions/2A02:1206:4548:57C0:64F5:3974:6A5D:D6C8|2A02:1206:4548:57C0:64F5:3974:6A5D:D6C8]] ([[User talk:2A02:1206:4548:57C0:64F5:3974:6A5D:D6C8|talk]]) 14:29, 23 January 2018 (UTC)
+
+== German speaking countries ==
+
+There the company seems to play a not insignificant role.
+https://de.wikipedia.org/wiki/Ernst_%26_Young#EY_Deutschland  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2A02:8109:B40:2258:109C:50FD:1A43:72D5|2A02:8109:B40:2258:109C:50FD:1A43:72D5]] ([[User talk:2A02:8109:B40:2258:109C:50FD:1A43:72D5#top|talk]]) 23:56, 6 November 2018 (UTC)</small> <!--Autosigned by SineBot-->
