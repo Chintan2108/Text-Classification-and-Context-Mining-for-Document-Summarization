@@ -24,7 +24,7 @@ def getContent(titleList):
         print('%s saved successfully' % title.split('\n')[0])
         index += 1 
 
-    with open('./big dataset/articles.pkl', 'wb') as temp:
+    with open('./big dataset/61-80articles.pkl', 'wb') as temp:
         pickle.dump(articles, temp)
     print('%d articles pickled successfully.' % index)
 
@@ -170,7 +170,7 @@ if __name__ == "__main__":
     main/ driver function
     '''
     # testDataSP()
-    articlesList = open('./big dataset/train/2-20wikiArticleNames.txt', 'r', encoding='utf-8').readlines()
+    articlesList = open('./big dataset/train/61-80wikiArticleNames.txt', 'r', encoding='utf-8').readlines()
     getContent(articlesList)
     # saveData(para=True)
     
