@@ -29,17 +29,19 @@ def trainingData(papers, tuples=10000, overall=False, para=False):
     '''
     This function saves the train data as with features as ['A','B','label']
     A -> random sentence a random para from any paper
-    B -> first sentence of that para; label = 1
+    B -> any random sentence of that same para; label = 1
     B -> random sentence from that paper; label = 0;  for args overall=False
     B -> random sentence from any paper; label = 0;  for args overall=True
     '''
-    trainColumns = ['A','B','label']
+    trainColumns = ['A','B','label', 'title (B)']
     trainData = pd.DataFrame(columns=trainColumns)
     if overall:
-        filename = './dataset/train/globalTrainDataP.csv'
+        filename = './big dataset/train/SSglobalTrainData_80.csv'
     else:
-        filename = './dataset/train/localTrainDataP.csv'
-
+        filename = './big dataset/train/SSlocalTrainData_80.csv'
+    
+    titles = open('./big dataset/train/wikiArticleNames.txt', 'r', encoding='utf-8').readlines()
+    
     for row in range(tuples):
         paperIndex = np.random.randint(0,len(papers))
         paraIndex = np.random.randint(0, len(papers[paperIndex]))
@@ -47,7 +49,8 @@ def trainingData(papers, tuples=10000, overall=False, para=False):
         paperListed = paperToList(papers[paperIndex])
         paraListed = paperToList(papers[paperIndex][paraIndex], para=True)
 
-        CLS = paraListed[0]
+        #CLS = paraListed[0]
+        CLS = random.choice(paraListed)
         if para:
             A = papers[paperIndex][paraIndex]
         else:
@@ -64,7 +67,7 @@ def trainingData(papers, tuples=10000, overall=False, para=False):
                 paperListed = paperToList(papers[paperIndex])
                 
         B = random.choice(paperListed)
-        trainData.loc[row] = [A, B, label]
+        trainData.loc[row] = [A, B, label, titles[paperIndex]]
 
     trainData.to_csv(filename, encoding='utf-8')
     print('Sampled %d tuples training data saved successfully.' % tuples)
