@@ -169,7 +169,7 @@ if __name__ == "__main__":
     '''
     main/ driver function
     '''
-    # testDataSP()
+    testDataSP()
     #articlesList = open('./big dataset/train/61-80wikiArticleNames.txt', 'r', encoding='utf-8').readlines()
     #getContent(articlesList)
     # saveData(para=True)
@@ -178,26 +178,26 @@ if __name__ == "__main__":
     # with open('./dataset/articles.pkl', 'rb') as temp:
     #     articles = pickle.load(temp)
     
-    articles = []
-    temp_articles = []
+    # articles = []
+    # temp_articles = []
 
-    with open('./big dataset/1-20articles.pkl', 'rb') as temp:
-        temp_articles = pickle.load(temp)
-    articles.extend(temp_articles)
+    # with open('./big dataset/1-20articles.pkl', 'rb') as temp:
+    #     temp_articles = pickle.load(temp)
+    # articles.extend(temp_articles)
 
-    with open('./big dataset/21-40articles.pkl', 'rb') as temp:
-        temp_articles = pickle.load(temp)
-    articles.extend(temp_articles)
+    # with open('./big dataset/21-40articles.pkl', 'rb') as temp:
+    #     temp_articles = pickle.load(temp)
+    # articles.extend(temp_articles)
 
-    with open('./big dataset/41-60articles.pkl', 'rb') as temp:
-        temp_articles = pickle.load(temp)
-    articles.extend(temp_articles)
+    # with open('./big dataset/41-60articles.pkl', 'rb') as temp:
+    #     temp_articles = pickle.load(temp)
+    # articles.extend(temp_articles)
 
-    with open('./big dataset/61-80articles.pkl', 'rb') as temp:
-        temp_articles = pickle.load(temp)
-    articles.extend(temp_articles)
+    # with open('./big dataset/61-80articles.pkl', 'rb') as temp:
+    #     temp_articles = pickle.load(temp)
+    # articles.extend(temp_articles)
 
-    sampling.trainingData(articles, tuples=80000, overall=True)
+    # sampling.trainingData(articles, tuples=80000, overall=True)
     
     # trainPP()
     # print('\n\n*********************\nSampling Test Data\n')

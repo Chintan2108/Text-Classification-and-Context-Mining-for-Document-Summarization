@@ -88,7 +88,7 @@ def testingData(papers, reviews, ids, AA='sentence', BB='para', toggle=False):
     paperIndex = 0
     rowIndex = 0
     paperListed = []
-    filename = './dataset/test/'
+    filename = './big dataset/test/'
     articles = open('./dataset/test/wikiTestArticles.txt', 'r', encoding='utf-8').readlines()
     for paper, pids in zip(papers, ids):
         if AA == 'sentence':
@@ -131,6 +131,8 @@ def testingData(papers, reviews, ids, AA='sentence', BB='para', toggle=False):
                     for B, ID in zip(reviewListed, pids):
                         testData.loc[rowIndex] = [A, B, ID, articles[paperIndex-1]]
                         rowIndex += 1
+                        print([A, B, ID, articles[paperIndex-1]])
+                        print(rowIndex)
         print('Paper - %d, Row - %d' % (paperIndex, rowIndex))
     print('Populated the test data successfully.')
 
