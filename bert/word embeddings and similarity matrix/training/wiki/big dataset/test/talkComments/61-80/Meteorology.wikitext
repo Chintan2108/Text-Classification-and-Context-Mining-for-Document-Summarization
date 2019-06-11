@@ -1,0 +1,466 @@
+{{Vital article|level=4|topic=Science|class=B|subpage=Physics}}
+{{Old peer review|archive=1}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Physics|class=B|importance=top}}
+{{WikiProject Meteorology|class=B|importance=Top}}
+{{WikiProject Weather Data and Instrumentation|class=B|importance=Top}}
+{{WP1.0|v0.5=pass|class=B|category=Natsci|VA=yes|WPCD=yes}}
+}}
+{{Outline of knowledge coverage|meteorology}}
+{{archive box|auto=yes}}
+
+== [[Weather forecasting]] vs. [[Meteorology]]? ==
+I'm having a hard time understanding what the difference is between this article and [[Weather forecasting]], which appears to be about the same subject.  Is there some reason these are two separate articles with a fair amount of duplicated content?  If so, what is it?  If not, should these articles be merged? -- [[User:Foogod|Foogod]] 21:24, 30 December 2005 (UTC)
+
+
+:''Meteorology'' is the study...''Weather forecasting'' is the application.
+::[[User:Hard Raspy Sci|Hard Raspy Sci]] 08:56, 31 December 2005 (UTC)
+:::P.S. No merge pleeze, my forecast is...this article is nowhere near completion, and is likely to expand...
+
+Ok, it seems there's some consensus that they should be separate articles, so I won't propose a merge, but the distinction as things are written still seems a bit fuzzy to me (I certainly understand the difference between a science and its application, but I was noting that both articles seemed to talk about both aspects, which is why it was confusing that there's two articles.  Hopefully this can be improved).  -- [[User:Foogod|Foogod]] 23:40, 8 January 2006 (UTC)
+
+:I concur that they should remain separate articles --though improvements to the articles should be made. 
+:It raises an issue with the sharp, distinct division of atmospheric sciences to physics and chemistry; both are subdivisions of meteorology (and climatology) and are not fundamentally separate. There is overlap, the division to physics or chemistry refers to the respective principles in isolation. So they are distinguishable but the complexity and subtleties are poorly reflected on Wikipedia. The classic division of meteorology refers not to the field of science, rather: research and forecasting (operational). 
+:So, weather forecasting is meteorology (yes, the application of, but not a separate entity), as are atmospheric physics and chemistry, they're simply arbitrary subdivisions. Even climatology isn't quite reflected well on here, as it is just meteorological principles over a set time period (usually but not necessarily longer term), tending more towards statistical methods. As presented now the articles seem to mistake weather and climate for meteorology and climatology, they aren't quite equivalent. [[User:Evolauxia|Evolauxia]] 08:26, 19 January 2006 (UTC)
+::I tend to agree both articles need work, even though this one was rated as a "B" class article after peer review.  Each subject in their own right contains loads of information, as such each should be separate.  Of course overlapping will occur, hopefully not too much... --[[User:Hard Raspy Sci|Hard Raspy Sci]] 01:26, 1 December 2006 (UTC)
+:Added information to the forecast section from an HPC study from a couple winters ago, as well as TPC/HPC studies of hurricane track error from the last few years. [[User:Thegreatdr|Thegreatdr]] 15:59, 28 May 2006 (UTC)
+
+==New page, plus troughs and ridges==
+I've recently created the page [[Block (meteorology)]]. I'm not sure where the best place to put it in this article is, so feel free to find a spot for it, and also to edit it with more information, etc. Also, we could probably use more information for [[Ridge (meteorology)]] and [[Trough (meteorology)]] if anyone can think of some good stuff to put on there. [[User:EWS23|EWS23]] | [[User talk:EWS23|(Leave me a message!)]] 06:24, 31 January 2006 (UTC)
+
+==Why no mention of atmospheric pollution dispersion modeling?==
+
+Many of the worldwide leading scientists in the fields of atmospheric air pollution dispersion modeling and air quality modeling are meteorologists and they are also members of the [[American Meteorological Society]].  In their applied meteorology programs, many universities worldwide teach undergraduate and postgraduate courses in air pollution dispersion modeling.  Why is this subject not even mentioned in this article? - [[User:Mbeychok|mbeychok]] 23:25, 26 February 2006 (UTC)
+
+:Well there is a page on this: [[Atmospheric dispersion modeling]] which is in the meterology category. I don't think it is appropriate to include all meteorology related topics in this article. I suppose there could be a See also section including this though. --[[User:NHSavage|NHSavage]] 23:46, 26 February 2006 (UTC)
+
+::NHSavage, thank you for your response.  I know about [[Atmospheric dispersion modeling]] because I wrote it about a week ago and I linked it to the meteorology category. However, that does'nt really answer my question.  Since meteorologists play a leading role in the important field of air pollution dispersion modeling, don't you think its worth discussing that fact in this article on meteorology?  I mean more than just a "See also" link or just an "External" link to some website. - [[User:Mbeychok|mbeychok]] 01:12, 27 February 2006 (UTC)
+
+:::I've glanced at the ''ADM'' article and it looks ok so far, however the first thing I see is Gaussian mathematics as part of the article.  Don't worry, thats not a problem,  its just says--Physics.  Not that I mind one way or another, but the article might steer more in the direction of [[atmospheric physics]] or [[atmospheric science]].  '''And''' those articles do need help (one may still be a stub).  Go ahead, and incorporate a section or into an appropriate section in [[meteorology]] or all three... --[[User:Hard Raspy Sci|Hard Raspy Sci]] 04:27, 31 December 2006 (UTC)
+
+== Institutions of meteorology/atmospheric science ==
+
+I think the section on Institutions of meteorology/atmospheric science should be made into a new article '''List of atmospheric science instutions'''. Thoughts?--[[User:NHSavage|NHSavage]] 08:40, 22 April 2006 (UTC)
+
+: Sounds like a fine idea to me.  -[[User:Ottergoose|Ottergoose]] 02:49, 23 April 2006 (UTC)
+::On second thoughts - perhaps a link to [[:Category:Meteorological institutions and stations]] would be better? It is far more comprehensive. There may be some ones from the list on this page missing but categories are easier to maintain. Then again perhaps we should have both?--[[User:NHSavage|NHSavage]] 14:01, 23 April 2006 (UTC)
+
+== Cleanup Tag Removed ==
+
+{{tl|Cleanup-date|July 2006}}
+:--[[User:RJBurkhart3|geoWIZard-Passports]] 09:36, 9 October 2006 (UTC)
+
+::I agree.  Whether or not the article is perfect, it does not need to be tagged since it is under heavy scrutiny and heavy editing.  Right now let's focus on the article, and no uneccessary tags, please.  ''"If you can fix it, fix it, don't tag it!"''  -- [[User:Hard Raspy Sci|Hard Raspy Sci]] 15:20, 13 December 2006 (UTC)
+
+== Meteorologic oceanography ==
+
+Please join discussion of [[Meteorologic oceanography]] in [[Talk:Oceanography#Meteorologic_oceanography]]. `'[[user:mikkalai|mikkanarxi]] 01:41, 18 November 2006 (UTC)
+
+== Timeline (in article) moved as per peer review ==
+I have moved the timeline out of the '''History''' section as advised from peer review.  I would agree with the review, and have moved the data into the ''[[Timeline of meteorology]]'' to preserve the nicely found dates and persons by wiki-authors and editors... -- [[User:Hard Raspy Sci|Hard Raspy Sci]] 01:32, 1 December 2006 (UTC)
+
+== Topical and Sectional Improvements needed ==
+The article as it stands is about 50/50.  50% creepy and 50% great.  I am going to propose a direction here so that the article can be improved by listing its pros and cons.  Feel free to modify this as needed.
+
+<u>(''as of Dec. 31, '06'')</u>
+{|
+| Intro. Paragraph
+| Excellent, concise, very descriptive, does not need changing
+| Keep
+|-
+| '''History of meteorology'''
+| Generally pretty good, may need style improvements, content ok
+| Keep
+|-
+| '''Weather forecasting'''
+| Generally, ok, or needs updating
+| Keep
+|-
+| '''''Meteorology and climatology'''''
+| Pure crap, no refs, etc.
+| '''*Dump*'''
+|-
+| '''Meteorological topics and phenomena'''
+| This is really what the article should be about, but there is <u>no</u> writing here.
+| Add!!
+|-
+| '''Institutions of meteorology/atmospheric science'''
+| Ok
+| Keep
+|-
+| '''See also'''
+| OK, Nav boxes should be here, easy enough
+| Keep
+|-
+| '''References'''
+| Need more of these !!
+| ADD!!
+|-
+| '''External links'''
+| OK
+| Keep
+|-
+|}
+
+<u>''Proposed new sections''</u>
+:{|
+|-
+|
+* '''Atmospheric circulation'''
+* '''Atmospheric modelling'''
+* '''Equipment of Meteorology'''
+* '''Observational Meteorology'''
+* '''Atmospheric patterns and oscillations'''
+* '''Hydrometeorology'''
+* '''Atmospheric layers'''  ''??''
+* ''and maybe others''
+|-
+|}
+
+It looks like there are alot of sections already, there really isn't that much writing beyond the first three parts.  I created the '''Links to other keywords in meteorology''' box (years ago) with the intention that it would ultimately disappear by acting as a reference of sorts, and it was hoped that those keywords would get spread out into the entire article (if possible).  Thoughts, ideas welcome... --[[User:Hard Raspy Sci|Hard Raspy Sci]] 16:54, 31 December 2006 (UTC)
+
+:I felt like a section was missing I added:    '''Meteorology subclassifications'''
+:to express more depth than what the article previously had, and to provide section for some above subsections to reside....  - [[User:HRS IAM|HRS IAM]] 19:29, 2 August 2007 (UTC)
+
+== Science fields? ==
+
+Yeah, this article has lots of useful info on meteorology, but there is no mention of related science/job fields. It'll be great if someone could add that in. --[[User:John010117|John010117]] 05:35, 5 April 2007 (UTC)
+
+== Inline references? ==
+As a gesture of good will, I'll give you all until May 1 before I drop this article to start class.  It is in sore need of inline references.  There is only '''ONE''' in the whole article.  [[User:Thegreatdr|Thegreatdr]] 12:56, 13 April 2007 (UTC)
+:I agree.  It got rated a "B" because this article went through one round of peer review and was improved but then the edits stopped.  I put up a suggested guideline (''see above discussion section''), but nobody has really stepped up to the plate, including myself, I have been too busy recently.  [[User:Hard Raspy Sci|Hard Raspy Sci]] 05:21, 15 April 2007 (UTC)
+::And down it goes to Start.  Maybe a new peer review is in order.  [[User:Thegreatdr|Thegreatdr]] 17:19, 10 May 2007 (UTC)
+
+== Please Enhance Climatic or Atmospheric Patterns ==
+Could you please enhance this material, rendering it of global applicability. I just dropped in to check something West African and notice your Siberian Express, Gulf Stream, Pineapple Express, etc. are incomplete. What has been done is good. It is just that it would be so much more encyclopedic to have worldwide coverage. Could you please add the rest of the terminology and description, so your weather patterns apply to the whole planet. Thank you. [[User:Gallador|Gallador]] 03:23, 15 May 2007 (UTC)
+
+== Unnecessary tag ==
+
+Why is this article still tagged as Uncategorized? [[User:Biscuittin|Biscuittin]] 09:11, 5 August 2007 (UTC)
+
+== Merge issue ==
+See talk page: [[Talk:Meteorology/Books]].
+:—''<small>Properly noted here by [[User:HRS IAM|HRS IAM]] 16:28, 11 August 2007 (UTC) </small>''
+
+==wording==
+This article is writen way to advanced for the average public who are just discovering the science of meteorology. I know that the person who wrote this, I myself and several other people know what they are talking about, but it confused the heck out of some people i know. [[User:Juliancolton|Juliancolton]] 13:58, 8 November 2007 (UTC)
+:I agree (see my comment below). Needs more focus on becoming a good quality [[Wikipedia:Summary style|summary style]] article. [[User:Donama|Donama]] ([[User talk:Donama|talk]]) 06:09, 19 November 2007 (UTC)
+
+== Summaries needed for the in-detail linked articles ==
+
+I came looking for information about how weather balloons are used in meteorology, but couldn't find any. I think this is because there is a lack of summaries for the detailed article links in the "weather forecasting" section. See [[WP:Summary]] advice. --[[User:Donama|Donama]] ([[User talk:Donama|talk]]) 05:57, 19 November 2007 (UTC)
+
+: I see that [[Weather balloon]] basically describes what they are but not how their information is used.  Maybe [[Weather forecasting]] has relevant info, but it's not obvious how it relates to balloons?  ([[User:SEWilco|SEWilco]] ([[User talk:SEWilco|talk]]) 07:02, 19 November 2007 (UTC))
+
+::See if [[radiosonde]] has what you're looking for.  They trail from weather balloons, gathering information as they ascend.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 12:22, 22 July 2008 (UTC)
+
+==Question==
+Can someone write a section on meteo-sensitivity in people? I'm not sure there's such a word in English, but I hope you understand what I mean (it's like when some people can't sleep when the atmospheric pressure changes etc.). Has it ever been researched by anyone? Thanx. [[User:KNewman|KNewman]] ([[User talk:KNewman|talk]]) 21:29, 24 February 2008 (UTC)
+
+===Thoughts===
+A. It is called "bio-meteorology."
+B. Fog is not technically a type of precipitation. It is simply a cloud. Often, drizzle (a precipitation type) can fall.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.82.196.212|68.82.196.212]] ([[User talk:68.82.196.212|talk]]) 04:04, 15 May 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+Also, virga... just randomly giving SAT type answers to random thoughts. —[[User:Will research for food|Will research for food]] ([[User talk:Will research for food|talk]]) 18:02, 19 November 2009 (UTC)
+
+== Confused nationality? ==
+
+"In 1021, Ibn al-Haytham (Alhazen), an '''''Iraqi''''' scientist, introduces the scientific method in his Book of Optics."
+
+I do not believe Iraq existed as a nation in 1021. The biography page for this man lists him as being Arab or possibly Persian.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/70.122.69.185|70.122.69.185]] ([[User talk:70.122.69.185|talk]]) 13:21, 9 November 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:The article [[Iraq]] confirms that the name has been in use at least since the 6th century. [[User:Gabriel Kielland|Gabriel Kielland]] ([[User talk:Gabriel Kielland|talk]]) 22:25, 9 November 2008 (UTC)
+:: I am sorry, why is this important? —[[User:Will research for food|Will research for food]] ([[User talk:Will research for food|talk]]) 18:04, 19 November 2009 (UTC)
+
+== 'Issues' tag ==
+
+I have tried to do a little re-structuring to help address issues.  If I have made any blunders feel free to revert. [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 17:40, 1 January 2009 (UTC)
+:The lead doesn't adequately cover the content of this article.  Now that the order of sections is more logical, the lead appears to be the page's main flaw right now.  There are paragraphs that are unreferenced as well.  Once those issues are taken care of, it could be submitted for GA.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 23:10, 1 January 2009 (UTC)
+::Thanks. By the way, I'm no expert whatsoever, just a casual reader! [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 23:20, 1 January 2009 (UTC)
+:::Even better, actually.  How understandable is the article to you, the way it is written right now?  If it's too technical, an effort to explain things better within the article would be needed as well as what was mentioned in my previous comments. [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 23:28, 1 January 2009 (UTC)
+::::Pretty good. Your recent work has helped greatly to shape it. Thanks. [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 21:42, 2 January 2009 (UTC)
+===Numerical weather prediction===
+This section is substantial.  But there is also a separate article bearing that same title which is relatively small. I suspect that most of the information should be transferred from here (Meteorology) into that (NWP) article, and that the residual Meteorology/NWP subsection here should have a 'main|Numerical weather prediction' tag.  Sound reasonable? [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 23:25, 1 January 2009 (UTC)
+:It could be done.  If it is, we'll need to copy the lead from the NWP article over to this one, but make sure the comments are referenced.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 23:28, 1 January 2009 (UTC)
+I refined the tag to be mainly a reference problem after reorganizing information within, and adding information to, the lead of the article.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 00:26, 2 January 2009 (UTC)
+:Ten paragraphs/passages are left which need references.  Once that's done, we can elevate the article back to B class, remove the tag from the main page, and submit the article for GA.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 01:44, 2 January 2009 (UTC)
+::Down to eight.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 07:57, 2 January 2009 (UTC)
+:::Thanks for your work. [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 21:42, 2 January 2009 (UTC)
+::::Down to five.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 22:22, 12 May 2009 (UTC)
+
+===History===
+Might the history section be too long? It seems to be getting on for half the article, and yet there is also a "main|Timeline of meteorology". So (in an ideal world!) shouldn't this 'history' be pruned a little, letting the "Timeline..." carry most of the historical substance?  Just a thought... [[User:Feline Hymnic|Feline Hymnic]] ([[User talk:Feline Hymnic|talk]]) 21:42, 2 January 2009 (UTC)
+::I significantly shortened the content, and reordered the sections.  It seemed off that half of it was organized chronologically, while half was organized by concept.  Now it's all organized by concept, with events listed chronologically in each section.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 03:17, 14 May 2009 (UTC)
+
+==Pictures==
+Instead of the picture above, I prefer following picture:
+[[Image:Isobaren bei Orkan Dutch txt.png|thumb|right|150px]]
+
+In addition, I made a new picture showing the wind direction and heating along the isobars. Perhaps it can be included aswell:
+[[Image:Windmovement on weathermaps.JPG|thumb|right|150px]]
+:I don't know...the top image is okay, but if we were going to include a fictitious synoptic map I'd go with the one at [[extratropical cyclone]] ([[:File:Uk-cyclone-2.png]]); this one here is missing the "kink" in the isobars I'd expect near fronts. As far as the bottom image, it is very unclear what it is meant to depict. -<b>[[User:Runningonbrains|<span style="color:#000">Running</span><font color="blue">On</font><font color="green">Brains</font>]]<sup>([[User talk:Runningonbrains|talk]])</sup></b> 15:04, 28 July 2009 (UTC)
+
+== Hiring of broadcast weatherpersons ==
+
+<blockquote>
+In the media, however, weather forecasters are often hired for their television persona, not their forecasting accuracy.<ref>http://freakonomics.blogs.nytimes.com/2008/04/21/how-valid-are-tv-weather-forecasts/</ref>
+</blockquote>
+A critique of people showing weather forecasts ("weatherpersons") and the hiring practices of the media is inappropriate for this article for several reasons. First, there is the blog issue; it is the opinion of one or two people, not necessarily an authoritative source or a person knowledgeable in the field, and definitely not peer-reviewed. Second, it gives the "Meteorologists" section a decidedly negative POV towards weather persons. Third and lastly, this is an article about meteorology and meteorologists, not about television reporters ''who may or not even be'' meteorologists. 
+
+We probably need an article [[weatherperson]] or [[weather reporter]]; this sort of critical passage would be much more appropriate there.-<b>[[User:Runningonbrains|<span style="color:#000">Running</span><font color="blue">On</font><font color="green">Brains</font>]]<sup>([[User talk:Runningonbrains|talk]])</sup></b> 20:37, 28 July 2009 (UTC)
+
+{{reflist-talk}}
+
+== What's missing ==
+
+I dropped by and found what I think is a reasonably complete, good article. Why is this still categorized as a C class article? I've seen worse efforts punched up to B level. [[User:TMLutas|TMLutas]] ([[User talk:TMLutas|talk]]) 17:38, 24 December 2009 (UTC)
+:Per your comments, I upgraded the article to B class.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 16:39, 18 September 2010 (UTC)
+
+== Misuse of sources ==
+
+{{User|Jagged 85}} is one of the main contributors to Wikipedia (over 67,000 edits; he's ranked [[Wikipedia:List_of_Wikipedians_by_number_of_edits|198 in the number of edits]]), and practically all of his edits have to do with Islamic science, technology and philosophy. This editor has persistently [[Wikipedia:Requests for comment/Jagged 85/Evidence|misused sources here over several years]]. This editor's contributions are always well provided with citations, but examination of these sources often reveals either a blatant misrepresentation of those sources or a selective interpretation, going beyond any reasonable interpretation of the authors' intent. Please see: [[Wikipedia:Requests for comment/Jagged 85]]. That's an old and archived RfC. The point is still valid though, and his contribs need to be doublechecked. I searched the page history, and found 11 edits by Jagged 85 in [http://en.wikipedia.org/w/index.php?title=Meteorology&offset=20080731132800&limit=15&action=history July 2008]. [[User:Tobby72|Tobby72]] ([[User talk:Tobby72|talk]]) 15:08, 18 June 2010 (UTC)
+:While it's good to have a head's up, this article was substantially improved after that date so there is only a slight chance any of those edits survived.  If someone notices an issue, it will be fixed.  [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 16:38, 18 September 2010 (UTC)
+
+==suggestion for new section==
+Nowadays there are several predictions done by using Data mining. And I'm interesting in writing an article related that. I would like to know about suggestions about it, "data mining in meteorology". I would like to know your suggestions on that.   <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Inoshika|Inoshika]] ([[User talk:Inoshika|talk]] • [[Special:Contributions/Inoshika|contribs]]) 14:27, 16 April 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:This barely appears to be out of the [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B9865-506HM1Y-5&_user=10&_coverDate=05%2F31%2F2010&_rdoc=1&_fmt=high&_orig=gateway&_origin=gateway&_sort=d&_docanchor=&view=c&_searchStrId=1723990237&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=e4b8334c79ad8b0741f297027e61c58a&searchtype=a experimental phase], so no, I don't think a section is called-for in the main article. Perhaps a (sourced) sentence, but nothing more. -<b>[[User:Runningonbrains|<span style="color:#000">Running</span><font color="blue">On</font><font color="green">Brains</font>]]<sup>([[User talk:Runningonbrains|talk]])</sup></b> 15:56, 19 April 2011 (UTC)
+
+== Too technical for the lede ==
+
+This sentence is too technical for the lede as is. We could a) keep it out of the lede as it now is, or b) explain what the troposphere is. Both avenues would avoid being over-technical in the lede.
+
+<blockquote>The majority of Earth's observed weather is located in the [[troposphere]].<ref>"Meteorology." The Encyclopædia Britannica.15th Ed. 2005.</ref><ref>Byers, Horace. General Meteorology. New York:  McGraw-Hill, 1994.</ref></blockquote>
+
+Props. [[User:Makeswell|makeswell]] ([[User talk:Makeswell|talk]]) 01:24, 16 July 2011 (UTC)
+:I disagree. If someone doesn't know what the troposphere is, they can click the wikilink, where it is explained clearly. -<b>[[User:Runningonbrains|<span style="color:#000">Running</span><font color="blue">On</font><font color="green">Brains</font>]]<sup>([[User talk:Runningonbrains|talk]])</sup></b> 08:03, 16 July 2011 (UTC)
+:: I agree that we need an edit because clicking the link and reading another article may take more than one minute, which is probably not good for a lede.  If one may click the link to figure out a term, one may as well argue that we never need ledes — after all, we can just read the whole article and figure out what the subject is.  Indeed, the two arguments are not exactly comparable; however, they are analogous to some degree.  The point is, a lede should be concise and give the reader an idea of the subject without taking a long time. [[User:Sheep0x|sheep0x]] ([[User talk:Sheep0x|talk]]) 06:33, 9 April 2016 (UTC)
+::: For the same reason, if we choose to explain what the troposphere is, we probably should explain it in short. [[User:Sheep0x|sheep0x]] ([[User talk:Sheep0x|talk]]) 06:38, 9 April 2016 (UTC)
+
+This sentence has already been removed from the lede.  I'm sorry for adding stuffs to a outdated discussion.  [[User:Sheep0x|sheep0x]] ([[User talk:Sheep0x|talk]]) 06:44, 9 April 2016 (UTC)
+
+{{reflist-talk}}
+
+== not sure where is may go ==
+
+[http://www.scientificamerican.com/article.cfm?id=the-science-of-the-glory "The Science of the Glory;] One of the most beautiful phenomena in meteorology has a surprisingly subtle explanation.  Its study also helps to predict the role that [[clouds]] will play in [[climate change]]" by H. Moysés Nussenzveig [[Scientific American]] January 5, 2012 (1.2012,page 68 to 73 in-print)
+
+[[Special:Contributions/97.87.29.188|97.87.29.188]] ([[User talk:97.87.29.188|talk]]) 01:41, 4 January 2012 (UTC)
+
+:See [[Glory (optical phenomenon)]]. [[User:Vsmith|Vsmith]] ([[User talk:Vsmith|talk]]) 02:06, 4 January 2012 (UTC)
+::Thank you.  :-)  [[Special:Contributions/97.87.29.188|97.87.29.188]] ([[User talk:97.87.29.188|talk]]) 21:08, 8 January 2012 (UTC)
+
+== Nuclear meteorology ==
+
+I've identified a few sources that might be useful for expanding the Nuclear meteorology section of the article.  I have not read through them in full yet, but at a glance they looked pretty reasonable.
+
+* {{cite journal|last1=Galeriu|first1=D|last2=Melintescu|first2=A|last3=Duma|first3=M|last4=Zorila|first4=B|last5=Gheorghiu|first5=A|title=Nuclear Meteorology at IFIN-HH|date=24 February 2014|url=http://www.nipne.ro/rjp/2014_59_9-10/0999_1011.pdf|accessdate=21 July 2015}}
+* {{cite web|last1=Vollmer|first1=Patricia|title=Nuclear Meteorology – A Primer|url=http://geekmom.com/2011/03/nuclear-meteorology-a-primer/|website=Geek Mom|accessdate=21 July 2015}}
+* {{cite journal|last1=Styro|first1=B. I.|title=Some Problems in Nuclear Meteorology|date=11 March 1961|url=http://link.springer.com/article/10.1007%2FBF01591380#page-1|accessdate=21 July 2015}}
+
+[[User:Zellfaze|Zell Faze]] ([[User talk:Zellfaze|talk]]) 05:41, 21 July 2015 (UTC)
+
+== Unrelated template? ==
+It's seems confusing that this article includes the [[Template:Journalism_roles]] (version id: [https://en.wikipedia.org/w/index.php?title=Meteorology&oldid=714350276 714350276]).  Is this article related to journalism?  Or could it be the result of an unintentional mistake? -[[User:Sheep0x|sheep0x]] ([[User talk:Sheep0x|talk]]) 06:20, 9 April 2016 (UTC)
+:That template has a Wiki-link to [[Meteorologist]], which redirects to this article here. [[User:Guy1890|Guy1890]] ([[User talk:Guy1890|talk]]) 07:40, 10 April 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Meteorology]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=739123543 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20080608133837/https://www.mistichouse.com:80/astrology-lessons.htm to http://www.mistichouse.com/astrology-lessons.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 22:19, 12 September 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 7 external links on [[Meteorology]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=781484974 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20070217110549/http://etext.library.adelaide.edu.au/a/aristotle/meteorology/ to http://etext.library.adelaide.edu.au/a/aristotle/meteorology/
+*Added archive https://web.archive.org/web/20060901163934/http://weather.ou.edu/~metr4424/Files/Norwegian_Cyclone_Model.pdf to http://weather.ou.edu/~metr4424/Files/Norwegian_Cyclone_Model.pdf
+*Added archive https://web.archive.org/web/20100725213620/http://www.fmi.fi/organization/history.html to http://www.fmi.fi/organization/history.html
+*Added archive https://web.archive.org/web/20101225034901/http://www.jma.go.jp/jma/en/History/indexe_his.htm to http://www.jma.go.jp/jma/en/History/indexe_his.htm
+*Added archive https://web.archive.org/web/20080325084036/http://www.aip.org/history/sloan/gcm/ to http://www.aip.org/history/sloan/gcm/
+*Added archive https://web.archive.org/web/20090325034756/http://www.nwac.us/education_resources/Field_forecasting.pdf to http://www.nwac.us/education_resources/Field_forecasting.pdf
+*Added archive https://web.archive.org/web/20090712031134/http://www.faa.gov/air_traffic/publications/ATpubs/AIM/ to http://www.faa.gov/air_traffic/publications/ATpubs/AIM/
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 14:41, 21 May 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 9 external links on [[Meteorology]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=784587410 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20120330125208/http://www.imd.gov.in/doc/history/history.htm to http://www.imd.gov.in/doc/history/history.htm
+*Added archive https://web.archive.org/web/20061020020548/http://www.si.edu/archives/ihd/jhp/joseph03.htm to http://www.si.edu/archives/ihd/jhp/joseph03.htm
+*Added archive https://web.archive.org/web/20151120224108/http://www.imd.gov.in/doc/history/eastablishment-of-imd.htm to http://www.imd.gov.in/doc/history/eastablishment-of-imd.htm
+*Added archive https://web.archive.org/web/20131509483800/http://www.ofcm.gov/fmh-1/fmh1.htm to http://www.ofcm.gov/fmh-1/fmh1.htm
+*Added archive https://web.archive.org/web/20070503193324/http://eh.net/encyclopedia/article/craft.weather.forcasting.history to http://eh.net/encyclopedia/article/craft.weather.forcasting.history
+*Added archive https://web.archive.org/web/20131124214601/http://www.weather.gov/mission.shtml to http://www.weather.gov/mission.shtml
+*Added archive https://web.archive.org/web/20111005203246/http://beef.unl.edu/stories/200004030.shtml to http://beef.unl.edu/stories/200004030.shtml
+*Added archive https://web.archive.org/web/20081224112403/http://pubs.caes.uga.edu/caespubs/pubcd/C877.htm to http://pubs.caes.uga.edu/caespubs/pubcd/C877.htm
+*Added archive https://web.archive.org/web/20120217042744/http://www.tcdsb.org/environment/energydrill/EDSP_KeyMessages_FINAL.pdf to http://www.tcdsb.org/environment/energydrill/EDSP_KeyMessages_FINAL.pdf
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 02:39, 9 June 2017 (UTC)
+
+== External links modified (January 2018) ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[Meteorology]]. Please take a moment to review [[special:diff/821647657|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20131011124201/http://www.aos.princeton.edu/WWWPUBLIC/gkv/history/ferrel-nashville56.pdf to http://www.aos.princeton.edu/WWWPUBLIC/gkv/history/ferrel-nashville56.pdf
+*Added archive https://web.archive.org/web/20110606101802/http://amsglossary.allenpress.com/glossary/search?query=micrometeorology to http://amsglossary.allenpress.com/glossary/search?query=micrometeorology
+*Added {{tlx|dead link}} tag to http://www.emc.ncep.noaa.gov/research/NCEP-EMCModelReview2006/TPC-NCEP2006.ppt
+*Added archive https://web.archive.org/web/20090703095038/http://southwestfarmpress.com/news/061406-Texas-weather/ to http://southwestfarmpress.com/news/061406-Texas-weather/
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 19:50, 21 January 2018 (UTC)
+
+== requested move at [[Talk:Brown Willy effect]] ==
+
+Any more opinions at [[Talk:Brown Willy effect#Requested_move_9_October_2018]] would be welcome. The question is, is it verifiable from reliable sources that a meteorological phenomenon exists by the name of Brown Willy effect? --[[User:Money money tickle parsnip|Money money tickle parsnip]] ([[User talk:Money money tickle parsnip|talk]]) 05:32, 11 October 2018 (UTC)
+
+== Not just the atmosphere ==
+
+<blockquote>
+'''Meteorology''' is a branch of the atmospheric sciences which includes atmospheric chemistry and atmospheric physics, with a major focus on weather forecasting.
+</blockquote>
+
+I was reading for a while before the lead first mentions the ocean, and then only in the context of a coupled system, as opposed to the ocean having an active role in weather phenomena. 
+
+Previously, it ''had'' mentioned [[meteorological phenomena]], which, if you dig into it, ''does'' includes the topic [[storm surge]].
+
+It might be helpful to establish that weather is mostly ''but not exclusively'' atmospheric in the early going. &mdash; [[user:MaxEnt|MaxEnt]] 23:40, 16 March 2019 (UTC)
+
+:Perhaps the way in is to mention marine safety as an important aspect of weather forecasting, which besides the spring planting season, was maybe ''the'' original driving force behind meteorology in the first place. &mdash; [[user:MaxEnt|MaxEnt]] 23:42, 16 March 2019 (UTC)
+
+:Well, I went ahead and added the following sentence: "An important domain of weather forecasting is [[marine weather forecasting]] as it relates to maritime and coastal safety, in which weather effects also include atmospheric interactions with large bodies of water." Feel free to do better. &mdash; [[user:MaxEnt|MaxEnt]] 23:50, 16 March 2019 (UTC)
+
+::Okay, now I'm getting pedantic, but does a large shower of volcanic ash constitute a weather event? I was once in the corner of the [[Mount St Helens]] ash dump. I didn't regard that as weather at the time. Nor would I regard [[exploding whale]]s as weather, either. But to the degree that volcanic ash affects [[insolation]], I ''would'' regard it as a weather effect. &mdash; [[user:MaxEnt|MaxEnt]] 23:58, 16 March 2019 (UTC)
+{{od}}
+This useful discussion highlights the additional work we must do across a range of articles to distinguish between [[climate]] and [[weather]] and explain how they interact.   All weather is a product of the [[climate system]], which is made of up of five interacting parts and has several [[biogeochemical]] process moving through them.  [[Climate change]] can happen in response to "internal variation" or "external forcing", where the internal/external refers to the parts of the climate system.  One of those parts is the [[Lithosphere]].  Climatologists consider the origins of [[Volcanism]] to be deeper than that, so Mt St Helens would be considered an "external forcing".  Certainly during a period of ash fall the US National Weather Service would include that hazard and air quality in general in their reporting, but that doesn't make those phenomena ''weather'' per se.  Volcanic ash (suspended) is mostly at [[Climate change#Volcanism]] (which is probably going to be part of a pending [[WP:CONSPLIT|content split]] when we create a new article on "climate forcings" or maybe "external climate forcings".  See also [[Earth's energy budget]] and [[Climate change feedback]].   And so several of the things you might be describing are certainly influencing the <ins>long term average</ins> weather, and so are discussed under ''climate''.  They are relevant to this article for explaining the climate ''context'' in which weather happens, but they aren't short term weather in themselves.   [[User:NewsAndEventsGuy|NewsAndEventsGuy]] ([[User talk:NewsAndEventsGuy|talk]]) 13:24, 17 March 2019 (UTC)
+{{talkarchive}}
+
+==Are Suggestions Encyclopedic?==
+
+Should predictions and suggestions be in this article? --[[User:SEWilco|SEWilco]] 03:15, 10 Sep 2003 (UTC)
+
+: With model output approaching oberservational data (e.g. from satellite soundings) in resolution, the sheer size of the datasets means that data mining and data management will become equally important considerations in meteorological computing. In light of the decrease in density of surface and rawinsonde observations, new algorithms have to be developed to extract similarly accurate information from satellite data, for example about cloud type and distribution. Data management will become more global in nature, with some central archives storing a large number of numerical experiments from various institutions. This data needs to have a sufficient amount of metadata attached and can then be conveniently retrieved by a WWW interface from anywhere. These new archives will alleviate the important task of comparing experiments conducted with different models, which is instrumental for their further improvement. Also, grid computing may be a interesting way to harness the power of meteorological supercomputers more effectively. Of course, international cooperation is nothing unusual in modelling, but grid computing might automate the process of running a model where the right amount of computing resources are currently available and leave scientists more time for analyzing the results.
+
+: Meteorological instrumentation that is used at the surface or in airplanes also has room for improvement. Radar and Lidar show precipitation and clouds by their effects on emitted monospectral electromagnetic waves. If radar measurements can be used to accurately determine the amount of precipitation (which as of now is only possible with rain gauges), this would be beneficial for numerical weather prediction. Lidar can be used to study clouds that are so thin that they cannot be seen by the naked eye such as certain types of cirrus filaments. The high-altitude clouds that can form from contrails may well be the key to understanding the effect of the increasing amount of air travel on global warming. 
+
+: Finally, meteorologists must educate the public more about weather and climate in general. Scientifically accurate and understandable information about topics like the ozone hole, global warming, the effects of rainforest deforestation, or sea level rise must be disseminated and misinformation by industry lobbyists be countered. Particularly in Europe, which may see an increase in extreme weather events as it already has in the 1990s, the population must be educated to pay closer attention to severe weather warnings or information about other detrimental health factors such as high tropospheric ozone concentration or high levels of UV radiation. Similarly, a better infrastructure to deal with natural desasters must be developed akin to similar services in the US. It is clear that political decisionmakers in Europe will rely on scientific assessment to validate the necessity for such spending.
+
+
+-I agree, this is new research, speculation and opinion. [[User:Peterlean|geodynamo]] 5 July 2005 18:24 (UTC) 
+----
+
+
+== Shouldn't this article contain information on '''how''' meteologists do what they do? ==
+Aside from the text on wind mapping, there is nothing in here.
+
+:No, this article defines meteorology.  See [[Weather forecasting]]. [[User:Hard Raspy Sci|Hard Raspy Sci]] 04:01, 31 December 2006 (UTC)
+
+== Whew ==
+
+This article needs a top to bottom overhaul, but I am not able to undertake this endeavor at the moment. For those just waiting for a good source to start off with, the University of Illinois has an excellent online guide to Meteorology: [http://ww2010.atmos.uiuc.edu ww2010.amtos.uiuc.edu]. It has everything you need to get started on rewriting the sections on current and future forecasting methods.
+
+(also... to the previous poster: be sure to sign your comments... otherwise we can't tell who you are or when you wrote that.)--[[User:Demonburrito|demonburrito]] 16:21, 10 August 2005 (UTC)
+
+== major removal ==
+
+Without objection: subsection "Possibilities for future improvements" will be removed.--[[User:Demonburrito|demonburrito]] 06:31, 11 August 2005 (UTC)
+
+== more major editing ==
+
+I am completely rewriting the 'history' section. This is not just because I didn't like it very much, but because it appears to be entirely plagiarized.--[[User:Demonburrito|demonburrito]] 09:26, 11 August 2005 (UTC)
+:oops...nevermind about the plagiarism. It realized it was just a site not using GNU license properly. I still stand by liking the timeline better (it is now more complete than [[timeline of meteorology]]).--[[User:Demonburrito|demonburrito]] 10:30, 11 August 2005 (UTC)
+
+== talking to myself ==
+
+I think this paragraph is controversial:
+
+<blockquote>In the 1960s, the chaotic nature of the atmosphere was first understood by Edward Lorenz, founding the field of chaos theory. The mathematical advances achieved here later filtered back to meteorology and made it possible to describe the limits of predictability inherent in atmospheric modelling. This is known as the butterfly effect, because the growth of disturbances over time means that even one as minute as the flapping of a butterfly's wings could much later cause a large disturbance to form somewhere else.</blockquote>
+
+There are other articles on this wiki that state the belief of some that a complete model of the atmosphere can be described with diff eqs, but the complexity is beyond our means for the time being. Different than "inherent unpredictability".--[[User:Demonburrito|demonburrito]] 11:13, 11 August 2005 (UTC)
+
+
+:Yes, differential equations are solved numerically in weather forecasting models. However, no matter how complete and accurate the model is, uncertainty in the representation of the initial state of the atmosphere will always grow and lead to forecast errors. This is true of all chaotic systems, of which the atmosphere has been proven to be a good example. Therefore I don't think that the fact that the "atmosphere can be described by diff eqs" and stating that it is  "inherent unpredictability" are contradicting each other.   (see [[Chaos theory]]) [[User:Peterlean|PeterLean]] 10:40, 12 August 2005 (UTC)
+
+:Demonburrito; I've reinserted the bit about the chaotic nature of the atmosphere because I believe that it is one of the most important aspects of atmospheric bahaviour for weather forecasting. If you feel that this theory is controversial then have a look at:
+:http://www.ecmwf.int/research/predictability/background/
+:http://wwwt.emc.ncep.noaa.gov/gmb/ens/info/ens_detbak.html
+:-most of the major operational forecasting centers are beginning to use ensemble forecasts to take account of the uncertainty in the forecasts arising due to the chaotic nature of the atmosphere.
+:But, thanks for all the work you've put in on the page; I think that it is a big improvement on what was there before.--[[User:Peterlean|PeterLean]] 11:32, 12 August 2005 (UTC)
+
+::Thanks for the positive reinforcement. I was beginning to think no one was watching this page.
+
+::Believe it or not, I intuitively agree with Lorenz, and have argued for the validity of his theories on many occasions. The popular books on chaos theory (like Gleick's "Chaos") in the late 80s had a big impact on my thinking, and I personally feel that time may demonstrate Lorenz to be correct as theoretical math progresses. However, having spent some time chatting on [irc://irc.freenode.net/wikipedia/#mathematics], I was unable to find a consensus on this issue. I worry that the paragraph may not be encyclopedic. Perhaps we can split the difference and mention chaos theory's role in the advent of ensemble forecasting, and provide a link to [[chaos theory]]?
+
+::The term 'inherent unpredictability' doesn't appear on the [[chaos theory]] page and strikes me as an oversimplification which might leave readers with wrong impressions.--[[User:Demonburrito|demonburrito]] 03:36, 13 August 2005 (UTC)
+
+:::Chaos theory gives an unpredictable mathematical solution to a system, where the mathematical solution is unpredictable with respect to some exactness, but it does not mean that every solution is entirely unpredictable, just ''inherently'' so. ''(See [[Henri Poincaré]] or [[Phase space]]).''  But even this is not a great answer for all cases, however I am not sure if it is an oversimplification.  
+:::The major problem with [[Chaos theory]] is that it is a mathematical theory.  Most people have a problem with comprehending that not all mathematical ''(real, correct, or imaginary)'' solutions give a solution to real physical ''things''.  While the methods may be valid and give valid solutions, they are only correct in the realm of mathematics.  But, and importantly, it should be understood that [[Physics]] ''(mathematically speaking)'' is a subset of [[Mathematics]].
+:::Simply that means that there are solutions in math that don't work in physics, but all solutions in physics work in math! [[User:Hard Raspy Sci|Hard Raspy Sci]] 02:03, 2 January 2006 (UTC)
+
+== Trimming ==
+
+consider: 
+<blockquote>Specific: Large scale wind mapping
+The direction, strength, and variability of winds over various parts of the earth have been of great interest for a long time. The first large-scale wind mapping efforts were done to aid sailors who depended on winds to power their ships. In the last four decades a considerable amount of work has been done to map winds which might be used to generate power.
+<br/>
+
+It is difficult to map the wind because it is a chaotic system. Weather forecasting is extremely difficult to do accurately for more than a few days. However, statistical methods can be used to predict general expectations of wind. Resolution can be low, e.g. maps of an entire continent; or high, where a specific site is assesed. High resolution maps are used for example to asses the viability of a site for wind turbines.
+<br/>
+
+The inputs to the mapping process are: measured wind data and topography, and possibly other meteorological data which might relate to seasonal variation, pressure, and humidity. Humidity and temperature affect the density of the air, and thus the power produced from a given wind speed. Proximity of the sea has diurnal and seasonal effects on wind patterns. The 'WAsP' model uses a simple algorithm to predict wind over simple topography. It does not solve the Navier-Stokes equations which, in principle, give the correct answers to how the speed and direction of wind changes as it flows over 'complex' terrain.
+<br/>
+
+A typical process for a large-scale wind map would take the wind data, and separate it into groups based on direction and speed. For each group, the wind is simulated using computer-based models, and the result is recorded. The results for each group are then averaged according to the frequency of that speed and direction 'bucket', giving the average wind over an area. This is only indicative, and before a wind farm is constructed, detailed local measurements are essential.
+<br/>
+
+For small areas, the Navier-Stokes equations can be solved with some success, atechnique employed more often as computer power grows to match the task. With this method, the volume of air around the site of interest is cut into discrete chunks. Each is considered independently, like a pixel of a computer display. Each chunk interacts with its neighbours according to their pressure (although this can be neglected), and wind speeds. The smaller the chunk sizes, the closer the result is to reality, although large divergence is not uncommon. These models are extremely computationally expensive to run.
+<br/>
+
+'Simple' terrain can be modelled using simple mass balance: if there is a hill in the way, the wind is accelerated. This is the Bernoulli Effect, and the core of the WAsP model.
+<br/>
+
+Wind is powered by a temperature differential. It is slowed by obstructions and is generally stronger at high altitudes. Plains have high winds because they have few obstructions. Mountain passes have high winds mostly because they funnel high-altitude winds. Some passes have winds powered by a temperature differential between the sides of the ridges. Coastal areas have high winds because water has few obstructions and because of the temperature difference between the land and the sea. Off-shore also generally has high winds for the same reasons.
+</blockquote>
+
+I think this is all fine work, but I also think that this is too specific to be included in the general meteorology article. I'm quoting it in entirety to preserve it on the talk page. --[[User:Demonburrito|demonburrito]] 03:56, 12 August 2005 (UTC)
+
+== Relevancy of chaos theory for weather science ==
+
+::The term 'inherent unpredictability' doesn't appear on the [[chaos theory]] page and strikes me as an oversimplification which might leave readers with wrong impressions.--[[User:Demonburrito|demonburrito]] 03:36, 13 August 2005 (UTC)
+
+I agree that the term 'inherent unpredictability' is inappropriate for any form of dynamics that is 'chaotic' in character. Somewhat closer would be: 'inherent decay of predictability'. In the case of a chaotic system (''chaotic'' in the specific technical sense of ''chaos theory''), the reliability of even the best attempt at forecast drops exponentially with the time span of the forecast. A weather forecast 3 days into the future is pretty likely to be right on the mark, these days. The likelyhood of a forecast 6 days into the future being right is much smaller than half the odds of the 3-day ahead forecast being correct. 
+
+In the article it is stated: "the growth of disturbances over time means that even one as minute as the flapping of a butterfly's wings could much later cause a large disturbance to form somewhere else." That statement is simply wrong, the butterfly image is a metaphor, it is simply wrong to take it literally. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 21:06, 13 August 2005 (UTC)
+
+: Errm, well, hold on. The butterflys wing stuff is probably widely misunderstood, but isn't wrong. Any disturbance, even one far smaller than a butterflys wing, would eventually grown to the extent that different realisations (were that possible: it certainly is in a model) would be completely different. The error is in assuming that butterflys wings cause tornadoes in some direct sense, which is wrong. [[User:William M. Connolley|William M. Connolley]] 14:21:57, 2005-08-20 (UTC).
+
+:: In a sense one can say that the weather 14 days ahead being unpredictable is a consequence of a gazillion disturbances, sometimes reinforcing each other, sometimes annihilating each other. A truly ''exhaustive'' equation of motion would have to take each drop of a leaf into account, for a leaf still being attached to the tree or the leaf being torn off makes (theoretically) a difference, etc. etc. 
+
+::I see a twofold wrongness in taking the metaphor of the 'butterfly flapping its wings' literally. The one you mention, and the following: that an exhaustive equation of motion would have to take a gazillion disturbances into account ''simultaneously'', each disturbance contributing on average one gazillionth to the decay of predictability. Each individual disturbance is rapidly diluted into oblivion in the process. The principle characteristic of systems that are categorized as 'chaotic systems' is that tracing cause-effect connections becomes exponentially harder to achieve with increasing time span. The path of any large development, such as a hurricane, is determined by innumerable tiny individual contributions. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 10:55, 22 August 2005 (UTC)
+
+:::I agree entirely with William Connolley's comments. It's true that a perfect forecast would require a perfect model along with perfect initial conditions which would need to include all of the many small disturbance occuring. However, even just one small disturbance not included in the initial conditions can (if the conditions are unstable and allow perturbations to grow) eventually lead to a total loss of predictability. It seems probable that often a single butterfly flapping its wings would make no difference to a forecast at all in the long run if the conditions are such that the disturbance simply decays, but in unstable conditions it can grow and lead to a total loss of predictability. --[[User:Peterlean|PeterLean]] 16:32, 22 August 2005 (UTC)
+
+==Thermoscope==
+
+I have linked the previous red-link [[thermoscope]] to [[Galileo thermometer]]. Am am pretty sure that is what is what is meant by thermoscope. While the name does sound reasonable for an early thermometer, I have not heard the word before. [[User:Gaius Cornelius|Gaius Cornelius]] 07:31, 1 October 2005 (UTC)

@@ -1,0 +1,832 @@
+{{Article history
+| action1       = GAN
+| action1date   = 20:03, 20 September 2014 (UTC)
+| action1link   = /GA1
+| action1result = promoted
+| action1oldid  = 626384261
+
+| action2       = PR
+| action2date   = 00:08, 18 October 2014
+| action2link   = Wikipedia:Peer review/Czech language/archive1
+| action2result = reviewed
+
+|topic=Language and literature
+| currentstatus = GA
+}}
+{{talk header}}
+{{Vital article|level=4|topic=Language|class=GA}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Languages|class=GA|importance=Top}}
+{{WikiProject Czech Republic|class=GA|importance=Top}}
+{{WikiProject Eastern Europe|class=GA|importance=High}}
+}}
+{{dyktalk|2 December|2014|entry= ... that the '''[[Czech language]]''' contains a sound, ''[[ř]]'' (example: {{audio|Cs-řeka.ogg|"řeka" (river)}}), that does not occur in any other known language?}}
+{{GOCE|user=Miniapolis|date=December 10, 2014}}
+{{AmE}}
+
+== GA push ==
+I've recently started working on this article in hopes of pushing it to GA status and, possibly later, FA. I don't think any articles on individual languages have reached either status within the past few years, so I'm taking a few liberties with the standards to account for escalating demands, but overall I'm basing it on [[Swedish language]], [[Nahuatl]], and [[Tamil language]]. Also, while the Czech ethnic group makes up the largest part of my heritage and I know the language to a moderate degree, my background on Wikipedia is in video games (particularly ''[[Sonic the Hedgehog (series)|Sonic the Hedgehog]]'' articles), not linguistics, so feel free to correct me if I make any newbie blunders. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 03:53, 20 July 2014 (UTC)
+
+:A noble endeavor! We definitely need more high-quality language articles. Here are a few suggestions:
+:*Better figures and sources for total speakers. [[Nationalencyklopedin|NE]] is not terribly reliable in my view. Some clarification about the sources used for the Texas Czechs would be nice too. Is it taken from the [[US Census]]? Ref is unclear. Statements like "12,805 Texans can speak the Czech language" should be avoided; opt for "According to Reference XYZ, c. 12,000 residents of Texas reported themselves as speakers of Czech" (assuming it's self-reported).
+:*How is [[Common Czech]] actually different from "standard Czech"? Both seem to refer to the [[standard language]], so how can there be two of them?
+:*Keep phonology separate from orthography. Spelling and pronunciation are two very different things. [[IPA]] transcription should be added for phonology, not just plain Czech.
+:*Harkins (1952) seems like a somewhat dated reference. It would be great if it could be complemented with more recent sources.
+:[[User:Peter Isotalo|Peter]] <sup>[[User talk:Peter Isotalo|Isotalo]]</sup> 11:00, 20 July 2014 (UTC)
+::Standard Czech = the written standard language, Common Czech = the normal spoken language in most of Bohemia and some parts of Moravia where local dialects aren't spoken. Some declension and conjugation endings differ between the two, and there are phonological changes as well. Standard Czech can obviously be spoken, it is on TV and radio for example. I guess that is the real standard language. I will try to find some sources when I come back from holiday. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 16:15, 20 July 2014 (UTC)
+
+:::That seems like a rather unusual way of dividing up a standard language. More details (and references) would be nice. But I'm quite skeptical to the idea that there would be a "spoken written standard". It sounds more like a simple formal [[register (sociolinguistics)|register]]. Modern standard languages are all influenced by the written standards, but even formal speech is by definition very distinct from written language.
+:::[[User:Peter Isotalo|Peter]] <sup>[[User talk:Peter Isotalo|Isotalo]]</sup> 18:31, 20 July 2014 (UTC)
+::::FWIW, Dialects will be one of the last sections I work on, so you two will have time to decide how segmented we should represent Czech to be. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 19:50, 20 July 2014 (UTC)
+:::::I'm definitely not an expert on Czech language policies, just observing that it looks odd from what I've seen. Just make sure your sources are actual linguists or authorities like the [[Institute of the Czech Language]].
+:::::[[User:Peter Isotalo|Peter]] <sup>[[User talk:Peter Isotalo|Isotalo]]</sup> 20:13, 20 July 2014 (UTC)
+::::::I agree. Keep in mind that if a source isn't one of those in References (i.e. the actual bibliography), I haven't gone through it yet. I've already noticed, actually, that the 10.0 million figure's citation looks unsatisfactory, but I have not yet sought an alternative. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 20:17, 20 July 2014 (UTC)
+::::Well it didn't take me long to find a usable source from the Czech language institute about "spoken written Czech" [http://nase-rec.ujc.cas.cz/archiv.php?art=4100]. Actually this article discusses more registers (artistic, technical/non-technical etc), I'm not sure how many would be useful to cover on this page. As for dialects, most sources divide Czech into four main dialects - Bohemian, Central Moravian, Eastern Moravian, Lach/Silesian (see for example [http://books.google.hr/books?id=6u0aOJdZeZAC&pg=PT448&dq=Bohemian,+Central+Moravian,+Eastern+Moravian,+Lach/Silesian&hl=hr&sa=X&ei=rKTMU_XRMcPhPJKIgKgP&ved=0CCMQ6AEwAA#v=onepage&q=Bohemian%2C%20Central%20Moravian%2C%20Eastern%20Moravian%2C%20Lach%2FSilesian&f=false this]. I've worked a fair bit on the article [[Moravian dialects]] representing the latter three in subsections, so we could probably just cover the differences between Bohemian and Moravian on here. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 05:28, 21 July 2014 (UTC)
+
+You know, that article isn't bad, {{u|filelakeshoe}}. If you trimmed down the intro significantly, corroborated a few unsourced statements, and formatted a few of the sources, it would look like GA material to me. Anyway, this page is definitely coming along, if I do say so myself. Are you still interested in contributing/correcting information about Czech dialects here, or should I handle that myself? [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 19:52, 22 July 2014 (UTC)
+
+Just so you all know, I'm gonna put this up at GAN as soon as everything's cited and looks reasonably nice, which should be either today or tomorrow. Other changes can still be made after the fact, of course. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 18:58, 26 July 2014 (UTC)
+
+Oh, snap. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 21:02, 26 July 2014 (UTC)
+
+:Thanks very much for your work on this, I'm back home now and have had time to read through. Just a few questions:
+:*Do East Slavic languages not distinguish between hard and soft consonants, moreso even than Czech and Slovak?
+::*I don't know. Why does that matter? [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 17:07, 28 July 2014 (UTC)
+:::*It was the second paragraph in the "classification" section which said Czech is different from East and South slavic in that it distinguishes hard and soft consonants. As far as I know, all Slavic languages do this to some extent, South Slavic very minimally, but East Slavic and Polish use it more than Czech (and the ref says so about Polish) – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 16:06, 30 July 2014 (UTC)
+:*Czech and Slovak speakerrs understand each other "more so than speakers of most pairs of languages within the West, East, or South Slavic branches." – is this explicitly stated in the source? I find it questionable - with East Slavic, most people in Belarus/Ukraine have the advantage of knowing Russian as well, and it depends on how much we're segmenting South Slavic, whether Bulgarian and Macedonian are really separate, etc. (I think Wikipedia rightly takes the general stance that BCS is one language) – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 10:25, 28 July 2014 (UTC)
+::*[http://books.google.com/books?id=G2bsJdYrwD4C&printsec=frontcover&dq=978-0-521-29448-5&hl=en&sa=X&ei=aYLWU9HhPMuGyASv0ILQDw&ved=0CEAQ6AEwAQ#v=onepage&q&f=false Here's the source]; go to page 58, specifically the part about Polish and Sorbian and the surrounding few sentences. I may have been reading too much into it; can't be sure. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 17:07, 28 July 2014 (UTC)
+:::*Thanks for the ref, I have fixed it to something we can assume from that source, which is that Czech and Slovak are the closest two West Slavic languages. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 16:06, 30 July 2014 (UTC)
+:*"Czech is one of the most highly inflected languages in the world" - again, is that explicitly stated in a source which discusses "world languages?" It sounds like the sort of thing a Czech person would say but I find it dubious, even in Europe, Finnish Estonian and Hungarian have a whole load more cases and verb forms than Slavic languages, and I'd wager some of those Native American languages and Georgian outclass even them. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 10:25, 28 July 2014 (UTC)
+:**Regarding "most highly inflected": it's your basic native speaker focus on stressing uniqueness. It's probably been a part of virtually every language article by now. Czech grammar seems no more complicated than Russian or Polish, so this is clearly dubious. The statement be removed or toned down until there's a source that can actually confirm it. [[User:Peter Isotalo|Peter]] <sup>[[User talk:Peter Isotalo|Isotalo]]</sup> 11:57, 28 July 2014 (UTC)
+:***You know, it's easy to miss, but this ''is'' cited in he body text of the article. The source is academic, too. I'm on my iPod now, but I'll take a look at the other complaints a bit later. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 13:33, 28 July 2014 (UTC)
+:****Right you are. It's in Qualls (2012), p. 5,[http://books.google.se/books?id=tjrd5UnFT2gC&printsec=frontcover&dq=The+Qualls+Concise+English+Grammar&hl=sv&sa=X&ei=7FHWU8iECYXpywPf7YDYDg&redir_esc=y#v=onepage&q=czech&f=false] but it says that "[t]he most widely spoken highly-inflected Indo-European languages are members of the Slavic group (Russian, Ukrainian, Polish, Czech, Serbian. etc.)." That's definitely not the same as saying that Czech specifically "one of the most highly inflected languages in the world". [[User:Peter Isotalo|Peter]] <sup>[[User talk:Peter Isotalo|Isotalo]]</sup> 13:45, 28 July 2014 (UTC)
+:****And I should add that this is ''The Qualls Concise English Grammar''. It's an English grammar focused on North American English.[http://www.amazon.com/The-Qualls-Concise-English-Grammar/dp/1890000094] It is definitely not a work that is focused on comparative linguistics. [[User:Peter Isotalo|Peter]] <sup>[[User talk:Peter Isotalo|Isotalo]]</sup> 13:52, 28 July 2014 (UTC)
+:*****Fair enough. I'll remove/reword it in both locations in a few hours, or you can now. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 13:55, 28 July 2014 (UTC)
+:******Alright, done. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 17:07, 28 July 2014 (UTC)
+Thanks, {{u|filelakeshoe}}! So, if you haven't seen, someone's picked up the review and, while he likes it overall, he's made kind of an odd complaint: that there aren't enough sources numerically, not specifying that anything in particular needs further corroboration. Any ideas on how I might deal with this to his liking, while we wait for a native speaker to chime in on the way aspect is described? [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 16:18, 30 July 2014 (UTC)
+:I guess use more specific sources? I found an old copy of ''pravidla českého pravopisu'' lying around the house (which is the Czech Language Institute's authority on orthography) and just double checked the whole orthography section against it and added a few more cites from it. All I have time for tonight I think. To be honest I don't think we need to do this for the whole article :) – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 18:36, 30 July 2014 (UTC)
+
+== Note on GA-status ==
+
+Noticed the GA. I don't feel I have time to do a full review, but I noticed that the phonology section is still based on Czech orthography, not IPA. This really needs to be fixed. Referring to phonemes with normal spelling is not appropriate. It should always be with proper linguistic notation so that it is unambiguous.
+
+[[User:Peter Isotalo|Peter]] <sup>[[User talk:Peter Isotalo|Isotalo]]</sup> 11:59, 28 July 2014 (UTC)
+:{{u|Peter Isotalo}}, I believed I've fixed it. Is it better? [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 17:04, 28 July 2014 (UTC)
+
+By the way, I hope I'm not being annoying with all of this. I just want to be sure I know pretty well how to write language articles, as there are others I'd like to work on. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 17:09, 28 July 2014 (UTC)
+
+:Well, I suppose I'm somewhat of a stickler when it comes to phonetics... But I should stress you've done wonders with this article. There's a world of difference between [https://en.wikipedia.org/w/index.php?title=Czech_language&oldid=614792846 that] and [https://en.wikipedia.org/w/index.php?title=Czech_language&oldid=618842161 this]. Keep up the good work!
+:[[User:Peter Isotalo|Peter]] <sup>[[User talk:Peter Isotalo|Isotalo]]</sup> 18:41, 28 July 2014 (UTC)
+
+Hi, just a quick question on the phonology section: ''hard consonants may not be followed by ''y'' or ''ý'', nor weak ones by ''i'' or ''í''.''    Should it be otherwise?--[[User:Ludwigzhou|Ludwigzhou]] ([[User talk:Ludwigzhou|talk]]) 18:52, 28 July 2014 (UTC)
+:Apparently yes. I hadn't noticed. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 22:07, 28 July 2014 (UTC)
+
+== Aspect ==
+
+The stuff about aspect in the verbs section needs attention from a learned native speaker and possibly better sources. I'm not sure it's as simple as all verbs coming in pairs with either prefix or suffix. One imperfective verb often has many perfective derivatives, for instance "dělat" has "udělat" and also "dodělat". One thing I can be sure of is that -ovat, -ávat verbs are imperfective, not perfective, so the longer infinitive ending is added to the perfective stem, e.g. koupit, prodat (perfective) become kupovat, prodávat (imperfective). Imperfective verbs can also have these stems added too, e.g. dělat → dělávat, as can perfective verbs with prefixes e.g. "vyhledávat", which has a different meaning to both "hledat" and "vyhledat". I'm not sure how best to explain it. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 08:54, 29 July 2014 (UTC)
+:{{ping|EmilJ}}? – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 09:03, 29 July 2014 (UTC)
+::Hmm, I'm aware of this, but I'd forgotten about it and I don't believe it was mentioned in the source. I wrote it when I kept getting ''perfective'' and ''imperfective'' mixed up. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 13:34, 29 July 2014 (UTC)
+:::Since we got no response on here, I asked my girlfriend what she thought and she thinks the explanation is more or less accurate and that I was confused - hledat/vyhledat are not a pair but different verbs and vyhledat has the imperfective form vyhledávat. Adding a prefix to a verb can also change the meaning of the verb which is something we should perhaps find a source for. 
+:::You can make -ávat verbs from imperfective ones like "kupovávat" and they denote repeated actions. There is a source on the cs.wiki article [http://www.dominiklukes.net/bibliography/platonickysvetgramatickychkategorii] here which describes this using the scale "durative - iterative - frequentative" (using "jít - chodit - chodívat" as an example, all of which are imperfective). I have summed this up briefly using the same example. I removed the "list of suffixes" and replaced it with an example since it's a bit confusing - all of those were just standard infinitive endings and apart from the -vat ones can denote perfective verbs as well. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 08:29, 5 August 2014 (UTC)
+
+== Hajičová ==
+
+{{u|Maunus}}, I've finally gotten around to looking at that citation issue and I've figured it out: it was an error in the "harv" citation to Hajičová regarding the author fields. I've fixed it now; to be clear, it was correctly referring to her rather than Stankiewicz. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 04:05, 30 September 2014 (UTC)
+
+==The maps==
+Could a legend be added for the upper map in that box (does those have a particular name?) on the right? It looks as though all of Europe speaks Czech as a majority... [[User:Cwbr77|Cwbr77]] ([[User talk:Cwbr77|talk]]) 10:23, 21 January 2015 (UTC)
+:I'm also not sure what that's supposed to show. I'm even more unsure about the map below saying that Czech is spoken by a "significant minority" in the whole of Zaolzie... are there any figures on how many Cieszyn Silesian speakers there are left? The [[:Template:Polish municipalities in the Czech Republic]] can only name three towns and a scattering of villages with 10% Poles in them. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 22:10, 26 January 2015 (UTC)
+::I have gone ahead and boldly removed the map, since the data is unsourced and questionable, this is a GA, and there were no comments forthcoming to my query on Commons [https://commons.wikimedia.org/wiki/File_talk:Idioma_checo.PNG here]. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 08:00, 16 October 2017 (UTC)
+
+== "Ona běžela" ==
+
+In Verb conjugation, "''ona běžela'' could mean she ran, she has run or she had run.[92]"  It could also mean (and it often means) "she was running". (I hesitate to simply add this meaning because it might require modifying the introductory phrase and/or the reference [-?])[[User:Svato|Svato]] ([[User talk:Svato|talk]]) 15:16, 12 April 2015 (UTC)
+
+== Language links missing ==
+
+This article doesn't link to articles in other languages about the Czech language. Can somebody please fix this?  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.179.23.154|77.179.23.154]] ([[User talk:77.179.23.154|talk]]) 12:08, 11 August 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Why should it? This is the ''English'' Wikipedia. [[Special:Contributions/68.19.5.207|68.19.5.207]] ([[User talk:68.19.5.207|talk]]) 21:23, 31 May 2016 (UTC)
+
+== Czech phonology ==
+
+I've noticed some discrepancies between what the intro says about Czech vowels, and the information given in the section on Czech phonology:
+
+*In the introduction:
+::"''Czech has a moderately-sized phoneme inventory, comprising '''five''' vowels (each short or long) and twenty-five consonants (divided into "hard", "neutral" and "soft" categories).''"
+*In the Phonology section:
+::"''Czech contains '''ten''' basic vowel phonemes, '''and three more''' found only in loanwords.''"
+The latter is definitely more precise, as you cannot reduce the distinction merely to one of vowel length. Although the long /oː/ '''is''' a quantitative counterpart to the qualitatively similar, but short, /o/, it only appears in loanwords and onomatopoeia. Also, the difference between the short <''i''> and <''í''> is also one of <s>quantity</s> quality: /ɪ/ vs. /iː/. Hence, in reality, Czech has /a/, /aː/, /ɪ/, /iː/, /ɛ/, /eː/, /o/, /o͡u/, /u/, /uː/ as the '''basic''' vowels, and /a͡u/, /ɛ͡u/ and /oː/ as the '''peripheral''' vowels.
+
+I'm not sure how to put all this in a simple way, easily comprehensible even to the non-experts. As a phonetician, I'm heavily biased. ;) --<font color="red">[[User talk:Petusek|P]]</font><sup><font color="green">[[User:Petusek|ětušek]]</font></sup> 17:17, 7 October 2017 (UTC)
+:Nice catch. Actually not sure how that sentence in the lede went unnoticed because it isn't correct. I've reworded it to "10 monophthongs and 3 diphthongs" which I think is enough info for the lede. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 18:59, 7 October 2017 (UTC)
+::Great, thank you! Now, I've also noticed some problems in the Phonology section itself.  Please, see below.
+It says in the Phonology section that "''[v]oiced consonants with unvoiced counterparts are unvoiced at the end of a word, or when they are followed by unvoiced consonants''". Unfortunately, the issue is much more complex, since also unvoiced consonants are voiced when followed by voiced consonants with unvoiced counterparts (Standard Czech + mostly the Bohemian varieties), or when followed by voiced consonants in general (that is, including the sonorants; mostly in the Moravian varieties). Moreover, this phenomenon, known as voice assimilation, also takes place at word boundaries, so that <dost bylo> is pronounced as [do'''zd'''bɪlo]. In addition, whether a voiced obstruent devoices at the end of a word depends on whether it is followed by a pause (which is inherently voiceless, of course) or another voiced consonant, Because of that, defining the condition for devoicing as "''at the end of a word''" simply isn't sufficient. Compare the following consonant realizations, which make it (hopefully) rather clear that pauses behave very much like devoiced consonants indeed:
+:a. voicing within words:
+
+*''zbít'' → [zbiːt] "to beat somebody up"
+
+*'''''sb'''ít'' → ['''zb'''iːt] "to nail/hammer something together"
+
+:b. devoicing within words:
+
+*''stěžovat'' → [scɛʒovat] "to complain"
+
+*'''''zt'''ěžovat'' → ['''sc'''ɛʒovat] "to complicate"
+
+:c. voicing across word boundaries:
+
+*''šest''<sub><PAUSE></sub> → [ʃɛst] "six"
+
+*''šest let'' → [ʃɛst lɛt] "six years"
+
+*''šest vět'' → [ʃɛst vjɛt] "six sentences"
+
+*''še'''st''' '''ž'''en'' → [ʃɛ'''zd ʒ'''ɛn] "six women"
+
+*''še'''st''' '''ř'''ek'' → [ʃɛ'''zd r̝'''ɛk] "six rivers"
+
+:d. devoicing across word boundaries:
+
+*''sje'''zd'''''<sub>'''<PAUSE>'''</sub> → [sjɛst] "congress, meeting etc."
+
+*''sjezd lidí'' → [sjɛzd lɪɟiː] "congress of people"
+
+*''sjezd vinařů'' → [sjɛzd vɪnar̝uː] "congress of wine growers"
+
+*''sjezd žen'' → [sjɛzd ʒɛn] "congress of women"
+
+*''sjezd Řeků'' → [sjɛzd r̝ɛkuː] "congress of Greeks"
+
+*''sje'''zd p'''otomků'' → [sjɛ'''st p'''otomkuː] "congress of descendants"
+
+Also, notice the behaviour of /v/, which gets devoiced in relevant environments like an ordinary obstruent, but doesn't trigger voicing itself, thus behaving also like another sonorant (i.e. /m/, /l/ etc.); and the behaviour of /r̝/, which gets devoiced just like any other obstruent in relevant environments, but, unlike any other consonant, also devoices progressively, e.g.:
+
+:e. regressive devoicing within words:
+
+*''ná'''řk'''y'' → [naː'''r̝̊k'''ɪ] "lamentations"
+
+:f. regressive devoicing across word boundaries:
+
+*''tvá'''ř'''''<sub>'''<PAUSE>'''</sub> → [tvaːr̝̊] "face"
+
+*''tvá'''ř č''lověka''' → [tvaː'''r̝̊ t͡ʃ'''lovjɛka] "face of a person"
+
+:g. progressive devoicing within words:
+
+*'''''př'''ítel'' → ['''pr̝̊'''iːtɛl] "friend"
+
+Having said all that, I realize we need to keep the Phonology section as brief as possible (this kind of information belongs to the standalone Czech Phonology article, I suppose), but, so far, I haven't been able to figure out how to reconcile informativeness, accuracy and shortness. Being a non-native speaker of English, I sometimes find it difficult to formulate things in a concise manner. And as a phonetician, I sometimes tend to use terminology that might be too opaque and discouraging to laypeople. I feel that's something that needs to be avoided to keep Wikipedia readable. :) --<font color="red">[[User talk:Petusek|P]]</font><sup><font color="green">[[User:Petusek|ětušek]]</font></sup> 19:29, 7 October 2017 (UTC)
+:[[Czech phonology]] goes into more detail on the progressive/regressive voicing and the voicing and devoicing across word boundaries. Since a lot of this stuff varies between dialects I think we should mention it as little as possible here – the count of 10 monophthongs and 3 diphthongs is seldom valid in Moravia either, in North/East Moravian y can be further back than i, then some Silesian dialects don't distinguish long from short vowels at all... for simplicity's sake this should probably focus on the standard pronunciation outside the sections that focus on the other variants. I do think we should mention that ř can be both voiced and unvoiced, and also that /x/ and /ɦ/ make a pair (as this isn't mentioned and it's not entirely intuitive). Both of these factoids are sourceable from the IPA handbook. 
+
+:Regarding the "at the end of a word" thing, I think the Czech phonology article approaches this more precisely: "Assimilation of voice is an important feature of Czech pronunciation. Voiced obstruents are, in certain circumstances, realized voiceless and vice versa. It is not represented in orthography, where more etymological principles are applied." I think if we can find a cite to support all this we could just lift this sentence into the main article. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 19:54, 7 October 2017 (UTC)
+:Orrrrr, we can just reword it to "at the end of a word before a pause" which is what the IPA handbook says about final devoicing. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 19:57, 7 October 2017 (UTC)
+::OK, I made a bunch more edits to that section, using the IPA handbook as the source. It's definitely more in-depth than the original source which I don't have access to but seemed to only mention voice consonants devoicing and not vice versa. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 20:58, 7 October 2017 (UTC)
+:::Great, the passage sounds much better now, thank you!
+
+:::One more thing to consider though: since <ř> is described as "''a sound somewhere between Czech's r and ž''" and we do mention it becomes unvoiced in unvoiced environments, we might need to adjust that description a bit, because "''a sound somewhere between Czech's r and š''" is just as correct. Any ideas as to how to word that? Admittedly, it's not that important, but I have heard a lot of non-native speakers twistinɡ their poor tonɡues while trying to pronounce "přítel" as [pr̝iːtɛl] rather than [pr̝̊iːtɛl], achievinɡ somethinɡ like [b̥r̝iːtɛl] instead, at best. --<font color="red">[[User talk:Petusek|P]]</font><sup><font color="green">[[User:Petusek|ětušek]]</font></sup> 21:58, 7 October 2017 (UTC)
+
+== Obecná / Hovorová ==
+
+Is ''hovorová čeština'' still a thing or has it been basically replaced by ''obecná čeština''? Or are they just different ways of describing standard vernacular from different eras? This article prescribes the viewpoint that OČ is the standard vernacular in most of the country, but some sources seem to dismissively hand-wave it away. Komárek (2012) p117 dedicates a mere two sentences to it under the heading "tzv. obecná čeština":
+
+<blockquote>The so-called "obecná čeština", which can be seen as an intersection of "hovorová čeština" and regional dialects, is a levelled interdialect which resulted from the dominant influence of the Central Bohemian dialect, and from which local dialectal features restricted to certain parts of Bohemia have been removed.</blockquote>
+
+Meanwhile OČ enthusiast Milan Hrdlička frames it in the introduction to his book on OČ as simply being the common vernacular of today, as we do. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 21:31, 7 October 2017 (UTC)
+:Well, I'm out of time now, but for the time being my short answer is that ''hovo'''r'''ová čeština'' is merely the spoken form of ''spisovná čeština'', the codified, recommended and received standard taught at primary and secondary schools and used in public as well as most private media (with many buts). ''Obecná čeština'' is really an inter-dialect rather than a true dialect, since it's actually a (sub)set of features (mostly morphological, from the synchronic perspective) that are shared by many speakers of Czech in all of Bohemia and western parts of Moravia, but is considered substandard, displeasing even, in other parts of the country (again: with many buts). If I have some time tomorrow, I'll try to give you a more comprehensive answer. Anyway, the impression that OČ is the dominant vernacular is objectionable, because it really depends on the sociological domains and language functions. I, for one, commonly switch between OČ, SŠ/HČ and my own lect depending on whom I speak to, the context, environment, situation. More to share tomorrow! ;) --<font color="red">[[User talk:Petusek|P]]</font><sup><font color="green">[[User:Petusek|ětušek]]</font></sup> 22:38, 7 October 2017 (UTC)
+::Ah okay so hovorová means "spoken written Czech" (I remember looking for sources on that during the GA push). Thanks. Interdialect is a trendy word in Czech dialectology at the moment and "obecná X" seems to be synonymous with it – the mush Central Moravian is becoming is referred to as "obecná hanáčtina" in [http://nase-rec.ujc.cas.cz/archiv.php?art=5184#_ftn8 this source] for example, so there are a few vernaculars called "obecná something" but they don't together form one "main vernacular", they're all rooted in different phonological systems for a start. The Common Czech morphology is clearly linked to the Central Bohemian vowel shifts (ý > ej, é becoming a peripheral phoneme etc.) I'm going to at least add "in Bohemia" to that sentence. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) [[User:filelakeshoe/kocour|<font face="webdings"><big></big></font>]] 05:19, 8 October 2017 (UTC)
+:::Well, the issue is a bit more complicated, and I'd really like to write more some time soon, but one minor point now at least: "spisovná" is not the same as "psaná". While the latter is derived from the verb "psát" (to write) and hence means "written" indeed, the former is derived from "spis" (a piece of writing, a written document). "Spisovná čeština" is (or should be) translated as "Literary Czech", hence "hovorová čeština" could be translated as "Spoken Literary Czech". Some people use "Colloquial Czech" instead, but that should be restricted to non-standard language. "Spoken Literary Czech" is the spoken "version" of "Literary Czech". I hope I haven't blurred the picture even more for you. :))--<font color="red">[[User talk:Petusek|P]]</font><sup><font color="green">[[User:Petusek|ětušek]]</font></sup> 10:28, 8 October 2017 (UTC)
+
+== Map in infobox ==
+
+Firstly apologies to {{ping|Jirka.h23}} for the revert, for some reason my browser was still showing the old map with the borderlands coloured in light - clearing cookies fixed it.
+
+The map is still unsourced though, and I still question whether Czech is really a minority language in Zaolzie today. I couldn't find a map (probably because a map would be fairly unrevealing in this case) but [https://www.ethnologue.com/country/CZ/languages Ethnologue] only counts 33,600 L1 indigenous Polish speakers in [[Frýdek-Místek District]], which has a population of 209,326 (2007). It's not the majority language in the whole district, though there may be individual villages where it is. And the sourced analysis of census data in [[Zaolzie]] says Czechs were the majority in 1991.
+
+Would anyone object to me colouring the whole of Czechia in dark and leaving the light bits in Vojvodina and Croatia – and maybe adding the [[Czechs of Romania]] as well? – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) 10:09, 24 March 2018 (UTC)
+:For what it's worth, I looked in Hannan (1996) and was merely reminded of how complicated the question is of whether the Polish spoken in Zaolzie nowadays is really "Polish" or if it can be seen as belonging to both Polish and Czech as per the classification of Belič, Kellner etc... but I suppose my question is rather whether a majority of people in that region actually speak ponaszymu nowadays or whether the north Moravian interdialect is more predominant. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) 10:27, 24 March 2018 (UTC)
+::{{ping|filelakeshoe}} Majority of population of Zaolzie nowadays clearly speaks Czech language. The [[Cieszyn Silesian dialect]] is spoken as a first language predominantly by Polish population there. People who identify themselves as Czechs, or even "Silesians" speak Czech. Many of them understand Cieszyn Silesian dialect but the dialect they speak is already closer to north Moravian dialect. Having said that, I believe the whole map should be in dark blue, as Czech language is clearly a majority language in Zaolzie (or districts of Karviná and Frýdek-Místek). - [[User:Darwinek|Darwinek]] ([[User talk:Darwinek|talk]]) 11:53, 24 March 2018 (UTC)
+
+== Alphabet ==
+Alphabet?????  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.45.238.165|78.45.238.165]] ([[User talk:78.45.238.165#top|talk]]) 21:09, 13 October 2018 (UTC)</small> <!--Autosigned by SineBot-->
+:Look here: [[Czech orthography]], first paragraph. [[User:Jirka.h23|Jirka.h23]] ([[User talk:Jirka.h23|talk]]) 12:59, 14 October 2018 (UTC)
+
+== Photo of "Prohibition signs written in Czech..." ==
+
+Please, can somebody change [https://en.wikipedia.org/wiki/File:NTK_prohibition_signs.jpg the photo] of "Prohibition signs written in Czech, by entry #3 into the building of National Technical Library in Prague." In vain, I am trying to add the note, that the word "střežena" is misspelled on the photo. [https://en.wiktionary.org/wiki/st%C5%99e%C5%BEit source]
+
+As a native speaker, I think it is a shame to have an english wikipedia page about czech language with grammar mistakes.
+Thank You.  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/89.190.74.149|89.190.74.149]] ([[User talk:89.190.74.149#top|talk]]) 01:16, 8 December 2018 (UTC)</small> <!--Autosigned by SineBot-->
+:Thanks for the notice, the word "střežena" is really misspelled. I have changed the description at the photo and changed the article image. [[User:Jirka.h23|Jirka.h23]] ([[User talk:Jirka.h23|talk]]) 08:37, 8 December 2018 (UTC)
+
+== Ř in Irish?? ==
+
+Can someone substantiate the comment in the Phonology section that in Irish there is the raised alveolar trill? In the section, it notes that this can be found "in front of a slender vowel, as in the word Éire, the Irish name of Ireland", but neither the page for [[Ireland]] nor wiktionary's page for Éire '''nor''' the pages for [[Irish phonology]] nor mutations support this (instead, the pronunciation for Éire given in both articles reflects a palatalised alveolar tap).  Thanks, --[[File:User Necro Shea mo Sig.jpg|20px]] '''<font color="green">[[User:Necro Shea mo|Necro]]</font> <font color="red">[[User talk:Necro Shea mo|Shea]]</font> <font color="gray">mo</font>''' 21:49, 1 January 2019 (UTC)
+:I've just removed it, since it was unsourced as well as being very suspect. – [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) 13:18, 24 January 2019 (UTC)
+{{archive}}
+
+==The complexity of the Czech language==
+
+Due to its complexity is said to be one of the world's most difficult languages to learn. The complexity originates from several sources: 
+
+*extensive morphology (some words have over 200 possible word forms)
+*free word order (often all the permutations are valid)
+
+Both are true for almost all Slavic languages, so why Czech is considered more difficult than other Slavic languages here? For me it was not not more difficult than Polish for example. So I propose to delete this paragraph as the author's private point of view.
+
+:People seem to like calling ''every'' Slavic language "[one of] the world's most difficult languages to learn". Indeed, it's largely opinion and may be freely discarded. --[[User:Brion VIBBER|Brion]]
+
+---
+
+I can mention reason why Czech language is easier then it seems from complexity. Czech language is very regular language. Czech language is almost "pure algoritmic language" built from few number of rules. It is very difficult to learn Czech language by memorize but very very easy if you learn by understanding the basic rules of language. For example English language is idiomatic and need good memory. That's why English language needs huge amount of words. Czech language is "algoritmic language" with small number of words but together with combination of grammar has excellent expression possibilities. 
+
+If you want to memorize Czech language then it seems very difficult. The best way to learn English IMHO is to use it. With mistakes, no matter. Your brain after short time will understand rules and Czech language will stay much more easier.
+
+You can create new words in Czech language by prefixes. It is totaly regular. Every Czech people can understand new word created by prefix because every prefix change meaning the same way for all verbs. It is often used not only for creating new word but to multiply set of tenses too.
+
+The second reason why Czech language is easier is: There are no difference between written and spoken form. It is regular as all in Czech language. It is possible to read unknown written words as well as write spoken unknown words.
+
+No no. Czech language is easy. But not for memorize. As most Slavic language.
+
+Miloslav Ponkrác
+
+Czech native speaker
+
+---  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/194.213.53.196|194.213.53.196]] ([[User talk:194.213.53.196|talk]]) 01:41, 15 January 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:Sorry, but there is a lot to disagree about here. First of all, Czech is actually a very '''irregular''' language in a number of respects. Calling it a "pure algorit[h]mic language" is just utter nonsense. Why should we use "jít '''na''' poštu" (''go to the post office'') rather than "jít '''do''' pošty". After all, '''do''' makes better sense as it seems to be used with most other places. Whatever historical reasons there may have been for the development, they're completely opaque and inaccessible to the present native speakers. --[[User talk:Petusek|Pe]]<font color="red">[[User:Petusek|t]]</font>[[User talk:Petusek|'usek]] <sup>[<font color="green">petr</font>dot<font color="red">hrubis</font>at<font color="blue">gmail</font>dot<font color="cyan">com</font>]</sup> 22:29, 23 May 2014 (UTC) (yet another native speaker)
+
+And there's a lot of other candidates too.  People often call [[Chinese language|Chinese]] one of the world's most difficult languages to learn, and some African languages are occasionally cited as candidates as well. --[[User:Delirium|Delirium]] 05:04, Oct 29, 2003 (UTC)
+
+Could someone give an example of a word which has over 200 possible word forms? I am a Czech native speaker but I do not remeber any. --[[User:Pajast|Pajast]] 15:51, 17 July 2006 (UTC)
+:Verbs in Antient Greek:-)  And maybe even more
+
+Do you know of that we have a small state ecistuje large number of dialect - "Official" from the outskirts of Prague, Moravian dialect, dilaket the Surroundings of Ostrava, in the environs of Brno (Hantec ") and the like.
+
+For example, the sentence "This man is a fool, do not nenašetřil, so after srmti his children inherit nothing": nothing can nenaspořil, so after srmti his children inherit nothing ":
+
+Tento muž je hlupák, nic si nenašetřil, takže po srmti jeho děti nic nezdědí. (oficial, in TV, neswpaper etc)
+
+Tehle chlápek je debil, je švorc, a pro jeho děcka nic nezbyde.            (unoficila, "civilians" speak, many other modification exist)
+Támhleten týpek je chuj, nemá prachy, a proto jeho chalani nic nezděděj.
+Támhleten maník je blbec, nic si nenašetřil, a proto jeho děti nebudou mít prachy.
+
+Ostrava:
+T''ó''to chlá''pék'' je mač''ó'', níc sí nenaspo''ríl'', a pre ''tó'' jeho chalán[[í]] nic nepód''ě''dej.
+
+Good sample it czech version of Futurama, where can see a Hermes dialogs. In Czech it a type of satire humor dubing a English speaks, who it not from USA or England with a Ostravian dialog. (Hermes it as character from a Jamajka)
+
+http://www.online-futurama.cz/?p=405
+
+- Fredy.00  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.48.153.172|77.48.153.172]] ([[User talk:77.48.153.172|talk]]) 20:37, 28 January 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:"T''ó''to chlá''pék'' je mač''ó'', níc sí nenaspo''ríl'', a pre ''tó'' jeho chalán[[í]] nic nepód''ě''dej." - Tak tohle je slovenština s výpujčkami z hovorové (pražské) češtiny. Ostravsky to není ani omylem.  // This might be a kind of Slovak with loanwords from colloquial Czech. But it´s neither the [[Ostrava]] slang, nor a dialect of [[Czech Silesia]]. By no means. Concerning the supposed difficulty: Yes, it is one of the Czech myths about themselves. As the Czechs have this funny small-nation-inferiority-complex, they seek for reasons that would make them feel unique and would justify their existence as a nation. The conviction, the Czech language would be one of the most difficult idioms ever, is an important part of the Czech identity. But it´s a myth - and nothing else than that. Toni from Ostrava --[[Special:Contributions/89.29.110.138|89.29.110.138]] ([[User talk:89.29.110.138|talk]]) 20:19, 11 November 2010 (UTC)
+
+----
+
+One man's meat is another man's poison. Something like that. It is my personal experience that claims about one language being more difficult than the other (let alone ''one of the most ...'' stuff) are usually groundless myths. Whether a foreign language will be difficult for you to learn, depends upon numerous things. 
+
+First of all, what is your native language? If the language you want to learn is similar to yours (belongs to the same language family or group etc.), it will be much easier for you to learn it than a very different language from another part of the world. It will be naturally much easier for a Polish guy to learn Czech than for a, say, Spanish guy. Chinese is said to be very difficult but for whom, let me ask? Japanese people learn Chinese quite easily while Americans don't.It must be made plain the Chinese Language(s) and Japanese language belong to completely seperate families,there is no genetic relationship between the two.
+
+Secondly, how good are you at learning languages? If you have the talent, you can crack Czech and Chinese alike down pretty quickly if you are really eager to learn them and have some free time. Finally, there are even more factors that determine this, like your surroundings, people around you, even political situation in your country.
+
+So, there can be no ideally motivated claim that a particular language is more difficult than the others. These things are hard to judge about, they are relative. I've been learning English for over eleven years (I'm Lithuanian) and guess what, I don't feel confident with my English at all.
+
+Now about the arguments.
+'''*free word order (often all the permutations are valid)'''
+It was free in almost every ancient language. Czech is by no means the only language to retain this feature. Word order is free in most other Slavic languages and in ''all'' Baltic languages (only two of them survive, though. Word order is absolutely free in them and in extinct Baltic languages). Possibly there are non-Indo-European languages with free word order as well.
+
+'''*extensive morphology (some words have over 200 possible word forms)'''
+Again I must say there is nothing unusual about this fact. Ancient languages also had this many word forms (to have many different word forms is an archaic feature, their number decreases in all languages in time for some reasons not yet discovered by linguistics). Most notably, Sanskrit verbs could have over 700 forms. Other Slavic languages also have many different verb forms (one of them has retained dual).
+
+Therefore, the '''it is said ...''' is to be removed. Such phrases are considered ''weasel terms''. [[User:213.226.138.241|213.226.138.241]] 12:36, 11 Dec 2004 (UTC)
+
+I just visited the page about the Czech language and I think the article is not very good. In my opinion, the article should be an objective linguistic info about the language for any interested person. Please avoid writing articles like this from the point of view of an English speaker who "considers" learning that language. All this stuff about the difficulty of a language or any other part of it does not belong to this article. I suggest you create a chapter like: learning Czech for foreignors. The same applies to all those tongue twisters and all consonants words and sentences. Please stop this - I think this is not that important at all, not worth mentioning - rather for jokes, no serious interest. You can mention it in one short sentence only. I did not read the article nor the discussion here in a detailed way, so these are just my first ideas. I definitely agree with the opinions above - I propose a clean up of the article to a more "objective" one putting aside all the stuff for English learners of Czech [[User:62.240.165.134|62.240.165.134]] 17:34, 23 November 2006 (UTC) aswler
+
+
+Just a word: word order in Czech is hardly free at all, considering each different word order shifts the focus of the sentence, and some of the permutations are frankly nonsensical. Not to mention such things as placing adjectives behind nouns, which is never acceptable in Czech, or separating prepositions from the nouns they govern, which produces utter jibberish in Czech, as it would in every other language. In my humble opinion, every mention of "free word order" ought to be stricken, as it is a myth. What is true, is that Czech changes in word order change the meaning of a sentence more than it would in English.
+[[User:Jirziczerny|jiři černý]] June 10 2006
+
+:I would not say that placing adjectives behind nouns is never acceptible in Czech. It's possible but unnatural (unlike Polish). We can meet with such a word order in an artistic or archaic style. The inverted word order is common in biological or chemical terminology (as in Latin), e.g. meduňka lékařská, ''Melissa officinalis'', lemon balm. [[User:Pajast|Pajast]] 07:54, 12 June 2006 (UTC)
+:The adjectives can stay behind nouns for example in enumeration and it doesn't sound strange (''slovníky německé, anglické, italské...'' - german, englisch, italian dictionaries)
+
+::Well, then this use is NOT FREE, but BOUND to a concrete usage. Clitics aren't free either, e.g. "bych" or "se":
+
+::Tomáše '''bych se''' býval zeptal na cestu
+::Tomáše '''bych se''' na cestu býval zeptal
+::Tomáše '''bych se''' býval na cestu zeptal
+::Býval '''bych se''' zeptal Tomáše na cestu
+::Býval '''bych se''' Tomáše zeptal na cestu
+::Býval '''bych se''' Tomáše na cestu zeptal
+::Na '''cestu bych''' se býval zeptal Tomáše
+::Na '''cestu bych''' se býval Tomáše zeptal
+::Na '''cestu bych''' se Tomáše býval zeptal
+
+::--Pet'usek 08:42, 21 August 2006 (UTC)
+
+The real problem is the '''irregularity''' of Czech morphology. In comparison with Russian, Slovak, etc. (official) Czech morphology is extremely irregular (I would say it is a mess). However nobody is a native speaker of that language. Morphology of colloquial Czech is much simpler. 
+
+So I would say that morphology of Czech is extremelly hard to learn. But I agree, that it is silly to say it about the whole language -- for me, the hardest thing about any language is the usage, registers, etc. -- [[User:Yirka|Jirka]]
+
+:I don't think that the Czech morphology is irregular. It's regular but there are a lot of paradims of declensions and conjugations with relatively frequent exceptions. For instance: as compared with English, there are only few irregular verbs in Czech. [[User:Pajast|Pajast]] 07:54, 12 June 2006 (UTC)
+
+:You're Czech, so you should know, that the four Czech irregural words (''být, chtít, jíst, vědět'') are irregular in their conjunction, what is difficult to be compared with English, because there the conjunction doesn't exist - only the word ''to be'' can be conjugated and also the -s in 3th person of singular is a remainder of conjugation. You're right, when you say, thed they are many paradigms for nouns and verbs in Czech, but I thing, sometimes would be better to remember some word as irregular, than to learn many principles and paradigms. And, by the way, I thing that in creating the aspect pairs of verbs is much more irregularity than in all English.
+
+::Is this article about "Czech" or about "Learning Czech"? ;-) --Pet'usek 08:42, 21 August 2006 (UTC)
+
+::You are right, it is ineffective to learn paradigms. But you cannot call it irregularity. Native speakers use the inflexions intuitively. Yes, Czech irregular verbs have difficult conjugations which must be learned. But if we learn English, we must learn tens of past and passive forms of irregular verbs which native speakers also use intuitively. But I agree that learning Czech may be more difficult that learning English.
+
+::Have you ever tried to learn Hungarian or Finnish? I think that their grammar is also very strange and complicated for both English and Czech speakers. --[[User:Pajast|Pajast]] 15:51, 17 July 2006 (UTC)
+
+:::This is not quite relevant, is it? Considering whether a language is difficult or not is a function with (at least) two complex arguments: the language of the learner and the language learned.--Pet'usek 08:42, 21 August 2006 (UTC)
+
+:::I am a Czech studying Finnish. As I can compare these two languages, I dare to say Czech language is definitely much harder, more complicated and much more irregular than Finnish is, although for many people Finnish remains a synonym for incomprehensible. In fact, Finnish is very regular.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Bara.huncovska|Bara.huncovska]] ([[User talk:Bara.huncovska|talk]] • [[Special:Contributions/Bara.huncovska|contribs]]) 21:59, 2 April 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+----
+
+When it comes to Czech, I am a beginner.  I'm an American who has studied Czech for several months now.  I am only learning the cases now.  Yet I do know one thing that will help those trying to learn the "ř" sound.  I know, it's a very difficult sound.  Heck, even Czech children have to have special speech therapy to say it in some cases.  Lucky for me I ran into one of these when I was teaching English at an English Camp.  She was very impressed that I was learning Czech, and that I had made quite an effort with that sound.  Indeed, I did make quite an effort, I spent hours in front of Routledge Series Colloquial Czech trying to say it.  I was making progress, but not quite there yet.  This is how she taught me to do it:
+
+* * LEARN THE Ř * *
+
+If you know how to roll your Rs, you'll be able to learn the sound (eventually).  For those who do not, learn that first.
+
+Some of you know of the umlaut sounds.  Whether you've thought of it or not, it is actually a hybrid between the English "ee" and "oo".  The 'Ř' is similar, only with consonants.  As you know with the rolled r, the tongue is flapping freely in the middle of the mouth.  Now, there is another sound to focus on.  In Czech, the letter 'Ž' makes the sound, in English, that is part of the word "vision".  This sound is a combination of the two.
+
+First, roll your R.  Then, move your tongue forward and clench your teeth.  Sounds very much like a suppressed 'Ř', doesn't it?  Now, open your clenched teeth slightly, to the position you would use for the 'Ž' sound.  If you did these steps right, you are making the Ř sound, the big one.  From here, do not be discouraged if it does not work sometimes.  Some words in Czech are just plain tongue-twisters; but with practice, with even these you will be able to say it.
+
+Eric Hendrickson, USA
+
+::It ain't a combination of "r" and "ž". It's pretty close, but it isn't the same. If you look at the IPA for 'ř', you'll learn that it's a 'raised' 'r'. What does that mean? It means that the gap between the palate and the tip of the tongue is narrower than when you say 'r', which increases both the frequency of the trill and of the vibration heard.
+::Also, it is necessary to know two things: there's voiced "ř" and voiceless "ř". You won't be able to use voiced "ř" in words like "přítel" (=friend), where the "ř" is voiceless (because the preceding "p" is also voiceless), as it would almost sound like "břídil" (=wanker), where the "ř" is voiced.
+::Practising the sequences "rž" and "rš" is useful, because it teaches you to put the tip of the tongue closer to the palate while, at the same time, keeping the vibration or trill. Once you learn the real "ř", it won't be a sequence of two other consonants any more, i.e. the position of the tongue will not change during the articulation.
+::--Pet'usek 08:42, 21 August 2006 (UTC)
+
+----
+
+Czech can be a difficult langauge for some speakers.  I for example am a native speaker of English and have learned quite a bit of German as well as some Czech, and can safely say that Czech was much more difficult.  This, of course, is due to the fact that the structure of English is much closer to the structure of German than to the structure of Czech.  Speakers of other slavic languages, as has already been stated, would have a much easier time learning Czech than they would learning English or German.  I have no problem with leaving in the phrase "Due to its complexity is said to be one of the world's most difficult languages to learn" provided that we qualify it in some way.  Perhaps by saying it is quite difficult for speakers of less morphologically complex langauges to learn.  -Ryan
+
+----
+
+Sorry for beating a dead horse, but the notion that some languages are more complex than others is simply not true. (Except for very young [[pidgin]]s, but they'll probably mature into [[Creole language|creole]]s or die, so it's a moot point.)
+
+: It's not necessarily untrue, it's just that we don't have a good way to ''measure'' complexity in a language. Until we have, we should leave out comments about complexity. --'''[[User:Hcholm|hcholm]]''' 14:24, 13 January 2007 (CET)
+
+Let me quote from ''Language Files'' from the Department of Linguistics of the Ohio State University, 8th edition, 2001. On the first page of the introduction, it lists "Every language is enormously complex" as one of the "very general principles of human language that will be explained and illustrated throughout this course." It's first on that list. "[t]hey are the underlying themes of many of the lectures you will hear and the assignments you will read."
+
+:''Every language is enormously complex.''
+
+They should teach this in school. --'''[[User:Kjoonlee|Kjoon]]'''[[User talk:Kjoonlee|lee]] 16:40, 15 August 2006 (UTC)
+
+:Nice, but e.g. ancient Greek is ''much more difficult'' to learn for me than English. Of course, in booth languages you can express the same ideas, but in English you don't have to learn how to create about two hunders forms of every verb - and there are ''many'' irregular verbs in Greek -, when they are at most ''five'' forms of one verb in English (and seven forms of word ''to be'').
+
+::Be careful with that. Chinese has '''no''' morphology and a quite strict word order. That's right, no morphology: each verb has '''one''' form, participles included (assuming that the term "participle" makes sense when applied to Chinese). Is it easy? The pronunciation is challenging, the grammar requires total rethinking if you come from Indo-European (there is no relative pronoun, you have to turn the phrase into an attribute, sorta kinda) and… And I didn't even mention the writing system. [[User:David Marjanović|David Marjanović]] 18:45, 24 June 2007 (UTC)
+
+----
+I have hardly met a Czech who does not claim that his/her language is “difficult” – even “very difficult”. This probably has to do with what linguists call ''language loyalty'', a concept which, as far as I know, was coined by [[Uriel Weinreich]]. The phenomenon is widespread. This does not mean that such assertions should be included in articles in Wikipedia !
+
+In this line of thought, the introductory sentence under the heading '''Phonology''' --
+
+<blockquote>The phonology of Czech may ''also'' [?!] be ''very difficult'' [?!] for speakers of other languages.</blockquote>
+
+-- should be deleted.
+
+And in the German version of this article, see '''Tschechische Sprache''', the following “warning” is intended for speakers of German:
+
+<blockquote>Die Aussprache des Tschechischen gilt im Deutschen als ''schwierig'' [?!].</blockquote>
+
+This discussion page has already indicated that linguistic contrasts operating between different speakers may render certain languages more difficult to learn than others. This is a well documented language acquisition fact. As I enjoy being the [[Devil's advocate|devil's advocate]] – especially towards my own opinions – I would like to mention the Wikipedia article [[Enindhilyagwa language]] where the following understatement occurs:
+
+<blockquote>Words like "Akuwerikilyelyingmajungwuna" demonstrate the complexity of the language, where prefix and suffixes are assembled around the root word, making learning, reading and speaking the language challenging [sic].</blockquote>
+
+A claim that Czech is equally “challenging” would certainly obtain for some individuals. I have great respect for those who struggle with [[Grammatical aspect|aspect]] distinctions in Czech, Arabic or Modern Greek if this happens to be something they never learned in their own native language. But why should such a “difficulty” – or any other alleged complexity - be reported in Wikipedia? Are there objective criteria suggesting “complexity”? And from which point of view should “complexity” be judged? -departing from ''Enindhilyagwa'' or from ''English''?...
+
+One should have in mind that numerous Wikipedia users all round the world actually look up articles which are not written in their native language. [[User:Hirpex|Hirpex]] ([[User talk:Hirpex|talk]]) 19:09, 2 June 2009 (UTC)
+
+==Pronunciation of Polish RZ==
+QUOTE
+It also features the consonant &#345;, a phoneme that is said to be unique to Czech and quite difficult for foreigners to pronounce (it's close a sound that would be written as rzh in English).
+/QUOTE
+This is one of our (Czech) national myths, but is it true? I know very little Polish, but what about Rzeczpospolita (republic) and przepraszam (please) ?
+
+:Polish ''rz'' is pronounced like Czech ''&#382;''. --[[User:Christopher Sundita|Chris]] 22:15, 19 Aug 2004 (UTC)
+
+::No, it's differend sound. It's retroflex fricative.--[[User:88.101.76.122|88.101.76.122]] 20:51, 17 September 2007 (UTC)
+
+:The ''rz'' in the ''Rzeczpospolita'' is pronounced as ''&#382;'' but ''rz'' in ''przepraszam'' is pronounced in the same way as our (czech) ''&#345;'' is. But Polish is the only other language I know which uses it... --Lukas 13:27 5 Oct 2004 (UTC)
+::No, it isn't. Polish "rz", very much like Czech "ř", changes its voicing depending on the environment. If voiced, it sounds like Czech "ž" (e.g. in English "vision"), when voiceless, it sounds like Czech "š" (e.g. in English "she"). '''Przepraszam''' is thus pronounced "Pšeprašam" (especially those who were born and live in the Czech Republic). The orthography may well be puzzling even for some native speakers of Polish, but it's really a "š" or "ž", not "ř". --Pet'usek 08:52, 21 August 2006 (UTC)
+:::It's different from both š and ř. It's similar situation like with english th - to some foreigners it sounds like s, for some like f and for some like t.--[[User:88.101.76.122|88.101.76.122]] 20:54, 17 September 2007 (UTC)
+::::You're right, of course. Czech "š" and "ž" are post-alveolar fricatives (voiceless and voiced) whereas Polish "rz" represents both voiceless and voiced retroflex fricatives. By the way, Czech "ř" can be both voiced and voiceless depending on the environment. Phonetically, it is most often described as raised "r", i.e. (pre-)alveolar trill. This raising causes audible friction, whence the closeness to "š" and "ž". But unlike "š" and "ž", "ř" is never rounded (of course, rounding in "š" and "ž" is non-phonemic, but it's there anyway).
+
+What's the difference between czech ''&#345;'', and ''&#382;''? is it a 'voiced/unvoiced' pair (such as in the ''Rzeczpospolita''/''przepraszam'' pair). In polish '&#380;'/'rz' mark the same sound, with morphology acting different on it (as in the pair 'mo&#380;e' (maybe) != 'morze' (sea), which are pronounced the same, but '&#380;' declines to 'g' while 'rz' declines to 'r'), and both 'rz' and '&#380;' can be voiced or unvoiced in accordance to possition. As for other languages - at least the voiced '&#380;' is present in bulgarian/russian/ukrainian, marked as '&#1078;'. In Czech, is it that ''&#345;'' is always unvoiced and ''&#382;'' always voiced?
+
+----
+No. ''&#345;'' can be both voiced or voiceless (compare ''t&#345;i'' three and ''d&#345;i'' rub).  (However, phonemically ''&#345;'' does not distinguish voicing - there is no minimal pair). The voiceless counterpart of ''&#382;'' is ''&#353;''. All (''&#345;, &#382;, &#353;'') are fricatives; ''&#345;'' is a trill, ''&#382;'' and ''&#353;'' are not. -- [[User:Yirka|Jirka]]
+:Precisely. I would also add the rounding in "š" and "ž" as a non-phonemic feature which nobody really realizes (apart from phoneticians, perhaps) --[[User talk:Petusek|Pe]]<font color="red">[[User:Petusek|t]]</font>[[User talk:Petusek|'usek]] <sup>[<font color="green">petr</font>dot<font color="red">hrubis</font>at<font color="blue">gmail</font>dot<font color="cyan">com</font>]</sup> 10:18, 30 April 2009 (UTC)
+----
+Zmrzl, ztvrdl. Do you know of anything which does the opposite, softens when it freezes? -[[User:PierreAbbat|phma]]
+:Yes, the anger ;-) --Pet'usek 08:52, 21 August 2006 (UTC)
+---------
+
+OK, I give up. Stupid link to Croatian page on Czech didnt work. Maybe because of diacritical mark (ha&#269;ek). Later.....[[User:Mir Harven|Mir Harven]] 17:27, 11 Feb 2004 (UTC)
+--
+
+== Languages other than Czech with the &#345; sound ==
+
+According to M. G. Kossmann and H. J. Stroomer (''Phonologies of Asia and Africa'', ed. Alan S. Kaye, vol. 1, p. 470), the [[Berber language]] Riff has this sound where Tamazight and related languages have /l/. Its tense/geminate counterpart /ll/ (or /l:/) becomes an affricate [d&#382;].
+
+A voiceless relative of '''&#345;''', /r&#353;/, is found in [[Nivkh]], and is apparently a voiceless /r/ phonemically. -- [[User:LudwigVan|LudwigVan]] 15:55, 2005 Jan 28 (UTC)
+
+::Oh dear. How many times will I have to repeat that ''CZECH "Ř" IS '''NOT''' A SEQUENCE OF TWO CONSONANTS''? It's a '''RAISED ALVEOLAR TRILL'''. Polish does NOT have it, since "rz" is pronounced either as "ž" or as "š". As for Riff, check for the IPA, please, so that we don't mystify the readers.--Pet'usek 09:07, 21 August 2006 (UTC)
+
+:"Of unique and difficult sounds, Czech boasts &#345;, basically trilled r which is not in any other language (except for Polish and some dialects of French)."
+
+::It's not in any French dialect - check for the IPA.--Pet'usek 09:09, 21 August 2006 (UTC)
+
+:''Source:'' [http://www.bohemica.com/czechonline/reference/czechtrivia/common_learner_errors.htm]
+
+:PS: This whole site is great: [http://www.bohemica.com/czechonline/reference/referencetop.htm Yellow Pages of The Czech Language]
+
+:[[User:Adam78|Adam78]] 01:28, 30 Jan 2005 (UTC)
+
+::I was always under the impression that Polish '''rz''' is now pronounced as Czech '''ž''' (a voiced postalveolar fricative) in the standard dialect. I wasn't aware of it being in any French dialects either; I only learned Parisian pronunciation, where '''r''' is a voiced uvular fricative.
+
+:::Polish "rz" IS pornounced as Czech "ž".
+
+::::It really isn't. Polish "rz" is retroflex, Czech "ž" is post-alveolar. Similar, but not the same.--[[User talk:Petusek|Pe]]<font color="red">[[User:Petusek|t]]</font>[[User talk:Petusek|'usek]] <sup>[<font color="green">petr</font>dot<font color="red">hrubis</font>at<font color="blue">gmail</font>dot<font color="cyan">com</font>]</sup> 10:51, 30 April 2009 (UTC)
+
+::Something else I should check into...
+
+::About the sound being found in Riff: there's not much written on that particular Berber language; most linguistic writings seem to focus on Central Atlas Tamazight (and Tachelhit, which is very closely related) as Morocco's unofficial indigenous language. I'd like to see more written on Riff (also known as Tarifit), or actually hear the language spoken; I don't like to base my conclusions on a single citation.
+
+:::That's right.
+
+::On a side note, Arabic, like Czech, boasts a unique consonant: a voiced velarized alveolar stop, the sound of &#1590; ''d&#257;d''. It's rare indeed, but not quite unique. Most varieties of Berber have that sound, but they originate as two different phonemes in Proto-Afro-Asiatic: The Arabic consonant came from Proto-Semitic *&#347;&#803; (most likely a glottalized voiceless lateralized alveolar affricate, the sound of [[Navajo language|Navajo]] '''t&#322;’'''); the Berber sound from Proto-Afro-Asiatic *t&#803; (a glottalized voiceless dental stop). [[User:LudwigVan|LudwigVan]] 03:34, 8 Feb 2005 (UTC)
+
+
+I'd like to know how often do Czechs say things like "strc^ prst skrz krk"?
+V. Kodytek 18.02.05 15:08 CET
+:Not often, but how often do we say our English tongue twisters?--[[User:D. Kapusta|D. Kapusta]] 20:53, 12 July 2006 (UTC)
+
+
+And how often do people say things like "The quick brown fox jumps over the lazy dog."?
+[[User:Hexagon1|Hexagon1]] 22:57 22 Aug 2005 (AEST)
+
+Dutch has a very similar sound; when "r" is "followed" by "s", it sounds remarkably similar. --[[User:D. Kapusta|D. Kapusta]] 20:53, 12 July 2006 (UTC)
+
+[[Upper Sorbian language|Upper Sorbian]] has the letter Ř and presumably pronounces it the same.
+
+... No, the Upper Sorbian "ř" only occurs after letters "p", "t" and "k" and is pronouced in the same way as "š" in Czech.
+
+I don't know if the [[Nivkh language|Nivkh]] sound really is a sequence – if so, I imagine it would be written рш instead of р̆ (that's a brevis on top of a Cyrillic r).
+
+
+I am a Czech native speaker studying Norwegian and living in Norway - and in Norwegian language the "rs" is very close to Czech "ř", for example in the word "norsk". finrod.felagund@epost.no
+
+:I think you mean retroflex s (ʂ) (that harsh š which Poles use in words where we have ř)--[[User:Praseprase|Praseprase]] ([[User talk:Praseprase|talk]]) 19:03, 8 March 2008 (UTC)
+
+
+David Marjanović | david.marjanovic_at_gmx.at | 15:53 CEST | 2006/9/23
+
+If everyone would add four tildes ~ after their posts, it would makes things much easier to read. Without that, it's unclear whether a comment is part of the original post or something added by another editor. [[User:Interlingua|<font style="background: #08E8DE " face="Ariel" color="#000000">'''''Inter'''''</font><font style="background: #000000" face="Ariel" color="#08E8DE ">'''lingua'''</font>]] 14:46, 21 February 2008 (UTC)
+
+== NPOV? ==
+
+Maybe it's just me, but the following sentence (in the recently added "Slang and Dialects" section) isn't exactly a stellar example of NPOV: "[Bohemian Czech] is by far the worst-sounding of the three main dialects, and breaks many grammatical rules." And "Moravians speak correct Czech, unlike their Bohemian brothers" seems like a needless attack. (Not to mention "This type of slang is unique in that non of these pronunciations are easier to say, and make no sense whatsoever. When asked about this Czech people only tell you you're being stupid.") Should this just go away?
+[[User:HDC|HDC]] 03:14, 27 Jun 2005 (UTC)
+
+I think it is just a joke. Moreover none of the three are slangs. I will put there some information about official, colloquial and regional dialects of Czech.  --[[User:Yirka|Jirka]] 23:03, 18 July 2005 (UTC)
+
+----
+
+I edited that a bit, having been inspired by an article by one Czech linguist from Charles University who did some research on interdialects in the Czech Republic. It is untrue that the Moravians speak "correct" Czech. There is no thing as "correct" Czech. Moravians have more forms that resemble "standard" Czech (or literary language), but it does not mean they speak "correct" Czech, because on the other hand, they have MANY forms that are totally out of standard (especially in the vocabulary field). --[[User:Von klein|Von klein]] 20:42, 18 November 2005 (UTC)
+
+== Čtvrthrst? ==
+
+Can a native Czech speaker attest to whether this is in fact a legitimate Czech word? I assume (by breaking it up) that it means "a quarter of a fistful," but it's not familiar to me (a pseudo-native Czech speaker) nor is it in my pocket Czech-English dictionary. [[User:HDC|HDC]] 02:55, 20 August 2005 (UTC)
+
+== Čtvrthrst ==
+
+"Čtvrthrst" "a quarter of a fistful" is a legitimate word, approved by [http://www.ujc.cas.cz Ústav pro jazyk český], but as a linguistic construct, used only for fun. Similar nonsense word is 10-consonant "čtvrtsmršť" - "a quarter of whirlwind".<br>
+The longest "live" consonant only word, although rarely used, is 8-letter "scvrnkls" "you have shot off" (e.g. marble from the table), derived from commonly used "cvrnkat" "to fillip".
+:I wouldn't call it "live", because in common czech it is "scvrnknuls"
+:I'd say it "scvrnks" in common speech because the ending "-nul(s)" simply falls off in commonly used Czech. Therefore, I for exaple often say "uh" (he bended aside) instead of "uhnul".
+
+IMHO the longest ''meaningfull'' vowel-less regular czech word is 9-letter " scvrnkls'ť " "for you have shot off", in Czech "neboť jsi scvrnkl" [[User:JosefZ|JosefZ]] ([[User talk:JosefZ|talk]]) 15:40, 15 February 2010 (UTC)
+
+== Learn the Ř ==
+
+I removed the following text from the main article because it doesn't belong there. [[User:Edinborgarstefan|Edinborgarstefan]] 18:58, 27 September 2005 (UTC)
+
+If you know how to roll your Rs, you'll be able to learn the sound (eventually).  For those who do not, learn that first.
+                                                                                
+Some of you know of the umlaut sounds.  Whether you've thought of it or not, it is actually a hybrid between the English "ee" and "oo".  The 'Ř' is similar, only with consonants.  As you know with the rolled r, the tongue is flapping freely in the middle of the mouth.  Now, there is another sound to focus on.  In Czech, the letter 'Ž' makes the sound, in English, that is part of the word "vision".  This sound is a combination of the two.  First, roll your R.  Then, move your tongue forward and clench your teeth.  Sounds very much like a suppressed 'Ř', doesn't it?  Now, open your clenched teeth slightly, to the position you would use for the 'Ž' sound.  If you did these steps right, you are making the Ř sound, the big one.  From here, do not be discouraged if it does not work sometimes.  Some words in Czech are just plain tongue-twisters; but with practice, with even these you will be able to say it.
+                                                                                
+Eric Hendrickson
+
+
+==History of the Language==
+
+This article complitely lacks the ''history'' of the Czech language! -- [[User:Petri Krohn|Petri Krohn]] 03:31, 17 October 2005 (UTC)
+::That's true. I'd really like to know more about what the linguistic situation was like during the Hapsburg years. --[[User:Lazar Taxon|Lazar Taxon]] 17:18, 5 February 2007 (UTC)
+
+Well, I created an article on the history of the Czech language ([[:cs:Historický vývoj češtiny]]) on the Czech Wikipedia. I intend to translate it into English, but I am busy now. Please be patient. Or someone could help me.--[[User:Pajast|Pajast]] 17:02, 6 February 2007 (UTC)
+
+===Bohemian or Czech?===
+
+When did the [[Bohemian]] language start to to be called the [[Czech language]]. I doubt the that [[Jan Hus]] preached in the Czech language, as the Hus article now states. -- [[User:Petri Krohn|Petri Krohn]] 18:37, 10 October 2005 (UTC)
+::I beg your pardon...so, what language do you think Jan Hus preached in? German??? Latin?????? He was the actual inventor or founder of the Czech diacritical orthography.
+
+::As for the time, when the language started to be called the Czech language, do you mean in English? --Pet'usek 11:12, 21 August 2006 (UTC)
+
+Quoted from the [[Bohemian]] article:
+
+''The word "Bohemians" was never used by the local Czech population. In Czech, the region was since early Middle Ages called only "Čechy" - Bohemia or "Království české" - Kingdom of Bohemia, and its mainly Czech-speaking inhabitants "Češi".''
+
+This goes for English too, the English name has always been Czech, however the Latin name was more frequently used in the Middle Ages and before. The original English word came back into common usage in order to distingish Czechs the people, and any inhabitants of Bohemia. -- Hexagon1 07:01, 24 October 2005 (UTC)
+
+Please note: There is no word as "Bohemian" in Czech language. The word "Čech" would now apply to all the inhabitants of the Czech Republic. Germans, however, distinguished "Böhme" (inhabitant of the Kingdom of Bohemia of any language) and "Tscheche" (person of Czech nationality speaking Czech language). Remember, there were 3 million Germans in the Czech part of Czechoslovakia from 1918 to 1938...--[[User:Von klein|Von klein]] 15:13, 16 November 2005 (UTC)
+2.7 Milions including ca. 80% germanized Czechs. Yes they lived illegally there like strangers. Remember that this Land has always been Czech since the empire of Samo! ([[Special:Contributions/85.0.2.33|85.0.2.33]] ([[User talk:85.0.2.33|talk]]) 18:21, 8 May 2012 (UTC))
+"Bohemia" is derived from the German "Boehme", meaning the region called "Cechy" in Czech.  This confuses things, but a person who studies the Czech language and literature in university is a "Bohemista/Bohemistka". --[[User:D. Kapusta|D. Kapusta]] 20:28, 12 July 2006 (UTC)
+
+:"Bohemia" is from Latin, from the era of Roman Empire, when Boii tribe lived in region of today's Czech Republic. See [[Boii]]. German "Boehme" is derived from it. [[User:AntOnTrack|AntOnTrack]] 18:39, 12 July 2006 (UTC)
+::Bohemia comes from Boiohaemia (the homeland of the Boii)--Pet'usek 11:12, 21 August 2006 (UTC)
+
+::Yes, you are right; I was thinking that there was a Latin root when I was typing it.  Thanks.  [[User:Sladek|Sladek]] 17:23, 30 January 2007 (UTC)20:28, 12 July 2006 (UTC)
+
+:::The Czech Republic consists of BOHEMIA, German Böhmen, Czech "Čechy", MORAVIA, German Mähren, Czech "Morava", and SILESIA, German Schlesien, Czech Slezsko. Bohemia was the medieval Czech Kingdom, Moravia was the medieval Moravian Margr., Silesia is the southernmost part of the former Silesian Kindgom.--Pet'usek 09:17, 21 August 2006 (UTC)
+
+== Call for verification ==
+
+I suspect that some of the examples of Czech languages are inexact, can someone with actual knowledge of the language check them?
+
+# ''zmrzl'' (froze to death) - might be ''freeze to death''
+# ''čtvrthrst'' (quater-handful) - probably ''quarter-handful''
+
+-[[User:Homerjay|Homer Jay]] 03:32, 13 November 2005 (UTC)
+
+:''Zmrzl'' does mean "froze to death." It is the past-tense form of ''zmrznout'', which means "freeze to death." And yes, ''čtvrthrst'' means "quarter-handful," I suppose, although it's as much of an invented word as "quarter-handful" is in English. &mdash;[[User:Bkell|Bkell]] 04:15, 13 November 2005 (UTC)
+
+minority lang in Germany? [[User:Tobias Conradi|Tobias Conradi]] [[User_talk:Tobias Conradi|(Talk)]] 08:13, 14 November 2005 (UTC)
+
+:What do you mean minority lang in Germany? -- Hexagon1 03:24, 4 December 2005 (UTC)
+
+'Zmrzl' doesn't mean 'froze to death', it means '[he] froze'. The 'he' is not necessarily animate so the freezing doesn't always have to result in the death of a person... Jonas
+
+The word 'zmrzl' has perfective aspect and in the most context implies 
+complete finishing. Therefore only for persons (and animals) has primary meaning 'froze to death'. But for this meaning the more suitable word exists -
+umrzl.
+
+I'm changing the translation to "froze solid", which expresses the perfect aspect without being specific to living things. After all, the plumbing can freeze, too.
+
+== Nasality of Czech pronunciation? ==
+
+[My background:  I studied Czech for a while, many years ago — though it's all gone "rusty" by now, and I can't say I understand more than a handful of words.  I also hear some Czech fairly often nowadays because a Czech news program (Nova's "Televizní noviny") is shown on my cable TV system right after a Romanian news program I watch regularly.]
+
+One thing I've noticed, from the beginning, is that most Czech speakers seem to speak quite nasally.  Has anyone else noticed this?  Am I right, or mistaken?  Is this a regional feature?
+
+[[User:Richwales|Richwales]] 08:48, 31 December 2005 (UTC)
+
+From my unscientific observations I believe that the nasality you are speaking of would be more of a regional dialect, specific to the area of Prague.  I spent most of my time in Moravia and noticed that the people on TV didn't sound much like the people around me, but that's just a personal observation.
+
+[[User:Sgthone12b|Sgthone12b]] 9 June 2006
+
+Nasal vowels do not occur in Czech, that is, not as a distinguishing feature. That which you might construe to be nasality is, I'd expect, the very Czech tendency to stress the first syllable (though lightly), which in case of longer words or phrases leads to a whole string of unstressed or moderately monotonous syllables. Coupled with vowel length as a distinguishable feature, this often leads speakers who have another language than Czech as their first tongue to feel that the language sounds "tight" or "constricted", which could be mistaken for nasality. In the local dialect of Czech Silesia, of course, vowels can become moderately nasalized under certain circumstances owing to the fact that this particular dialect of Czech lies, in pronunciation, closer to Polish than anything else. Another possibility is that you're used to Prague Czech, which I've often heard described by Moravians as being "extremely open" in pronunciation, and thus you might think that Moravian Czech sounds a bit obscure. But the short answer is: no, officially there is no such thing as nasality in the Czech language.
+
+[[User:Jirziczerny|Jirziczerny]] June 10 2006
+
+::Your "unscientific" observation is correct. Especially women (though not universally, of course) tend to unintendedly nasalize the vowels in the area around Prague, which is quite interesting. In some eastern Moravian dialects, there are "pockets" of slightly nasalizing populations, but this feature, unlike in and around Prague, has much to do with velarization, which is quite common there. In Silesia, nazalization (or rather its absence) is certainly one of the features that distinguish local Czech from Polish.
+::The individual dialects are remnants of the Slavonic dialectal continuum that once stretched from the Adriatic to the Baltic Seas. Eastern Moravian dialects are a transition between Czech and Slovak, Northen Moravian (or Silesian) dialects are a "bridge" between Czech and Polish. In Germany, Upper Sorbian, which is closer to Czech than Lower Sorbian, which is closer to Polish (oh, that's a silly sentence...but I'm tired and can afford it ;-)), may be seen as remnants of this continuum, too.
+::Nasalisation is thus a regional phonetic rather than general phonological feature. --Pet'usek 09:31, 21 August 2006 (UTC)
+:::I could add that, as in any other language that doesn't distinguish nasal vs. oral vowels, nasality in Czech may just be a idiosyncratic feature of one's pronunciation.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Petusek|Petusek]] ([[User talk:Petusek|talk]] • [[Special:Contributions/Petusek|contribs]]) 11:08, 30 April 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Preposition Problem ==
+
+This phrase:  
+
+"The most notable difference is a shift in used prepositions and case of noun, for example k jídlu (to meal - dative) (as in German zum Essen)"
+
+needs help, as k jidlu (e.g., Co si dame k jidlu?) doesn't mean "to meal," but "to eat."
+
+[[User:Napoleonbe|Napoleonbe]] 03:25, 25 September 2007 (UTC)
+
+== Pretty Consonants all in a Row == 
+
+I suppose many people come to this page not to know how to pronounce the &#345; but to pronounce ''all those Czech words that seem to have no vowels.'' Neither is this page any help, nor the one that it seems to be cribbed from. The two sources each say that words in this language are stressed on the first syllable... all right, is the first syllable in "Dvo&#345;ak" a schwa and how can that be emphatically pronounced? I read that the US philologists had an historical tiff with the International Phonetic Alphabet (vowels high and low vs. vowels closed and open, etc.) but that does not compare with Czech impudence. Listing those words and sentences without IPA transcriptions only redoubles incomprehension. --[[User:Sobolewski|Sobolewski]] 20:44, 13 January 2006 (UTC)
+
+:Schwas don't exist in Czech as far as I am aware of, and Dvo&#345;ak is pronounced very close to 'Dvoh-&#345;aak'. And the IPA is annoying, and impossible with all those sounds so similar to each other, you'd have to get someone really good in the IPA as well as Czech to transcribe it correctly. AND, does anyone know how-to transcribe &#345; into the IPA (just out of curiosity)? And there really is nothing to pronouncing Czech consonant clusters, you just read them one after the other (as Czech is phonetic) without insterting any wovels. -- Hexagon1 04:29, 14 January 2006 (UTC)
+
+::Well, shwa doesn't occur in the alphabet, but it's usual to spell consonants with a schwa, i.e. "p" would in colloquial Czech be called [p@] rather than [pe:].--Pet'usek 10:30, 21 August 2006 (UTC)
+
+::Actually, there is one thing to pronouncing Czech consonant clusters: usually the whole cluster will be voiced or unvoiced, not mixed… See [[Czech_orthography#Voicing_assimilation|Czech voicing assimilation]] --[[User:Sabik|Sabik]] 09:24, 24 November 2006 (UTC)
+
+Czech has no schwa, Dvořák is pronounced exactly as it is written; short o, voiced ř, long a, stress on the o. Czech has no difference between open and closed vowels, only short ones and long ones. á sounds like a long a, é sounds like a long e. Simple as that.
+[[User:Jirziczerny|jiři černý]] June 10 2006
+
+::Well, Czech has qualitative non-phonological differences between the short "i" [I] (as in English spin, tin, kin), and long "í" [i:] (as in English bean, read, seed), between the short "u" [U] (as in English bull, pull) and long "ú/ů" [u:] (similar to the sounds in the English verbs "loose" or "choose"). Short "e" is a mid-open vowel [E], the long "é" tends to be a little closer. Various dialects can have various vowel qualities.
+::Bohemian dialects tend to have opener vowels ("e" has tendencies towards [E], even [ae]/[ä] around Pilsen, "o" has tendences towards "a", "i" towards "e"), Moravian (especially in the south) closer (short "i" is really [i], not [I]) etc.--Pet'usek 10:30, 21 August 2006 (UTC)
+
+:::Although There is no schwa in "Dvořák", Czech have schva. It is that sound in "prst", "hrst" "blb". Where we say that r/l is used instead of vowel, there is schwa after l/r. Try to say loudly (v,na)"stromě" and "strmě". There is indeed schwa after r in "strmě".
+
+::Just to make it clear - I did not write the above false claim. P. And, indeed, there is no schwa in those words.
+
+Oh, no! Do not confuse schwa with syllabic r/l. If there were schwa, the the pronunciation would be different. The consonants (r, l) are the nuclei of syllables, not schwa. --[[User:Pajast|Pajast]] 15:56, 16 July 2007 (UTC)
+
+== CH is a single letter ==
+
+Perhaps minor but nonetheless confusing may be the fact 'ch' is considered a single letter and alphabetically comes after 'h' and before 'i'. For example, 'chemie' (chemistry) would come after 'fyzika' (physics) in an index; names beginning with 'Ch' are listed the same way in a phonebook.
+'Ch' also goes to a single square in a crossword puzzle.
+
+[[User:156.152.45.90|156.152.45.90]] 20:15, 17 March 2006 (UTC)
+Aleš - Portland, Oregon
+
+:Feel free to edit that in at the [[Czech alphabet]] article. Even though it aready mentions it, you can always expand and improve upon the information in Wikipedia. Oh, and I strongly recommend getting an account here. +[[User:Hexagon1|Hexagon1]] ([[User_talk:Hexagon1|talk]]) 02:35, 18 March 2006 (UTC)
+
+== Record ř ==
+Someone post a recording, it's probably the only way to really know how to pronounce it. -[[User:Iopq|Iopq]] 09:50, 27 June 2006 (UTC)
+
+:Hi, I can record it for you, but where should I send it to? --Pet'usek 10:31, 21 August 2006 (UTC)
+:: The wikipedia commons: [http://commons.wikimedia.org/wiki/Special:Upload] -[[User:Iopq|Iopq]] 18:25, 22 August 2006 (UTC)
+
+== Complexity of Czech, word order ==
+
+Why is there a pecking order of "difficulty" of languages?  Why is it a contest?  I've heard many condescending English-speaking expats use this "ranking" as a way of saying that Czech is a backwater language, needlessly obtuse, and should thrust themselves into the modern world by making their language "easy" for the lazy English speakers.  I object to this "one of the most difficult languages" nonsense.  Why isn't English considered so?  If you are a Slavic language native speaker, English articles, perfect and continuous aspects, phrasal verbs, etc., are quite daunting.
+
+Also, having learned a bit of Czech and lived there, "Czech word order is free", which is touted by Czechs themselves (I think they mean relative to English), is utter nonsense.  You can change the word order, which we can't do as much in English, but it communicates different things; that being said, there ARE strict rules about word order, such as placement of the reflexive "se/si", the order of the past-tense verb forms, and the personal pronoun, depending on its placement in the sentence or relation to preposition ("ti" versus "tobě", for example).  [[User:Sladek|Sladek]] 17:25, 30 January 2007 (UTC)20:26, 12 July 2006 (UTC)
+
+In Czech, we say "volný, ne však libovolný" (free but not arbitrary). Free word order means that it need not necessarily be "SVO" (subject-verb-object) as in English, this is enabled by the treasure of inflexion forms (which makes the grammar complicated, often also for Czech themselves). First of all, the word order should respect logical links between words (we should not split up word groups that form semantic units) - this is an essential condition for keeping of the meaning and the comprehensibility of the message. For rhytmical reasons, unstressed words (as mentioned "se, si") cannot be the first words in a sentence (if so, this does not affect the comprehensibility of the sentence, this sounds oddish only). It is usual that sentences begin with facts which are known. New or emphasized facts are placed at the end of sentences. We should also avoid such a word order which enables double interpretation. --[[User:Pajast|Pajast]] 15:06, 17 July 2006 (UTC)
+
+== Tenses and Conditionals ==
+
+I've just been browsing through this page quickly, and the section on Tenses and Conditionals is not very accurate nor very well written.  Apart from being less formal and scholarly in tone than editorial policy requires, my main criticism is that it alludes to "oddities" of the Czech language when they are in fact common among Slavic languages. For instance, the "conditional marker" is in fact the verb "to be" in the conditional.  This feature is also found in Russian.  Another example is the reference to the pairs of corresponding verbs which indicate either single events or repetitive actions.  All students of Russian would also recognise this as the nightmarish "verbs of motion" that one must learn.  As for the "fickle" future tense, the author has failed to realise that Czech, as with many Slavic languages, has verb aspect.  Perfective verbs by definition cannot express the present, and the present conjugation expresses a completed action in the future.  The standard present tense is expressed by imperfective verbs.  This is also found in Russian, for example.  (Apologies for only referring to Russian; that's the one I know most about in relation to tenses.  Other readers may be able to provide further examples.)
+
+The "See also" section of this page has a link to a much better "Czech verb" page.  Perhaps the current "Tenses and Conditionals" section should be rewritten to give a short summary of that page instead.
+
+* I absolutely aggree with what has been written above. One more error - it is not true that Czech conditional has no indication of time. If the speaker feels there might be some confusion about the time, he '''can''' indicate that a past action is discussed. See the difference: I would help = Pomohl bych, I would have helped = Byl bych pomohl. [[User:Jan.Kamenicek|Jan.Kamenicek]] 00:54, 22 August 2006 (UTC)
+:*Ježíš Maria, did it really take someone 4 years to sort this out? Of course this article needs to be free of people who are unfamiliar with Slavic languages making analogies to English which try and portray Czech as an "oddity"... - <font face="Trebuchet MS">[[User:Filelakeshoe|<font color="#60B">file</font><font color="#00B">lake</font>]][[User talk:Filelakeshoe|<font color="#0B0">shoe</font>]]</font> 13:32, 20 July 2010 (UTC)
+
+== Teshen Silesian ==
+
+'' These shortened vowels are also sometimes emphasised, as opposed to emphasising the initial syllable as common in all other variants of Czech.''
+
+:This not correct. Teshen Silesian simply doesn't stress the initial syllable, but the penultimates (like Polish).--Pet'usek 11:12, 21 August 2006 (UTC)
+
+== Question on Czech origin ==
+
+I had heard ideas from my family for a while that my last name, Dzurick, is of Czech origin. Earlier today I had a friend, who studies words and such, ask me if indeed it was, and if so, it would have been pronounced "jur-itsk". Is this correct? I thought that maybe this would be the place to find out. [[User:Genius00345|Genius00345]] 21:08, 18 February 2007 (UTC)
+
+:Your name reminds me of no Czech surname. I think it could be [[Slovak language|Slovak]] name Dzúrik {{IPA|[ˈdzuːrɪk]}} (dzoo-rick). Unlike Slovak, {{IPA|dz}} and {{IPA|dʒ}} (as J in jam) are uncommon in Czech. --[[User:Pajast|Pajast]] 10:03, 19 February 2007 (UTC)
+
+== word forms question ==
+
+Can someone explain the following to me?  (I don't speak Czech, but I'm currently perusing a Czech cookbook.)  "Roast pheasant" is given as "Pečený bažant", "Roast capon" is given as "Kapoun pečený", "Roast partridge" is given as "Koroptve pečené", and "Roast goose" is "Pečená husa".  I'm guessing that the "ý", "é" and "á" have something to do with gender.  I know Czech has many different forms of words, and word orders, depending on the context, etc., but these 3 phrases seem like they should have the same form for "roast xxx"...?[[User:72.192.135.104|72.192.135.104]] 05:09, 11 April 2007 (UTC)
+
+:You may easily find the answer in the [[Czech_declension]] article, section ''Adjective'', sub-section ''Hard declension''. – [[User:Yarp|Yarp]]<sup>&nbsp;[[User talk:Yarp|Talk]]</sup> 05:25, 11 April 2007 (UTC)
+
+::Pečený bažant, pečený kapoun (sg. nominative masculine), pečená husa (sg. nominative feminine), pečené koroptve (pl. nominative feminine), word order is not important ... and you should avoid Czech cuisine ;-) --[[User:Cepek|Cepek]] 05:50, 11 April 2007 (UTC)
+:::Why avoid Czech cuisine? This meals sound well!
+Thanks!  I'm half Czech, and remember my grandmother's cooking, so I know to avoid the cuisine.  But the language is intriguing.[[User:72.192.135.104|72.192.135.104]] 03:11, 12 April 2007 (UTC)
+
+==[[Wikipedia:Czech Wikipedian's notice board]]==
+
+You are invited to join [[Wikipedia:Czech Wikipedian's notice board]]! The Czech notice board can be used for discussions on Czech-related topics; to plan your Czech-related projects; and ask for, or offer assistance for Czech-related subjects. Editors are encouraged to sign their nickname on the list of active participators. --[[User:Anittas|Thus Spake Anittas]] 02:40, 23 April 2007 (UTC)
+
+==IPA and the real world==
+
+I visited this article to find out how to pronounce the Czech name "Jiri", but since this article, in typical Wikipedia elitist-pedant style, uses the incomprehensible IPA rather than actually telling the reader how Czech letters are pronounced, I was none the wiser. If anyone actually wants to know, there is a proper pronunciation table [http://victorian.fortunecity.com/vermeer/287/czechtable.htm here]. [[User:Intelligent Mr Toad|Intelligent Mr Toad]] 20:06, 7 May 2007 (UTC)
+
+It says simplified table for reason. This table tels you closest sounding letters, it is not proper pronunciation. [[User:88.101.76.122|88.101.76.122]] 12:14, 21 June 2007 (UTC)
+
+:It would give you a very, very strong English accent. Sometimes you wouldn't even be understood, because the table for example largely neglects [[palatalization]]. That's why the IPA is there: it is precise. Learning IPA is not difficult; start at [[International Phonetic Alphabet]], read that article, and read those it links to. Lots of audio files of lots of weird sounds are, for example, [http://hctv.humnet.ucla.edu/departments/linguistics/VowelsandConsonants/ here]. [[User:David Marjanović|David Marjanović]] 19:05, 24 June 2007 (UTC)
+
+== Notification of discussion at Czech Rep. article ==
+
+Just a quick heads-up that the status of official language is being discussed at [[Talk:Czech Republic]]. +[[User:Hexagon1|Hexagon1]] <sup>([[User talk:Hexagon1|t]])</sup> 12:01, 12 May 2007 (UTC)
+
+== Are Czech and Slovak very close? ==
+
+Is there any objective research showing that mutual intelligibility of the two languages is really falling after the dissolution of Czechoslovakia in 1993? I have read some opinion that it may not be truth. Yes,  present-day children say they don't understand Slovak. My generation (born in 1970's) listened to Slovak language in the radio and TV, used Slovak text-books, etc. We also said we didn't understand Slovak. We cannot listen to the Slovak language so often today, but there are a lot of Slovak people living and working in the Czech Republic. They usually speak Slovak.
+
+Czech and Slovak dialects also form continuum. Differences between their standard (literary) forms are described as those between individual dialects of German.
+
+So, I think there is no doubt that Czech is closely related to Slovak, more than to any other language. Comparation to a conversation in Bulgarian (another Slavic language) is exaggerated. (This is a reaction to changes made by 88.103.88.21 (155584214, 16:50, 6. 9. 2007).) --[[User:Pajast|Pajast]] 08:05, 7 September 2007 (UTC)
+
+
+== Czech Conditional ==
+
+It is NOT true, that Czech doesn't distinguish time in conditional phrases. This indication of time is only omitted in such cases when the time sequence is clear from preceding text. From the view of grammar there are 2 types of conditionals - past, formed using plusquamperfect, and present, formed using perfect (usual form of past tense in modern Czech; when one says "past tense" the "past perfect tense" is meant):
+1. Byl bych šel domů - I would have gone home ("bych" + pluperfect of the verb "jít" (to go))
+2. Šel bych domů - I would go home ("bych" + perfect of "jít")
+
+The auxiliary verb "byl" in the first form is usualy rewritten to "býval". "Býval" has the same meaning as "byl" and can be used in standalone constructions outside conditionals as well, however, it gives much more "pluperfectoid" and "continuous" or "repetitive" stress to the sentences when it is used at the place of auxiliar "být".
+
+In conditional clauses, future tense is possible in the same sense as in English - using present/future tenses:
+Jestli mi ujede vlak, půjdu domů - If I miss the train, I will go home.
+
+The translation of all types of English conditionals to Czech is straight - every type of English conditional has its unique Czech counterpart even from the grammatical view.
+
+Note: usage of plusquamperfect as a standalone verbal tense outside conditionals is very rare in the modern Czech language and gives a hyper-correct (in scientific writings) or archaical (in fiction literature) timbre to the text when it occurs. -- 2 November 2007  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/85.70.28.199|85.70.28.199]] ([[User talk:85.70.28.199|talk]]) 22:35, 2 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:This is technically true, but plusquamperfect is archaic, it's not used in modern Czech. You may find it in some books, but not in speech.--[[Special:Contributions/88.101.76.122|88.101.76.122]] ([[User talk:88.101.76.122|talk]]) 00:40, 21 February 2008 (UTC)
+
+::I would not be that strict. Sometimes, when really needed, we still use it to highligt the distinction. At least I do ;) ''[[User:Reo On|<font color=blue>'''R'''</font><font color=lightseagreen>eo</font>]]'' [[:cs:User:Reo On|<small><sup>ON</sup></small>]]  |  [[User talk:Reo On|<font color=blue>+</font>]][[:cs:User talk:Reo On|+]][[Special:Contributions/Reo On|<font color=lightseagreen>+</font>]] 21:27, 8 March 2008 (UTC)
+
+::I don't agree. It is used in common speech outside Prague, especially in Eastern Bohemia can be found many grammatical forms in colloquial speech, which are considered archaic in modern literary language (plusquamperfect, supine, old-Czech form of accusative and genitive, distinction of [w] (not used in official modern Czech) and [v], etc.). However, past conditional cannot be considered archaic in any case even in other parts of country (except Central Bohemia).
+
+:::I agree, I also use sometimes plusquamperfect (or ''antepreteritum'', how it is also called).  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/85.160.114.17|85.160.114.17]] ([[User talk:85.160.114.17|talk]]) 19:40, 18 October 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== ayin??? ==
+
+Can you give some examples of words which you think are pronounced with the [[Voiced pharyngeal fricative|ayin]] sound??--[[User:Praseprase|Praseprase]] ([[User talk:Praseprase|talk]]) 18:35, 8 May 2008 (UTC)
+:Where is it mentioned in the text that the ayin sound occurs in Czech? --[[User:Pajast|Pajast]] ([[User talk:Pajast|talk]]) 13:59, 14 May 2008 (UTC)
+::http://en.wikipedia.org/w/index.php?title=Czech_language&diff=211080344&oldid=210926367  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Praseprase|Praseprase]] ([[User talk:Praseprase|talk]] • [[Special:Contributions/Praseprase|contribs]]) 14:52, 14 May 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Czech and Slovak ==
+
+Since there is an extensive article about differences between Croatian and Serbian (and Bosnian and Montenegrin and who knows what not), it would be nice if there was an article of that sort about Czech and Slovak, since I understand that the difference between the latter is bigger. I mean, I don't know much about the subject, but the fact that younger Czechs poorly understand Slovak really puzzles me. Any such notion in post-Yugoslav states would be almost rediculous, I can tell you that as a member of the younger generation of Croatians (I'm 23), well, simply because the differences between the languages (or rather, varieties) are negligible. So, how really different are Czech and Slovak languages? I've read about passive intelligibilty between Czech and Slovak, but that doesn't say much. I, for example, passively "speak" Serbian, and I guess I could use it actively (but far from perfectly, of course), but for me to do that would be the same as if an American tried to speak British English. Simply stupid and needless. On the other hand, I find Slovenian, a clearly different language, to be surprisingly understandable. I don't get the finesses, but I usually comprehend the basic message. So, I also passively understand Slovenian (although fairly basically), but it's a different, although related language, and I would have to learn it if for some strange reason I wanted to live in Slovenia.[[User:Zhelja|Zhelja]] ([[User talk:Zhelja|talk]]) 00:03, 15 September 2008 (UTC)
+: As opposed to [[standard language|standard]] Serbian and Croatian, which were chosen to be standardised on the same dialect for literary languages to be as close as possible, Slovak was standardised on the dialect to be as distinct as possible from Czech/Ukrainian. It should be noted, however, that standard language (i.e. the prestige literary dialect) does not correspond to spoken vernacular, and within this alleged "Serbo-Croatian" area you have e.g. [[Northern Čakavian]] and [[Torlakian]] dialects which are phonologically and morphologically ''much'' more distinct that standard Czech and Slovak. --[[User:Ivan Štambuk|Ivan Štambuk]] ([[User talk:Ivan Štambuk|talk]]) 04:32, 9 December 2008 (UTC)
+
+== [[Czech grammar]] ==
+
+Some needs to write this article synthesing summarily information from the articles [[[[Czech phonology]]]], [[[[Czech declension]]]], [[[[Czech verbs]]]] and [[[[Czech word order]]]], corresponding to the sections on nominal phonology, morphology and syntax. --[[User:Ivan Štambuk|Ivan Štambuk]] ([[User talk:Ivan Štambuk|talk]]) 04:26, 9 December 2008 (UTC)
+
+== Bohemian slang vs. Common Czech ==
+
+In the section "Counting and declension", it says "However, in Bohemian Czech it has become a common part of slang to use the dual ending of the instrumental case for all plural instrumental declensions, for example, s kluky (with the boys) becomes s klukama, and so on for all nouns". If I understand the matter correctly (which is not certain), the language variety in which "-ama" is used for all instrumental plural nouns is not "Bohemian slang", but Common Czech (as opposed to Standard Czech). No? I'm pretty sure what's written is wrong, but I'm not sure if CC is the right thing to change it to. [[User:Ataltane|Ataltane]] ([[User talk:Ataltane|talk]]) 23:47, 30 July 2009 (UTC)
+
+You are quite right, this is a property of Common Czech. There are some exceptions, though, which end with "-ma" but those are in minority. [[Special:Contributions/81.105.181.49|81.105.181.49]] ([[User talk:81.105.181.49|talk]]) 20:00, 16 September 2009 (UTC)
+
+== Phrase book ==
+
+Is a list of "basic phrases" really suitable in an encyclopedia article about a language? - <font face="Trebuchet MS">[[User:Filelakeshoe|<font color="#60B">file</font><font color="#00B">lake</font>]][[User talk:Filelakeshoe|<font color="#0B0">shoe</font>]]</font> 11:22, 13 August 2009 (UTC)
+
+== On Pilsen "dialect" - a correction ==
+
+
+Pilsen speak does not constitute as a dialect, it's a variance of pronunciation only! 
+''Words that start questions are often given an additional "-pa":'' - this thesis is absolutely false! In fact, there is ''no'' suffix "-pa"; it's origin is in omission of last "-k" in regular suffix "-pa'''k'''", as well as in base word "koli'''k'''".
+
+"Kolipa je hodin?" (regular Czech: "Koli'''k'''pa'''k''' je hodin?"; English: "What time is it?"). ...; some examples: "What is this? or "What's happening?" is "Copato?" instead of "Copak to?" (meaning "Copak se stalo? / Copak je to?") or "Why?" is "Pročpa?" instead of "Pročpak?".
+
+Czech writers do not use an apostrophe to mark the omission of one or more letters (Koli'pa' je hodin?).
+[[User:JosefZ|JosefZ]] ([[User talk:JosefZ|talk]]) 14:58, 16 February 2010 (UTC)
+:I agree with this - this is not strongly dialectic, it's an accent at best. Hantec for example is a dialect, it's substantially different from standard Czech, but this really isn't, it's just a difference in pronunciation and is reflected in writing because Czech is a phonetically consistent language. It'd be like blurring between people with a [[Cockney]] accent (who would for example say "wassup" instead of "how are you") and people who speak [[Kentish dialect]], which is a different thing altogether. More to the point this entire section is unreferenced. Are there any linguists writing about "Plzeň dialect"? - <font face="Trebuchet MS">[[User:Filelakeshoe|<font color="#60B">file</font><font color="#00B">lake</font>]][[User talk:Filelakeshoe|<font color="#0B0">shoe</font>]]</font> 15:01, 30 April 2011 (UTC)
+::I think we should define how big difference is necessary for a dialect.--[[Special:Contributions/90.179.235.249|90.179.235.249]] ([[User talk:90.179.235.249|talk]]) 17:51, 30 April 2011 (UTC)
+:There is no loss of final k in Pilsen. There are also dialectal words and differences in declension and grammar. I don't have any sources though.--[[Special:Contributions/90.179.235.249|90.179.235.249]] ([[User talk:90.179.235.249|talk]]) 17:34, 30 April 2011 (UTC)
+::Well we could define which "dialects" to write about in the article based on what sources are available. You could essentially call any regional pattern a dialect. - <font face="Trebuchet MS">[[User:Filelakeshoe|<font color="#60B">file</font><font color="#00B">lake</font>]][[User talk:Filelakeshoe|<font color="#0B0">shoe</font>]]</font> 18:27, 30 April 2011 (UTC)
+
+== Part of Vowels section confusing ==
+
+The part of the vowels section starting "There have been some disputes as to whether there are really ten or only five vowels in Czech. These can however be settled by a simple list of minimal pairs:" can make the entire section confusing. Explicitly tell the reader how the simple list of minimal pairs settles the dispute.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.63.248.227|71.63.248.227]] ([[User talk:71.63.248.227|talk]]) 03:09, 7 July 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==Spoken in: Romania?==
+The article's fact table says that Czech is spoken in the Czech Republic and also Austria, Croatia, Serbia and Slovakia. Given such a list, should we add Romania as well where Czech villages exist where people still use Czech as their language?
+[[User:W.0q|w.0q]] ([[User talk:W.0q|talk]]) 10:56, 26 November 2010 (UTC)
+
+== What is the oldest recorded proof of czech language? The charter of Litoměřice? ==
+
+Check this claim at link http://en.wikipedia.org/wiki/Talk:Moravian_Wallachia Bigshotnews 06:22, 16 December 2010 (UTC)  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Bigshotnews|Bigshotnews]] ([[User talk:Bigshotnews|talk]] • [[Special:Contributions/Bigshotnews|contribs]]) </span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Other languages in the Czech Republic ==
+
+There is a lot of nonsence about other official languages in the article. I have summed it up in [[Demographics_of_the_Czech_Republic#Officially_recognized_minorities]]. Although it could be copied into this article, I am not sure if it makes sence, since this article is about Czech language, not about languages of the Czech Republic (the information is within reference also at the article [[Czech Republic]]).
+
+I suggest that all the nonsence and not relevant information is erased:
+*''People who do not speak Czech have the right to get an interpreter.'' should be erased as it is nonsence
+* ''Regarding knowledge of other languages in the Czech Republic, English and German are the most common foreign languages studied and used. Russian is also spoken, but to a much lesser extent than it was prior to the fall of Communism.'' should be erased as it shouldn't be in this article (maybe article [[Czechs]])
+* ''The right to one's own language is guaranteed by the Constitution for all national and ethnic minorities.'' should be erased for the same reason as previous. 
+[[User:Cimmerian praetor|Cimmerian praetor]] ([[User talk:Cimmerian praetor|talk]]) 20:12, 16 January 2011 (UTC)
+:I agree - I remember flagging that sentence about "getting an interpreter" a while ago. This is actually nonsense, or at least I don't know in which situations the author meant, certainly when dealing with the foreign police or institutions like that it's the non-Czech speaker's responsibility to find an interpreter, not the government's. - <font face="Trebuchet MS">[[User:Filelakeshoe|<font color="#60B">file</font><font color="#00B">lake</font>]][[User talk:Filelakeshoe|<font color="#0B0">shoe</font>]]</font> 16:51, 17 January 2011 (UTC)
+::I'm pretty sure you can request an interpreter when you are on trial or testifying at a court, and I think that this applies also to the criminal police if you are formally charged. In fact, I suspect there is even some international treaty to that effect. Regardless, I agree that the information is irrelevant.—[[User:EmilJ|Emil]]&nbsp;[[User talk:EmilJ|J.]] 17:12, 17 January 2011 (UTC)
+
+::I found it: the right to request an interpreter at a court of law is point 4 of article 37 of the [[Charter of Fundamental Rights and Basic Freedoms]][http://www.psp.cz/docs/laws/listina.html]. As for international treaties, see e.g. [[Article 6 of the European Convention on Human Rights|Art. 6]] 3(e) of the European Convention on Human Rights.—[[User:EmilJ|Emil]]&nbsp;[[User talk:EmilJ|J.]] 17:30, 17 January 2011 (UTC)
+
+== "Irregular" rules of morphology ==
+
+I just reverted an edit which introduced the sentence "the rules of morphology are extremely irregular". I'm not sure what that's supposed to mean, irregular compared to what? English? Or just that there are lots of exceptions to the rules? - <font face="Trebuchet MS">[[User:Filelakeshoe|<font color="#60B">file</font><font color="#00B">lake</font>]][[User talk:Filelakeshoe|<font color="#0B0">shoe</font>]]</font> 02:23, 7 February 2011 (UTC)
+
+==Český or čeština?==
+
+Are these words interchangeable as names of the language or is český the adjective and čeština the noun?  [[User:Kostaki mou|Kostaki mou]] ([[User talk:Kostaki mou|talk]]) 04:51, 2 February 2013 (UTC)
+:As you say - český is an adjective meaning "Czech" (so "český jazyk" = "Czech language") and "čeština" is a noun meaning the language. "Čeština" and "český jazyk" are pretty much interchangeable. <font face="trebuchet MS">- [[User:Filelakeshoe|filelake]][[User talk:Filelakeshoe|<font color="#0B0">shoe</font>]][[User:Filelakeshoe/kocour|<font face="webdings"><font color="#0B0"><big></big></font></font>]]</font> 09:38, 2 February 2013 (UTC)
+::Would "český" also be an adverb?  For "I speak/I don't speak Czech" would you say, "Mluvím/Nemluvím český" ("in the Czech manner"), or "Mluvím/Nemluvím čeština"? [[User:Kostaki mou|Kostaki mou]] ([[User talk:Kostaki mou|talk]]) 20:39, 4 March 2013 (UTC)
+:::No, the adverb is “česky”: “mluvím/nemluvím česky”.—[[User:EmilJ|Emil]]&nbsp;[[User talk:EmilJ|J.]] 13:56, 5 March 2013 (UTC)
+
+== Vowels ==
+
+http://www.fon.hum.uva.nl/katerina/documents/illustration-of-Czech.pdf shows i much further away from í in the Bohemian dialects (almost exactly between í and e) Should the section be changed?--[[Special:Contributions/90.179.235.249|90.179.235.249]] ([[User talk:90.179.235.249|talk]]) 20:50, 29 March 2013 (UTC)
+:What should be changed? We give the two phonemes as /ɪ/ and /i:/ which is consistent with what the Bohemian dialects table says, and with providing broad phonemic values - [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) 19:03, 30 March 2013 (UTC)
+::http://en.wikipedia.org/wiki/File:Czech_vowel_chart.png shows /ɪ/ very close to /i:/, while the paper I linked shows it between /i:/ and /ɛː/ in Bohemian Czech.--[[Special:Contributions/90.179.235.249|90.179.235.249]] ([[User talk:90.179.235.249|talk]]) 10:06, 1 April 2013 (UTC)
+:::I've just checked the Handbook of the International Phonetic Association (9th ed, 2007) and that source shows the vowel table the same way we do currently. In a "comparison of Bohemian and Moravian dialects", we could use the data given in that study, but not in an overview of Czech language as a whole. Bohemian dialects don't equal standard Czech. - [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) 09:05, 15 April 2013 (UTC)
+:::Also, I think I gather from the intro to this study that there was only one Bohemian and one Moravian volunteer, that is not nearly a big enough sample size to make generalised conclusions. - [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) 09:10, 15 April 2013 (UTC)
+::::I agree with filelakeshoe, but the diagram is a schematic approximation anyway, so I find it a bit pointless to argue about the precise location of one point.—[[User:EmilJ|Emil]]&nbsp;[[User talk:EmilJ|J.]] 11:30, 15 April 2013 (UTC)
+
+== Pronunciation of /ř/ and syllabic liquids revisited ==
+
+I've just deleted a description of /ř/ (in bold!) claiming it is a lateral rather than a central. That's utterly wrong.
+
+Then I also deleted the following claim that I consider wrong too:
+
+:''In Slavic languages, /l, r/ as syllabic nuclei are usually the result of the disappearance of [ɛ], [o], or [a] (contrast for example the Russian cognates for ''vlk'' and ''smrt'', 'volk' and 'sm<nowiki>'</nowiki>ert<nowiki>'</nowiki>').''
+
+First of all, what's the relevance of that here? Instead, I'd write Czech syllabic liquids are mostly the result of the disappearance of yers.--[[User talk:Petusek|Pe]]<font color="red">[[User:Petusek|t]]</font>[[User talk:Petusek|'usek]] <sup>[<font color="green">petr</font>dot<font color="red">hrubis</font>at<font color="blue">gmail</font>dot<font color="cyan">com</font>]</sup> 21:29, 22 May 2014 (UTC)
+:Since there was a tendency for yers to drop as they were weak, it would probably be more accurate to say other languages gradually added those vowel sounds in places where Czech/Slovak/BCS would use a syllabic consonant. - [[user:filelakeshoe|filelakeshoe]] ([[user talk:filelakeshoe|t]] / [[special:contributions/filelakeshoe|c]]) 22:00, 22 May 2014 (UTC)
+::Indeed, definitely much better (and more informative) than the original sentence which had it the other way around (yet again, not entirely relevant in an article not devoted to the history of the language). --[[User talk:Petusek|Pe]]<font color="red">[[User:Petusek|t]]</font>[[User talk:Petusek|'usek]] <sup>[<font color="green">petr</font>dot<font color="red">hrubis</font>at<font color="blue">gmail</font>dot<font color="cyan">com</font>]</sup> 22:45, 23 May 2014 (UTC)

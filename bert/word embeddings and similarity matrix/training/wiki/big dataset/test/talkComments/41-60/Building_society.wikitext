@@ -1,0 +1,170 @@
+{{WikiProjectBannerShell|1=
+{{WikiProject Cooperatives |class=B |importance=High}}
+{{WikiProject Economics |class=B |importance=Mid}}
+{{WikiProject Finance |class=B |importance=Mid}}
+}}
+
+==Netherlands==
+In the Netherlands, organisations exist which are called 'woningbouwvereniging'. ([[w:nl:woningbouwvereniging]]) Literally translated, that word means 'building society', but it functions quite different from a UK building society. 
+
+The Dutch woningbouwvereniging is a not-for-profit society that builds and manages houses and flats it lets to its members or to others. Most of them were founded about a century ago to fight poor housing conditions for workers. There success is linked to the ''Woningwet'' law of 1901, which provided for government loans to these societies, that financed a considerable part of all building activity. 
+
+I wonder if an organisation like that exists only in the Netherlands, or if anybody knows of similar organisations in other countries. 
+[[User:Johan Lont|Johan Lont]] 10:54, 3 Jun 2005 (UTC)
+::Okay, belated reply: such an organisation sounds pretty much identical to a British [[housing association]]. [[User:AnIco|AnIco]] 01:25, 4 December 2005 (UTC)
+
+== Starred Names in the List? ==
+
+What do the stars mean after some of the building societies in the table - I can't see a footnote anywhere? [[User:82.211.86.2|82.211.86.2]] 09:54, 5 April 2007 (UTC)
+
+== TfD nomination of [[:Template:{{ucfirst:Scottish Building Societies}}]]==
+
+[[Template:{{ucfirst:Scottish Building Societies}}]] has been nominated for deletion. You are invited to comment on the discussion at [[Wikipedia:Templates for deletion/Log/2007_July_6##{{{2|Template:Scottish Building Societies}}}|the template's entry on the Templates for Deletion page]]. Thank you.<!--Template:Tfdnotice--> — [[User:Mholland|mholland]] [[User_talk:Mholland|(talk)]] 21:05, 6 July 2007 (UTC)
+
+== Page structure == 
+
+The current main sections are:<br />
+1 Origins<br />
+2 1980s and 1990s<br />
+3 List of building societies in the United Kingdom that have demutualised<br />
+4 List of building societies in the United Kingdom that no longer exist<br />
+5 Remaining building societies in the United Kingdom<br />
+6 Other countries
+
+This doesn't seem to be a particularly useful structure, and hides the current building societies at the bottom of the page. Further, the distinction between the building societies that no longer exist, and those that have demutalised seems superficial. In all cases the former building society became all or part of a new bank or building society. I propose that the structure be changed to:
+
+1 History<br />
+1.1 1980s and 1990s<br />
+2 List of building societies in the United Kingdom<br />
+3 List of former building societies in the United Kingdom<br />
+4 Other countries
+
+The column headings would be Name, Fate, Successor and Year<br />
+[[User:Thelem|Thelem]] ([[User talk:Thelem|talk]]) 23:18, 21 December 2008 (UTC)
+:I concur - this would be a great improvement to the current structure.  [[User:MarkyMarkD|MarkyMarkD]] ([[User talk:MarkyMarkD|talk]]) 20:39, 22 December 2008 (UTC)
+:: I have re-ordered the sections as this is the easiest change and easily revertable if it is decided that the old order is better. I will continue to monitor this page and consider merging the no longer exist/demutualised tables in due course  and taking into account feedback here. [[User:Thelem|Thelem]] ([[User talk:Thelem|talk]]) 22:54, 22 December 2008 (UTC)
+
+== Major changes on 18 September 2009 ==
+
+I really don't understand why you have made these major changes to the structure of the table included within this article.
+
+As an aside, your edit re Dunfermline is simply wrong.  Nationwide did not acquire all of Dunfermline's assets.  They only cherry-picked the ones they wanted and they left the government with the rump of "bad" assets.
+
+Regarding the layout, a single vertical list made sense and was how it's been structured for a long time.  A dual column list doesn't improve anything.
+
+If a single society ceases to exist in future, it will require possibly 51 difficult edits - moving items around the page.  Currently, it just requires the renumbering of items in the list and deletion of one line.
+
+Please explain here why you think this edit is better and see what others think before making another change this destructive to the page.
+
+[[User:MarkyMarkD|MarkyMarkD]] ([[User talk:MarkyMarkD|talk]]) 23:03, 18 September 2009 (UTC)
+
+== ICS Building Society ==
+I have removed ICS Building Society from the [[Building society#Other countries|other countries section]] and left only EBS and Irish Nationwide. The lead paragraph of the [[EBS Building Society|EBS Building Society article]] says "it is one of only two Irish building societies owned by their members" and [https://www.icsmortgages.ie/ icsmortgages.ie] says "ICS Building Society ... is a member of the Bank of Ireland Group." [[User:Tim Ivorson|Tim Ivorson]] [[2009-11-08]]
+
+== Line breaks ==
+Last month, the following exchange took place in summaries of edits to the [[Building society#Demutualised|Demutalised section]]:
+{|
+| Bazj || Remove unnecessary linefeeds
+|-
+| 78.33.73.197 || the line feeds avoid the text being broken and reading smoothly. Otherwise, the result is compulsory line breaks, e.g. 'Converted &lt;br&gt; to &lt;br&gt; plc'
+|-
+| Bazj || The problem's your browser, not Wikipedia.
+|}
+I don't want to interfere now that it no longer seems to be an issue, but I'd like to mention that undesired compulsory line breaks can be avoided with [[non-breaking space]]s. Just replace any spaces you don't want to see turned into line breaks with &amp;nbsp; [[User:Tim Ivorson|Tim Ivorson]] [[2010-03-20]]
+
+== About history ==
+
+Hi. It seems to me that the paragraph beginning with "In their heyday,..." could be a bit more precise: there is no way to know ''when'' all this happened. When was the heyday? Which are the "succeeding decades"? --[[User:Bretelle|Bretelle]] ([[User talk:Bretelle|talk]]) 12:14, 8 April 2010 (UTC)
+
+== "incorporating" ==
+
+At present we have three entries with the "incorporating" text.
+:1 Nationwide Building Society incorporating Derbyshire Building Society and Cheshire Building Society
+:2 Yorkshire Building Society incorporating Barnsley Building Society and Chelsea Building Society
+:4 Skipton Building Society incorporating Scarborough Building Society and Chesham Building Society
+While the Derbyshire, Cheshire, Barnsley, and Chelsea brands continue in use, the Scarborough and Chesham brands have been discontinued.
+
+I propose reverting [http://en.wikipedia.org/w/index.php?title=Building_society&action=historysubmit&diff=366650303&oldid=366520211 this edit] unless I'm missing something, or there's an argument for keeping it. [[User:Bazj|Bazj]] ([[User talk:Bazj|talk]]) 09:01, 8 June 2010 (UTC)
+
+:Thanks for asking me to comment.  I'm not very comfortable with the proposal above.  I hadn't considered that the "incorporating" wording was related to trading names.  If it were, then Nationwide should at the very least include Dunfermline which is equally a trading name as Derbyshire or Cheshire.  But then equally well so are UCB and TMW and various other non-building society subsidiaries of Nationwide.
+
+:I had interpreted the "incorporating" wording as informing the reader of the recent mergers affecting each society listed.  But I realise that is itself debatable, as most societies have been formed from a series of mergers.
+
+:Maybe we should just ditch all the "incorporating" entries, and just list the remaining brand names, particularly given that all the "incorporating" entries are also included in the "no longer exist" section?  [[User:WPArgentarius|WPArgentarius]] ([[User talk:WPArgentarius|talk]]) 21:14, 9 June 2010 (UTC)
+
+::I agree. No time like the present, I'll do it now. Cheers, [[User:Bazj|Bazj]] ([[User talk:Bazj|talk]]) 11:36, 10 June 2010 (UTC)
+
+== Germany ==
+
+I see Bausparkassen are listed as equivalents of bs in Germany. Although the literal translation works, a Bausparkasse is not necessarily mutual (which is the point with a bs, for my understanding), but it offers a particular product, called a Bausparvertrag, which links savings and mortgage (basically, you save X Euro with low interests and are then entitled to borrow another X Euro for low interests). What really is similar to a bs, is a Sparkasse, which is a mixture of a sort of charity run by the council and offers banking, with an emphasis on savings and mortgages. It not the same as a bs, but much closer than a Bausparkasse.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.11.52.182|77.11.52.182]] ([[User talk:77.11.52.182|talk]]) 19:23, 14 October 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== More similar to USA's S&L or to Credit Unions ? ==
+
+I know little of the banking industry but the article says:
+   ''United States: In the United States, savings and loan associations have a similar organisation and purpose.''
+
+Wouldn't UK Building Societies be more similar to American [[Credit Union]]s ? If not why not ? [[Special:Contributions/208.106.84.43|208.106.84.43]] ([[User talk:208.106.84.43|talk]]) 02:36, 16 June 2012 (UTC)
+:Credit unions exist in the UK also, and they are quite different from building societies.  Credit unions tend to be smaller, more local institutions, with few or no branches.  They only do business with members, whereas building societies, although they are mutual organisations, also take deposits from non-members.  Historically building societies (like S&Ls) focussed on savings for, and mortgages for, house purchase.--[[User:Mhockey|Mhockey]] ([[User talk:Mhockey|talk]]) 17:26, 16 June 2012 (UTC)
+::This information—the differences and similarities between building societies and credit unions—should be put into the article. I came to WP to find out what the difference is, found absolutely ''nothing'' in this article, absolutely ''nothing'' in the [[credit union]] article, and then, finally, the truth (I assume) here on the talk page. It needs to be '''in the article'''.—[[User:Jim10701|Jim10701]] ([[User talk:Jim10701|talk]]) 00:33, 9 July 2013 (UTC)
+
+== New Zealand scams ==
+
+New Zealand building societies are not subject to any prudential regulation, or government supervision, unless they take deposits in New Zealand.  As a result, some offshore interests establish building societies in New Zealand which they market outside New Zealand only (eg taking deposits from investors in other countries, or issuing standby letters of credit to overseas holders).  They then promote these "building societies" on the internet and in their marketing materials as if they are regulated financial institutions, when that is simply not the case. Many of these "building societies" are scams. The Reserve Bank of New Zealand has posted a caution about them on its website - including two mentioned here on Wikepedia's list: General Equity Building Society, and Kiwi Deposit Building Society.  See rbnz.govt.nz at </ref>http://www.rbnz.govt.nz/finstab/nbdt/3765520.html</ref>.  See also </ref>http://www.interest.co.nz/news/59966/how-nz-needs-overcome-deficiencies-bank-and-financial-institution-regulation-get-back-eu-</ref>.  The RBNZ's caution needs to be added & the scam potential noted. I don't have experience editing Wikipedia pages, so would prefer it if an existing editor could do this. Otherwise I will have a stab at it. [[User:Quistclose|Quistclose]] ([[User talk:Quistclose|talk]]) 23:25, 4 November 2012 (UTC) Quistclose
+: I have made the change.[[User:Quistclose|Quistclose]] ([[User talk:Quistclose|talk]]) 02:40, 2 August 2013 (UTC)
+:: An anonymous editor substituted a completely inaccurate statement about the prudential supervision of building societies, in particular those that are registered in New Zealand but that deal only with offshore depositors. Such building societies are - contrary to the previous entry - not regulated as non-bank deposit takers.  In addition, the previous changes were in poor English.  They sounded like a "whitewash" attempt by somebody working for such an "offshore" building society.  I have updated and corrected the statement about the registration and prudential supervision of New Zealand building societies. I have also added the Financial Market Authority's caution of 30 September 2014 about General Equity. [[User:Quistclose|Quistclose]] ([[User talk:Quistclose|talk]]) 13:15, 30 September 2014(UTC)
+
+Eagle Equity Financial Services in Kuala Lumpur are part of the General Equity group - the same directors who head General are behind the financing of Eagle although there are other people running the 'Wealth Management' side in Kuala Lumpur.  The 'algae' fund is recommended by them but when researched with more detail another General Equity person is behind this fund.
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Building society]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=677807671 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20090627142003/http://www.britannia.co.uk:80/home/news/news_releases/2009_01/position_statement.html to http://www.britannia.co.uk/home/news/news_releases/2009_01/position_statement.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 17:08, 25 August 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:2|one external link|2 external links}} on [[Building society]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=748795175 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20071129143345/http://www.cass.city.ac.uk/facfin/papers/WP2003/Mutuals-WP.pdf to http://www.cass.city.ac.uk/facfin/papers/WP2003/Mutuals-WP.pdf
+*Added archive https://web.archive.org/web/20131109054139/http://www.bsa.org.uk/docs/consumerpdfs/yearbooknamechangepart1.pdf to http://www.bsa.org.uk/docs/consumerpdfs/yearbooknamechangepart1.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 12:40, 10 November 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Building society]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=792569510 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20100530110548/http://www.cheshambs.co.uk/about-us.html?pgid=106 to http://www.cheshambs.co.uk/about-us.html?pgid=106
+*Added {{tlx|dead link}} tag to http://www.ibf.ie/Libraries/Guides_Forms/bsnames_1.sflb.ashx
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 08:57, 27 July 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Building society]]. Please take a moment to review [[special:diff/813111831|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive http://webarchive.nationalarchives.gov.uk/20081230233437/http%3A//www.moneymadeclear.fsa.gov.uk/news/product/bs_merger_compensation.html to http://www.moneymadeclear.fsa.gov.uk/news/product/bs_merger_compensation.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 21:02, 1 December 2017 (UTC)

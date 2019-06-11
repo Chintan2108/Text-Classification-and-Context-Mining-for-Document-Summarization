@@ -1,0 +1,694 @@
+{{Vital article|topic=Science|subpage=Physics|level=5|class=B}}
+{{Copied|from=Inertial space|from_oldid=578857414|to=Inertial frame of reference|to_diff=578857176|to_oldid=571790862|date= 18:58, 26 October 2013}}
+{{WikiProject Physics|importance=Top|class=B|relativity=yes}}
+{{Technical|date=September 2010}}
+{{archives|search=yes}}
+
+== Problem with this definition in GR ==
+
+In Misner, Thorne and Wheeler, the "inertial frame" is what the authors call a "free float frame." It's any reference frame in which Newton's laws of motion hold good, and things are weightless. Fair enough. The introduction to this article puts it a little more technically: '''In general relativity, in any region small enough for the curvature of spacetime to be negligible one can find a set of inertial frames that approximately describe that region.''' So what then are we to do with the special case of the reference frame occupied by an object in an inertial trajectory, as (for example) a body falling in a vacuum in a gravitational field? Must we say that a body on an inertial path occupies a physically accelerated reference frame that is NOT an "inertial frame"? What a pity. If free fall motion is inertial motion, why is a free-fall reference frame not an inertial reference frame? [[User:Sbharris|<font color="blue">S</font>]][[User:Sbharris|<font color="orange">B</font>]][[User:Sbharris|H]][[User:Sbharris|arris]] 23:19, 27 June 2012 (UTC)
+:Well for one, because if there is curvature, it is impossible to define "the" reference frame of a freely falling observer. That is, there is canonical way of extending the tangent space along the trajectory of the observer to a frame of reference in his vicinity. It help you to know, that a constant gravitational field has zero curvature.[[User:TimothyRias|T]][[User talk:TimothyRias|R]] 14:11, 25 October 2012 (UTC)
+
+== Definition of inertial frame of reference ==
+
+The definition presented in the beginning is not the usual one. It talks about space and time being homogeneous and isotropic. This is a very advanced concept, and the article does not explain what does it mean for space and time to be homogeneous and isotropic. It is too technical for most readers to understand.
+
+I suggest we adopt the usual definition: "a frame of reference in which the laws of physics take their simplest form". I read the part from Landau Lifshitz where the homogeneous isotropic definition comes from. Before saying that, it says "a frame of reference in which the laws of mechanics take their simplest form".
+
+[[User:Italo Tasso|Italo Tasso]] ([[User talk:Italo Tasso|talk]]) 20:11, 12 November 2012 (UTC)
+
+: I just spent a while searching for a nice definition (and checked here for discussion as well).  I like wikipedia's presentation here.  I think appealing just to "simplest form" isn't as straight forward.  Does that mean only the rest frame of an object is an inertial frame?  The physics can be described "simpler" in such a frame.  Or what about when electrodynamics is written in tensor form, the equations are more compact and the relations more obvious, so is that a "simpler" form?  But that "form" holds in 'any' coordinate system. So is everything an inertial coordinate system?  I think the current definition is as precise as we can get, with the follow up helping give the essence in a less technical manner.  [[User:GravyKnives|GravyKnives]] ([[User talk:GravyKnives|talk]]) 11:20, 6 December 2013 (UTC)
+
+: I just looked up the Landau Lifshitz reference. Inertial frame isn't actually uttered until stating "a frame of reference can always be chosen in which space is homogeneous and isotropic and time is homogeneous. This is called an ''inertial frame''." (emphasis in original) The book then uses these properties to help deduce some physical laws in inertial frames.  This would not be possible with suggested "simpler form" definition which is much less precise. [[User:GravyKnives|GravyKnives]] ([[User talk:GravyKnives|talk]]) 11:28, 6 December 2013 (UTC)
+
+:: I find the definition a bit confusing too and it is over technical for most readers. It comes from a book that is using it to introduce a discussion of Lagrangians.
+
+:: Why not start the article a simple "dictionary style" definition, paraphrase or quote of a definition such as "A frame of reference in which bodies move in straight lines with constant speeds unless acted upon by external forces, i.e. a frame of reference in which free bodies are not accelerated. Newton's laws of motion are valid in an inertial system but not in a system that is itself accelerated with respect to such a frame.." [http://www.oxfordreference.com/view/10.1093/oi/authority.20110810105131506]. Then go on to say that's a Newtonian frame of reference and talk about generalization to relativity theory?
+
+:: Also, when it says "space is homogeeous and istotropic" - the reader might assume that means that matter is distributed in space in a homegeneous and istotropic way which is not a requirement of an intertial frame, and in General Relativity theory then you can only choose such a frame locally - in a universe like ours with matter in it, there is no frame of reference according to which space in general is homogeneous or isotropic - even on the largest scales our universe seems to not quite be either homogeneous or isotropic which, if it's true that matter does warp space time, means that space-time is neither homogeneous or isotropic either. 
+
+:: Basically - it is a reasonable way to introduce intertial frames in a book that is about to describe lagrangian theory - but it's not the best way to introduce it in a general article like this, IMHO. [[User:Robertinventor|Robert Walker]] ([[User talk:Robertinventor|talk]]) 14:52, 5 June 2017 (UTC)
+
+== Merger proposal ==
+
+Some time ago I proposed merging [[Inertial space]] with this article, and no discussion resulted (the original tag is still on [[Inertial space]], but the one on this page was removed). I'd like to reopen the discussion, and this time I'll act fairly quickly if there are no objections. I haven't ever seen a formal definition of "inertial space", but informally it tends to be used for inertial frames of reference when it doesn't matter ''which'' frame you choose. It's useful terminology, but not really a distinct concept. Merging it would enhance this article because it would add a discussion of the measurement of acceleration and applications to inertial guidance systems. [[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 00:06, 30 March 2013 (UTC)
+
+:*"''Inertial space''", who ordered that? By all means, go ahead and merge it into here. - [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 09:48, 30 March 2013 (UTC)
+
+::I have finally done the merger. It was rather difficult to decide how exactly to do it, since much of the source material was unreferenced. I ended up dividing ''Separating non-inertial from inertial reference frames'' into ''Theory'' and ''Applications'' and writing an entirely new description of inertial navigation in the latter. I also copied a paragraph on some work by Schwarzschild into ''Theory''. I don't really know if this work was influential enough to include on this page. Maybe someone else can figure that out. [[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 19:07, 26 October 2013 (UTC)
+
+== Free-fall equivalence with inertial frames: Newton, or Einstein? ==
+
+From this article:
+
+:So much for fictitious forces due to rotation. However, for linear acceleration, Newton expressed the idea of undetectability of straight-line accelerations held in common:
+:
+::If bodies, any how moved among themselves, are urged in the direction of parallel lines by equal accelerative forces, they will continue to move among themselves, after the same manner as if they had been urged by no such forces.
+::
+:::—Isaac Newton: Principia Corollary VI, p. 89, in Andrew Motte translation
+:
+:This principle generalizes the notion of an inertial frame. For example, an observer confined in a free-falling lift will assert that he himself is a valid inertial frame, even if he is accelerating under gravity, so long as he has no knowledge about anything outside the lift. So, strictly speaking, inertial frame is a relative concept. With this in mind, we can define inertial frames collectively as a set of frames which are stationary or moving at constant velocity with respect to each other, so that a single inertial frame is defined as an element of this set.
+
+This strongly suggests that Newton described free-fall as inertial motion. However, the [[Equivalence principle]] article states that this was an Einstein thing:
+
+:That is, being at rest on the surface of the Earth is equivalent to being inside a spaceship (far from any sources of gravity) that is being accelerated by its engines. From this principle, Einstein deduced that free-fall is actually inertial motion. Objects in free-fall do not really accelerate.
+
+The article on [[Force]] also says it was Einstein:
+
+:The concept of inertia can be further generalized to explain the tendency of objects to continue in many different forms of constant motion, even those that are not strictly constant velocity. The rotational inertia of planet Earth is what fixes the constancy of the length of a day and the length of a year. Albert Einstein extended the principle of inertia further when he explained that reference frames subject to constant acceleration, such as those free-falling toward a gravitating object, were physically equivalent to inertial reference frames. This is why, for example, astronauts experience weightlessness when in free-fall orbit around the Earth, and why Newton's Laws of Motion are more easily discernible in such environments. If an astronaut places an object with mass in mid-air next to himself, it will remain stationary with respect to the astronaut due to its inertia. This is the same thing that would occur if the astronaut and the object were in intergalactic space with no net force of gravity acting on their shared reference frame. This principle of equivalence was one of the foundational underpinnings for the development of the general theory of relativity.
+
+Is the ascription to Newton in this article a mistake?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/50.133.145.226|50.133.145.226]] ([[User talk:50.133.145.226|talk]]) 17:46, 11 October 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Removal of handedness of coordinate systems ==
+
+There was an offhand comment in the article which I removed, about the [[Chirality#Physics|handedness of coordinate systems]]. Since this matters only for electromagnetism and quantum physics, and the article does not deal with those topics, I think it's preferable to ignore it. Alternatively this could be expanded later in the article, but not in the lead. [[User talk:BrightR|Bright☀]] 18:18, 5 June 2017 (UTC)
+
+== Enertial systems ==
+
+There is no experiment observers can perform to distinguish whether an acceleration arises because of a gravitational force or because their reference frame is accelerating.
+— Douglas C. Giancoli, Physics for Scientists and Engineers with Modern Physics, p. 155.
+
+Seems a little strange. Firstly gravitational fields are not homogeneous so this must be a infinitesimal situation. The field is detectable as being divergent inside the box that is accelerating.
+But any geodesic like an orbit around a heavy body surely is a fall in a gravitational field, and also easily detectable not to be inertial. <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Burningbrand|Burningbrand]] ([[User talk:Burningbrand#top|talk]] • [[Special:Contributions/Burningbrand|contribs]]) </small> <!--Autosigned by SineBot-->
+
+:It is explained in the last paragraph of the section [[Inertial frame of reference#General relativity]]: {{xt2|''However, the general theory reduces to the special theory over sufficiently small regions of spacetime, where curvature effects become less important and the earlier inertial frame arguments can come back into play. Consequently, modern special relativity is now sometimes described as only a "local theory".''}}
+: - [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 10:45, 15 June 2017 (UTC)
+:Obviously in large enough regions it's easy enough to observe whether the acceleration is due to gravitation or otherwise because of the reasons you stated, but in principle they're equivalent, and their effects are equivalent. Perhaps the quote needs to be expanded to reflect this. [[User talk:BrightR|Bright☀]] 15:38, 15 June 2017 (UTC)
+== (Problematic?) Mention of Universal Inertial Space==
+The article currently states, in relation to observations of binary star angular momentum, that: 
+
+1) "the angular momentum of all celestial bodies is angular momentum with respect to a universal inertial space."
+
+It also states that : 
+
+2) "This phenomenon of geodesic deviation means that inertial frames of reference do not exist globally as they do in Newtonian mechanics and special relativity."
+
+So, do the two sentences contradict each other?  At the very least, they seem to be potentially misleading.  
+(1) states makes reference to a, presumably existent, 'universal inertial space' (one would think that this implies a fixed spatial co-ordinate system for the observable universe).  (2) states that no Global inertial frame of reference exists (presumably referring to space time).  
+
+It might be that the two sentences are somehow logically compatible (when the whole of spacetime is taken into account), but it's not eminently clear to me how.  Any explanation of whether the two assertions contradict one another would be appreciated.  
+
+[[User:ASavantDude|ASavantDude]] ([[User talk:ASavantDude|talk]]) 23:29, 11 January 2018 (UTC)
+:Yes this needs to be fixed, thanks for pointing it out. There is no universal inertial space. There is an ''apparent'' universal inertial frame with respect to the very distant stars, I think one of the article's references already mentions this. [[User talk:BrightR|Bright☀]] 12:37, 13 January 2018 (UTC)
+:Yup, the article makes a brief mention of [[Mach's principle]]. I think the entire paragraph about double-star systems is superfluous at the moment, but I kept it in because it could be made relevant if the article is expanded. [[User talk:BrightR|Bright☀]] 13:00, 13 January 2018 (UTC)
+
+== Article written like a textbook, not a summary ==
+
+The article is good and useful and well-sourced, but it's written like a textbook. This is not appropriate according to Wikipedia's [[WP:NOTTEXTBOOK|policies]] and [[WP:SUMMARY|guidelines]]. I will eventually overhaul it (unless someone does it before me) and this is a sort of heads-up for page-watchers (who may not have noticed the tag being put up two months ago) so they're not taken by surprise when much of the article's style and order changes. [[User talk:BrightR|Bright☀]] 09:26, 10 March 2018 (UTC)
+{{talkarchivenav}}
+
+Should merge with [[Inertial reference frame]] ?
+
+I think this has been done now
+
+----
+:''Following edit by 62.254.128.4 was removed from article to this talk page, as it seems like discussion.'' --[[User:Zigger|Zigger]] 18:32, 2004 Apr 27 (UTC)
+
+Correction:
+
+It is not satisfactory to define an inertial frame as above: rotate or accelerate with respect to what? In the context of Newtonian mechanics we can define an inertial frame as one in which Newton's laws hold. (Note that the question of whether a frame is inertial requires us to decide what forces are acting; strictly speaking there is no absolute means of determining whether or not a frame is inertial, for additional forces can always be postulated to explain behaviour that seems to show the frame is non-inertial. In practice, we are agreed on when to say a body is free of external influence because we are largely agreed on the conditions for the action of the various forces that enter our physical picture of the world.)
+It is a simple consequence of this definition and the laws that all members of the family of inertial frames move with constant velocity with respect to each other. An object stationary in one inertial frame need not appear stationary in another but will move at constant velocity in that frame.
+(NB: the claim above that such frames are 'purely theoretical' is rather confusing as a reference frame is evidently an abstract entity in any case. Presumably what is meant is that few moving bodies (eg the earth) yield an inertial coordinate system when we locate our origin on, and orient our axes with respect to, them.)
+
+: ([[User:William M. Connolley|William M. Connolley]] 20:30, 27 Sep 2004 (UTC)) What fun. I too was just going to complain about the same text "The inertial frame is a space-time coordinate system that neither rotates nor accelerates." Because unless you say accelerate-with-respect-to-something, this is meaningless.
+
+:: I have written an new article that addresses precisely that issue. How does a rotating planet "know" how much to bulge at the equator? That is: how does a rotating planet know it is rotating at all?
+
+::In the newtonian framework it is assumed that there is absolute space that acts upon matter but is not acted upon. In general relativity the untenable concept of absolute space is replaced by a field concept, a pervasive field. This pervasive field is perfectly transparent to velocity, but when there is acceleration there is interaction with this field. --[[User:Cleon Teunissen|Cleon Teunissen]] 11:25, 5 Mar 2005 (UTC)
+
+----
+
+In my search of the definition of inertial system I came across this page. It seems to me there is no good definition. At least is a system in free motion, e.g. a free toward the earth falling spaceship an inertial system. Another ship, falling at the opposite side of the earth all the same. These two systems don't move uniformly with respect to each other. There seems to be a circular argument in stating that no force exerted indicates inertia. Am I wrong?[[User:130.89.220.52|130.89.220.52]] 21:39, 6 Mar 2005 (UTC)
+
+:A good definition is a definition that does not lead to self-inconsistency in the framework of thought in which it is formulated. In general relativity the assumption that space is Euclidian is relinquished. Einstein showed that it is nonetheless possible to formulate a consistent and rich theory of motion. Indeed, relativistic physics is richer and deeper and more versatile than newtonian physics. In general relativity, there is a dependency on the scale of the perspective. If a volume of space is considered that is about as large as the size of a spaceship, and that spaceship is free-falling, then in that volume of space the co-moving frame of reference is an inertial frame of reference.
+
+:However, if a volume of space is considered that is large enough to contain a planet and its moon(s), then the center of mass of that planet and its moon(s) is the local inertial frame of reference. And so on for an entire solar system, an entire Galaxy, until the astronomer has arrived at the size of the observable part of the Universe.
+
+:Methinks you feel a definition can only be "good" if it can somehow be reconciled with Euclidean, absolute space. Gravity alters the very fabric of space-time geometry, the gravitational influence of a gravitating body changes the rate of time in its neighbourhood, and that changes ''everything'' . However, although very counterintuitive, the universe appears to be perfectly self-consistent, judging from the fact that our self-consistent theories describe the universe with uncanny accuracy. To understand current physics theories you must be prepared to relinquish all the trusted newtonian and euclidean assumptions but one: the demand of self-consistency. And no, the definiton is not circular, because it is also a statement about how gravitational interaction is mediated, so it departs fundamentally from the newtonian concept of gravity. --[[User:Cleon Teunissen|Cleon Teunissen]] 22:59, 6 Mar 2005 (UTC)
+
+::Dear mr. Teunissen, thank you for your elaborate answer. Allow me some remarks. I want to restrict my attention to special rel. th., because it is there where I see problems with the definition of inertial systems. In general rel. th. as far as I know the concept of an inertial system has only locally meaning. In SRT however forces don't enter the theory, but inertial systems do and their definition is dependent on the concept of force. It seems to me that for the main part of the SRT only the concept of mutually inertial systems is relevant, a rather overdone term for systems at constant speed difference.[[User:130.89.220.52|130.89.220.52]] 08:54, 7 Mar 2005 (UTC)
+
+:::Special relativity is universally valid in a universe without gravitation. Formally, universes with matter in it fall outside the scope of special relativity. (But experience tells us (and general relativity confirms) that within a sufficiently local volume of space, for example the 27 kilometer diameter of the CERN particle accelerator ring, the laws of special relativity will hold good.) --[[User:Cleon Teunissen|Cleon Teunissen]] 10:39, 7 Mar 2005 (UTC)
+:::(Not a good example, on second thoughts: CERN is, like everything on the surface of Earth, accelerating, but that acceleraton is negligable for the particle physics being conducted.) --[[User:Cleon Teunissen|Cleon Teunissen]] 10:49, 7 Mar 2005 (UTC)
+
+== Newton's Third Law ==
+The first line says: "An inertial frame of reference, or inertial reference frame, is one in which Newton's first and second laws of motion are valid." What about the third law?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/203.206.7.60|203.206.7.60]] ([[User talk:203.206.7.60|talk]]) 05:25, 28 March 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Special relativity and acceleration ==
+
+It seems to me that for the main part of the SRT only the concept of mutually inertial systems is relevant, a rather overdone term for systems at constant speed difference.[[User:130.89.220.52|130.89.220.52]] 08:54, 7 Mar 2005 (UTC)
+
+:Well, if you take two space-ships, both firing their thrusters, accelerating equally hard in the same direction, sending radio-signals to each other, and they adopt a co-moving coordinate system for performing calculations, then the laws of Special Relativity won't hold.
+
+:If they want to use Special Relativity, they must read their onboard accelerometers in order to establish their relation to an inertial coordinate system. Then they can correct for the artifacts of their acceleration. But in order to transform the measurements of their radio-recievers to what they would have measured if they would have moved inertially they need general relativity mathematics. --[[User:Cleon Teunissen|Cleon Teunissen]] 11:06, 7 Mar 2005 (UTC)
+
+== Major revert ==
+
+'''I am not accepting the previous misconception-filled description of this subject!'''
+
+I have reverted to the previous edit of 1/30/05 because, as inadequate as it is, it is still a better article than Cleon's rewrite is, even with the subsequent changes.
+
+Cleon - I know that you mean well.  I really do.  However, I thought that we had settled the issue the geometrodynamics is a defunct theory long ago.  Why was its mention left here?  (Then again, why did anyone let it stay here?)  Also, while a gyroscope can travel inertially, the rotataing frame of reference of an observer spinning with it is not inertial.  As for [[general relativity]], it seems that globally inertial frames of reference are a casualty of it.  (They can exist locally, but even for a free-falling observer there are [[tidal force|tidal effects]] not far away in any curved spacetime.) --[[User:Ems57fcva|EMS]] | [[User_talk:ems57fcva|Talk]] 02:33, 2 August 2005 (UTC)
+
+: I too have been unhappy with CT's "image two spaceships" style. Can I interest you in [[coriolis force]]? [[User:William M. Connolley|William M. Connolley]] 08:30:22, 2005-08-02 (UTC).
+
+I hate to be one to complain without doing anything about it, but I think the reverted version is pretty miserable as well. Can't we succinctly and clearly explain what an inertial frame of reference is? And where is the mention of Galilean relativity, special relativity and general relativity, not to mention [[Mach's principle]] (a page I would really love to improve one day) and the [[equivalence principle]]? And what the hell does this mean: "By the very nature of human limits to a particular inertial frame, the various branches of physics are devoted to building functions that relate human observation to theoretical concepts of cosmology and quantum mechanics and the rules by which they interoperate to describe possible reference frames like our own." While I'm sure there's an idea in there somewhere, it sounds a lot like pseudoscientific obfuscation. &ndash;[[User:Joke137|Joke137]] 03:40, 3 August 2005 (UTC)
+
+: In that case, you can do the rewrite.  :-)
+: Look at it this way:  The current version beats one that spends half of its time talking about [[geometrodynamics]].  I know that this version is "miserable" too.  I just think that it still is a substantially better article than whar replaced it.  If nothing else, its introduction is much more on target and the explanatory text does much less harm than Cleon's rewrite did.  I do not advise doing major reverts like this unless it is absolutely necessary, but in this case it was. --[[User:Ems57fcva|EMS]] | [[User_talk:ems57fcva|Talk]] 04:10, 3 August 2005 (UTC)
+
+::--[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 07:47, 3 August 2005 (UTC) About the version of the 'inertial frame of reference' article that I wrote, I had become dissatisfied with it, I felt it should be rewritten. Good riddance. 
+::About the name 'geometrodynamics', at some point in time I was under a misconception, I had come across the name 'geometrodynamics' several times at it appeared to be an alternative name for purely the general theory of relativity. Geometrodynamics as a name for the general theory of relativity made a lot of sense to me. It was EMS who pointed out to me that Geometrodynamics is actually the name of a avenue that was explored in theorical physics, an avenue that was abandoned. So then I knew it was no good to refer to GRT as geometrodynamics, and I edited acdordingly. 
+::A short time ago someone added an external link: to the 'frame of reference' article in the Stanford encyclopedia of philosophy. I think that is an excellent article, I will copy that link.
+::I have decided some time ago to no longer write about relativity, there are many, vastly different interpretations of relativity around, leading to discussions that keep going in circles.
+
+I removed the para that J disliked. I think this article badly needs a re-write by someone who really understands the subject. Thats probably not me. I would say that an inertial frame in Newtonian mechanics is one in which things subject to no forces move in straight lines, and that the frame defined by the fixed stars is such a frame, and that anything moving uniformly wrt that frame is too. I also think that under GR the concept becomes more tricky, and suspect that it gets replaced by local inertial frame. Unless I've missed something, Newtonian mech and SR agree on what inertial frames are (even if they have different xforms) so some of the distinctions made in the current article look odd to me. [[User:William M. Connolley|William M. Connolley]] 17:30:40, 2005-08-03 (UTC).
+
+== Major rewrite (6th Aug 2005) ==
+
+People here seemed to be saying that a major rewrite was called for, so I thought I'd have a go. Tried to keep the basic points of the original and not expand the thing ''too'' much.
+
+Do feel free to rewrite, criticise, delete big chunks or just revert the whole thing all the way back to how it was before I hijacked it! Whatever, [[User:ErkDemon|ErkDemon]] 00:32, 6 August 2005 (UTC)
+
+=== Inivitation accepted ===
+
+I did some serious editting to that rewrite.  Even so, let me first thank you for that work.  Even though it was far from perfect, I was able to use it as a framework for creating a better article quickly.  Without that framework, it would have been much longer before I did much with this article.  
+
+Much of what I did was the removal of excess text.  For example, in the inroduction I took out the business of an inertial object moving at a constant velocity (or speed and direction):  That does not apply in accelerated frames of reference and [[general relativity]] (GR).  The remaining text was right on the mark however.
+
+Beyond that, I pared down your relativity stuff a good ways (including the removal of the "Limitations" section) and added in some of my own text.  I won't call the result perfect but it is a large step in the right direction.
+
+This is very, very much the way that I prefer to do stuff here in Wikipedia.  I am willing to do major reverts and rewrites, but I am much happier if I can just build on an existing article in an incremental fashion instead of running roughshod over everything that has gone before.  --[[User:Ems57fcva|EMS]] | [[User_talk:ems57fcva|Talk]] 00:12, 7 August 2005 (UTC)
+
+:Yep, your edited version was definitely better than what I wrote. Agree with all your edits. Nicely done! [[User:ErkDemon|ErkDemon]] 12:52, 8 August 2005 (UTC)
+
+== The problem of avoiding inconsistency ==
+
+The opening sentence of the article states:
+:''In physics, an object has inertial motion if it is moving under the influence only of its own inertial mass and momentum [meaning that no external forces are being applied to it (Newton's first law of motion)]''
+
+Here, the concept of frame of reference is defined operationally, which has the great advantage that the same definition can be used in the context of the three successive theories of space, time, and motion: Newtonian dynamics, special relativity, and the general theory of relativity. It is a theory-independent definition.
+
+Recapitulating: all three theories work with the same definition of inertial frame, the difference is in the description of how inertial frames ''relate to each other''. I am pleased to see that this is now in the article. 
+
+But what does this sentence mean:
+:''moving under the influence only of its own inertial mass and momentum'' 
+
+How is "own inertial mass" an influence? The very idea of inertial mass is that it is passive. So the current definition contains an inconsistency.
+
+I propose the following definition:
+:''In physics, an object is assumed to be in inertial motion if its motion is not influenced by physical interaction with other objects. Physical interaction can for example be collision, tugging, or being influenced by electric or magnetic fields.''
+
+That definition slyly evades discussing gravitation, for discussing gravitation has to wait until later in the article. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 06:42, 7 August 2005 (UTC)
+
+:: I think that you had a point about the lead-in.  However, the solution was to shorten it more, not expand it.  Look at it this way: If you need to explain your explanation, something is wrong.
+
+:: I don't know that we are being sly about gravitation.  The basics are up front where they need to be.  The details such as GR as brought up later once they become germane.  --[[User:Ems57fcva|EMS]] | [[User_talk:ems57fcva|Talk]] 18:45, 7 August 2005 (UTC)
+
+== Newtons second and third law of motion ==
+
+Currently the opening paragraph reads:
+:''In physics, an object has inertial motion if no external forces are being applied to it (Newton's first law of motion). When such an object’s state of motion is extrapolated over a region of space to take in all other possible objects in the region with the same state of motion, and these are used to define a common coordinate system, we refer to this common system as a frame''.
+
+
+The [http://plato.stanford.edu/entries/spacetime-iframes/ Stanford encyclopedia of philosophy article] discusses an interesting point. Newton assumed that the frame that is co-moving with the common center of mass of the solar system is an inertial frame of reference. Newtons assumption was recognized as justified because under this assumption we see that Newton's second law of motion and Newtons third law of motion hold good. 
+
+Newtons first law is not necessarily a law of ''motion'': Newton's first law is rather about how in newtonian dynamics individual members of the symmetry group of all inertial frames of reference ''relate to each other''. In hindsight we can recognize that Newtons first law relates to transforming between inertial frames of reference: motion that is seen from the co-moving inertial frame as being at rest, is seen as uniform velocity from another inertial frame. Newtons first law embodies ''The principle of relativity of inertial motion''.
+
+Newton convinced the scientific world, not by ''direct'' proof that newtonian gravity exists, (which cant be given) but by showing that the second and third law hold good if A) it is assumed that the frame that is co-moving with the center of mass of the solar system is an inertial frame, B) it is assumed that there is a force of gravity, described by the newtonian universal law of gravity. (This slots in well with the formulation that a 'fictitious force' is a force that is assumed so that Newtons laws of motion hold good.)
+
+
+A discussion of the concept of ''inertial frame of reference'' is more cohesive if it is in terms of Newtons second and third law of motion. Newton's third law is also about relativity of inertial motion. If an observer applies a force to an object, then ''both'' the object and the observer will accelerate with respect to their common center of mass: the common center of mass will remain in inertial motion.  It is a force when it comes as an ''action-reaction'' '''pair'''. Newton showed that the Earth and the Moon orbit a common center of mass, and he showed that it is actually this ''common center of mass'' that is orbiting the Sun. Newtonian gravity always comes as an action-reaction pair, that is what made such a strong case for categorizing Newtonian gravity as a force.
+
+The current version of the article reads:
+:''In physics, an object has inertial motion if no external forces are being applied to it.''
+
+To emphasize the connection with newtons third law of motion I prefer the formulation: 
+:''in physics it is assumed that objects are in a state of inertial motion when there is not an attractive or repulsive mechanical interaction with other objects.''
+Whenever the interaction is ''mechanical'', then the accompanying acceleration is measurable by instrument. General Relativity describes A) why gravitation, while being an interaction, is ''not a mechanical interaction''. B) why gravitation has in common with for example electrostatic atrtraction the property that it always comes as an ''action-reaction pair''.<BR>
+--[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 20:49, 8 August 2005 (UTC)
+
+::Cleon -  How massive objects interact is not the subject of this article. Instead the issue is one of how inertial frames operate.  I really don't want this to go wandering any farther into GR or gravitational theory than it has.  That material is already covered elsewhere.  --[[User:Ems57fcva|EMS]] | [[User_talk:ems57fcva|Talk]] 04:02, 9 August 2005 (UTC)
+
+Of course the issue is how inertial frames operate. My proposal is to discuss that as a part of the theory of motion as a whole. In newtonian mechanics it is assumed that addition of velocities is Euclidean vector addition. The way velocities are assumed to add coincides with the way the individual members of the symmetry group of inertial frames of reference are assumed to relate to each other. Mathematically, the galilean transformation constitutes a particular symmetry group. Likewise the Lorentz transformations describe how the group of all inertial frames of reference constitutes a partucular symmetry group. 
+
+How inertial frames operate is inseparable from the theory of motion as a whole. There is no such thing as first formulating a theory of motion and then deriving a concept of how inertial frames operate from that. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 06:24, 9 August 2005 (UTC)
+
+
+:::How's about we turn the phrase "[[inertial motion]]" into a link, and then if someone reckons they know how best to define it, they can write a separate page on it that people can look up, if interested? [[User:ErkDemon|ErkDemon]] 04:30, 9 August 2005 (UTC)
+ 
+::::As I described above, the concept of inertial motion and the concept of inertial frame of reference are inseparably interconnected. The question, 'what exactly should we recognize as inertial motion' is at the heart of every theory of motion, for it determines how inertial frames relate to each other. The definition in the article is an ''operational definition'', which has the great advantage that it is theory-independent. The next question is the description of how to transform from one inertial frame to another: that is different from theory to theory.--[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 06:24, 9 August 2005 (UTC)
+
+== From Newton to SR: was it due to clocks or frames? ==
+
+After further consideration, maybe a couple of things could be reverted a little bit:
+
+<BLOCKQUOTE>'' "Included in these rules of physics is the explicit assumption that time progresses at the same rate for all observers, meaning that clocks calibrated in one inertial coordinate system will not become uncalibrated due to one of then being moved into another inertial frame of reference. " ''</BLOCKQUOTE>
+
+I think that this sentence was meant to be helpful, but I don't think that the first part of it is  strictly true: Plenty of textbooks certainly ''say'' that space and time were absolute under Newtonian theory when they distinguish between NM and SR, but I think that's a convenient oversimplification: the "definitions" section of Principia makes a big deal about explicitly distinguishing between "absolute" and ''relative'' time, and Newton's "absolute time" is not claimed to be the rate at which clocks run - balance-clocks in Newton's day were lousy, pendulum-clocks were already known to run at different rates in different latitudes due to the variation in gravity, and the nearest thing we had to a perfect clock - the motion of stars and planets - was known to be wonky, too, and required correction after correction to obtain better progressively better accuracies. 
+His "absolute" time was also declared not to be the speed at which clocks are ''seen'' to run, because lightspeed issues were already known to mess up our observations of solar-system clockwork (specifically, the eclipses of the moons of Jupiter). I forget where Newton mentioned the Jupiter thing, it's probably buried in Principia or Optiks somewhere.
+
+In Principia's definitions, Newton also cedes that there might well be no real processes in the universe that proceed according to his "absolute time", so it's probably fairer to think of this as a mathematical, idealised rate at which clocks might be ''expected'' to run when all other complicating effects, optical and physical, are taken care of, in other words, an idealised, applied coordinate system. 
+
+More things that writers often forget to mention: Newton's variable-density aether model of gravity in Optiks was technically a curved-space model (mathematicians were apparently already attempting to apply Gaussian geometry to it in the C19th), and Einstein showed in 1911 that gravitational time dilation was an (overlooked) consequence of NM (which probably should have been pointed out a century earlier), so perhaps it's a historical accident that we didn't get a GR-type model from a Newtonian base before the C20th,  without using the "inertial frame" concept (e.g. Rindler, "GR before SR"). 
+
+Old-fashioned emission theory predicts a stronger transverse redshift effect than SR does, and if we use the SR "inertial frame, clock-synch" approach but substitute the emission-theory energy relationships for the SR ones, we actually get similar time dilation and length contraction effects to SR, but stronger ("Lorentz-squared" redshift and contraction components compared to "classical theory", rather than SR's "single Lorentz" version). I think that a lot of physicists now accept the idea that E=mc^2 is a result of Newtonian theory as well as of SR, and a few are now also starting to mention the existence of forgotten transverse redshifts in older theory but I don't think many of them are yet up to speed on the Newtonian counterparts of the SR ruler and clock stuff. It take as long time to override things that people have been taught.
+
+Rather than get into an of these contentious issues, I think it's probably better just to snip this sentence. [[User:ErkDemon|ErkDemon]] 04:55, 9 August 2005 (UTC)
+
+----
+Next: 
+<blockquote>'' "However, the assumption of constant progression of [[proper time]] in all frames of reference is replaced ..." ''</blockquote>
+
+Since the "proper time" between two events on a observer's worldline is one of the few things in SR that ''doesn't'' change between frames, maybe this is a bit confusing. I ''think'' I know what the sentence is supposed to mean, but perhaps it's a bit convoluted. 
+
+I still think that perhaps the divergence between NM and SR's implementation of the PoR is probably better described as being to do with SR's emphasis on the frame approach, and its definition of the "special principle of relativity" as being about the relativity of inertial ''frames'' rather than about the relativity of the inertial motion of individual ''objects''. The new focus on lightspeed being fixed in a ''frame'' in SR (rather than just fixed locally) ruled out at least two types of Newtonian model: Newtonian emission theory on a flat background (where there's no single light metric) and light-dragging implementations of Newtonian theory (where lightspeed can be locally constant, but SR's frame-based lightspeed arguments still don't apply). There may be other fully-Newtonian variants, but I can't think of any.
+
+When I was looking at the subject, I found that it seemed that one can't actually implement the default NM relationships (the consequences of p=mv) in a flat light-metric. With SR, the variation in wavelengths given off at all angles from a "moving" emitter produces a nice ellipsoidal shape that fits back into its original spherical volume with a tidy Lorentz contraction, but with NM the wavelengths grow larger than SR for high velocities (NM is "redder" than SR), and to pack all those wavelength distances back into the original sphere seems to requires a full extrusion out of the plane: Put another way: NM with a flat lightmetric doesn't seem to work, you either have to lose the lightmetric altogether (old emission theory) or introduce velocity-dependent curvature, in which case the SR concept of c being globally fixed in an inertial frame doesn't apply. Either way, the SR frame concept doesn't really work for NM.
+
+Put yet another way: if SR is "the unique solution for the principle of relativity applied to inertial frames" (which I don't think many people would dispute), then if NM also obeys the principle of relativity, and allows a solution, then, pretty much by definition, that solution can't be compatible with inertial frames in the same way that SR is. Once we say that lightspeed also has to be constant in an ''inertial frame'', we are effectively saying that lightspeed is globally constant for every legal inertial observer, and that design decision seems to immediately rule out Newtonian theory, and anything else other than SR or "clones" of SR.  
+
+So I think that the use of frames when discussing lightspeeds (and the expicit definition of the special principle as applying to the relativity of inertial ''frames'') was critical in taking us from NM to SR in a single step - instead of arguing about what sort of variably-curved spacetime (if any) might be described by the NM relationships, we declared that we knew that the speed of light was constant, used frame arguments to turn that into a statement that we knew that the speed of light was ''globally'' constant, and then went straight to SR as the only possible solution to the problem, as it was now defined, as a problem in flat spacetime. 
+
+There's no way we want to go through all this in the article, but perhaps we could revert a little way and say that SR differs from NM in its emphasis on the use of frames and in its "framey" definition of the SPoR, and that this leads to the SR relationships as a unique solution, and leave it at that? 
+[[User:ErkDemon|ErkDemon]] 04:55, 9 August 2005 (UTC)
+
+== How to implement the principle of relativity ==
+
+I still think that perhaps the divergence between NM and SR's implementation of the PoR is probably better described as being to do with SR's emphasis on the frame approach, and its definition of the "special principle of relativity" as being about the relativity of inertial ''frames'' rather than about the relativity of the inertial motion of individual ''objects''. [[User:ErkDemon|ErkDemon]] 04:55, 9 August 2005 (UTC
+
+:The emphasis on the frame approach is practical rather than fundamental. The question Einstein had been pondering was that the set of solutions to the Maxwell equations can be arranged in a symmetry group, with the individual members of this symmetry group related by Lorentz transformation. In each solution, the speed of light is the same: c.  The Maxwell equations do not have a solution for an observer co-moving with propagating light. 
+
+:In newtonian dynamics it is assumed that velocities of objects add according to Euclidean vector addition. In formulating SR, Einstein proposed to replace the newtonian assumption of addition of velocities with a rule of velocity addition that brings velocity addition in conformity with Lorentz transformation between inertial frames of reference. 
+
+:Relativity of inertial motion of individual objects, and relativity of inertial frames are truly inseparable concepts. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 07:02, 9 August 2005 (UTC)
+
+::<s>On second thoughts: I am ''assuming'' they are inseparable concepts. I don't know whether that assumption can be dropped or not.</s> --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 07:24, 9 August 2005 (UTC)
+::On third thoughts, I see no alternative, so back to the first statement: Relativity of inertial motion and relativity of inertial frames are inseparable concepts. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 08:11, 9 August 2005 (UTC)
+
+== Inertial motion ==
+
+The term '''inertial motion''' used in the lead para (definition) does not seem to be defined in WP. Oh dear!--[[User:Light current|Light current]] 01:53, 25 October 2005 (UTC)
+
+<blockquote>An '''inertial frame''' is  a [[coordinate system]] defined by the non-accelerated motion of objects with a common direction and speed.</blockquote>
+This definition is riddled with problems. If you have a bunch of objects, how do you define a frame? non-accelerated motion, common direction and speed have meaning only within a frame. --[[User:MarSch|MarSch]] 12:57, 7 November 2005 (UTC)
+
+:Is it right to say that an inertial reference frame is one that is moving at a constant speed?  I know there's a problem defining what a constant speed is as you don't know what to define it with respect to, but if you defined speed with respect to the seemingly 'fixed' stars, then that should be a good approximation, shouldn't it?  It's often used anyway.[[User:217.43.134.133|217.43.134.133]] 21:45, 8 December 2005 (UTC)
+
+::I haven't been following this, but FWIW, 217.43.134.133, your definition would be tricky to implement mathematically even in an asymptotically flat spacetime and would be obviously problematic in an expanding universe.  The simple definition used in physics is that a [[test particle]] is in inertial motion if it experiences no forces.  For example, a charged particle moving through at electromagnetic field will generally experience a [[Lorentz force]] which bends its [[world line]] away from the geodesic path followed by the world line of a similar but electrically uncharged particle.  See also [[frame fields in general relativity]] ---[[User:Hillman|CH]] 11:23, 10 December 2005 (UTC)
+
+:::Is an inertial fram the same as a non-accelerating frame?--[[User:Light current|Light current]] 03:51, 15 January 2006 (UTC)
+
+==Inertial Motion (again)==
+There are links into this page for the term 'Inertial Motion'. However, there is no expalantion of this term on this page.  I see that 'Light current' mentioned this back in Oct 2005. Can somebody please add this definition?
+[[User:P Koil|P Koil]] ([[User talk:P Koil|talk]]) 16:32, 4 January 2008 (UTC)
+
+== Lead para- should it be velocity? ==
+
+Should it not say [[velocity]] instead of [[speed]]?--[[User:Light current|Light current]] 03:48, 15 January 2006 (UTC)
+
+
+==Reversion of major re-write? (7 June 2006) ==
+
+Hi, I was surprised to find that my edits were reverted because they contained "serious misinformation".  I looked over what I wrote and didn't find any gross errors, at least at the level of undergraduate physics.  Perhaps the history of the Lorentz transformation (Poincare/Lorentz/Einstein) didn't get adequate coverage, and I should really have provided a reference for the "divine sense organ" thing (I didn't have my copy of the Leibniz-Clarke letters handy) or, better, eliminated that clause as un/impertinent to this article.  I didn't change the general relativity section at all, just the Newtonian and special relativity sections.   Where's the serious misinformation?    Some refinements could definitely be made to satisfy cognoscenti of [[general relativity]] (the issue of "local reference frames in particular) but perhaps those could be added as further refinements?  
+
+Personally, I feel that at least the initial part of the article should be written as an introductory physics article for lay people (especially high-school and first-year college students), clearly written with bright lines and a strong sense of flow; the latter part could then be used to introduce high-level refinements such as those of general relativity.   Do we all agree on the goal of making this article accessible at that level? [[User:WillowW|WillowW]] 07:58, 8 June 2006 (UTC)
+
+:I reverted [http://en.wikipedia.org/w/index.php?title=Inertial_frame_of_reference&diff=57427791&oldid=56456748 these edits] and I apologize for not taking time to fully explain.
+
+:Oh gee... now I don't know what I thought the problem was.  ''Sorreeee!''  Go ahead and revert my reversion.  Sorry again.  Not all my bugs have been worked out. ---[[User:Hillman|CH]] 08:49, 8 June 2006 (UTC)
+
+== Singular they ==
+
+I did a minor copyedit and removed references to the "singular they" usage. I sympathize with the motivation but it's rather incongruous to find ongoing grammatical issues wikilinked in a physics article. Is there an existing reason for this usage here? [[User:Opabinia regalis|Opabinia regalis]] 23:21, 12 June 2006 (UTC)
+
+Hi O, and thanks for your excellent edits!  There was no real reason for the link to [[singular they]], except that I wanted to spare the poor text from knee-jerk reversions by finicky readers.  The plural subject "scientists" is a better solution, which I'll copy to my other articles -- thanks muchly! :D [[User:WillowW|WillowW]] 14:36, 13 June 2006 (UTC)
+: Yeah, I don't blame you trying to preempt the grammar nazis :) I usually try for plural everything in those cases, but the English language really does need to work on that.
+
+: A bit off-topic, but I noticed you correctly corrected some of my bold-facing - have you (or anyone else) noticed an issue with scalars rendering at a very small size when interspersed with text? I realized after I made the change that this doesn't happen on my much lower-resolution screen, but does on my 1920x1200 one. I have a somewhat idiosyncratic setup so maybe it is just me. [[User:Opabinia regalis|Opabinia regalis]] 07:45, 14 June 2006 (UTC)
+
+{{archivetalk}}
+{{talkarchivenav}}
+
+== Versions of definition ==
+
+The article intro has been revised several times. I believe the present version has several advantages over one based upon an older Newtonian version:
+#It is consistent with special relativity
+#It very adequately describes the Newtonian version, which is a special case.
+#It is historically more up to date and more consistent with today's usage
+#It fits in with the rest of the article much better than a Newtonian version. In particular, the modern view (as expressed in the quote from Arnol'd) is related to the ''absence of fictitious forces'' as the best criterion.
+
+In any event the focus should be upon transformation properties and families of frames, not upon the Newtonian view of "free motion" that runs into some difficulties concerning how to insure an experimental situation where the only forces present are real, and are adequately accounted for. These issues are discussed in the article. [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 21:35, 19 August 2008 (UTC)
+:I don't have any problem with that, but:
+:* the first sentence should make the context clear, i.e., begin with "In [[physics]], an '''inertial frame of reference''' is";
+:* "'''Inertial frames of reference''' share the same and simplest <font style="font-family: Times Roman; font-size:100%;font-style:oblique;">Laws of Physics</font>." (The <code><nowiki><font></nowiki></code> tag has been deprecated for years; why should we indeed use oblique Times Roman? also, neither ''laws'' nor ''physics'' are proper nouns, bur apart that...) physical laws are the same no matter what; God/nature/call_it_whatever_you_like doesn't give a damn about which coordinate system you use; it's the (mathematical) ''form'' of physical laws which is simplest in inertial frames;
+:* "As a result of this requirement": what requirement? that the laws of physics be the same? (The same as what?) It seems somewhat vague to me...
+:* "no [[fictitious forces]] occur in inertial frames; that is, no forces occur that can be made simply to vanish by changing frames"; is that supposed to be a definition of inertial force? I can make a non-fictitious force vanish by choosing a suitably perverse reference frame; for example I can make the electrical force on an electron in an electric field of 1&nbsp;eV/m vanish by using a reference frame accelerating at 1&nbsp;m/s<sup>2</sup>. So that isn't a definition good enough. If, instead, you define a fictitious force as a force which is due to a non-inertial reference frame, defining an inertial frame as one without fictitious forces is a circular definition. Or you can define a fictitious force as one which isn't due to an interation with something else, and toghether with '''F''' = ''m'''''a''' you obtain that this is equivalent to saying that in an inertial frame a body which isn't interacted upon doesn't accelerate, which is the very definition you object to.
+:But I'm trying a compromise solution. --<span style="font-family: monospace; font-weight: 600; color: #00F; background-color: #FFF;">[[User:Army1987|A&nbsp;r&nbsp;m&nbsp;y&nbsp;1&nbsp;9&nbsp;8&nbsp;7&nbsp;]][[User talk:Army1987|!&nbsp;]][[Special:Contributions/Army1987|!&nbsp;]]</span> 23:45, 19 August 2008 (UTC)
+:(Note that, with the definition in the current version, "inertial" does or does not mean "free-falling" depending on whether fundamental interactions do or do not include gravitation; this is consistent with general relativity and the Standard Model.) --<span style="font-family: monospace; font-weight: 600; color: #00F; background-color: #FFF;">[[User:Army1987|A&nbsp;r&nbsp;m&nbsp;y&nbsp;1&nbsp;9&nbsp;8&nbsp;7&nbsp;]][[User talk:Army1987|!&nbsp;]][[Special:Contributions/Army1987|!&nbsp;]]</span> 00:09, 20 August 2008 (UTC)
+::I'd suggest dropping the following two sentences, which seem to be covered very well later in the article, and are something of a grab-bag of disjointed thoughts:
+:::In non-inertial frames of reference, the form of physical laws is complicated by the appearance of fictitious forces, that is forces which are not due to fundamental interactions, but merely reflect the acceleration of the reference frame. In inertial frames, Newton's law of inertia holds, stating that a body which does not interact with other bodies does not accelerate.
+::What do you think? [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 01:28, 20 August 2008 (UTC)
+:::Yes, now that I read them again they're awkward, but I think that a minimum of "historical" perspective should be kept in the lead, as the reader might otherwise be puzzled on why they are called "inertial", or fail to recognize a concept they already knew... But yes, for now I'm removing them, until someone comes up with a better way to express that. --<span style="font-family: monospace; font-weight: 600; color: #00F; background-color: #FFF;">[[User:Army1987|A&nbsp;r&nbsp;m&nbsp;y&nbsp;1&nbsp;9&nbsp;8&nbsp;7&nbsp;]][[User talk:Army1987|!&nbsp;]][[Special:Contributions/Army1987|!&nbsp;]]</span> 10:51, 20 August 2008 (UTC)
+:::As for the "which seem to be covered very well later in the article" issue, the lead section ideally should summarize the whole article, so that a reader can have a general idea of a subject by just reading the lead: see [[WP:LEAD]]. So there is nothing wrong in introducing in the lead concepts which are discussed more in depth later in the article. --<span style="font-family: monospace; font-weight: 600; color: #00F; background-color: #FFF;">[[User:Army1987|A&nbsp;r&nbsp;m&nbsp;y&nbsp;1&nbsp;9&nbsp;8&nbsp;7&nbsp;]][[User talk:Army1987|!&nbsp;]][[Special:Contributions/Army1987|!&nbsp;]]</span> 11:01, 20 August 2008 (UTC)
+::I find the opening paragraph rather non-definitive. It needs to state precisely what an IRF <i>is</i> i.e. "a set of axis whose directions do not change and whose origin is not accelerating". The opening sentence itself uses the phrase 'inertial frame of reference' to describe an inertial frame of reference. [[User:Green0eggs|Green0eggs]] ([[User talk:Green0eggs|talk]]) 23:13, 30 March 2009 (UTC)
+
+I agree with Green0eggs.  The intro is not very good at introducing.  Move the bulk of it down below.  Reading this I have no idea what IFR means. [[Special:Contributions/209.90.238.118|209.90.238.118]] ([[User talk:209.90.238.118|talk]]) 00:55, 1 May 2009 (UTC)
+
+Consider the basic definition of this article: <br>
+"an inertial frame of reference is a member of the subset of reference frames with the property that every physical law takes the same form in each such frame"<br>
+-Let A:R^4->R^4 -any automorphism of R^4<br>
+-Let "A-frame of reference" is any frame of reference A*X where X -any  "inertial frame of reference"<br>
+-Then, evidently "every physical law takes the same form in each such frame" (in each A-frame)<br>
+So, this definition of IFR isn't correct...
+
+Consider the "Newton's definition":<br>
+"An inertial frame of reference is one in which the motion of a particle not subject to forces is in a straight line at constant speed."<br>
+-It's evidently that the set of such FR is closed relatively '''any linear''' transformations! <br>
+-So, this definition of IFR isn't correct also..
+
+IMHO, The right definition of IFR sounds so:<br>
+- The space-time is supplied with some family of frames of reference called "inertial frames of reference".<br>
+This family of FR is minimally-closed (inreducible-closed) relatively Lorenz's (Poincare's) transformations.
+
+In other words, the definition of IFR can't be "operational", it must be "axiomatic"<br>
+[[User:Pavel Suvorov|Pavel Suvorov]] ([[User talk:Pavel Suvorov|talk]]) 10:04, 11 November 2009 (UTC)
+
+==Quotations==
+Why so many quotes in this page??? They should be moved to wikiquote or wikiversity .In the present form,the article can't convey the  physical idea of inertial frames to a begginer --[[User:Sruthy77|sruthy]] ([[User talk:Sruthy77|talk]]) 09:42, 26 October 2008 (UTC)
+:This is ridiculously out of hand. [[Special:Contributions/67.158.4.171|67.158.4.171]] ([[User talk:67.158.4.171|talk]]) 06:57, 1 December 2008 (UTC)
+::I'm going to have to agree here. I came to this page to find a relatively simple definition, and I can't even read the article because I'm blown away by a lot of quotations. Moreover, the intro doesn't even have a laymens' terms definition. [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 03:36, 9 December 2008 (UTC)
+
+The introduction is now two isolated sentences. I hope it is understandable.
+
+The quotations are an historical result of continued argument on this page that could be settled only by citing the opposing views into oblivion. One could remove them, but history shows that there is a lot of misunderstanding in this area, and people will stick to their guns unless authoritative background gets the point across and makes it clear that the article's view of things is more than off-the-cuff opinion of a few cranks. These quotes are now in a "background" section. [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 06:26, 11 December 2008 (UTC)
+
+I can understand that a series of quotations can be off-putting, but I don't think the article is hard to follow if you actually read it. [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 06:38, 11 December 2008 (UTC)
+:Thank you for removing the quotes from the intro, however I still have two problems:
+:#The introduction is still a little tough to understand for those who don't have a background in physics.
+:#Why can't some of these quotations be moved to the footnotes? This is common practice. You can still back up your POV/text, but then you don't have to clutter the article with disconcerting quotations every paragraph, which, IMO, does impact readability.
+:As far as the technical template goes, I feel that the whole article is geared towards physicists with PhD's. There's nothing wrong with having very technical information on a very technical topic like this, however it also needs to be accessible to non-technical people. I propose that at least a section be created at the beginning of the article to layout the idea in laymen's terms. See [[general relativity]] and [[introduction to general relativity]] for a great example. [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 16:32, 12 December 2008 (UTC)
+
+::I removed the templates having had no response from you about the revisions. Figured you were either satisfied, or had lost interest.
+::I am at a loss to see what can be clearer than the lead sentence. It does not define a "frame of reference" but does link to the article where this info is found. Beyond that, it points out what inertial frames are, and what more can be said.? Any suggestions?
+::As for the quotes, they all are relevant. They are clear, and they are authoritative. If a reader isn't interested they can skip the section and go on to [[Inertial_frame_of_reference#Newton.27s_inertial_frame_of_reference|Newton's frame]]. Maybe you object to the quote there from Einstein? [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 18:26, 12 December 2008 (UTC)
+
+:::I think your latest rev of the intro is the best so far. However, I'm confused by the following two sentences:
+:::"In an inertial frame of reference, unlike others, all physical laws have the same form and also have their simplest form. There are many inertial frames, all moving relative to each other at a constant velocity, without relative acceleration."
+:::What does "same form" mean in the first sentence? I don't see how the second sentence fits into the rest of the introduction.
+:::As for the quotes, I'm not objecting to the content of any of them (to be honest I haven't read but a couple). I'm contesting them on the grounds of readability and layout. If the quotes don't have to be read by the reader, as you stated above, then that means they aren't there to convey anything fundamental, but rather to backup points in the surrounding text. As such, they should be converted into footnotes, because that's what footnotes are for. This allows the reader to analyze the footnotes if he/she wants to, but doesn't impact readability for those who don't need it from the physicists' mouth. [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 19:06, 12 December 2008 (UTC)
+
+:I added two more paragraphs before reading your remarks.
+
+:Let me take a shot at your comments. The "same form" question is toughie, I'd say. One answer is that in an inertial frame, fictitious forces aren't needed, so the laws are simple, and that remains true on switching to another inertial frame. In contrast, on switching (e.g.) to a rotational frame, suddenly centrifugal and Coriolis forces crop up. The key issue is that it is the transformation between frames that has to be watched: transforming between inertial frames never introduces forces that were not in the original frame. This emphasis on what happens when frames are switched is why the sentence on there being a ''set'' of inertial frames is put in there.
+
+:I'd not say the quotes do not add anything fundamental. I'd say rather that they delve into some deep water that is probably not what the casual reader wants to plunge into. However, I'd also say that the casual reader should not dictate what is in the article. Putting this stuff into footnotes places it in a subsidiary role that I find doesn't do it justice. [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 19:25, 12 December 2008 (UTC)
+::We are getting there, but I really thing we need to do something about the "same form" sentence. I understand what you are saying now, but I don't think the phrase "same form" conveys that message readily (when I first read it, I thought you were saying that all of the equations of took on the same algebraic form, which seemed impossible). If we fix that then the sentence after it will probably make more sense.
+::As for the quotes, I see what you are saying about them taking the back seat. Is there anyway that we can change some of them into inline quotes, instead of putting them in quote boxes. Possibly the smaller quotes? [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 14:25, 13 December 2008 (UTC)
+
+:I've done further rewrite and added citations. As far as more on the "simpler" form, I could add a mathematical example showing the transformation leading to Coriolis force, for example, but for an introduction that seems a bit too much detail. Some of the intro citations are simply to show that the notion of simpler form is supported. Maybe that is sufficient for an intro? [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 22:25, 13 December 2008 (UTC)
+:The introduction now is more like a summary of the entire article, and sketches material in other articles like [[fictitious force]] previously only linked. Is this intro an improvement? [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 17:40, 14 December 2008 (UTC)
+::Most definitely the intro is better. I attempted to clarify that one sentence, let me know what you think. [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 00:16, 15 December 2008 (UTC)
+
+:I retained your change, but replaced the general discussion of real vs. fictitious forces with an example. Something concrete, I thought, might get the point across more easily, although it requires either a bit of mathematical background or a willingness to take things on faith. [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 16:43, 15 December 2008 (UTC)
+:: I like the example, but I don't like all of the equations. Can you just replace the second two equations with text to get your point across? I'm afraid your 3rd equation is going to scare people off. It scared me at first, but after reading the associated text it made sense. [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 16:59, 15 December 2008 (UTC)
+
+:Dropping the equations puts us back where things were without the example. I rearranged things a bit to advise the reader not to get too involved in the math, more or less the way an experienced reader would handle matters on a first reading. [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 18:03, 15 December 2008 (UTC)
+::Fair enough. I'll concede that point to you. I've removed the intro temp as the intro is much better now. Thanks for all your hard work! [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 18:19, 15 December 2008 (UTC)
+
+:Thanks for provoking revision; frankly, I thought it was pretty good to start with, but a little pushing convinced me otherwise. [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 19:19, 15 December 2008 (UTC)
+
+== A flood of micro-edits ==
+
+Hello Brews ohare,
+
+I noticed the style of editing that you used when editing the inertial frame of reference article. Over the course of a working session there are dozens of micro-edits, often only a minute apart.
+
+Can you please save up your edits over the course of a working session, and then upload them in a single go? Uploading dozens of micro-edits has a disadvantage: the version history becomes cluttered. When I revisit an article I like to go through the version history, to see which editors have made which edits. A cluttered version history makes that very time-consuming. Can you please edit in such a way that the version history remains overseeable and accessible. [[User:Cleonis|Cleonis]] | [[User talk:Cleonis|Talk]] 09:47, 24 December 2008 (UTC)
+
+== The Euler force ==
+
+Whereas none of the "fictitious forces" arises in the case of Ω&nbsp;=&nbsp;0,  The Euler force also vanishes when dΩ/dt&nbsp;=&nbsp;0
+
+By convention, the expression 'rotating observer' refers to rotation with uniform angular velocity. If you want to discuss the case of a 'rotating observer' that is also undergoing ''angular acceleration'' then you must declare so explicitly.
+
+It should be stated explicitly that the Euler term arises only in the case of ''angular acceleration'' of the coordinate system that you are transforming to. [[User:Cleonis|Cleonis]] | [[User talk:Cleonis|Talk]] 10:51, 24 December 2008 (UTC)
+
+== Inertia as the prime organizing principle for dynamics understanding ==
+
+In the opening section of this article it is claimed:
+
+:The laws of physics change from frame to frame
+
+I want to examine that claim in the light of the case that is depicted in the animation: the apparent retrograde motion of Mars. Of course, Newtonian dynamics and general relativity describe the nature of gravitational interaction very differently. But they do have that fundamental concept in common: ''gravitational interaction''.
+
+[[Image:Apparent_retrograde_motion.gif|frame|right|The yellow dot represents the Sun, the blue dot represents the Earth, and the red dot represents Mars.<br>
+<br>
+The view on the right represent the pre-Newtonian point of view. All celestial motion is thought of as motion with respect to the Earth. Disadvantage: no possibility for describing the motion of the Sun and the motion of Mars in terms of a single framework of thought.<br>
+<br>
+The view on the left represents the Newtonian point of view, Earth and Mars are orbiting the Sun, their orbits sustained by gravitational attraction, as described by the law of universal gravity.]]
+
+It's interesting, I think, to state explicitly why we prefer the Newtonian point of view over the pre-Newtonian point of view. Compared to the Newtonian point of view the pre-Newtonian view is disjointed and incoherent. Newton assumed universal inertia and the universal law of gravity. By taking inertia as the organizing principle for dynamics understanding a coherent and tight-knit framework of thought is achieved
+
+
+It is straightforward to compute the motion of Mars relative to the Earth. The computation can be executed in any order you like. You can first compute the motion relative to a Sun-centered coordinate system, and then perform a coordinate transformation on the computed trajectories, or you can perform all of the computation in terms of motion relative to an Earth-centered coordinate system. When performing the computation in an Earth-centered coordinate system you add appropriate acceleration terms to the equations of motion. Both calculation strategies yield the same result; they are equivalent.
+
+Obviously, the laws of motion themselves aren't any different when you are using an Earth-centered coordinate system; all you do is transform. Transforming from one coordinate system to another is a perfectly superficial procedure, it's just as superficial as converting form miles to kilometers, it has no bearing on the physics understanding.
+
+'''Equivalence class of inertial coordinate systems'''
+
+The laws of motion are valid for motion relative to any member of the equivalence class of inertial coordinate systems. That is too long an expression, I will use as physics shorthand: the laws of motion are valid in an inertial coordinate system. That is the physics shorthand, the intention is always to refer to the ''equivalence class''.
+
+:<math>\boldsymbol F' = \boldsymbol F - 2 m \boldsymbol\Omega \times \mathbf{v}_{B} - m \boldsymbol\Omega \times (\boldsymbol\Omega \times   \mathbf{x}_B )  - m \frac{d \boldsymbol\Omega}{dt} \times \mathbf{x}_B \ , </math>
+
+The centrifugal term, the coriolis term and the Euler term all contain Ω, the rotation rate of the non-inertial coordinate system with respect to the inertial coordinate system. The point is: all laws of motion refer to the equivalence class of inertial coordinate systems. There are no exceptions to this rule: all laws of motion refer to the equivalence class of inertial coordinate systems.
+
+Conclusions:<br>
+- The laws of motion are ''the same'' from frame to frame; all that is different from frame to frame is ''the notation'' of the laws of motion. <br>
+- The significance of the equivalence class of inertial coordinates systems lies in the fact that in modern physics (Newtonian physics and relativistic physics) inertia is the prime organizing principle of our dynamics understanding. [[User:Cleonis|Cleonis]] | [[User talk:Cleonis|Talk]] 12:08, 24 December 2008 (UTC)
+
+
+
+===========================
+
+It´s never clear who moves. Who or what moves and what or who not can not be determined absolutely.
+Neither can it be proved nor disproved.
+
+[[Special:Contributions/91.19.40.170|91.19.40.170]] ([[User talk:91.19.40.170|talk]]) 12:25, 1 March 2009 (UTC)
+
+==The laws of motion are ''the same'' from frame to frame==
+This statement needs clarification. In an inertial frame Newton's second law has real forces in it that every observer agrees upon whatever frame they are in.
+In a noninertial frame Newton's second law has extra fictitious forces in it. Just what these extra forces are varies from one noninertial frame to another, depending upon its peculiar acceleration. If we compare these two forms of Newton's second law, one form has "extra" force terms.
+I'd say it is fair to say that the laws of motion are therefore different in different noninertial frames. However, of course, Newton's law in general terms as force=mass x acceleration is valid in both frames. [[User:Brews ohare|Brews ohare]] ([[User talk:Brews ohare|talk]]) 14:33, 6 March 2009 (UTC)
+
+:I emphasize the following: all laws of motion refer to the equivalence class of inertial frames of reference.
+
+:1) When motion is mapped in an inertial coordinate system then the laws of motion as they are notated refer directly to the equivalence class of inertial coordinate systems. <br>
+:2) When motion is mapped in a non-inertial coordinate system, such as a rotating coordinate system, then the ''extra'' terms (centrifugal term, Coriolis term, Euler term), each refer to the equivalence class of inertial coordinate systems. <br>
+
+:A) The term that represents the centrifugal force, &Omega;x&Omega;xr, contains &Omega;, the rotation rate of the non-inertial coordinate sytem ''with respect to the inertial coordinate system''.
+:B) The term that represents the coriolis force, 2m&Omega;v, contains &Omega;, the rotation rate of the non-inertial coordinate system ''with respect to the inertial coordinate system''.
+:C) The term that represents the Euler force, contains d(&Omega;)/dt. Like the other two, the Euler term is determined by the rotation rate of the non-inertial coordinate system ''with respect to the inertial coordinate system''.
+
+:It is clear what the common factor is: both when mapping motion an inertial coordinate system and when mapping motion in a non-inertial coordinate system the common ''reference'' of the equations is the inertial coordinate system. --[[User:Cleonis|Cleonis]] | [[User talk:Cleonis|Talk]] 19:11, 6 March 2009 (UTC)
+
+== Versions of definition 2 ==
+
+I copy and paste from above.<br>
+:I find the opening paragraph rather non-definitive. It needs to state precisely what an IRF <i>is</i> i.e. "a set of axis whose directions do not change and whose origin is not accelerating". The opening sentence itself uses the phrase 'inertial frame of reference' to describe an inertial frame of reference. [[User:Green0eggs|Green0eggs]] ([[User talk:Green0eggs|talk]]) 23:13, 30 March 2009 (UTC)
+
+Hi Green0eggs,
+
+you suggest that the criterium given in the opening paragraph is circular reasoning. However, that is not the case. The opening paragraph states that a clear distinction can be made within the set of all frames of reference. On one hand inertial frames of reference and on the other hand non-inertial frames. The criterium is that when motion is mapped in a non-inertial frame additional terms are needed in the equation of motion (often referred to as fictitious forces), in order to make the equations work. When motion is mapped in an inertial frame no such additional terms are needed. (Also, the members of the set of inertial frames of reference are interconnected: none of the members of the set rotates relative to the set of inertial frames, and each member of set is either stationary relative to other members, or has a uniform velocity relative to other members of the set.)
+
+The above demarcation criterium is an operational criterium. Which are the applicable equations of motion? Answer, equations of motion that ''work'' are applicable. When motion is mapped in an inertial frame then the properties of inertia are embodied by the coordinate system itself: when motion is mapped in an inertial frame objects will tend to move along straight lines of the very coordinate system.
+
+This operational way of defining the concept of inertial frame of reference is the only way the concept of inertial frame of reference can be defined at all.
+
+
+Finally, let me point out that the description that you propose is insufficiently defined: "a set of axis whose directions do not change and whose origin is not accelerating" Not accelerating with respect to what? --[[User:Cleonis|Cleonis]] | [[User talk:Cleonis|Talk]] 21:01, 1 April 2009 (UTC)
+
+==What does "same form" mean?==
+
+The first paragraph of the current article speaks of an inertial reference frame in the singular and implies that the set of such frames have the property that "each physical law portrays itself in the same form in every inertial frame".  I did not see any subsequent clarification of what "same form" means in the article.
+
+The example of a rotating frame being non-inertial in Newtonian mechanics seems to disqualify such frames on the basis that they introduce "ficticious forces".  My guess about the mathematical meaning of these remarks is that when we say F = ma should keep the "same form" in inertial frames, we want each individual term of the equation to be invariant when we transform coordinates to the system used by an observer in an inertial frame.  But the term "invariant" needs clarification.  As a set of 3 coordinates the vector F does not remain invariant in all inertial frames.  It remains invariant as a "geometric object".  That type of invariance can be defined by declaring what mathematical functions ( e.g. length of the vector) associated with F must remain invariant.
+
+
+[[User:Tashiro|Tashiro]] ([[User talk:Tashiro|talk]]) 16:55, 17 August 2009 (UTC)
+
+Yes, you're correct that this language is not very clear.  The true statement is that the lagrangian density from which the equations of motion of the theory are derived should be a scalar under Lorentz transformations, which in turn implies that the action itself is completely invariant.  [[User:Waleswatcher|Waleswatcher]] ([[User talk:Waleswatcher|talk]]) 15:00, 2 February 2010 (UTC)
+
+==First paragraph and SR==
+
+The first (and only truly necessary) postulate of special relativity is that the laws of physics are identical in all inertial reference frames.  That assumption, together with the laws themselves (for example Maxwell's equations, which fix the speed of light to be c regardless of the velocity of the emitter), is all that is necessary to derive the interesting and bizarre properties of SR.  To be a little more precise, it is invariance of physical law under Lorentz transformations that is the key element, but that's both too mathematical and too specific for an introduction to this article.  I agree that the way the article is phrased now it _sounds_ empty, but it most certainly is not - SR has many deep and profound consequences.
+
+As for fictitious forces, they should certainly be _mentioned_ and discussed, but their absence does not and cannot _define_ inertial frames.  Modern physics is not formulated in terms of Newtonian forces, it's formulated in terms of fundamental particle interactions.  Those interactions are Lorentz invariant, i.e. they look the same in all inertial frames of flat Minkowski space, but fictitious forces are not part of that language and hence cannot be used as a definition.
+
+The language as it is now can probably be improved, and I support such changes.  But please bear the above in mind, or discuss it here before making major changes again. [[User:Waleswatcher|Waleswatcher]] ([[User talk:Waleswatcher|talk]]) 14:51, 2 February 2010 (UTC)
+
+:Two quick things, if you say:
+:* "The first (and only truly necessary) postulate of special relativity is that the laws of physics are identical in all inertial reference frames"
+:1) The point is that SR is a scientific theory; it is an experimentally falsifiable theory.  We can experimentally check Lorentz invariance.  If you instead DEFINE an inertial frame by the properties that SR needs to be true, ''<u>then SR is true by definition</u>''.
+
+:Basically, instead of being able to test for Lorentz invariance, if Lorentz invariance was found to be violated on some energy scale, then according to ''your'' definition, SR would still be true (since it is now a tautology) but the things we used to call inertial frames are no longer inertial frames.  Do you better understand the problem here?
+
+:To summarize, SR ''postulates'' details about inertial frames.  This is separate from the definition of what an inertial frame ''is''.
+
+:2) I would disagree with your statement.  Take an inertial coordinate system.  Do a parity transformation.  The new coordinate system is still an inertial coordinate system, don't you agree?  However the laws of physics are NOT the same in this inertial coordinate system.  So the way you are defining SR makes it false by experimental evidence.
+
+:The base problem with your wording of SR is the very problem we are having here.  It is difficult to ''precisely'' define an inertial coordinate system.  In fact, I've seen more than one physics textbook that explicitly avoid the discussion all together, noting some issues in defining them, and instead note properties of inertial coordinate systems and how they are related.  Also, this is why the modern statement of SR is usually given as: SR requires the physical laws to have Poincare symmetry.  Not only have I heard physicists use this definition directly in discussions, but advanced textbooks (often quantum field theory, etc.) often take this as the definition and starting point for enforcing a theory to be "relativistic".
+
+:I looked through the history and saw a lot of definitions.  Many are close but faulty, and many are well backed by quotes, but if we avoid "fictitious forces" I think the closest could be paraphrased as:
+::*An inertial coordinate system is one which describes space and time homogeneously and isotropically.
+
+:I feel this maintains the essence of what Newton and Galileo expected, and is still correct with modern expectations.  The "essence" of what SR adds here then is the amazing realization that there are ''infinitely'' many such frames (instead of the one "absolute" inertial frame, as Newton felt there would only be one "frame" in which we'd be at "rest" with respect to "space" .. ie only one frame in which space is described homogeneously and isotropically).
+
+:I realize from your previous comments that you may agree with these properties, but do not feel they are ''sufficient'' to define an inertial frame.  Please help discussion move forward by answering the following:  Let's agree, by definition, that there exists some inertial coordinate system (ct,x,y,z) ... please define a new coordinate system (ct',x',y',z') via a coordinate transformation from the unprimed frame which is a counter example to the proposed definition.  ie. space and time are described homogeneously and isotropically, yet it is not an inertial coordinate system.  Only with an explicit example can we understand what your objection is here.
+
+:[[Special:Contributions/98.222.50.164|98.222.50.164]] ([[User talk:98.222.50.164|talk]]) 08:15, 3 February 2010 (UTC)
+
+Wow, I think I learned more about inertial frames by reading the discussion page than the article page.  I agree it appears really tough to define a concept precisely that we all seem to intuitively get some concept of.  Maybe being more frank in the article would be helpful.  For example, note some major properties in the introduction (sort of like introducing, not defining, an apple by describing its properties), then in the very first part of the article be frank that it is difficult to define precisely.  Then explain <i>why</i> with various example definitions and how they may subtly miss the point.  Such a discussion can teach a lot (as reading the discussion here helped me understand a lot more).  The article is already broken into sections of different properties, and the changes to the beginning just seem to keep trying to choose one and make it the <i>defining</i> property.  So I think my suggestion would fit well and could help stabalize the article.
+
+I don't feel qualified to edit, and rearrange, this article, but thought I'd give insight from someone who came to the article to learn. Thanks. [[Special:Contributions/130.126.15.40|130.126.15.40]] ([[User talk:130.126.15.40|talk]]) 18:20, 3 February 2010 (UTC)
+
+It certainly IS difficult to define precisely and without any circularity.  For one thing, according to general relativity there are no truly inertial frames, and there is no distinction between real and fictitious forces.  In flat Minkowski space, i.e. with gravity turned off so that GR->SR, inertial frames can be defined as the set of coordinate systems related to the standard flat coodinates by Poincare transformations.  In slightly more plain English, they are the set of frames related to standard rectilinear coordinates by rotations, translations, and Lorentz boosts.
+
+But how to define them in the intro to this article?  Let me first respond to 98.222.50.164 and then make a suggestion.  Yes, of course Lorentz invariance is experimentally testable.  A violation of it would indicate that the laws of physics are not invariant under Lorentz transformations.  The article says essentially that in the second sentence, where it states " In flat spacetimes, all inertial frames are in a state of constant, uniform motion with respect to one another."  So the definition as given in the article is falsifiable - if frames related by constant uniform motion do not exhibit identical laws of physics, the statements in the first two sentences of the article are wrong.  There is a problem there in that two NON-inertial frames related by uniform motion do not necessarily have the same laws of physics...  but the sentence can perhaps be re-worded to avoid that annoyance.
+
+About homogeneity and isotropy.  The article before I edited it said something different than what you say above.  It said "This requires space to be described [[isotropy|isotropically]], and time homogeneously."  That doesn't suffice, because it doesn't say space must be described homogeneously (which it needs to be - if you want to define an accelerating frame or a non-isotropic frame to be non-inertial, then spherical coordinates aren't inertial either).  The language in your comment above is "an inertial coordinate system is one which describes space and time homogeneously and isotropically".  That's a bit better, but it still has a major problem - it doesn't apply to Minkowski space in standard coordinates.  Space and time are distinguished in the Minkowski metric, they are not isotropic (inside the lightcone of a point is physically different from outside the lightcone).  You could say "describes space homogeneously and isotropically, and time homogeneously, but it's still not quite good enough.  For example de Sitter space is spatially homogeneous and isotropic and can be written in coordinates that are homogeneous in time, but it's not inertial.
+
+About parity - that's a bit of a quibble.  The article as currently written does not necessarily include parity transformed frames as inertial (because they differ from the starting set by more than just constant motion).  Anyway without going into a discussion of the mathematics of the Lorentz group it's going to be hard to explain that very well.
+
+Still...  I'm not saying the current language is perfect, far from it.  So let me make a suggestion - perhaps we should just say that inertial frames are the set of coordinate systems with metric -dt^2 + dx^2 + ...? We could describe that in English by saying that they are the set of coordinate systems related to each other and to "standard Cartesian coordinates" (or some language like that) by rotations, translations, and constant velocity motions.  Then we could add that the laws of physics take the same form in all such coordinates systems (with an exception for improper Lorentz transforms like parity).  What do you think? [[User:Waleswatcher|Waleswatcher]] ([[User talk:Waleswatcher|talk]]) 22:47, 3 February 2010 (UTC)
+
+:One possible approach is to define an inertial frame as one in which Newton's first law holds, i.e. relative to which all free-falling particles move at constant velocity. Of course, you still need to define what a "free-falling particle" is... --<span style="border:1px solid #006000">[[User:Dr Greg|<font style="color:#FFFF80;background:#006000">'''&nbsp;Dr&nbsp;Greg&nbsp;'''</font>]][[User talk:Dr Greg|<font style="color:#006000;background:#FFFF80">&nbsp;<small>talk</small>&nbsp;</font>]]</span> 23:26, 3 February 2010 (UTC)
+
+Hmmm... your point about de Sitter space is pretty good.  However there spacetime is not flat, and the coordinate system you are referring to sounds like the [[De_Sitter_space#Flat_slicing|flat slicing]] in which case it IS the local inertial frame about the origin (and a local inertial frame is the best we can do in curved spacetime).  So it seems like that definition is headed in the right direction.  But yes, I see what you mean, that definition would claim that coordinate system is a ''global'' inertial frame, when it "clearly" is not.
+
+I like your metric idea, but I'm not sure how to describe that in plain english well enough for the introduction.  If you have an idea how to word it, please do change the current introduction/"definition".
+
+Dr. Greg, I agree Newton's first law is an important property, but unfortunately ''any'' linear transformation from an inertial coordinate system will preserve this property.  So we can't define an inertial frame as you suggested there.  Hopefully Waleswatcher's idea will pan out, because I'm not sure I have any other ideas myself.  I've been asking physic students all day, and no one has a good precise definition.  It's so simple, yet so hard to define! [[Special:Contributions/98.222.50.164|98.222.50.164]] ([[User talk:98.222.50.164|talk]]) 08:46, 4 February 2010 (UTC)
+
+== Merge discussion ==
+
+The page [[Inertial space]] appears to be on the same subject as this page, although with a different emphasis. --[[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 21:29, 25 September 2010 (UTC)
+
+== Still too technical? ==
+
+I see that the "technical" tag has been around for a couple of years. Does it still apply? I would say yes, as far as the introduction goes. Someone who understands the discussion of rotation probably already knows what a rotating reference frame is. A perfect example of what is needed in the introduction can be seen in [[Fictitious_forces#Acceleration_in_a_straight_line]]. Anyone can relate to the feeling of being pushed back in their seat! --[[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 18:57, 14 October 2010 (UTC)
+
+== Sentence taken out of context ==
+
+User {{user|GianniG46}} twice took a statement out of its context: [http://en.wikipedia.org/w/index.php?title=Inertial_frame_of_reference&action=historysubmit&diff=390731458&oldid=387302125] and [http://en.wikipedia.org/w/index.php?title=Inertial_frame_of_reference&action=historysubmit&diff=390731458&oldid=387302125]. I undid the move twice: [http://en.wikipedia.org/w/index.php?title=Inertial_frame_of_reference&diff=prev&oldid=390735567] and [http://en.wikipedia.org/w/index.php?title=Inertial_frame_of_reference&diff=next&oldid=390750054]. Looking at the statement following the moved statement ("''By contrast, in a non-inertial reference frame...''") and at the logical flow, the move cripples the lead by effectively orphaning the sentence. [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 20:42, 14 October 2010 (UTC)
+
+::Just above this section there is a question: is this article plain and intelligible? So I ask: If a friend of yours asked to you: "What is an inertial frame", would you answer with the first lines of this article ("describe time homogeneously... fictitious forces...same handedness")? Or would you say: it is a frame which does not move, or has a uniform, rectilinear motion with respect to Earth, approximately, and more precisely with respect to stars and all other inertial frames? 
+
+::For as concerns the ''out of context'', the phrase you say is in direct contrast with the one I moved says  "by contrast, in a ''non-inertial'' reference frame..."; does not say "in a frame that ''does not move uniformly...''". And, in the following, it is simply said the laws depend on the frame, with fictiyious forces, etc. Only after two or three more lines acceleration is referred to. So also the formal reason for letting the phrase to stay there does not sussist. But, if you think the phrase is orphaned, I will adjust it by adding other words.
+
+::Matters must be told with simplicity in their concreteness, and with a logical line: speaking of fictitious forces before having explained which kind of frames are able to "describe time homogeneously and space homogeneously, isotropically, and in a time independent manner" is not logically consistent. And I have rarely seen a more abstract definition.--[[User:GianniG46|GianniG46]] ([[User talk:GianniG46|talk]]) 21:46, 14 October 2010 (UTC)
+
+:::I think the way to have a logical flow is to separate the motion of reference frames from the implications for physical laws. I have rewritten the lead section with this in mind. --[[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 23:08, 14 October 2010 (UTC)
+
+I definitely agree that the lead section was to be rewritten. Mine was just a way to amend it a little bit with minimum work and friction. But, why "an acceleration that cannot be detected from within the frame of reference"? This would include an orbiting capsule and in general free-falling bodies, in which there is only a virtually undetectable tidal effect to signal that they are not inertial. Perhaps we should start by the classical definition, with "fixed stars" et cetera, and then refine by discussing relativity and other modern adjustments--[[User:GianniG46|GianniG46]] ([[User talk:GianniG46|talk]]) 07:14, 15 October 2010 (UTC)
+
+:I think you're right about separating the theories. It makes the exposition much more straightforward. I don't think it's necessary to get into "fixed stars", though - just a simple statement about acceleration will do. After all, this is just the lead section, and readers shouldn't be scared away by deep philosophical questions. --[[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 14:05, 15 October 2010 (UTC)
+
+::Ok, but "accelerating" needs the contestual specification of with respect to what. And saying "with respect to one another" needs the specification that in this set of frames the laws of physics are written in the most simple, homogeneous and isotropical way possible. Which is intricate, a bit philosophical, and can be told later. Perhaps a provisional recalling of the good, old "fixed stars", to be refined immediately afterwards, is less "scaring".--[[User:GianniG46|GianniG46]] ([[User talk:GianniG46|talk]]) 15:52, 15 October 2010 (UTC)
+
+:::How about referring to proper acceleration - acceleration you can feel? --[[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 16:30, 15 October 2010 (UTC)
+
+Lead looks slightly better now. Enjoy the honing :-)  [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 15:40, 15 October 2010 (UTC)
+
+:Thanks, {{user|DVdm}}. --[[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 18:10, 15 October 2010 (UTC)
+
+I like your most recent change, {{user|GianniG46}}. I was thinking on similar lines, but I never actually did it. --[[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 18:10, 15 October 2010 (UTC)
+
+::Thanks. I think ''perhaps'' some other improvements could be made by explaining in words the relevance of fictitious forces in everyday life. (Just to joke on ''perhaps'': my mother language is not English, but I believed one could use it for qualitative arguments, in the sense of "loosely speaking": I was not pretending to have a precise definition of "most popular example".)  --[[User:GianniG46|GianniG46]] ([[User talk:GianniG46|talk]]) 08:50, 16 October 2010 (UTC)
+
+:::The problem is, there are already pages on [[non-inertial frame of reference]] and [[fictitious forces]]. So the main focus of this page should be the subject of the title. --[[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 02:36, 18 October 2010 (UTC)
+
+== Definition discussion yet again ==
+
+Reading the talkpage there is already much discussion on preferences.  Let me suggest another way to quickly narrow down the possibilities which shouldn't involve prefences: agreeing on what an inertial frame is NOT.  
+
+If there exists an inertial frame with coordinates (x,y,z,t), I assume we can agree that the coordinate system (x',y',z',t') is not inertial in the following cases:
+# an accelerating frame: x'=x+t^2,y'=y,z'=z,t'=t
+# a spatial shrinking in one direction, so while space is still homogeneous, it is not isotropic:  x'=ax,y'=y,z'=z,t'=t (Note: as this is a linear transformation, Newton's first law still holds.)
+# space is still homogeneous and isotropic, but now time dependent: x'=a(t)x,y'=a(t)y,z'=a(t)z,t'=t
+# space is homogeneous and time independent, but time is not homogeneous: x'=x,y'=y,z'=z,t'=t^2
+
+So if any proposed definition includes those coordinate systems that are not actually inertial frames, we can quickly eliminate it.
+
+To complement what it should not be, I might as well list what I feel it should be.  I think the current definition is nice for three reasons:
+# It holds in the "space-time" approach of special relativity
+# It holds in the "space" + "universal time parameter" approach of Newtonian mechanics
+# It separates the "stage" (spacetime and coordinates labelling it) from the "actors" (the physical fields / particles and whatever laws governing them)
+
+The first two I consider requirements. The third I admit is a preference.  The physical laws are separate from a coordinate system as shown by the ability to write them in a coordinate free manner.  It seems weird to try to go backwards and describe the coordinate stage with forms of laws that themselves depend on the coordinates.  Someone above even tried to argue that we can't define an inertial frame operationally (I'm not sure I'd go that far).  Separating them also helps avoid circular definitions and tautologies.
+
+Anyway, let's move forward.  Can anyone improve the wording, without changing the meaning of the definition? [[User:FlyingBob|FlyingBob]] ([[User talk:FlyingBob|talk]]) 03:01, 13 January 2011 (UTC)
+
+:Attempt #1: In physics, an inertial frame of reference (also inertial reference frame or inertial frame or Galilean reference frame) is a frame of reference that describes space and time completely uniformly.  Simply this means the relation between coordinates can be consistently mapped onto a choice of standard ruler and clock, regardless of location and orientation of the clock or ruler.
+:Is that better? This brings the "actors" a bit on stage, but in I think a fairly harmless way as we can use any choice of ruler of clock.  The only worry I have now is that there is a loop hole for clock synchronization.  I fill that is kind of intuitively covered by the vaguish "completely uniformly", but it would be nice to choose a better wording. [[User:FlyingBob|FlyingBob]] ([[User talk:FlyingBob|talk]]) 03:25, 13 January 2011 (UTC)
+
+The problem with all these definitions is that one cannot really separate the "stage" (as you put it) from the fields/particles.  Here's a simple example.  Einstein defined his frame using rays of light (his 1905 paper is very careful and explicit about exactly how he did it).  Clocks and rulers are synchronized via light travel times, and it's that procedure that guarantees that the speed of light will be constant and isotropic.  Now imagine doing exactly the same thing, but with sound in some air-filled space.  It works perfectly (so long as the frame isn't moving faster than the speed of sound relative to the air, that is), and now the speed of sound is constant and isotropic- but the speed of light isn't!
+
+That "sound frame" is not a Lorentz frame, but it does fit the current description in the article.  Actually the same goes for Galilean frames - they fit the definition, but they are NOT inertial in the sense that the speed of light is NOT constant or isotropic in them.  But I'm really not sure how best to explain this in non-technical language and in a few sentences.  To me, it seems that we ought to re-write the intro to separate Lorentz frames from Galilean, and describe Lorentz frames in terms of light (we should say it's a frame in which the speed of light is constant and the same in all directions).[[User:Waleswatcher|Waleswatcher]] ([[User talk:Waleswatcher|talk]]) 18:41, 14 January 2011 (UTC)
+
+== What does "describes" describe? ==
+
+There is a collection of editors who are really fond of the definition "a frame of reference that describes time homogeneously and space homogeneously, isotropically, and in a time independent manner," and keep referring to the talk page. Yet all I find on the talk page is a statement by one anonymous editor that he/she prefers this definition and a lukewarm response from some other editors. I see two problems with this definition:
+#It is calculated to repel readers who don't already know what an inertial space is.
+#It is practically meaningless (how do you "describe time"?).
+In ''Mechanics'' by Landau and Lifshitz, there is a very nice discussion of inertial frames of reference in which they make a very similar statement: "a reference frame can always be chosen in which space is homogeneous and isotropic and time is homogeneous. This is called an ''inertial frame''". But they precede and follow this statement by discussion that makes the physical meaning clear. The very next sentence is "In particular, in such a frame a free body which is at rest at some instance remains always at rest." Can't we agree on a definition that involves motion and action rather than "describes"? [[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 03:34, 13 January 2011 (UTC)
+
+:So maybe you found the reference where the phrasing originally came from.  If you want to use simplier language, feel free to suggest something. I tried my best in a suggestion above.  If you can use motion to do it, so be it.  But it better not just be Newton's first law as that isn't enough even in Newtonian mechanics.
+:As for "describe time", it just sounds like a simplified version of "parameterize time" or "label time systematically and numerically" (ie. in a coordinate system)
+:Oh, and I'm the anonymous editter from earlier today. So there's one less person in that collection. Hopefully others will comment. [[User:FlyingBob|FlyingBob]] ([[User talk:FlyingBob|talk]]) 04:04, 13 January 2011 (UTC)
+
+::No doubt the simplest and more concrete definition is saying that in an inertial frame Newton's law must hold, in particular first law. This is what an encyclopedia reader expects. After this one can discuss the more abstract points that, for this to be true, we must have homogeneity, isotropy and so on, and that an inertial frame allows the laws of physics to be expressed in the simplest way possible, and can speak more in depth of Galileo, Newton, and Einstein. This is, for example, the point of view of the interesting article of [http://plato.stanford.edu/entries/spacetime-iframes/ Stanford Encyclopedia of Philosophy]: "''The laws of Newtonian dynamics provide a simple definition: ...the motion of a body not subject to forces is always rectilinear and uniform, accelerations ... proportional to ... applied forces ... equal and opposite reactions. ... By inquiring more narrowly into its origins and meaning, however, ...''", and continues with an in-depth discussion of related history, physics and philosophy. And, in general, the Newton's laws approach is adopted by most academic articles I have seen.--[[User:GianniG46|GianniG46]] ([[User talk:GianniG46|talk]]) 09:28, 13 January 2011 (UTC)
+
+:::I think we definitely should start with ''frames in which Newton's laws hold good''. This can be used to define global inertial reference frames in Galilean and special relativity, and local ones in general relativity. See [http://articles.adsabs.harvard.edu/full/1953MNRAS.113...34S this], and ''much more'' of the same to be found with [http://scholar.google.com/scholar?q=inertial+frame+newton+%22hold+good%22], [http://scholar.google.com/scholar?q=inertial+frame+newton+%22holds+good%22] (note the numbers of citations), [http://books.google.com/books?sourceid=navclient&q=inertial+frame+newton+%22hold+good%22], and [http://books.google.com/books?sourceid=navclient&q=inertial+frame+newton+%22holds+good%22]. Later we can build towards alternative definitions and explanations in terms of homogeneity, isotropy, and time independency. [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 15:34, 13 January 2011 (UTC)
+
+::::Flying Bob, I overlooked your earlier posts, probably because I was adding to the discussion page at the same time. I think a statement about homogeneous time, etc., is good, but we need to approach it gently. Because of the format of Wikipedia articles, we often feel obliged to pack a complete, general definition into the first sentence. But that approach does not always lead to clarity. Maybe we should use a whole paragraph to define the concept. I think it would be best to start with the ''purpose'' of an inertial frame of reference, which is to make the laws of mechanics as simple as possible. Then say something about the law of inertia, and then make a statement about time and space. On the other hand, maybe we should just put a redirect to that Stanford article (Thank you, GianniG46), because I don't see how it could be expressed any better! [[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 15:41, 13 January 2011 (UTC)
+
+I might as well mention my worry about trying to define inertial frames with Newton's laws.  Let's look for example at the Stanford's suggestion: "The laws of Newtonian dynamics provide a simple definition: an inertial frame is a reference-frame with a time-scale, relative to which the motion of a body not subject to forces is always rectilinear and uniform, accelerations are always proportional to and in the direction of applied forces, and applied forces are always met with equal and opposite reactions."  Note their subtle way of trying to say 'no fictitious forces'.  This really is the problem with this method.  It requires us to agree ahead of time what the laws of physics are, as we are trying to define an inertial frame mainly by how forces act in this frame.  This is a bit backwards as usually Newton's second law F = dp/dt(which can be generalized with relativistic momentum to still be true in SR) is used to ''define'' forces, and then the "laws of physics" attempt to lay out what forces there are to match observed motions.  Even if we ignore this possibly circularity and these philosophical issues, note that magnetism already breaks that definition anyway.  It shouldn't be a surprise that electrodynamics, the same thing which ultimately broke Newton's reign, also breaks a definition relying on Newton.  Consider two moving charges. The forces felt due to each other's fields are not necessarily equal and opposite at every point in time (as hinted by Griffith's book, if they were, this 'action at a distance' would allow an absolute definition of simultaneity which is clearly not possible). So while it contains some good hints, that definition is wrong.
+
+Thinking about this more, and rereading the talk page for ideas, I like RockMagnetist's comment that "Maybe we should use a whole paragraph to define the concept" and the caution against trying to shove every detail of a general definition into the first sentence when we have a whole article to discuss it.  Also a previous editor suggested to possibly "note some major properties in the introduction (sort of like introducing, not defining, an apple by describing its properties), then in the very first part of the article be frank that it is difficult to define precisely. Then explain why with various example definitions and how they may subtly miss the point. Such a discussion can teach a lot (as reading the discussion here helped me understand a lot more). The article is already broken into sections of different properties, and the changes to the beginning just seem to keep trying to choose one and make it the defining property." I wish I had noticed that earlier. To me that really hit home.  In the article history the definition has been changed a lot over years, and many times the "flaw" was exactly that: people choosing one property and trying to define it by that property. So maybe we should take the Stanford encyclopedia's approach and give some properties of an inertial frame, but also comment in the beginning that trying to understand this seemingly simple concept in more detail/rigor led to much insight in 20th century physics. ''Then'' progressively define it better in the intro section.  This will require more editing to make it all fit together, but may be the only way to do it well.  Does this sound like a reasonable direction to proceed? [[User:FlyingBob|FlyingBob]] ([[User talk:FlyingBob|talk]]) 17:57, 13 January 2011 (UTC)
+
+:Sounds good to me. Keep in mind that there is some redundancy between this page and various others ([[Non-inertial frame of reference]], [[fictitious forces]]). [[User:RockMagnetist|RockMagnetist]] ([[User talk:RockMagnetist|talk]]) 21:51, 13 January 2011 (UTC)
+
+As I said above, I think the correct way to define Lorentz frames is in terms of light propagation.  Newton's laws don't really help, since you cannot really distinguish between "fictitious" forces (the kind that arise in non-inertial frames and "applied" forces (especially gravity).  In other words, how do you decide in practice what's an "applied force"?  Still, I don't like the way the definition is written now, and I do think a definition in terms of Newton's laws would be preferable to the one that's there now (which is both confusing and vague to the point of being simply incorrect). [[User:Waleswatcher|Waleswatcher]] ([[User talk:Waleswatcher|talk]]) 18:47, 14 January 2011 (UTC)
+
+:You can distinguish a fictitious force by saying that, in principle, a true force is a force that we can ascribe to one of the force types known by physics, nowadays gravitational, electro-weak, strong. 
+:In practice, it is sufficient to find just one body that we can assume to be free from true forces, to define an inertial frame solidal with it. In all frames in rectilinear uniform motion with respect to this one, all forces are to be considered true. --[[User:GianniG46|GianniG46]] ([[User talk:GianniG46|talk]]) 00:17, 15 January 2011 (UTC)
+
+::Your solution to distinguishing them is to just define every "real" force?  And the inertial frame is defined in terms of whether we can describe physics without other "fictitious" forces arising?  This is the most extreme version I've ever heard of that I was warning against earlier: instead of taking a coordinate system and then possibly measuring the evolution of a system (and hence the physics) using these coordinates, you are requiring all the physics to be laid out before we can even discuss what an inertial frame is... that I feel is severely inverting the situation.  Newton didn't need to wait until we understood the strong force to use inertial coordinates systems, nor will we need to re-conceptualize inertial frames if we need to add more interactions terms to the standard model later.  We should be able to describe the stage without needing to know so many details about the actors.
+::Regarding your second comment though, if you have an inertially moving body, one could use that to define an origin for your coordinate system.  But that is just one spatial point.  One worldline of coordinate labels isn't enough.  How do you use this to give position and time labels to all the other events in spacetime?  It is all those implicit details that you left out which are the heart of the issue here.  It does bring to mind another approach though.  We can ensure space is described uniformly etc. if we use Einstein's thought experiment of building a 3-D grid of standard rulers with clocks at each vertex.  And if clocks were synchronized by slow clock transport, this would give the correct idea for Newton's universal time, and even in Einstein's flat spacetime of SR.  For visual learners this might be an okay way to rephrase our current description of an inertial coordinate system.  But it is probably still confusing sounding, and possibly misleads people by making an analogy to a physical structure that isn't really there or needed. 
+::I tried to rewrite the opening paragraph to refer to properties of inertial frames instead of just outright defining it there, and I failed (didn't even bother saving it).  I'll try again later.  There's got to be a way we can describe an inertial frame without having to define it immediately, so that we can leave discussing all the details (and even how the concept evolved, as already discussed in the article) to the introduction and main body of the article. [[User:FlyingBob|FlyingBob]] ([[User talk:FlyingBob|talk]]) 17:23, 15 January 2011 (UTC)
+
+:Concerning the first point, a "fictitious" force is just a force that does not fit into the picture physics makes of the "true" forces. This is how physics works: I use what physics presently knows to explain experimental observation, and, if I see phenomena which are not explained, maybe I have to modify the principles. If I knew only gravitational and not-better-specified "contact" forces, and I saw that near a piece of amber the trajectories of objects are not inertial, I could try to attribute this to fictitious forces. If I don't succeed to do so, I am compelled to admit that there is another true force, non-contact and non-gravitational, which I call "electrical". Or, conversely, if I see that the forces I know cannot explain the precession of Mercury or the curvature of light paths, I can change entirely my conception of gravitation and inertia, and speak of geodetics of a curved space, rather than of a gravitational force.
+:For the second point, I meant just that, once I have found one inertial frame, it is easier to distinguish the forces, but (incorrectly) I addressed only the way to distinguish forces which affect the trajectory, neglecting rotations, so forget the second phrase. --[[User:GianniG46|GianniG46]] ([[User talk:GianniG46|talk]]) 08:04, 18 January 2011 (UTC)
+
+I'm afraid I disagree - you cannot define fictitious forces as those that cannot be attributed to gravity or other "true" forces, because gravity IS a fictitious force in every sense.  That's what Einstein's equivalence principle says, and it's what general relativity is about.   In fact for that reason in the real world there are no inertial frames.  There are only approximately inertial frames that describe small regions of spacetime.
+
+If we could somehow turn off gravity, the way to construct an inertial frame would be to use the procedure detailed in Einstein's 1905 paper, where you use light rays and synchronized clocks to build a coordinate system.  In practice that works pretty well in a human-scale lab on earth, since the curvature due to gravity is small.  [[User:Waleswatcher|Waleswatcher]] ([[User talk:Waleswatcher|talk]]) 23:44, 29 January 2011 (UTC)
+
+:On the contrary, I see that you agree with me in that defining a force to be "true" or not depends on the physic model we are referring to. In classical (and special relativiy) mechanics, gravity ''is'' a force, and in a free-falling reference frame we explain the apparent absence of gravity  by saying that there is a "fictitous" force, due to acceleration, which exactly balances (apart from tidal forces) the "true" force, gravity. In the same frame, but in general relativity, there are no gravity-related forces, neither the true, nor the fictitious ones. --[[User:GianniG46|GianniG46]] ([[User talk:GianniG46|talk]]) 15:44, 31 January 2011 (UTC)
+
+== Proposed revision ==
+
+In the following section I propose the following revisions (in italics): 
+
+"'''Special relativity'''. Einstein's theory of special relativity, like Newtonian mechanics, assumes the equivalence of all inertial reference frames, but makes an additional assumption, foreign to Newtonian mechanics, namely, that in free space light always is propagated with the speed of light c0, a defined value independent of its direction of propagation and its frequency, and also independent of the state of motion of the emitting body. This second assumption has been verified experimentally ''(i.e. is no longer an assumption but a confirmed observation--an empirical datum if you will)''and leads to counter-intuitive deductions including:
+
+--time dilation (moving clocks tick more slowly)
+--length contraction (moving objects are shortened in the direction of motion)
+--relativity of simultaneity (simultaneous events in one reference frame are not simultaneous in almost all frames moving relative to the first).
+
+These deductions are logical consequences of the stated assumptions ''and empirical data'', and are general properties of space-time, ''only in conjunction with additional (absolutist metaphysical) assumptions about the metaphysical nature of space, time, light-energy etc.''" 
+
+(As Henri Bergson tried to explain to Einstein in their famous ''Société française de Philosophie'' debate: Bergson, ''Ecrits et Paroles'', vol. 3, pp. 497; Bergson, ―''Discussion avec Einstein'', ''Mélanges'' Paris: ''Presses Universitaires de France'', 1972. I.e., the success of Special Relativity in no way depends on the truth of the three alleged "logical deductions." The article should not imply that it does.)[[Special:Contributions/74.66.14.94|74.66.14.94]] ([[User talk:74.66.14.94|talk]]) 08:53, 14 June 2011 (UTC)
+
+{{talkarchive}}

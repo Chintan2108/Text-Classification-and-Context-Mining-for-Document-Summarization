@@ -1,0 +1,670 @@
+{{Vital article|level=4|topic=Science|class=C|subpage=Physics}}
+{{talkheader}}
+{{Physics|class=c|importance=Top}}
+
+== Numbers in table are not consistent ==
+The numbers in the table of conversion of units are not consistently written: numbers are separated with commas, periods and spaces. For example it says 1 psi = 6,894.76 Pa and 1 at = 98 066.5
+
+==''P'' or ''p''==
+In physics there are some conventions (that are broken all the time).  Isn't it standard to denote pressure (or power) as P and momentum (or a proton) as p?  A standard should be set.
+[[User:Alejandr013|Alejandr013]] 21:08, 14 August 2006 (UTC)
+:I've seen some physics textbooks that use p for pressure, and some that use P. I don't think there's any widely followed convention.--[[User:75.83.140.254|75.83.140.254]] 01:59, 10 December 2006 (UTC)
+
+:It's small p definitely; big P is for power. Momentum, usually expressed as a vector is p (okay i dont know how to do the vector on here)... easily distinguishable from pressure. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/203.114.140.2|203.114.140.2]] ([[User talk:203.114.140.2|talk]]) 09:00, 16 May 2007 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+:I don't understand in Malaysia..we always use big P...Are you sure?[[User:Che090572|che]] ([[User talk:Che090572|talk]]) 14:00, 15 January 2008 (UTC)
+:* Yes.  p is used for pressure in every engineering textbook I have.  P used for power and also often used for a force. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 14:38, 15 January 2008 (UTC)
+
+The usage on the page is inconsistent. Then shouldn't it be pV=nRT? I've always seen P used for pressure in the ideal gas law. I know that P is phosphorus, but in every chem book I've ever seen, it seems that P is used for pressure, too. I think the page needs to be changed to "(symbol: 'p' or 'P')" in order to be correct. Any comments about this?[[User:Sushilover2000|Sushilover2000]] ([[User talk:Sushilover2000|talk]]) 15:13, 17 November 2008 (UTC)
+
+:Says the article "The upper case ''P'' is normally reserved for power." well (as noted above), the lower case ''p'' is normally reserved for momentum (sure it's a vector but often written as a scalar).  In chemistry & physics it's P.  If it's a dicipline-related thing then the "''p'' sometimes ''P''" bit currently on the page is rubbish. [[User:Jimp|J<small>IM</small>p]]<sub>&nbsp;[[User talk:Jimp|talk]]·[[Special:Contributions/Jimp|cont]]</sub> 14:03, 7 June 2009 (UTC)
+
+I'm in mechanical engineering specializing in fluids and I can say that I've seen no adherence to any convention between sources.  It's entirely context-driven, ie left to the discretion of the author to not confuse the reader.  To say that big P is reserved for power is simply wrong as I can pull a dozen sources on fluid mechanics in five minutes that directly contradict that.  I honestly don't know why so much fuss is being made over whether the p is capitalized or not anyway.  The p represents pressure when the author is talking about pressure, regardless of capitalization.  Though I do think the p sometimes P bit is wordy and unnecessary since stating the letter p is use for pressure seems sufficient.  
+In my experience there is very little convention for capitalization on many variables.  I've seen i and I for current, p and P for power, l and L for length.
+[[User:Iron Engineer|Iron_Engineer]] ([[User talk:Iron Engineer|talk]]) 18:08, 1 July 2009 (UTC)
+
+:This is in response to a series of [http://en.wikipedia.org/w/index.php?title=Pressure&action=historysubmit&diff=472337381&oldid=472084133 good-faith edits] by [[User:Kasamasa|Kasamasa]] in which some (but not all) capital ''P''s were changed to lower-case. I appreciate that the changes were made in good faith in an attempt to improve the article, but I'd like to revert them. I think [[User:Iron_Engineer|Iron_Engineer]] made a good point by saying that the use of a particular symbol is context-driven. The statement that was introduced: "The symbol of pressure is written with a small letter '''p'''" is not the whole truth. I can cite a handful of engineering and physics textbooks that use ''P'', and I'm sure others can find just as many sources that use the lower case. I do have a cosmology textbook by Liddle that uses lower case, but ''all'' the symbols he uses are lower case—it's just a style issue.
+
+:Given that it's context-driven, I think in the context of the definition section, pressure should be symbolized with a capital ''P'', because nearby symbols for ''physical quantities'' are also capital letters. I absolutely do not want to start another "gage-vs-gauge" debate. If it's really important that little ''p'' gets just as much love as big ''P'', I suggest adding a footnote as was done at the end of the "gage-vs-gauge" discussion. It can say something to the effect of "The usage of ''P'' vs ''p'' is context-driven. It depends on the field in which one is working, on the nearby presence of other symbols for quantities such as power and momentum, and on general writing style." Again, I value the contributions, and I'm not trying to be an ass, but I think in this case the text was slightly better before. Anyway, let me know what you think about the footnote idea. Regards. [[User:Braincricket|Braincricket]] ([[User talk:Braincricket|talk]]) 05:56, 21 January 2012 (UTC)
+
+I added a reference to the IUPAC standard (lower-case ''p''), and moved the footnote into the body of the text.  I first came to this article to figure out if pressure should be ''p'' or ''P'', so I expect some others will be looking for that information.  The lack of consensus, which was conveyed by the footnote, is worth including in the body of the article (I think).  [[User:ChristopherKingChemist|Christopher King]] ([[User talk:ChristopherKingChemist|talk]]) 13:30, 20 December 2015 (UTC) 
+
+==Pressure definition==
+I would say that pressure is the application of force upon a static [[body]]. Once the body moves, it is being [[push]]ed. In gravity-free and atmosphere-free space, no further pushing is required for the body to keep its [[inertia]]l motion.
+
+: Good point, but that's more of a dicdef than an encyclopaedia entry. [[User:Jnc|Noel]] [[User_talk:Jnc|(talk)]] 12:17, 6 Dec 2004 (UTC)
+
+:Actually, that's an inaccurate definition. Pressure is defined as the magnitude of the normal force per unit area, regardless of whether the boundary upon which it acts is static or dynamic. --[[user_talk:simian|Simian]], 2005-09-27,&nbsp;19:13&nbsp;Z
+
+:the proper definition is; pressure is the amount of force pushing on a certain area.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Yannydaman|Yannydaman]] ([[User talk:Yannydaman|talk]] • [[Special:Contributions/Yannydaman|contribs]]) 17:49, 10 June 2010 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+To send an electric [[signal]] through a push-button, as in an elevator, the button is pushed all the way until it causes some pressure for the electric contact, unless it has been designed to act as a [[switch]]. --[[User:Ghitis|Ghitis]] 15:49, 12 Aug 2004 
+
+I removed the words "component of the" from the pressure definition so the definition would be correct and would match credible physics books. Using the incorrect terminology "normal component of the force" means there's a nonnormal resultant force, which isn't the case in many pressure problems. There's no shearing force in nonviscous fluids nor static viscous fluids. In contrast, the wording "normal force" covers all cases and is the correct definition used in credible physics books. "Pressure is defined as the magnitude of the normal force per unit area." --[[user_talk:simian|Simian]], 2005-09-27,&nbsp;19:13&nbsp;Z
+
+:Pressure is not defined just for nonviscous fluids.  It doesn't have to be the case in "many" examples of pressure (though it in fact is); one case would be sufficient.  There is no reason why any "component" of the force cannot be zero, and there is no reason any component cannot be all of it.  The tangential component could easily be nonzero in that thumbtack example, couldn't it? [[User:Gene Nygaard|Gene Nygaard]] 04:08, 28 September 2005 (UTC)
+
+::Yes, since the thumbtack is a solid, it can resist shearing stresses. Nonetheless, the presence or absence of shearing force (for solids ''or'' viscous fluids) doesn't alter the definition of pressure. The definition in physics books applies equally to all cases (solids and fluids). --[[user_talk:simian|Simian]], 2005-09-28,&nbsp;05:05&nbsp;Z
+
+:::Sure.  That's what "normal force" means; the component of the force which is normal to the surface on which the pressure is being measured.
+
+:::But people who don't know that are going to have a damn hard time figuring it out from the links given here.  [[User:Gene Nygaard|Gene Nygaard]] 12:59, 28 September 2005 (UTC)
+
+::::A ''normal force'' is a force perpendicular to a surface, which is explained at the link. A ''component'' means ''part'', not the whole. In vector mechanics, ''component'' means two or more vectors whose vector sum equals a resultant vector. A so-called "component" equal to zero is nothing, and is therefore not referred to as part of a resultant force. And a force isn't called a component if it's not less than a resultant force. If a normal force is the only force applied, it isn't called a component of another force. Nonviscous fluids and static viscous fluids have no shearing forces, so the wording "normal component of the force" doesn't make sense for static fluids (because the only force ''is'' the normal force). The words "component of the" would apply only for solids and viscous fluids, but then only if shearing forces are present, thus making the definition nongeneral. In contrast, the wording "normal force" covers all cases (solids, viscous fluids, and nonviscous fluids) and is the correct definition used in credible physics books. "Pressure is defined as the magnitude of the normal force per unit area." --[[user_talk:simian|Simian]], 2005-09-28,&nbsp;23:09&nbsp;Z
+
+:::::Good grief.  Pay attention to the world around you.
+:::::http://www.ee.oulu.fi/~kapu/SCIApap.pdf In Fig. 1, the behaviour of the y-component is shown when the x-component equals zero. The horizontal axis represents the y-component, whereas the vertical axis represents the z-component. Now if a normal vector is rotated ..."
+:::::http://www.ae.gatech.edu/people/dhodges/courses/Rigid-BodyGAF.pdf "Note that the a1 component is a bit messy, but since the horizontal component of force is zero"
+:::::http://www.feec.vutbr.cz/EEICT/EEICT/2003/msbornik/04-Power_Electrical_Engineering/02-Mgr/03-xvalen03.pdf "The z component of force is zero"
+:::::http://www.public.iastate.edu/~jpete24/EM324/Lecture%2025.pdf "the Axial component of force is zero"
+:::::That is, of course, often the '''goal''' in ratation of coordinate systems; to get components that are equal to zero.  That terminology is used all the time. [[User:Gene Nygaard|Gene Nygaard]] 01:28, 29 September 2005 (UTC)
+
+Yes, the projection of a force onto a perpendicular axis is no force. Even though this is referred to as a component, it's not a force. Nonetheless, to say that a resultant force itself is a component of the resultant force itself, being only more confusing, wouldn't improve the article or definition at hand. That's why the wording "component of the" isn't included in the general definition of pressure in credible physics books. --[[user_talk:simian|Simian]], 2005-09-29,&nbsp;05:04&nbsp;Z
+i still dont get it
+
+*This discussion is pretty messy, but likely because the page needs some serious work.  The definition of pressure is confusing (wrong) for two reasons.  First, the presence of the word "effect" implies that pressure is present when there is an effect to be seen on a surface.  Secondly, the presence of a surface is only a mathematical construct - a pressure may be present even if there is no physical surface for it to act on.  It is then misleading to define pressure with regard to a surface unless the surface has sufficient definition of its own.  Rather, both problems would be remedied if the definition uses the statistical mechanical definition of pressure, which is the momentum flux through a given mathematical surface.  Additionally, the so-called pressure "formula" is just plain wrong, or at best, acceptable for high school physics.  Perhaps we should instead quote the thermodynamic definition, p=-dU/dV, with the caveat that this is true only in the case where there is no energy associated with a surface (i.e. a two dimensional structure like the surface of a bubble). [[User:Eedlund|Eedlund]] ([[User talk:Eedlund|talk]]) 23:57, 19 August 2009 (UTC)
+
+There is room for improvement here. I hope to get to making edits soon, but will put some thoughts here and try for some feedback first. Maybe one of you is better at this stuff than I am anyway. Here are some areas I hope to address:
+*Pressure is notionally, the normal force per unit area acting on a surface, but we can do better. The force per area definition is that of the ''mechanical'' pressure. The Cauchy stress is a (symmetric) tensor mapping spatial (co)-vectors (differential oriented areas) to spatial vectors (differential forces). Tensors can be decomposed into the sum of a spherical (isotropic) tensor, equal to a scalar times the identity, and a deviatoric (traceless) tensor. The scalar multiplying the identity tensor for the isotropic portion is the mechanical pressure, called the "total" pressure in the book. This is different from the equilibrium (thermodynamic) pressure. {{cite book |last1=Gurtin |first1=Morton |last2=Fried |first2=Eliot |last3=Anand |first3=Lallit |title=The Mechanics and Thermodynamics of Continua |year=2010 |publisher=Cambridge University Press}}
+*Stokes' hypothesis for the second (bulk or dilitational) viscosity is a statement that the thermodynamic and mechanical pressure should coincide, which is the case when <math>\lambda = -\frac{2}{3} \mu</math>.
+*Pressure as a Lagrange multiplier on the incompressiblity constraint for incompressible fluids
+*As a side note, thinking about these things in terms of tensors and surface tractions can help make sense of boundary conditions at things like fluid-solid interfaces.
+*The "Formula" section contains extraneous and inaccurate stuff, such as the hydrostatic pressure relation.
+[[User:Seanmichaelmcintyre|Seanmichaelmcintyre]] ([[User talk:Seanmichaelmcintyre|talk]]) 19:05, 25 April 2013 (UTC)
+
+==Formula==
+
+Something's wierd about that formula. A vector divided by a scalar is still a vector. So the formular does indeed give a vector. (And it should also be expressed as a limit as A goes to 0, too. That avoids the problem where A is not flat, and so potentially the total resultant F on A is less than the fluid pressure times A.)
+
+I think the problem is that we need to distinguish between the pressure exerted on the wall of a container, which is indeed a force (i.e. a vector, the limit of F/A), and the pressure ''inside'' the fluid, which is a scalar. They have the same ''numeric'' value (not to mention units), which is what is sometimes confusing, but are physically separate concepts. [[User:Jnc|Noel]] [[User_talk:Jnc|(talk)]] 12:17, 6 Dec 2004 (UTC)
+
+Oh, the right way to define the scalar pressure (at least for gasses, liquids are of course different) is to talk about it as a combination of the density of the gas (i.e. number of molecules per unit volume) together with its temperature (which is effectively a measure of the velocity of those particles), and bring in the gas laws. [[User:Jnc|Noel]] [[User_talk:Jnc|(talk)]] 12:25, 6 Dec 2004 (UTC)
+
+: OK, fair warning - if someone doesn't like this, say so, because "shortly" I will edit the article to reflect these ideas. [[User:Jnc|Noel]] [[User_talk:Jnc|(talk)]] 00:30, 16 Dec 2004 (UTC)
+
+:Noel:&nbsp; Pressure (the magnitude of the normal force per unit area) is defined as a scalar, regardless of whether it's applied to a solid or fluid boundary, so these aren't physically separate concepts, as you speculated. I notice, after your above comments, it appears you never edited the article. --[[user_talk:simian|Simian]], 2005-09-27,&nbsp;19:13&nbsp;Z
+
+:Pressure is a scalar. You can think of the definition as being F=AP, where A is the [[Vector area]].--[[User:75.83.140.254|75.83.140.254]] 02:01, 10 December 2006 (UTC)
+
+:The definition should include differentials, to account for curved surfaces. Young and Freedman, (University Physics, 11th Ed. Pearson 2004.) offer the following definition: p = dF/dA, where p is pressure, dA is an infintesimal piece of the area of the surface, dF is a infintesimal part of the ''magnitude'' of the force normal to the surface. For force uniform over the area, the definition becomes p = F/A where F is the ''magnitude'' of the force normal to the surface.[[User:Leonhard Euler|Leonhard Euler]] 08:56, 11 December 2006 (UTC)
+
+:Sorry all, but I think there is a grave misconception about pressure here.  Pressure is a tensor, which is both different from a scalar and a vector.  Physically, pressure describes momentum flux.  For more information, I suggest you read another wiki page which has considered this subject well, see for example the wiki entry on the "stress-energy tensor". [[User:Eedlund|Eedlund]] ([[User talk:Eedlund|talk]]) 00:24, 20 August 2009 (UTC)
+
+::In fact, pressure is a '''scalar''', defined as the scalar part of the stress tensor (one third of its trace). It should be defined through
+
+::<math>\mathrm{d}\mathbf{F} = p\,\mathrm{d}\mathbf{A}</math>
+
+::The article should be corrected since pressure is '''never''' a vector. That would make Pascal's principle absurd: ¿How could a vector be transmitted to all points of a fluid? ¿Preserving its direction? That's incorrect. ¿Not preserving it? Then it's not transmitted. --[[User:Gonfer|Gonfer]] ([[User talk:Gonfer|talk]]) 09:15, 5 April 2010 (UTC)
+
+:::Not true! The prior statement argues that we should define pressure from Pascal's principle. But this is putting the cart before the wagon, so to speak, because Pascal's principle is a special case result derived from a far more general system of fluid equations in which pressure is a well-defined tensor quantity. It is true that for a large number of cases we typically encounter, pressure is adequately described by a single scalar function, but this is fundamentally different from saying that the definition of pressure in its most fundamental form is a scalar quantity. In these cases where one can think of the pressure as a scalar function, this is a simplification of the statement that the pressure (which is still a tensor quantity) can be represented as the product of a scalar function and the identity matrix. Given that the identity matrix never changes, this is equivalent to saying that the pressure in this case is defined by the scalar multiplier alone. Arguing for a particular definition of pressure based on a limited number of cases is tantamount to saying that since the most popular selling cars are Toyotas, we might as well make the word Toyota equivalent to car. What is needed in this discussion is a fundamental consideration of the origin of the quantity pressure from particle kinetics, not a high-school-textbook definition. In brief, pressure is a well-defined quantity even for fluid systems which are not in thermodynamic equilibrium, and hence a definition of pressure cannot be ''derived'' from Bernouilli's principle, or Pascal's principle or any other principle based on a special case analysis of the fluid equations. A well-studied physical example of this is a magnetized plasma (ionized gas, not blood plasma) where a difference in the effective collision cross-sections perpendicular and parallel to the magnetic field (which arises because of the different particle dynamics in these directions due to the effect of the magnetic field) can result in distinct perpendicular and parallel temperatures, and hence the pressure **cannot** be described by a scalar function. The definition of pressure should begin with the generalized kinetic theory definition of pressure and then by subsequent discussion illustrate the common and definitions and popular understanding. For further clarification of this point please review the discussion on the [[Vlasov equation]] (fluid moment equations) where pressure is defined as a covariant matrix.  --[[User:Eedlund|Eedlund]] ([[User talk:Eedlund|talk]]) 14:50, 2 February 2012 (UTC)
+
+Somebody has sabotaged the formula.[[Special:Contributions/68.149.173.141|68.149.173.141]] ([[User talk:68.149.173.141|talk]]) 02:24, 14 January 2010 (UTC)
+
+==Atmosphere==
+
+I removed the unqualified statement that use of the atm as a unit "should be avoided"; it's not a great unit for most scientific work, but there are times when it's a very good choice. For instance, in scuba diving it's quite a handy unit because it matches the usual baseline pressure, making it easy to calculate effects on gas volumes etc ('V2 = V1/P2' is simpler than 'V2 = V1*P1/P2'), and the "+10 metres = +1 atm" rule adds a simple relationship between depth and pressure. In this sort of application, precision is less important than simplicity of use. --[[User:Calair|Calair]] 01:09, 26 Dec 2004 (UTC)
+
+:The problem with the use of atmospheres as a unit of measure has nothing to do with precision, and only a little to do with ambiguity.  It has to do with the fact that these are not, and cannot be, units in the International System of units, and are unlikely to ever be listed as units acceptable for use with SI or temporarily acceptable for use with SI. 
+
+:For the approximation you discuss, the accuracy of the approximation is very much dependent upon factors such as whether this is sea water or salt water, and temperature.  For that purpose, 0.01 MPa/m, or 100 m = 1 MPa,  is just as good. 
+
+:: Some practical considerations about mental arithmetic: (1) The further the magnitude of your numbers is from 1, the more potential for error. (2) The more people have to work with fractions rather than whole numbers, the more potential for error. (3) The more operations you require someone to make, the more potential for error. (4) The more 'constants' that have to be remembered, the more potential for error.
+:: As a simple example, let's suppose somebody wants to figure out the proportional volume change of his BCD as he goes from the surface to a depth of 30m (useful for gauging what will happen to his buoyancy as he descends).
+:: Using atm/10 metre rule: depth = 30, 30/10 = 3 => pressure = 1+3=4 => proportional volume of BCD = 1/4. (I'm deliberately omitting units because that's how people generally conduct mental calculations, regardless of scientific correctness.) The only 'constant' that needs to be retrieved from memory is the 10 m/1 atm rule, and that only once.
+:: Under SI: depth = 30. Pressure = 0.01 x 30 (or alternately, 30/100; either way, we have to retrieve a constant from memory at this point) = 0.3, plus atmospheric pressure 0.1 (retrieve a second constant from memory) = 0.4, so proportional volume = 0.1 (retrieve second constant again)/0.4 = 1/4.
+:: Compare those two calculations. At every step of the way, the second is more prone to error. 30/10 is easier than 30/100 or 0.01 x 30; 1+3 is easier than 0.1 + 0.3; 1/4 is easier than 0.1/0.4. The first calculation only requires one 'constant' to be retrieved, once; the second requires two to be retrieved, one of them twice. 
+:: For a scientist working at the surface with a calculator, SI is wonderful. It's rigorously defined, it's 'scientifically correct', etc etc. As a professional scientist, I insist on working in SI and the many who don't are a source of perpetual annoyance to me. But when we're talking about non-professionals performing mental calculations in an unfamiliar environment, while undergoing physical exertion and quite possibly 'drunk' from nitrogen narcosis, the simpler method is to be favoured - even if it makes it harder for them to tell a scientist what they've done when they get home. --[[User:Calair|Calair]] 00:25, 28 Dec 2004 (UTC)
+
+:"Should be avoided" was a pretty mild way of putting it.  Maybe I should come up with some stronger language before I reinstate it. [[User:Gene Nygaard|Gene Nygaard]] 04:55, 27 Dec 2004 (UTC)
+
+So what? Not everyone is a scientist. As long as there are significant communities of people for whom "atmosphere" is a useful, much-used, and well-understood unit, it's POV to call it "should be avoided". [[User:Jnc|Noel]] [[User_talk:Jnc|(talk)]] 16:58, 27 Dec 2004 (UTC)
+
+:My wording could probably be cleaned up, but making clear what the standards-setters say does not violate NPOV.  If it did, the mere classification into "SI units" and "other units" would also violate NPOV.
+
+::I would have absolutely no objection to noting that it's non-SI and so should be avoided in scientific use. But that objection applies equally to all units in the non-SI section; as such it should be stated at the beginning of the section, clearly applying to all, rather than as a note attached only to atm. As it was, that proscription was not stated with a context of "in scientific use", making it unjustifiably broad. --[[User:Calair|Calair]] 00:25, 28 Dec 2004 (UTC)
+
+:I notice also your failure to maintain the same laissez-faire attitude towards grams force. Or maybe that was just an oversight on your part? [[User:Gene Nygaard|Gene Nygaard]] 17:25, 27 Dec 2004 (UTC)
+
+:: I think you've misread my [http://en.wikipedia.org/w/index.php?title=Pressure&diff=8472174&oldid=8472151 | edit] there. As much as I loathe grams-force and such units, they are at least a legitimate unit of force and thus grams-force per cm^2 are a legitimate unit of pressure. The edit referred specifically to ''grams'' per cm^2 - not grams-force - and this usage is downright <i>wrong</i>. Not because it's not SI, but because it's not even dimensionally correct; grams and grams-force are not the same thing. --[[User:Calair|Calair]] 00:25, 28 Dec 2004 (UTC)
+
+If you want to say that it's not an SI unit, and use of atmosphere in scientific settings is therefore non desirable (I see it used in engineering stuff all the time, e.g. NASA spacecraft documentation), I have no problem with that.
+As to the "grams force", I have no idea what you're talking about. Are you confusing me with someone else? [[User:Jnc|Noel]] [[User_talk:Jnc|(talk)]] 17:46, 27 Dec 2004 (UTC)
+
+:I mainly want to distinguish two different uses:  a standard atmosphere as a constant, which is acceptable for use with SI, versus a standard atmosphere as a unit of measure, which is not.  Perhaps the "standard model of the atmosphere" (not sure if that's the best name for this more involved concept) needs to be distinguished as well?
+
+:Yes, it was [[User:Calair|Calair]], not you, who took out my comment about atmospheres being unacceptable, while not making a similar change to my comments about the 'g cm<sup>-2</sup>' units (often seen as "kg/cm²" pressure gauges) no longer being acceptable. 
+
+:Curiously, the same [[User:Calair|Calair]] who took out my incorrect usage comment was the same one who inserted language about 'g·cm²', saying that "this usage is incorrect and should be avoided."  After I clarified this, Calair left my statement untouched:  "those formerly acceptable grams force are not a part of the modern SI and should be avoided."  That was, however, a more detailed explanation than my statement about the use of the atmosphere as a unit of measure, so I concur in the need to revise my statement in that regard. [[User:Gene Nygaard|Gene Nygaard]] 18:11, 27 Dec 2004 (UTC)
+
+:: I left it untouched because it's a busy time of year and I got distracted. Your statement does need to be clarified, because the problem with "g/cm^2" is not that "grams-force" aren't SI but that "grams" are not "grams-force"; the second half is correct but non-sequitur.
+:: My two edits are better seen as unrelated. The point of the 'atm' one was that although atms are not a SI unit of pressure, there are occasions when non-SI units are appropriate. The point of the other was that "g/cm^2" are not a legitimate unit for pressure at all, because "g" is not a unit of force. I would not have made the same objection to "grams-force/cm^2"; I don't like those units at all, but at least they're not outright *wrong*. --[[User:Calair|Calair]] 00:25, 28 Dec 2004 (UTC)
+
+:::That argument applies equally to pounds-force, tons-force, and the like.  Make the same point about them, if you make it about grams-force (note that you specifically disclaimed the fact that grams-force are not SI as a reason for objection, so there is absolutely no other difference involved here).  [[User:Gene Nygaard|Gene Nygaard]] 06:52, 17 Jan 2005 (UTC)
+
+:::: Actually, there is a difference - claiming that "pounds are not a unit of force" is vastly more likely to trigger time-wasting arguments than making the same claim about grams. Further, since I have much more use for and interest in metric units than pounds & derivatives, I'm not the person to correct the latter. If somebody else wants to do it, great; in the meantime, better to correct some of the article than none of it.--[[User:Calair|Calair]] 12:06, 18 Jan 2005 (UTC)
+
+
+==Stagnation pressure==
+
+: ''Stagnation pressure''' is the pressure a fluid exerts when it is motionless... although a fluid moving at higher speed will have a lower '''static pressure''', it may have a higher stagnation pressure
+
+Talking about the stagnation pressure of a moving fluid is very confusing when we've just defined that as the pressure it exerts when it is motionless - is it possible to clarify the definition a bit here? --[[User:Calair|Calair]] 22:49, 12 Mar 2005 (UTC)
+
+
+==Problems with example==
+
+''A tow truck can exert a vast force in pulling a car without causing damage. However, a baseball bat directed against a certain part of car is likely to damage the car. That is because the focus of the bat exerts more pressure on that specific part of the car.''
+
+I don't think this is a good example. For starters, the wording implies (although doesn't actually state) that the towing force is greater than that inflicted by the bat. Some very rough calculations:
+
+[[Baseball bat]]: ~ 1 kg.
+Speed of swung bat: ~ 50 mph ~ 20 m/s (using figures for an untrained 12yo with a smaller bat [http://www.batspeed.com/messageboard/6515.html])
+Stopping distance: say, 0.02m (~1-inch dent.)
+
+Assuming force during impact is proportional to indentation (i.e. y'' = -ky, y being indentation distance): from initial impact to stopping, y = a sin(bt) for some a & b, t being time from initial impact.
+At stopping point, y' = 0, so a = 0.02m.
+y' = ab cos(bt) = 0.02m*b*cos(bt)
+At t=0, y'=20 m/s & cos(bt)=1
+so b = (20 m/s)/0.02m = 1000/s.
+y''=-0.02m*b<sup>2</sup>*sin(bt)
+At stopping point, sin(bt)=1 therefore y''=-0.02m*(1000/s)<sup>2</sup> = -20000 m/s<sup>2</sup>
+so peak impact force ~ 20000 m/s<sup>2</sup> * 1 kg = 20000 N.
+
+Mass of ''big'' car: ~ 3000 kg.
+Jeep Grand Cherokee, towing ~3000 kg load: 0 to 30 mph (~ 13 m/s) in 6.4 sec [http://www.trailerboats.com/site_page_1483/article_page_306.cfm] (I couldn't find stats for tow truck acceleration, but I doubt they're much faster.)
+so mean acceleration ~ 2 m/s<sup>2</sup>
+so mean towing force during acceleration ~ 6000 N. (Peak forces will be somewhat higher, since acceleration isn't constant throughout takeoff.)
+
+Getting past that, this is still comparing apples to oranges. If you're trying to dent somebody's car with a baseball bat, you're going for panels and the like; the towbar is rather more solidly built. Further, denting a panel is about bending, while towing is mostly straight compression/tension. If we want to show people the effects of a difference in pressure, we really need to apply both pressures to the same target in the same sort of way. 
+
+The classic examples I always heard were "elephant standing on floor vs. person in stiletto heels on same floor" and "thumb pressing on corkboard vs point of thumbtack pressing on corkboard" - I think either of these would be preferable. --[[User:Calair|Calair]] 01:57, 13 Apr 2005 (UTC)
+
+== Admin advice requested. Continual reversions - no discussions ==
+
+Im having trouble with an unregisterd user continually reverting with no discussions,. Using a variey of URLs. Any Admin advice please?--[[User:Light current|Light current]] 15:04, 20 October 2005 (UTC)
+
+# (cur) (last)  15:51, 20 October 2005 139.169.2.162 (rv edits by Light current to last version by 67.50.187.18)
+# (cur) (last) 15:30, 20 October 2005 Light current (reinstate improvement)
+# (cur) (last) 07:00, 19 October 2005 67.50.187.18 (rv edits by Light current, changes don't make sense and degrade article)
+# (cur) (last) 06:29, 19 October 2005 Light current (rvv)
+# (cur) (last) 05:08, 19 October 2005 67.50.186.118 (rv all changes by Light current to last version by Simian except for one new heading)
+# (cur) (last) 04:22, 19 October 2005 Light current (→Hydrostatic pressure - mass not weigth)
+# (cur) (last) 04:20, 19 October 2005 Light current (explain g)
+# (cur) (last) 04:11, 19 October 2005 Light current (→Hydrostatic pressure - put g back)
+# (cur) (last) 03:59, 19 October 2005 Light current (→Hydrostatic pressure - pressure = depth* density)
+# (cur) (last) 03:57, 19 October 2005 Light current (→Scalar quantities - rm xs hdg)
+# (cur) (last) 03:54, 19 October 2005 Light current (reordered paras+hdgs)
+
+:I'm no admin, but lack of discussion is a two-way street.  I notice this is your first posting on this talk page, and even now you offer no explanation of your extensive rewriting of the page.  Let's start with the basics, okay?  What are you trying to accomplish? 
+:Ever hear of the "[[unclean hands|clean-hands doctrine]]"? [[User:Gene Nygaard|Gene Nygaard]] 15:26, 20 October 2005 (UTC)
+
+I thought it obvious. Im trying to establish a clean, ordered, easy to read, professoinal, accurate looking page like they all should be OK?--[[User:Light current|Light current]] 15:51, 20 October 2005 (UTC)
+
+Also youll notice thyat nothing has been done since the start of this month on the page- I though it was time for some fresh eye to look it over. Call me a new broom if you like!--[[User:Light current|Light current]] 15:57, 20 October 2005 (UTC)
+
+THis person maybe a sock of someone who has a particular grudge against me.--[[User:Light current|Light current]] 16:12, 20 October 2005 (UTC)
+
+:Why'd you duplicate the p = f/A equation and surrounding text?  [[User:Pfalstad|Pfalstad]] 20:47, 20 October 2005 (UTC)
+
+Because I kept getting reverted when I did more major change. I will be removed when the reversion problem is resolved--[[User:Light current|Light current]] 21:54, 20 October 2005 (UTC)
+
+:I may have missed something in the change history, but I don't see anything very sweeping in [[User:Light current|Light current]]'s changes. AFAICT most of them are minor structural changes without actually adding or deleting much material at all. For major changes, sure, it's courteous to discuss them in advance. But for little tweaks like this, there's no need for the editor to start defending them until somebody else raises an objection. Otherwise we'd spend half our time justifying what we're about to do instead of ''doing'' it.
+
+:Overall, I think the changes are a slight improvement to the structure, and I don't see any justification for auto reverts without discussion. --[[User:Calair|Calair]] 23:56, 20 October 2005 (UTC)
+
+==Unit of Pressure: WC and ksca==
+
+The unit of pressure WC needs to be added to the list of units. This is commonly used to measure natural gas line pressure.
+
+27.68" water column = 1 PSI
+
+[[User:LexieM|LexieM]] 21:53, 30 January 2006 (UTC)
+
+: 'Inches of water' are listed in the Units section (under 'manometric', near the end). I think this is the same thing, but I've noted the abbreviation in the discussion of manometric pressure. Apologies for the multiple edits, kept getting things wrong today. --[[User:Calair|Calair]] 23:11, 30 January 2006 (UTC)
+
+Hey what about 'ksca'? The unit 'kilogram per square centimeter absolute' is used sometimes too. I had a hell lot of trouble finding it's expansion as its more usual form kg/cm2 is so common and I could not immediately make the connection (though I was trying to see if anything fits in as with 'psi' and 'pounds per square inch', so very dumb of me!).
+[[User:Elncid|Elncid]] ([[User talk:Elncid|talk]]) 11:21, 16 January 2008 (UTC)
+
+==Appropriate precision for g==
+
+As per discussion at [[Acceleration due to gravity|gee]], the difference in centripetal effects between equator & poles causes a variation of about 0.034m/s<sup>2</sup> in perceived gravity over the Earth's surface at sea level; the effects of the equatorial bulge bring this up to about 0.052 m/s^2, so we should not be offering two decimal places of precision. When one adds in non-sea-level terrain, even "9.8 m/s<sup>2</sup>" starts to look like excessive precision. --[[User:Calair|Calair]] 22:57, 31 January 2006 (UTC)
+
+:It is also 9.8 m/s² atop Mount Chimborazo, the highest mountain on Earth in both ways relevant here, and 9.8 m/s² at the Dead Sea, so your "at sea level" is exactly the same kind of excessive precision, just in words rather than in numbers. [[User:Gene Nygaard|Gene Nygaard]] 02:50, 1 February 2006 (UTC)
+
+::I agree with your revert, based on those numbers, but stipulating "at sea level" most certainly is ''not'' 'excessive precision'. In fact, it's the ''opposite'' of excessive precision - it's an unnecessarily weak statement (but a true one everywhere in the world), whereas the "9.81 m/s²" statement was an unjustifiably strong one that is false in some parts of the world. --[[User:Calair|Calair]] 03:47, 1 February 2006 (UTC)
+
+== 5.	Why is it possible to lie on a bed of nails and not be pierced? ==
+
+asap ..
+The only thing to manage is to lie on the bed such that the pressure on all the nails is equal. In each and every surface there are some irregularities that interlock , thus a type of surface is formed by the nails.--[[Special:Contributions/115.240.129.38|115.240.129.38]] ([[User talk:115.240.129.38|talk]]) 16:21, 6 September 2009 (UTC)
+
+== Pascals to psi ==
+
+That 10^-6 should be 10^-4.
+
+: No, the value given is correct (at least to the order of magnitude, I haven't checked past the first sig fig); note that it's 145 x 10^-6, not 1.45 x 10^-6. The table is using [[engineering notation]], which keeps exponents to multiples of 3. I'm not very fond of engineering notation myself, but it's not actually wrong. --[[User:Calair|Calair]] 02:33, 24 May 2006 (UTC)
+
+Hi!
+I found that in units table there is like:
+1 psi =	6,894.76 Pa
+maybe it should be like this:
+1 psi =	6 894.76 Pa
+?
+
+:I'm guessing from your IP that you're from Estonia? Different countries have different formats for writing out numbers. In the USA and Australia (and I think the UK too), when writing a large number (say, sixty-five million, eight hundred and forty-three thousand, two hundred and five, and seventeen hundredths), it's normal to write it with commas separating the thousands, millions, etc: "65,843,205.17". In some countries - [http://www.microsoft.com/globaldev/getwr/steps/wrg_nmbr.mspx this article] tells me Sweden is one of them, and it looks as if Estonia is too - spaces are used instead of commas, so the same number would be written "65 843 205.17". And in yet others, e.g. Germany, periods are used as thousands separators and a comma for the decimal place: "65.843.205,17" (which can be very confusing if you get a number like "13,205" or "13.205" and don't know which convention is used). 
+
+:AFAIK, the first format is most common in the English-speaking world so it's probably the best choice for an English-language article. From a technical viewpoint, it also has the advantage that using a comma keeps the number as a single 'word' that isn't at risk of being broken up by computer formatting - you're not likely to end up with the '6' at the end of one line and the '894.76' somewhere else on the page. --[[User:Calair|Calair]] 02:19, 18 October 2006 (UTC)
+mga tae kc ung pressure n nagsamasama upang makbuo ng isang boung malikng pressure  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/203.111.234.59|203.111.234.59]] ([[User talk:203.111.234.59|talk]]) 09:50, 16 January 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+=="Gage" v.s. "Gauge" Pressure (Spelling)==
+Instruments that measure pressure are called "gauges." Measuring pressure with respect to atmospheric pressure is "gage pressure". There are plenty of examples where Americans incorrectly spell it "gauge pressure" and where some British users spell it "gauge pressure." <u>However, ''by far'' the most important criteria is how the ''pressure measuring industry'' spells it.</u> These are the people who make pressure transducers and other instruments. '''''All''''' the biggest and most dominant manufacturers spell it "gage pressure" and doing otherwise is simply incorrect. Here's a list of some notable industry insiders (and links to a Web page with the proper usage):
+
+:* [http://www.omega.com/pptst/PX303.html Omega Engineering] (a huge reseller)<br>
+:* [http://www.sensotec.com/pressurefaq.shtml Honeywell-Sensotec-SenSym]<br>
+:* [http://www.ucapps.de/midibox_ext.html Thorsten Klose] (a German-based seller with an English-language Web site)<br>
+:* [http://www.repcomsrl.com/focus.asp Repcon] (an Italy-based seller with an '''''Italian-language''''' Web site)<br>
+:* [http://www.davis.com/showpage.asp?L3ID=2431 Davis Instruments] (a seller)<br>
+:* [http://us.fluke.com/usen/products/category.htm?category=PVM(FlukeProducts)&parent=ACC(FlukeProducts) Fluke Corporation]<br>
+
+I've got sixty linear feet of engineering catalogs (all indexed on Roledex cards) and probably one-and-a-half feet of it are dedicated to pressure sensors, gauges, and transducers. All of them use the term "gage pressure." I'm sure someone can always find Web sites (where everyone can look like an expert) that spell it "gauge" pressure (I'll bet that automotive-related, grease-monkey sites are rife with the error) but that is ''not'' the spelling the '''''vast''''' bulk of the pressure measuring industry (the experts) uses. Just the weight of such colossal companies as Omega Engineering and Honeywell-Sensotec-SenSym alone (both of which use "gage pressure") should be enough critical mass on this issue of spelling to settle the issue right there. Spelling it "gauge pressure" is simply a weird, incorrect spelling and Wikipedia shouldn't be leading people astray with it.   [[User:Greg L|Greg L]] 06:42, 5 December 2006 (UTC)
+
+: Careful of [[confirmation bias]] there. Most of the same manufacturers you cite - including the two 'critical mass' ones ''also'' make frequent use of 'gauge pressure': Omega Engineering[http://www.omega.com/literature/transactions/volume3/pressure.html][http://www.omega.com/ppt/pptsc.asp?ref=DPI705&Nav=l01][http://www.google.com.au/search?as_q=&hl=en&num=10&btnG=Google+Search&as_epq=gauge+pressure&as_oq=&as_eq=&lr=&as_ft=i&as_filetype=&as_qdr=all&as_occt=any&as_dt=i&as_sitesearch=www.omega.com&as_rights=&safe=images], Honeywell-Sensotec-SenSym[http://content.honeywell.com/imc/fi/Pressure/][http://www.sensotec.com/pressure.asp][http://www.sensotec.com/techdef.asp][http://www.google.com.au/search?hl=en&as_qdr=all&q=+%22gauge+pressure%22+site%3Awww.sensotec.com&btnG=Search&meta=], Sensata[http://www.sensata.com/products/automotive.htm][http://www.sensata.com/products/sensors/ipt-3pp8.htm][http://www.sensata.com/products/sensors/], Davis[http://www.davis.com/showl5.asp?L5ID=13&L4ID=55][http://www.davis.com/showl5.asp?L5ID=21&L4ID=80][http://www.google.com.au/search?hl=en&as_qdr=all&q=+%22gauge+pressure%22+site%3Awww.davis.com&btnG=Search&meta=]  
+
+: As for the Thorsten Klose site, the only usage I can find for 'gage pressure' there seems to be a submission sent in by a user rather than the company's own material; in any case, the surrounding material is obviously not a shining example of good English usage. ("More advanced sample programming let's you control also the filter and so, the more you blow, the more higher frequency you add, just like in real life. If you search on web about resources and tips about BC, you'll learn in how many different way you can use it...")
+
+: Given that Omega and Honeywell-Sensotec-SenSym are indeed colossal companies in this field, their frequent usage of 'gauge pressure' should be enough to indicate that it ''is'' an accepted spelling in the industry. As per [[Wikipedia:Manual_of_Style#Disputes_over_style_issues]], in situations like this the version originally used in the article should be kept. --[[User:Calair|Calair]] 07:44, 5 December 2006 (UTC)
+
+::The use of "gauge pressure" seems to be a byproduct of less rigorous proof-checking by Web masters. You won't find "gauge pressure" in any of the above companies big-book catalogs. And if you look at the companies' more time-tested Web pages such as Honeywell's [http://www.sensotec.com/pressurefaq.shtml FAQ] page, you will get the proper spelling. Also, if you go to the Fluke product search site, "[http://us.fluke.com/usen/Home/Search.asp?txtSearchBox=%22gauge+pressure%22&x=11&y=11 gauge pressure]" returns nothing and, of course, "[http://us.fluke.com/usen/Home/Search.asp?txtSearchBox=%22gage+pressure%22&x=0&y=0 gage pressure]" gives results for all their gage pressure products. One can Google on "gauge pressure" and get lots of hits because it is one of the most common misspellings in English. The really sad part is if you Google on "gauge pressure" + "definition," some of the hits are robot sites that ''simply parrot this article.''  You can walk into any automotive supply store and if you ask what the "g" in psig means, some "Mr. Goodwrench"-looking manager will verbally say it stands for "gauge". The average fellow will assume the word is spelled like "pressure gauge." It's a  phenomenon much like the pronunciation of "giga" (as in gigawatts or gigabytes). Originally (before the 1990s), it took its pronunciation from its root meaning and sounded like "gigantic." Once the average Joe read it over and over in computer magazines but never ''heard'' the word in use, they assume it's pronounced with a hard "G."
+
+::As with "giga," one ''could'' argue that improper usage makes it acceptable. But in this mater, you can't  hid behind the apron strings of ''"[[Wikipedia:Manual_of_Style#Disputes_over_style_issues|Style issues]]."'' That's tantamount to saying "it was originally incomplete information and Wikipedia's policy as disclosed in their Manual of Style says it can remain as originally written." Nice try; but you know better. Making a flat declaration in Wikipedia that it is spelled "gauge pressure" (period) is intellectually dishonest and isn't stating the whole truth. It is also impermissible to diminish the truth about the "gage" spelling by mentioning it only parenthetically like "(oh, it's also sometimes spelled 'gage pressure)"; this too is being dishonest with the facts. At the very least, the reader must know the true facts about the spelling and how the pressure measuring industry often uses "gage pressure." [[User:Greg L|Greg L]] 19:37, 5 December 2006 (UTC)
+
+:::Please familiarise yourself with [[WP:AGF]] before making accusations of 'intellectual dishonesty'; that sort of talk is not productive. I picked the Honeywell and Omega sites because I thought we both viewed these as credible sources, but if they aren't satisfactory I can offer more - none of them Wikipedia mirror sites or auto mechanics.
+
+:::(Note that a few of the hits on 'gauge pressure' listed below are from outside the usage we're discussing - things like 'wave gauge, pressure type' or 'strain gauge pressure transducer'. I haven't checked every last hit, but I've looked through enough to satisfy myself that these false hits aren't numerous enough to make much difference.)
+
+:::Sites that consistently use 'gauge pressure', as far as I can determine: [[Eric W. Weisstein|Eric Weisstein]]'s ScienceWorld[http://www.google.com.au/search?hl=en&as_qdr=all&q=%2B%22gauge+pressure%22+site%3Ascienceworld.wolfram.com&btnG=Search&meta=], the UK's National Physical Laboratory[http://www.google.com.au/search?hl=en&as_qdr=all&q=%2B%22gauge+pressure%22+site%3Awww.npl.co.uk&btnG=Search&meta=] (including the UK's [http://www.npl.co.uk/pressure/faqs/modes.html National Pressure Standards]), ''Science'' magazine[http://intl.sciencemag.org/cgi/content/full/284/5416/943?ck=nck][http://intl.sciencemag.org/cgi/reprint/284/5416/943.pdf?ck=nck] (subscription required) and Encarta[http://encarta.msn.com/encyclopedia_761563312/Pressure.html]. [[IUPAC]]'s [http://www.iupac.org/reports/1990/6211calvert/glossary.html 'Glossary of Atmospheric Chemistry Terms] also uses 'gauge pressure'. 
+
+:::Reputable sources that use both (and I stopped for reasons of time and space, not because I ran out of examples - more available on request) include the US Army Corps of Engineers ([http://www.google.com.au/search?q=+%22gauge+pressure+%22+site:www.usace.army.mil&hl=en&lr=&as_qdr=all&start=20&sa=N 18 hits] for 'gauge pressure' vs [http://www.google.com.au/search?q=+%22gage+pressure+%22+site:www.usace.army.mil&hl=en&lr=&as_qdr=all&start=10&sa=N 13 hits] for 'gage pressure'), the [[NOAA]] ([http://www.google.com.au/search?q=%2B%22gauge+pressure%22+site:noaa.gov&hl=en&lr=&as_qdr=all&start=30&sa=N 39 'gauge pressure'] vs [8 'gage pressure']), publications of the American Chemical Society ([http://www.google.com.au/search?q=%2B%22gauge+pressure%22+site:pubs.acs.org&hl=en&lr=&as_qdr=all&start=100&sa=N 103 'gauge'] vs [http://www.google.com.au/search?q=%2B%22gage+pressure%22+site:pubs.acs.org&hl=en&lr=&as_qdr=all&start=170&sa=N 169 'gage'], and in particular the American Physical Society ([http://www.google.com.au/search?q=%2B%22gauge+pressure%22+site:link.aps.org&hl=en&lr=&as_qdr=all&start=120&sa=N 123 'gauge pressure'] vs only [http://www.google.com.au/search?hl=en&as_qdr=all&q=%2B%22gage+pressure%22+site%3Alink.aps.org&btnG=Search&meta= 4 'gage pressure'] within link.aps.org). The APS is the world's largest English-language physical society, and frequent use in peer-reviewed APS publications should in itself be enough to confirm that 'gauge pressure' is an established usage, particularly when backed up by other reputable scientific organisations such as the ACS and NPL. 
+
+:::Still, if it'd be acceptable to you, I'd be happy to go for a [[Wikipedia:Third opinion|third opinion]]. --[[User:Calair|Calair]] 00:37, 6 December 2006 (UTC)
+
+::::I have both a 1998 and a 2006 Thomas Register (the multi-volume resource for buying). The 2006 will be the last print version ever. I checked in both and indeed, there are some companies that advertise "gauge pressure." '''''By far''''' however, most use "gage pressure" and this is observation is also borne out by the Web sites I referenced earlier. My old catalog set goes back decades and companies like Sensotec and SenSym (I specified both of their products earlier in my engineering career) were ultimately bought up by Honeywell. All those catalogs always used "gage pressure."
+
+::::Nowadays, the easiest way to buy small amounts of pressure transducers is through Omega Engineering. They're the "Sears Roebuck" of engineering supply. And if you look in their indexes of their hard-cover catalogs, the spelling is always "gage pressure." Now I can see—as you've found out—that on the Web, "gauge pressure" sneaked into some their individual Web pages featuring a specific product of someone's. Honeywell and Fluke are more consistent. The translation to the Web introduces a whole new opportunity for error. Entire Web pages are now reviewed and approved by clerical-types in the manufacturer's front office. But when expensive catalogs are published, the proof-checking is more thorough and drafts are typically reviewed by Engineering. Fluke is a classy organization and their Web sites should be applauded for having no (or nearly none) goofs. As I stated above, Honeywell's FAQ sheet consistently spells it "gage pressure" and Fluke's entire Web site does too. These two are the dominate players in the industry.
+
+::::There is a real, practical advantage for "gage pressure" and I supposed this is the underlying reason it's spelled the way it is: since "gauge" is the spelling for the noun referring to the measuring instruments, spelling it "gage pressure" avoids ambiguity as to what one is referring to. I can see for myself when I Google on the various spellings that there are seemingly legitimate sources that use "gauge pressure." Some do it on purpose. Apparently, it is more common in the U.K. And one could count eighteen of examples of "gauge pressure" here and twelve instances there and quickly run out of fingers and toes to count them all on; the Web multiplies common misconceptions and folk lore very, very quickly. But clearly, the dominant usage by the big manufacturers (people who ought to know) in their formal publications is "gage pressure."
+
+::::This doesn't have to be an all-or-nothing affair with regard to the spelling. But the Wikipedia article should accurately and honestly address the issue of "gage pressure" and "gauge pressure." Most world-wide manufactures of pressure-measuring instrumentation use the term "gage pressure" in their most official publications and FAQ sheets. Honeywell-Sensotec-SenSym does and so does Fluke (which bought-up a bunch of companies themselves). Opening the hard-copy version of Thomas Register reveals the same. "Gage pressure" has historically been by far the dominate spelling for the industry and continues to be to this date.  Any attempt to address the issue of spelling the term in this article should acknowledge these facts.  [[User:Greg L|Greg L]] 03:04, 6 December 2006 (UTC)
+
+:::::"since "gauge" is the spelling for the noun referring to the measuring instruments" - certainly the more ''common'' spelling in my experience, but not a clear-cut distinction. 'Gage' is also used in this sense now and then, enough that the American Heritage Dictionary treats it as just a variant spelling of 'gauge'; 'gauge' seems to be the majority usage for measuring instruments, but there are enough companies out there selling 'gages' (for instance, the [http://www.meyergage.com/ Meyer Gage Company] that 'gage pressure' is still ambiguous. Given inevitable human sloppiness and how often the two terms show up in the same contexts, I suspect it always will be.
+
+:::::Certainly the big manufacturers ought to know the correct spelling - but so should the National Physical Laboratory, and researchers publishing with organisations like the APS and ACS (not to mention their editors and publishers), and as best I can tell 'gauge pressure' is the more common usage in scientific publications of that sort. It's hard to look at those and say that 'gauge pressure' is ''not'' a common and widely-accepted usage, and given the choice between two such usages the one first introduced to the article should generally prevail. 
+
+:::::I would, in principle, support saying something like "'gage pressure' is more commonly used by manufacturers, 'gauge pressure' by physical scientists" in the article. However, I'm not sure how to do it without drifting into [[WP:OR|original research]] - IMHO the sort of arguments we've produced here are acceptable for resolving a stylistic issue on a talk page, but have far too much synthesis and interpretation (on both sides) to be adequate support for claims of fact within article space.
+
+:::::And all that said... I have nothing against "gage pressure", and if that had been the first version I would've been happy to leave it that way. My only objection here is on the principle that articles should remain stable on such points unless there's a strong reason to change (the essence of [[Wikipedia:Manual_of_Style#Disputes_over_style_issues]], and it doesn't seem to me that either the disparities in usage or the effect on ambiguity are enough to constitute a strong reason.
+
+:::::<strike>But at this point I'm inclined to just [[Wikipedia:Ignore all rules|ignore the MoS]], on the basis that both of us probably have more useful things we could be doing on Wikipedia (or off it) than wrangling over this issue. If nobody else wants to make an issue of it, I'd be willing - in a non-precedent-setting way - to accept something like "...gage pressure (also spelled 'gauge pressure')" followed by consistent 'gage pressure', in this and related articles. I'm not entirely happy about changing the article spelling, but life's too short. </strike>--[[User:Calair|Calair]] 04:41, 6 December 2006 (UTC) - struck out as no longer relevant since another editor has objected to it. --[[User:Calair|Calair]] 03:18, 11 December 2006 (UTC)
+
+If I may offer my opinion: since this is an article on pressure, which has far more scope in readership than those interested in buying a pressure gauge to measure gauge pressure from industrial producers, then I think we should go along with IUPAC, APS, National Physical Lab, etc and their usage of '''gauge''' pressure. [[User:LeBofSportif|LeBofSportif]] 13:09, 8 December 2006 (UTC)
+
+:: Your listing of various organizations that use "gauge pressure" and then using the term "etc" at the end of the list could lead one to falsely conclude that the great weight of official organizations exclusively use that particular spelling. But if you search around, one will find that organizations sometimes use ''both'' spellings. And of course, a proponent of the spelling "gage pressure" can shoot back with their own list of very impressive organizations and companies. One can quickly get themselves into a "battle of citations" (who's organizations are more prestigious, or who has the biggest list). For instance, this paper, ''[http://www.fas.org/sgp/othergov/doe/lanl/lib-www/la-pubs/00390348.pdf Recommended Use of SI Units in the Nuclear Rocket Engine Program]'' (1.2 MB PDF) was published by <u>''rocket scientists''</u> at <u>Los Alamos Scientific Laboratory</u> and is available on a Web site owned by the <u>Federation of American Scientists</u>. It's a white paper governing the proper formating of pressures, temperatures, masses, etc. in the program's documentation. In it, they say it's written "gage" and the paper further specifies what [[User:Calair|Calair]] wrote earlier about: how "gage" should be in parenthesis where practical (rather than tacked onto the end of an SI unit symbol without a delimiter of any sort). Hey, that's all pretty impressive credentials isn't it? It's an older paper; from the good ol' days when, perhaps, people were more rigorous about writing scientific stuff. But does the fact that I can come up with really smart rocket scientists who spelled it "gage pressure" mean that's the way it should be spelled? I don't think so. The best source for the proper terminology and spelling is to go to the experts: the pressure measuring industry and their engineers.  From most manufacturers —particularly the bigger ones — all you'll find in it your big fat catalogs is "gage pressure."  [[User:Greg L|Greg L]] 20:45, 8 December 2006 (UTC)
+
+:::Firstly, Greg L, you are not neutral on this sort of matter - your rant in [[Talk:Caesium]] (yes, '''caesium''') goes to show that, where you state "Wikipedia ... should use American english. Period". Well - that is just not wikipedia policy, but you have made it clear that it is your opinion, so perhaps you are not the best placed to decide between gage and gauge, given this bias. Secondly, I will retract my "etc" if you like. I suggest we take our lead from international organisations who we can consider to have had these disputes already (eg IUPAC) or from relevant national standards institutes, eg NIST (gauge beats gage on google search) and UK NPL (gauge beats gage on google search). Consider this NPL education link too: [http://www.npl.co.uk/pressure/faqs/modes.html]. Or take our lead from renowned centres of research: eg MIT (gauge beats gage 156:32). I do '''not''' think that american industry catalogues are the source to follow. And the precedent in this article, and wikipedia, is gauge. You have not provided good reason to switch from that. [[User:LeBofSportif|LeBofSportif]] 11:24, 9 December 2006 (UTC)
+
+::::I didn't know that underlying this argument was that you saw this as another one of those "British spelling booboos" that has you all animated. Well, if you want to make it a "country" thing, I could always then cite the following:
+
+:::::* [http://www.ucapps.de/midibox_ext.html Thorsten Klose] (a German-based seller with an English-language Web site)<br>
+:::::* [http://www.repcomsrl.com/focus.asp Repcon] (an Italy-based seller with an '''''Italian-language''''' Web site)<br>
+
+::::I'm sure you can come up with your own list of other countries’ sites that use "gauge pressure." (New Zealand?). As I stated before, one can quickly get themselves into a "battle of citations" (who's organizations are more prestigious, or who has the biggest list). Notwithstanding that you seem anxious to make this another British vs. American-English spelling "thing", the simple reality is that the largest players in the pressure-measuring industry predominately use "gage pressure" (Honeywell-Sensotec’s [http://www.sensotec.com/pressurefaq.shtml FAQ page] and Fluke Corporation’s [http://us.fluke.com/usen/Home/Search.asp?txtSearchBox=%22gage+pressure%22&x=0&y=0 product search page]) and that ''many'' organizations and resellers world-wide follow this convention. In light of this, the existing wording, which says "(also often spelled 'gauge pressure')" faithfully states the facts, properly lets the reader know there are alternative spellings, and strikes a much better balance with the reality of the situation than what was in the article before.  [[User:Greg L|Greg L]] 17:11, 9 December 2006 (UTC)
+
+:::::I suspect we're not going to reach consensus without additional input, so I've posted a RfC.--[[User:Calair|Calair]] 03:18, 11 December 2006 (UTC)
+
+So what's wrong with what the article currently says, which is "gage (sometimes spelled gauge)"? [[User:Linas|linas]] 05:13, 11 December 2006 (UTC)
+
+: I don't think anybody is opposed to the article ''acknowledging'' both spellings. The issue is which of them should be used as the default here and in related articles. Originally the article used 'gauge' throughout, but recent edits have changed this to 'gage'.
+
+: [[WP:MOS]] states that "when either of two styles is acceptable, it is inappropriate for a Wikipedia editor to change from one style to another unless there is some substantial reason for the change.... If in doubt, defer to the style used by the first major contributor." (See also [[Wikipedia:Requests for arbitration/Jguk]].)
+
+: My position is that both 'gauge' and 'gage' are widely-used and reputable spellings (see discussion above for the gory details), therefore there was ''not'' a substantial reason for change, therefore the original version ('gauge') should be used with a "sometimes spelled 'gage'" in there somewhere. --[[User:Calair|Calair]] 06:25, 11 December 2006 (UTC)
+
+::I agree, and the page needs to be changed back.  [[User:Gene Nygaard|Gene Nygaard]] 06:31, 11 December 2006 (UTC)
+:::[http://en.wikipedia.org/w/index.php?title=Pressure&oldid=274019 Original version] uses "gauge". [[User:Physchim62|Physchim62]] [[User talk:Physchim62|(talk)]] 13:22, 11 December 2006 (UTC)
+::::5½ years of relative stability in one of the earliest Wikipedia articles is even more important.  [[User:Gene Nygaard|Gene Nygaard]] 14:18, 11 December 2006 (UTC)
+
+::::: I see that "stability" is an important thing for Wikipedia. As long as there is sufficient information — even if it's a footnote down deep — to properly address the issue, that works for me. ''Stability'' can't be embraced to the point where information is simply wholly incomplete to the point of being misleading. What I had ''strenuously'' objected to was how it was written a week or so ago: "Is spelled gauge pressure." That's all it said. As I stated earlier, I've got a little under two feet of engineering catalogs on pressure. Sensotec, SenSym, Fluke, etc. and they all use ''gage pressure.'' The biggest retailer of instrumentation and lab equipment, Omega Engineer, also uses ''gage'' pressure. (I'm talking actual catalogs and their section heads, not Web usage which has become mixed). This article ought to address this important point in the footnote. The footnote's emphasis will have to be downplayed a bit so it fits with the fact that ''gage'' pressure is the parenthetical (secondary, or less preferred) spelling. I'll take a stab at it and run it up the flag pole. See what you guys think.   [[User:Greg L|Greg L]] 17:16, 11 December 2006 (UTC)
+
+:::::UPDATE What I've proposed embodies an important concept: It allows American (and apparently German and Italian) engineers and scientists to quickly find, with no more than two clicks, that when dealing with most American manufacturers and distributors of precision pressure measuring equipment, the proper spelling is "gage." The whole article now uses "gauge" spelling throughout and now says “(also often spelled '''gage pressure''')” — which is a dead-true statement. If authors object to the seeming extra prestige of having external links associated with "gage" in a '''note''' of all things (in case having it spelled "gauge" throughout the article isn't satisfying enough), please add external supporting links of your own to "gauge"; don't delete the links for American professionals.  [[User:Greg L|Greg L]] 19:44, 11 December 2006 (UTC)
+
+=== WTF is ga(u)ge pressure doing with such a prominent position in the article ===
+Why is this (important) question in [[metrology]] the second section of the article? The definition of pressure is the same, whether its is measuered ga(u)ge or absolute. [[Gauge pressure]] and [[gage pressure]] should '''not''' redirect here. [[User:Physchim62|Physchim62]] [[User talk:Physchim62|(talk)]] 13:22, 11 December 2006 (UTC)
+
+:Actually, the sixth paragraph.  If anything, should be more prominent (could move up a bit by throwing out the recent SI units paragraph in intro, adequately covered in [[Pressure#Units]] below.
+:Sure.  Everybody in their starting blocks.  Now let's race to be the "original" author, as a prelude to the inevitable naming conventions argument.
+:The distinction is important in a great many fields other than meteorology.
+:There would be certain advantages to being able to link to an article whose focus is on distinguishing gauge pressure from absolute pressure.  But otherwise, it is adequately and appropriately taken care of here. [[User:Gene Nygaard|Gene Nygaard]] 14:29, 11 December 2006 (UTC)
+::[http://en.wikipedia.org/wiki/Pressure#Absolute_and_gage_pressure Second HTML section]. Actually "first-come-first-served" is one of the few guidelines we have for resolving such petty disputes. I spoke of [[metrology]], not [[meteorology]]: given your other comments, I assume that you know the difference. [[User:Physchim62|Physchim62]] [[User talk:Physchim62|(talk)]] 15:39, 11 December 2006 (UTC)
+:::Yes, know the difference, misread it.  
+:::In any case, the distinction is one that needs to be made in an encyclopedia article about "pressure".  There would be little else of encyclopedic interest other than what needs to be here that could be added to a separate article.  The only advantage of a second (and third for absolute?) article would be the disambiguating of what is linked to there, and an indirect encouragement to make that disambiguation visible by linking to the specific article.
+:::But first come, first served doesn't apply when the issue is already under debate before the article is created.  And actually when it is mentioned in the guidelines that is, IIRC, by its terms, only specifically stated to be applicable to national varieties of English issues, and stated to be a last resort [[Wikipedia:Manual of Style#National varieties of English|there]]:  "''If all else fails,'' consider following the spelling style preferred by the first major contributor (that is, not a stub) to the article." [italic emphasis added] [[User:Gene Nygaard|Gene Nygaard]] 17:03, 11 December 2006 (UTC)
+::::Impartial editor here. I don't mean to exacerbate the situation here but having read the above discussion I would like to offer my opinion. I do see the value of stability of spelling within wikipedia, however the rules cited I believe are intended for the situation of true interchangeability and similar acceptance. That may indeed be the case here but I think it is worthy to consider if it is. It is also appropriate to accept the constant shift in language over time. It seems clear that "gage" is the exclusive correct spelling (gauge means something else) historically. The spelling "gauge" has clearly crept into acceptance through repeated error in the past 10-15 years most likely, in my opinion, from increased blind reliance on only semi-sophisticated spell checkers, such as the one I am using now. I am of the opinion after reading your arguments that it may be reaching to say that they are equally accepted. The trend is clearly in that direction but it seems that "gage" is clearly the more correct and even more accepted in this specific meaning. The situation is further confused by what I believe to be a misunderstanding in this thread where "gauge pressure" actually means "the pressure gauge reading" which is different than "gage pressure" (however possibly numerically identical). "Gauge pressure" may refer to absolute pressure and not gage pressure as is actually often the case with sophisticated gauges.  I don't think it is fair to read all uses as the same when the entire purpose of having two different words is to distinguish meaning. We should use "incorrect" terms when they are predominant but I don't believe this is the case given identical definitions. In addition this situation seems to be a place where discarding the difference between these terms further confuses. I would suggest that we place first the term that is being correctly used in the given situation and then the alternative. Some examples:
+:::::"When the pressure is relative to atmospheric pressure it is referred to as gage pressure (also gauge pressure)"
+:::::"The reading of a pressure gauge is sometimes referred to as the gauge pressure. This should not be confused with gage pressure although it often is and the meaning of this term can be ambiguous." 
+::::I hope my suggestions were constructive.--[[User:Nick Y.|Nick Y.]] 20:47, 11 December 2006 (UTC)
+
+::::::Wow. Well said Nick Y! What [[User:Nick Y.|Nick Y.]] said above ("The spelling "gauge" has clearly crept into acceptance through repeated error in the past 10-15 years") perfectly states my views on the matter '''''as it regards usage in America.'''''  However, when LeBofSportif cited references supporting his view on the use of "gauge pressure," I noted that many were U.K. Web references. I just did a quick Google search on ["pressure transducers" UK absolute] and the first UK-based site was a distributor who used "gauge pressure" in the relevant context. If this U.K. usage wasn't the case, then I would still be digging in my heels on allowing an amateurish spelling to further creep into use just because the first major contributor to this Wikipedia article spelled it incorrectly. Apparently though, it's not incorrect for ''all countries''. I'm a mechanical engineer in my early 50s and had to learn the hard way in my 30s that one will quickly look like an engineering novice in the pressure-measurement industry if you use "gauge pressure." "Gauge" is simply wrong in the U.S. I'd kinda like to know if the author to this article was a U.K.-based author who wrote it "correctly" or if it was an American who didn't know any better and just perpetuated the common misunderstanding. Unfortunately, also as Nick says, Web usage quickly multiplies common misspellings. And the spell checker in Word compounds this problem even more. Does anyone have any idea how many Google hits there are on the spelling "looses" (as in "Team A looses again")? Lots. And I'm sure this is partly because Word's spell checker doesn't flag it. Maybe "looses" will become an OK spelling because it will attain a critical mass of "incorrect" usage.  But the "U.K.-thing" is the deal breaker here in my opinion that means we must yield on this Nick Y. It may be ''wrong'' — and even increasingly common — in America, but it's apparently not ''wrong'' in the U.K. I think the latest solution gives American professionals sufficient information to make an educated judgment on how they ought to spell it. American professionals can obtain more information by downloading this paper: ''[http://www.fas.org/sgp/othergov/doe/lanl/lib-www/la-pubs/00390348.pdf Recommended Use of SI Units in the Nuclear Rocket Engine Program]'' (1.2 MB PDF) by Los Alamos Scientific Laboratory. It's a white paper governing the proper formating of pressures, temperatures, masses, etc. in the program's documentation.  It's an old paper from the good ol’ days when everyone and his dog wasn't a Web author on scientific matters.  [[User:Greg L|Greg L]] 00:37, 12 December 2006 (UTC)
+::::::: Well, obviously we need to distinguish between American English and British English as is often the case. With this further understanding it seems clear that it is critical that we are clear. I think the best solution is that we use both and I guess that the British version should come first by precedent. It is however imperative that the American spelling be thoroughly explained since it changes the meaning. I would suggest "[[gauge pressure]] (in [[En-US|American English]]: [[gage pressure]])" It seems necessary to have two other articles just to explain this mess. Perhaps one could be a redirect. It should be explained that in American English "gauge pressure" is poorly defined but generally means the pressure reading of a gauge and not a pressure relative to atmosphere. This could also be inserted into this section here: "Note that the use of the term "gauge pressure" in British English is the same as the use of the term "gage pressure" in American English; however the use of the term "gauge pressure" in American English is often ill-defined and is used to mean either gage pressure (by misspelling) or the pressure reading of a gauge (relative or absolute)."--[[User:Nick Y.|Nick Y.]] 01:32, 12 December 2006 (UTC)
+
+:::::"It seems clear that "gage" is the exclusive correct spelling (gauge means something else) historically. The spelling "gauge" has clearly crept into acceptance through repeated error in the past 10-15 years most likely, in my opinion, from increased blind reliance on only semi-sophisticated spell checkers, such as the one I am using now." 
+:::::To the contrary - a little bit of Googling finds plenty of scientific papers and legal documents from well over 15 years ago that use 'gauge pressure' in the sense we're discussing here. Examples:
+:::::[http://ops.dot.gov/regs/interp/192_6/619/w82-08-05.pdf California Public Utilities Commission, 1982]: "The Pacific Gas and Electric Company (PG&E) plans to uprate the maximum allowable operating pressure (MAOP) of 3,028 feet of eight-inch diameter gas distribution main to 338 pounds per square inch, gauge pressure (psig)..."
+:::::[http://www.irishstatutebook.ie/ZZSI314Y1979.html DANGEROUS SUBSTANCES (CONVEYANCE OF PETROLEUM BY ROAD) REGULATIONS (Ireland, 1979)] requires a test pressure ("gauge pressure") be recorded on petrol tanks.
+:::::[http://www.irishstatutebook.ie/ZZSI154Y1980.html Pigs and Bacon Act (Ireland, 1980 amendment)]: "Where pickle is injected this shall be done by means of a hand pump and needle under a gauge pressure of not less than 450 kPa (65 lbs per square inch)..."
+:::::[http://www.nssn.org/search/DetailResults.aspx?docid=31357&selnode= ISO 3993:1984]: "The prescribed apparatus shall not be used for materials having gauge vapour pressures higher than 1,4 MPa (absolute vapour pressure 1,5 MPa)..."
+:::::[http://www.nssn.org/search/DetailResults.aspx?docid=30688&selnode= ISO 3322:1985]: "The nominal pressure shall be assumed to be "gauge" pressure (i.e. the pressure above the atmospheric value) when no modifier is given."
+:::::[http://www.nssn.org/search/DetailResults.aspx?docid=34128&selnode= ISO 7183:1986]: "Applicable to dryers working in the effective (gauge) pressure range of 0,16 to 40 MPa..."
+:::::[http://www.fda.gov/ora/Inspect_ref/itg/itg11.html FDA report: STEAM PRESSURE CONTROL FOR RETORTS AND AUTOCLAVES (6/29/73)]: "In most instances, however, steam pressure is measured as gauge pressure (psig), which has its zero point at an absolute pressure of 14.7 psia (equivalent to atmospheric pressure at sea level)..."
+:::::And googling on '+"gauge pressure" +$YEAR" indicates plenty of examples in scientific journals going back ''many'' decades, though I don't have the full-article access needed to give good quotes there. As an example, Google shows "all relative to the value for 1 atmosphere (zero gauge pressure)" as being an excerpt from the text of [http://prola.aps.org/abstract/PR/v41/i5/p641_1 this 1932 Physical Review paper] (US journal, Harvard-based author).
+:::::So, no, I don't think it's at all clear that "gauge pressure" in this sense is a recent creation of spellcheckers - especially considering that 'gage' is itself a real word, so there's no obvious reason why a spellchecker would want to change it. Even within the USA, there are plenty of hits in the Physical Review to indicate that it was being used in this way well before the 1990s. I can't judge from this whether it was a genuinely accepted spelling in the USA pre-1990 or just a mistake (like Greg's example of 'looses' above), but if it was incorrect in US usage then it's a very old and widespread incorrect usage. At any rate, it looks like we're more or less agreed on what the article should say, even if not on exactly ''why'' it should say that. --[[User:Calair|Calair]] 01:39, 12 December 2006 (UTC)
+
+:::::: Peace brother.  [[User:Greg L|Greg L]] 03:12, 12 December 2006 (UTC)
+
+::::::: I think things are settled but just to clarify: My point on the spell checker was that if one writes gauge pressure it is not corrected (same with gage pressure) but this validates the spelling in the users mind. There are many examples of this in English. A good one is grill (A cooking device or a eating establishment that cooks with one) and grille (The air vent on the front of a vehicle). That one was so bad that it is now accepted. For some reason restaurants in America think it makes them more sophisticated to use this grossly mistaken britishism (it's not British at all). Gauge is the more commonly seen word since there is also an associated verb: to gauge; and a ~unit as in wire gauge. --[[User:Nick Y.|Nick Y.]] 18:51, 12 December 2006 (UTC)
+
+:::::::: Nick Y makes an interesting point. I believe this explains why pressure transducer companies in the U.S. and much of the world spell it "gage" but why "gauge" is so commonly encountered. Everyone knows what you hold in your hand is a "pressure gauge" and spell checkers only reinforce this. It's only human to assume it's "gauge pressure". As with precision pressure measuring instrumentation, if one goes to the ''manufacturers'' of an item (like [http://www.weberstuff.com/ Weber] in the case of BBQ supplies), one will usually find the proper spelling: Barbecue ''grill''. Many Web-publishing professionals who should know better fall victim to this. And the fact that the Web is already inundated with the incorrect "gauge" spelling affirms in their mind that they've got it right when it's not. U.S. manufacturers of pressure measuring instrumentation seem to be holding the line though. It'll be interesting to see if they cave someday.  [[User:Greg L|Greg L]] 19:34, 12 December 2006 (UTC)
+
+:::::::::Nick Y's point is total hogwash.  
+::::::::::''"gage" is the exclusive correct spelling  historically.''  Absolutely incredible nonsense.
+::::::::::''"(gauge means something else)"''.  Wrong.  Gage is just as correct for the usage, too.  It isn't really a different meaning.  It was, when I was in the U.S. Army, their preferred spelling, contrary to standard American English usage and standard usage anywhere else too.
+::::::::::''"The spelling "gauge" has clearly crept into acceptance through repeated error"'' It isn't an error.
+::::::::::''"repeated error in the past 10-15 years most likely,"''  What is he, an 8-year-old kid for whom that is ancient history?  Good grief, he ought to realize that some of us Wikipedia editors have been around a whole lot longer than that.  [[User:Gene Nygaard|Gene Nygaard]] 21:42, 12 December 2006 (UTC)
+
+====References, Part I "gage"====
+Rather than Nick Y's ill-informed rampant speculation about some "error" caused by "spell-checkers" in the last "10-15 years", let's just look at what the experts in some reliable sources have to say about that.  Here's [[Webster's Third New International Dictionary]], Unabridges, 1961:
+
+:¹'''gage''' \'gāj\ ''n'' <small>-S</small> [ME, from MF, of Gmc origin; akin to Goth ''wadī'' pledge —more at <small>WED</small>] '''1 :''' a persional pledge that one will appear to support by combat his assertions or claims, ''esp'' ''':''' a glove, cap, or other belonging cast on the ground to be taken up by an opponent as a pledge of combat  '''2 :''' something deposited or given to or taken by another as a security for the performance of ome act by the person depositing it or giving it up and forfeited by nonperformance ''':''' <small>SECURITY</small>; ''also'' ''':'''the transaction by which the security is given or taken — compare <small>MORTGAGE, PLEDGE</small> — '''throw down the gage :''' <small>CHALLENGE, DEFY</small>
+:'''²gage''' \"\ ''vt'' <small>-ED/-ING/-S</small> [MF ''gager'', fr. OF ''gagler'', fr. ''gage'', n.] '''1''' ''archaic'' ''':''' tro give or deposit as a gage ''':''' give as security for some act ''':''' offer as a forfit ''':''' <small>PLEDGE</small> '''2''' ''archaic'' ''':''' <small>STAKE, RISK</small>
+:'''³gage''' ''var of'' <small>GAUGE</small>
+:'''<sup>4</sup>gage''' ''n'' <small>-S</small> \'gāj\ [by shortening] ''':''' <small>GREENGAGE</small>
+
+Note that for definition 3, the use of this variant is not limited to a particular definition of the word.  Nor is it limited to a particular part of speech.  This variant is one used for any of the various meanings of '''gauge''', whether used as a noun, as a verb, as an adjctive, or whatever. 
+
+And, by the way, for the math-challenged among you, 1961 is more than "10-15 years ago."  [[User:Gene Nygaard|Gene Nygaard]] 22:19, 12 December 2006 (UTC)
+
+====References, Part II "gage pressure"====
+
+Webster's Third, 1961:
+
+:'''gauge pressure''' ''n'' ''':''' the pressure at a point in a fluid above that of the atmosphere — compare <small>ABSOLUTE PRESSURE</small>
+
+Note that there is no entry for "gage pressure".  [[User:Gene Nygaard|Gene Nygaard]] 22:43, 12 December 2006 (UTC)
+
+====References, Part III "gauge"====
+
+All that really matters is the etymology.  Webster's Third, 1961:
+
+:'''¹gauge''' or '''gage''' \gāj\ ''n'' <small>-S</small> [ME ''gauge'', fr. ONF, prob. of Gmc origin; akin to OHG ''galgo'' cross, gallows — more at <small>GALLOWS</small>
+
+You might want to go check out [[Middle English]], to see if this likely results from the ''"use of spell-checkers in the past 10-15 years"!''  It turned into Early Modern English over 600 years ago. What do you have to say now, Nick Y? [[User:Gene Nygaard|Gene Nygaard]] 22:49, 12 December 2006 (UTC)
+
+====References, Part IV "gage" for some meanings related to pressure, "gauge" for others====
+
+''This section intentionally blank, and likely to remain so.''
+
+===Peace Man===
+
+I think you need to chill a bit, ...Dude. As I stated when I entered this thread I am an impartial editor. I think you might infer from that that I am not claiming to be an expert. My qualifications or age aren't particularly relevant except being a level headed editor. My conclusion was that we should use gauge first and reference gage secondarily based on the British evidence provided by Greg L. I think we need to hash out the current and historical usage of both words. This includes scientific and engineering usage and not just dictionary definition. The Webster's 3rd 1961 definition seems to validate your point very well. Thank you for bringing this to our collective attention. With the additional references from the past it seems clear that "gauge" and "gage" have been interchangeable in this usage in the US in some people's eyes for quite a while if not forever. It remains true however that gage is very heavily used in the US scientific and engineering fields and the use of gauge is frowned upon by some. It is also true that the use of gage appears to be declining. I still believe that this phenomenon is due to my spell checker hypothesis despite whether gauge is an acceptable interchangeable spelling. It simply looks more familiar to most people. But all of that is irrelevant. For the purpose of this article I would say that "gauge (also ''gage'')" or perhaps "gauge (also ''gage'' in US English)" will suffice. I think we are done here? Peace--[[User:Nick Y.|Nick Y.]] 18:46, 13 December 2006 (UTC)
+
+:I '''vote for gage''', as I think its more fun. Gauge is boring, predicatable, dull. The english language is for naught if one cannot enjoy the reading and writing of it. [[User:Linas|linas]] 03:50, 14 December 2006 (UTC)
+::'''gag''' reflex. :-) --[[User:Ancheta Wis|Ancheta Wis]] 10:38, 14 December 2006 (UTC)
+
+Feel free to add other references to those subsections if you like, Nick or anybody else.  Just stop the wild speculation that has generally proved to be false.  Here, for what it is worth, are some results of Google searches.  [[User:Gene Nygaard|Gene Nygaard]] 16:09, 14 December 2006 (UTC)
+
+:{| class=wikitable
+|-
+!Google ||hits
+|- 
+|"pressure gauge" -Wikipedia ||align="right"|1,240,000
+|- 
+|"pressure gage" -Wikipedia ||align="right"|195,200
+|- 
+|"gauge pressure" -Wikipedia ||align="right"|383,000
+|- 
+|"gage pressure" -Wikipedia ||align="right"|83,300
+|-
+|gauge psig||align="right"|480,000
+|-
+|gage psig||align="right"|139,000
+|-
+|gauge  kPa OR MPa||align="right"|1,000,000
+|-
+|gage  kPa OR MPa||align="right"|337,000
+|}
+
+:{| class=wikitable
+|-
+!rowspan="2"|Google ||colspan="7"|site:''xxx''
+|-
+!.org ||.edu ||.mil ||.uk ||.ca ||.au ||nist.gov
+|- align="right"
+|align="left"|"pressure gauge"||304,000 ||1,250,000 ||9,390 ||114,000 ||32,100 ||38,500 ||163
+|- align="right"
+|align="left"|"pressure gage"||27,600 ||198,000 ||570 ||1,080 ||1,150 ||337 ||58
+|- align="right"
+|align="left"|"gauge pressure"||59,900 ||391,000 ||205 ||902 ||686 ||692 ||67
+|- align="right"
+|align="left"|"gage pressure"||12,200 ||84,200 ||231 ||435 ||289 ||81 ||38
+|-
+|}
+
+
+Please allow me to say that I am by no means an expert in this field.  Rather just a student who has studied gauge pressure in General Physics.  I have nothing but for respect for anyone entrenched in this field but I just wanted to offer an opinon from the side of what's being taught in schools.  "University Physics" by Young and Freedman, volumes I and II refer to the spelling of gauge pressure and not gage pressure.  Also from what I've understood it's called gauge pressure because it's measure on a gauge excluding atmospheric pressure, hence that's where the spelling comes from.  Further I believe the more common spelling of gauge has been established by [[User:Gene Nygaard|Gene Nygaard]] that the world overwhelmingly uses the spelling gauge pressure.  As such I vote to support '''gauge pressure'''--[[User:Robert Stone, Jr.|Robert Stone, Jr.]] 03:47, 5 January 2007 (UTC)
+
+===RFC response===
+It seems "gauge pressure" is the consensus here --- [[User:Safemariner|Safemariner]] 04:57, 8 January 2007 (UTC)
+
+===January 2012 copy edit tag===
+[sigh...] Where to begin? I am a humble copy editor who came across this article because it was tagged with <nowiki>{{copyedit}}</nowiki>. The issue was an inconsistency in the spelling of the word ''gauge'' (also spelled ''gage'')—or is it ''gage'' (also spelled ''gauge'')? Words cannot express my reluctance to revisit this debate, which I thought was resolved in January 2007. Here is what I will do:
+# I will honor the outcome of the RfC ("It seems ‘gauge pressure’ is the consensus here --- Safemariner 04:57, 8 January 2007 [UTC]") and change all instances of the word ''gage'' to ''gauge''.
+# At the first mention of the word ''gauge'', I will include a parenthetical clause which will give equal weight to the alternate spelling: ''gage''.
+# I will attach a footnote, which was already written, to the first (and only) mention of ''gage''.
+
+I hope this will address the copy edit issue, and respect the consensus of the editors involved. Cheers. [[User:Braincricket|Braincricket]] ([[User talk:Braincricket|talk]]) 09:22, 4 January 2012 (UTC)
+
+===Hello===
+To unnecessarily (and probably unwisely) re-visit a bitter (and long...I ran out of popcorn!) debate, I just felt I had to add my own personal observation that it always strikes me as foolish when people act as if a change in a words pronunciation or spelling was desecrating thousands of years of history written in stone, when language has changed constantly throughout history (and will continue to do so), and when "official spellings" as such were non-existent or unknown up until quite recently. At some point, people decided they would sit down and freeze language into stone, which I think is a futile attempt doomed to failure, and whenever certain people see other people using the "official" language "incorrectly", they form a mob and break out the torches. It's even worse in cases like this where they ''disagree'' on what the official spelling even '''is'''. Granted, in fields of scientific endeavor, some terms must be made constant and uniform, but in this particular case, does it ''really'' matter that much whether it's spelled "gage" or "gauge"? You might loose a little precision, but the while thing isn't worth starting a jihad over, especially since it's unlikely that proponents of one variant will ever change the way people in another country spell the word. I think it's wiser to simply educate people if they see "gauge pressure" or "gage pressure", they may well mean the same thing, and it's up to them to be aware of this and use common sense. Most people dealing with this sort of thing ought to be intelligent enough to muddle through a small difference in spelling if they know that it could mean either thing. Personally, I prefer "gauge", for the simple reason that I consider "gage" to be ugly (a dumb reason, yes). That's also why I use "grey" instead of "gray", even though it's "incorrect" to do so. Unless you live in the UK, anyway.
+
+One question though, I'd genuinely like to know...one sentence in the above debate seems to be saying that "gage" is ''pronounced'' differently than "gauge". Is this true? He says that 
+    "You can walk into any automotive supply store and if you ask what the "g" in psig means, some "Mr. Goodwrench"-looking manager will verbally say it stands for "gauge". The average fellow will assume the word is spelled like "pressure gauge." It's a  phenomenon much like the pronunciation of "giga" (as in gigawatts or gigabytes). Originally (before the 1990s), it took its pronunciation from its root meaning and sounded like "gigantic." Once the average Joe read it over and over in computer magazines but never ''heard'' the word in use, they assume it's pronounced with a hard "G."
+So "gage" is pronounced "''jahy-juh''" then? That's certainly a education for me. If it's not true, I fail to see what the relevance is...is the auto store man supposed to spell it out for him? How are two words spelled differently and pronounced the same the same thing as a word that was simply misread and entered public consciousness in a way it wasn't originally intended to do. A "gigawatt" is a "gigawatt", regardless of how you pronounce it, while the whole point of the complaining side of this debate is that that "gauge" and "gage" have two different meanings, in spite of being pronounced the same. I fail to see any real parallel there.
+
+As a last note, for what it's worth, I was taught at some place or other that "gage" is simply an American simplification of the older British term "gauge", but both are considered correct spellings in the US (of course, in that context it was referring to "gauges" such as instruments). I believe I looked it up, because the first time I saw "gage" written out, I assumed it was a spelling error, because I'd never seen it spelled that way before.[[User:.45Colt|.45Colt]] 07:48, 19 August 2015 (UTC)
+
+== deleted BIOLOGY ==
+
+I deleted the Biology part since it was just vandalism by someone who was trying to be funny.
+[[User:Ranmamaru|Ranmamaru]] 06:29, 11 January 2007 (UTC)
+
+==  Pascal's law concept beats me ==
+
+ok so volume of a liquid has to be conserved (given it is incompressible, non viscous blah blah) but why should the force per unit area be conserved and be the same in all directions?
+Basically if I just model everything as volume conservation and simply try and say that the liquid "en mass" will try to attain a level of minimal potential energy, I still end up with the same results. However to make the assumption that dF/dA is conserved seems off beat to me. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/220.227.207.194|220.227.207.194]] ([[User talk:220.227.207.194|talk]]) 09:28, 5 March 2007 (UTC).</small><!-- HagermanBot Auto-Unsigned -->
+
+
+
+ans. analytically u can consider pressure on a liquid molecule as a contact push due to vertical( upward )layer of molecules constantly acting on it. hence it is a summation a constant such pressures in equilbm.this p is due to balancing of wt of the molecule. if an excess pressure is applied then a net pressure acts on the molecule, which it transmits.
+
+-to the best of my knowledge
+
+[[User:Vatsal.mehtalia|Vatsal.mehtalia]] ([[User talk:Vatsal.mehtalia|talk]]) 07:11, 21 January 2008 (UTC)
+
+
+well here is a simple observation
+consider 2 sides of a U tube, one with area A1 and other A2
+A1.d1 is the displacement of one side and A2.d2 is the displacement of the other
+A1.d1=A2d2 if fluid is incompressible
+hence work done
+F1.d1=F2.d2
+hence d1/d2=F2/F1=A2/A1
+Hence:
+F1/A1 = F2/A2  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Alokdube|Alokdube]] ([[User talk:Alokdube|talk]] • [[Special:Contributions/Alokdube|contribs]]) 11:06, 25 November 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+
+However the above has no bearing to how the liquid has the same level or why the pressure should be same inside the liquid  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Alokdube|Alokdube]] ([[User talk:Alokdube|talk]] • [[Special:Contributions/Alokdube|contribs]]) 11:08, 25 November 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Re: Scalar nature of pressure ==
+
+My thanks to the author that wrote the description of pressure in this section, where it is written that if you add some new surface within some gas container, that the pressure is going to still be the same no matter where the new surface is placed (well, also assuming that you make adjustments with the original surfaces that you are going to be comparing to). Now, what I would like to know is what the actual "[[force]] (mass-acceleration) per unit area" actually ''is''. Clearly, pressure is going to be defined as the gas molecules that are bumping into the surface making up its container, but what does that mean? Does that mean that the size of the molecule is making some sort of "contact plane" with the side of the container? What about when the container of the gas is spherical, there'd be finite size to the molecules but not to the container (assume it is perfectly spherical, so there's no definite points of contacts, only intervals, right?), what then? That "contact plane" is what I am mostly asking about. The origin of this all is my own questioning on what is pressure, to better understand [[Avogadro's law]]. I know that these are approximations and that one could simply deal with the given variables, but I am more interested in the complexities that arise in the bigger questions. Thank you, -- [[User:Kanzure|kanzure]] 17:52, 22 March 2007 (UTC)
+
+
+Also, while I am at it, what would be the pressure of some very large, singular gas molecule that fills up, say, my one [[liter]] spherical container, or box container if the spherical calculations turn out to be more trouble than they are worth? Again, thank you. -- [[User:Kanzure|kanzure]] 17:52, 22 March 2007 (UTC)
+
+'''As a Theoretican...'''
+In relativity, pressure is not a scalar as stated in the article, but an element of a covariant tensor; it varies under coordinate transformations. See the Wikipedia article on the Stress-Energy tensor. I believe it is also true where pressure is an element of the Newtonian stress tensor.
+
+Also, where we may not be so interested in relativity the argument for scalar value is incomplete and/or incorrect. Is it a scalar or a pseudo scalar? That is: How does its sign behave under C,P,T and combined symmetry transformations? 
+
+If I were given its dimension [mass/(time^2.distance)] or even basic units of [k/(s^2,m)], I would have found this article useful.
+
+--[[User:Decraig1|Decraig1]] ([[User talk:Decraig1|talk]]) 21:06, 5 August 2013 (UTC)
+
+== fix the functions ==
+
+
+I don't have the experience to fix what is wrong with this page... The math functions are all messed up.
+:How so?  --'''[[User:Selket|Selket]]''' <sup>[[User_talk:Selket|Talk]]</sup> 23:04, 17 May 2007 (UTC)
+:The helpme template has been removed for now. Please put it back when you answer, so we know to check back. Thanks--[[User:Werdan7|Werdan7]]<sup>[[User_talk:Werdan7|T]] [[Special:Emailuser/Werdan7|@]]</sup> 00:00, 18 May 2007 (UTC)
+
+== What are "Imperial Units"? ==
+
+(Trying to settle a small revert war between me and another user.)
+
+People from Commonwealth countries often refer to U.S. units as "Imperial Units". That is not correct. U.S. units are a simplification of the customary systems that the colonies inherited from England. These were not [[Imperial units]], which were not defined until 1824, long after the U.S. became independent.
+
+Some units are the same in both systems, including weight. Others have the same name but are not the same. An Imperial gallon, for example, is larger than a U.S. gallon.
+
+Thus it does not make sense to refer to any measure based on the customary definition of the pound as "US" (the Imperial system uses it too) or "Imperial" (the unit is used in at least one other system). --[[User:Isaac Rabinovitch|Isaac R]] ([[User talk:Isaac Rabinovitch|talk]]) 23:03, 26 July 2008 (UTC)
+
+: Uh, not a revert war.  Customary units is a vague term and I'm not sure a proper one.  This article only lists the unit '''names''', so standards is not relevant.  For maodern usage they should be labeled US Customary units.  -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 00:04, 27 July 2008 (UTC)
+
+:: A respectful revert conflict? ¶ You're right, "customary units" is vague, probably not the right term. But I don't know what the right term is. I just know that "Imperial" and "U.S." are both wrong and misleading, since neither system owns the International pound. (See [[pound (mass)]].) Perhaps "International" is the correct word, but I'm not sure that adjective applies to units ''derived'' from the International pound. [[User:Isaac Rabinovitch|Isaac R]] ([[User talk:Isaac Rabinovitch|talk]]) 00:40, 27 July 2008 (UTC)
+
+::: It'll be OK as "customary units" unless someone has a better, more correct name. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 00:49, 27 July 2008 (UTC)
+
+:::: Consider [[English units]].[[User:Headbomb|Headbomb]] {[[User talk:Headbomb|ταλκ]] – [[WP:PHYS|WP Physics]]: [[Wikipedia:WikiProject Physics/Projects of the Week|PotW]]} 05:21, 27 July 2008 (UTC)
+
+::::: "English units" refers to the 18th century hodgepodge that U.S. units are based on. Which did not include a unit of pressure. ¶ Blatant editorialization: the fact that we're even having this discussion should be profoundly embarrassing to every American who works in any scientific or technical field. Our inability to make the change to the metric system is a symptom of our cultural arrogance and shortsightedness. [[User:Isaac Rabinovitch|Isaac R]] ([[User talk:Isaac Rabinovitch|talk]]) 17:05, 18 August 2008 (UTC)
+
+::::::If it's the units of mass we're talking about, we can call them avoirdupois, otherwise how about ''imperial/US units''?  We certainly wouldn't call them ''international'' this would seem to imply SI units. [[User:Jimp|J<small>IM</small>p]]<sub>&nbsp;[[User talk:Jimp|talk]]·[[Special:Contributions/Jimp|cont]]</sub> 20:21, 7 July 2010 (UTC)
+
+== About the table ==
+
+I find these tables that compare various units interesting but
+
+1) they are also confusing to the novice because they do not explicitly explain how to convert
+2) they are necessarily limited to about a half dozen columns, that is, only relations among a few units can be shown.
+
+Instead I suggest basing a new table on the standard international unit with all the other units listed with their explicit conversion factors to and from the SIU.  [[User:Joseph Grcar|Joseph Grcar]] ([[User talk:Joseph Grcar|talk]]) 16:18, 29 July 2008 (UTC)
+
+== Pressure of real gas ==
+
+Given that a real gas has an unknown fundamental thermodynamic relation, its equation of state must necessarily also be unknown, therefore I will remove the reference to an equation for a real gas. [[User:LeBofSportif|LeBofSportif]] ([[User talk:LeBofSportif|talk]]) 22:39, 29 July 2008 (UTC)
+
+== Pa:atm conversion in table is weird ==
+* The order of magnitude seems out by a factor of 1000 in the relationship between Pa and atm. [[User:Nesbit|Nesbit]] ([[User talk:Nesbit|talk]]) 18:53, 19 September 2008 (UTC)
+** My calculations show the same value as listed in the table: 1 atm = 101.325 kPa = 101,325 Pa so 1 Pa = (1/101,325) atm = 9.8692 x 10^-6 atm. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 22:16, 19 September 2008 (UTC)
+
+== Statistical definition ==
+Shouldn't a statistical definition to be included on this page be proper?  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mppf|Mppf]] ([[User talk:Mppf|talk]] • [[Special:Contributions/Mppf|contribs]]) 01:07, 11 August 2010 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Mistake in chart? ==
+
+1 Pa should equal 0.00001 Bar, not 0.0001 Bar.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/166.147.64.27|166.147.64.27]] ([[User talk:166.147.64.27|talk]]) 16:39, 11 September 2011 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Question ==
+
+ A well must be perforated at 8500 ft.  The casing is full of 9.5 ppg mud.  The well has 32 degree API gravity oil in the well and the fluid level is at 4400 ft. with a gas surface pressure of 820 psi and a gas gravity of .8.  What is the pressure differential between the casing and tubing? How do I figure this out??
+
+
+                                                                        32 degree API gravity oil is = 7.22 lbs/gal    
+                                                                         the gas gravity of .8 is = 1.2894  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/12.230.15.34|12.230.15.34]] ([[User talk:12.230.15.34|talk]]) 16:44, 14 November 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Pascal's Vases ==
+
+I expected to find a mention of Pascal's vases in this article, but there isn't one; nor do they seem to have an article of their own. Are Pascal's vases just considered to be a historical curiosity and not important any more? [[User:Dezaxa|Dezaxa]] ([[User talk:Dezaxa|talk]]) 13:52, 4 January 2013 (UTC)
+
+== Negative pressure ==
+
+I would really contest the phrase "Negative pressure must exist at the top of any tree taller than 10 m". It doesn't sound scientific at all... You imagine a 50 meters tall ladder with minions that pass a bucket of water from hand to hand to the top... There is no negative pressure on the ladder, even if the minions are soaked wet and touch each other... In fact, the whole [[ascent of sap]] article (linked at the negative pressure section) is kinda gibberish...(if it would be true, then the sap will raise to the top of a dead tree too, because there is no structural difference between green wood and dead wood, they have the same capillarity, etc).  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/223.27.210.130|223.27.210.130]] ([[User talk:223.27.210.130|talk]]) 10:53, 25 October 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:I agree. I have never been convinced by the arguments put forward in favor of negative pressures existing in fluids. [[User:Dolphin51|<font color="green">''Dolphin''</font>]] ''([[User talk:Dolphin51|<font color="blue">t</font>]])'' 11:54, 25 October 2013 (UTC)
+::I think what is meant is an ''apparent'' negative pressure acting on water molecules only. A real negative pressure would imply a vacuum that whooshes everything in - air molecules, leaves outside the cell, etc., which is nonsense. However intermolecular forces are specific to the molecules interacting, and there are attractive forces on the water molecules which specifically pull water molecules up the tall tree. The article [[Ascent of sap]] in fact refers to the ''apparent'' existence of large negative pressures in some living plants. I will change this article to express this more accurately. [[User:Dirac66|Dirac66]] ([[User talk:Dirac66|talk]]) 22:32, 6 August 2014 (UTC)
+::: Note that the negative pressure acts on the wall of the capillary as well, which has to be quite strong or it would implode. <span style="font-family:Segoe Script">[[User:Petr Matas|Petr Matas]]</span> 15:37, 7 August 2014 (UTC)
+::::It is not nonsense. I've cited the existence of negative pressures in the article now. '''[[User:Oreo Priest|<span style="color:green">Oreo Priest</span>]]''' <sup>[[User talk:Oreo Priest|talk]]</sup> 13:24, 31 January 2015 (UTC)
+
+== Introductory example of a "dollar bill" is parochial ==
+
+The introductory section of this article contains the following sentence:
+
+ A pressure of 1 Pa is small; it approximately equals the pressure exerted by a dollar bill resting flat on a table.
+
+This sentence is parochial: it would be an unhelpful example to anyone not familiar with US currency. Such an example is unhelpful. I suggest removing it unless a replacement can be found which is less culturally specific.
+
+[[User:Chrislaing|Chrislaing]] ([[User talk:Chrislaing|talk]]) 21:20, 9 December 2013 (UTC)
+
+:I agree. We should just get rid of it.  This is about ''pressure'' not the pascal anyway. [[User talk:Jimp|Jimp]] 15:36, 24 February 2015 (UTC)
+
+== Wikilinks to units ==
+
+Hello {{u|Trackteur}}, I think that in lists and comparisons of pressure units, each unit should wikilink to the article about the unit, even though it has been wikilinked already. I think that at such places the wikilink usefulness outweighs the repeated link ugliness. <span style="font-family:Segoe Script">[[User:Petr Matas|Petr Matas]]</span> 20:11, 17 August 2014 (UTC)
+
+== Liquid pressure as energy equation ==
+
+I think that {{u|DHeyward}}'s [https://en.wikipedia.org/w/index.php?title=Pressure&diff=632775275&oldid=632233635 statement about energy equation] is incorrect. Unlike pressure, the gravitational potential energy is not a function of position of measurement, but rather of position of the liquid body's center of gravity (and depends also on the choice of the zero height level), because it is an integral quantity. Therefore, the statement "energy is constant throughout the vessel" is a nonsense. Unless this is fixed somehow (I doubt that it is possible), I think that the paragraph should be removed. <span style="font-family:Segoe Script">[[User:Petr Matas|Petr Matas]]</span> 06:46, 7 November 2014 (UTC)
+
+*I think DHeyward's statement is correct. It is true that the total potential energy of the body of liquid is proportional to the height of the centre of mass of the body above the datum, but that isn't what Heyward's statement is about; it is about the total energy of any small parcel of liquid. A small parcel of liquid near the surface of the liquid has high potential energy per unit of mass because of it's large height above the datum. A small parcel of liquid near the bottom of the liquid has low potential energy per unit of mass because of it's small height above the datum.[[User:Dolphin51|<font color="green">''Dolphin''</font>]] ''([[User talk:Dolphin51|<font color="blue">t</font>]])'' 13:18, 7 November 2014 (UTC)
+
+*It's mentioned in a similar fashion in Bernouilli's principle. {{tq|Thus an increase in the speed of the fluid – implying an increase in  both its [[dynamic pressure]] and kinetic energy – occurs with a simultaneous decrease in (the sum of) its [[static pressure]], potential energy and internal energy. If the fluid is flowing out of a reservoir, the sum of all forms of energy is the same on all streamlines because '''in a reservoir the energy per unit volume (the sum of pressure and [[gravitational potential]] ''ρ&nbsp;g&nbsp;h'') is the same everywhere.'''}}<ref>Streeter, V.L., ''Fluid Mechanics'', Example&nbsp;3.5, McGraw&ndash;Hill Inc. (1966), New York.</ref>  It's the reason there is a static pressure drop when fluid changes from static to flowing in a horizontal pipe: pressure energy is converted to kinetic energy.  I'll add the citation.  --[[User:DHeyward|DHeyward]] ([[User talk:DHeyward|talk]]) 15:30, 7 November 2014 (UTC)
+** So it was possible to fix it. Thanks to you both. <span style="font-family:Segoe Script">[[User:Petr Matas|Petr Matas]]</span> 19:38, 7 November 2014 (UTC)
+::* ??.  It's more clear with unit volume but the concept is the same.  A cubic-centimeter at the top of a fluid has the same total energy as a CC at the bottom.  The top surface CC has more gravitational potential energy and less pressure energy while the CC at the bottom has more pressure energy and less gravity energy.  The sum is constant.  (gravity head + pressure head = constant)  --[[User:DHeyward|DHeyward]] ([[User talk:DHeyward|talk]]) 22:43, 7 November 2014 (UTC)
+::** I was confused by the expression "total energy" - I thought that you were speaking about the energy of the entire liquid body. The body's position is given, so the expression "throughout the body" is meaningless for it. When it's per volume element, it's ok. <span style="font-family:Segoe Script">[[User:Petr Matas|Petr Matas]]</span> 16:12, 8 November 2014 (UTC)
+:::* Ahh.  It's a property of fluids.  The center of mass potential energy is give but the tradeoff as the energy is calculated away from the center is the same at any other point.  Per unit volume is easier to express and understand.  The principle is the same as the volume can be made infinitely small such that a point calculation yields the same constant.  It's the reason a deep ocean of 2 miles depth has the same level as the same ocean in two feet of water.  Take an empty tube that's two miles long with a valve at the bottom, submerse it to 2 miles and open the valve - the water rises to the same level as the rest of the ocean because the energy is constant.  --[[User:DHeyward|DHeyward]] ([[User talk:DHeyward|talk]]) 04:42, 9 November 2014 (UTC)
+
+{{reflist-talk}}
+
+== Pressure as relates to heating/cooling or fluids ==
+
+I was surprised that I can't seem to find an article or section anywhere on Wikipedia where it actually discusses compression heating and decompression cooling, except for a brief bit in [[Compression ignition engine]]. Probably there is some discussion in pages on [[HVAC]] and refrigeration as well, but what I'm looking for is a technical page I can link to so people can read about why fluids (i.e. air) heat up when pressurized (well, compressed, anyway). I've looked on the page on [[Compressed air]], and it says nothing. I believe it mentioned it on the page on [[Bleed air]] as well (it's been a while), but the point is, that none of these are really relevant to link to if I wanted to link to a page explaining why air heats as it's compressed. For example, I was on the page on [[Gas compressor]](or maybe it was the page on [[Rotary screw compressor]]s), and it mentions the elements of the system dedicated to "cooling the compressed air", but it doesn't say anything else. I thought it might be useful to link to a page explaining why the air would NEED cooling, but I can't find anything, unless I wanted to link to the page on diesel engines and let them read between the lines. Which doesn't seem very encyclopedic, somehow.[[User:.45Colt|.45Colt]] 07:16, 19 August 2015 (UTC)
+
+:You could link to [[Adiabatic process#Adiabatic heating and cooling]]. [[User:NebY|NebY]] ([[User talk:NebY|talk]]) 20:00, 19 August 2015 (UTC)
+
+== Pressure on ears? ==
+
+Pressure on ears is the same as pressure on other parts of the body at the same depth. Why specify ears? &bull; &bull; &bull; [[User:Pbsouthwood|Peter (Southwood)]] [[User talk:Pbsouthwood|<sup>(talk)</sup>]]: 05:59, 5 August 2016 (UTC)
+
+== Force over volume?? ==
+
+Is there a variant of pressure that is used for force over 3-dimensional volume?? If not, please explain why. [[User:Georgia guy|Georgia guy]] ([[User talk:Georgia guy|talk]]) 14:59, 1 May 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Pressure]]. Please take a moment to review [[special:diff/813115996|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20070630020548/http://www.bipm.fr/en/convention/cgpm/14/pascal-siemens.html to http://www.bipm.fr/en/convention/cgpm/14/pascal-siemens.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 21:37, 1 December 2017 (UTC)
+
+== Lost talk contrib ==
+
+&nbsp;&nbsp; <br><!-- 
+-->&nbsp;&nbsp; <br><!-- 
+-->&nbsp;&nbsp; <br><!-- 
+-->&nbsp;&nbsp; <br><!-- 
+-->&nbsp;&nbsp; <br><!-- 
+-->&nbsp;&nbsp; <br><!-- 
+-->--[[User:Jerzy|Jerzy]]•[[User talk:Jerzy|t]] 04:12, 3 December 2018 (UTC)<br>

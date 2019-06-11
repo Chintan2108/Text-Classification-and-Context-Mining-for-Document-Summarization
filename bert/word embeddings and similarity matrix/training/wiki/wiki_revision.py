@@ -22,13 +22,18 @@ def getRevisions(pageTitle, limit=500):
     
     index = 0
     for revision in response[2][0][0][0].findall('rev'):
+        try:
+            diff = revision[1].text
+        except IndexError:
+            diff = 'Response Unavailable'
+
         revisions.loc[index] = [revision.get('revid'),
                                 revision.get('parentid'),
                                 revision.get('user'),
                                 revision.get('userid'),
                                 revision.get('timestamp'),
                                 revision.get('comment'),
-                                revision[1].text]
+                                diff]
         index += 1
     
     filename = ''
@@ -39,14 +44,14 @@ def getRevisions(pageTitle, limit=500):
         filename = filename[:-1]
     else:
         filename = pageTitle
-    revisions.to_csv('./big dataset/test/editComments/%s.edit_Comments.csv' % filename, encoding='utf-8')
+    revisions.to_csv('./big dataset/test/editComments/41-60/%s.edit_Comments.csv' % filename, encoding='utf-8')
     print('%s_editComments.csv saved successfully.\n' % pageTitle)
 
 if __name__ == "__main__":
     '''
     Main/ driver function
     '''
-    titles = open('./big dataset/train/2-20wikiArticleNames.txt', 'r', encoding='utf-8').readlines()
+    titles = open('./big dataset/train/41-60wikiArticleNames.txt', 'r', encoding='utf-8').readlines()
 
     for title in titles:
         getRevisions(title.split('\n')[0])

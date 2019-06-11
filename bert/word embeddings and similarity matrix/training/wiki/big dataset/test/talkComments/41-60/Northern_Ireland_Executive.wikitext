@@ -1,0 +1,82 @@
+{{WikiProjectBannerShell|1=
+{{WikiProject Northern Ireland |class=C |auto=yes |importance=high}}
+{{WikiProject Ireland |class=C |importance=High}}
+{{WikiProject Politics of the United Kingdom |class=C |importance=high}}
+{{WikiProject Politics |class=C |importance=mid}}
+}}
+{{OnThisDay|date1=2011-12-02|oldid1=463594457}}
+
+==Old discussions==
+In the sections ''Minister for Regional Development'' and ''Minister for Social Development'' something with the dates is wrong. <br/> [[User:V M 1974|VM]] 11:59, 17 July 2006 (UTC)
+:It's fixed now, see [[Department for Regional Development]] and [[Department for Social Development]] articles. [[User:Keithgreer|<span style="background-color:#6699FF"><font="center" color="#FFFFFF">&nbsp;<b>Keith</b>ology&nbsp;</font></span>]][[User talk:Keithgreer|<span style="background-color:green"><font ="center" color="#FFFFFF">&nbsp;<small>Talk!</small>&nbsp;</font></span>]] 13:17, 11 September 2006 (UTC)
+
+The ministers from 1999 to 2002 were moved to ''various articles''.  Which ones? --[[User:Hro%C3%B0ulf|Hroðulf]] (or Hrothulf) ([[User talk:Hro%C3%B0ulf|Talk]]) 15:38, 11 September 2006 (UTC)
+:The department articles, I also wikified the tables... {{Northern Ireland Executive}}[[User:Keithgreer|<span style="background-color:#6699FF"><font="center" color="#FFFFFF">&nbsp;<b>Keith</b>ology&nbsp;</font></span>]][[User talk:Keithgreer|<span style="background-color:green"><font ="center" color="#FFFFFF">&nbsp;<small>Talk!</small>&nbsp;</font></span>]] 16:36, 11 September 2006 (UTC)
+
+== Mechanics of the apportionment of ministries ==
+
+Does anyone know the details of how the ministries are apportioned among the various parties in the assembly?  Does it go strictly by the number of seats the parties hold, or does the formula allot a portion to Unionist and a portion to Nationalist parties, and then divide those portions among the parties?  Is there a minimum or maximum number of parties that can be represented in the Executive?  Can cross-community parties hold ministries?  And who decides which specific ministries go to which parties, and which MLAs? --[[User:Jfruh|Jfruh]] ([[User talk:Jfruh|talk]]) 19:43, 8 March 2007 (UTC)
+
+:I added some info on this based on what I've been reading in the wake of the election.  Please edit as necessary. --[[User:Jfruh|Jfruh]] ([[User talk:Jfruh|talk]]) 00:25, 4 April 2007 (UTC)
+
+:Off the top of my head, unless it's been modified since, the allocation is a very strict order of claim based on the size of an assembly party (with ties broken by which party had the more votes at the previous election). So very slight changes of numbers can alter the Unionist-Nationalist balance - IIRC in the 2003-2007 Assembly, which never actually elected an Executive, the nominal entitlement did see one seat switch between Unionists and Nationalists a few times due to various Unionists leaving one party and/or joining another, thus tipping the balance for which party would get the last seat. The Ulster Unionists announced a sort-of coalition with the Progressive Unionists, announcing they registering the "Ulster Unionist Assembly Party Group" made up of the two, but it was ruled out of order as not fitting the legal definition of a "party".
+
+:The allocation involves the Speaker calling the various party leaders in the order of entitlement to literally pick a ministry and nominate one of their members to it then the next party gets one from whatever's left - and the only way to prevent the possibility of a particular party getting a certain contentious ministry is to beat them to it. If a party leader declines to nominate then the seats they would otherwise have go to whoever's entitled to an 11th seat (the formula could run to an infinite Executive) and in the 1999 nomination that proved an abortive farce some of the smaller parties were eventually offered the chance to nominate due to others declining. The parties can, of course, agree the ministries they're each going to take in advance, but that can only work when all are in accord. [[User:Timrollpickering|Timrollpickering]] ([[User talk:Timrollpickering|talk]]) 01:41, 23 December 2007 (UTC)
+
+== Current Executive ==
+I recently reverted the edit of the section on the Current Executive, the reason was that the '''Current Executive''' is made up of Labour party members responsible for Northern Ireland. If we are going to be a [[Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_crystal_ball|crystal ball]] then it should be made clear that the details listed are that of a '''future executive'''. Party meta data and a couple of relevant news sources have been added. «&nbsp;'''[[User:Keithgreer|Keith]]'''&nbsp;<sup>[[User_talk:Keithgreer|t]]</sup>/<sub>[[Special:Emailuser/Keithgreer|e]]</sub>&nbsp;» 12:05, 3 April 2007 (UTC)
+
+== "The Assembly elects the First Minister and Executive"? ==
+
+Hi, based on what I have been reading about the mechanics of the appointment of the executive, I'm not sure if this sentence from the opening paragraph is really accurate.  Ministries are handed out in proportion to the party control in the Assembly, but I'm not sure that the Assembly "elects" the Executive in the sense that its membership gets to cast yes-or-no votes on its composition.  For instance, Unionist parties currently control an absolute majority of seats in the Assmebly, but if they decided they wanted to keep Nationalists out of the Executive, they could not reject the current composition by voting against it the way a Westminster-based legislature could bring down a cabinet with a vote of no confidence.  I'm not sure who in theory appoints the members of the Executive -- the Sec. of State for NI? -- but I think this sentence probably needs to be rephrased. --[[User:Jfruh|Jfruh]] ([[User talk:Jfruh|talk]]) 00:36, 4 April 2007 (UTC)
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as start, and the rating on other projects was brought up to start class. [[User:BetacommandBot|BetacommandBot]] 16:07, 10 November 2007 (UTC)
+
+==Fair use rationale for Image:Northern Ireland Executive Logo.gif==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Northern Ireland Executive Logo.gif]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Northern Ireland Executive Logo.gif|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.<!-- Template:Missing rationale2 -->
+
+
+[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 15:14, 19 November 2007 (UTC)
+:As the flax is the official logo of the assembly I think it should still be included in some form or another on this page.  Think that it would constitute fair use.[[User:Njg|Njg]] ([[User talk:Njg|talk]]) 02:35, 24 November 2007 (UTC)
+::opps trying too many points at the one time. Wrong page for this to be included. sorry.[[User:Njg|Njg]] ([[User talk:Njg|talk]]) 02:39, 24 November 2007 (UTC)
+
+==Content for pages on individual departments/agencies==
+Anyone got any ideas on the level of information that should be included in the individual pages for the departments and or agencies? As it stands there is very little information. I would imagine that we should provide more information on the remit of the department and at the very least the permanent secretaries.  Also some of the structure of the department.
+Perhaps it should also included significant programmes/policies that are currently being implemented.[[User:Njg|Njg]] ([[User talk:Njg|talk]]) 02:35, 24 November 2007 (UTC)
+
+==Suspension of Executive/Assembly as against NI Departments==
+On a point of information while the executive and assembly was in suspension from 2002-2007 the departments were not, they operated with direct rule ministers.  Direct rule ministers may have held multiple portfolios but each were publicly referred to as the minister for each of their departments. I think the table on ministers for each department should list the direct rule ministers rather than report it as "suspended".[[User:Njg|Njg]] ([[User talk:Njg|talk]]) 02:35, 24 November 2007 (UTC)
+
+==Fair use rationale for Image:Northern Ireland Executive Logo.gif==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Northern Ireland Executive Logo.gif]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Northern Ireland Executive Logo.gif|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.<!-- Template:Missing rationale2 -->
+
+[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 18:23, 29 November 2007 (UTC)
+
+
+== Wow, I can't believe this exists ==
+This article is shit.  It doesn't even include the most important thing that an article on this subject should include: The reason for a separate Northern Ireland governmental body.  It needs to be written (''written'', not rewritten, since no article, currently, has ''been'' written), to include the reason for the body's existence, instead o a pointless list of every single remember of the body.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="Edwardian Script ITC" color="#9B30FF" size="5">~Rayvn</font>&nbsp; 00:37, 25 May 2010 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[Northern Ireland Executive]]. Please take a moment to review [[special:diff/814721859|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20111025002023/http://www.dcalni.gov.uk/index/language-cultural-diversity-r08.htm to http://www.dcalni.gov.uk/index/language-cultural-diversity-r08.htm
+*Added archive https://web.archive.org/web/20101216033032/http://www.niassembly.gov.uk/record/reports/980701.htm to http://www.niassembly.gov.uk/record/reports/980701.htm
+*Added archive https://web.archive.org/web/20110613192114/http://www.niassembly.gov.uk/record/reports2011/110512.htm to http://www.niassembly.gov.uk/record/reports2011/110512.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 14:44, 10 December 2017 (UTC)

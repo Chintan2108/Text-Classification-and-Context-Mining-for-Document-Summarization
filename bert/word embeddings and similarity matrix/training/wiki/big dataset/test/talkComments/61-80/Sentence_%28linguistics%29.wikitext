@@ -1,0 +1,123 @@
+{{Vital article|topic=Society|class=C|level=4}}
+{{wikiProject Linguistics|importance=high|class=C}}
+{{afd-merged-from|Sentence length (linguistics)|Sentence length (linguistics)|20 December 2011}}
+==Milestone #1== 
+By examining the C-class Wikipedia article “Sentences”, one is able to see where some improvements can be made on the article with the PDF “Evaluating Wikipedia”. 
+First and foremost, we can see in the lead section, that although there is a sufficient definition of “sentence”, the lead doesn’t summarize the key points in the article. Furthermore, the article gives examples from a Charles Dickens book, naming different types of sentences which would be a good section or subsection within the article, but then fails to mention them again.“Sentences” has six main sections, the first of these being “Components”. However, we can see that this section lacks balance – it only has one subsection, covering clauses- and this is an insufficient amount about the components of sentences, as we know that 1) there are multiple types of clauses, which are not covered OR lack examples in the section, and 2) clauses are not the only things that make up sentences. Lastly, although the article contains many references from books and journals, it is not complete nor is it uniform, lacking some retrieval dates, authors and dates of article/book publications, as well as seems to lack one style for the bibliography to follow. 
+
+18/09/2014 [[User:Stephedwood|Stephedwood]] ([[User talk:Stephedwood|talk]]) 23:32, 18 September 2014 (UTC)
+
+:::Ling 300, UBC, right? You've now critiqued others work in a sweeping fashion. My guess is that it took you about an hour to produce your critique. Keep in mind that others have donated a lot of their own time here (and they are not receiving a grade and course credit for their effort). Pass this message on to your instructor. --[[User:Tjo3ya|Tjo3ya]] ([[User talk:Tjo3ya|talk]]) 02:10, 19 September 2014 (UTC)
+
+== Who's in Charge Here? ==
+
+I'd venture to say that 99.99% of English-speaking people would never answer the above question with "I". In this case, if one were to use a single word to reference one's self, that word would be "me". It may not fit neatly into some linguistic theories, but it's the correct word by convention. Little things like that bug me ;) <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:68.56.24.188|68.56.24.188]] ([[User talk:68.56.24.188|talk]] • [[Special:Contributions/68.56.24.188|contribs]]) {{{2|}}}.</small><!-- Template:Unsigned -->
+
+:I'd venture to say 35-75% of the population would say "I am."  At least, that'd feel more natural to me. <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:130.58.241.222|130.58.241.222]] ([[User talk:130.58.241.222|talk]] • [[Special:Contributions/130.58.241.222|contribs]]) {{{2|}}}.</small><!-- Template:Unsigned -->
+
+== A more global view might be warranted ==
+
+Shouldn't this article take a more global view of the sentence.... not just the strict linguistic one? At the moment it discusses ''legal'' and ''correct'' sentences without making it clear that this is only meaningful in some contexts. In popular usage the definition of sentence is a little bit more lax. [[User:Fabiform|fabiform]] | [[User talk:Fabiform|talk]] 20:32, 18 September 2005 (UTC)
+
+I dont think you quite get the concept of an internal grammar. Linguistics is all about description and not prescription. What to you may seem superficially like a "lax" sentence, is just a sentence like any other, and follows underlying patterns of what makes a sentence a sentence based on universal language principals. This article does not at all provide the recipe for a correct sentence, rather it outlines basic components.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.23.229.120|24.23.229.120]] ([[User talk:24.23.229.120|talk]]) 00:52, 17 April 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Another definition of sentence. ==
+
+I'm of the opinion that a sentence is a group of words that communicates a complete idea.
+
+I believe a sentence must have a subject and a predicate.
+
+The shortest sentence in the bible is "Jesus wept."
+
+I don't think "Go!" is a sentence, as it is incomplete. Sure we use it in speech and in text, but I still don't think it is definitevly a sentence. Go where?
+
+The same applies for "No."  No what?
+
+<small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:147.66.131.10|147.66.131.10]] ([[User talk:147.66.131.10|talk]] • [[Special:Contributions/147.66.131.10|contribs]]) {{{2|}}}.</small><!-- Template:Unsigned -->
+
+"Die!" <small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Kdammers|Kdammers]] ([[User talk:Kdammers|talk]] • [[Special:Contributions/Kdammers|contribs]]){{#if:{{{2|}}}|&#32;{{{2}}}|}}.</small><!-- Template:Unsigned -->
+
+== Sentence definition ==
+
+I think it is important to understand that a "sentence" is a ''graphological'' convention; that is, the sentence came into being and developed as writing systems came into being and developed.  The term 'sentence' is probably best reserved to label stretches of ''written'' text.  See Halliday and Matthiessen, ''An Introduction to Functional Grammar'' and Geoff Thompson, ''Introducing Functional Grammar''.
+
+--[[User:Jim.dvorak|Jim]] 20:19, 20 August 2006 (UTC)
+
+:I agree that the current definition for 'sentence' is completely bogus. [[User:WinterSpw|WinterSpw]] ([[User talk:WinterSpw|talk]]) 18:24, 23 May 2008 (UTC)
+
+== Bad example "The more, the merrier" ==
+
+''The more, the merrier'' is just a shorthand. The full expanded sentence would be regular compound sentence using the verb 'to be' twice, right? :
+
+''The more [persons there are], the merrier [the situtation/event will be].''
+
+<small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:198.185.18.207|198.185.18.207]] ([[User talk:198.185.18.207|talk]] • [[Special:Contributions/198.185.18.207|contribs]]) {{{2|}}}.</small><!-- Template:Unsigned -->
+
+:It's certainly not a regular compound sentence. You could argue that it's a regular complex sentence, with "the more [people there are]" serving as a adverb clause modifying "the merrier [the situation/event will be]", but I think this is missing the point, which is that the verb is implied; the sentence itself ("the more, the merrier") has no verbs. It's true that some more-normal structure can be imposed by taking fuller clauses to be elided, but the primary structure is one of parallel phrases, the implication being that two things go together. Similarly with many such adages: "in for a penny, in for a pound"; "like father, like son"; "no pain, no gain"; "out of sight, out of mind"; "once bitten, twice shy"; "waste not, want not"; and so on. (Well, that last one does have verbs, but I still think the true structure is one of parallel phrases rather than one of coordinated or subordinated clauses.) [[User:Ruakh|Ruakh]] 19:28, 16 November 2006 (UTC)
+
+== Article title ==
+
+Shouldn't the title be [[Sentence (syntax)]]? --[[User:S.Örvarr.S|Stefán Örvarr Sigmundsson]] ([[User talk:S.Örvarr.S|talk]]) 13:59, 18 April 2008 (UTC)
+
+== Do sentence fragments end in periods? ==
+
+According to proper grammar, do sentence fragments end in periods? Do independent clauses end in periods? [[User:WinterSpw|WinterSpw]] ([[User talk:WinterSpw|talk]]) 18:28, 23 May 2008 (UTC)
+
+:Good questions. [[Sentence fragment]] redirects here, yet "fragment" is not used in the article. --[[User:Jtir|Jtir]] ([[User talk:Jtir|talk]]) 20:40, 25 August 2008 (UTC)
+
+== When the concept of sentence appeared first? Who is the discoverer/inventor? ==
+
+Also, do the sentences appear in all natural languages?--[[User:MathFacts|MathFacts]] ([[User talk:MathFacts|talk]]) 14:49, 19 April 2010 (UTC)
+
+== Move to "[[expression (language)]]" ==
+{{Discussion top|1=This discussion yielded '''no consensus'''. The page was not moved. [[User:Cnilep|Cnilep]] ([[User talk:Cnilep|talk]]) 05:18, 24 December 2010 (UTC)}}
+"Expression" is more general, within which we can deal with "sentences" of any varied type, including "sentences" which employ unusual [[grammatical particles]] and functions. -[[User:Stevertigo|Stevertigo]] ([[User:Stevertigo/Log|w]] | [[User_talk:Stevertigo|t]] | [[Special:Contributions/Stevertigo|e]]) 23:55, 15 August 2010 (UTC)
+*'''Oppose'''. "Expression" is not specifically defined in linguistics. Terms such as "utterance," "clause," "sentence," "phrase," etc. each have a specific definition (sometimes more than one, but still a finite number of meanings). "Expression" is a common-language term that is not generally used in a technical sense within linguistics. [[User:Cnilep|Cnilep]] ([[User talk:Cnilep|talk]]) 15:48, 16 August 2010 (UTC)
+{{Discussion bottom}}
+
+== Sentence fragment ==
+
+Redirects here, but it's not even mentioned here. One can easily find example pages like [http://www.nipissingu.ca/english/hornbook/sentfrag.htm] Is there a more formal definition? [[User:Tijfo098|Tijfo098]] ([[User talk:Tijfo098|talk]]) 04:48, 15 April 2011 (UTC)
+
+The term does appear in more formal works, e.g. [http://books.google.com/books?id=2m3hk7cUImkC&pg=PA346] [http://books.google.com/books?id=GynxsDZmOBUC&pg=PA198] The latter has an interesting empirical observation, which may be worth mentioning here. Following up on that, it looks like sentence fragments are important in [[probabilistic linguistics]] [http://books.google.com/books?id=Ac5bgYVk8kwC&pg=PA31] and [[computational linguistics]] [http://books.google.com/books?id=Ar3-TXCYXUkC&pg=PA135] [[User:Tijfo098|Tijfo098]] ([[User talk:Tijfo098|talk]]) 05:03, 15 April 2011 (UTC)
+
+Apparently there is a thing called sentence-fragment test, which distinguishes a sentence fragment from gibberish [http://books.google.com/books?id=0a9No3819R0C&pg=PA112] [http://books.google.com/books?id=o6bPylFd1rMC&pg=PA72] (2nd ref assumes the [[transformational grammar]] framework) [[User:Tijfo098|Tijfo098]] ([[User talk:Tijfo098|talk]]) 05:06, 15 April 2011 (UTC)
+
+== Declarative sentence definition ==
+
+When I look at a statement as being that what is made by use of a (meaningful) declarative sentence and is truth-bearing, the current definition of a declarative sentence seems pretty bad.
+
+In the example "I am going home." we cannot say that this sentence makes a statement. According to Peter Strawson, the sentence itself cannot be truth-bearing, and only the ''use'' of a sentence can make a statement. The statement that can be made by the above sentence depends on the utterance of that sentence, not on the sentence itself. The sentence itself can be seen as merely a linguistic "tool" to make the statement. As such, I think the formulation "A declarative sentence ... makes a statement" is incorrect. This, of course, depends on how the term statement is defined.
+
+Thoughts on this?  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Kyouran Asuka|Kyouran Asuka]] ([[User talk:Kyouran Asuka|talk]] • [[Special:Contributions/Kyouran Asuka|contribs]]) 20:37, 21 June 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== English only? ==
+
+This article appears to only be about sentences in English, it would be helpful if it were expanded by a knowledgeable person to include other languages (if they have sentences, and to say so if they don't). Or at least we should point out that it is only about English sentences. [[Special:Contributions/110.33.96.186|110.33.96.186]] ([[User talk:110.33.96.186|talk]]) 15:01, 25 August 2011 (UTC)
+
+== Commas ==
+
+Does anyone else think that comma usage in the first two paragraphs is exceptionally poor?  Shouldn't articles on grammar and linguistics be held to a higher literary standard?  I don't like to criticize grammar since mine is far from perfect, but we wouldn't want people to start questioning the authority of the source.  
+
+[[User:Bradweir|Bradweir]] ([[User talk:Bradweir|talk]]) 22:31, 20 October 2011 (UTC)
+
+== Merged after AfD ==
+
+{{Copied|from=Sentence length (linguistics)|to=Sentence (linguistics)|diff=http://en.wikipedia.org/w/index.php?title=Sentence_%28linguistics%29&action=historysubmit&diff=466889943&oldid=466238401}}
+
+I copied the entire content into the "Analysis of sentence length" section, renaming it "Sentence length", changing the words "this article" to "this section", and indenting the headings by one layer. I copied the external links, in their original malformed form, into the External links section. [[User:PamD|<font color="green">'''''Pam'''''</font>]][[User talk:PamD|<font color="brown">'''''D'''''</font>]] 18:10, 20 December 2011 (UTC)
+
+== Statement, exclamation, request ==
+
+I have removed internal links to [[statement]], [[exclamation]], and [[request]]. All three are disambiguation pages which provide links to [[Sentence (linguistics)]]. Linking is therefore circular. I would suggest that if someone is interested in creating content on these sentence types they create pages called [[Statement (sentence)]] or the like. [[User:Cnilep|Cnilep]] ([[User talk:Cnilep|talk]]) 05:11, 2 March 2012 (UTC)
+
+The panagram you have as an example in incorrect. You have it as, "The quick brown fox  'JUMPs' over the lazy dog" I've also seen it as "JUMPED". Either way it still doesn't use every letter in the alphabet. Correct me if I am wrong [[User:Cbawahab1|Cbawahab1]] ([[User talk:Cbawahab1|talk]]) 20:56, 31 March 2019 (UTC)
+
+== {{gaps|"''Two''"|→|"''They were two''"|→|"''How many were there?''"}} ==
+The example allegedly showing a double [[Material conditional|implication]] for the [[mathematical object]] "number two"... maybe is not entirely suitable for the article. Because it seems like ''"(...) the [[Ontology|ontological status]] of mathematical objects has been the subject of much investigation and debate by [[philosophy of mathematics|philosophers of mathematics]]. (...)"''<ref>[[John P. Burgess|Burgess, John]], and Rosen, Gideon, 1997. ''A Subject with No Object: Strategies for Nominalistic Reconstrual of Mathematics''. [[Oxford University Press]]. {{ISBN|0198236158}}</ref>. And this could lead to [[Meaning (linguistics)|linguistic meaning ambiguity]]... [[w:en:User:Maurice Carbonaro|<span style="border:2px solid green;background:black;padding:1px;color:green;text-shadow:green 0.2em 0.2em 0.4em"><font face="Papyrus"><big>&nbsp;''' ''M'' '''</big><font color="white">''aurice''</font>&nbsp;</font></span>]] [[w:en:User talk:Maurice Carbonaro|<span style="border:2px solid green;background:black;padding:1px;color:green;text-shadow:green 0.2em 0.2em 0.4em"><font face="Papyrus"><big>&nbsp;'''C'''</big><font color="white">arbonaro</font><font color="green"></font>&nbsp;</font></span>]] 09:40, 28 April 2015 (UTC)
+
+{{reflist-talk}}
+
+: I think you're trying to make a universal-scope mathematics and philosophy problem out of a limited-scope concrete example of implicitness in everyday language. That is, trying to make it do more than it's meant to do in this context. The example is complete and valid for the purpose it's meant to serve. The point (and the ''only'' point, but a valid and necessary point for the context) is that if someone asks, "How many were there?", a reply of "Two" can be defined as both a clause and a sentence, in one of the definitions of each word (because its real-world meaning is not different from the real-world meaning of "There were two"), even though it does not meet the typical "Writing Composition 101" or "Foreign Language 101" requirements for the definition of a clause or a sentence (which require explicitness of words/ideas, not implicitness). A schoolmarm would say "That's not a sentence" because it doesn't meet her classroom's definition of one (which has a pedagogical purpose and thus is valid for its context), but that doesn't mean it isn't a sentence from a linguistic description standpoint. That's the point being made in this lede that is setting out a statement of "what a sentence is." The fact that I can't even understand the mathematical and/or philosophical argument you mentioned (because it is over my layperson head) may be a telling indicator here, because it shows that the point of the example's existence within the context of this article (which has limited scope and which I clearly see) is evidently something different from what the mathematical/philosophical argument may think the point is (which seems to be seeking a universal scope). By the way, I don't know whether "They were" was just a typo and whether this minor correction has any bearing on the math argument (I don't know because I don't understand the latter), but the example says "There were" (c'erano / había / il y avait / es gab), not "They were". Regards, [[User:Quercus solaris|Quercus solaris]] ([[User talk:Quercus solaris|talk]]) 23:56, 28 April 2015 (UTC)
+:: PS—I just made an edit to improve the syntax and thus possibly alleviate the concern (?)—"X as a reply to Y implies Z" (set up a limiting condition, a restrictive) rather than "X implies Z as a reply to Y" (could be parsed as something absolute/universal—but that's not what's meant). [[User:Quercus solaris|Quercus solaris]] ([[User talk:Quercus solaris|talk]]) 00:04, 29 April 2015 (UTC)
+:::LOL. I have learned a new word today:  [[Wikt:schoolmarm|schoolmarm]]. Thanks for your contributions [[User:Quercus solaris|Quercus solaris]] ([[User talk:Quercus solaris|talk]]). Have a nice day. [[w:en:User:Maurice Carbonaro|<span style="border:2px solid green;background:black;padding:1px;color:green;text-shadow:green 0.2em 0.2em 0.4em"><font face="Papyrus"><big>&nbsp;''' ''M'' '''</big><font color="white">''aurice''</font>&nbsp;</font></span>]] [[w:en:User talk:Maurice Carbonaro|<span style="border:2px solid green;background:black;padding:1px;color:green;text-shadow:green 0.2em 0.2em 0.4em"><font face="Papyrus"><big>&nbsp;'''C'''</big><font color="white">arbonaro</font><font color="green"></font>&nbsp;</font></span>]] 06:49, 29 April 2015 (UTC)

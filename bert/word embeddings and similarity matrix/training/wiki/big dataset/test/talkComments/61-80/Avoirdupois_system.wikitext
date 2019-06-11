@@ -1,0 +1,202 @@
+{{Vital article|topic=Science|subpage=Basics|level=5|class=C}}
+{{WPMeasure|class=C|importance=High
+| b1 <!--Referencing & citations--> = no
+| b2 <!-- Coverage and accuracy --> = <yes/no>
+| b3 <!-- Structure             --> = <yes/no>
+| b4 <!-- Grammar and style     --> = <yes/no>
+| b5 <!-- Supporting materials  --> = <yes/no>
+| b6 <!-- Accessible            --> = <yes/no>}}
+
+{{tocright}}
+...what does its name mean? "to have some peas"? "saw some peas"? "to have some weight" would make sense...has a D disappeared (or been added in the language)? [[User:Kwantus|Kwantus]] 18:44, 2004 Dec 4 (UTC)
+
+:Both [[Webster's Dictionary]] and the [[Oxford English Dictionary]] have it as a corrupt spelling of ''avoir de pois'', "goods of weight" in [[Old French]]. —[[User:Caesura|Caesura]][[User talk:Caesura|<sup>(t)</sup>]] 18:06, 16 December 2005 (UTC)
+
+The English system of Avoirdupois is called the Imperial system, I will change this now. --[[User:The1exile|The1exile]] 19:27, 31 December 2005 (UTC)
+
+Changed the "French forms" list - removed modern English abbreviations, and made the French forms primary.
+At least it doesn't now appear to say that twenty hundredweights make a tonne, which is just plain wrong.
+Should the quarter really be in there?
+
+:singular for "quinteaux" is "quintal", not "quinteau".I replaced it.
+
+:I have no objection to "quintal" - that makes the plural "quintaux", though, surely? How about "quarter"? I can't see that as being French - modern cognate forms are "quart" and "quartier". Anyone know? Does it belong there at all? -- [[User:Ian Dalziel|Ian Dalziel]] 23:17, 30 March 2006 (UTC)
+
+:: In france, we rather say "demi-livre" (half pound) rather than a "quart de kilo" so I guess "demi-livre" is better [[User:Koubiak|Koubiak]] 14:36, 4 April 2006 (UTC)
+
+== Pronunciation? ==
+
+Ah-vohr-du-pwah  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/101.99.210.47|101.99.210.47]] ([[User talk:101.99.210.47#top|talk]]) 04:44, 4 October 2017 (UTC)</small> <!--Autosigned by SineBot-->
+
+It'd be nice. :)<small>—The preceding [[Wikipedia:Signatures|unsigned]] comment was added by [[User:RobertM525|RobertM525]] ([[User talk:RobertM525|talk]] • [[Special:Contributions/RobertM525|contribs]]){{#if:{{{2|}}}|&#32;{{{2}}}|}}.</small><!-- Template:Unsigned -->
+
+== Peas again ==
+"avoir du pois" does not mean "goods of weight." "Avoir" is the French infinitive of the verb "to have," "du" is a contracted form of "de le" which means "of the," and "pois" is "pea." It literally translates to "having a pea." My guess however, is that this in an incorrect form and the correct form would be "avoirdupoids." This translates exactly to "having weight" and is pronounced phonetically identically to "avoirdupois." In searching the web, I discovered many websites, particularly French language sites, that use the spelling "avoirdupoids." I am much too tired to fully research this, which is why I am not actually changing this article, but wanted to make a note that in either case the translation of the word in the article is incorrect, and that it is my belief that the correct form (and ergo title) should be "avoirdupoids." <small>—The preceding [[Wikipedia:Signatures|unsigned]] comment was added by [[User:Nybgrus |Nybgrus ]] ([[User talk:Nybgrus |talk]] • [[Special:Contributions/Nybgrus |contribs]]){{#if:{{{2|}}}|&#32;{{{2}}}|}}.</small><!-- Template:Unsigned -->
+
+:As the article says, the derivation is from OLD French - "peis", then "pois", which DOES mean "weight". -- [[User:Ian Dalziel|Ian Dalziel]] 12:37, 1 November 2006 (UTC)
+
+::In French, ''avoir du poids'' definitely means ''To have some weight''. The deformation poids=>pois makes sense (''Poids'' comes from the Latin ''Pesum'', and gave also ''pesant'' i.e. ''weighting'' ). On the other hand, ''Avoir du pois'' (''Have one pea'') does not make sense at all as a French sentence.  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Remi.chateauneu|Remi.chateauneu]] ([[User talk:Remi.chateauneu|talk]] • [[Special:Contributions/Remi.chateauneu|contribs]]) 12:23, 1 August 2012 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+==Avoir==
+
+I'de just want to notice that in french "Avoir" can mean To have but it can sometime mean income or possession which would be "l'avoir" or "un avoir" I guess avoirdupois would much better means "income by weight"  but i guess "goods by weight" is pretty close, sometime it is just impossible to have a 100% accurate translation between 2 languages, if happen often when we try to translate expressions, I guess this is one case...
+
+
+[[User:Cadors|Cadors]] 18:31, 27 March 2007 (UTC)
+
+== Quarter is French? ==
+
+In the French chart, is the word "quarter" accurate?
+[[User:GeorgeLouis|GeorgeLouis]] 05:06, 30 August 2007 (UTC)
+:I doubt it. See comments under "current revision". -- [[User:Ian Dalziel|Ian Dalziel]] 10:29, 30 August 2007 (UTC)
+"quarter" is still being used as one of the "Original French forms." What gives here? Who is responsible for this? Is there a source for any of this? [[User:GeorgeLouis|GeorgeLouis]] 20:49, 24 October 2007 (UTC)
+
+:Gone. No,there isn't a source for any of it as far as I know. -- [[User:Ian Dalziel|Ian Dalziel]] 22:08, 24 October 2007 (UTC)
+
+== Pound unit of force? ==
+
+Generally, there's a difference between mass and weight.  Mass is the amount of matter an object has.  Weight is a measure of the amount of force exerted on the object by gravity.  A kilo is a kilo everywhere, Earth, Moon, or Jupiter, so a person with a mass of 80 kg will be 80 kg any of those places.  But, a pound is equivalent to 4.45 Newtons (N) a measure of force.  Hence, the 80 kg person would weigh 784 N on Earth or 176 lbs, but on the moon would weigh only 128 N or about 29 lbs. (Acceleration of gravity being about 9.8 m/s2 on Earth and 1.6 m/s2 on the Moon [ 80 kg * 9.8 m/s2 = 784 kg m/s2 = 784 N and: X lbs = 784 N * 1/4.45 N])
+
+That being said, I think the old Imperial system does distinguish between a pound of mass and a pound of force, but I'm honestly not sure.  [[User:24.78.139.32|24.78.139.32]] 03:13, 24 October 2007 (UTC)Cheers, Peter-Jean
+: See [[poundal]]. [[User:Mmm|Mmm]] 16:56, 24 October 2007 (UTC)
+
+::"Pound" is a unit of 'weight'.  The quantity of weight existed before it was divided into 'force-of-weight' and 'inertia-of-weight' (aka 'mass').   In any case, it is generally understood that for any early use of 'weight', the proper method of comparison is by a beam balance, which relies on gM, as long as g is the same on both sides of a balance.  This is usually a problem only when one gets to eight places of significant digit.
+
+::In any case, 'avoirdepoise' corresponds to what is called in German "Handelmass" (trade-weight), as opposed to the apothecaries and troy weights.  Avoirdepoise corresponds to those units for which the bulk of trade is regulated in. --[[User:Wendy.krieger|Wendy.krieger]] 08:23, 16 November 2007 (UTC)
+
+Generally, there's a difference between mass and weight. Mass is the amount of matter an object has. Weight is a measure of the amount of force exerted on the object by gravity. A kilo is a kilo e-[[User:Wendy.krieger|Wendy.krieger]] 08:23, 16 November 2007 (UTC)
+
+:Is a frog an amphibian? You can argue with a biologist about this all day long, but you won't change the minds of people who make violin bows. Frog may be the name of an animal, but it's also the name of a part of a bow. Similarly "weight" has one meaning in physics, quite another in law, government, and commerce. The avoirdupois system is a legal system of mass units in the USA, Burma, and Liberia. Physicists do not use this system. [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 18:58, 25 December 2011 (UTC)
+
+::True enough they *avoid* it, but certainly physicists have used and do use it... if only as a matter of conversion.  The physics teachers/professors I've known happily pointed out that the English/avoirdupois unit for mass is the [[Slug_(mass)|slug]].  But I've never seen that unit outside a physics class, and using pounds as both force and mass seems to be vastly more common.  I have never seen "poundal" in use (for force) that I can recall. Seems like some clarification of the various usages might be useful.  That the pound is used in practice ambiguously as either force or mass, however, is definitely true, at least in the US. --[[User:Blue9292|Blue9292]] ([[User talk:Blue9292|talk]]) 01:18, 9 January 2012 (UTC)
+
+== Mass ==
+The Pound Unit of Force discussion above does not address the issue. The Avoirdupois article should not have the clause, "(or, properly, mass)." It is a measurement system of weight and not a measurement system of mass. The only mention of mass should be one disclaiming its relation to the Avoirdupois system of measurement. --[[Special:Contributions/72.10.223.116|72.10.223.116]] ([[User talk:72.10.223.116|talk]]) 04:19, 16 January 2008 (UTC)
+
+: As described in the article, the pound is officially defined in terms of the kilogram, which is a measure of mass. So the maybe that clarification should be added earlier in the article. --[[User:Mmm|Mmm]] ([[User talk:Mmm|talk]]) 02:56, 30 January 2008 (UTC)
+
+== Sack ==
+The sack is here reported, as in various places such as Britannica, as being 26 stones (364 pounds). However, the [[wiktionary:sack|wiktionary entry]] puts it at 13 stones (182 pounds), along with a quotation to ''A History of Agriculture and Prices in England'', by [[James Edwin Thorold Rogers]]. This quotation is also in the articles on tod and stone. Is it a misquotation, or was the eminent economist mistaken?
+Does anybody have access to the book? [[User:Ratfox|Ratfox]] ([[User talk:Ratfox|talk]]) 15:53, 23 May 2008 (UTC)
+:I believe there was more than one sack. Hundreds possibly. In the 19th century we had a similar problem with barrels. Many states had their own apple barrels, beer barrels, wine barrels, etc. The 364-pound sack is the wool-sack, equal to 26 wool-stones of 14 wool-pounds each. The wool-pound is also known as the avoirdupois wool-pound or avoirdupois pound. The avoirdupois weight system was originally for weighing wool. Wool was once to England what oil is to Saudi Arabia (see [[Woolsack]]). All those other stones and sacks were for measuring something else. For example, the butchers' stone was for weighing meat. [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 23:40, 30 December 2011 (UTC)
+
+==Troy weight==
+Please check the figure. The figure shows 450 grains for a Troy ounce. The Wikipedia article "Troy weight" shows 480 grains for a Troy ounce. The two articles are contradictory. Please correct whichever is in error.
+
+(Added on the page by 168.103.235.25 - moved by [[User:Ian Dalziel|Ian Dalziel]] ([[User talk:Ian Dalziel|talk]]) 09:31, 16 August 2009 (UTC))
+
+:Checked. The figure shows 450 grains for a ''tower'' ounce, which is correct. --[[User:Ian Dalziel|Ian Dalziel]] ([[User talk:Ian Dalziel|talk]]) 10:31, 16 August 2009 (UTC)
+
+== Commonly used for metals? ==
+
+"It is also commonly used for metals, such as gold and silver" in the introduction is misleading. Gold and silver are more commonly measured using Troy ounces not Avoirdupois ounces. I think this should be worded differently or removed completely. [[Special:Contributions/216.57.96.1|216.57.96.1]] ([[User talk:216.57.96.1|talk]]) 20:51, 6 January 2011 (UTC)
+
+:I have fixed this recent introduction of incorrect info. --04:09, 31 January 2011 (UTC)
+
+== References, please ==
+
+This article has no inline references, but the two "citation needed" templates were on statements that were least in need of them. I have moved them to statements of historical fact that really should have references. Please provide your sources for those statements, thanks. [[User:Dlw20070716|Dlw20070716]] ([[User talk:Dlw20070716|talk]]) 23:38, 20 July 2011 (UTC)
+==File:English mass units short.png Nominated for speedy Deletion==
+<!--TSTAMP:{{{4}}}-->
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| <!--IMAGES-->
+An image used in this article, [[:File:English mass units short.png|File:English mass units short.png]], has been nominated for speedy deletion for the following reason: ''All Wikipedia files with unknown copyright status'' 
+<!--/IMAGES-->
+;What should I do?
+''Don't panic''; you should have time to contest the deletion (although please review [[WP:CSD|deletion guidelines]] before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to provide a [[WP:FUR|fair use rationale]]
+* If the image isn't freely licensed and there is no fair use rationale, then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[WP:DRV|Deletion Review]]
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 14:04, 19 October 2011 (UTC)
+|}
+
+== Proposed changes ==
+
+I would like to make some changes to this article, but thought I'd mention them here first.<br />
+
+In the  '''History of the term''' section the expression "imaginative orthography" seems dated. Middle English was written as it was spelled.<br />
+
+'''Original forms''' section. I would like to delete this section and replace it with a '''History''' section. Since this is a rather complicated subject, I will post more information here on the discussion page, including my sources, so that if anyone has questions or comments, we can discuss it before I make any changes to the article.<br />
+
+'''British adaptation''' section. I would like to rename it.<br />
+
+'''American customary system''' and I'''nternationalization''' sections look OK. [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 14:34, 27 December 2011 (UTC)
+
+'''MORE INFO'''<br />
+
+United States National Bureau of Standards [http://books.google.com/books?id=ycgOAAAAQAAJ&pg=PA22 Weights and Measures (1962)] [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 16:17, 27 December 2011 (UTC)
+
+{{Cite journal| last=Skinner | first=F.G. | journal=Bulletin of the British Society for the History of Science | title=The English Yard and Pound Weight | year=1952 | doi=10.1017/S0950563600000646 | volume=1 | pages=184-6| issue=7 }} [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 16:21, 27 December 2011 (UTC)
+
+Guys:
+Origin:
+1250–1300; Middle English avoir de pois  literally, property of weight < Old French,  equivalent to avoir  (earlier aveir  < Latin habēre  to have) + de  (< Latin dē ) + pois  (earlier peis  < Latin pēnsum )  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.181.165.118|72.181.165.118]] ([[User talk:72.181.165.118|talk]]) 00:21, 3 January 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:I can't find "Guys." Can you give me a first name or a book title? As I understand it, the dispute here is about whether it meant property of weight or something more substantive, specifically, a class of goods. [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 02:23, 3 January 2012 (UTC)
+
+== Abbreviation ==
+
+What is the abbreviation?
+
+[[User:Victorsteelballs|Victorsteelballs]] ([[User talk:Victorsteelballs|talk]]) 23:12, 15 May 2012 (UTC)
+
+:Thanks. I just added the abbreviation (with reference) but am not sure if I put it in the right place. Maybe before the word ''system''? [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 00:15, 16 May 2012 (UTC)
+
+::Might be a good idea to place abbreviation with (oz) in table for American use. Perhaps also follow through and check main article for United States customary units to see if the abbreviation needs adding there. Confusion can occur between volume ounces and weight ounces:some liquid/semi-liquid foodstuffs are sold by weight and not volume as some might expect.[[User:Victorsteelballs|Victorsteelballs]] ([[User talk:Victorsteelballs|talk]]) 18:56, 13 June 2012 (UTC)
+
+== Superscript O, not a degree sign? ==
+
+I've been using the degree sign a lot over the years, especially in [[Weights and Measures Act]] (where about 90% of the edits are mine). Since typography is one of my favorite subjects, this seems like a wonderful new thing to learn. However, I've been trying to fact-check it, and am running into difficulty. Any suggestions on sources accessible online? Thanks in advance. [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 14:34, 15 March 2014 (UTC)
+
+:You have not provided sufficient context to understand your question. But I think it apparent that the degree sign should only be used for degrees of temperature or angle. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 15:12, 15 March 2014 (UTC)
+
+::Sorry, I was referring to the most recent edit to this article:
+
+::A statute of Henry VIII (24° Henry VIII. Cap. 3) made avoirdupois weights mandatory.
+::A statute of Henry VIII (24<sup>o</sup> Henry VIII. Cap. 3) made avoirdupois weights mandatory.
+
+::13:50, 14 March 2014‎ Indefatigable (talk | contribs)‎ m . . (17,022 bytes) (+56)‎ . . (→‎History: This notation comes from the Latin -mo ending, so should be a superscript O, not a degree sign
+
+::I'm looking for a source that explains the superscript o. It sounds right, but I can't find anything. I'll keep looking.
+::[[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 15:50, 15 March 2014 (UTC)
+
+:::If the notation is so obscure with respect to English statutes, maybe an unabbreviated name for the statute should be used; it is unreasonable to expect that a reader interested in measurements in use today will necessarily be a scholar of 15th century English law. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 20:46, 15 March 2014 (UTC)
+
+::::The notation is actually more recent, from the most widely available published editions dating to the 18th and 19th centuries. As for obscurity, that may be a matter of perspective. "Bangers and mash" sounds like gibberish to the average American, but it's a familiar term in the UK. "A cappella" and "allegro" could seem needlessly obscure to people who've never studied music. Here in the US we sometimes encounter citations of the form, "Privacy Act of 1974, 5 U.S.C. § 552a." You don't need to have studied law to recognize this as a common legal citation format. A citation like that just indicates that you could look it up if you wanted to, even if you don't know what the "§" doohicky is called.
+
+::::I did a little more research and found what I was looking for. It's the [[Ordinal indicator#Latin|Latin ordinal indicator]] and not just used in Latin. [[User:Zyxwv99|Zyxwv99]] ([[User talk:Zyxwv99|talk]]) 02:22, 16 March 2014 (UTC)
+
+== Canada doesn't really use this... ==
+
+Just wanted to check and make sure it would be ok if I deleted the reference to Canada using it in every day life.  I only use it on rare occasions when I am forced to (dealing with measurements from the U.S.A.)... Don't want to lend any untrue credence to this method of measurement =P  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/205.236.14.89|205.236.14.89]] ([[User talk:205.236.14.89|talk]]) 16:48, 27 April 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+I understand if ''you'' don't use it, or even if most of the people you know don't use it, but according to every reference I just checked (eight in all), Canada '''does''' officially use avoirdupois. I mean no offense. I just thought you should know. Personally I don't like the Imperial system either, but sadly four countries still use it (the U.S.A., U.K., Canada and Liberia), and three at least are obviously very influential internationally.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2602:306:CE20:9900:44DC:DDC0:712C:47C7|2602:306:CE20:9900:44DC:DDC0:712C:47C7]] ([[User talk:2602:306:CE20:9900:44DC:DDC0:712C:47C7|talk]]) 04:26, 7 September 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== English Pronunciation ==
+
+I just wanted to bring it to your attention that the English pronunciation of ''avoirdupois'' given here is misleading both descriptively ''and'' prescriptively, at least if correctness is measured logically, by a word's phonetic value as pronounced by the majority of the speakers of a language. Though a minority of speakers might pronounce the word as described herein, in most standard dialects and registers of modern English, the correct pronunciation (and, yes, enunciation) is /ˌävərdəˈpwä/. While Merriam-Webster, for instance, will agree with the pronunciation given here, most other dictionaries (online and hard-copy) show the aforementioned way as proper, including (significantly) the OED, which most linguists and English language students will recognize as being the definitive reference where lexicon and phonetics are concerned. To verify my suspicions I also consulted the ''TIMIT Acoustic-Phonetic Continuous Speech Corpus'', the ABNC (''Audio British National Corpus'') and the CEC (''Cambridge English Corpus''). It is my belief that four works of reference, including three prestigious English language corpora, are enough. In summation, I mean no offense, but simply wanted to inform whomever it may concern, as I cherish Wikipedia (and its offspring), tend to believe its articles and abhor those fools that have no faith whatsoever in its veracity. Eventually I'd like to contribute to the site myself. I've donated to the Foundation in the past, but would like to write and/or edit as well, holding that if one is happy for having access to something so beautiful, it is not only his/her duty but honor to contribute to its continued success. Alas, right now I lack the time to do so, but wanted to at ''least'' contribute '''something'''. =)  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2602:306:CE20:9900:44DC:DDC0:712C:47C7|2602:306:CE20:9900:44DC:DDC0:712C:47C7]] ([[User talk:2602:306:CE20:9900:44DC:DDC0:712C:47C7|talk]]) 04:19, 7 September 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:6|one external link|6 external links}} on [[Avoirdupois]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=745666031 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20061126120208/http://ts.nist.gov/WeightsAndMeasures/Publications/upload/h4402_appenc.pdf to http://ts.nist.gov/WeightsAndMeasures/Publications/upload/h4402_appenc.pdf
+*Added archive https://web.archive.org/web/20120426091329/http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=200 to http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=200
+*Added archive https://web.archive.org/web/20120426091437/http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=197 to http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=197
+*Added archive https://web.archive.org/web/20150518094202/http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=198 to http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=198
+*Added archive https://web.archive.org/web/20120426091329/http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=200 to http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=200
+*Added archive https://web.archive.org/web/20120426091437/http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=197 to http://www.winchestermuseumcollections.org.uk/index.asp?page=item&mwsquery=%7Btotopic%7D=%7Bweights%20and%20measures%7D&id=197
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 15:14, 22 October 2016 (UTC)
+
+== photo ==
+
+The first is a beautiful photo of a very nice scale, but it seems to be metric, on the cgs system!  Isn't this article about an entirely different, even competing, system of units?  [[User:Ragityman|rags]] ([[User talk:Ragityman|talk]]) 17:10, 3 August 2018 (UTC)

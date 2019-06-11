@@ -1,0 +1,891 @@
+{{Vital article|topic=Art|level=4|class=C}}
+{{Talk header}}
+{{ArticleHistory
+|action1=FAC
+|action1result=not promoted
+|action1date=15:24, 30 Jun 2004 
+|action1oldid=4468337
+|action1link=Wikipedia:Featured article candidates/Archived_nominations/Index/June_2004#Dracula
+|currentstatus=FFAC}}
+{{WikiProjectBannerShell|1=
+{{NovelsWikiProject|class=c|importance=Top|19thC-task-force=yes|19thC-importance=Top}}
+{{HorrorWikiProject|class=c|importance=Top}}
+{{WikiProject Yorkshire|class=C|importance=Mid}}
+{{WikiProject Death|class=c|importance=mid}}
+{{WikiProject Romania|class=
+}}
+}}
+{{OnThisDay|date1=2011-05-26|oldid1=430984967|date2=2014-05-26|oldid2=610098921}}
+
+{{archive box|[[/archive 1|1]], [[/archive2|2]]}}
+
+== Dracula's guest section ==
+
+This seems a bit confusing:
+"a wolf then emerges through the blizzard and attacks him. However, the wolf merely keeps him warm and alive until help arrives."
+If the wolf does indeed attack Harker, it doesn't "merely" keep Harker warm. Attacking someone is a bit more than just keeping them warm and alive. I suggest this should be rephrased. -[[Special:Contributions/95.34.0.173|95.34.0.173]] ([[User talk:95.34.0.173|talk]]) 15:10, 30 August 2009 (UTC)
+:Good point. How should we edit it? Give me ideas to help. <span class="nowrap"><span style="border:2px solid; font-family:Trebuchet MS;"><span style="background:#ff0000;">[[User:Oshawott 12|<span style="color:#000;">Oshawott 12</span>]] ==(</span>)== [[User talk:Oshawott 12|Talk to me!]]</span></span> 10:39, 23 October 2018 (UTC)
+
+== Sequel ==
+
+Bram Stoker's great-grand-nephew Dacre Stoker and direct-to-DVD-Slasher-film-writer Ian Holt's sequel "The Undead" is only one of many many so-called sequels to "Dracula." As Dracula is public doman, Dacre and Holt have no more claim to the title of 'actual sequal' than any other writers.
+I think it is wrong to include their book and no others in this article. Perhaps the best thing would be to move any mention of any so-called 'sequels' to the "Dracula in Pop Culture" article. [[User:BoosterBronze|BoosterBronze]] ([[User talk:BoosterBronze|talk]]) 21:20, 27 October 2009 (UTC)
+
+I agree, I think at least we should move the external link for the undead site from the dracula page to the dracula undead page.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.73.190.249|74.73.190.249]] ([[User talk:74.73.190.249|talk]]) 19:17, 15 January 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+The section on BACKGROUND of the novel "Dracula" doesn't need to include any refrence to a distant relative of Stoker's attempt to write a sequel a century later. It's irrelevant and gives undue weight to the otherwise hardly notable novel "Dracula The Undead." [[User:BoosterBronze|BoosterBronze]] ([[User talk:BoosterBronze|talk]]) 15:54, 18 March 2011 (UTC)
+
+:Certainly the information that was in there saying they did so try reclaim creative control over the original character was misleading in suggesting that such a thing were possible. [[User:DreamGuy|DreamGuy]] ([[User talk:DreamGuy|talk]]) 18:50, 19 March 2011 (UTC)
+
+== Draculea ==
+
+It says clearly in the "Search for Dracula" book, and in Romania, the Romanians themselves attest that the proper diminutive is Draculea and not Dracula. Dracula would be the feminine version. I know this wont change the article or suddenly cause all the books and movies to be re-written or retitled. It is a spelling error similar to the one for Aluminum Aluminium, one that caught on and now we're stuck with it. i only bring it up because it's a FACT and this is supposed to be an encyclopedia.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/70.113.49.126|70.113.49.126]] ([[User talk:70.113.49.126|talk]]) 19:37, 15 January 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:Your information would be completely appropriate for an article about the historical person who inspired the novel and in fact is mentioned in that article.  But This is an article about the novel and Bram Stoker named his novel "Dracula."  The character in his novel he named "Dracula."  There is no evidence that Stoker ever considered any other name for his character.  So any discussion on what he "should have" named his character is pointless.
+
+==Inclusion of Republic of Ireland in biographical section==
+I'm responding to a comment left by an anon editor on my talk page [[User_talk:Malljaja#Dracula_edit|here]]. Evidently this editor is unhappy about the inclusion of the ROI in the bio box, since the ROI did not exist at the time the novel was published. Perhaps we can have a brief discussion as to how to deal with this info. I feel that the addition of this geographical detail is useful, since Stoker was born in what is now the ROI. There has been an earlier discussion [[Talk:Dracula#Country_-_Ireland.3F|here]], but this didn't seem to address this specific issue. Any thoughts? Thanks. [[User:Malljaja|Malljaja]] ([[User talk:Malljaja|talk]]) 01:35, 16 May 2010 (UTC)
+:Its not that am unhappy, it just seems rather historically inaccurate and the edit has been reverted twice on the grounds of concensus has been reached to the contary - that i have yet to find. Is the same been done for the countless other works that have been released in one nation that have subsequently broken away or became part of a new nation?[[Special:Contributions/86.4.87.120|86.4.87.120]] ([[User talk:86.4.87.120|talk]]) 11:11, 16 May 2010 (UTC)
+::It seems that the most logical way to deal with any situation when a name has changed is to use the name that was in use at the time the event took place and then include in parenthesis a statement such as:   "(Now known as...)."  My family comes from Ireland.  When discussing the topic casually, I just use the term "Ireland."  But when I wrote our family's genealogy I used the name that was popularly used by Irish nationals at the time the event took place.  So in various places throughout the genealogy you might find Republic of Ireland, Irish Free State or Éire  depending on the date.
+
+==Dracula's Guest section 2==
+In reference to the current disagreement over the amendments made to the Dracula's Guest section (made by me), and in response to MarnetteD's queries, allow me to elucidate. Using "Englishman" is more correct than "Harker" because there is an age-old debate as to whether or not the character in the story IS actually Jonathan Harker. There is no conclusive answer, so using the non-specific "Englishman" is best. Using the word "vampiress" is not essential, but it is a term used freely in the Gothic/horror genre nowadays and I thought it was appropriate where I used it. However, the most important amendment I made was regarding the apparition of the wolf to the Englishman in the wilderness. The former description was unspecific and somewhat inaccurate (the wolf did not "emerge through the blizzard" nor "attack" the Englishman). My amendment improved the accuracy of the description significantly, though I too made a minor error (describing the Englishman as being forced to sleep in the forest for the night, which now seems a slight exaggeration, as it was a brief period of unconsciousness lol.) However, I shall see to correcting this directly. [[Special:Contributions/81.178.250.247|81.178.250.247]] ([[User talk:81.178.250.247|talk]]) 01:22, 12 September 2010 (UTC)
+
+:Thank you for clearing up "The Englishman" usage. However, vampiress was not used in the story and is not widely used in the numerous vampire tales being produced today. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 01:31, 12 September 2010 (UTC)
+
+If there are users here who feel that the Dracula's Guest section is written in a "clunky" way (I felt it rude to say, but I thought the section was rather clumsily written when I first read it), then by all means do your best to de-clunkify it with your masterly skills in writing prose. But please do not simply revert it to a former version that contains inaccurate and missing details when I have made the effort to research and amend them. [[Special:Contributions/81.178.250.247|81.178.250.247]] ([[User talk:81.178.250.247|talk]]) 03:24, 12 September 2010 (UTC)
+:As the contributor who reverted your edit, I'd like to explain why I did so. For some reason this entry is quite prone to vandalism or haphazard additions especially by anon IPs. I do appreciate that you want to add some more (although minor) detail here, so I'd suggest that you use a user name in the future, which could help elicit a more meaningful dialogue. Having said this, I stand by my statement that your edits are poorly worded: for example, "he is dragged away by an unseen force and rendered unconscious" has several problems both in style and content. To "render unconscious" needs an active subject doing the rendering (if you insist on this phrasing) and "unseen force" begs the question, by whom this force is unseen? The Englishman, the reader, another party present, but not mentioned? This doesn't call for any masterly prose, but for plain English.  Since it's been a good while since I read this short novel, I cannot check the accuracy of the content, but I do feel that this section does not read well. Given that it only adds some very minor details, I therefore have reservations to leave it in this way. Thanks. [[User:Malljaja|Malljaja]] ([[User talk:Malljaja|talk]]) 22:40, 12 September 2010 (UTC)
+
+We are not writing a best-selling novel here, but a concise synopsis of a short story in encyclopedic format. Therefore, issues such as "active subjects" and to whom the force is "unseen" seem quite pedantic and ultimately inconsequential. (By the way, isn't it obvious that the force is unseen by the character in the story? Realistically who else would it be referring to? And who is seriously going to scrutinise this in a synopsis anyway?) [[Special:Contributions/217.206.76.157|217.206.76.157]] ([[User talk:217.206.76.157|talk]]) 15:39, 13 September 2010 (UTC)
+
+:[[User:Malljaja|Malljaja]], whilst I agree with you that the section doesn't read like Shakespeare, I think it remarkable that you find my edits alone to be below par and presumably the crux of what's wrong with the section. Other parts of the section read far worse than mine. For example, "''The short story climaxes in an old graveyard, '''where in a marble tomb''' (with a large iron stake driven into it), the Englishman encounters...''"  is a glaring mess of sentence structure that seems to have escaped your critical eye (it should read "where the Englishman encounters (the vampiress) in a marble tomb, etc"). Another would be "''This malevolent and beautiful vampire awakens from her marble bier to conjure a snowstorm before being struck by lightning and returning to her eternal prison...''" which is far too much information crammed into one sentence. Having re-read the sentence that most displeases you, "''the Englishman's troubles are not quite over, as he is dragged away by an unseen force and rendered unconscious..."'', I do feel that your first concern about the absence of an active subject doing the "rendering" is pedantic - one might even say the absence of a subject is appropriately vague, because the moment in the short story is similarly vague and unclear, as we don't know who or what it is that has dragged the Englishman away and rendered him unconscious. Secondly, Bram Stoker's writing seems to imply that the "unseen force" is invisible to all, so that neither the Englishman, the reader, nor any voyeurs present at the scene would perceive it. I thought this was perfectly clear when I re-read the sentence I wrote, but if users want greater specification, they can always proceed to the [[Dracula's Guest]] article, which provides far more in-depth details. I encourage you to have a go at improving the style and content of the section if you wish, but I might suggest re-reading Dracula's Guest first so that you can accurately identify where the problems lie. Thank you. [[Special:Contributions/81.178.253.108|81.178.253.108]] ([[User talk:81.178.253.108|talk]]) 19:23, 13 September 2010 (UTC)
+
+==Archiving==
+Because edit summaries are limited let me post here. I archived a large chunk of conversations, some that went as far back as 07, today. I know that there is a way to archive into the talkheader but I have never known how to do this. Thus, I added an archive box template - to be honest I actually prefer these because the archive in the talkheader can be missed with all of the other info that is there. If any of you don't like this and want to move archive #2 into the talkheader please feel free to do so. My second thought was "Do we want to set up a bot to arc--[[User:JayJasper|JayJasper]] ([[User talk:JayJasper|talk]]) 19:14, 6 October 2010 (UTC)hive this page automatically?" That would prevent having as many stale conversations on the page as I found today. I have never worked with these bots so if consensus is to use a bot please set this up with my thanks. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 18:51, 6 October 2010 (UTC)
+
+Problem solved. To archive, you have to create a [[Talk:Dracula/Archive 2|separate page]].--[[User:JayJasper|JayJasper]] ([[User talk:JayJasper|talk]]) 19:01, 6 October 2010 (UTC)
+
+:Thanks JayJasper. Did you have any thoughts about bot archiving? If not no worries and cheers. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 19:09, 6 October 2010 (UTC)
+
+:You're quite welcome, glad to be of assistance. As for bot archiving, that might not be a bad idea, given that there were threads dating as far back as '07 that weren't archived until today.--[[User:JayJasper|JayJasper]] ([[User talk:JayJasper|talk]]) 19:14, 6 October 2010 (UTC)
+
+==Films that "include a reference"==
+
+I removed the following bit:
+
+The number of films that include a reference to Dracula may reach as high as 649, according to the [[Internet Movie Database]].
+
+I have no idea what "include a reference" is supposed to mean exactly, and the passage doesn't tell me.  Is it including Dracula as a character?  Or just mentioning Dracula off-hand?  Is it something else?  This isn't very useful as is.  [[User:Ekwos|Ekwos]] ([[User talk:Ekwos|talk]]) 05:54, 11 November 2010 (UTC)
+
+:Agree with removal. There will be some more coherent discussion of the number of dracula movies somewhere in some authoritative book on horror cinema. [[User:Casliber|Casliber]] ([[User talk:Casliber|talk]] '''·''' [[Special:Contributions/Casliber|contribs]]) 10:14, 11 November 2010 (UTC)
+
+::I also concur with its removal. Not all films involving vampires refer to Dracula and there is a distinct possibility that the number in the old info might include some of these. Thanks for the removal and for the clarifying post here. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 17:14, 11 November 2010 (UTC)
+
+:::At the risk of sounding redundant, I concur as well and want to add that as iconic as the Dracula character has become, it is now silly to count how many times he has been mentioned by characters in other movies or TV shows or other media, to the extent that it would be silly to mention in an article on rocks how many times the word "rocks" is spoken in movies.  As common place as Dracula has become in popular culture, it would only be appropriate to mention the total number of times he has been portrayed, by name, in movies.  A comprehensive list could be it's own Wikipedia article (if one does not already exist).
+
+==Plot summary ==
+
+Poorly written. The verb tenses jump everywhere and the overall summary doesn't flow well. [[Special:Contributions/76.10.151.90|76.10.151.90]] ([[User talk:76.10.151.90|talk]]) 05:07, 25 August 2011 (UTC)
+:The article is unlocked. I'll look into it, but you can fix it, too. '''[[User:The Stick Man|<font color="000040">TheStickMan</font>]]'''[[User talk:The Stick Man|<font color="000040"><sup>[✆Talk]</sup></font>]] 20:27, 25 August 2011 (UTC)
+
+==The Vampire Princess==
+I believe it is a relevant subject, the Smithsonian Channel is not the History Channel, there is no reason to assume because it's a television channel that it can't be historically accurate as it draws it's finding directly from the museum it is named after. [[Special:Contributions/97.82.229.243|97.82.229.243]] ([[User talk:97.82.229.243|talk]]) 04:00, 30 July 2012 (UTC)
+:What we need is other scholars to comment on this persons theory. Anyone can get a theory published or on a documentary. It remains speculation until other scholars comment on its viability. BTW as more than one editor has removed this you will want to read [[WP:CONSENSUS]]. At the moment it comes down on the side of not having this new theory in the article at this time. Please do not reinsert it until that consensus changes. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 22:02, 15 August 2012 (UTC)
+
+== Dracula's Guest ==
+
+I am a high school student who has analyzed this story and Dracula's Guest in great depth. With many other English professors, I have concluded that the "Englishman" in Dracula's Guest is not Jonathan Harker, but Renfield. Renfield was the original lawyer for Dracula sent by Mr. Hawkins. But because Renfield went mad after realizing the power of Dracula, Mr. Hawkins sends Harker to do the job that Renfield assigned. I wish that an administrator edits the section about Dracula's Guest and cites my influence in the decision. 14:16 December 15,2012 (EST)
+:Hi there, but unless it is proven by any source under [[WP:SECONDARY]], it cannot be cited. If you can find a source that confirms this, I will gladly edit for you! <span class="nowrap"><span style="border:2px solid; font-family:Trebuchet MS;"><span style="background:#ff0000;">[[User:Oshawott 12|<span style="color:#000;">Oshawott 12</span>]] ==(</span>)== [[User talk:Oshawott 12|Talk to me!]]</span></span> 05:08, 23 October 2018 (UTC)
+
+== Rename article to "Dracula (novel)" ==
+
+It occurs to me that people searching for "Dracula" are more likely to be interested in the character [[Count Dracula]], than the novel. I propose changing the title of this article to "Dracula (novel)", and having "Dracula" redirect to either the aforementioned [[Count Dracula]], or the [[Dracula (disambiguation)|Dracula disambiguation page]].
+
+Thoughts?
+
+- [[User:Hatster301|Hatster301]] ([[User talk:Hatster301|talk]]) 04:58, 7 February 2013 (UTC)
+
+This makes sense, and I support your suggestion. I'd wait a few more days before renaming the entry to offer time for others to weigh in as well. [[User:Malljaja|Malljaja]] ([[User talk:Malljaja|talk]]) 17:47, 7 February 2013 (UTC)
+
+:I am afraid that I disagree with a page move. The book is quite clearly the main subject. Also we have a hatnote right at the top of the page so that those who are looking for the character can get to that article with a simple click of their mouse. Hatster I would suggest that you file a full [[WP:RFC]] and/or a [[Wikipedia:Requested moves]] to get more input. You might also alert the [[Wikipedia talk:WikiProject Novels]] as well. Malljaja it is always good to see your name on my watchlist and I appreciate all you do in taking care of this article. Cheers to you both. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 20:10, 7 February 2013 (UTC)
+::Marnette, many thanks for your kind words and right back'atcha—your help with the article has been invaluable. Though I'd still prefer a change in subject title to the current hatnote. Your idea to open an RFC is a good one and we shall see what others' views on this subject are. Best, [[User:Malljaja|Malljaja]] ([[User talk:Malljaja|talk]]) 02:06, 8 February 2013 (UTC)
+
+Prefer to leave as is since the character derives from the novel, and the novel is a canonical work. --[[User:Mervyn|Mervyn]] ([[User talk:Mervyn|talk]]) 16:19, 8 February 2013 (UTC)
+
+*Prefer to leave it as is, as per Mervyn and MarnetteD. [[User:Boneyard90|Boneyard90]] ([[User talk:Boneyard90|talk]]) 18:19, 8 February 2013 (UTC)
+
+I agree with the proposal ''in theory'', but I don't think that [[Count Dracula]] should be moved here. Rather, [[Dracula (disambiguation)]] should be moved here. While the character may be the single-best-known, as a character in a novel who is probably better-known through one or more of the novel's film adaptations, and also based on a [[Vlad the Impaler|real historical figure]] who actually had this name, he should still not be treated as the [[WP:PRIMARYTOPIC]]. [[User:Elvenscout742|elvenscout742]] ([[User talk:Elvenscout742|talk]]) 07:13, 14 February 2013 (UTC)
+::This is a case of "if it ain't broke". Nothing needs to be moved as the book is the primary topic. Film adaptations and the 1000's of other vampires stories since don't exist without it and the historical person was never called Dracula. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 16:27, 14 February 2013 (UTC)
+:::You wanna fix the [[Vlad the Impaler]] article where it says "also known by his [[patronymic]] name: '''Dracula'''", then? I was under the impression that the name of the character and the novel both came from the alternate name of the historical Vlad the Impaler. [[User:Elvenscout742|elvenscout742]] ([[User talk:Elvenscout742|talk]]) 00:23, 15 February 2013 (UTC)
+::::My apologies Elevenscout. I was going on the info in this article stating "The name Dracula was the patronym (Drăculea) of the descendants of Vlad II of Wallachia, who took the name "Dracul" after being invested in the Order of the Dragon in 1431." 1) Since it says "descendents" I interpret that to mean that the name was used by those who came after Vlad 2) I have always read that the name "Dracul" was used in Wallachia and that English historians/writers added the "a". In any case that doesn't change my opinion of the page not needing to be moved. The Op does not seem to have picked up on my suggestion of an RFC. If you or anyone else wants to get wider input I will be fine with whatever the consensus winds up being. Again apologies for any offense my curtness caused. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 06:22, 15 February 2013 (UTC)
+
+== Introduction ==
+
+Hey, I'm an editing n00b, so I'm not sure about this, but the introduction (short of the word "gothic") is word-for-word taken from the publisher's description given on [http://www.amazon.com/Dracula-Annotated-Literary-Collection-ebook/dp/B006P1OZE0/ref=sr_1_3?s=books&ie=UTF8&qid=1382473701&sr=1-3&keywords=dracula this amazon page]. Is this Kosher? Seems like plagiarism. [[User:Hyathin|Hyathin]] ([[User talk:Hyathin|talk]]) 20:56, 22 October 2013 (UTC)
+:The Amazon summary was published on December 21, 2011, while it looks like the lead has been the same since [https://en.wikipedia.org/w/index.php?title=Dracula&oldid=466588311 before that time]. I'd say Amazon is the one that did the copying. But thanks for pointing this out anyway, plagiarism is a problem in articles sometimes. (People still copy summaries from SparkNotes. [Shivers]) '''[[User:The Stick Man|<font color="0000DD">TheStickMan</font>]]'''[[User talk:The Stick Man|<font color="0000DD"><sup>[✆Talk]</sup></font>]] 21:30, 22 October 2013 (UTC)
+::{{ec}}The intro on this article has been here far longer then the item on Amazon. It is far more likely that the item at Amazon copied Wikipedia. This happens quote often but other sites usually acknowledge that they are mirroring WikiP. [[User:MarnetteD|MarnetteD]] | [[User talk:MarnetteD|Talk]] 21:33, 22 October 2013 (UTC)
+
+
+== Semi-protected edit request on 8 December 2013 ==
+
+{{edit semi-protected|<!-- Page to be edited -->|answered=yes}}
+<!-- Begin request -->
+Please change "Dracula has been assigned to many literary genres including..." to "Dracula has been assigned too many literary genres including..." in the first sentence of the second paragraph. (Typo)
+<!-- End request -->
+[[User:Folkspeak|Folkspeak]] ([[User talk:Folkspeak|talk]]) 17:55, 8 December 2013 (UTC)
+:{{not done}} The grammar is actually correct. Thanks, '''[[User:The Stick Man|<font color="0000DD">TheStickMan</font>]]'''[[User talk:The Stick Man|<font color="0000DD"><sup>[✆Talk]</sup></font>]] 18:11, 8 December 2013 (UTC)
+
+== Notes ==
+
+I'm not sure why the History Channel reference was removed, but clear advertising for an equally questionable book remains - and under its own section title no less! Does the author hold some kind of sway over the editing of this article?
+[[Special:Contributions/99.239.72.120|99.239.72.120]] ([[User talk:99.239.72.120|talk]]) 02:49, 4 October 2014 (UTC)
+:The authors hold no sway (or at least, they shouldn't). I've removed the offending section. '''[[User:The Stick Man|<span style="color:blue">TheStickMan</span>]]'''[[User talk:The Stick Man|<span style="color:blue"><sup>[✆Talk]</sup></span>]] 18:04, 4 October 2014 (UTC)
+
+== Roosevelt and Stoker ==
+Citing webpages about Ireland such as this one http://www.insideireland.com/sample13.htm is not appropriate.  Neither is this: http://www.lookandlearn.com/blog/15364/count-dracula-first-visited-bram-stoker-in-a-nightmare/  A scholarly source needs to be cited not a random web page.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/73.201.247.157|73.201.247.157]] ([[User talk:73.201.247.157|talk]]) 19:20, 20 March 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+There is no scholarly source supporting the website's claims that Theodore Roosevelt directly suggested that Stoker write Dracula or any book about supernatural criminals.  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/73.201.247.157|73.201.247.157]] ([[User talk:73.201.247.157|talk]]) 19:25, 20 March 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:The dubious content has been removed per this disussion.--[[User:JayJasper|JayJasper]] ([[User talk:JayJasper|talk]]) 20:48, 20 March 2015 (UTC)
+
+== "[[Dracula/The Rose]]" in [[Template:Dracula]] ==
+
+If you have an opinion about the propriety of including "[[Dracula/The Rose]]" in {{tl|Dracula}}, comment at [[Template_talk:Dracula#Inappropriate]].--[[User:TonyTheTiger|TonyTheTiger]] <small>([[User talk:TonyTheTiger|T]] / [[Special:Contributions/TonyTheTiger|C]] / [[WP:FOUR]] / [[WP:CHICAGO]] / [[WP:WAWARD]])</small> 01:38, 11 May 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Dracula]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=677848419 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20130506083906/http://www.historycooperative.org/journals/ahr/107.4/ah0402001124.html to http://www.historycooperative.org/journals/ahr/107.4/ah0402001124.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=failed}}
+
+Cheers. —[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner]]:Online</sub></small> 22:18, 25 August 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Dracula]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=755157998 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20130506083906/http://www.historycooperative.org/journals/ahr/107.4/ah0402001124.html to http://www.historycooperative.org/journals/ahr/107.4/ah0402001124.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 15:44, 16 December 2016 (UTC)
+
+== Constructive editing ==
+
+If you revert my edits without explaining why [https://en.wikipedia.org/w/index.php?title=Dracula&diff=788449619&oldid=788357893] then you are acting in bad faith. Your subsequent reverts, even if you decide to think of a reason for them, are not likely to be viewed as constructive efforts to improve the article. I remade my changes. If someone else thinks there is a reason to undo them entirely instead of further improving the text, then they should start a discussion here. [[Special:Contributions/2.25.45.242|2.25.45.242]] ([[User talk:2.25.45.242|talk]]) 14:39, 1 July 2017 (UTC)
+
+
+== The setting is 1889 ==
+
+Where are your sources that the setting of the novel is in the 1890s?
+If you take the entire logic of "Dracula" seriously, the last note is dated 7 years after the actual story. The novel (written as a collection of pseudo-sources) is published 1897, so the story happened before 1890.
+Second, in Chapter 8 is mentioned that at August 11th at 3 a. m. a full moon shines. Full moons on this specific day are obviously very rare. In the late 19th century, this happened three times:
+8/11/1870, when the Orient Express (mentioned in Chapter 25) isn't even built.
+8/11/1889, which is in my opinion the night, when Dracula bites Lucy the first time.
+8/11/1897, when the novel is published already.
+
+See here for lunar phases: https://www.timeanddate.com/calendar/?year=1889&country=9 and https://www.timeanddate.com/moon/phases/@2634135?year=1889  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/132.231.51.111|132.231.51.111]] ([[User talk:132.231.51.111#top|talk]]) 14:44, 23 July 2017 (UTC)</small> <!--Autosigned by SineBot-->
+
+== External links modified (January 2018) ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Dracula]]. Please take a moment to review [[special:diff/821596417|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20140216132353/http://www.blooferland.com/drc/index.php?title=Journal_of_Dracula_Studies to http://blooferland.com/drc/index.php?title=Journal_of_Dracula_Studies
+*Added archive https://web.archive.org/web/20110708073221/http://www.blooferland.com/drc/images/Divorce.rtf to http://www.blooferland.com/drc/images/Divorce.rtf
+*Added {{tlx|dead link}} tag to http://celt.ucc.e/
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 13:01, 21 January 2018 (UTC)
+
+== name of dracula ==
+
+There may be another reason for the name Dracula besides transylavanian. The Irish words "  Droch Fhoula" meaning 'Bad Blood', pronounced " Drok Ulla".  <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Suppity|Suppity]] ([[User talk:Suppity#top|talk]] • [[Special:Contributions/Suppity|contribs]]) 17:29, 8 December 2018 (UTC)</small> <!--Autosigned by SineBot-->
+
+== Semi-protected edit request on 8 December 2018 / REASON FOR DRACULA NAME ==
+
+{{edit semi-protected|Dracula|answered=yes}}
+INSERT , name for the vampire Dracula may also come from the Irish language "Droch Fholla" meaning 'Bad Blood" , see "Bram Stoker " by Barbara Belford. [[User:Suppity|Suppity]] ([[User talk:Suppity|talk]]) 17:36, 8 December 2018 (UTC)
+:[[File:Red information icon with gradient background.svg|20px|link=|alt=]] '''Not done:''' please provide [[Wikipedia:Identifying reliable sources|reliable sources]] that support the change you want to be made.<!-- Template:ESp --> – [[User:Jonesey95|Jonesey95]] ([[User talk:Jonesey95|talk]]) 18:40, 8 December 2018 (UTC)
+
+== Semi-protected edit request on 14 February 2019 ==
+
+{{edit semi-protected|answered=yes}}
+Hi there, I work at The London Library and we recently discovered some of the notes made by Bram Stoker when researching Dracula so I'd like to include a section on this to the Wikipedia page, you can find out more here <ref>https://www.londonlibrary.co.uk/dracula</ref> <!-- Template:Unsigned --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Charlotte bossick|Charlotte bossick]] ([[User talk:Charlotte bossick#top|talk]] • [[Special:Contributions/Charlotte bossick|contribs]]) </small>
+
+{{Reflist talk}}
+
+:{{re|Charlotte bossick}} Your account is now [[WP:autoconfirmed|autoconfirmed]], so you should be able to edit this page yourself. If you're still not able to or if you have any other questions, please feel free to contact me at [[User talk:ElHef|my talk page]]. &#8209;&#8209;'''[[User talk:ElHef|<font color="red">El</font><font color="orange">Hef</font>]]'''&nbsp;<small>([[Special:Contributions/ElHef|<font color="black">Meep?</font>]])</small> 21:09, 14 February 2019 (UTC)
+{{talkarchive}}
+
+==Dracula's Death==
+
+There is a mistake here stating Dracula died by being stabbed by a Bowie knife. I checked copy of the book and while Quency Morris did stab Dracula in the heart with the Bowie at the same time Jonathan Harker decapitated Dracula with a Kukri knife. I'm pretty sure it's meant that the decapitation killed the count not the stabbing--Matthew Ilseman--Mornatur Ormacil 14:13, 18 September 2006 (UTC)
+
+::Agree. Seems like the author of this and some other paragraphs (like that of the "Strange Wolf") based his or her synopsis on the Coppola's movie.--Mornatur 16:20, 24 August 2006 (UTC)
+
+== Bits and pieces ==
+
+Shouldn't there be more historical context information in the analysis section, especially about victorian gender roles and the "new woman" concept? I also think it reads rather clumsily to include elements of vampiric lore in the analysis. There should be a separate section for that. [[User:Laurencooper|Laurencooper]] 11:30, 25 July 2005 (UTC)
+----
+Hello? ''"a secret fraternal order of knights called the Order of the Dragon, founded by King Sigismund of Hungary (who became the Holy Roman Emperor in 1410) to uphold Christianity and defend the Empire against the Ottoman Turks"''?
+
+Call me a running dog lackey of the evil rationalist zombies, but whenever I see something like this my [[:Conspiracy theory|Conspiracy theory]] alert goes off. Anybody have anything to back this up?
+
+(I'm not calling anybody names here, I just want to know where this came from.)
+
+:The Order of the Dragon is an historical fact and can be defined with the lines above, yet it's not been clearly demonstrated the link between the Basarab (Dracula) family and such an order. An alternate theory on the ''Dracul'' name goes to the lingustic matter, and proposes "Dracul" or "Dracula" as a synonym to "Devil"--Mornatur 16:28, 24 August 2006 (UTC)
+----
+If I had time, I'd want to compare this article to [http://www.dreamsmith-graphics.com/wizglass/vlad.html] and other sources. --[[User:LMS|LMS]]
+
+:Thanks, Larry. Page says that the info there "was taken from ''The Vampire Book, The Encyclopedia of the Undead'' by J. Gordon Melton""
+----
+''"Dracula is the most famous (fictional, or mythical) vampire."''
+
+This would be as opposed to "real, non-mythical" vampire? 
+
+:Well, we don't want five-year-olds reading this and finding out that, according to the encyclopedia, it seems that Dracula actually exists or existed! :-)  I'm not sure how best to word this. --[[User:LMS|LMS]]
+
+:This would probably be as opposed to real, non-mythical vampyres:  People who believe their bodies are inhabited by the spirits of vampires, people who practice vampyrism or believe they have vampiric psi-talents, etc.  Basically, all those people who are real and non-mythical and who self-identify as vampires/vampyres or are identified by others as being individuals whose lifestyles are considered inspiration for vampire myths (Dutchess of Bathory, The Impaler, etc.).  People who suffer from [[Renfield's syndrome]].  Could also be as opposed to ''Vampyroteuthis infernalis'', the vampire bat, the mosquito, the tick, the leach, the lawyer, etc.  Who knows?  Lots of things could fall into the category of "real, non-mythical" vampires.  --[[User:Thorstejnn|Þorstejnn]] 04:19, 28 October 2006 (UTC)
+
+I gave it a shot. :-)
+
+But [[:Carmilla|Carmilla]] is definitely the most interesting... [[User:Sjc|sjc]]
+----
+There is no evidence that Stoker ever read anything about Vlad Drakul/Vlad the Impaler while doing research for his book.  See "Dracula: Sense and Nonsense" by Elizabeth Miller.  --corvus13
+
+Oh dear, Elizabeth Miller really does have you wound up, doesn't she? Her viewpoint is kind of ''unique'' amongst scholars.... It is ''just'' a theory; there are many other arguments against her point of view. There are 3 threads to the source of Dracula: 1. Irish folk-myth (some of the [[:Sidhe|Sidhe]] were thought to drink human blood; 2. [[:Carmilla|Carmilla]] by [[:Sheridan le Fanu|Sheridan le Fanu]] and 3. (and problematically from Ms Miller's viewpoint) [[:Vlad Tepes|Vlad Tepes]]. 1 and 2 are not disputed by Ms Miller. Her argument definitely substantiates Carmilla as a source. But. Her arguments are based upon a number of assumptions, and while they are intellectually coherent, many of them are circumstantial. We will never know for sure. [[User:Sjc|sjc]]
+
+::It would be interesting to lok out for some info on Abhartach, a celtic chieftain accused of wizardry and vampirism in his time. It's possible that Stoker have taken some data on him to buil his count. Yet, the novel seems to be less or more well documented about Tepes's life.--Mornatur 16:28, 24 August 2006 (UTC)
+
+"A huge dog or wolf is seen running from the ship, " To note: the novel says only about a "huge dog"
+
+== The strange wolf ==
+"Lucy's mother is killed by a strange wolf and Lucy becomes pale and distrait. The Dutch vampire expert, Professor Van Helsing, is brought in and determines that Lucy's mother was killed by a werewolf and that Lucy is dying. "
+
+Um, it's a while since I read the book, but isn't the wolf actually Drac in another form (as shown in the Buffy episode)?  Hence not a werewolf.
+
+: There's a comment in the source of the page, reading
+:: ''The wolf is a real wolf, which Dracula breaks out of London Zoo for backup; the narrative includes a press clipping about the wolf's mysterious escape and subsequent return. Is this worth mentioning in the plot summary?''
+: I've left the comment there, and added "See Talk: page", as I interpreted the clipping as being the press 'explaining' the presence of a strange wolf, rather than as an actual explanation for it. &mdash; [[User:OwenBlacker|OwenBlacker]] 22:29, Jun 22, 2004 (UTC)
+
+::That was me - and I stand by that interpretation, which I made having just re-read the book. The press clipping isn't ''about'' "the presence of strange wolf", it's about the mysterious disappearance and subsequent reappearance of an actual wolf of known provenance which had been at the zoo for years. It doesn't even mention the incident at Lucy's house. --[[User:Paul A|Paul A]] 09:02, 15 Jul 2004 (UTC)
+
+:::One reason for mentioning the clipping is that it is an example of the multi-media nature of the novel, as discussed in the opening paragraph.  [[User:Ortolan88|Ortolan88]] 00:18, 24 Sep 2004 (UTC)
+
+::::I've re-read the novel recently, and there are several interesting facts about all of this discussion:
+::::First, there were always the possibility of the wolf being Dracula himself, for he demonstrated the power of transforming into several types of creatures during the novel; as in the arrival of the ''Persefone''.
+::::Second, the news clipping actually doesn't mention the incident at Lucy's house, BUT it mentions the beast as being hurt in the face. The zoo guy even rants about the glasses on top of walls when he see the hurts on the wolf's head. This is consistent with the fact that the wolf entered Lucy's room by breaking the window and thus allowing the Count to get in and finish his dirty, yet delicious, job. --Mornatur 16:18, 24 August 2006 (UTC)
+
+== Fred Saberhagen ==
+Should this page mention the series of books by [[Fred Saberhagen]] told from Dracula's point of view? ''The Dracula Tape'' is a re-telling of the original book by Dracula himself, taking a predictably dim view of Van Helsing's MO. There are several more, including one with [[Sherlock Holmes]] as Dracula's nephew (explaining the remarkable physical resemblance between the two characters :-). --[[User:Phil Boswell|Phil]] 11:01, Feb 5, 2004 (UTC)
+
+:It does now. (Reminiscence: I once saw the first two books in the series published in an omnibus edition under the title ''Vlad Tapes''. Ouch.) &mdash;[[User:Paul A|Paul A]] 09:36, 9 Feb 2004 (UTC)
+
+== New image ==
+I've just uploaded [[:Image:DraculaLugosi1931Poster.jpg]], but I've not added it to the article, as I don't know the copyright status.  I would assume that a 1931 film poster is now PD, but amn't sure how best to check... [[User:OwenBlacker|OwenBlacker]]
+:At least in the U.S., something from 1931 would not be public domain, but a small image of a movie poster in a relavant context would almost certainly be fair use. -- [[User:Jmabel|Jmabel]] 17:53, Jun 25, 2004 (UTC)
+
+:: In that case I'll add it…&nbsp; :o) &mdash; [[User:OwenBlacker|OwenBlacker]] 11:49, Jun 26, 2004 (UTC)
+
+== Separate book from icon ==
+Compare this page to [[superman]].  In this case I think separating out [[Dracula]] (about the character, its history, the current meme and its many offspring in literature and otherwise; with a brief summary of the various tales of Dracula's life) from [[Dracula (book)]] (with detail on Stoker's novel, a more fully spoilered plot synopsis, and analysis of the text).  The many paragraphs of textual and character analysis are out of step with an article giving an overview of what modern audiences (who have yet to read the original novel) think of when they hear "Dracula".   For that article, perhaps a movie poster picture of a black-and-white dracule about to sahck someone's blahd? [[User:Sj|+sj]][[User Talk:Sj|<font color="#ff6996">+</font>]] 04:26, 25 Jun 2004 (UTC)
+
+== More details on modern versions of the story ==
+A mini-list from a quick google:
+<blockquote>
+<small>
+Dracula: Prince of Many Faces: His Life and Times by Radu R. Florescu and Raymond T. McNally is a chilling biography of Vlad Dracula. (UK)
+
+In Search of Dracula: The History of Dracula and Vampires, also by Raymond T. McNally and Radu Florescu. This book explains the connections between the real Dracula and Bram Stoker's fictional vampire. (UK)
+
+Vlad the Impaler: In Search of the Real Dracula by M. J. Trow. Was Dracula a heroic freedom fighter or a bloodthirsty mass-murderer? This biography peels back the layers of myth and history to reveal the the real Vlad the Impaler. (UK)
+
+Vlad III Dracula: The Life and Times of the Historical Dracula by Kurt W. Treptow. A scholarly biography. (UK)
+
+Dracula: Sense and Nonsense by Elizabeth Miller. The author, an expert on Bram Stoker's novel, believes Stoker did not base his Dracula character on Vlad the Impaler. (UK)
+Other Novels
+
+Dracula, the Son of the Dragon by Neal John Iacono. A novel about Vlad the Impaler. (UK)
+
+Covenant With the Vampire: The Diaries of the Family Dracul by Jeanne Kalogridis. The first in a trilogy of novels about a fictional descendant of the real Prince Dracula who uncovers the secrets of his family's past.
+
+Children of the Vampire: The Diaries of the Family Dracul by Jeanne Kalogridis is the sequel to Covenant With the Vampire. Dracula's descendant continues his battle with his evil ancestor.
+
+Lord of the Vampires is the final book in Jeanne Kalogridis's Diaries of the Family Dracul trilogy.
+
+Vlad Dracula: The Dragon Prince by Michael Augustyn is a novel about the real Dracula. Out of print, but may be available.
+
+Vlad by Melodie Romeo. Another fictionalized account of the real Vlad Dracula's life. (UK)
+</small>
+</blockquote>
+
+== Love story?!? ==
+
+I'd really like to know how the original novel ''Dracula'' became so much a "love story" that the claim was worth making in the first paragraph.  While ''Bram Stoker's Dracula'' portrayed Dracula's pursuit of Mina as a love story, this is clearly revisionism and not what Stoker intended, and the relationships between the human characters really don't justify the classification of the book as a "love story".  -- [[User:Antaeus Feldspar|Antaeus Feldspar]]
+
+:I concur, Antaeus. &mdash;[[User:Stormie|Stormie]] 00:05, Sep 24, 2004 (UTC)
+
+::I think it might be too complicated to put in the article, but I'm guessing that someone was trying to get at the idea of [[romanticism]], of which the novel is certainly representative, and got confused between romanticism and the eroticism of the Count's relationhip with the women, and came up with "love story".  [[User:Ortolan88|Ortolan88]] 00:18, 24 Sep 2004 (UTC)
+
+== Prehistoric Origins ==
+
+In an early issue of OMNI magazine (now that takes me back more than a few years) there was an interesting speculation that the Dracula Myth might go back to prehistoric man. I don't have the original article, nor do I remember all of it (which is why this belongs here on the discussion page and not edited into the article). But the main point went something like this. When our ancestors were living in caves some might have strayed so far into them that they might have been bitten by bats, either when awake or asleep. This might have led to the onset of rabies, symptons of which can include an aversion to light and water. The madness that can follow might cause such problems in the tribe that killing the person might be the only way to protect the rest. Of course, this could all be terrible codswollop (or batswollop if you prefer). I wanted to post it as food for thought for Dracula fans and just in case it puts me in contact with someone who hung on to their copies of OMNI and can let me see the article again. [[User:MarnetteD|MarnetteD]] | [[User_talk:MarnetteD|Talk]] 19:56, 5 May 2005 (UTC)
+
+== fictional character VS book title ==
+
+sorry if that has come up already, but I looked for the book "Dracula" and the first definition was: "Dracula is a fictional character" - wouldn't it be better to put something like "Dracula is both a novel and its eponymous antagonist"? ([[User:Clemmy|clem]] 19:06, 14 May 2005 (UTC))
+
+== pop culture references ==
+
+somebody should mention [[the simpsons]] episode that parodied bram stoker's dracula from season 5. where mr. burns is dracula.
+
+==Influences==
+It may be important to put moree influences on the story. Here is and *[http://truelegends.info/paranormal/dracula.htm example]. Stoker got his ideas from a lot of places, not just a few.
+
+
+==Broadway Muscial==
+Was Dracula: The Musical, which was on Broadway earlier this year, mentioned in the article? Link: http://frankwildhorn.com/projects/dracula/
+--[[User:Kindeditor|Kindeditor]] 16:08, 22 October 2005 (UTC)
+
+== Separating Book from Character ==
+
+Shouldn't there be a page dedicated to the character of Dracula himself, perhaps listing differences between his various incarnations?
+
+==Image Copyright Status==
+
+The image of the Dracula postage stamp appears to violate the conditions of fair use that are claimed on the image page:
+:''It is believed that the use of postage stamps to illustrate the stamp in question (as opposed to the subject of the stamp) … qualifies as fair use''
+[[User:BrainyBroad|BrainyBroad]] 21:49, 31 October 2005 (UTC)
+
+==Arminus Vambery==
+
+I am fairly sure Professor Van Helsin makes a reference to Arminus Vambery at some point in the novel. If so, then there is some evidence of Stoker and Vambery knowing of one another and possibly communicating. Does anybody else know?
+-- [[User:Pejhman|Pejhman]] 23:27, 07 January 2006 ([[AEDT]])
+
+== Most accurate movie ==
+
+According to Leonard Wolf a published expert on Dracula (who wrote "The Essential Dracula"), the most faithful reproduction was a BBC mini-series (I'd have to look up which) -- I think we should not be overly definitive about one movie or another being the most accurate. --[[User:Stbalbach|Stbalbach]] 15:19, 19 January 2006 (UTC)
+
+:Mr Wolf is referring to the 1977 production titled ''Count Dracula'' with [[Louis Jourdan]] in the title role. It also starred [[Frank Finlay]] as Van Helsing and [[Judi Bowker]] as Mina. Although not a miniseries it was two and a half hours long and covered virtually all of the book. It includes all of the main characters with the exception of blending Arthur Holmwood and Quincy Morris. It includes scenes filmed in the town of Whitby and we see characters recording events in their diaries, letters and dictaphones much like the way the book is written. In particular the character of Renfield is very close to the way that he is portrayed by Stoker. Some viewers decry its special effects but if you take into account the state of BBC TV F/X of the time they are actually fairly effective (for me anyway). I have read at IMDb that it is available on DVD from ebay, although some postings on their message board say that the quality is so so. Here in the US it was an annual Halloween broadcast on PBS for a few years in the 1980's. My VHS copy of it is starting to show it's age a bit. I agree with your statement about easing the rhetoric about which versions are the most faithful and I will try to help in keeping an eye on this page. [[User:MarnetteD]] | [[User talk:MarnetteD|Talk]] 17:41, 19 January 2006 (UTC)
+
+==Daylight Analysis== 
+the Analysis section includes a mention that in ''Nosferatu'' was the first mention of daylight being fatal to the Vampire, and that in Dracula , the Count is able to move around by daylight. Would somebody point me to where this happens? Becaus I feel it's wrong.
+
+My memory tells me of Harker meeting the Count only by night... and of the Vampire having to be carried in his earth boxes on the ship, presumably going out at night to feed, since the ship was mysteriously found devoid of life, and at the end, he's not moving under his own power but carried in a coffin by his gipsy servants. This goes well with the traditional view that, by day, the vampire must lie down in a torpor, and may not act (or he might have been able to defend himself at the very end... (he was looking exultand, gloating at the fact that the sun's disappearance would leave him free to act). 
+
+Now, the novel is thick and I may not remember or never have noticed key passages. Just where in that book is the count active by day? --[[User:Svartalf|Svartalf]] 21:59, 19 January 2006 (UTC)
+
+:I just read it and the count is active by day throughout the entire novel. It is only by night that vampires transform into another creature or take ethereal form. Stoker had a lot of inconsistencies in the novel, saying one thing about vampires, and having them do another (for example Stoker early on says they are killed by a stake to the heart and/or cutting off the head, but Dracula himself is killed simply with a cut to the throat). The gypsy scene at the end is another inconsistency. --[[User:Stbalbach|Stbalbach]] 23:44, 19 January 2006 (UTC)
+
+:It's been a while since I last read the book, but Stbalbach is right. Dracula prefers night time but he may easily move about during the day, albeit with limited powers. Orlok, in Nosferatu, however is killed by the rising sun as he stays on the equivalent of Mina's bed too long. As I understood it (but again, it's been a while) Bram Stoker has beheading as the means of killing a vampire - the cutting the throat may be just a part of that. But somehow the stake (in Balkan legends only to nail the vampire into the coffin, so that he stays there) has somehow become more popular, appearing in many vampire movies and even in the Lord of the Rings movies. [[User:Str1977|Str1977]] 09:08, 20 January 2006 (UTC)
+
+:There are several instances of Dracula moving about during the day, though it is not clear that he was in direct sunlight at the time. The first is during the infamous shaving incident in the castle with Jonathan Harker, in which Jonathan cuts himself while shaving and notices that the Count has no reflection. The next is when we hear the testimony of a London zookeeper who tells how the Count visited the wolf Beserker shortly before he escapes the zoo. Then of course we have Mina and Jonathan's sighting of Dracula in London when Jonathan panics at seeing the person who for several months has inhabited his nightmares (interestingly enough, at that time, Mina describes the Count as looking "cruel and sensual"). [[User:PriestessofAssimbya|Rachel]] 13:51, 17 June 2006 (UTC)
+
+:The "Daylight affair" can be solved by Van Helsing, when speaking to the men about the vampire: "(...)His power ceases, as does that of all evil things, at the coming of the day.
+
+:"Only at certain times can he have limited freedom. If he be not at the place whither he is bound, he can only change himself at noon or at exact sunrise or sunset.(...)" There is no word about daylight or sunlight being lethal - or dangerous - to him, and, as noted by the fellow editors, Dracula is seen several times during novel by day. Off course, knowing about his limitations, it's no less than logical tha he himself tried not to be so far away from his havens in case of need.
+
+:About the staking or beheading vampire-killing method, "But, on the instant, came the sweep and flash of Jonathan's great knife. I shrieked as I saw it shear through the throat. Whilst at the same moment Mr. Morris's bowie knife plunged into the heart." The paragraph implies that Harker's knife - which is noted to be "great" - possibly cuts all the way through the count's throat, thus beheading him. Yet, as at the exact time Morris stabbed him and the body just dissolved, i think the question will remain unsolved. However, the logic says that just any kind of massive damage to vital parts - heart and/or head - could have been lethal. If you ask me, i'd rather put a hand grenade - or a dynamite bar - in his coffin.--Mornatur 16:57, 24 August 2006 (UTC)
+
+== minor change, first paragraph ==
+
+Just made some changes:
+
+changed the last sentence of the first paragraph to:
+
+"much of the vampire's popularity in Western culture can be attributed to his novel, which spawned scores of theatrical and movie interpretations."
+
+from :
+
+"the novel's influence on the popularity of vampires cannot be overestimated, spawning scores of theatrical and movie interpretations."
+
+the previous just sounded awkward, I didn't like the use of "overestimated", but some might not find it as awkward sounding as I did, so please change it back if it sounds better to you
+
+== Suggestions ==
+
+Ok some Drac-buffs need to do work here:
+
+(1) Separate the novel and films from the character. The character should include different portrayals of him and also comparison to Vlad III. [[Dracula (novel)]] [[Dracula (character)]]
+
+(2) The best picture we have is of a postage stamp?
+
+(3) A separate article on the castle, with renditions and possible candidates for the real Castle Dracula. [[Castle Dracula]] or [[Dracula's Castle]]
+
+--[[User:Codenamecuckoo|Codenamecuckoo]] 09:33, 17 April 2006 (UTC)
+
+
+== Just a note ==
+
+The section explaining the references in [[Vampire Hunter D]] referred to the series as manga and movie series. I simply changed it to book series because the movies are not a series in any form.
+
+== "Marxist Analysis" ==
+
+I am not the author of this section but I felt the articles NPOV suffered because of this section. I hope the author is not offended and I'm glad they are contributing to Wikipedia, but this seems much to 'fan-crufty' to be included. It also is of questionable validity--[[The Wizard of Oz]] and the [[Gold Standard]] anyone?
+
+:I have not read the below carefuly, but Marxist analysis of classic literature is pretty standard in academia. It's not OR or fan cruft because sources are included. This section needs to be distilled to its essence - 1 paragraph - and made NPOV and re-added to the article. --[[User:Stbalbach|Stbalbach]] 16:20, 14 May 2006 (UTC)
+
+I'm the original author, I'm not at all offended, and would like to suggest anyone who wishes to doso may condense, change, alter, or otherwise improve the contribution I made. Provided they doso critally and leave it better than they found it. --[[User:Davou|Davou]] 22:03, 8 July 2006 (UTC)
+
+
+===Marxist analysis of Bram Stoker's dracula===
+	It may not have been Stoker’s intent, but in light of contemporary global political turns, it can be argued that Dracula is a satire of  capitalism and the social castes that led to it. Stoker often creates and exaggerates the then modern divide between the classes, and illustrates the rising middle class in his mainline characters and their interaction with secondary personae. 
+
+	Bram Stoker seemed to be very deliberate in placing his characters smack center in the social spectrum. Van Helsing, Jonathan Harker, Mina Murray, Lucy Westenra, John Seward and Quincey Morris are all members of the rising middle class by either trade, birth or marriage. [While Dracula and Goldaming are both members of the now defunct and then dying upper class or bourgeois.] As Senf notes “Considering the importance of class in the nineteenth century […], it would be a mistake to ignore class when reading anything written in the nineteenth century” (Senf, 99). This includes when one reads into the characters present in such a story. “Nineteenth century preoccupation with class should motivate readers of any nineteenth-century work to examine class issues, Stoker’s novel is so obvious in its treatment of class.” (Senf, 99). The barefaced nature in which Stoker separates class and defines the divide in Dracula only serves to further accentuate the satirical nature in which Dracula would be read by a Marxist or neo-Marxist observer.
+
+	Dracula can be viewed as stokers Marxist attack in capitalist upper class citizens in Europe. “Recent Marxist critics have alighted on Dracula as illustrating what they see as inherent contradictions in capitalism”  (Leatherdale, 216) those illustrations in particular being the nature of Dracula as a vampire (whose nature it is to thrive by causing others two falter. The bourgeois, like the vampire, strives only to the end of impoverishing the lower class of money (blood) and to placate the proletariat’s desire to rise against them; “They, therefore, endeavor, and that consistently, to deaden the class struggle and to reconcile the class antagonisms.” (Marx, 24) In essence Dracula is the archetypal capitalist exploiter” (Leatherdale, 216) and is similar to the Marxist bourgeois in the way that he returns continually to exploit the blood of his victims; “No sooner is the exploitation of the laborer by the manufacturer, so far at an end, that he receives his wages in cash, than he is set upon by the other portions of the bourgeoisie, the landlord, the shopkeeper, the pawnbroker, etc.” (Marx, 7). Stoker only strengthens these points when he makes reference to “The Czarina Catherine” in choosing a name for his ship; coincidence that the ship which carries Dracula (symbolic of capitalism and the bourgeois) away from England is named for a member of the monarchy that spawned one of the first, and most notorious Marxist revolutions?
+
+	The nature of Stokers satire is reverberated and gains strength in the way he is consistent with his opinion of the working class peoples. As Senf suggests, “In general, Stoker is condescending towards his working-class characters, presenting them as drunkards and cowards, occasionally even as thieves” (Senf, 105) and as a result, he establishes a stage for Dracula’s air of superiority, and an exposition of his ignorance regarding the nature of his own social position. For instance “While still in Transylvania Dracula ‘works’ as a coachman, a cook, a chambermaid, and a valet” (Senf, 106). and “In England Dracula adds another menial occupation to his resume of skills—That of laborer. […] The laborer who helps him unload the boxes of earth at Dracula’s estate at Piccadilly” (Senf, 107). in both instances Dracula’s likens himself to the lower class, in contradiction of the nature of his aristocratic position as ‘count’.
+
+	Finally one must take time to examine the nature of endings in the book. The time must be taken to notice it is significant that the the only American present was made to die. Ironic, how the nation that has become synonymous with capitalism today was represented in the book by a character who was unable to live. It can be assumed that this is representative of communist/neo-communist apathy towards capitalism. This apathy repeats itself in Dracula’s death, a most anti-climactic climax if there ever was one. Dracula falls limply from the protection of his box, and is slain by the quick and swift motion of a working class blade.
+
+	 If stoker did not intend his work to be a Marxist satire on the capitalist bourgeoisie, and was instead truly a bigot against the lower class, it is the duty of the intellectual proletariat to interpret his work in such a way, and return it to the sphere of intellect, to demonstrate the efficient nature of the working class effort.
+
+''Sources''
+Senf, Carol A. “The comedy of class: Blood Drunkenness, and Hard Work.” Dracula: 	BetweenTradition and modernism. London: Prentice Hall International, 1998 99-	113.
+
+Leatherdale, Clive. “Dracula as Social and Political Commentary.” Dracula: The Novel 	and the Legend. Willingborough, Nothhamptonshire: The Aqaurian Press, 1985. 	206-222
+
+Marx, Engels, Karl, Frederic. "The Communist Manifesto." Pro. January 25, 2005. 	Project Guttenburg. 21 April 2006 	<http://isis.library.adelaide.edu.au/pg/6/61/61.txt>.
+
+(someone please review this section for grammar/spelling as they are not my strongest point.)
+
+::I'm sorry, but i actually think most of the analysis it's based on loosely assumed premises which need to be revised. For an instance, in the second paragraph the Lucy Westenra character is placed as  a "member of a rising middle class", while Stoker clearly suggests, in one of Mina's diary entries, that the Westenra's are upper-class and maybe connected to nobility.
+
+::In a broad sense, i feel the analysis a little bit biased and thus inadequate to inclusion in the article; maybe you can think on a separate article from where you can connect this with other ones in the same topic, but i think that when someone comes looking for info on Dracula - or any other subject - he/she should be provided with neutral information. As there are no arguments on the opposite direction to establish an equilibrium, the readers should find themselves biased, on favour or against the analyis and, consequently, the novel, which i think its anappropiate.
+
+::Of course, it's just the most humble and respectful opinion. It's up to you, guys. --Mornatur 15:30, 25 August 2006 (UTC)
+
+:::Mornatur seems to be right (and the Marxist analysis above wrong).
+:::The Holmwoods are top nobility, the Westenraas not very much below them,certainly upper class. Jonathan and Mina are of modest origins, though they quickly become wealthy through the death of Hawkins. Seward and Van Helsing are academics. Quincey an american adventurer of unknown social status, though there is some connection to Arthur. If there is any concern for class in the novel it is placed between the heroes, most notably the two couples. [[User:Str1977|Str1977]] [[User talk:Str1977|<sup>(smile back)</sup>]] 17:22, 21 October 2006 (UTC)
+
+== Count Duckula ==
+
+I've made a minor change to the Popular Culture section to correct a statement about Count Duckula.  The Count is a creation of [[Cosgrove Hall]], not [[Nickelodeon (TV channel)|Nickelodeon]].  He's a spin-off character from [[Dangermouse]].  [[User:Zoe.r|Snowflake Sans Crainte]] 00:02, 28 May 2006 (UTC)
+
+== Split article ==
+
+Disagree with tag suggesting to split the article into a dab page. There is a lot of context and discussion that would be lost that is currently in the article. I would consider creating a "Dracula in the arts" or "Dracula in popular culture" article, similar to [[Frankenstein in popular culture]], and making this entirely a novel article -- [[User:Stbalbach|Stbalbach]] 16:19, 1 August 2006 (UTC)
+
+== LibriVox recording ==
+
+Please consider adding a link to the public domain, LibriVox recording of the book to this article: http://librivox.org/dracula-by-bram-stoker/
+
+[[User:Thistlechick|thistlechick]] 18:42, 1 August 2006 (UTC)
+
+== rare missing chapter ==
+
+Regarding this entry:
+::Another rather obscure segment missing from the published text in the ending of the story involves Dracula's castle crumbling into ruin after Dracual is slain.
+I've removed entirely from the article as I think it is BS.  -- [[User:Stbalbach|Stbalbach]] 00:26, 6 August 2006 (UTC)
+
+:::"Whether or not Dracula was actually slain is never addressed, as he was attacked in a fashion dissimilar to Lucy and his reaction is distinctly different. However, Stoker's original manuscript contains a passage removed from the published novel in which Castle Dracula literally explodes at the instant of the Count's death, providing a note of finality to his demise."
+
+:::It's a mistake: 
+
+:::"As I looked, the eyes saw the sinking sun, and the look of hate in them turned to triumph.
+
+:::"But, on the instant, came the sweep and flash of Jonathan's great knife. I shrieked as I saw it shear through the throat. Whilst at the same moment Mr. Morris's bowie knife plunged into the heart.
+
+:::"It was like a miracle, but before our very eyes, and almost in the drawing of a breath, the whole body crumbled into dust and passed from our sight.
+
+:::"I shall be glad as long as I live that even in that moment of final dissolution, there was in the face a look of peace, such as I never could have imagined might have rested there."
+
+:::Dracula died, his soul freed and his body dissolved, as Van Helsing earlier in the novel said it was possible to happen. The vampire hunters even took measures in the case it won't happen. I suggest the paragraph to be entirely removed from the article.--Mornatur 21:40, 25 August 2006 (UTC)
+
+:::I think it's not so unlikely, and i have heard the rumor myself years ago, but i have found no editorial proof. There is again the possibility the original author of the article based most of it on the Dracula movies, as seen in the stabbing and the strange wolf subjects.--Mornatur 15:11, 25 August 2006 (UTC)
+
+::::I have the Norton Critical Edition which is usually pretty comprehensive about these types of things and it makes no mention of a lost chapter or alternative ending. -- [[User:Stbalbach|Stbalbach]] 03:02, 26 August 2006 (UTC)
+
+:::::I'm allowing myself to change that paragraph, then.--Mornatur 20:31, 28 August 2006 (UTC)
+
+== history ==
+
+This page said nothing about the Romanian prince, Vlad Dracula, who Bram Stoker really based his novel on.  The history channel just aired a special on Dracula and a short biography can be found at http://members.aol.com/johnfranc/drac05.htm.
+
+Thanks!
+
+:Actually, it does talk about Vlad. However the evidence that Stoker based his character on Vlad is very weak. -- [[User:Stbalbach|Stbalbach]] 15:46, 5 September 2006 (UTC)
+
+::With a split article focused on the Dracula character, it would be possible to enhance info about Vlad. By the way, even if the Stoker's character wasn't based on Vlad, at least the name's origin it's clear enough to keep the Vlad subject important. --Mornatur Ormacil 21:31, 5 September 2006 (UTC)
+
+:::Not saying it's not important, and our article does address it (split or no). Also the connection to the word "Dracula" does not mean he was inspired by Vlad it's more complicated. -- [[User:Stbalbach|Stbalbach]] 14:27, 6 September 2006 (UTC)
+
+::::I´m trying, without success, to find info obout a celt chieftain, named ABHARTACH (Possibly misspelled) who might have been another source character for the Count Dracula. Yet my analog resouces - my own and my town's libraries - are lame on the historic subject. Please, if anybody has access to ACADEMIC VERIFIABLE SOURCES about Abhartach, please let me know. --Mornatur Ormacil 13:51, 7 September 2006 (UTC)
+
+:::::There is a wikipedia article [[Abhartach]] and Google has a bunch. Try also books.google.com, archive.org, a9.com (books). I think the only thing you'll find are quotes from researchers giving their opinion - if there was hard factual evidence it would be common knowledge. -- [[User:Stbalbach|Stbalbach]] 14:02, 7 September 2006 (UTC)
+
+::::The wikipedia article [[Abhartach]] seems to be a stub. And the other sources look no better. Thank you anyway. I'm still in the search.--Mornatur Ormacil 23:24, 11 September 2006 (UTC)
+
+==Dracula: character basis==
+
+When i first came upon this article - and this discuss page - i found myself troubled with the systematic doubt about the character basis of the count Dracula, and the several notations about the fact of Dracula possibly not being based on Vlad Tepes. So i went to read the novel again and found this on a Dracula dialogue on chapter 3: ''"Who was it but one of my own race who as Voivode crossed the Danube and beat the Turk on his own ground? This was a Dracula indeed! Woe was it that his own unworthy brother, when he had fallen, sold his people to the Turk and brought the shame of slavery on them!"''
+
+This, with some other phrases like this one - being this the most concise - and with the very detailed Count's portrait on chapter 2, make clear - at least to me - that the original inspiration for Count Dracula was, indeed, the Voivoda Drakulya, Vlad Tepes, and that Stoker has in fact made some research on him, the extent of such research being wide or narrow being a minor matter and unrelated to the fact of Stoker never having visited Transilvania by himself.--Mornatur Ormacil 22:47, 18 October 2006 (UTC)
+
+== radu? ==
+I watched some film a few years back where it was STRONGLY implied that mehmed the second and a 12-14 year old [[Radu the Handsome]] were being gay together. in one scene radu was dressed in nothing but silk pants(a gayish reputation...) so were they really lovers.
+== Dracula's Guest==
+"In 1914, two years after Stoker's death, Dracula's Guest was published. This was in fact the deleted first chapter from the original manuscript, which the publishers deemed unnecessary to the overall story." THis is tripe. Not even a cursory glance at the text can lead to such an error. Miller's work has shown this conclusively as well. Check out dracula sense and nonesense sometime. --[[User:Jasonnolan|Jasonnolan]] 19:20, 9 October 2006 (UTC)
+
+:Sources added. A quick browse of Google Books confirms this is a popular and widely known bit of trivia. If it is "right" or not is an entirely different issue. Where's your source, what does it say? -- [[User:Stbalbach|Stbalbach]] 14:06, 10 October 2006 (UTC)
+
+::Sorry, Jasonnolan, but even the editors of most english and spanish versions of the novel, when "Dracula's Guest" is added, comment on the fact of it being omitted onn the first edition. --Mornatur Ormacil 22:46, 18 October 2006 (UTC)
+
+:::Note It looks like the "Dracula's Guest" material is indeed added to modern editions, but that this is done inconspicuously, so that the reader doesn't know the material was ever omitted and published separately. (It's the first chapter that starts as he goes from Munich and ends as the driver takes the coach back in hand after the wolves disappear, right?). I had to be reminded of this detail to notice that the first chap, I read independently long ago, and that the firt time I read Dracula (in an edition from the 50's), it started with Harker arriving at Castle Dracula. --[[User:Svartalf|Svartalf]] 18:09, 21 October 2006 (UTC)
+
+==Hungarian V. Romanian==
+
+There are several reasons people confuse Dracula with Hungarians.  First of all the article correctly points out that Stoker incorrectly called Dracula a Szekely and that group is only for Hungarians.  Second, the most famous movie Dracula was played by Hungarian Bela Lugosi.  Lugosi even inserted some Hungarian into the scripts.  Last but not least, Hungarians ruled Transylvania for a thousand years.  Inspite of everything above the real Dracula was a Romanian.  We Hungarians get enough grief from George Soros so we dont need another Vampire.<small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Belgrade Glendenning|Belgrade Glendenning]] ([[User talk:Belgrade Glendenning|talk]] • [[Special:Contributions/Belgrade Glendenning|contribs]]) {{{2|}}}.</small><!-- Template:Unsigned -->
+
+:Mmh, never heard of anyone confusing Hungarians with Dracula. 
+:The literary figure of Dracula is a Szekely (self-declared) even though he also claims Vlad Tepes who was not a Szekely but is not identical to the novel's protagonist either. [[User:Str1977|Str1977]] [[User talk:Str1977|<sup>(smile back)</sup>]] 17:13, 21 October 2006 (UTC)
+
+== Films==
+'''Zoe, KQ, film buffs alert!'''  There was no links on the page either to the Browning film or the Hammer films, because, amazingly there are no articles in the Wikipedia on '''any''' Dracula film except [[Abbott and Costello Meet Frankenstein]]!
+----
+Wasn't there a recent movie about the filming of the original ''Nosfertatu'' in which the actor playing the vampire actually was a vampire?[[User:Ortolan88|Ortolan88]]
+
+:Yes, ''[[Shadow of the Vampire]]'', with [[John Malkovich]] as Murnau and [[Willem Dafoe]] as the vampire.  -- [[User:Zoe|Zoe]]
+----
+There are more than enough movies featuring Dracula to serve as the basis for a Wikipedia article entitled [[List of movies featuring Dracula]], but would it be more efficient to do a [[List of vampire movies]] and include a special section for Dracula? --[[User:Modemac|Modemac]] 17:27, 24 Mar 2004 (UTC)
+
+:I agree with the second option: "List of vampire movies". --[[User:Paul A|Paul A]] 01:38, 26 Mar 2004 (UTC)
+
+The reference to the IMDB search finding fourteen films with "Dracula" in the title was removed - an IMDB title search can't get more results than that anyway. All the sources I've checked give the number of Dracula-related films at 160 ''minimum'', so I've included that number instead. -[[User:Gtrmp|Sean Curtin]] 08:32, 10 Jun 2004 (UTC)
+
+== Book Value ==
+
+Can someone verify the value of the first edition of the book?  Should we put the approx. value as part of the article?  [[User:Leonida|Leonida]]  November 14th 2006
+
+:nah it's too open to change and condition of the book for sale and other factors. Check abebooks.com for some current market prices. [http://www.abebooks.com/servlet/BookDetailsPL?bi=808403009&searchurl=bx%3Doff%26ds%3D30%26bi%3Dh%26y%3D7%26yrl%3D1897%26tn%3Ddracula%26x%3D27%26sortby%3D1%26yrh%3D1900 One asking $90,000.00] "Near Fine in Poor dust jacket; The dust jacket is missing. Signed by author". -- [[User:Stbalbach|Stbalbach]] 16:06, 14 November 2006 (UTC)
+
+Wow, thought that the value would be a little higher than that; thanks for the info. [[User:Leonida|Leonida]] November 15th 2006
+{{talkarchivenav}}
+==Themes Section==
+Why has this not been deleted? It appears primarily to be the opinion of the writer, rather than of Stoker himself. Too much of an interpretive leap has been taken for most of the ideas expressed to be justified. For example, how can the writer say with any certainty that 
+
+"If the novel sounds a cautionary note, it merely warns against the presumption that established science as yet offers a complete world-view. Within Stoker's fictional universe, (correct) superstitious beliefs have an empirical basis and promise to yield to scientific inquiry."
+
+Appropriate for an English Literature essay, maybe, but for an encyclopaedia entry, no. The idea of a themes section is nice, but most of this crosses the line into personal interpretation. [[User:Melaena|Melaena]] ([[User talk:Melaena|talk]]) 20:32, 22 October 2009 (UTC)
+:I agree with you. The narrative of this section is too conversational, one sided, and it is clearly [[WP:OR|original research]]. I've tagged it where I felt the violations were most glaring—it seems to me that this entire section has been lifted from an editorial comment section, perhaps from one of the many editions of this book, but I've not been able to verify this. If no one steps forward to fill in proper citations soon, I'd vote to go ahead and delete it. Thanks. [[User:Malljaja|Malljaja]] ([[User talk:Malljaja|talk]]) 02:18, 23 October 2009 (UTC)
+
+== Should this be mentioned? ==
+
+Count Cracula starts his vampirism drinking the blood from that bleeding cross, he takes a cup, fills it with the cross' blood and drinks saying "I'll be immortal with the chalice of thy blood" or something similar, I'm pretty sure that's a reference to Catholisism, during their ceremonies they (catholics) symbolically drink the Most Precious Blood (Christ's), it is called ''Eucharisty''. At least that happens in the movie... Should that be mentioned?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/201.173.147.73|201.173.147.73]] ([[User talk:201.173.147.73|talk]]) 00:47, 15 April 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:That isn't in the book. --[[User:15lsoucy|15lsoucy]] ([[User talk:15lsoucy|talk]]) 23:53, 27 October 2009 (UTC)
+
+== Split! ==
+I think the article is quite long and may be, as suggested before, between "Dracula (Novel)", "Dracula (Fictitious character)" and "Dracula (movies and pop. culture)" to make it more comprehensive. --Mornatur 17:01, 24 August 2006 (UTC)
+
+:Yeah, [[Frankenstein]] was split the same way between three articles, seems to work pretty well. -- [[User:Stbalbach|Stbalbach]] 03:00, 26 August 2006 (UTC)
+
+::Sounds good, but, who's gonna do it? I'm afraid my english is far below the Wikipedia standards, so we need a good help from some other wikipedians here. Off course, as long as i'm useful - lame english included - i'll be around. --Mornatur 20:00, 29 August 2006 (UTC)
+
+::Agreed - [[User:Arkhiver|Arkhiver, Member of Wikiproject on Novels]]
+
+::: I've begun this.  Initially, I've simply copied and pasted from the first article.  More will come later. [[User:Zahir13|Zahir13]] 18:36, 8 January 2007 (UTC)
+::::A sensible approach [[User:Kbthompson|Kbthompson]] 15:07, 7 February 2007 (UTC)
+
+I hadn't looked at the [[Dracula]] article for a while, and seeing it today, I just wanted to say that it is GREATLY improved by being split up thus. A salute to those who did this fine work! --[[User:Stormie|Stormie]] 00:06, 8 February 2007 (UTC)
+
+== Repressed = too POV ==
+
+The word "repressed" when describing the sexuality of victorians is too POV and has a liberal bias to it. It's inappropriate for a "so-called" non-POV encyclopedia like this. The word conservative is much more agreeable.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.110.28.178|68.110.28.178]] ([[User talk:68.110.28.178|talk]]) 20:18, 6 September 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Stoker's Knowledge of Vlad the Impaler ==
+
+While it is certainly interesting to read all of these hypotheses that Stoker knew little of Vlad Dracul[e]a other than the name ''Dracula'' itself, this all seems a bit unlikely.  The ''Impaler'' is by far more common an epithet for Vlad than ''Dracula''.  Anyone doing even a cursory read on the historical personage is bound to run across his habit of impaling.
+
+I've read ''Dracula'' recently enough to very clearly remember that an important element of Dracula's fictional history, and a plot element of such importance that to leave it out would likely cause the entire story to unravel, is that Dracula was something of a hero during his mortal life; a noble and passionate warrior considered by his people to be the epitome of virtue, valor, and bravery.  While it certainly tempts the anti-intellectualist in me to consider that Stoker may have been guilty of such poor research that he had no idea about his character's real-life counterpart being one of history's most sadistic monsters, it seems much more likely that, given Stoker would be familiar with this fact if he'd done enough research to find the name ''Dracula'', he intentionally omitted all the "Impaler" stuff to create a stronger piece of literature and to place the emphasis on the curse of the undead as the ultimate villain rather than Dracula himself.  This is far more consistent with what can be found in the narrative:  Mina reminds the men that Dracula was once fair and noble; that he is not simply a monster, or that if he is, Mina would someday be this too if they could not cure her.  Their fight became not one of revenge against Mina's assailant or a quest simply to rid the world of a great evil, but to free both Mina '''and''' Dracula's soul from the curse of the dead un-dead.  Not only would all this have been completely underminded if Dracula were a bloodthirsty fiend ''before'' his transformation into a vampire, but Dracula's own, unforgettable death scene at the novel's end would've been impossible.  The entire theme of redemption that rings so strongly throughout the text would've been either lost or convoluted beyond any clear meaning or message.
+
+So there it is:  artistic liscence.  Again, while it might be fun to speculate that such an unparalleled work of literary perfection could've been based on plain ol' sloppy research, it is also rather POV to place the emphasis of this article thereon when a far simpler explanation — one consistent with the overall tone of the story and necessary for its theme and moral thesis — exists.  Stoker simply left out the parts about Dracula's real-world counterpart that would've underminded the story.  --[[User:Thorstejnn|Þorstejnn]] 03:18, 28 October 2006 (UTC)
+
+You're assuming that everyone viewed Vlad as a bloodthirsty sadistic monster.  He fought the Turks and the nobles who sold out their people to the Turks.  Yes he was brutal in his methods, so were alot of "heroes" that modern-day history text books gloss over like Saladin who personally beheaded prisoners after the battle of Hattin or Julius Caesar who cruxified pirates and other prisoners.  The age of fighting that we are discussing was anything but civilized.  If you're going to make judgements about the distant past, you cannot do so with modern-day morals and codes of conduct.  Maybe Stoker knew exactly who Vlad was but he also wasn't writing historical fiction and therefore didn't have to include every single aspect of Vlad's life into Dracula.
+Most likely, Stoker did base Count Dracula upon Vlad the Impaler.  Maybe all of Vlad's deeds were known back then, maybe not.  But we cannot conclude one way or another.
+
+According to Elisabeth Miller(2000) and Christopher Frayling (1991) Stoker found the name Dracula and some historical information about Wallachia from William Wilkinson's book "An account of the Principalities of Wallachia and Moldavia: with various Political Observations Relating to Them" (1820). Stoker did have this book and he did make notes about it.[[User:Laurukainen|Laurukainen]] ([[User talk:Laurukainen|talk]]) 17:14, 21 February 2008 (UTC)
+
+== Dracula and 'Count Dracula' ==
+Shouldn't the character 'Count Dracula' have a separate wikipedia article, as have [[Lucy Westenra]] and the other characters in the novel? This present article seems to confuse the novel 'Dracula' with the character 'Dracula', who, if you read the book, does not appear very often and is not always the centre of interest. [[User:Colin4C|Colin4C]] 18:19, 3 November 2006 (UTC)
+:There should definitely be a separate article for the count. --[[User:Codenamecuckoo|Codenamecuckoo]] 21:25, 5 November 2006 (UTC)
+
+::Somebody has just created the much needed page: [[Count Dracula (fictional character)]]. However as soon as it was created an admin swooped down and requested it be merged with this article! Doh! [[User:Colin4C|Colin4C]] 12:13, 20 December 2006 (UTC)
+
+:::I've added some material to the new Drac bio article. Would be nice if some of the Dracula experts here could add some more. [[User:Colin4C|Colin4C]] 17:25, 25 December 2006 (UTC)
+
+It's unclear why we need a separate article. No other articles link to it, and since a large portion of this article is about Count Dracula (origins etc.) it would mean confusion between articles, there is no clear line you cant talk about the Count without talking about the Novel. And we already have a separate page for the Count in popular culture. It adds more confusion than it solves. What is the practical rational for having a separate article? (not "because we could"). -- [[User:Stbalbach|Stbalbach]] 00:43, 26 December 2006 (UTC)
+
+:All the other main characters in the novel Dracula, have their own page: Van Helsing, Lucie, Mina etc etc. To reiterate: 'Count Dracula' is a character in a novel called 'Dracula'. The novel is not his biography, and for long stretches he doesn't even appear in it, as the action focuses on Van Helsing etc. I think some people are confused with the film adaptations where Count Dracula dominates the proceedings throughout the entire action and then develops his own mythos and comes back to life several times etc etc. For comparison see also that [[Prince Hamlet]] has a separate article to the play [[Hamlet]]. IMHO it is a conceptual muddle to confuse a character in a novel with the novel itself and then further confuse that character with a later 'mythos'. [[User:Colin4C|Colin4C]] 10:42, 26 December 2006 (UTC)
+::Well, I don't see how you can separate the novel from the character in particular the "Allusions/references to actual history and geography" section. As soon as you start an "origins" section in the Count's article, you have a problem with repeat material and no "main article", in essence a fork of the same material across two articles (material with is controversial and requires a lot of vigilance to keep NPOV). -- [[User:Stbalbach|Stbalbach]] 15:25, 26 December 2006 (UTC)
+
+:::So do you have a problem with the separation of these characters from the novel 'Dracula' and the provision of separate articles for them, viz: [[Mina Harker]], [[Lucy Westenra]], [[Arthur Holmwood]], [[Quincey Morris]], Dr. [[John Seward]], [[Renfield]] and [[Abraham Van Helsing]]. The latter character especially is about as important as Dracula IMHO - as seen in the title of the latest Dracula film: 'Van Helsing' and the pairing of Cushing and Lee as Van Helsing vs Dracula in the old Hammer Horrors. Do not all your objections as to repetition of material apply to them also? As to question of POVs I don't understand your point at all. Wikipedia is open to editing by all editors and is not the preserve of any self appointed Dracula vigilance committee. And, anyway, if such a vigilance committee was up to the mark, there would already be an adequate treatment of the character Dracula in this present article, which I humbly sumbit, there is not. For instance there is no description of Dracula's appearance and nothing at all about him studying the black arts at the academy of [[Scholomance]] in the Carpathian Mountains (see ''Dracula'' Chapter 18 and Chapter 23). These are just two random instances in which this present article is seriously inadequate as a guide to the character 'Dracula'. [[User:Colin4C|Colin4C]] 16:00, 26 December 2006 (UTC)
+::::I would agree with Colin4C that there is a need for a separate article, not least because leading characters in other books have their own treatments. I think in this case it goes beyond that argument, though, as Count Dracula has a 'fictional independence' that goes beyond this one book - look at the over packing of this article with films and such which wander far from the original character who appears in Bram Stoker's novel. I would think that what people addressing this page would want is a concise readable account of the book.
+::::Repetition is always a difficult problem, but it might be avoided with a more sensible balance in not overloading this page on the book - i.e. by offloading some of the greatest flights of cinematic fantasy to a page on the character.[[User:Kbthompson|Kbthompson]] 00:01, 28 December 2006 (UTC)
+
+I agree with the above comments by Colin4C and Kbthompson that there is a need for a separate article to reflect the fact that the Count has taken on an entity of his own that deviates far from Stoker's creation. This would result in a more concise article on the original novel. [[User:Natalieduerinckx|Natalieduerinckx]] 21:57, 9 January 2007 (UTC)
+
+: I also agree. Count Dracula has become an icon, different from the character in the novel, fully as much as Sherlock Holmes. Indeed, the character has been transmorgrified and brought forth in many new and different interpretations ''apart from the novel''. He has been a character on television series like ''Buffy'' and ''Superboy''. He has been the central character in multiple novel series as well as stand-alone sequels, reworkings, etc. Films have been made purporting to be sequels or retellings of his story, often with very little to do with Stoker's novel. This is pretty clearly a case where the character has gained a life outside his original source material. However, I do think the article would do well with an examination of how the interpretation of the character has evolved--from ugly demon to suave nobleman to cursed lover, etc. [[User:Zahir13|Zahir13]] 22:11, 9 January 2007 (UTC)
+
+::As I see it there are three entities: 
+:1 'Dracula the novel' 
+:2 'Count Dracula', the character who appears in the novel 'Dracula'
+:3 'Dracula the character who appears in popular culture'. 
+Maybe we need three separate articles?: [[Dracula]], [[Count Dracula (fictional character)]], and [[Dracula in Popular Culture]]??? Whatever we do, I think that we should carefully distinquish between the three different meanings of 'Dracula' and not mix them up into a confused bundle. [[User:Colin4C|Colin4C]] 11:29, 10 January 2007 (UTC)
+
+I see your point, I would initially go for separate sections on 2 & 3, within an article on "Count Dracula (fictional character)". If that schema, in turn becomes overloaded, then do the split. Any schema should be make sense to a casual reader and be easily accessible. Summaries (2-3 sentences) can be put in here, with main article tags, for the linked page. Doesn't that provide sufficient focus? [[User:Kbthompson|Kbthompson]] 12:40, 10 January 2007 (UTC)
+
+:Yes, that a good idea, Kb, and it follows the same logic as the already existing articles on Van Helsing and Lucy and Mina etc (who have also been subject to re-interpretation). I'll go with that. [[User:Colin4C|Colin4C]] 14:20, 10 January 2007 (UTC)
+
+== Who managed the Lyceum? ==
+
+There are two contradictory passages in the article:
+
+<i>Between 1878 and 1898 Stoker managed the world-famous London Lyceum Theatre</i>
+
+<i>The Lyceum Theatre, where Stoker worked between 1878 and 1898, was headed by the tyrannical actor-manager Henry Irving</i>
+
+[[User:Ubermonkey|Ubermonkey]] 17:03, 12 January 2007 (UTC)
+
+:Not completely contradictory, but well capable of clarification. Irving was actor-manager of the Lyceum theatre company; Stoker was his theatre manager ... (i.e distinction is: performance/front of house) ... [[User:Kbthompson|Kbthompson]] 10:16, 14 January 2007 (UTC)
+
+== Oldest movie ==
+
+I once learned that the very first adaptation is older than Nosferatu. It was a Hungarian movie and almost nothing remains of it nowadays. Anyone know about it?... I think it should be good to mention it, even if I don't have any sources to prove my statement.
+
+[[User:Klow|Klow]] 01:11, 14 January 2007 (UTC)
+
+:i have heard about that i always thought it was a rumor , but if someone else says it exists i guess it does (shana)
+
+
+This morning (10/25/2007) NPR's the Diane Rehm show highlighted this novel and a man called in saying he runs a Dracula museum of sorts and has an orgional cut of this film.  Apparently it was ordered destroyed by the Hungarian authorities, so a few copies were hidden and one has made it's way into his archive.  I'm sure there is a transcript of the show somewhere if someone would like to find out more.  [[User:Plumlogan|Plumlogan]] 00:03, 26 October 2007 (UTC)
+
+== Racist Work ==
+
+dracula is gay wondering if Dracula was ever considered a racist work and an attack upon Eastern European immigrants who were coming into Great Britain during Stoker's time. Specifically the fact that Dracula came from Transylvania (and Stoker was very specific about the location of Dracula's castle) to England by ship and attacked white British women. <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:125.244.164.90|125.244.164.90]] ([[User talk:125.244.164.90|talk]] • [[Special:Contributions/125.244.164.90|contribs]]) 17 February 2007</small><!-- Template:Unsigned -->
+
+     It is commonly considered a critique on immigration.  [[User:Plumlogan|Plumlogan]] 00:04, 26 October 2007 (UTC)
+
+:Sounds like nonsense to me. But people need something to write their theses on, I guess. (Personally, I think Stoker was only prejudiced against Eastern European undead.  I would be too.) [[User:TresÁrboles|TresÁrboles]] ([[User talk:TresÁrboles|talk]]) 23:40, 12 May 2008 (UTC)
+Funny.[[User:Twobells|Twobells]] ([[User talk:Twobells|talk]]) 21:09, 27 March 2010 (UTC)
+
+== BBC Version ==
+
+Should any mention be made of the recent [http://www.bbc.co.uk/drama/dracula BBC version of Dracula]? <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:125.244.164.90|125.244.164.90]] ([[User talk:125.244.164.90|talk]] • [[Special:Contributions/125.244.164.90|contribs]]) 17 February 2007</small><!-- Template:Unsigned -->
+
+:Not in this article; the appropriate place to mention it would be the subsidiary article [[Dracula in popular culture]]. (There is, in fact, already a paragraph about it in that article.) --[[User:Paul A|Paul A]] 05:49, 17 February 2007 (UTC)
+
+::There is also a rather detailed article about this adaptation: see [[Dracula (2006)]]. Enjoy! --[[User:Stormie|Stormie]] 21:48, 18 February 2007 (UTC)
+
+== Please help ==
+'''i want to know more about dracula.so i was asking if yuo can help. <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Raha sipati|Raha sipati]] ([[User talk:Raha sipati|talk]] • [[Special:Contributions/Raha sipati|contribs]]) 2 March 2007</small><!-- Template:Unsigned -->
+
+:dracula is said to be the first vampire. some say that he was raised from the very deapths of the underworld and that anyone can summon him using a spell. he has supernatural powers he is immortel, he survies on the blood of others, he can shape shift into the form of a wolf or a bat, he can appear in a mist or an elementel dust, he has no soul wich due to the fact that mirrors are the gateway to ones soul he has no reflection, he casts no shadow, he has a hypnotic power over his victims, he can turn his victims into vampires. but he also has limitations: he may not enter a househould if the owner of the dwelling is alive without being invited,he loses his powers during the day, he must sleep on the soil of his native land, he can only cross running water at the slack or the flood of the tide, he is repelled by holy symbols-cross(crucifix)holy water, holy wafer- and finaly he can be killed by driving a wooden stake through his heart or decappitating him. (shana)
+
+::Also has the power to destroy good grammar, obliterate correct spelling, and annihilate proper citations with just a withering glance! [[User:TresÁrboles|TresÁrboles]] ([[User talk:TresÁrboles|talk]]) 23:44, 12 May 2008 (UTC)
+
+== Potboiler? ==
+
+I have deleted the bizarre unreferenced assertion that everybody in Victorian England regarded Dracula as a 'potboiler'. As far as I am aware this is not true and not amenable to demonstration. Also 'potboiler' is a derogatory slang term - not suitable for an encyclopedia. [[User:Colin4C|Colin4C]] 21:25, 3 March 2007 (UTC)
+
+:Standard interpretation and easily cited from many top-tier sources including Norton Critical Edition and Leaonard Wolf. Potboiler is not slang it is a useful and often used term in academic works. -- [[User:Stbalbach|Stbalbach]] 05:31, 4 March 2007 (UTC)
+
+::I have found many contemporary rave reviews from the Victorian period none of which call the book a 'potboiler'. The contemporary 'Christian World' called 'Dracula 'one of the most enthralling and unique romances ever written'. Other reviews called it 'the sensation of the season' and 'the most blood-curdling novel of the paralysed century' etc etc. Nowhere do I find it called a 'potboiler'. And my Collins Dictionary defines the term 'Potboiler' as an 'Informal' usage. I.e. not an academic term or one to be used in encyclopedias I have never seen it used in an academic sense. Maybe you could cite me an example? [[User:Colin4C|Colin4C]] 10:47, 4 March 2007 (UTC)
+
+::I have now looked at eight contemporary Victorian reviews of the book and NONE have called Dracula a 'potboiler': rather they have called it a classic of Gothic Horror and, inter alia, that it surpassed the novels of Wilkie Collins. [[User:Colin4C|Colin4C]] 12:17, 4 March 2007 (UTC)
+
+::And as for 'top-tier' Leonard Wolf I find his annotated versions of Gothic Horror classics very unreliable. His edition of 'Phantom of the Opera' was particularly bad and his edition 'Dracula' gives astonishing praise in the introduction to the true 'potboiler' author of all time: Anne Rice. Says the (un)sagacious Wolf apropos Rice: 'her work has a visionary grandeur of nearly epic proportions. If we look for a literary achievement as large and dark as her vampire trilogy, we must go back to Charles Maturin's 'Melmoth the Wanderer''!!! [[User:Colin4C|Colin4C]] 12:52, 4 March 2007 (UTC)
+
+:::[[Leonard Wolf|Leonard Wolf's]] footnotes in ''The Essential Dracula'' are sometimes trite, sometimes condescending toward Stoker, and frequently present a danger of "spoiling" (i.e. don't read the footnotes if you haven't read the novel yet!) [[User:TresÁrboles|TresÁrboles]] ([[User talk:TresÁrboles|talk]]) 23:48, 12 May 2008 (UTC)
+
+:::No critic would use the term "potboiler" in a contemporary review unless they are being severely critical. But potboiler used by a literary historian is entirely different, for example [[A Christmas Carol]] is often called a potboiler in literary history. Stoker was writing many genre works to supplement his income as a stage manager, he needed the money and set out to write books to make money, the term potboiler is useful to get that concept across, as many literary historians have found. Since you find the distinction and contextual usage of potboiler problematic, I have removed it. -- [[User:Stbalbach|Stbalbach]] 17:21, 4 March 2007 (UTC)
+
+== Wallachian Voivodes? ==
+With reference to this passage in the article:
+
+:Vlad III was an ethnic Vlach. In the novel, Dracula claims to be a Székely - "We Szekelys have a right to be proud..." —. However, few lines down, Dracula claims ancestry from the Wallachian Voivodes - "Who was it but one of my own race who as Voivode crossed the Danube and beat the Turk on his own ground? This was a Dracula indeed!"— This suggests either that Stoker had limited knowledge of the historical facts, or that he deliberately created a fusion of the different elements he found during research reading (the Transylvanian-born and Vlad III of Wallachia, and the Szeckelys with Hunnic descent).
+
+Are we sure that that Dracula is anywhere claimed in the novel to be Wallachian? If you look up the [[Voivode]] article you will find that, inter-alia, Hungarian governors of Transylvania were called 'Voivodes' and that the term 'Voivode' is pan-Slavic, describing gov officials from Serbia, to Poland to Russia. Maybe its wikipedia editors who have 'limited knowledge of the historical facts' rather than Stoker...[[User:Colin4C|Colin4C]] 19:13, 13 March 2007 (UTC)
+
+About the Hungarian (not Wallachian!) Voivodes (extracted from the Voivodes article):
+
+:The Voivode of Transylvania (woyuoda Transsiluanus or erdélyi vajda in Hungarian) was one of the barons (or chief office holders) of the Kingdom of Hungary. The vajda was, in effect, a territorial governor or viceroy appointed by the Hungarian crown. He was also the chief magistrate and military commander of Transylvania's counties, and this power inevitably drew the Székely and Saxon territories into his sphere of influence however these territories were governed by counts who were nominally independent of the voivode. The title originated with the Slavic population, prior to the Hungarian conquest of the region. The Transylvanian voivodes, who were closely affiliated with the king, were often far from Transylvania, and local administration frequently fell into the hands of the vice-voivodes. However, some voivodes, such as László Kán (1297–1315), became powerful local rulers, effectively independent of the king. The title was in use from 1199 until the independent Principality of Transylvania emerged in the 16th century. [[User:Colin4C|Colin4C]] 21:58, 13 March 2007 (UTC)
+
+::Having repeatedly scanned the text of 'Dracula' I find absolutely no reference to Dracula's supposed Wallachian ancestry. Being the Voivode who crossed the Danube to fight the Turks does not make him Wallachian. Voivodes are not necessarily Wallachian and neither is that nationality obligatory in order to cross the Danube! [[User:Colin4C|Colin4C]] 18:06, 17 March 2007 (UTC)
+
+This is the passage in the book that mentions [[Wallachia]]:
+
+:"That treasure has been hidden," he went on, "in the region through which you came last night, there can be but little doubt.  For it was the ground fought over for centuries by the '''Wallachian''', the Saxon, and the Turk.  Why, there is hardly a foot of soil in all this region that has not been enriched by the blood of men, patriots or invaders.  In the old days there were stirring times, when the Austrian and the Hungarian came up in hordes, and the patriots went out to meet them, men and women, the aged and the children too, and waited their coming on the rocks above the passes, that they might sweep destruction on them with their artificial avalanches.  When the invader was triumphant he found but little, for whatever there was had been sheltered in the friendly soil."
+
+It doesn't really say Dracula was Wallachian. Stoker could be referring to the [[Battle of Călugăreni]] (1595) "..when the Austrian and the Hungarian came up in hordes", but hard to say for sure.  -- [[User:Stbalbach|Stbalbach]] 00:52, 18 March 2007 (UTC)
+
+== Country - Ireland? ==
+
+At the time ''Dracula'' was published, Ireland was part of the United Kingdom. Also the book's first publisher was a UK publisher. So shouldn't it read 'United Kingdom (now Ireland)' or something like that? [[User:Kohran|Kohran]] 22:01, 19 April 2007 (UTC)
+
+The formal term for the Union at the time ''Dracula'' was published was The [[United Kingdom of Great Britain and Ireland]]. I presume the novel was released simultaneously in the UK and Ireland, so it appears that the info box is not accurate as it now stands. [[User:Natalie West|Natalie West]] 22:45, 19 April 2007 (UTC)
+
+:It might be nice to list the editions of 'Dracula'. For instance as well as the UK edition, there was also a Colonial edition for the benifit of the British Empire. Later there was the American edition. I also read somewhere that the first translation was into Icelandic! Apparantly this Icelandic edition came out in Stoker's lifetime and included a special introduction from Bram himself. [[User:Colin4C|Colin4C]] 19:35, 20 April 2007 (UTC)
+::It would be nice to find out more about that special introduction, and information about other translations.  It's probably one of the most-translated books, but there's no information on translations in the article at present at all. [[User:Schizombie|Шизомби]] 13:15, 3 July 2007 (UTC)
+
+I have the book i can check but i'm pretty sure it was published somewhere else. in the movie it was made in transylvaina.
+([[User:Coke12|Coke12]] ([[User talk:Coke12|talk]]) 16:37, 22 July 2009 (UTC))
+
+Bram Stoker was British and a great anglophile, Ireland at that time was British and he carried British Passport and identity papers, I have updated the entry accordingly.[[User:Twobells|Twobells]] ([[User talk:Twobells|talk]]) 20:35, 27 March 2010 (UTC)
+
+== Some Contradictions ==
+
+This article:
+'The novel is more important for modern readers than contemporary Victorian readers, who enjoyed it as a good adventure story; it would not reach its iconic legend status until later in the 20th century'
+
+The Daily Mail review of June 1, 1897:
+
+"In seeking a parallel to this weird, powerful, and horrorful story our mind reverts to such tales as The Mysteries of Udolpho, Frankenstein, Wuthering Heights, The Fall of the House of Usher ... but Dracula is even more appalling in its gloomy fascination than any one of these."
+[[User:Colin4C|Colin4C]] 10:05, 28 April 2007 (UTC)
+
+I tend to trust the views of academic literary historians [[Nina Auerbach]] and [[David Skal]], editors of ''Dracula'' by Norton Critical Edition. 1997. {{ISBN|0393970124}}, as a source, more than an original research interpretation of single primary source document.  -- [[User:Stbalbach|Stbalbach]] 18:57, 28 April 2007 (UTC)
+
+::I don't understand the meaning of your term 'original research interpretation'. How is our interpretation of the words of the Daily Mail review (which is reprinted in the Auerbach and Skal volume by the way) different to our interpretation of the words of Auerbach and Skal themselves? How is one interpretation more original than another? Also, according to your logic, is the plot summary here in this article of Stoker's 1897 text also an 'original research interpretation'?   [[User:Colin4C|Colin4C]] 11:34, 29 April 2007 (UTC)
+
+==Requested move==
+<div class="boilerplate" style="background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;"><!-- Template:polltop -->
+:''The following discussion is an archived discussion of the {{{type|proposal}}}. <span style="color:red">'''Please do not modify it.'''</font> Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+
+[[Dracula (novel)]] → [[Dracula]] — The novel is the primary and original usage here. Anything else should be disambiguated. —[[User:Reginmund|Reginmund]] 08:14, 13 July 2007 (UTC)
+
+===Survey===
+:''Feel free to state your position on the renaming proposal by beginning a new line in this section with'' <code><nowiki>*'''Support'''</nowiki></code> ''or'' <code><nowiki>*'''Oppose'''</nowiki></code>'', then sign your comment with'' <code><nowiki>~~~~</nowiki></code>''. Since [[Wikipedia:Polling is not a substitute for discussion|polling is not a substitute for discussion]], please explain your reasons, taking into account [[Wikipedia:Naming conventions|Wikipedia's naming conventions]].''
+*'''Strong Support''' - Anything else called "Dracula" is merely based off of the novel, which is undoubtedly more popular. "[[Frankenstein]]" goes to the novel and the monster is only secondary usage. [[User:Reginmund|Reginmund]] 08:15, 13 July 2007 (UTC)
+*Weak '''Support''' - as it matches other fictional works such as [[Frankenstein]]. The problem is that the good count has achieved independence from the novel, and it could be argued that more contemporary accounts of the story actually have a more common usage. The important thing is that we maintain the clear separation between the novel and its later derivatives, and that this page doesn't return to its former state of being a long list of films that have little to do with the original (see prior discussion). [[User:Kbthompson|Kbthompson]] 08:42, 13 July 2007 (UTC)
+*'''Oppose''' - changing to [[Dracula]] might confuse this article in editor's minds with the [[Count Dracula]] article about the fictional character who appears in the novel and the one on [[Vlad the Impaler]] about the historical figure who might have inspired the fictional figure and also confuse it with the article on [[Dracula in popular culture]]. [[User:Colin4C|Colin4C]] 14:24, 13 July 2007 (UTC)
+*'''Oppose''' - The character ''Dracula'' ([[Count Dracula]]) from the book would be the most likely search topic. [[User:132.205.93.32|132.205.93.32]] 23:35, 13 July 2007 (UTC)
+*'''Support''' - Since when are characters more important than the stories they are in? [[User:Parable1991|Parable1991]] 08:18, 14 July 2007 (UTC)
+**How about when those characters take on a life of their own and appears in hundreds of books, movies, comics, etc. beyond the original novel that introduced them? :-) --[[User:Stormie|Stormie]] 01:56, 16 July 2007 (UTC)
+***Let me remind you that many of the more popular uses of Dracula are based more on the novel than on the actual character himself. [[User:Parable1991|Parable1991]] 08:04, 17 July 2007 (UTC)
+****Hmm, not sure I agree, have a look at [[Dracula in popular culture]], particularly comics, games, anime and manga, there are a ''lot'' of uses of the Dracula character which are only ''very'' loosely based on Stoker's novel. But anyway, I have changed my opinion and now support [[Dracula]] being the article on the novel despite that, so it doesn't matter really. --[[User:Stormie|Stormie]] 23:04, 17 July 2007 (UTC)
+*'''Oppose''' - If anything, the character should take priority over the novel. I'm sure most people have heard of Dracula, but probably through other mediums such as film and television; I wonder how many have actually sat down and read Stoker's original? [[User:PC78|PC78]] 09:56, 14 July 2007 (UTC)
+*'''Oppose''' - The titular character has long eclipsed the novel whence it originated. Distinguishing the "character" and "novel" entries in the article headings aids readers and editors alike. [[User:Malljaja|Malljaja]] 11:25, 14 July 2007 (UTC)
+*'''Support''' - Sounds like circumstantial evidence to me "the character should take priority over the novel. Some people would think otherwise. Why cant we just provide a top link for the character '''Count''' Dracula? [[User:71.109.186.47|71.109.186.47]] 18:53, 14 July 2007 (UTC)
+*'''Support''' If anyone is looking for the character then put a disambig link at the top of this article; {{about|Bram Stoker's novel|the character|Count Dracula|other uses|Dracula (disambiguation)}}. Simple. [[User:Masaruemoto|Masaruemoto]] 19:33, 14 July 2007 (UTC)
+*'''Support''' [[Dracula]] '''redirects''' here; what are the oppose !votes defending? I will add Masaruemoto' dab, if no-one has; it should be done anyway.  [[User:Pmanderson|Septentrionalis]] <small>[[User talk:Pmanderson|PMAnderson]]</small> 19:42, 14 July 2007 (UTC)
+**[[Dracula]] redirected to [[Dracula (disambiguation)]] until the creator of this straw poll [http://en.wikipedia.org/w/index.php?title=Dracula&diff=144356248&oldid=141109400 changed it]. I have reverted to allow discussion to continue.
+*<s>'''Oppose'''</s>. Whilst I certainly agree that Stoker's novel is the primary and original usage, we decided a while ago that it was necessary to separate ''Dracula'' the novel and "Dracula" the character into separate articles, as the combined one was getting much too long, so effectively both [[Dracula (novel)]] and [[Count Dracula]] can claim to be articles about the "primary and original usage" of the word. For this reason I favour [[Dracula]] remaining a redirect to [[Dracula (disambiguation)]]. --[[User:Stormie|Stormie]] 01:56, 16 July 2007 (UTC)
+**'''Oh OK, Support''' - doing a bit of digging, it seems that [[Dracula]] originally covered the novel and character (see [http://en.wikipedia.org/w/index.php?title=Dracula_%28novel%29&oldid=98310920] for an example of this massive article), then just the novel after the split-off of the character to [[Count Dracula]] and the film adaptations etc. to [[Dracula in popular culture]]. Then it was unilaterally changed without discussion by [[User:Daniel tara]] in May, who felt that [[Dracula]] should redirect to [[Vlad III the Impaler]], swiftly reverted to point to  [[Dracula (disambiguation)]], and then various other changes and reverts were made to the redirect (including a couple of reverts by me), none of them really discussed. So, anyway, given the long status quo of [[Dracula]] referring to the novel, I'm joining the growing consensus here and saying, yes, let's go back to that. --[[User:Stormie|Stormie]] 23:04, 17 July 2007 (UTC)
+*'''Support''' per popularity of the ''Dracula'' story, which spawned a myriad of movies and other uses of the character in fiction and popular culture. [[Special:Contributions/Sesshomaru|Lord Sesshomaru]] 20:20, 16 July 2007 (UTC)
+*'''Oppose'''; the novel and the character are competing for primary topic under "Dracula", and it appears that the [[Dracula (disambiguation)]] page should be moved to the base name instead. -- [[User:JHunterJ|JHunterJ]] 02:20, 17 July 2007 (UTC)
+*'''Support'''. Tough call, because it's a good dab page, but in the end we wouldn't be having this discussion if it were not for the novel.  This is a classic case for...
+*:''This article is about the classic novel by [[Bram Stoker]], for other uses see: [[Dracula (disambiguation)]]''
+:--[[User:Serge Issakov|Serge]] 07:03, 18 July 2007 (UTC)
+
+===Discussion===
+:''Any additional comments:''
+*"Count Dracula" can be found with that wording. Otherwise, one may be directed from the novel itself. the same might as well be said for [[Frankenstein]]. [[User:Reginmund|Reginmund]] 23:46, 13 July 2007 (UTC)
+*It is a shame that one of the greatest works of literature is being considered subordinate to some cult spin-offs based on the title character. It is especially silly that some Wikipedians say that the character spin-offs are undoubtedly more popular when then majority of Google hits[http://www.google.co.uk/search?hl=en&q=Dracula&btnG=Google+Search&meta=] come up with either information on the novel or one of the novel's adaptations. I have skimmed at least seven of the first Google pages and none of them have articles either exclusively on Count Dracula, or one of his spin-offs... FOR SHAME!!! [[User:Reginmund|Reginmund]] 08:11, 17 July 2007 (UTC)
+**So maybe the Dracula disambiguation page is then perhaps the best cyber stop-off for those harbouring such shameful and silly thoughts to reconsider their cognitive destiny? [[User:Colin4C|Colin4C]] 20:35, 17 July 2007 (UTC)
+*Most definitely! That's why it should be titled [[Dracula (disambiguation)]] to show that they are subordinate to the novel. Although I think it would be proper to put a direct link to the Count at the top of the novel's page. [[User:Reginmund|Reginmund]] 20:40, 17 July 2007 (UTC)
+*You may be interested in taking a look at ''[[Frankenstein]]'' (the novel), [[Frankenstein's monster]], [[Victor Frankenstein]] and [[Frankenstein in popular culture]] to see the successful split that the split of the Dracula articles was inspired by. --[[User:Stormie|Stormie]] 23:07, 17 July 2007 (UTC)
+
+:''The above discussion is preserved as an archive of the {{{type|proposal}}}.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.</div><!-- Template:pollbottom -->
+''Another borderline decision, but I think there is more in favour of having the novel at "Dracula" than anything else. Not least, it is the only one of the major topics whose title actually is "Dracula" (cf. [[Count Dracula]], [[Vlad the Impaler]], etc.) Also, the article had been at that title for a long time, and no consensus was sough t or apparent for the move to [[Dracula (novel)]]. Finally, having the novel at "Dracula" does fit better with the pattern established at [[Frankenstein]] of treating the novel as the primary topic.'' ''This article has been renamed {{{{{subst|}}}#if:Dracula (novel)|from [[Dracula (novel)]] to [[Dracula]]}} as the result of a [[wikipedia:requested moves|move request]].'' --[[User:Stemonitis|Stemonitis]] 14:27, 18 July 2007 (UTC)
+
+::Fair enough. I have today clarified (yet again!) the rationale of the [[Count Dracula]] article in the top-headings there. These top-headings keep getting altered by neophyte editors, not party to our discussions here, to whom, seemingly, the conceptual difference between a character in a novel and the novel itself is one of life and literature's major mysteries. [[User:Colin4C|Colin4C]] 09:01, 20 July 2007 (UTC)
+
+==Editions==
+Abovementioned were translations of Dracula, and annotated or other editions of Dracula.  If anyone has access to that information, I believe that would be a valuable contribution to the article. [[User:Schizombie|Шизомби]] 14:24, 17 July 2007 (UTC)
+
+== RE: Noferatu copyright issues ==
+
+The article states the fact that Mrs Stoker refused rights to the producers of Nosferatu; however, it should be noted that releases of the film in the US in fact did use the names from the novel. Orlok was Dracula, and etc. --[[User:Bentonia School|Bentonia School]] 06:40, 14 October 2007 (UTC)
+
+== RE: Vlad ==
+
+Any reliable citations to refer to Stoker not basing Dracula on Vlad? This is the first I've heard of it. --[[User:Bentonia School|Bentonia School]] 10:36, 14 October 2007 (UTC)
+
+Read my section on the bottom about Eleonore von Schwarzenberg. [[User:Norum|Norum]] ([[User talk:Norum|talk]]) 08:44, 14 July 2009 (UTC)
+
+== Origin of the word "Dracula" ==
+
+The article suggests that the name Dracula derives from the word "Dracul" and from the historical character of Vlade III Dracula.
+However, I have "An Enriched Classic" series edition of Bram Stoker's Dracula, and in the extra credits the word "Dracula" is said to have derived from gaelic words 'droch fhola', meaning bad blood. Does anyone know with certainty of the true origins of the name Dracula, or are all the stated explanations possibly true?
+
+Here's the entire passage from my book, explaining the origin of the word Dracula:
+" '''Dracula:''' The name ''Dracula'' is a pun on the Gaelic phrase ''droch fhola'', meaning "bad blood". It is an indication that Dracula may be read as an Irish monster-an Anglo-Irish Protestant landlord or a Gaelic Irish Catholic revolutionary-remains a matter of deliberate ambiguity. "
+
+Here's a (commercial, sorry!) link to a description of the edition of Dracula that I have:
+http://www.amazon.com/Dracula-Enriched-Classics-Bram-Stoker/dp/0743477367/ref=pd_bbs_sr_3?ie=UTF8&s=books&qid=1195217627&sr=1-3
+
+Perhaps this explanation of the origin of the word could be included in the article?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/88.113.117.7|88.113.117.7]] ([[User talk:88.113.117.7|talk]]) 12:56, 16 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Plot Summary ==
+
+The entire plot summary is identical to this one: http://www.sparknotes.com/lit/dracula/summary.html  [[User:Mitchx3|Mitchx3]] ([[User talk:Mitchx3|talk]]) 23:53, 14 April 2008 (UTC)
+:An anon editor seems to have sneaked in that version in whilst our attention was distracted. I have replaced it with the old version. [[User:Colin4C|Colin4C]] ([[User talk:Colin4C|talk]]) 16:24, 15 April 2008 (UTC)
+
+== Themes ==
+
+I removed the following two paragraphs:
+
+<i>
+Along with advances in technology and industry was the Victorian perception of a decline of morality and faith-based values; sexually transmitted diseases were becoming common, especially [[syphilis]]. Plagues were believed to have been introduced from without. Dracula, who 'transmits' his vampirism via a highly erotic method, represents a carrier of social fear and decline.
+
+The character of Dracula is representative of 'foreign' and 'invasive'. This fear of the foreigner ties into the theory of Reverse Colonization, where a powerful nation is taken over by a more primitive group. Dracula's character represents these primitive people who come to dominate developed nations. By portraying Dracula as a strange, alien being, Stoker reflects the views of Victorians towards immigrants.
+</i>
+
+not because they were nonsense, but because they were nonsense which had no references.  There are some factual assertions which I would like to see cites for. As for views regarding foreigners, the Count was described as highly intelligent, well-read, and physically the strongest. And don't forget the other foreigner. How would our English vampire hunters have fared without the capabilities of the Dutchman, Van Helsing?
+
+Feel free to add those paragraphs back in when the proper references are cited so that we know whom to ridicule. [[User:TresÁrboles|TresÁrboles]] ([[User talk:TresÁrboles|talk]]) 00:42, 13 May 2008 (UTC)
+
+== publication date ==
+
+I've read on a number of websites that the novel first came out on May 26 1897. Should I put it in the infobox? It seems odd that the infobox doesn't even say what month Dracula was published in. [[Special:Contributions/218.215.188.156|218.215.188.156]] ([[User talk:218.215.188.156|talk]]) 03:56, 20 October 2008 (UTC)
+
+Hmm, I see another section of this article gives May 18 as the publication date. I'll put May in the infobox. [[Special:Contributions/218.215.188.156|218.215.188.156]] ([[User talk:218.215.188.156|talk]]) 04:10, 20 October 2008 (UTC)
+
+[[User:Pigeoninlet|Pigeoninlet]] ([[User talk:Pigeoninlet|talk]]) 20:54, 11 January 2009 (UTC) Stoker specifically mentions May 26 in a note sent to William Gladstone.
+
+== Climax ==
+
+What is the climax of this story. also is their any movie based on this novel if so tell me the name.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.141.70.180|72.141.70.180]] ([[User talk:72.141.70.180|talk]]) 21:28, 29 December 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+* There are many films based on Dracula but i'd hardly call any of them true to the book the climax well read for yourself [[Special:Contributions/71.87.144.230|71.87.144.230]] ([[User talk:71.87.144.230|talk]]) 17:55, 25 April 2009 (UTC)
+
+== Settings ==
+
+what are the setting and the descriptions of the setting  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.141.70.180|72.141.70.180]] ([[User talk:72.141.70.180|talk]]) 21:29, 29 December 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==Dracula's heir==
+I was the one who added the Official Sequel category a few months ago. When I found the info for the first time it mentioned the upcoming sequel titled "The Un-Dead" was being based on Stoker's original notes. This isn't about that section but I was in a bookstore and found a book titled "Dracula's Heir". Looking through it. It appears to have a lot of story also based on Stoker's original notes. The book's copyright says it was published in 2008 by Quirk Productions, inc. I was going to dismiss it as another fan made sequel but it is very similar to what the upcoming sequel sounds like. Is this just another fan made sequel or what is it? It revolves around why Dracula's guest was cut from the book. The main story is girls go missing renfield and Harker are suspects. Dracula may have returned. I will read the whole thing. Is this based on Stoker's notes? The book is by Sam Stall.--[[User:VampireKen|VampireKen]] ([[User talk:VampireKen|talk]]) 03:45, 15 January 2009 (UTC)
+
+[[User:Pigeoninlet|Pigeoninlet]] ([[User talk:Pigeoninlet|talk]]) 15:12, 17 January 2009 (UTC)
+I cannot comment on Stall's book (haven't read it) but I do know a thing or two about Stoker's Notes. In fact, I am co-editor of the recently published "Bram Stoker's Notes: A Facsimile Edition" (McFarland, 2008). This book contains 124 pages of handwritten and typed notes Stoker made while working on "Dracula." Believe me, these notes clarify a number of crucial issues: the relationship between "Dracula's Guest" and the novel, where Stoker found the name "Dracula" and why he used it for his vampire, his information about Transylvania (and his sources), etc.
+
+Thanks. and Dracula's Heir is a fictional version of why the chapter was removed. Thanks for verifying other things for me.--[[User:VampireKen|VampireKen]] ([[User talk:VampireKen|talk]]) 23:06, 18 January 2009 (UTC)
+
+== Eleonore von Schwarzenberg ==
+
+Should this be added that Eleonore von Schwarzenberg was actually the real inspiration for Dracula and Gerard van Swieten was the actual inspiration for van Helsing? [[User:Norum|Norum]] ([[User talk:Norum|talk]]) 11:15, 13 July 2009 (UTC)
+:Got a [[WP:RS|reliable source]] for it? --[[User:Stormie|Stormie]] ([[User talk:Stormie|talk]]) 21:31, 13 July 2009 (UTC)
+
+There is this Austrian documentary from 2007 titled "Vampyrprinsessan" (The Vampire Princess).
+I just saw it on Viasat History right here in Sweden. 
+Here is a link from the English history channel.
+http://www.thehistorychannel.co.uk/site/tv_guide/full_details/World_history/programme_429.php 
+
+It is the fact that after she died, the doctors ordered autopsy where it was never done on royalty and aristocracy. True, they discovered a tumour, but at that age, they did not know what it was.
+Also, there were also some remains found in the area with the head chopped off and placed between their legs.
+When Eleonore von Schwarzenberg was buried in the church, her coffin was not only lowered into the crypt, but also surrounded with a solid, concrete type cage so she would not raise as a vampire. It was like a coffin inside a coffin.
+Heres a link to the video. It is a clip where the archaeologists open the tomb and lower the camera inside.
+http://www.evtv1.com/player.aspx?itemnum=13792
+
+[[User:Norum|Norum]] ([[User talk:Norum|talk]]) 23:32, 13 July 2009 (UTC)

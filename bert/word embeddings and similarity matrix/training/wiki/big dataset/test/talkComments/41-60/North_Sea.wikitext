@@ -1,0 +1,739 @@
+{{Talk header}}
+{{Vital article|level=4|topic=Geography|class=B}}
+{{British English}}
+{{Article history|action1=PR
+|action1date=11:23, 1 September 2007
+|action1link=Wikipedia:Peer review/North Sea/archive1
+|action1result=reviewed
+|action1oldid=154151293
+
+|action2=GAN
+|action2date=8 December 2007
+|action2link=Talk:North Sea#GA Review
+|action2result=failed
+|action2oldid=175780903
+
+|action3=GAN
+|action3date=04:53, 26 January 2009
+|action3link=Talk:North Sea/GA1
+|action3result=not listed
+|action3oldid=266035245
+
+|topic         = Geography
+|currentstatus=FGAN
+}}
+{{WikiProject banner shell|collapsed=yes|1=
+{{WikiProject Oceans|class=B|importance=high}}
+{{WikiProject Geography|class=B|importance=high}}
+{{WikiProject Ecoregions| class=B|importance=Mid|}}
+{{WikiProject Arctic| class=B|importance=Mid}}
+{{WikiProject Belgium|class=B|importance=high}}
+{{WikiProject Denmark|class=B|importance=high}}
+{{WikiProject England|class=B|importance=high}}
+{{WikiProject France|class=B|importance=high}}
+{{WikiProject Germany|class=B||B-Class-1=yes||B-Class-2=yes||B-Class-3=yes|B-Class-4=yes||B-Class-5=yes|importance=high}}
+{{WikiProject Netherlands|class=B|importance=high}}
+{{WikiProject Norway|class=B|importance=high}}
+{{WikiProject Scotland|class=B|importance=high}}
+{{WikiProject UK geography|class=B|importance=high}}
+{{WikiProject Europe|class=B|importance=low}}
+{{WP1.0|v0.5=pass|class=B|category=Geography|WPCD=yes|importance=High}}
+}}
+{{To do}}
+[[Talk:North Sea/Archive 1|Archive 1 (up to July 2007)]]
+[[Talk:North Sea/Archive 2|Archive 2 (July 2007 - November 2008)]]
+[[Talk:North Sea/Archive 3|Archive 3 (November 2008 - November 2010)]]
+
+== Leading paragraph ==
+
+So, as the talk page notes in several discussions above, the lede for this article is tricky because there is so much information and it is difficult to summarize concisely.  I have just significantly rewritten/reorganized the lede because i thought it it did not read very smoothly; it was more like a list of facts than a summary.  Furthermore, there aren't any body of water featured articles or any real templates I could find to base this off of.  I have tried as far as possible to make these changes in accordance with [[WP:LEAD]].  It states that an article of this size should generally have a lede of about 4 paragraphs and focus on aspects in proportion to their importance.  I arranged it thus: 
+# What, where, and how big?  for a geographical article i think these are the most important items. 
+# why is this notable now? most people are probably more interested in what's going on now than working up through history.  this wound up being basically summary of the economy since it's geopolitical importance has waned. 
+# History.  I thought the flow of "it's important now because... Historically, however..." was smoother than splitting it up.  
+# Geology, geography, and environment. These items have less to do with the notability of the sea and are more just general facts about it.  The fjords are kind of notable since the best examples are on the north sea but the economy and history are, it seems to me, the reason more people will be coming to this article. (this is certainly a judgment call; I am open to arguments the other way.  But I couldn't really think of any myself.)
+
+I tried to remove any facts that might want citation.  I also tried generally to remove any specific facts in favor of a very general overview.  Any given fact in a summary takes you on that slippery slope of 'if we include this we have to include that.'  Also broad characterizations make for smoother reading than lists of facts.  
+
+Anyway I figured, since the lede has been through several iterations I'd try to get a general outline for people to agree on in here so that we can avoid complete rewritings as much as possible, but I welcome any comments to this framework or edits.  --[[User:InspectorTiger|InspectorTiger]] ([[User talk:InspectorTiger|talk]]) 21:00, 3 November 2010 (UTC)
+
+== France ==
+
+It would appear that France is one of the littoral countries of the North Sea but it is not included in the first sentence.[[User:Eregli bob|Eregli bob]] ([[User talk:Eregli bob|talk]]) 15:41, 20 June 2012 (UTC)
+:Yes, but only just. Mentioning it may imply that all of France's coast is on the North Sea, whereas it is actually only a very small part. [[User:Bazonka|Bazonka]] ([[User talk:Bazonka|talk]]) 17:34, 20 June 2012 (UTC)
+'''
+''''''If we have to mention France and the North Sea (sorry, but it just isn't a Northsea nation for me) then maybe the geopolitics behind it, and also explain away how places like Deal and Margate are considered lying on the English channel even though they lie somewhat to the north of northernmost (North Sea lying) bit of France.
+'''''''''  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/90.215.210.155|90.215.210.155]] ([[User talk:90.215.210.155|talk]]) 13:18, 1 October 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:About 45km of France's coast is on the North Sea, and Deal and Margate are definitely not on the English Channel. Who says that they are? [[User:Bazonka|Bazonka]] ([[User talk:Bazonka|talk]]) 17:50, 1 October 2015 (UTC)
+
+== Maps less than satisfactory? ==
+
+
+With regard to the map currently sitting in the 'economy' section, it would be useful to know what the black line running through various countries is - I'm presuming it's the drainage divide. If confirmed we should label it though perhaps for the purposes of the section one without that adornment might suffice. The drainga ebasin is dealt with elsewhere.
+
+As regards the 'geology' section, I'm not convinced the existing map is helpful or relevant as the map covers much of Europe, N Africa and the Middle East and the N Sea is in one small corner. 
+
+Can anyone improve the article on either count? - my own abilities with images on WP are limited!  cheers 11:06, 13 October 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[North Sea]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=678072205 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20081114213006/http://www.hebridean.co.uk/_pdf/Hebridean-Spirit-The-Baltic-East.pdf to http://www.hebridean.co.uk/_pdf/Hebridean-Spirit-The-Baltic-East.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 06:51, 27 August 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[North Sea]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=707200721 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive http://web.archive.org/web/20070810055628/http://www.northsea.org/nsc/thematic_groups/environment/documents/members/nsceg_membprofiles_0606.pdf to http://www.northsea.org/nsc/thematic_groups/environment/documents/members/nsceg_membprofiles_0606.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 12:23, 27 February 2016 (UTC)
+
+
+== Less known German name ==
+
+I don't know, how to handle the knowledge, or better, where the right place to right is, but I don't think, it's unimportant. A more or less uncommon German name is "Blanker Hans" (means: "bare/naked Hans"). It's only known in north Germany, if it's known. Also it's used in the poem "Trutz Blanker Hans" (resist Blanker Hans), an poem about the town "Rungholdt", which was destroyed by a North Sea's storm.[[Special:Contributions/79.194.208.144|79.194.208.144]] ([[User talk:79.194.208.144|talk]]) 15:22, 29 March 2016 (UTC)
+:Is it a real name, or just a nickname? If the latter, I don't think it should be mentioned. If it's a proper name, then we would need a reliable source before it can be included, and even then I'm not convinced that it's relevant for an English-language encyclopedia. Let's see the source first though. [[User:Bazonka|Bazonka]] ([[User talk:Bazonka|talk]]) 18:11, 29 March 2016 (UTC)
+
+== German Sea ==
+
+Historically was it called the German Sea.  Like the "Irish Sea".  <!-- Template:Unsigned IP --><small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/87.224.32.142|87.224.32.142]] ([[User talk:87.224.32.142#top|talk]]) 13:44, 8 December 2016 (UTC)</small> <!--Autosigned by SineBot-->
+:This is already mentioned in the article. [[User:Bazonka|Bazonka]] ([[User talk:Bazonka|talk]]) 22:41, 8 December 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 19 external links on [[North Sea]]. Please take a moment to review [[special:diff/817689446|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20090114230040/http://web.gfi.uib.no/The%20Norwegian%20Sea/TNS-002.htm to http://web.gfi.uib.no/The%20Norwegian%20Sea/TNS-002.htm
+*Added archive https://web.archive.org/web/20081209095426/http://www.safetyatsea.se/index.php?section=northsea to http://www.safetyatsea.se/index.php?section=northsea
+*Added archive https://web.archive.org/web/20081217143715/http://www.emecs.or.jp/guidebook/eng/pdf/05north.pdf to http://www.emecs.or.jp/guidebook/eng/pdf/05north.pdf
+*Added {{tlx|dead link}} tag to http://mapserver.maptech.com/homepage/index.cfm?lat=54.74456315454079&lon=2.3527509224287115&scale=1500000&zoom=50&type=0&icon=0&width=498&height=498&searchscope=dom&CFID=1719760&CFTOKEN=33728793&scriptfile=http%3A%2F%2Fmapserver.maptech.com%2Fhomepage%2Findex.cfm&latlontype=DMS
+*Added archive https://web.archive.org/web/20081201164653/http://www.edinburghgeolsoc.org/edingeologist/z_14_04.html/ to http://www.edinburghgeolsoc.org/edingeologist/z_14_04.html/
+*Added archive https://web.archive.org/web/20140221160235/http://de.windfinder.com/tide/Emden_Neue_Seeschleuse_Germany to http://de.windfinder.com/tide/Emden_Neue_Seeschleuse_Germany
+*Added archive https://web.archive.org/web/20150429091718/http://vannstand.no/index.php/nb/english-section/tide-table to http://vannstand.no/index.php/nb/english-section/tide-table
+*Added archive https://web.archive.org/web/20070710023601/http://www.ospar.org/eng/doc/pdfs/R2C2.pdf to http://www.ospar.org/eng/doc/pdfs/R2C2.pdf
+*Added archive https://web.archive.org/web/20081217143715/http://www.emetsoc.org/annual_meetings/documents/Morin_SilverMedalLecture_2008.pdf to http://www.emetsoc.org/annual_meetings/documents/Morin_SilverMedalLecture_2008.pdf
+*Added {{tlx|dead link}} tag to http://www.naturegrid.org.uk/rivers/gt%20stour%20case%20study-pages/fld-cstl.html
+*Added archive https://web.archive.org/web/20070106061146/http://www.ibg.uit.no/~stein/Bondevik-al-03-EOS.pdf to http://www.ibg.uit.no/~stein/Bondevik-al-03-EOS.pdf
+*Added archive https://web.archive.org/web/20140425180447/http://www.naturalsciences.be/active/sciencenews/archive2005/tsunami to http://www.naturalsciences.be/active/sciencenews/archive2005/tsunami
+*Added archive https://web.archive.org/web/20090104224507/http://www.petermaas.nl/extinct/speciesinfo/atlanticgreywhale.htm to http://www.petermaas.nl/extinct/speciesinfo/atlanticgreywhale.htm
+*Added archive https://web.archive.org/web/20061007012331/http://www.total.no/en/About+TOTAL+NORGE/History/Fina/index.aspx to http://www.total.no/en/About+TOTAL+NORGE/History/Fina/index.aspx
+*Added archive https://web.archive.org/web/20070704031349/http://archive.greenpeace.org/comms/cbio/crisis1.html to http://archive.greenpeace.org/comms/cbio/crisis1.html
+*Added archive http://webarchive.nationalarchives.gov.uk/20090522203401/http%3A//www.offshore%2Dsea.org.uk/consultations/Offshore_Energy_SEA/OES_Non_Technical_Summary.pdf to http://www.offshore-sea.org.uk/consultations/Offshore_Energy_SEA/OES_Non_Technical_Summary.pdf
+*Added archive https://web.archive.org/web/20081201165129/http://www.emec.org.uk/tidal_site.asp to http://www.emec.org.uk/tidal_site.asp
+*Added archive https://web.archive.org/web/20160101042324/http://www.northseatrail.org/ to http://www.northseatrail.org/
+*Added archive https://web.archive.org/web/20100831173118/http://www.mcga.gov.uk/c4mca/mcga07-home/emergencyresponse/mcga-searchandrescue/mcga-hmcgsar-sarsystem/channel_navigation_information_service__cnis_/the_dover_strait.htm to http://www.mcga.gov.uk/c4mca/mcga07-home/emergencyresponse/mcga-searchandrescue/mcga-hmcgsar-sarsystem/channel_navigation_information_service__cnis_/the_dover_strait.htm
+*Added archive https://web.archive.org/web/20081209095426/http://www.safetyatsea.se/index.php?section=northsea to http://www.safetyatsea.se/index.php?section=northsea
+*Corrected formatting/usage for http://www.northsea.org/nsc/thematic_groups/environment/documents/members/nsceg_membprofiles_0606.pdf
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 00:00, 30 December 2017 (UTC)
+
+== External links modified (January 2018) ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[North Sea]]. Please take a moment to review [[special:diff/821651872|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20081209094254/http://www.safetyatsea.se/index.php?art=2041&group=400 to http://www.safetyatsea.se/index.php?art=2041&group=400
+*Added archive https://web.archive.org/web/20090108222855/http://europa.eu/scadplus/leg/en/lvb/l28061.htm to http://europa.eu/scadplus/leg/en/lvb/l28061.htm
+*Added archive https://web.archive.org/web/20090310035954/http://www.kiel-canal.org/english.htm to http://www.kiel-canal.org/english.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 20:22, 21 January 2018 (UTC)
+
+== North Sea didn't protect Britain from invasion until the Romans ==
+
+The article now states that "The British Isles had been protected from invasion by the North Sea waters until the Roman conquest of Britain in 43 CE". That's nonsense of course. There have been numerous invasions into Britain before those time, the latest before the Romans were by some [[Belgae|Belgic]] tribes just 1 or 2 centuries earlier. Another major invasion that we now know of, is the one by the [[Beaker culture|Beaker]] people. [[User:JRB-Europe|JRB-Europe]] ([[User talk:JRB-Europe|talk]])  <!--Template:Undated--><small class="autosigned">—Preceding [[Wikipedia:Signatures|undated]] comment added 05:59, 24 October 2018 (UTC)</small> <!--Autosigned by SineBot-->
+
+== Discrepancy ==
+
+The size of the sea differs significantly between the opening paragraph and the Geography section. I'm virtually sure the former is wrong, as the island of Britain alone is 80,000 square miles. [[User:Stismail|Samer]] ([[User talk:Stismail|talk]]) 17:50, 20 March 2019 (UTC)
+{{talkarchive}}
+==German(ic) Ocean/Sea==
+A quick check of the Oxford English Dictionary shows that North Sea was in use by the 13th century, and in common use in the 18th.  German Sea and German Ocean were in play, but were never the exclusive English term simply displaced by war-fervor.  The usages in the OED implies that "German Ocean" is more a learned term (as a translation of Ptolemy's ''Germanikos Okeanos'') and that "North Sea" may be more common, but I may be misreding the usages.  --MichaelTinkler
+
+: I agree. I started to write a long list of supporting evidence, then found [http://www.eastsea.org/article3/report3.htm this article] which sums it up nicely. In reality the North Sea had not been called the German Sea or German Ocean in everyday English speech for centuries prior to [[World War I]]. One question which remains is whether there was an [[archaism|archaic]] "official" name that was changed to reflect the ordinary name during the War. However, the ''first'' body providing "official" British usage for place names outside the [[United Kingdom]] proper was the [http://www.pcgn.org.uk PCGN], which was not founded until [[1919]]. Thus, the claim appears to be an [[urban legend]]. I'll leave the claim for a day or so to see if anyone can come up with supporting evidence, then remove it. --Roger 13:40, 17 Sep 2003 (UTC)
+
+:Several Google hits for "Germanic Sea" but none illustrating usage in the 20th Century and many noting that it is out-of-date.  [[User:Jieagles|Jieagles]] 16:16, 6 October 2007 (UTC)
+
+----
+
+If the Kattegat is a bay of the North Sea, and Sweden borders on the Kattegat, then why doesn't Sweden border on the North Sea?--[[user:Branko]]
+
+-----
+From a Danish/Swedish point of view, it is doubtful whether the Kattegat is ''a part'' of the North Sea. But the precise delimination of the Northern waters is controversial.<br>
+S.
+
+----
+The German Hydrographic Service used to define the Kattegat as part of the "waters between North Sea and Baltic Sea" (along with Sound & Belts and maybe even Kiel bay). I am not sure whether this terminology is still used. [[User:Kosebamse|Kosebamse]] 11:03 Feb 28, 2003 (UTC)
+
+== Need help with reference article ==
+
+[http://www.ospar.org/eng/doc/pdfs/R2C2.pdf This] is a nice overview article about the geography and hydrography of the North Sea, apparently published by [http://www.ospar.org/eng/html/welcome.html OSPAR Commission]. It presents as "Chapter 2" but I was unable to find other parts of that publication. Any ideas? [[User:Kosebamse|Kosebamse]] 04:08, 5 Oct 2004 (UTC)
+:The last digit of the address is the number of the chapter. Try [http://www.ospar.org/eng/doc/pdfs/R2C1.pdf this] for the introduction. ([[User:RJP|RJP]] 20:33, 21 May 2006 (UTC))
+
+== Headline text ==
+hi k 'lfa lzd'&#273;Insert: Á á É é Í í Ó ó Ú ú   À à È è Ì ì Ò ò Ù ù   Â â Ê ê Î î Ô ô Û û   Ä ä Ë ë Ï ï Ö ö Ü ü   ß   Ã ã Ñ ñ Õ õ   Ç ç &#290; &#291; &#310; &#311; &#315; &#316; &#325; &#326; &#342; &#343; &#350; &#351; &#354; &#355;   &#262; &#263; &#313; &#314; &#323; &#324; &#340; &#341; &#346; &#347; Ý ý &#377; &#378;   &#272; &#273;   &#366; &#367;   &#268; &#269; &#270; &#271; &#317; &#318; &#327; &#328; &#344; &#345; Š š &#356; &#357; Ž ž   &#461; &#462; &#282; &#283; &#463; &#464; &#465; &#466; &#467; &#468;   &#256; &#257; &#274; &#275; &#298; &#299; &#332; &#333; &#362; &#363;   &#470; &#472; &#474; &#476;   &#264; &#265; &#284; &#285; &#292; &#293; &#308; &#309; &#348; &#349; &#372; &#373; &#374; &#375;   &#258; &#259; &#286; &#287; &#364; &#365;   &#266; &#267; &#278; &#279; &#288; &#289; &#304; &#305; &#379; &#380;   &#260; &#261; &#280; &#281; &#302; &#303; &#370; &#371;   &#321; &#322;   &#336; &#337; &#368; &#369;   &#319; &#320;   &#294; &#295;   Ð ð Þ þ   Œ œ   Æ æ Ø ø Å å   – — …   [] [[]] {{}}   ~ | °   ± &#8722; × ² ³   €  Ò hfr ;f; 
+
+x
+
+Hello - can someone explain what the above piece of text under "Headline Text" is for? [[User:Gzcsy3|IanB]] 12:14, 11 September 2006 (UTC)
+
+Hi, speaking both German and English I may be able to enlighten everyone as to what use the above list may be. When referencing German words(other non-English languages also) it requires a lot of diacritic marks. To open a character map page or searching for an ASCII number every time is tedious, thus the list above allows for a quick copy and paste when a specific character is required. I may be wrong, but it seems quite useful to me. [[User:Pmi25|Pmi25]] 05:23, 29 June 2007 (UTC)
+
+
+
+== Bad Description ==
+
+MSN Encarta gives a better image and description:
+
+http://encarta.msn.com/map_701515192/North_Sea.html
+
+==Expand notice==
+This is a major body of water, so I've nominated it for Version 0.5, but the article is very brief.  Could someone try to add some content?  Compare [[Baltic Sea]]. Thanks, [[User:Walkerma|Walkerma]] 04:19, 24 August 2006 (UTC)
+
+Could I suggest the history section should reflect its importance in WW1 and WW2?  Should there be a section on shipwrecks (including archaeology), of which the UK coastline alone has many tens of thousands.
+The Baltic Sea section on Geography is excellent ..but less applicable here as the boundaries can't be rigourously defined.   In the absence of a geography section, could the introduction cover sea temperatures, [http://www.fimr.fi/en/palvelut/aallokko-ja-vedenkorkeus/merkitseva-aallonkorkeus.html significant wave height], icing etc?  [[User:JRPG|JRPG]] 12:26, 15 July 2007 (UTC)
+
+
+==Other north seas==
+Are there any other bodies of water known as 'north sea' or some translation thereof? If so, even if they're not internationally-recognised names, it might be worth linking to them, to help reduce systemic bias.
+(Not that I know of any myself, but it's the kind of generic name that must surely be found all over the place...) [[User:Chris Thornett|Chris Thornett]] 16:24, 30 October 2006 (UTC)
+:[[Image:Yes check.svg|20px]] Not that google comes up with -  to date no disambiguation is needed.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:11, 12 September 2007 (UTC)
+
+== Citations ==
+
+Does this article not need more citations? [[User:Antgel|Antgel]] 02:26, 26 January 2007 (UTC)
+:[[Image:Yes check.svg|20px]] Since this date the article has recently been translated from a Feature Article in German wikipedia, as well as the article was nominated for [[Wikipedia:Article Collaboration and Improvement Drive]] and received a multitude of improvements.  It is currently under peer review.  Citations have been added and checked.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:11, 12 September 2007 (UTC)
+
+== map ==
+
+that map's really bad. the link to the encarta thing that other guy posted has a wonderful map.
+
+
+== Expand ==
+
+Does any German speaking person intend to fulfill the translation request anytime soon? I wish I could do it. But I was thinking of just using some English reference material that we can find on our own to expand this article. I might propose a list of good sources and then anyone else interested in the article is welcome to work with me. [[User:Dashes|ΞΞΞ]] 18:05, 1 July 2007 (UTC)
+
+yes i am working on translating this article from the German along with Island Kayaker. [[User:Jieagles|Jieagles]] 00:55, 10 July 2007 (UTC)
+
+Could someone have a look at the non-English word 'Kontors'.  Its translation is office which seems inappropriate for the context. Would outpost be better? [[User:JRPG|JRPG]] 12:26, 15 July 2007 (UTC)
+
+Kontor has an article in English wikipedia. i have now fixed the link. [[User:Jieagles|Jieagles]] 19:02, 17 July 2007 (UTC)
+
+== History Section ==
+
+i think the history section is a prime candidate for summarization to reduce the size of the article.  it has already been split off into its own article and it is very long and includes several very detailed parts. (possible 3 sections: "Early history"=romans and vikings, "Northern Europe's commercial highway" or something to do with commerce and trade=Hanseatic league, the Netherlands, and Britain, "20th Century"=the rest.  Thoughts? if no one beats me to it ill post a link to a draft here. [[User:Jieagles|Jieagles]] 02:04, 13 September 2007 (UTC)
+
+
+Re the history section, I certainly felt uncomfortable with it but WW1 is now perhaps too short! The sinking of 3 old cruisers by [[U9]] was the startling first proof of what submarines -which almost caused British surrender in 1917 -could do. It was taught in Naval staff colleges and should be mentioned.  
+
+The article should also say that the Grand fleet moved to Scapa to effect a distant blockade.   
+
+"Britain strove to maintain the blockade and, if possible, to damage the German fleet enough that British ships could be used elsewhere."  Where else could the ''fleet'' be used? The Baltic was too dangerous.  The men could certainly be used but this isn't what is said. [[Scheer]]'s stated aim before Jutland was to lure out ''part'' of the fleet to destroy it and thus weaken the rest.
+
+Surely [[Jutland]], the largest ever naval battle requires a mention.
+
+[[User:JRPG|JRPG]] 22:25, 30 September 2007 (UTC)
+
+:Please make these changes to the [[History of the North Sea]] page and feel free to add it here but i really am gonna try to get around to summarizing this section sometime soon so individual facts might not be around very long, but im certainly not an expert so the more info ive got the better summary ill be able to make. [[User:Jieagles|Jieagles]] 00:06, 1 October 2007 (UTC)
+
+Hi Jieagles.   Edit to the [[History of the North Sea]] WW1 is done, the wording I hope more concise. The talk edit was done at night -sorry if it sounded a little tetchy!
+There seems to be duplicated items on North Sea history which would benefit from merging.
+[[User:JRPG|JRPG]] 21:11, 1 October 2007 (UTC)
+
+Ive begun summarizing the section. It can be found here; feel free to have a go. [[User:Jieagles/North Sea History]]  [[User:Jieagles|Jieagles]] 15:03, 24 October 2007 (UTC)
+
+== Units and spelling ==
+
+I believe i have fixed all the units so that they appear initially in metric and then parenthetically in US exceptions being a couple of times where source material was US (eg. 100ft boats).  
+
+i also though it would be better to use abbreviations for source units mainly due to spelling discrepancies throughout the article (meter/metre) and the unusually large number of times that these units appear make it unnecessary to repeat every time.  (See [[Wikipedia:Manual of Style (dates and numbers)#Unit symbols and abbreviations]] this seems to be a reasonable exception as defined there.)
+
+I also changed all (i hope) the spelling problems to American spelling because i was going through already and my browser has a AE spell check so it was easier for me to do it this way simply to attain uniformity.  If someone wants to change it all to BE, the content makes that reasonable though not necessary.  [[User:Jieagles|Jieagles]] 15:18, 14 September 2007 (UTC)
+
+==Introduction==
+I have made a sandbox page to play with introduction.  [[User:SriMesh/Sandbox/NorthSeaIntro]]  Under the paragraphs there is a ''discussion'' - table of contents to introduce, concepts from WP lead 1. Context  2. Characterization 4. Compare and contrast 5. Criticism  , and peeked in at wikiproject lakes and rivers to try to give me an outline for the lead to consider. The whole article has been introduced by four paragraphs  for an introduction.  I alleviated some concerns on the North Sea talk page, and put the other names of the North Sea in to the second paragraph, and took out the technical terms from the very first paragraph.  What do you think of the paragraphs above ***----***---***---***  at [[User:SriMesh/Sandbox/NorthSeaIntro]]  They could be further copy edited I am sure, but it provides a starting point to summarize the article or the entire table of contents into the introduction.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:27, 20 September 2007 (UTC)
+
+{{talkarchive}}
+== 'Sudden flood' ==
+
+Couldn't figure out if this is there already. [http://www.cbc.ca/technology/story/2007/07/19/britainchoppedoff.html] [[User:Anchoress|Anchoress]] 20:43, 19 July 2007 (UTC)
+
+There is another source based on the same report in [http://www.guardian.co.uk/science/story/0,,2129662,00.html Breach of ice age lake made Britain an island, Guardian Thurs 19th July] which may help?&mdash; [[User:Rodw|Rod]] <sup>[[User talk:Rodw|talk]]</sup> 09:13, 21 July 2007 (UTC)
+
+==Merger Question==
+Can / should  this translation [[User talk:Island Kayaker/North Sea from German Wiki|Island Kayaker/North Sea from German Wiki]] be merged into the current article to help with the [[Wikipedia:Article Collaboration and Improvement Drive|Article Improvement Drive]]?  I have referenced some sources into the article.... I started some merging of the two articles, while looking up resources about the various chapters simultaneously, for a few sections....  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:39, 20 July 2007 (UTC)
+
+
+==Articles with unsourced statements since July 2007 | All articles with unsourced statements ==
+Can these templates be removed?  Have been adding sources and references.  Are they enough?  How is the template acknowledged and discussed?[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 04:06, 25 July 2007 (UTC)
+:Reply at [[Wikipedia talk:WikiProject Fact and Reference Check#North Sea]] - Thank you.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 17:14, 25 July 2007 (UTC)
+
+==Featured Article candidate yet?==
+I'd hate to put any article through the process, but this does look like a featurable article to me, at least. Hats off to all of you. --[[User:Wetman|Wetman]] 23:12, 27 July 2007 (UTC)
+:Not quite yet, I feel. i've given the article a quick gander and there are still a few problems:
+*Several spelling mistakes, typos and some clumsy english in places, but this is easily solved.
+::[[Image:Yes check.svg|20px]] Spelling mistakes corrected via MS word and two grammar fixes.  More needed.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:11, 12 September 2007 (UTC)
+
+*some irrelevance and imbalance. For instance, the Battle of Trafalgar (which wasn't in the North Sea) is mentioned, but the Battle of Copenhagen (which was - just) isn't. Also, the map of the Amber Road isn't relevant, as it is only tangential to the North Sea. The Amber Road has its own article where the map can go.
+::[[Image:Yes check.svg|20px]] These sections and images have been replaced. 
+*Despite the large number of citations (and isn't ''that'' a pleasure to see for once), there needs to be a few more, especially for the part about the moving islands, which is quite a claim and needs a proper reference.
+
+*Sections on culture and wildlife are missing.
+
+*Some of the redlinks need to be filled.
+
+*It's now 88K, which goes against the [[WP:SIZE]] guidelines. But at least it's finally bigger than [[Loch Ness Monster]] which somebody was moaning about.
+
+*there are probably things that I've missed.
+
+:But having said that, it's great to see how much this article has come on. It's the first time I've been involved in an improvement drive and it's been a pleasure watching (and helping) this article grow. [[User:Totnesmartin|Totnesmartin]] 11:09, 28 July 2007 (UTC)
+
+:The Orkney photo by the list of islands is a bit sad. There are various more dramatic ones at, for instance [[List of islands of Scotland]] but I don't want to add to the burgeoning article size. [[User:Ben MacDui|Ben MacDui]] <small>[[User talk:Ben MacDui|(Talk)]]</small> 11:33, 28 July 2007 (UTC)
+::Hopefully the one I found is less boring. [[User:Totnesmartin|Totnesmartin]] 13:05, 28 July 2007 (UTC)
+
+:I've edited through the first half: I hope the rationale for my edits will be self-explanatory: mostly for idiomatic flow and tighter, clearer relations of ideas. Some explanatory phrases for the reader. I left some comments in the html where the sense was deeply muddled. --[[User:Wetman|Wetman]] 11:54, 1 August 2007 (UTC)
+
+== New infobox image ==
+
+The new infobox image with different parts of the sea labelled is very difficult to read in the article and not easy even at the larger size on the image page itself.  is this just my computer/browser/something else or are other folks having the same problem?  [[User:Jieagles|Jieagles]] 16:04, 30 July 2007 (UTC)
+:You need to download the full resolution version, available under the image page just under the picture. By the way, this happens a lot with maps and diagrams on WP, personally I accept it "just one of those things", but perhaps there's room for improvement in the coding? On some sites you can enlarge a picture by moving the mouse over it, but don't ask me how it's done, I know more about [[Myōjin-shō|Japanese undersea volcanoes]] than HTML. [[User:Totnesmartin|Totnesmartin]] 19:34, 30 July 2007 (UTC)
+
+
+At least two of the labels in the infobox image are incorrect the [[Norwegian Trench]] runs much closer to the coast of Norway, reaching its deepest along Norway's southern coast.  Second, the [[Scapa Flow]] is between several of the [[Orkney Islands]] not northwest of them.  - [[User:Jieagles|Jieagles]] 00:07, 13 November 2007 (UTC)
+
+Why do you use the imperial measure units as default and then the metric as comparasion. This is an international page, so it should be the other way round.
+
+== Infobox ==
+{{Infobox lake
+|name         = North Sea
+|image        = North_Sea.jpg
+|caption_     = Satellite image| image_bathymetry  =
+|caption_bathymetry=
+|location          = [[Atlantic Ocean]]
+|coords            = {{coord|56|N|03|E|scale:4000000_type:waterbody|display=inline}}
+|inflow            = [[River Forth|Forth]], [[Ythan Estuary|Ythan]], [[Elbe]], [[Weser]], [[Ems (river)|Ems]], [[Rhine]]/[[Waal (river)|Waal]], [[Meuse River|Meuse]], [[Scheldt]], [[River Spey|Spey]], [[River Tay|Tay]], [[Thames]], [[Humber]], [[River Tees]], the [[River Wear]] and the [[River Tyne]] 
+|outflow           =
+|catchment         =
+|basin_countries   = [[Norway]], [[Denmark]], [[Scotland]], [[England]], [[Germany]], [[Netherlands]], [[Belgium]] and [[France]]
+|length            = 600 mi (970 km)<ref  Name="Statistics1">{{citation
+  |last=Royal Belgian Institute of Natural Sciences
+  |first=
+  | author-link =
+  | last2 =
+  | first2 =
+  | author2-link =
+  |title=MUMM  North Sea facts
+  |date=
+  |year=2002-2007
+  |url=http://www.mumm.ac.be/EN/NorthSea/facts.php
+  |accessdate= July 19, 2007}}</ref>
+|width             = 350 mi (560 km)
+|area              = 222,000 mi2 (575,000 km2)<ref name="Stats"/>
+|depth             = 308 ft (94 m)<ref  Name="Statistics">{{citation
+  |last=OSPAR Commission, for the protection of the marine environment of the North-East Atlantic.
+  |first=
+  | author-link =
+  | last2 =
+  | first2 =
+  | author2-link =
+  |title=Geography, hydrography and climate
+  |date=
+  |year=2007
+  |url=http://www.ospar.org/eng/doc/pdfs/R2C2.pdf
+  |accessdate= July 19, 2007}}</ref>
+|max-depth         = c.2,165 ft/660 m<ref Name="Stats">{{citation
+  |last=Answers Corporation
+  |first=
+  | author-link =
+  | last2 =
+  | first2 =
+  | author2-link =
+  |title=North Sea: Definition and Much More from Answers.com
+  |date=
+  |year=2007
+  |url=http://www.answers.com/topic/north-sea?cat=travel
+  |accessdate= July 19, 2007}}</ref>
+|volume            = 94 000 km
+|residence_time    =
+|shore             =
+|islands           =
+|cities            =
+|frozen            =
+|type              = part of [[Atlantic Ocean]]
+}}
+
+I removed {{tl|infobox lake}} from the article as the infobox is meant for lakes, rather than any "body of water".{{spaced ndash}}User:Docu
+
+:Is there any reason that seas should not use the lake box template since there appears to be no other appropriate template?  if not then it ought to be put back and if so then someone who knows better how they're done should create an info box with the information because its useful to have it in one place at the top and some of it appears nowhere else in the article.  [[User:Jieagles|Jieagles]]
+
+The infobox was made for lakes. Recently we removed {{tl|lake project}} banners from a series of sea lochs, mainly because we didn't want infoboxes on these either.
+Besides, some of the fields are useful mainly for lakes and descriptions of some fields link to lake specific pages.{{spaced ndash}}User:Docu
+
+:Someone should probably make a duplicate and rm the "surface elevation" parameter and change "lake type" to something more appropriate; apart from that, I don't see any problems. [[User:82.71.48.158|82.71.48.158]] 18:17, 2 August 2007 (UTC)
+:[[Image:Yes check.svg|20px]] made [[Template:Infobox Ocean]] (mostly copy and paste from infobox lakes}, tried to make it unique to oceans though with some fields - which need to yet be filled in like salinity, benches (higher areas) and trenches(lower areas).[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 01:52, 13 September 2007 (UTC)
+
+== Many uses of Images ==
+
+I don't think all the images shown in this article is needed. I think we should put on in each article, depending if it fits or not. [[User:A Raider Like Indiana|<b><font face="papyrus" color="orange">A Raider Like Indiana</font></b>]] 16:12, 1 August 2007 (UTC)
+
+== Islands ==
+The table in the 'Islands' section isn't sorting properly. When I tried to sort by area, the table was sorted according to the first digit of the figures, regardless of whether it was a tens or hundreds digit. Does anyone know how the table could be made to sort numerically rather than alphanumerically? [[User:CarrotMan|<font color="0066cc">Carrot</font>]][[User talk:CarrotMan|<font color="ff3333">Man</font>]] 11:05, 6 August 2007 (UTC)
+:I guess it is because the table cell content is alphanumeric. Try removing the km<sup>2</sup> to the header and things might work better. It may then be like the [[List of islands of Scotland]] where sorting cycles through forward and backward, numeric and alphanumeric. [[User:Finavon|Finavon]] 17:28, 6 August 2007 (UTC)
+Glad that appears to work. Should this list include all the larger islands in the Scottish Orkney and Shetland Groups? I think they are all considered N Sea. Four are included but not all that are larger than Canvey Island. The link in my previous edit has details.  [[User:Finavon|Finavon]] 20:04, 6 August 2007 (UTC)
+
+==Good Article / Wikiproject Review?==
+After so much work done to this article, should it now be placed into [[Wikipedia:Good article review|Good article review]], [[Wikipedia:Peer review|Peer review]] or each wikiproject peer review board as per above banners to see if it ready for Good Article rating or maybe FAC  rather than ''B'' ? [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 01:35, 26 August 2007 (UTC)
+:I agree, let's do that. Peer review first I think, then GA review if the peer review goes ok. [[User:Totnesmartin|Totnesmartin]] 11:08, 1 September 2007 (UTC)
+
+
+==Automated Peer Review==
+The following suggestions were generated by a semi-automatic [[User:AndyZ/peerreviewer|javascript program]], and might not be applicable for the article in question.
+*Please expand the lead to conform with guidelines at [[Wikipedia:Lead]]. The article should have an appropriate number of paragraphs as is shown on [[WP:LEAD]], and should adequately summarize the article.<sup>[[User:AndyZ/G#lead|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. This error no longer appears at the semi-automatic peer reviewer. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*Per [[Wikipedia:Only make links that are relevant to the context|Wikipedia:Context]] and [[Wikipedia:Manual of Style (dates and numbers)|Wikipedia:Manual of Style (dates)]], months and days of the week generally should not be linked. Years, decades, and centuries can be linked if they provide [[WP:CONTEXT|context]] for the article.<sup>[[User:AndyZ/G#contxt|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. This error no longer appears at the semi-automatic peer reviewer. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*Avoid including [[WP:IG|galleries]] in articles, as per [[Wikipedia:Galleries#Policy|Wikipedia:Galleries]]. Common solutions to this problem include moving the gallery to [http://commons.wikimedia.org/wiki/Main_Page wikicommons] or integrating images with the text.<sup>[[User:AndyZ/G#ig|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. [[User:Jieagles|Jieagles]] 01:49, 13 September 2007 (UTC)
+
+*This page is 89 kilobytes long. It may be appropriate to split this article into smaller, more specific articles. See [[Wikipedia:Article size]].
+[[Image:Yes check.svg|20px]] done. This error no longer appears at the semi-automatic peer reviewer. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*Per [[Wikipedia:Manual of Style (dates and numbers)#Units of measurement|Wikipedia:Manual of Style (numbers)]], there should be a non-breaking space - <code>&amp;nbsp;</code> between a number and the unit of measurement. For example, instead of ''000 tons'', use ''000&nbsp;tons'', which when you are editing the page, should look like: <tt>000&amp;nbsp;tons</tt>.<sup>[[User:AndyZ/G#nbsp|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. This error no longer appears at the semi-automatic peer reviewer. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*Per [[Wikipedia:Manual of Style (dates and numbers)#Units of measurement|Wikipedia:Manual of Style (numbers)]], when doing conversions, please use standard abbreviations: for example, miles -> mi, kilometers squared -> km<sup>2</sup>, and pounds -> lb.<sup>[[User:AndyZ/G#abbrev|[?]]]</sup>
+
+[[Image:Yes check.svg|20px]] I think I got all of these [[User:Jieagles|Jieagles]] 22:08, 14 September 2007 (UTC)
+
+*Per [[Wikipedia:Manual of Style (dates and numbers)#Units of measurement|Wikipedia:Manual of Style (numbers)]], please spell out source units of measurements in text; for example, ''the Moon is 380,000 kilometres (240,000 mi) from Earth''.<sup>[[User:AndyZ/G#spellnum|[?]]]</sup> Specifically, an example is 100 ft.
+
+[[Image:Yes check.svg|20px]] I believe all units are spelled out the first time and abbreviated thereafter (see discussion below) [[User:Jieagles|Jieagles]] 22:08, 14 September 2007 (UTC)
+
+*Per [[Wikipedia:Only make links that are relevant to the context|Wikipedia:Context]] and [[Wikipedia:Build the web]], years with full dates should be linked; for example, link [[January 15]], [[2006]].<sup>[[User:AndyZ/G#linkdate|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. This error no longer appears at the semi-automatic peer reviewer. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*As per [[Wikipedia:Manual of Style (dates and numbers)|Wikipedia:Manual of Style (dates)]], dates shouldn't use <sup>th</sup>; for example, instead of using ''[[January 30|January 30<sup>th</sup>]] was a great day'', use ''[[January 30]] was a great day''.<sup>[[User:AndyZ/G#dateth|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. This error no longer appears at the semi-automatic peer reviewer. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*Per [[Wikipedia:Manual of Style (headings)]], headings generally do not start with articles ('the', 'a(n)'). For example, if there was a section called ''<nowiki>==The Biography==</nowiki>'', it should be changed to ''<nowiki>==Biography==</nowiki>''.<sup>[[User:AndyZ/G#headingthe|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:18, 12 September 2007 (UTC)
+*As per [[Wikipedia:Manual of Style (headings)]], please do not [[WP:LINK|link]] words in headings.<sup>[[User:AndyZ/G#headinglink|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:18, 12 September 2007 (UTC)
+*Per [[Wikipedia:Manual of Style (headings)]], headings generally should not repeat the title of the article. For example, if the article was [[Ferdinand Magellan]], instead of using the heading ''<nowiki>==Magellan's journey==</nowiki>'', use ''<nowiki>==Journey==</nowiki>''.<sup>[[User:AndyZ/G#headingre|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:18, 12 September 2007 (UTC)
+
+*Per [[WP:WIAFA]], this article's table of contents (ToC) may be too long- consider shrinking it down by merging short sections or using a proper system of daughter pages as per [[Wikipedia:Summary style]].<sup>[[User:AndyZ/G#toc|[?]]]</sup>
+
+*This article may need to undergo [[WP:SS|summary style]], where a series of appropriate subpages are used. For example, if the article is [[United States]], then an appropriate subpage would be [[History of the United States]], such that a summary of the subpage exists on the mother article, while the subpage goes into more detail.<sup>[[User:AndyZ/G#SS|[?]]]</sup>
+
+*Please make the spelling of English words consistent with either [[American and British English spelling differences|American or British spelling]], depending upon the subject of the article. Examples include: ''armor'' (A) (British: ''armour''), ''harbour'' (B) (American: ''harbor''), ''neighbor'' (A) (British: ''neighbour''), ''neighbour'' (B) (American: ''neighbor''), ''meter'' (A) (British: ''metre''), ''metre'' (B) (American: ''meter''), ''defense'' (A) (British: ''defence''), ''recognize'' (A) (British: ''recognise''), ''colonize'' (A) (British: ''colonise''), ''modelling'' (B) (American: ''modeling''), ''sulfur'' (A) (British: ''sulphur'').
+
+*Watch for [[User:Tony1/How_to_satisfy_Criterion_2a#Redundancy|redundancies]] that make the article too wordy instead of being crisp and concise. (You may wish to try Tony1's [[User:Tony1/How to satisfy Criterion 1a: redundancy exercises|redundancy exercises]].)
+**“In <font color='red'><s>the year [of]</s></font> 2000”
+[[Image:Yes check.svg|20px]] done. This error no longer appears at the semi-automatic peer reviewer. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*As done in [[WP:FOOTNOTE]], footnotes usually are located right after a punctuation mark (as recommended by the [[The Chicago Manual of Style|CMS]], but not mandatory), such that there is no space in between. For example, ''the sun is larger than the moon [2].'' is usually written as ''the sun is larger than the moon.[2]''<sup>[[User:AndyZ/G#footspace|[?]]]</sup>
+[[Image:Yes check.svg|20px]] done. This error no longer appears at the semi-automatic peer reviewer. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*Rivers which drain into North Sea as list these E to W or W to E.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:SriMesh|SriMesh]] ([[User talk:SriMesh|talk]] • [[Special:Contributions/SriMesh|contribs]]) 02:07, 13 September 2007 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:As of right now the rivers are listed largest to smallest in square meters per second discharged into sea. [[User:Jieagles|Jieagles]] 17:19, 13 September 2007 (UTC)
+
+*Please ensure that the article has gone through a thorough copyediting so that it exemplifies some of [[WP:WIAFA|Wikipedia's best work]]. See also [[User:Tony1/How to satisfy Criterion 1a]].<sup>[[User:AndyZ/G#copyedit|[?]]]</sup>
+You may wish to browse through [[User:AndyZ/Suggestions]] for further ideas. Will work on these and above points over the next while. If any others are reading this and are copyediting, please place checkmarks [[Image:Yes check.svg|20px]] on done items!  Any help would be very much appreciated also.  Thanks, [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 04:34, 12 September 2007 (UTC)
+
+
+Peer review by a member of [[WP:NL]]
+** It is a reasonably good article but I think it is still at B class (not saying anything about GA or FA classes).
+** Weaknesses:
+*** Introduction is too brief (one paragraph). Also in this brief context the reference to a name long ago out of use seems a bit irrelevant. The images in the introduction section are not fully complementary, an infobox is now becoming standard for many articles so perhaps something like that may work here as well
+:[[Image:Yes check.svg|20px]]added another paragraph to intro.  Added infobox for oceans see also above
+*** The order of the sections should be considered as I think the current structure does not facilitate a very good flow
+*** Naming sections seems a bit at an awkward location and the list at the end of this section disrupts the reading flow
+[[Image:Yes check.svg|20px]] done.  [[User:Jieagles|Jieagles]] ([[User talk:Jieagles|talk]]) 09:05, 2 November 2008 (UTC)
+*** Geology - Tectonics image is in French not preferred here
+[[Image:Yes check.svg|20px]] done. This error no longer applicable as different image has been supplied by someone. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*** Island section is only a table. Not a single line of introduction. Are there fifty, are these the top fifty isles. This is unclear.
+
+Added some clarification.  Not all islands are listed, just some. 
+[[Image:Yes check.svg|20px]] done. This error no longer applicable as island section is now separate article [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*** Headings in the history section are awkward (History section if named thus should discuss Geological history and the landbridge in the Ice age) or be renamed. Same for other subheaders. The first section is about acces to Britain (which remained important in WWII), the next are about powers (Roman, Hanseatic, Dutch, English) the later about conflicts (WWI, II). This is inconsistent. A single approach has to be chosen and the section rewritten.
+*** Marine traffic and Ships and shipwrecks sections are underdeveloped.
+[[Image:Yes check.svg|20px]] done.  Section was summarized and headings renamed. [[User:Jieagles|Jieagles]] ([[User talk:Jieagles|talk]]) 09:05, 2 November 2008 (UTC) 
+*** Culture and language section. Largely irrelevant, in any case to listy, overly detailed. (also missing image)
+[[Image:Yes check.svg|20px]] done. This error no longer applicable as culture and language section is now separate article [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 2 November 2008 (UTC)
+*** References several reference (5,6,7) are missing.[[User:Arnoutf|Arnoutf]] 17:22, 12 September 2007 (UTC)
+
+==Languages==
+For the size parameter....and for lists to be converted to prose.  Should the languages and culture sub sections be made into a separate article linked to this one?  The new article could be written in prose and not in lists. The image has also been red linked.   [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:24, 12 September 2007 (UTC)
+
+:I think both of the long lists--that is the languages and the islands--should be split into seperate pages either lists or as regular articles for someone to improve.  [[User:Jieagles|Jieagles]] 01:06, 13 September 2007 (UTC)
+
+:What happened to the language section? Why was it removed? I think it's very important to emphasise the cultural, not just the geographic role of such seas. In the case of the North Sea, the Germanic languages have more or less evolved around it. --[[User:MacRusgail|MacRusgail]] 17:20, 19 October 2007 (UTC)
+
+::The languages section was moved to its own page called [[List of languages of the North Sea]] which is linked from the See also section.  It was moved, along with the islands list, because the page was very long and the lists lacked the context to make them really useful on the page (in my opinion).  i think that a section on culture and languages would great and would make the link to the list of languages more accessible (right now its at the bottom among all the other lists), but the section consisting just of the list is not as useful.  [[User:Jieagles|Jieagles]] 18:02, 19 October 2007 (UTC)
+
+==GA Review==
+The article is decent, although I wouldn't say it meets the [[WP:WIAGA|GA criteria]] at the present time, as there are still some significant issues with several items of the criteria.
+
+{{#ifeq:{{NAMESPACE}}|Talk||{{error:not substituted|GAList}}<div style="display:none;">}}
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:What is a good article?|here]] for criteria)
+{{#if:{{{overcom|}}}|<hr width=50%>{{{overcom}}}|}}
+#It is '''reasonably well written'''.
+#:a ''(prose)'': {{GAList/check|nay}} b ''([[Wikipedia:Manual of Style|MoS]])'': {{GAList/check|nay}}
+#:: {{#if:{{{1com|}}}|{{{1com}}}|}}
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''(references)'': {{GAList/check|nay}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|aye}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|aye}}
+#:: {{#if:{{{2com|}}}|{{{2com}}}|}}
+#It is '''broad in its coverage'''.
+#:a ''(major aspects)'': {{GAList/check|nay}} b ''(focused)'': {{GAList/check|aye}}
+#:: {{#if:{{{3com|}}}|{{{3com}}}|}}
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|aye}}
+#:: {{#if:{{{4com|}}}|{{{4com}}}|}}
+#It is '''stable'''.
+#:''No edit wars etc.'': {{GAList/check|aye}}
+#:: {{#if:{{{5com|}}}|{{{5com}}}|}}
+#It is illustrated by '''[[Wikipedia:Images|images]]''', where possible and appropriate.
+#:a ''(images are tagged and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]])'': {{GAList/check|aye}} b ''(appropriate use with [[WP:CAP|suitable captions]])'': {{GAList/check|aye}}
+#:: {{#if:{{{6com|}}}|{{{6com}}}|}}
+#'''Overall''':
+#:''Pass/Fail'': {{GAList/check|nay}}
+#:: {{#if:{{{7com|}}}|{{{7com}}}|}}<!-- Template:GAList --></div>
+
+Criterion 1-3 above are the most critical for [[WP:GA|GA status]], and this article has major shortcomings on all three. First, <Strike>the prose is pretty choppy in many areas, and it's quite evident that the article has been edited by many people, as it doesn't seem to flow quite right in many sections. There's also several run-on sentences and sentences where adding a comma or two would help a lot. So I would think that a good copyedit of this article is in order. The article does mostly meet the [[WP:MOS|manual of style]], with a few exceptions. Mostly, the 'see also' links are not done right{{spaced ndash}}these should be placed at the top of the section, not at the bottom. And I would also avoid listing see also items in a bulleted list when putting them in a section (instead, list each link on one line separated by commas). The 'see also' section at the end is also quite long, and could be pruned{{spaced ndash}}starting with removing any links to articles that already appear in the text above. Also, remove the subheadings for 'articles' and 'lists', and simply list any remaining see also items in alphabetical order.</strike>
+
+With respect to [[WP:V|verifiability]], the article is short on reference citations in many areas. Any key facts and figures, and other information that is likely to be challenged, needs to be cited. <strike>A statement like, "This area contains the world's greatest concentration of industry: 15% of the planet's industrial production takes place in the catchment area of the North Sea." needs to have a source. Also, you need to fix statements like this: "This places the North Sea at the 13th largest sea."{{spaced ndash}}in what? the world? Europe? the arctic? the solar system? Be more specific. </strike>The history section is also seriously lacking in citations as well{{spaced ndash}}there's lots of work today here.
+
+<strike>With regard to criterion 3 (completeness), the article is mostly complete and focused, but it lacks information on the biology & ecology of the north sea. What sorts of aquatic and marine life inhabit the region? The only real mention of this is in the natural resources section, discussing the fishing industry.</strike>
+
+<Strike>The order of sections is reasonably good, though I would consider promoting the history section. It usually comes near the beginning of the article{{spaced ndash}}first or second (in this case, just after 'naming' would be appropriate). Also, consider renaming 'location' to 'geography', as this would be a better and more descriptive title for that section. You also might want to consider combining the 'natural resources' and 'marine traffic' sections into a single 'economy' section, since they all seem to be connected. It's a little bit awkward with a discussion on 'marine traffic' in its own main section at the end, and doesn't quite fit under the section titled, 'natural resources', even though the marine traffic is related to spreading those resources with other markets in the world. So a single 'economy' section would probably be more appropriate here.</strike>
+
+Other than these issues, I think the article is quite good. I think the article can be renominated at [[WP:GAN]] once these issues are addressed. Cheers! [[User:Derek.cashman|Dr. Cash]] ([[User talk:Derek.cashman|talk]]) 17:13, 8 December 2007 (UTC)
+::Put in a strike through on items which have been addressed in this peer review IMHO  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:39, 2 November 2008 (UTC)
+
+== Glaring mistakes in image ==
+[[Image:North Sea.jpg|thumb|right|150px|image in question]]
+
+The geographic descriptions in Image:North Sea.jpg are mostly good, but some are obviously wrong. "Scapa Flow" belongs into the southern part of the Orkney islands, "Pentland Firth" is too far west and ditto "Norwegian trench". Some more may have escaped my attention. Sorry, I have neither access to the original files nor any capability with handling images, so I can't improve it myself, but this should certainly be corrected. [[User:Kosebamse|Kosebamse]] ([[User talk:Kosebamse|talk]]) 18:49, 11 December 2007 (UTC)
+
+:I have replaced the image with an unlabeled version until such time as the image is corrected.  I also have not skill with image manipulation.  The image in question is to the right. [[User:Jieagles|Jieagles]] ([[User talk:Jieagles|talk]]) 01:40, 12 December 2007 (UTC)
+::Removed above water systems from map that were in the wrong place.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 22:55, 22 December 2007 (UTC)
+
+==Portal icon placement==
+FYI, you can add a link to [[Portal:Norway]] in this article, by placing <nowiki>{{Portal|Norway|}}</nowiki> at the top of the '''[[WP:ALSO|see also section]]''' (or the external links section if the article has no see also section). This will display {{Portal|Norway}}
+
+[[User:Cirt|Cirt]] ([[User talk:Cirt|talk]]) 09:25, 8 March 2008 (UTC)
+==Article fixes==
+*As of today's date the [http://validator.w3.org/checklink W3C Link Checker] was used to check if the external links are valid as well as opening them to try to fill out citation templates.  Have updated re-directs and replaced 404 and web document not there errors.  
+*As of this date, also replaced American spelling to British except in one instance of a title of a linked document. using the word modelling (A), and not the modeling (B). Just for future reference so these words don't appear again... For future edits use... the British version of... ''armor'' (A) (British: ''armour''), ''harbour'' (B) (American: ''harbor''), ''neighbor'' (A) (British: ''neighbour''), ''meter'' (A) (British: ''metre''), ''metre'' (B) (American: ''meter''), ''defense'' (A) (British: ''defence''), ''recognize'' (A) (British: ''recognise''), ''colonize'' (A) (British: ''colonise''), ''modelling'' (B) (American: ''modeling''), ''sulfur'' (A) (British: ''sulphur'')
+*Any new measurements added comply with mos [[:Category:Conversion templates|Conversion templates]].
+*Reviewed the previous comments set out at [[Wikipedia:Peer review/North Sea/archive1|peer review]]  as well as at the [http://en.wikipedia.org/wiki/Wikipedia:Peer_review/Automated/September_2007#North_Sea semi automatic peer reviewer] as well as brought forward at the former [[Talk:North_Sea#GA_Review|GA Peer review]].  Replaced all capitals on directions to lower case leaving only capitals on formal placenames for east, south, north, west.  Put strike throughs on items completed IMHO.
+*There are a few left to do on the above comments brought forward... such as the Table of Contents being too long for the Semi Automatic peer reviewer.
+*<strike>As for the [[Wikipedia:Peer review/North Sea/archive1|peer review]], pop in and check out the reviewer's comments about tonnage, jagged coasts, salinities and citations...either strike out or reply.</strike>
+*<strike>As for the previous [[Talk:North_Sea#GA_Review| GA Peer review]], the items still to go are ...With respect to verifiability, the article is short on reference citations in many areas. Any key facts and figures, and other information that is likely to be challenged, needs to be cited... The history section is also seriously lacking in citations as well.</strike>
+*The other aspects of the [[Wikipedia:Good article criteria|GA criteria]] seem to be fulfilled....so just a short list of previous comments to putter on.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 22:30, 2 November 2008 (UTC)
+
+
+
+==Snippets from "The British Isles and the Age of Exploration"==
+Please rephrase those that you use, to avoid [[WP:COPYVIO]]. Here's the correct citation: {{cite journal 
+| author=Smith, H.D. | title=The British Isles and the Age of Exploration - A Maritime Perspective 
+| journal=GeoJournal | volume=26 | issue=4 | pages=483-487 | date=April 1992 
+| doi=10.1007/BF02665747 
+}}
+*1490s-1750 (approx) "by definition all [British] external trade with the European mainland was maritime. But so too was much internal trade, not least because of the relatively undeveloped state of the roads beyond the lowlands of England. In particular, therefore, the intra-national trade of England and Wales, Scotland and Ireland was carried on by coastwise shipping, operated from numerous small ports, which were especially developed along the eastern coasts of England and Scotland, in suitable locations for the continental trades, and with inland connections via navigable rivers in a number of cases."
+*"In the half century from 1490, English trade was focused on three major regions, which were the outcome of a long period of development dating back to the High Middle Ages. First was the northern European coastlands stretching from the Elbe to Brittany, from whence came wine, salt, domestic goods, linen, dyestuffs and metalware. Second was Scandinavia and the Baltic, the source of imports of timber, naval stores, grain and fish. Thirdly was the Mediterranean, from whence came luxury goods including fruit, spices, dyestuffs and high value cloth. By far the most important export was cloth."
+*"A notable maritime feature was the monopolisation of the export trade of the Northern Isles from the mid-fifteenth century onwards by itinerant Hanseatic merchants based mainly in Hamburg and Bremen"
+*(early 16th cent) "Even at this early stage the Low Countries and German lands may be seen as a central economic focus, with the Spanish Netherlands as a crucial piece of empire providing the link with the then dominant political and military power in Europe and overseas. Just how important this was is demonstrated by the collapse of the banking system after 1550, and the decline of Antwerp in the later sixteenth century. Antwerp had by then not only replaced Seville as the principal port of the Spanish Empire, but was the great entrepot for European trade." Antwerp being Spain's major port would be a DYK if this article were a stub.
+*1600-1650s "Meanwhile in northern waters the Dutch expanded their herring fishing to a peak by mid-century, and also developed the cod and whale fisheries" (not sure where the fishing grounds were, but N Sea was the route)
+*"The second half of the seventeenth century was dominated by the conflict between England and Holland, in terms of ideas, economic competition and naval warfare. ... England emerged as the dominant maritime power in north west Europe at the end of the seventeenth century, as Dutch sea power declined."
+*"by 1805, Trafalgar finally sealed the maritime supremacy of the Royal Navy, and ushered in the Pax Britannica at sea, which lasted until 1916 and the Battle of Jutland."
+*"... in this post-1700 evolution, Scotland was a leading country in its own right during the industrial revolution stage, the period of the Scottish Enlightenment ... including the establishment of a great herring fishing, in which it became the European leader during the third long wave from the 1870s onwards" --[[User:Philcha|Philcha]] ([[User talk:Philcha|talk]]) 16:52, 12 November 2008 (UTC)
+*:{{done}}  Ensured that the above concepts were all mentioned in the article [[History of the North Sea]] with citaitons and without plagarisms.  Also summarised concepts in the [[North Sea]] article as well. Thank you kindly.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 02:26, 26 November 2008 (UTC)
+
+==Snippets from "Reconstructions of the continents around the North Atlantic at about the 60th parallel"==
+Please rephrase those that you use, to avoid [[WP:COPYVIO]]. Here's the correct citation: {{cite journal 
+| author=Torsvik, T.H., Van der Voo, R., Meert, J.G., Jon Mosar, J., and Walderhaug, H.J.
+| title=Reconstructions of the continents around the North Atlantic at about the 60th parallel 
+| journal=Earth and Planetary Science Letters | volume=187 | issue=1-2 | date=April 2001| pages=55-69    
+| doi=10.1016/S0012-821X(01)00284-9  
+}}
+*The article is based mainly on paleomagnetic data, i.e. comparing the directions of magnetic fields in rocks of similar age, including working the locations of these rocks to the magnetic poles at the time. The bulk of the results are of Late Carboniferous–Early Triassic and Early Tertiary age - suitable Jurassic and Cretaceous rocks are rare, and geological activity in Europe at the time (e.g. microplate movements and formation of the Alps) has makes the European ones hard to interpret.
+*On more detailed reading I find that the Torsvik ''et al'' article is about the continental plates, which include their continental shelves, and says nothing about the N Sea as a functioning sea. So I now think it's of little help for [[North Sea]]. --[[User:Philcha|Philcha]] ([[User talk:Philcha|talk]]) 10:02, 14 November 2008 (UTC)
+==Geology section==
+Hi, there were requests for help with the geological section in this article on different pages. As a geologist, I would like to help, but when I read the section it is incomprehensible for me. I just don't know how to start. So I will just tell here where the current text puzzles me:
+
+''The bed of the North Sea forms two basins.'' -> does it mean a sedimentary/geologic basin? The definition of that is an area where nett sedimentation takes place. The entire North Sea plus some of its surroundings is one large sedimentary/geologic basin. There can't be two separate basins there. I guess the text means there are two old basins in the subsurface of the North Sea?
+:I think that this sentence refers to [[North_Sea_Geological_History#Cretaceous_era_sea_floor_spreading|the Cretaceous era]] as this is the citation used [http://jgs.geoscienceworld.org/cgi/content/abstract/131/5/435 Review of North Sea Basin development abstract].  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:08, 24 November 2008 (UTC)
+::{{done}} removed from the article on the [[North Sea]] and left in the [[North_Sea_Geological_History#Cretaceous_era_sea_floor_spreading|Cretaceous era of the North Sea Geological History]]
+
+''The larger, northern one lies to the north of a ridge between Norfolk and Frisia, and had its origin in the Devonian Period. The southern basin, if not flooded, would drain towards the Strait of Dover and thence to the English Channel. This basin dates from the Carboniferous Period.'' -> there must be an anachronism here since the English Channel, Strait of Dover, Norfolk and Frisia are all recent entities, formed in the last 10.000 years. The Carboniferous was 300.000.000 years ago and has nothing to do with those features. How a Devonian basin can drain into a present day sea is a mystery, geologically spoken, this is nonsense.
+:I cannot find the citation in the article for this, nor anything also in any sources I read.  This will have to be adjusted.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:08, 24 November 2008 (UTC)
+::{{done}} removed entirely.
+
+
+''Imaging and analysis have suggested that this southern basin has several times been a lake bed hemmed in by glaciers in the north and a land bridge between Britain and France at Dover in the southwest. Around 400,000 years ago, the chalk barrier holding the large lake back from the land bridge was breached and the water swiftly eroded huge swaths of the land bridge.'' -> hmmm, now this must be about fairly recent (Quarternary) events again, yet they can't be about the old subsurfacial basins. Is the current North Sea Basin meant?
+:Here I believe you are right, but the North Sea article is not well worded.  It is I am assuming summarizing this article [[Strait_of_Dover#Geological_formation|Strait of Dover formation]][[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:08, 24 November 2008 (UTC)
+::{{done}} Removed entirely and referred to the [[Strait of Dover]]
+
+
+''The process repeated itself during a later ice age about 180,000 years ago, permanently connecting the North Sea with the Atlantic in the south.'' -> as far as I know, Great Britain was again connected with continental Europe during the last glacials (Weichselian/Devensian and Saalian/Wolstonian). The website of the Guardian is not really a very trustworthy source for this type of information so I presume this view isn't the scientific consensus on the subject.
+:Again, it is I am assuming summarizing this article [[Strait_of_Dover#Geological_formation|Strait of Dover formation]][[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:08, 24 November 2008 (UTC)
+::{{done}} as per above
+
+The second line (of the first paragraph/section) is okay as a general introduction to the first, but here it is out of place.
+:I understand, this belongs to the information above.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:08, 24 November 2008 (UTC)
+
+The third alinea is an anecdote, it should be fitted into a yet non-existing general line on the sea's development during the late Holocene.
+:This comment was made to try to add coastal changes of the North Sea as per GA review.  This may indeed be modified as per comments replied to on user talk page.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 04:09, 24 November 2008 (UTC)
+
+The second paragraph is rubbish I'm afraid. Unrelated facts are summarized in one alinea. Why is it called plate tectonics when it is on tectonics? As a geologist I would expect something on the structure and infill/stratigraphy of the Triassic/Jurassic grabens, Cretaceous inversion, and Tertiary reactivation. Which structures are currently active? I'm not sure if Avalonia belongs here at all. What are the recent quakes doing here?
+:Thank you, this paragraph does not really summarise the allness of the history of the North Sea geology.  Could you also look over [[North Sea Geological History]] so it can be properly summarised into the article as I am not sure if the above three items (infill/stratigraphy of the Triassic/Jurassic grabens, Cretaceous inversion, and Tertiary reactivation) which you have mentioned are introduced properly in the supposed ''fuller, more developed'' article which I attempted at [[North Sea Geological History]].[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:08, 24 November 2008 (UTC)
+::Replied at user talk page to see if the article [[North Sea Geological History]] should be summarised here or not[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 04:09, 24 November 2008 (UTC)
+{{done}}This point has been done....Moved the recent earthquakes to storm surges.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]]
+
+
+The third paragraph seems to be on submarine topography, this has not a lot to do with geology proper. It could better be incorporated elswhere.
+:Will move to geography above.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:08, 24 November 2008 (UTC)
+::{{done}} moved to geography.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 04:09, 24 November 2008 (UTC)
+I'm sorry but I can't be very positive... Regards, [[User:Woodwalker|Woodwalker]] ([[User talk:Woodwalker|talk]]) 21:07, 23 November 2008 (UTC)
+:Your comments are very much appreciated!  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:08, 24 November 2008 (UTC)
+::You're welcome. I am not an expert on the geology of the North Sea or Quarternary geology, but I think the following structure would work:
+::#Subsurface geology (including sections on the tectonic situation, the stratigraphy and the geological history)
+::#Oil & gas reservoirs (exploration and locations)
+::#Quarternary formation of the current coastlines
+::This structure could be used both here and in the subarticle. The title of the subarticle could perhaps better be [[geology of the North Sea]], so that it also includes other subjects than geologic/natural history. You can ask me when you require help or have questions/problems. [[User:Woodwalker|Woodwalker]] ([[User talk:Woodwalker|talk]]) 08:36, 24 November 2008 (UTC)
+
+== Useless level of detail ==
+
+In most contexts, it makes no sense to use coordinates like "roughly between {{coord|53|30|00|N|0|3|0|E|type:landmark|display=inline|name=Broad Fourteens North east}} and {{coord|52|30|00|N|4|30|0|E|type:landmark|display=inline|name=Broad Fourteens South west}}" or such. That level of detail is distracting and totally useless. Unfortunately, there are quite a few on Wikipedia who don't agree and insist on measuring mountain ranges, shoals, deserts etc by the metre, which is physically impossible and can be read as a demonstration of ignorance on the part of the author. Please let us avoid this. 
+
+Similarly, conversions of units like "50,000 square kilometres (289,576.62 sq mi)[1] with a volume of around 94,000 cubic kilometres (22,553.65 cu mi)" are useless. A converted measurement can never be more accurate that the original. Thanks, [[User:Kosebamse|Kosebamse]] ([[User talk:Kosebamse|talk]]) 07:58, 6 December 2008 (UTC)
+
+:I agree 99.9354692%. Unfortunately this is just one instance of a general problem that is not yet being generally discussed (that I am aware of). Our sources are often not prepared by scientists and make implicit claims of absurd precision, such as determining the population of a country in a given ''year'' up to a a single person, often even without basing this on a census. Some editors think that rounding such numbers sensibly is "original research" and therefore not allowed. The conversions are a slightly different problem, because they are normally done automatically. I believe with the current software it is not possible to ensure that the conversion templates do sensible rounding. By the way, Wikipedia is at least not the only reference work that suffers from such problems. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 10:34, 6 December 2008 (UTC)
+
+::There must be a convention or policy somewhere to regulate use of measurements. There can be no doubt about the factual side of it (highschool level science), but alas, generally agreed-on fundamentals of science are often not good enough for Wikipedia, so we'll need to find the appropriate place to point to. Any idea? [[User:Kosebamse|Kosebamse]] ([[User talk:Kosebamse|talk]]) 10:43, 6 December 2008 (UTC)
+
+:::The third item in [[WP:MOSNUM#Large numbers]] is relevant. I think one of the reasons why this is not generally observed is that it can easily lead to absurd conflicts that are hard to resolve. "The population of Foobarrington is 192,523" is a no-brainer if that's what the source says. And it avoids edit wars between the inhabitants of Foobarrington ("The population of Foobarrington is 200,000") and their jealous neighbours ("The population of Foobarrington is 190,000"). Don't laugh. I have seen the edit wars about the population of Leeds. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 16:53, 6 December 2008 (UTC)
+::::{{done}}Conversion templates changed to a different formatting.  These were excellent points raised above.  The Convert template allows significant figures or rounding to be used to match the given precision of the first quantity.  [[:Template:Convert|Template:Convert]] so I abandoned the first template used which was at [[:Category:Conversion templates|Conversion templates]]. Any measurements added by myself were those which were cited in the reference or source found for the fact.   Coordinates in the middle of prose have also been removed and added to the coordinate listing at [[Geography of the North Sea]]].    [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 00:08, 8 December 2008 (UTC)
+
+== References ==
+
+The "Encyclopedia of European and Asian Regional Geology" URL is incorrect. --[[User:Rosiestep|Rosiestep]] ([[User talk:Rosiestep|talk]]) 01:10, 8 December 2008 (UTC)
+:Thank you.  The first citation was very good, but I cannot re-find for some reason... however... this one also is OK  On the 'morrow, will replace with [http://books.google.com/books?id=Jren0yflNOgC&pg=PA341&dq=formation+%22norwegian+trench%22+erosion&lr=&as_brr=3#PPA191,M1 Geology of Siliciclastic Shelf Seas By M. De Batist, P. Jacobs] as it also supports the facts about the Norwegian trench.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:25, 8 December 2008 (UTC)
+::{{done}} reference has been changed
+I found an interesting historical paper about the North Sea. Perhaps it can be used for some historical remarks:
+{{Citation
+ | last = Murray
+ | first = John
+ | year = 1861
+ | title = On the North Sea; with remarks on some of its Friths and Estuaries
+ | periodical = Minutes of Proceedings of the Institution of Civil Engineers
+ | place = London
+ | publisher =
+ | volume = 20
+ | pages = 314–374
+ | url = http://books.google.com/books?id=0xYAAAAAMAAJ&pg=PA368#PPA314,M1 }}
+:::{{done}}  Added citation to coasts.  It also supports waves and tides with early terminology not current usage.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:30, 11 December 2008 (UTC)
+
+== History subheaders ==
+
+The change I made from "20th century" to "Modern era" was done in order to include the 21st century.  The change from "Early modern history" to "Early modern period" both reduces redundancy of the word "history" in header/subheaders, and correlates with the classification of [[early modern period]]. However, early modern period commonly ends around 1800, while this section currently covers the period ending with the start of WWI. I don't know that this is a problem, but it needs a second look. --[[User:Rosiestep|Rosiestep]] ([[User talk:Rosiestep|talk]]) 16:22, 10 December 2008 (UTC)
+:As the Name section appears to be historical context of the name, I moved it into History. --[[User:Rosiestep|Rosiestep]] ([[User talk:Rosiestep|talk]]) 21:09, 29 December 2008 (UTC)
+::As the the Political Status subsection appears to be more pertinent to Economy than History, I moved it.  I think this subsection could use a more descriptive name. --[[User:Rosiestep|Rosiestep]] ([[User talk:Rosiestep|talk]]) 21:09, 29 December 2008 (UTC)
+:::How about [[Age of Sail]] as a sub header for the 1600 to the mid 1900 era? ...rather than "Early modern history" to "Early modern period"[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 01:50, 24 January 2009 (UTC)
+
+== Mistake in map ==
+The map in history section showing viking age expansion is wrong. The norse settlement, which from the [[iron age]] developed to the viking age, was well established further north along the Norwegian coast well before the 8th century. See [http://www.vestreg.no/MmV/eng/steder/bogard.htm this] article about several iron age farms on [[Andøya]] in [[Vesterålen]] There are lots of iron age archeological evidence from [[Lofoten]], see [[Lofotr]] viking museum, where a continous development from iron age to viking age is evident. There is even some evidence of bronze age agricultural society north of the arctic circle, as in [[Steigen]].[[User:Orcaborealis|Orcaborealis]] ([[User talk:Orcaborealis|talk]]) 18:34, 12 December 2008 (UTC)
+:Can you suggest a better [http://commons.wikimedia.org/wiki/Category:Viking_Age Viking age image]?[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 07:06, 13 December 2008 (UTC)
+::No map seems to be perfect, but [http://commons.wikimedia.org/wiki/File:Vikings_exploration_and_territories-fr.svg this] is somewhat closer for Norway viking settlement. I don't know how accurate it is for Sweden. [[User:Orcaborealis|Orcaborealis]] ([[User talk:Orcaborealis|talk]]) 17:35, 16 December 2008 (UTC)
+
+==Layout==
+There is a problem with the layout that needs addressing. The map at the start of the Geography section ends up sandwiched between the "Submarine topography" Dogger bank image and the co-ordinate list/image when the contents are hidden. Probably the co-ordinates & image need moving down the article somewhere to avoid problems when the TOC is collapsed. [[User:Keith D|Keith D]] ([[User talk:Keith D|talk]]) 00:57, 15 December 2008 (UTC)
+:Added a section clear if the TOC is collapsed, it helps somewhat.  Thank you for the comment. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 02:15, 15 December 2008 (UTC)
+::Thanks that looks better, also keeps the map in the right section. [[User:Keith D|Keith D]] ([[User talk:Keith D|talk]]) 12:50, 15 December 2008 (UTC)
+
+== Footnotes ==
+
+Does Ziegler's 1990 ''Geological atlas of Western and Central Europe'' need to be a Footnote when it's also fully Referenced? --[[User:Rosiestep|Rosiestep]] ([[User talk:Rosiestep|talk]]) 21:15, 29 December 2008 (UTC)
+:No this shouldn't be in two places.  the reference area would be better for it than footnotes IMHO.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:49, 3 January 2009 (UTC)
+
+== Geirangerfjord - is it the North Sea or Norwegian Sea? ==
+According to the map used for illustrating exclusive economic zones, Geirangerfjord is too far north for being in the North Sea. [[User:Orcaborealis|Orcaborealis]] ([[User talk:Orcaborealis|talk]]) 17:22, 31 December 2008 (UTC)
+:Searching google also for citations regarding the above note the Geirangerfjord is part of the Norwegian Sea... [http://whc.unesco.org/en/list/1195 West Norwegian Fjords – Geirangerfjord and Nærøyfjord - UNESCO World Heritage Centre][[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:57, 3 January 2009 (UTC)
+::I have exchanged the picture for a more southern fjord, the Lysefjord. [[User:Inwind|Inwind]] ([[User talk:Inwind|talk]]) 19:46, 16 January 2009 (UTC)
+:::I noticed that the text had changed, thanks for also changing the image.  Kind Regards [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:20, 17 January 2009 (UTC)
+
+==Kiel Canal==
+There is some ambiguity on [http://www.kiel-canal.org/english.htm]. The page ''distance savings'' as well as the German version clearly show the way around Skagen (which seems to be translated into skaw). [[User:Inwind|Inwind]] ([[User talk:Inwind|talk]]) 19:46, 16 January 2009 (UTC)
+:Thank you.  Will look for another link that is more reliable, perhaps google books will have one.  Kind Regards [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:19, 17 January 2009 (UTC)
+::Replaced the link with another link which also provides some history about the Kiel Canal construction, and it doesn't have the weird translation glitch, but it also mentions the 250 NM savings around the Jutland peninsula.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 20:52, 18 January 2009 (UTC)
+
+==Citations and references==
+Hello there.  Please if you are helping and editing the North Sea article, leave existing references in the text, or add references to support the text.  This note is added, as the "Name" section was entirely referenced, and now all the citations are mysteriously gone. So this section needs to be re-done with referential look ups and citation templates all over again.  Only the lead can be without references because the lead just repeats the facts and info from all sections of the article, and the citations, therefore are in the article, and not needed two times in the article for the same fact.  Thank you very much for your cooperation, and for any and all help in this regards.  Kind Regards [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:54, 17 January 2009 (UTC)
+:Found lost citations, they were moved to a different article on History, and now the citations are in both articles.  Whew!  Thank you.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 06:16, 17 January 2009 (UTC)
+::For a discussion on references for North sea see also [[Wikipedia:Editor_assistance/Requests#North_Sea_references]].  [[User:Inwind|Inwind]] ([[User talk:Inwind|talk]]) 11:27, 17 January 2009 (UTC)
+:::Ah!  I will read over the pages cited in that discussion, but will continue citing this North Sea article as many sections are now complete, and the unverifiable content is being removed, and refs are given for whatever content I can make stay.  I will remove the inline quotes from refs as well to help the article size go down.  Kind Regards [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:12, 18 January 2009 (UTC)
+
+==Name section==
+Some time ago the name section was a little more comprehenensive. I think keeping a little explanation on ''mare germanicum'' and the current name would be ideal.  The details could be expanded at the article on history. [[User:Inwind|Inwind]] ([[User talk:Inwind|talk]]) 11:27, 17 January 2009 (UTC)
+:I have tried to keep the original text as much as possible.  Articles on wikipedia need to be [[Wikipedia:Verifiability|verified]] via [[Wikipedia:Citing sources|citations and references]].  I looked and looked for more information about some of the naming items, and the references were limited.  I will continue personally referencing the remainder of the North Sea article for the [[Wikipedia:Good article criteria|GA criteria]], and return again to the name section.  If you can find a [[Wikipedia:Reliable sources|reliable citation or reference]] to expand the name section, that would be simply awesome.  Kind Regards [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 05:00, 18 January 2009 (UTC)
+==New map==
+I have tried to label new map/s.  [[:commons:File:North-Sea-Labels-3.jpg|File:North-Sea-Labels-3.jpg]]  [[:commons:File:North-Sea-Labels.jpg|File:North-Sea-Labels.jpg]] [[:commons:File:North-Sea-Labels-5.jpg|File:North-Sea-Labels5.jpg]] Do any of these work for the article in anyone else's opinion?  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 20:29, 22 January 2009 (UTC)
+
+==Some suggestions==
+{{Resolved}}
+*Surprisingly, the lead section lacks '''any''' references.[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 02:41, 12 February 2009 (UTC)
+**The lead sections of articles do not usually contain references as per manual of style Someone put a fact needed tag here.  [[Wikipedia:Lead_section#Citations|Lead paragraphs]] usually paraphrase information placed in the prose elsewhere in the article, and it is redundant to reference the same info twice.  The lead is just an intro to information contained elsewhere, and has no new content in it.  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:28, 15 February 2009 (UTC)
+*Perhaps this should be added to the Wikiproject Europe?[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 02:42, 12 February 2009 (UTC)
+::Yes, add the banner if you wish.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]]
+*There should be a picture for the birds and biodiversity section. (Its great that there is an image for nearly every section.)
+::If there is an available wikicommons picture of a bird at the North Sea please add it. [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:28, 15 February 2009 (UTC)
+*This article needs some copy edit...for example... civilisation should be civilization. (Wikipedia follows the american standard).
+**No.  Articles must follow a [[Wikipedia:Manual_of_Style#National_varieties_of_English|pattern again as per wikipedia M of S]]. This article was initally written in ''British English'' syle, and all American spellings removed.  It must be one or the other but not both.  This already has been corrected to be only one style, do not mix up again.  
+*A link for an image gallery of the North Sea.
+::NO.  Adding a commons category link is OK, and already is used. Usually [[Wikipedia:WikiProject_Visual_arts/Art_Manual_of_Style#Galleries|galleries]] aare only used in articles about visual themes such as the art of somebody...and they get tagged if they have a gallery in them if they are nnot that type of article.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:28, 15 February 2009 (UTC)
+ 
+:The default for leads is no refs - the lead should sumarise the main text, which should contain the refs. Very occasionally the lead may containa ref for a point that is surpising or may be thought controversial.
+:WP allows both American and Britsh usage (tho not in the same article) and recommends the variant that is most appropriate to the nationality of the subject. AFAIK the N Sea is not currently part of the USA. --[[User:Philcha|Philcha]] ([[User talk:Philcha|talk]])
+::I think perhaps we could double reference the numbers for the size of the North Sea in the lead, but it doesn't need too much repeat referencing.  As for the spelling, Philcha is right; this article should use British English. Wikipedia does not have a preference for American English, and in fact according to the subsection of [[Wikipedia:ENGVAR]] titled [[Wikipedia:Manual_of_Style#Strong_national_ties_to_a_topic]], uses a variety of English appropriate for the article with consistency and consensus in mind. Geographically and politically speaking, the North Sea is not a part of the United States and using American English would not be appropriate (except for official titles like the [[North Atlantic Treaty Organization]]). I think a picture of a representative endangered species would be nice in the '''Biodiversity and conservation''' as suggested  --[[User:Jh12|Jh12]] ([[User talk:Jh12|talk]]) 03:46, 12 February 2009 (UTC)
+:::Well if British English should be used, then the article should be converted to that. Currently there seems to be a mix.[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 20:34, 12 February 2009 (UTC)
+::::If you find mismatches, please point them out or correct them. Finally, I think the need for citations should be reviewed on a case by case basis, or the lead rewritten.  There should not be a lot of excess citations in the lead; it is designed to be a general overview per [[Wikipedia:Lead#Citations]].  Look at the last three [[WP:Featured articles]], Wikipedia's best work: [[300 (film)]], [[Buildings and architecture of Bristol]], [[Toa Payoh ritual murders]]. None of them have citations in the lead and only one has footnotes.  --[[User:Jh12|Jh12]] ([[User talk:Jh12|talk]]) 01:20, 13 February 2009 (UTC)
+:::::::English - American spelling, again I put the article through the automatic peer reviewer robot which catches many of the discrepancies in spelling and none came up...it was all done in one one style.  I also put the article in an outside word processing program spellcheck, and all came through again in one style- UK English.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:45, 15 February 2009 (UTC)
+::::::References should be in the lead paragraph per [[Wikipedia:Verifiability]]. As for no citations...the WP policy reads ''". Complex, current, or controversial subjects may require many citations; others, few or none. "'' This is a fairly complex topic and hence it is better to cite than to leave doubt.[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 20:31, 13 February 2009 (UTC)
+:::::::Again, this isn't about WP:VER; this is about the lead section.  Today's featured article [[Romeo and Juliet]] again contains only a single footnote.  I don't have any problems with adding a reference or two, but it should be limited. Ideally, the lead would contain enough general statements to avoid exceptional claims and of course, if there is content in the lead that is not sourced in the body of the article, the material needs to be removed or modified. --[[User:Jh12|Jh12]] ([[User talk:Jh12|talk]]) 12:08, 14 February 2009 (UTC)
+::::::::::This is about both the lead section and [[Wikipedia:Verifiability]]. The number of references in the lead section depends on the ''type'' of article. If you look at [[Wikipedia:Featured_articles#Geography and places]], you will see they have numerous citations in the lead paragraph. See [[Ahmedabad]]...it has 5 citations in the lead.[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 16:36, 14 February 2009 (UTC)
+:::::::::::I agree that WP:VER is important, but I think the main point is that the lead should correctly reflect material that is completely referenced in the body of the article.  Whether or not that material happens to be double-referenced in the lead is, in my opinion, of secondary importance, particularly for general statements that are not direct quotations or cited numbers. --[[User:Jh12|Jh12]] ([[User talk:Jh12|talk]]) 20:11, 14 February 2009 (UTC)
+:::::::::::The policy you linked to states ''there is not, however, an exception to citation requirements specific to leads.'' How am I supposed to interpret that?[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 20:43, 14 February 2009 (UTC)
+
+Well lets do an example then...should this be referenced in the lead? ''It is more than 970 kilometres (600 mi) long and 560 kilometres (350 mi) wide, with an area of around 750,000 square kilometres (290,000 sq mi)'' If so, why so. If not, why not?[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 20:38, 14 February 2009 (UTC)
+:Yes, because as I mentioned in my first response it's describing the specific numerical size of the North Sea. --[[User:Jh12|Jh12]] ([[User talk:Jh12|talk]]) 21:38, 14 February 2009 (UTC)
+::So you do support citations in the lead paragraph? Then what are we debating about?[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 01:16, 15 February 2009 (UTC)
+:::I made sure this sentence in the lead was exactly worded in the body of the article with a citation, therefore the lead does not need a citation...as it would be redundant.  If there are more facts missing in the lead...make sure the prose part of the article does indeed say the same stuff as the lead.  Then check if the prosy part has a citation, then the lead is OK dokey.  If the lead has facts and the prose body of the article missed those facts, then add those facts to the body of the article in the right section, and cite the facts there.  ....Ss new no new content should ever be written firstly in the lead.  And then also all the citations are in the body or prose part of the article proper, and again the lead goes back to introducing the article as it should.  Then no problems  :-)  [[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:28, 15 February 2009 (UTC)
+::::Well that makes sense.=D Perhaps you should modify the [[Wikipedia:Lead_section#Citations]] to reflect that if content in the lead is cited in the body, then there is no need to cite in the lead.[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 14:03, 15 February 2009 (UTC)
+
+==Width of North Sea==
+This website [http://www.mumm.ac.be/EN/NorthSea/facts.php] states that the width is 580km. Other websites say its 560km. Which is it?[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 02:20, 15 February 2009 (UTC)
+:Hello there, you raise a valid point about applying references and putting facts into articles.  As I, personally, have not measured the North Sea, I must rely on a source.  When I find a difference in between sources, I sometimes quote both in text, such as Jones says this and Smith says this with both citations following.  Sometimes, I check to see which article seems more reliable in authors or their sources.  In this case, I have used the MUMM article [http://www.mumm.ac.be/EN/NorthSea/facts.php]  other places in the text of the article myself.  You may place several sources and their findings here on the talk page of the North Sea article and then perhaps from this a consensus can be reached on the width.  If there can be no consensus amidst articles the width measurement can be removed.[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|<small>talk</small>]] 03:33, 15 February 2009 (UTC)
+::If a consensus isn't reached, we could request review from an expert, or simply put both widths. I'm not sure whether no width is appropriate.[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q#top|talk]]) 13:51, 15 February 2009 (UTC)
+
+== Simple English North Sea ==
+
+After this article is expanded, perhaps the simple English one could be too?See [http://simple.wikipedia.org/wiki/North_Sea North Sea in simple english].
+
+==No mention of haar==
+This article doesn't mention anything about haar also known as north sea fog. See [http://www.bbc.co.uk/wales/surfing/sites/features/pages/seafog.shtml BBC haar] and [http://www.bbc.co.uk/weather/features/understanding/scotland_02.shtml BBC scotland].[[User:Smallman12q|Smallman12q]] ([[User talk:Smallman12q|talk]]) 21:15, 22 February 2009 (UTC)

@@ -1,0 +1,151 @@
+{{physics|class=Start|importance=high|relativity=yes}}
+
+==Pseudoscalar==
+
+I think it should be mentioned that E*B is not a lorentzscalar, but rather a pseudoscalar. As well for the dual Fieldtensor G and the Levi-Civita-Symbol. <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:85.176.230.49|85.176.230.49]] ([[User talk:85.176.230.49|talk]] • [[Special:Contributions/85.176.230.49|contribs]]) </span></small><!-- Template:Unsigned -->
+
+:Feel free to perform the necessary edits. --[[User:Masudr|Masud]] ([[User talk:Masudr|talk]]) 00:01, 13 October 2008 (UTC)
+
+==Clarification==
+
+''Note: this usage of the term covariant should not be confused with the related concept of a covariant vector.'' What does this statement mean, exactly?  -- [[User:Decumanus|Decumanus]] | [[User talk:Decumanus|Talk]] 06:46, 22 Mar 2004 (UTC)
+
+:Strictly speaking, covariant vectors are vectors living in a [[cotangent space]]  of some manifold. In [[general relativity]], a covariant 4-vector is, in fact, a Lorentz covariant quantity, but so is a contravariant 4-vector &mdash; which is a little confusing. Nonetheless, the terminology is standard. -- [[User:Fropuff|Fropuff]] 06:51, 2004 Mar 22 (UTC)
+
+:O.K. I thought you meant something like that, but I wasn't sure from the phrasing.  Perhaps something like this should be in the article itself. -- [[User:Decumanus|Decumanus]] | [[User talk:Decumanus|Talk]] 06:55, 22 Mar 2004 (UTC)
+
+==Mistatement==
+
+I don't think this is true.  One can imagine a non-uniform universe in which Lorentz covariance is true.
+
+:: Lorentz covariance is part of a broader concept of [[cosmological principle]], that the [[universe]], when viewed on sufficiently large distance scales, has no preferred directions or preferred places. '''Poincaré covariance''' is the extension to the [[Poincaré group]].
+
+[[User:Roadrunner|Roadrunner]] 02:22, 23 Jul 2004 (UTC)
+
+== Comprehensible? I don't think so. ==
+
+This article is quite impossible to understand unless you have a degree in physics. Couldn't we add something like "Imagine a volleyball match, where the ball contiuously moves between... " or something like that to all the "Due to the ambiguity and indifference of the Lorentz-Eintein-Buggyman co-ordinated octopus, the Buron and Woron particles behave similarly due to the incoprehensible... " type paragraphs? <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:203.122.73.116|203.122.73.116]] ([[User talk:203.122.73.116|talk]] • [[Special:Contributions/203.122.73.116|contribs]]) 09:22, 23 June 2005 (UTC)</span></small><!-- Template:Unsigned -->
+
+Addendum by another person: Suggestion on how to make this article better
+
+Choose as the target audience a college freshman with exposure to the ideas of special relativity. Define very clearly (with a link) the notion of an *in*variant quantity like spacetime distance between two events. (The existing article starts off in this direction but...) Proceed to define *co*variance in that context. The important thing that is missing is the sense of how and why covariance is distinct from invariance. Include a technical definition but keep the target audience / comprehensible language requirement in mind. When done reading it, they should be able to say more than 'covariance is like invariance; but I can't tell you how it's different.' 
+
+Finally suggest providing a clear and specific example in a separate sub-section. <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:192.92.90.66|192.92.90.66]] ([[User talk:192.92.90.66|talk]] • [[Special:Contributions/192.92.90.66|contribs]]) 21:25, 16 January 2006 (UTC)</span></small><!-- Template:Unsigned -->
+
+I added a simple opening paragraph. The difference between "symmetry" and "covariance" still needs to be explained. [[User:Bhny|Bhny]] ([[User talk:Bhny|talk]]) 16:00, 11 August 2010 (UTC)
+
+: I really liked your opening paragraph, it made you ask the right questions in the technical body of the article.  But there is more softening of the intro that needs to be done. Expressing the big picture with well-understood examples (like your volleyball example) is especially important in technical articles like this.  [[User:Pb8bije6a7b6a3w|Pb8bije6a7b6a3w]] ([[User talk:Pb8bije6a7b6a3w|talk]]) 19:15, 3 May 2013 (UTC)
+
+== NPOV for Loop Quantum Gravity section ==
+
+I am convinced that such a (misleading) discussion of LQG, one particular theory that has problems with Lorentz covariance, much like with many other requirements, does not belong to the page about such an important topic as Lorentz invariance. It's not just my opinion, see also Prof. Sean Carroll, [http://cosmicvariance.com/2005/10/24/hidden-symmetries/]. All the best, Lubos --[[User:Lumidek|Lumidek]] 11:46, 26 October 2005 (UTC)
+
+:I whole heartedly agree. Can we move this material to a separate article (or merge it into the [[Loop quantum gravity]] article)? -- [[User:Fropuff|Fropuff]] 15:16, 26 October 2005 (UTC)
+
+::It came from [[loop quantum gravity]], a while back, when that needed concision. I suggest a separate page for the issue. [[User:Charles Matthews|Charles Matthews]] 16:02, 26 October 2005 (UTC)
+
+== Why "Non-Graviational?" ==
+
+It would be nice if somebody could explain why gravity is exempted from this rule. <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Megacz|Megacz]] ([[User talk:Megacz|talk]] • [[Special:Contributions/Megacz|contribs]]) 11:33, 8 January 2006 (UTC)</span></small><!-- Template:Unsigned -->
+
+: Because gravitational physics does not obey Lorentz covariance; [[general relativity]] is the present standard theory of [[gravitation]] that uses [[general covariance]] (a 'generalisation' of Lorentz covariance). Hope this helps. [[User:Mpatel|MP]]  [[User_talk:Mpatel | (talk)]] 12:30, 8 January 2006 (UTC)
+
+== To merge or not to merge? ==
+
+*I'd say ''yes'' ([[Lorentz symmetry]]), not that there is much here to merge.---[[User:Hillman|CH]] 00:41, 20 March 2006 (UTC)
+*Yes, and also [[Lorentz violation]] should be merged. It is hard to understand a complexity of topic, if they are chopped into such a small pieces. [[User:Hidaspal|Hidaspal]] 13:27, 28 April 2006 (UTC) --> Done. [[User:Hidaspal|Hidaspal]] 14:04, 28 April 2006 (UTC)
+
+== Is this even true? ==
+
+I quote from the article:
+
+:"Lorentz covariance requires that in two different frames of reference, located at the same event in spacetime but moving relative to each other, all non-gravitational laws must make the same predictions for identical experiments."
+
+I'm fairly certain this isn't true on at least two accounts. Firstly, Lorentz covariance applies only to two different '''inertial''' frames of reference. And secondly, not all predictions are the same: even in Galilean relativity, we predict different values of kinetic energy in different reference frames. The situation is similar in special relativity: various physical quantities (energy, momentum, B-field etc) transform (note this is NOT the same!) as components of various ''spacetime vectors''.
+
+I will be more than happy to make the necessary changes, iff someone agrees with what I've had to say.
+
+--[[User:Masudr|Masud]] 09:34, 26 September 2006 (UTC)
+
+== Examples of quantities ==
+
+For somebody with a smattering of special relativity, it might help to list which quantities are or aren't Lorentz-covariant (not to mention which are Lorentz-invariant, e.g., rest energy and proper time). Examples: the FitzGerald ratio, momentum, velocity, distance, total energy, time, kinetic energy, 1&nbsp;minus&nbsp;the&nbsp;FitzGerald ratio, time&nbsp;minus&nbsp;proper time, etc. (And if the quantities without Lorentz covariance fall into a few distinct classes of relationship to Lorentz transformations, that might be helpful to see, too.)  
+
+[[User:74.72.220.245|74.72.220.245]] 17:43, 17 December 2006 (UTC) Ben
+
+:I think that's a good idea. Feel free to add a list of this things. --[[User:Masudr|Masud]] 18:43, 18 December 2006 (UTC)
+
+Thank you. Yet, to quote Homer Simpson, "can't somebody else do it?" and once in a while he's right. I understand (thanks to an elementary text book) how proper time and rest energy are Lorentz-invariant. The FitzGerald ratio (proper time per time) is obviously not Lorentz-invariant since the denominator but not the numerator will vary for variously moving observers (but is it Lorentz-covariant?). I've gleaned from surfing the 'Net that momentum and total energy (rest energy plus linear energy) are Lorentz-covariant, and that kinetic energy (and more generally, I assume, linear energy) are not Lorentz-covariant (found this in some discussion mentioning KE's being a "pain" in GR). I'm pretty sure that oddities like ''tc-d'' and ''E/c&nbsp;-&nbsp;p'' aren't Lorentz-covariant since they're directional but not vector-additive. In short, plain statements about particular quantities and Lorentz covariance/invariance/other(s) are hard to find on the 'Net (which is a reason that I thought that this would be a good place for them). Anyway, I'd do it if I could but clearly such a list needs a worthier author.
+
+[[User:74.72.220.245|74.72.220.245]] 18:04, 20 December 2006 (UTC) Ben
+
+:Done. Hopefully it's added to the article; I've always felt it was quite odd that it went from a basic description of Lorentz covariant quantities straight to the complicated idea of Lorentz violation. Hopefully that gap has been filled somewhat. --[[User:Masudr|Masud]] 11:43, 21 December 2006 (UTC)
+
+::I decided '''not''' to include non-covariant quantities, as one could easily just generate a list of all sorts of physical quantites that aren't covariant. And furthermore, it wouldn't really belong in this article, in my opinion. --[[User:Masudr|Masud]] 12:01, 21 December 2006 (UTC)
+
+Given that the rule here seems to be to include the relevant equations, I can see the need for keeping the list short. Still, it would be nice if it could be stated whether quantities such as momentum, total energy, and kinetic energy are Lorenz-covariant. Anyway, thank you for carrying out my suggestion. The way that you relate scalars, vectors, and tensors is also good. One note: is it accurate to say that contracting any kinds of tensors together results in scalars, vectors, etc.? For instance, if the result is a magnitude associated with a direction but isn't vector-additive, is it really a vector? (Maybe this turns on the meaning of "contracting"?)
+
+[[User:74.72.220.245|74.72.220.245]] 18:30, 22 December 2006 (UTC) Ben
+
+:A more general definition of a vector is that it transforms in a particular way. In the language of differential geometry, they are contravariant tensors of rank 1. Their transformation under a change of co-ordinates is given by
+
+::<math>\bar{T}^i = T^r\frac{\partial \bar{x}^i}{\partial x^r},</math>
+
+:and this is satisfied by the vectors that are referred to in the article.
+
+:Momentum by itself is not covariant in S.R., only when it is part of the four-momentum vector, does it transform covariantly. As stated in the article, total energy (with a factor of 1/c) is the 0th component of the 4-momentum vector, it is really these 4 quantities put together that become covariant.
+
+:As for contracting any kinds of vectors: something like
+
+::<math>x^a j_a = x^a j^b \eta_{ab} = c^2 t\rho - j_x x - j_y y - j_z z</math>
+
+:is a Lorentz scalar, since it is made by contracting the indices of x and j together. So this quantity (which is the same in all frames, a Lorentz invariant) is truly Lorentz covariant, but has (as far as i can see) little physical relevance. Similarly, lots of lorentz covariant quantities can be just made up:
+
+::<math>x_a p^a, x_a U^a, p_a F^{ab}\mbox{ etc.}</math>
+
+:Interestingly enough, some quantities that you can just make up '''do''' have physical relevance: the E.M. field tensor contracted with the four-velocity of a particle is proportional to rate of change of momentum. See, for example, [[Lorentz_force#Covariant_form_of_the_Lorentz_force]].
+
+:--[[User:Masudr|Masud]] 14:14, 23 December 2006 (UTC)
+
+Thanks, that's very helpful. "KE isn't Lorenz-covariant" is like saying "KE is neither a scalar invariant nor part of the relevant 4-vector (the 4-momentum) etc." I know that you want to keep the article short, but it seems like a good idea to include some compressed excerpt of what you've said here. Something like "Momentum and total energy by themselves are not covariant in S.R. It is really the 4-momentum's 4 quantities -- total energy (with a factor 1/c) and the three momentum components -- put together that become covariant."
+
+The subject of what makes for physical meaning and physical importance might make for an interesting section in a general article on physical quantities.
+
+Thanks again!
+
+[[User:74.72.220.245|74.72.220.245]] 17:19, 23 December 2006 (UTC) Ben
+
+"The article Superbradyon was nominated for deletion"
+
+Why ? I see no serious argument for that. Wikipedia has published long articles on Lisi's paper, but a search at arxiv.org gives a different result.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.205.112.14|86.205.112.14]] ([[User talk:86.205.112.14|talk]]) 20:44, 1 June 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Gravitons eating phonons ==
+
+I wish to take issue with the following quote:
+
+<blockquote>
+The laws of physics are exactly Lorentz covariant but this symmetry is spontaneously broken. In special relativistic theories, this leads to phonons, which are the Goldstone bosons. The phonons travel at LESS than the speed of light. In general relativistic theories, this leads to a massive graviton (note that this is different from massive gravity, which is Lorentz covariant) which travels at less than the speed of light (because the graviton devours the phonon).
+</blockquote>
+
+The helicity of a graviton is ±2, and the helicity of a longitudinal phonon is 0. A massive graviton would be a spin-2 particle at rest. So, a massive graviton can only emerge if we also have a U(1) gauge boson with helicity ±1. I am taking the liberty of removing the devouring part.
+
+
+[[User:Fizz2010|Fizz2010]] ([[User talk:Fizz2010|talk]]) 13:07, 17 March 2010 (UTC)
+
+== Constraints ==
+
+Keep an eye out for discussion of this paper, it might well be something to include>
+
+http://prd.aps.org/abstract/PRD/v83/i12/e121301
+Constraints on Lorentz Invariance Violation using integral/IBIS observations of GRB041219A
+
+One of the experimental tests of Lorentz invariance violation is to measure the helicity dependence of the propagation velocity of photons originating in distant cosmological obejcts. Using a recent determination of the distance of the gamma-ray burst GRB 041219A, for which a high degree of polarization is observed in the prompt emission, we are able to improve by four orders of magnitude the existing constraint on Lorentz invariance violation, arising from the phenomenon of vacuum birefringence.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/83.108.206.235|83.108.206.235]] ([[User talk:83.108.206.235|talk]]) 19:57, 1 July 2011 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== "Lorentz Tensor" ==
+
+What's a "Lorentz Tensor"? See the section by this name. This is not common nomenclature that I am aware. The designation is applied but not defined.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.142.168.21|67.142.168.21]] ([[User talk:67.142.168.21|talk]]) 18:47, 9 June 2013 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Fixed  — [[User_talk:Quondum|''Quondum'']] 20:50, 9 June 2013 (UTC)
+
+== NPOV: manifolds and objects on them ==
+
+While at one point in time it was common to define, e.g, vectors, tensors, densities, in terms of the transformation properties of their components, the modern perspective is to define them in terms of products of the tangent and cotangent bundles, and covering spaces of those products. This perspective exists not only in the literature of Mathematics but also the literature of Physics. It may be easier for the layman to understand a definition in terms of components, but there should at least be a note that the approach is dated. [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 21:49, 13 June 2018 (UTC)

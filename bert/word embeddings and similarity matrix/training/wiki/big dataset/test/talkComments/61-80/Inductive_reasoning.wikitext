@@ -1,0 +1,492 @@
+{{talkheader}}
+{{Vital article|level=4|topic=Philosophy|class=Start}}
+{{Philosophy|logic=yes|epistemology=yes|science=yes|class=start|importance=high}}
+{{Merged from|Enumerative induction|date=August 2018}}
+
+<div class="boilerplate" style="background-color: #eeffee; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #AAAAAA;"><!-- Template:polltop -->
+
+== Propose move of this article ==
+:''The following discussion is an archived debate of the {{{type|proposal}}}. <font color="red">'''Please do not modify it.'''</font> Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+Consistent title (cf [[deductive reasoning]] and [[abductive reasoning]]) -- [[User:Infinity0|infinity]]<span style="font-weight:bold;">[[User_talk:Infinity0|0]]</span> 23:22, 8 March 2006 (UTC)
+
+[[Special:Whatlinkshere/Induction (philosophy)]] - quite a lot of articles link to [[inductive reasoning]] already, which is a redirect to this current page. -- [[User:Infinity0|infinity]]<span style="font-weight:bold;">[[User_talk:Infinity0|0]]</span> 23:37, 8 March 2006 (UTC)
+
+* '''Support''' Go for it. [[User:Simoes|Simoes]] 14:48, 9 March 2006 (UTC)
+
+* '''Support''' as per nom. [[User:David Kernow|David Kernow]] 17:41, 9 March 2006 (UTC)
+
+* '''Support''', I think.  I got confused trying to follow the history of previous relocations and indirections, but it seems like the basic content of the article was once before at a pre-re-directed article ''[[Inductive reasoning]]''?  [[User:Jon Awbrey|Jon Awbrey]] 17:58, 9 March 2006 (UTC)
+**Yeah, I think the article started off there, but was moved here. I don't know why, but now this article has an orphaned title. -- [[User:Infinity0|infinity]]<span style="font-weight:bold;">[[User_talk:Infinity0|0]]</span> 21:10, 10 March 2006 (UTC)
+
+{{{result|The result of the debate was}}} '''move'''. &mdash;[[User:Nightstallion|<span style="font-variant:small-caps">Nightst</span>]]<font color="green">[[User:Nightstallion/esperanza|<span style="font-variant:small-caps">a</span>]]</font>[[User:Nightstallion|<span style="font-variant:small-caps">llion</span>]] [[User talk:Nightstallion|''(?)'']] 10:30, 13 March 2006 (UTC)
+
+:''The above discussion is preserved as an archive of the debate.  <font color="red">'''Please do not modify it.'''</font> Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.</div><!-- Template:pollbottom -->
+
+== Introduction ==
+First sentence should be "Induction is a form of reasoning that makes generalizations based on individual instances.[1]" The current introductory sentence is bloated and muddy. Anyone agree?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/128.138.64.101|128.138.64.101]] ([[User talk:128.138.64.101|talk]]) 04:30, 8 September 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+: I do. Although the point, that an induction is merely an educated guess, should remain. --[[User:Arno Matthias|Arno Matthias]] ([[User talk:Arno Matthias|talk]]) 12:10, 8 September 2008 (UTC)
+: I do as well - the introduction, while sound philosophically, assumes too much of non-expert readership that expects something more accessible.  The introduction needs to contain a sentence like this, THEN move to it's specialist engagement.  The matter can be encapsulated in the lack of a definition of an 'inductive argument'.  So the actual introduction, to someone without any training or expertise, becomes tautological between inductive reasoning and inductive argument.--[[User:Doingmorestuffonline|Doingmorestuffonline]] ([[User talk:Doingmorestuffonline|talk]]) 22:57, 9 May 2011 (UTC)
+
+:: Disagreed.  The statement that "induction is a form of reasoning that makes generalizations based on individual instances" is not a claim that accurately describes all instances of inductive logic.  The sentence makes an inaccurate generalization about induction, at least as far as I can see it, and is misleading in an intro paragraph.  For example...
+
+::1)90% of humans are right-handed.
+::2)Joe is a human
+::Therefore, Joe is right-handed.
+
+::This is a very simple, and very common, usage of inductive reasoning that moves from the general to the particular.  
+
+::[[User:Gilesbardsong|Gilesbardsong]] ([[User talk:Gilesbardsong|talk]]) 03:06, 24 October 2008 (UTC)
+
+Surely the 90% example is deductive. 
+
+90% of humans are right-handed.
+Joe is a human.
+Therefore, the probability that Joe is right-handed is 90%.
+
+Is a completely accurate statement, since it is correct regardless of what hand he uses. Even if he turns out to be lefthanded, there was still a 90% chance of his being righthanded. 
+
+[[User:Bonsai Ent|Bonsai Ent]] ([[User talk:Bonsai Ent|talk]]) 13:03, 3 January 2012 (UTC)
+
+==Discovery & justification==
+
+There is a difference here between the role of induction in both discovery and justification. Can this be highlighted and explained, because a lot of confusion stems from this. Hume showed that we cannot learn from particulars anything beyond them. He also showed that no amount of particurs justifies a general statement.
+
+== jargon ==
+
+In the introduction of the article, the term "tokens" is used without explanation.  Could the writer please explain it or use a simpler term?  Peter Johnson [[User:64.231.45.249|64.231.45.249]] 04:04, 5 April 2006 (UTC)
+
+== abduction ==
+
+I find the sentence (in the section ==Validity==)
+
+''The writer John Barnes outlined a third method of reasoning, called "abduction", in his book Finity ...''
+
+highly questionable. --[[User:Arno Matthias|Arno Matthias]] 23:23, 24 November 2006 (UTC)
+:And so it has been removed. Feel free to [[WP:BOLD|be a little bold]] the next time a random anon adds nonsense to an article. <b><font color="006400">[[User:Simoes|Simões]]</font></b> (<font size="1"><sup>[[User talk:Simoes|talk]]</sup>/<sub>[[Special:Contributions/Simoes|contribs]]</sub></font>) 00:21, 25 November 2006 (UTC)
+::...well... I haven't read "Finity"... maybe it is pure genius... --[[User:Arno Matthias|Arno Matthias]] 14:26, 25 November 2006 (UTC)
+
+To my knowledge, abduction was first introduced by the philosopher Charles Saunders Peirce.  It is analogous to an "inference to the best explanation", but it is no inductive principle.
+:I never know what to do with the phrase "to my knowledge". Is this meant as "to the ''best'' of my knowledge", or "to my ''certain'' knowledge"? (The preceding post was left unsigned and undated. Edit history shows it to have been added 25 April 2007 by 87.79.208.178.) [[User:Milkunderwood|Milkunderwood]] ([[User talk:Milkunderwood|talk]]) 20:24, 5 January 2012 (UTC)
+
+== References ==
+
+This article states many facts, of who said what, without proper citations, of where and when. Please help to improve.
+- [[User:89.247.34.119|89.247.34.119]] 20:52, 19 February 2007 (UTC)
+
+== Unclear explanation - "strong induction" ==
+
+The explanation for the following example of "strong induction" seems unclear:
+
+"All observed crows are black.
+therefore
+All crows are black.
+This exemplifies the nature of induction: inducing the universal from the particular. However, the conclusion is not certain.
+Unless we can systematically verify the possibility of crows of another color, the statement may actually be false."
+
+The problem is that the syntax of the final sentence--which I take to mean that we can legitimately conclude "all crows are black" from the fact that "all observed crows are black" ONLY if "we can systematically verify the [IMPOSSIBILITY] of crows of another color"--makes it difficult to untangle the logic of the resulting statement. If I follow the argument correctly, I believe the sentence should read:  "Unless we can systematically verify the IMPOSSIBLITY of crows of another color, the statement may actually be false."
+
+[[User:Califgrll|Califgrll]] 21:42, 24 February 2007 (UTC)
+
+Changed the relevant sentence, it now reads: "falsify the possibility" because I think its more precise than your (nevertheless correct) suggestion. This is due to falsificating the negation of a proposition being the only way to verify a proposition.
+-Dalailowmo
+[[User:217.234.81.64|217.234.81.64]] 09:39, 25 May 2007 (UTC)
+
+There is also another problem with that section: "A strong induction is thus an argument in which the truth of the premises would make the truth of the conclusion probable, but not definite."
+
+That's not true.  Including more inductive cases has absolutely no bearing on the probability of truth or falsity of the statement.  With the crows, for example, seeing MORE black crows doesn't mean it's any more probable that only black crows exist.  This is actually an important point; it is the foundation of many anti-scientific claims.  Famously, it is also the basis of Hume's system -- that we have no real evidence whatsoever to believe that the sun will rise tomorrow.
+
+Furthermore, I think the entire section of strong vs. weak induction is pretty, well -- weak.  Once you realize that additional cases don't have any bearing on the truth or falsity of a proposition, you'll see that they are, in reality, no different (unless you're one of the very few that foolishly defends probabilistic induction).
+-Tris
+
+Correct me if I don't adequately understand this, however I think it would be helpful to have examples of "weak induction" that are not immediately recognized as false, in order to distinguish between "weak induction" and "inaccurate." Or at least some explanation of this distinction is in order. [[User:Earthswing|Earthswing]] ([[User talk:Earthswing|talk]]) 00:41, 16 March 2009 (UTC)
+
+== Citations ==
+
+I notice there are a whopping '''34''' citations for the last sentence in the introduction, and none anywhere else.  Does this strike anyone else as odd?  --[[User:Wayne Miller|Wayne Miller]] 15:01, 2 August 2007 (UTC)
+:It's clearly an overkill, just a few of the most significant ones should be left. '''[[User:Reinis|Reinis]]'''<sup>[[User_talk:Reinis|talk]]</sup> 23:19, 28 August 2007 (UTC)
+
+That's approximately the coolest thing I've seen on this site.
+
+== Article Lacks Clarity ==
+
+This article could use a general edit I think - though I am unqualified to do it.  the following paragraph was particulary opaque to me:
+
+It is however possible to derive a true statement using inductive reasoning if you know the conclusion. The only way to have an efficient argument by induction is for the known conclusion to be able to be true only if an unstated external conclusion is true, from which the initial conclusion was built and has certain criteria to be met in order to be true (separate from the stated conclusion). By substitution of one conclusion for the other, you can inductively find out what evidence you need in order for your induction to be true. For example, you have a window that opens only one way, but not the other. Assuming that you know that the only way for that to happen is that the hinges are faulty, inductively you can postulate that the only way for that window to be fixed would be to apply oil (whatever will fix the unstated conclusion). From there on you can successfully build your case. However, if your unstated conclusion is false, which can only be proven by deductive reasoning, then your whole argument by induction collapses. Thus ultimately, pure inductive reasoning does not exist.
+
+Thanks! [[User:Cyclopsface|Cyclopsface]] 21:58, 27 August 2007 (UTC)
+:The intro, especially the sentence with 34 citations, is currently an attack. It lacks a balance which John Awbrey's edits once provided, as this is only one type of reasoning cataloged by [[C. S. Peirce]]. --[[User:Ancheta Wis|Ancheta Wis]] 10:14, 20 September 2007 (UTC)
+
+== Inconsistent Treatment, Factual, and Technical Errors ==
+
+There are a number problems here, some debatable, some not.
+
+There are two main types of induction.  One is mathematical and produces certain results, and the other basically says (for example) that since the sun has not failed to rise every 24 hours or so, it will not fail to rise within the next 24 hours.  In Principles of Mathematics (1903), Bertrand Russell calls mathematical induction "disguised deduction" and the other kind of induction he calls a method of making guesses.  The first characterization is debatable, the second is not.
+
+So the editorial claim, "Inductive reasoning is the complement of deductive reasoning." is at least imprecise.
+
+Mathematical induction has been used when a set is constructed from an initial state and a generative principle, and it can be shown that all members of the set must have a particular property.  Also proofs using mathematical induction use the natural numbers for the incremental and ordinal properties of the set, but mathematical induction is not a statement about the natural numbers per se (as stated in the entry on that subject).
+
+The other kind of induction has been used when we project a trend.  Neither mathematical induction nor the other kind of induction has anything to do with syllogisms or argument by authority.  I haven't read the (what 5 with virtually the same title?) Popper articles, but I suspect some of the things being classed as induction are there because someone wants to declare that only deduction is logically valid and therefore lumps anything they consider not logical (i.e. the complement) into "induction".
+
+Returning to syllogisms, deductive reasoning has syllogism as a result, but syllogism is not deductive reasoning per se (in the sense that Sherlock Holmes uses the phrase).  Literal deduction consists in eliminating all impossible conclusions, leaving the set of possible conclusions.
+
+Abductive reasoning is much closer to what is called statistical syllogism (though not as statistical syllogism is represented on this page).  It consists of interpreting a large number of facts to infer a consistent general principle.  Abduction usually appears in the context of diagnosis; so it is usually concerned with discerning causal principles.
+
+Umberto Eco (possibly originally from Charles Peirce.  Sorry, I don't recall the citation - probably Semiotics and the Philosophy of Language) described the three thus (I'm paraphrasing and augmenting):
+
+Deduction proceeds from certain general qualities to certain logical cases to specific factual inferences.
+Induction proceeds from specific facts to categorical cases to inferring general principles.
+Abduction proceeds from specific facts to consistent general principles without inferring cases.
+
+All this differentiation is subject to the same debate that Russell introduced (if he was the one who originally introduced it - I don't know), but it is almost certainly true that calling induction the complement of deduction is misleading and organizes the entries incorrectly.
+
+[[User:Kikilamb|Kikilamb]] 20:57, 11 October 2007 (UTC)
+
+Regarding the section on Inductive strength, I thought Strength just meant how much 
+new information the conclusion was telling you. For example (Weak)"Tomarrow the sun will rise." 
+to (Strong)"Tomarrow , on the East Coast, the sun will rise at 6:51 am". The Weak Induction section refers to overgeneralization, which is topic in Inductive probability. I'm confused.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/69.124.128.196|69.124.128.196]] ([[User talk:69.124.128.196|talk]]) 14:36, 2 February 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Argument by Authority ==
+
+"Authority" in this context is a social status.  There are many rationales for designating an authority, such as "Religious text X said so.", "My father said so, and my father wouldn't lie to me.", or the given rationale "The source has been truthful in the past."
+
+It is one thing for us to say that a source has been truthful in the past and therefore they will probably be truthful in the future, and it is another to say that a source has been truthful in the past and therefore they are probably being truthful now.  The latter is not a type of reasoning; in fact, it is an abdication of reasoning.  On that basis, all designators of authority/oraclehood in this context, including ones that seem inductive, I call rationalizations rather than reasons.  Since this is not reasoning, it cannot be some subtype of reasoning; and specifically, it is not inductive reasoning.
+
+On that basis I have deleted the subentry.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Kikilamb|Kikilamb]] ([[User talk:Kikilamb|talk]] • [[Special:Contributions/Kikilamb|contribs]]) 21:26, 13 March 2008 (UTC)</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Deductive reasoning vs experimental evidence ==
+
+Under "Validity"
+"By substitution of one conclusion for the other, you can inductively find out what evidence you need in order for your induction to be true. For example, you have a window that opens only one way, but not the other. Assuming that you know that the only way for that to happen is that the hinges are faulty, inductively you can postulate that the only way for that window to be fixed would be to apply oil (whatever will fix the unstated conclusion). From there on you can successfully build your case. However, if your unstated conclusion is false, '''which can only be proven by deductive reasoning''', then your whole argument by induction collapses." - I assume it's possible that the falseness of the unstated conclusion could also be determined thru experimental evidence (direct sensual knowing), or is evidence considered part of deductive reasoning?  You try oiling the hinge but the window still isn't fixed, obviously (before formal reasoning can take place) oiling didn't fix the window, or, inductively, an alternate hypothesis as to what will fix the window is generated - "hitting the window hinge with a hammer will fix this". --[[Special:Contributions/69.243.168.118|69.243.168.118]] ([[User talk:69.243.168.118|talk]]) 03:38, 23 March 2008 (UTC)
+
+==?"truth of the universal"?==
+re:
+<blockquote>
+[[Sextus Empiricus]] questioned how the truth of the [[universals|universal]] can be established by examining some of the particulars. Examining all the particulars is difficult as they are infinite in number. </blockquote> 
+
+Can anybody explain what is meant by the term "the universal" in the above sentence?  As the term is usually used a universal is not something which could be either true or false.  The definition of universal provided at [[universals]] seems fair enough:-
+
+<blockquote>
+In [[metaphysics]], a '''universal''' is a what particular things have in common, namely characteristics or qualities. In other words, universals are repeatable or recurrent entities that can be instantiated or exemplified by many particular things.
+</blockquote>
+
+On that definition a universal is not a truth-bearer/not the sort of thing that can be true or false.
+--Philogo 12:39, 29 July 2008 (UTC)
+
+:Sextus Empiricus is referring to things that are univerally true (true in all cases) rather than things that are only true in particular cases (under some circumstances, such as those one has observed). --[[User:Llewdor|Llewdor]] ([[User talk:Llewdor|talk]]) 20:13, 12 August 2008 (UTC)
+
+==Science does not require induction==
+The article asserts, "Scientists still rely on induction nevertheless."  This is patently false.  Science involves certainty with regard to disproving hypotheses (this using deduction), and then responds with new hypotheses (supposition).  Never is induction used to form unsupported conclusions.
+
+Applied science (engineering) relies on induction because it needs to act as if it knows what things are true, but scientists only ever know what things are false, and thus induction plays no role whatever in their work.
+
+The claim that science relies on induction could be used to define unscientific claims as science. --[[User:Llewdor|Llewdor]] ([[User talk:Llewdor|talk]]) 20:19, 12 August 2008 (UTC)
+
+How could it do that? It is defining science as a subset of inductive practice, not inductive practice as a subset of science. You are making this flawed inference:
+Some induction is done unscientifically.
+Therefore, all induction is unscientific.
+
+That isn't right. Science uses induction and deduction. (Any postulated "Law of Nature" is an induction, for example.) [[User:Pjwerner|Pjwerner]] ([[User talk:Pjwerner|talk]]) 20:28, 24 October 2008 (UTC)
+:That's nonsense, science does not use induction. Induction does not exist. (Not only) Science (but every valid inference humans ever make) is purely deductive. A Law of Nature is a Law of Nature, not an induction. It would be allegedly an induction to say that this Law of Nature is valid because of this evidence and that evidence, but it's not really induction, it's merely an invalid argument. Engineering does not rely on some allegedly existing induction either. Engineering exploits physical laws, it doesn't rely on any Induction in relation to them. Further, science involves no certainity at all. Claiming that science "involves certainty with regard to disproving hypotheses" is so-called naive falsificationism, and has most notably been criticized by Popper (despite paradoxically being a view misattributed to him quite often). --[[User:Rtc|rtc]] ([[User talk:Rtc|talk]]) 12:28, 25 October 2008 (UTC)
+If there is no such thing as induction, all talk of "Laws" would be meaningless. That clearly isn't the case. I don't want to get in a huge philosophical dispute here, because I understand your point. But your point is a controversial one, and as such, both sides should be aired. [[User:Pjwerner|Pjwerner]] ([[User talk:Pjwerner|talk]]) 12:35, 25 October 2008 (UTC)
+:Talk of Laws is meaningful despite there being no such thing as induction. It can only appear otherwise to someone who believes in justificationism and so confuses truth and justification. An extensive list of sources with various views from the ongoing debate were removed some time ago.[http://en.wikipedia.org/w/index.php?title=Inductive_reasoning&diff=234460602&oldid=233162942] --[[User:Rtc|rtc]] ([[User talk:Rtc|talk]]) 12:48, 25 October 2008 (UTC)
+
+On what grounds could someone posit a "law" other than inductive grounds? Besides, part of science's purpose is predicting events. Without induction, how is this possible? 
+Maybe it would be best to leave it at this. Again, I don't want to get into a heated philosophical dispute. But it seems to me that it would be POV to say induction does not exist. Put the perspective up there and leave it at that. [[User:Pjwerner|Pjwerner]] ([[User talk:Pjwerner|talk]]) 17:13, 25 October 2008 (UTC)
+:Even asking a question beginning with "On what grounds" is presupposing justificationism, and justificationism is false. The answer is, he could posit a law on no grounds at all (which does not mean the same as out of the blue), and there is nothing wrong with that. The question "How is it possible to predict events without induction?" is a strange one, because already Aristotle, the inventor of induction, held that prediction works by deduction from the laws, and noone seems to have disputed that. So even according to Aristotele, induction plays a role only when we obtain laws from observations we have made, not when we deduce predictions from these laws. The article doesn't say that induction does not exist (although it would be a true statement; but the neutrality principle says an encyclopedia article should not take sides on some controversial issue); it says that Popper and Miller have disputed its existence. --[[User:Rtc|rtc]] ([[User talk:Rtc|talk]]) 21:41, 25 October 2008 (UTC)
+
+::Are you sure you have understood Popper and Miller correctly? You ascribed this statement to them in the article: "Scientists cannot rely on induction simply because it does not exist." This does not seem sensible. The scientists use a method which they label inductive, and that method must exist since they use it. Therefore, in the sense they define inductive reasoning, it exists. If Popper and Miller define inductive reasoning in a different way, and conclude that it does not exist, then what use is their definition, and why is it at all relevant to what scientists do? Of course inductive reasoning as they define it must then be invalid and unnecessary, as well as valid and necessary, as everything is true about non-existent objects. It's also unclear how they can include Bayesian reasoning in this, since it is a method that is used, and therefore must exist.
+
+::As an aside, any non-inductive way of positing laws seems quite nonsensical by the definition of inductive reasoning in the article: "it involves reaching conclusions about unobserved things on the basis of what has been observed". Since the future is not observed, any non-inductive way of positing laws must produce laws which make the same predictions of the future regardless of what observations have been made. Either this definition is not the one Popper and Miller had in mind (in which case explaining their definition would be useful), or this is [[Solipsism|just another]] way philosophers have found to debate [[Philosophical zombie|dancing angels on a pin]]. Looks like the latter, as even Bayesian reasoning is included by Popper and Miller, and that's as rigorous as inductive reasoning gets. -- [[User:Coffee2theorems|Coffee2theorems]] ([[User talk:Coffee2theorems|talk]]) 13:50, 6 December 2008 (UTC)
+
+:::"The scientists use a method which they label inductive" That's not true. Both that scientists use a method, and that this method is to be called the inductive method is an invention of ''philosophers'', not scientists, though I won't deny that some scientists have actually started to believe it. You can see that easily: Aristotele wrote about induction long before science even existed! Popper and Miller do not define inductive reasoning in a different way, they do not define it at all. Popper and Miller ''attack'' the claim that inductive reasoning exists, in ''any'' meaning of induction that cannot simply be reduced to deduction. Of course the [[essentialism|essentialistic]] definition that induction ''is'' simply what scientists do terminates all arguments on the issue quickly, but to claim "it involves reaching conclusions about unobserved things on the basis of what has been observed" goes far beyond that. "Of course inductive reasoning as they define it must then be invalid and unnecessary, as well as valid and necessary, as everything is true about non-existent objects." No; just because there is no dog with seven legs doesn't mean that "dogs with seven legs have eight legs" is a true statement. Note I'm presupposing the correspondence theory of truth here. "It's also unclear how they can include Bayesian reasoning in this, since it is a method that is used, and therefore must exist." But is it inductive and does it do what inductivists claim it does? 
+:::"any non-inductive way of positing laws seems quite nonsensical by the definition of inductive reasoning in the article" That is exactly what Popper and Miller deny. "Since the future is not observed, any non-inductive way of positing laws must produce laws which make the same predictions of the future regardless of what observations have been made." But that's obviously not true. Let's asssume we have some dispute about the color of swans. You claim that all swans are black, and I claim that all swans are white. Now let's assume we make an observation and we agree that we have seen a black swan, and let's further assume that this is actually the case. By pure deduction we can then conclude that the statement "all swans are white" is false and we should not use it anymore for predictions such as that the next swan that we are going to observe will be white. So the non-inductive method of falsification is a counter-example to your claim that past experience must be irrelevant to the question which predictions laws "produced by" non-inductive methods make (rather we should say: laws that ''survive the application'' of such methods). How about reading the books of Popper and Miller? They actually go further than solipsism. Solipsism says that we know that we exist. Popper and Miller's position is skepticism, which says that we know nothing at all (for all epistemological meanings of "to know"). Popper and Miller have some very detailed criticism of Bayesianism. See Miller's book ''Critical Rationalism''. --[[User:Rtc|rtc]] ([[User talk:Rtc|talk]]) 20:46, 17 January 2009 (UTC)
+
+==Refs need fixing==
+The refs section of this article is terrible. It has tons of references about inductive probability, and little to nothing on anything else. I don't have the background to select good references on inductive reasoning, but I strongly feel we should
+cut all but a few important refs on inductive probability and add refs on inductive reasoning in general. [[Special:Contributions/99.233.26.121|99.233.26.121]] ([[User talk:99.233.26.121|talk]]) 13:27, 26 August 2008 (UTC)
+
+==Odd and even example==
+I'm no logician, but I can't help but notice that "odd + odd = even" is given as an example of inductive reasoning, but this can be mathematically proven.  [[Mathematical proof]]s are [[Deductive reasoning|deductive]], so it would seem to me this example is flawed. [[Special:Contributions/12.216.1.235|12.216.1.235]] ([[User talk:12.216.1.235|talk]]) 05:50, 29 September 2008 (UTC)
+
+If the argument was that "one or more pairs of odd numbers added together make an even number therefore  all pairs of numbers added together make an even number" then it would be an inductive argument, even if there were a deductive argument that proved the result.  There may be cases in the history of math where a result was known by repeated instances and later proved by deduction, e.g. I think Pythagoras' theorem.  I believe Goldbach's conjecture is "known" by induction and remains to be proven.  Nevertheless this is a poor example of an inductive argument since (A) it proceeds from just one instance (b) there is a deductive proof for the result. The example therefore is bound to cause confusion. There are less confusion well-worn examples that can be given, e.g. "Repeated observations show that if a price of iron is heated then it expands, therefore iron expands when heated".  The traditional example for frailty of induction is "The dog observed that whenever he woke up early in the dark and narked in the end the sun would rise; therefore, the dog concluded, barking makes the sun rise"
+
+PS Whether mathematical arguments are purely logical or empirical is a hot topic: see Philosophy of Mathematics.--Philogo 12:40, 29 September 2008 (UTC)
+
+==New induction form?==
+I don't want to introduce original research here, but maybe somebody knows some source to be pointed to here, or can explain how to categorize a thought I've had.  It seems to me that one important form of inductive reasoning is what I am tempted to call a "defeasible argument;" perhaps also a "ceteris paribus argument."  That is, premise set S supports conclusion C, so that, if nothing else is relevant, then C follows.  But of course there might be some other facts defeating the argument or supporting a contrary conclusion more strongly, which is why this is an inductive and not a deductive form.  This often occurs in ethics, when clashing values are at stake, but can also occur in other cases.  For example:
+
+experiment X suggests that light is made of particles, so it is made of particles
+(other data may suggest otherwise, of course)
+
+euthanasia may reduce pain and suffering; this is good, so euthanasia should be allowed
+(other values may be defeated by this, however)
+
+etc.--[[User:ScottForschler|ScottForschler]] ([[User talk:ScottForschler|talk]]) 21:50, 15 January 2009 (UTC)
+
+==<nowiki>{{Who?}}</nowiki>==
+
+To my understanding all science is inductive, it is simply that the statements who’s validity derives by inductive reasoning come to be the a priori axioms of the particular science. Anyways, another thing: I added template <nowiki>{{Who?}}</nowiki> on section [[Inductive reasoning#Validity|Validity]] on the phrase “some philosophers” because I’d really like to know who they are. Thanks.--[[User:Vanakaris|Vanakaris]] ([[User talk:Vanakaris|talk]]) 09:42, 14 March 2009 (UTC)
+:Can you cite any sorces for your understanding that ''all science is inductive''?--[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 13:00, 27 April 2009 (UTC)
+No I can't. What I meant is that science_1=physics is inductive (i.e. "all bodies fall" but we only have seen some - not all), science_2=chemistry is inductive (i.e. "2 NaOH + H2SO4 → 2 H2O + Na2SO4" but we only have seen ''this'' NaOH sample reacting - not all), and I reasonably assume the same (inductive reasoning!) for science_3, science_4, etc :-)! Seriously now: you are right. It is more accurate to say that "to some extent science is inductive" instead of "all science is inductive".--[[User:Vanakaris|Vanakaris]] ([[User talk:Vanakaris|talk]]) 07:59, 16 May 2009 (UTC)
+
+==The use of the word 'infer'==
+I couldn't help but notice that *infer* is used in several places in the article.  Isn't inference inherently DEductive, or is there a subtlety I'm missing?
+In the first para:
+"This ice is cold.
+...to infer general propositions such as:
+All ice is cold."
+
+I suggest replacing the word (by those more knowledgeable of logic than I) infer with something like 'reach'.
+"to reach general propositions"...
+[[Special:Contributions/68.102.45.46|68.102.45.46]] ([[User talk:68.102.45.46|talk]]) 16:15, 16 October 2009 (UTC) Anon
+
+:Inference is not necessarily deductive. "Inductive inference" is a phrase frequently used in popular accounts as well as the literature on Bayesian inference, prediction theory, AI, etc. Wikipedia has a page on it with a few references: [[Inductive inference]]. [[User:Daniel Earwicker|earwicker]] ([[User talk:Daniel Earwicker|talk]]) 19:21, 8 December 2009 (UTC)
+
+== Strong Induction; Weak Induction ==
+
+This part of the article seems somewhat imprecise: It merely gives a (relatively) strong case of inductive inference, and a particularly weak one, without discussing the factors proposed to scale with the strength of induction. Also, the titles are particularly poorly conceived, since strong induction and weak induction have already been coined to defined deductive(ish) mathematical versions of proof. So I suggest:
+
+Firstly a change of title in this section to Strength of Induction.
+
+Secondly the introduction of the factors which are supposed to increase the strength of a particular inductive inference from (e.g.) observations of As which are X to the conclusion that all As are X, namely:
+
+1.The number of observed cases of As which are X.
+
+2.The variety of different situations in which As were observed to be X.
+
+3.The general consistency with other beliefs held of the result that all As are X.
+
+followed by a discussion of the motivations of each of these factors, including examples.
+I would do this myself but I'm not really qualified to, and don't really know how to edit. [[Special:Contributions/163.1.167.195|163.1.167.195]] ([[User talk:163.1.167.195|talk]]) 23:29, 17 February 2010 (UTC)
+
+P.S. The fact that the first sentence of the article is simply wrong is quite annoying: there are two types of inductive inference (in this sense) - one from a set of observations to a generalisation (as stated in the article), and one from a set of observations to a specifice prediction (e.g. from 'all swans I have seen are white' to 'the next swan I see will be white').
+
+This article evidently needs a lot of clearing up - it is extremely poor quality for what is a crucial centrepiece of philosophical debate. Not that I mean to whinge unproductively...  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/163.1.167.195|163.1.167.195]] ([[User talk:163.1.167.195|talk]]) 22:09, 28 February 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Scientific laws as examples of strong inductive reasoning. ==
+
+I think a much better example of strong inductive reasoning would be the scientific laws we have today. The example with the black crows barely seems like mediocre inductive reasoning to me. The laws of physics, they are examples of strong inductive reasoning. [[Special:Contributions/85.165.92.9|85.165.92.9]] ([[User talk:85.165.92.9|talk]]) 22:35, 12 August 2010 (UTC)
+:[[WP:BOLD]]. Just remember that it isn't the laws that are examples of strong inductive reasoning but the process of deriving those laws.--[[User:Heyitspeter|Heyitspeter]] ([[User talk:Heyitspeter|talk]]) 06:21, 13 August 2010 (UTC)
+
+What about this example of strong inductive reasoning:
+
+:All observed electrons have a charge of −1.602176487(40)×10^ −19 C.
+
+:Therefore:
+
+:All electrons have a charge of −1.602176487(40)×10^−19 C.
+
+This seems like much stronger inductive reasoning than the example with the black crows. [[Special:Contributions/85.165.92.9|85.165.92.9]] ([[User talk:85.165.92.9|talk]]) 09:45, 13 August 2010 (UTC)
+
+I have changed the black crow example to the electron charge example in the article. If anybody have a better example feel free to replace mine with it.[[Special:Contributions/85.165.92.9|85.165.92.9]] ([[User talk:85.165.92.9|talk]]) 16:06, 13 August 2010 (UTC)
+:Well it's a bit odd since it's not [[Laws of science|a scientific law]]. And we have technically measured electrons and come up with different charges (though perhaps on somewhat imprecise equipment). What about:
+::The equation, "the gravitational force between two objects equals the gravitational constant times the product of the masses divided by the distance between them squared," has allowed us to describe the rate of fall of all objects we have observed.
+::Therefore:
+::The gravitational force between two objects equals the gravitational constant times the product of the masses divided by the distance between them squared.
+:I like this one because it's Newtonian. It'd be nice to use an example of strong induction whose conclusions are 'known' to be false, as it would drive the point home that strong induction is still only induction.
+:The difficulty with using scientific laws as an example is that they usually don't even pretend to be empirical. When Newton states, F=ma, he's not claiming that force is an object in the world we can interact with.--[[User:Heyitspeter|Heyitspeter]] ([[User talk:Heyitspeter|talk]]) 17:19, 13 August 2010 (UTC)
+
+Sounds good. Especially if you mention that Einstein's theory of general relativity gives even more accurate predictions.[[Special:Contributions/85.165.92.9|85.165.92.9]] ([[User talk:85.165.92.9|talk]]) 17:29, 13 August 2010 (UTC)
+:Maybe I'll test it out. A little wordy though. Can you think of any other 'laws' that are more compact?--[[User:Heyitspeter|Heyitspeter]] ([[User talk:Heyitspeter|talk]]) 19:46, 13 August 2010 (UTC)
+
+Well, the whole section about strong and weak inductive reasoning is rather black and white. Rather there are different degrees of strength. Perhaps we could argue for Newton's theory of gravity as being derived from strong inductive reasoning, Einstein's theory of gravity as being derived from stronger inductive reasoning, and the possibility for a new quantum theory of gravity being derived from even stronger inductive reasoning. [[Special:Contributions/85.165.92.9|85.165.92.9]] ([[User talk:85.165.92.9|talk]]) 21:21, 13 August 2010 (UTC)
+
+:Induction is a method to process observations. Science typically adds something else: theory building. Theories combine observations with logical reasoning. E.g., there are strong reasons to assume that alle electrons have the same weight (in quantum theory, they are even found fundamentally indistinguishable). The fact that both the electrostatic and the gravity force are reversely proportional to the square of the distance is not the result of precision measurements showing that these forces are proportional ro "r" to the power -2.0000000001, but to considerations of symmetry. The theory of relativity postulates that laws of nature should be invariant for certain transformations - for the <i>logical</i> reason that the frame of reference should not matter. The equivalence of inert and heavy mass is not just the result of the observation that the two differ by an amount lower than the measurement error, but to the logical (and brilliant!) perception that the two can't be different. Of course, such theories are <i>verified</i> by measurements, and hopefully confirmed, but they are not <i>founded</i> on observations, in the sense that they are <i>constructed</i> from observations. [[User:Rbakels|Rbakels]] ([[User talk:Rbakels|talk]]) 09:48, 2 November 2010 (UTC)
+
+
+I hope no one disagrees but I took the liberty of removing the post regarding there is a discrepancy between Newton and Einstein about the force of gravity relating to relativity. The sun is located about 500 light seconds from the earth and even though we see it at where it was located, we feel it's force from where it is currently located. There is no retardation of the effects of the force of gravity associated with the sun, therefore using the equation of gravity as an example of strong inductive reasoning is an error.
+[[User:Moonstroller-2|Moonstroller-2]] ([[User talk:Moonstroller-2|talk]]) 06:10, 4 June 2012 (UTC)
+
+== Swans ==
+
+I added the example of swans, supposedly <i>the</i> standard example of inductive reasoning. The examples given a number of lines below may be confusing because they relate to subjective observations - which is not the point here.
+In my perception, the first paragraph of a lemma should tell the reader what "induction" is - which is imho explained easier by an example than by a formal definition. Details should follow.
+[[User:Rbakels|Rbakels]] ([[User talk:Rbakels|talk]]) 09:33, 2 November 2010 (UTC)
+
+: I split examples from definition. I think giving a fairly complete definition and then a clarifying example reads easier than sticking an example in the middle of trying to describe what it is. I still think the section reads a bit awkward, so feel free to continue to rearrange it. [[User:GManNickG|GManNickG]] ([[User talk:GManNickG|talk]]) 10:01, 2 November 2010 (UTC)
+
+== Please clarify "outdated" ==
+
+At the bottom of the introduction it says "Though many dictionaries define inductive reasoning as reasoning that derives general principles from specific observations, this usage is outdated". Does this really mean "this usage is outdated" (i.e. at some point in the past this was a valid meaning of "inductive reasoning", but it no longer is), or does it mean "this is an incorrect usage which was more common in the past than it is now"? I think it means the latter, but it would be useful to clarify this. If the former, it really opens a can of worms because some of the references in the article are from previous centuries when perhaps the "outdated" meaning would have been intended. [[Special:Contributions/95.149.106.210|95.149.106.210]] ([[User talk:95.149.106.210|talk]]) 21:02, 30 July 2011 (UTC)
+:Have you read the cited source for this i.e.
+{{Quotation|
+"Some dictionaries define “deduction” as reasoning from the general to specific and “induction” as reasoning from the specific to the general. While this usage is still sometimes found even in philosophical and mathematical contexts, for the most part, it is outdated. For example, according to the more modern definitions given above, the following argument, even though it reasons from the specific to general, is deductive, because the truth of the premises guarantees the truth of the conclusion:
+
+The members of the Williams family are Susan, Nathan and Alexander.
+Susan wears glasses.
+Nathan wears glasses.
+Alexander wears glasses.
+Therefore, all members of the Williams family wear glasses.
+
+Moreover, the following argument, even though it reasons from the general to specific, is inductive:
+
+It has snowed in Massachusetts every December in recorded history.
+Therefore, it will snow in Massachusetts this coming December.
+
+|Internet Encyclopedia of Philosophy|Deductive and Inductive Arguments|[http://www.iep.utm.edu/ded-ind/ Deductive and Inductive Arguments]}}
+ 
+&mdash;&nbsp;[[User:Philogo|Philogos]] ([[User talk:Philogo|talk]])  22:47, 31 July 2011 (UTC)
+
+::As Kusername has explained below, the "counterexamples" given by the Internet Encyclopedia of Philosophy do not really work the way its author intended, and they fail to demonstrate why the usage in question is supposed to be outdated. Given that the Internet Encyclopedia of Philosophy is the lone reference supporting the usage being outdated, and this reference itself admits that this "outdated" usage is common, I find it hard to justify in the Wikipedia article that the usage is indeed clearly outdated, without further qualification. In fact, to me personally it seems more likely that the usage is not outdated at all, and that the author of the Internet Encyclopedia of Philosophy is simply confused about the matter. However, given that the Internet Encyclopedia of Philosophy is a reference, rather than simply deleting the offending passage I have weakened it to show that there are dissenting opinions on the matter. [[User:Elanguescence|Elanguescence]] ([[User talk:Elanguescence|talk]]) 12:03, 23 February 2014 (UTC)
+
+== False examples of deduction and induction in a citation. ==
+
+Directly above, the citation says, "Some dictionaries define ''deduction'' as reasoning from the general to specific, and ''induction'' as reasoning from the specific to the general. While this usage is still sometimes found even in philosophical and mathematical contexts, for the most part, it is outdated.
+
+"For example, according to the more modern definitions [...], the following argument, even though it reasons from the specific to general, is deductive, because the truth of the premises guarantees the truth of the conclusion: ''The members of the Williams family are Susan, Nathan, and Alexander. Susan wears glasses; Nathan wears glasses; Alexander wears glasses. Therefore, all members of the Williams family wear glasses''.
+
+"Moreover, the following argument, even though it reasons from the general to specific, is inductive: ''It has snowed in Massachusetts every December in recorded history. Therefore, it will snow in Massachusetts this coming December''".
+
+Really, its having snowed in Massachusetts every December in recorded history ''is'' specific, not general.  This example is induction because it reasons from the specific to, in fact, the general, but merely leaves the general law silent.  The example really says, "It has snowed in Massachusetts every December in recorded history. [Thus it is a general law that it always snows in Massachusetts in December.]  Therefore, it will snow in Massachusetts this coming December".
+
+Without the silent general law—the induction—there is absent basis for the word ''therefore'' connecting past events to current prediction.  So the second example is induction (specific to general), and then deduction (general to specific).
+
+The first example is less blatantly confused.  Yet if we observe these three individuals—Susan, Nathan, Alexander—there is no confirmation that these three individuals are the entire family.  No specific observation or any practically attainable collection of specific observations, barring an ability to experience every specific event in all of reality, verifies the truth of falsity of this premise.  So it's a general law defining ''members of the Williams family'', defining all other individuals, besides these three, as "not members of the Williams family".  And ''if'' this general law is true, we can deduce the truth or falsity of a conclusion—about the entire Williams family—via specific observations.
+
+In this first example, the specific observations—whose truth or falsity is experienced in the observations themselves—is the second set of premises, namely whether each individual wears glasses.  We then reference the general law—that the three individuals are the entire family—to deduce that all members of the family wear glasses.  Without this general law limiting the domain of the Williams family, there would be no deduction, just induction, about the entire family upon the specific observations of these three individuals wearing glasses.
+
+In sum, there is indeed more to the distinction between induction versus deduction than merely the direction of interference—either ''specific to general'' or ''general to specific''—yet the direction itself yields the greater distinction.  Induction is inference from specific observations to a presumed general law that merely ''appears likely'' to the observer.  Deduction is application of a presumed general law whereby, ''if the general law is true'', the truth of the conclusion is necessary.
+
+I suspect some sentimental agenda—characteristically human even among scholars—to elevate one element as ''the truth'' and subjugate the other.  Both deduction and induction have their proper applications, however.  Merely, an induction ought to not be treated as a deduction, and a deduction ought to not be regarded as irrefutable.  Neither induction nor deduction is foolproof, for a general law's infallibility is not verified by any specific observation.  A general law's infallibility remains theoretical (conceived), not empirical (observed).  In practice it is exceedingly difficult to wholly disentangle deduction from induction, as humans necessarily operate upon presumed general laws.
+
+Yet the infallibility of a general law premising a deduction is ultimately an induction itself.  Upon the general law that when one fails to detect one's motion, one is motionless, it was once deduced, viz-a-viz specific and unfailing observations, that the Sun revolves around the Earth.  This deduction was not meaningless babble of the ignorant—and it had its usefulness to structure and maintain the socioeconomic hierarchy called [[feudalism]]—just illustrates the limitation of empiricism altogether.  Neither induction nor deduction is foolproof.
+
+[[User:Kusername|Kusername]] ([[User talk:Kusername|talk]]) 09:32, 7 August 2011 (UTC)
+
+Edit: The decemberexample is general, not particular. "For all x, if x is a day and occured in a past december, x was snowy" is, as far as I see, a correct formalization of the statement.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/194.239.25.159|194.239.25.159]] ([[User talk:194.239.25.159|talk]]) 12:36, 19 November 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:: Your rule is general, but it is not the rule that is implicitly used in the example - a day x in the coming December has not occurred in a past December, so there would be no way to use your rule to draw any conclusions about snow in coming Decembers. 
+::The December example as given has two steps, first an inductive one and then a deductive. The example says: "It has snowed in Massachusetts every December in recorded history." That means, we have a record of specific past Decembers, and each of these specific Decembers happened to be snowy. From this record of specific observations we now inductively conclude the existence of a general rule: "It always snows in Massachusetts in December." Kusername put this rule into brackets, because the example does not state it explicitly, but nevertheless this rule is implicitly assumed to exist and it is used in the next step, which would not be possible otherwise: "Therefore, it will snow in Massachusetts this coming December." This second step is deductive, but it is based on a rule that we gained by induction, by going from the specific to the general. Thus the example first uses induction to go from the specific to the general, and then it uses deduction to go from the (inductively inferred) general to the specific.[[User:Elanguescence|Elanguescence]] ([[User talk:Elanguescence|talk]]) 12:18, 23 February 2014 (UTC)
+
+== Inductive reasoning vs inductive arguments ==
+
+As someone who has never taken a course in logic, the first sentence is extremely unhelpful. To me it could as easily read, "Kraft brand Macaroni and Cheese is macaroni combined with cheese, sold under the Kraft brand name." Can anyone write an introductory sentence that doesn't seem so circular? A similar complaint was made on the discussion page for the [[Deductive Reasoning]] article, section 'Awful First Page'. [[User:Vikingurinn|Vikingurinn]] ([[User talk:Vikingurinn|talk]]) 09:03, 14 August 2011 (UTC)
+
+I agree, the article is not well-written. Specifically, I would like to request a less vague definition in the introduction. From what I've now read elsewhere, it seems to me that a more concise definition of the term "induction" might be something along the lines of: "a generalization that has never been shown to be false." For instance, "all observed swans are white, hence all swans are white". This was a valid inductive argument as long as the premise "all observed swans are white" held true. But the moment that someone discovered a [[black swan]], the argument became invalid. Any objections to this definition? (If not, it's only a matter of [[WP:V|sourcing]] it.) --[[User:Anders Feder|Anders Feder]] ([[User talk:Anders Feder|talk]]) 16:12, 18 August 2011 (UTC)
+
+== Unclear examples ==
+
+Are all 3 of the following , taken from the article, examples of inductive reasoning
+"This is an example of inductive reasoning:
+90% of humans are right-handed.
+Joe is a human.
+Therefore, the probability that Joe is right-handed is 90%. (See section on Statistical syllogism.)
+Probability is employed, for example, in the following argument:
+Every life form we know of depends on liquid water to exist.
+All life depends on liquid water to exist.
+However, induction is employed in the following argument:
+Every life form that everyone knows of depends on liquid water to exist.
+Therefore, all known life depends on liquid water to exist."  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/184.12.9.34|184.12.9.34]] ([[User talk:184.12.9.34|talk]]) 06:01, 22 February 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== the cited biases are not specific to induction ==
+
+A citation is needed because the cited biases are not specific to induction  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Albertttt|Albertttt]] ([[User talk:Albertttt|talk]] • [[Special:Contributions/Albertttt|contribs]]) 11:20, 3 March 2012 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Inductive definition excludes induction but is deductive...round and round we go ==
+
+"Note that this definition of inductive reasoning excludes mathematical induction, which is considered to be a form of deductive reasoning."
+
+Huh? More context or explanation is needed.
+[[Special:Contributions/67.172.162.207|67.172.162.207]] ([[User talk:67.172.162.207|talk]]) 22:10, 20 June 2012 (UTC)
+
+:the phrase "mathematical induction" is a misnomer. it's not using inductive reasoning, but rather it's using deductive reasoning. it's just called mathematical induction.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.19.102.88|76.19.102.88]] ([[User talk:76.19.102.88|talk]]) 00:37, 27 July 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== "Inductive vs. deductive reasoning" ==
+
+As already objected above, here, too the reference is not verifyable. The sentence, "Unlike deductive arguments, inductive reasoning allows for the possibility that the conclusion is false, even if all of the premises are true." could not be fathomed in the adduced "John Vickers. [http://plato.stanford.edu/entries/induction-problem/ The Problem of Induction]. The Stanford Encyclopedia of Philosophy)".[[Special:Contributions/195.4.79.241|195.4.79.241]] ([[User talk:195.4.79.241|talk]]) 14:25, 7 December 2012 (UTC)
+
+== liquid life example ==
+
+Hi,
+I just wanted to say that as an animist I take great offence to the example, 100% of life forms are based on liquid water. 
+Since in the animist, or traditional view of the world, many things are alive, including stars, rocks, and even computers.  
+It is also the case that in other religions such as Christianity, Islam and whichever that have spiritual life forms such as God, Angels and the like. 
+
+So that example of "100% of life forms" really Only applies to materialist atheist world-view which is a tiny percentage of the population.  
+
+Perhaps there are some better examples that can be made?  Or perhaps it can be made more specific 100% of known Biological life forms are based on h2o.  
+
+[[User:Elspru|Elspru]] ([[User talk:Elspru|talk]]) 14:24, 25 April 2013 (UTC)
+<small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Elspru|Elspru]] ([[User talk:Elspru|talk]] • [[Special:Contributions/Elspru|contribs]]) 14:22, 25 April 2013 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+Also the wikipedia page on [[life form]],  specifies many different kinds of life, including technological, and spiritual. So I've gone ahead and specified biological life forms, to maintain consistency. 
+[[User:Elspru|Elspru]] ([[User talk:Elspru|talk]]) 14:34, 25 April 2013 (UTC)
+
+==August 2013==
+I am surprised the paragraph in the introduction about science and human knowledge coming entirely via induction didn't get removed in '09. This paragraph also seems to contradict other pages on wikipedia with overlapping subject matter (eg. the one on the history of the scientific method). However, there are other pages that support it without citation (eg. the criticism section of the page on falsifiability). '''I think this paragraph should be removed'''. It is false (or at the very least controversial); its appearance in the introduction is unnecessary and inappropriate, especially stated as a matter of fact. Actually, the whole introduction seems only vaguely concerned with defining and explaining inductive reasoning and more about defending its validity. It is false because it says (1) theories come from observations and (2) that makes them probably right. As for (1), there is no restriction on the source of theories. Theories are not equivalent to predictions. The curvature of space is not a prediction but an explanation from which predictions may be worked out. As for (2), science cannot demonstrate this. Observations (and science) can eliminate some or all relevant, contending theories. They cannot make theories probably right. If we test three theories on a prediction that they make, and find two which make the same prediction to both give the correct prediction (for different reasons, say newtonian vs einsteinian gravity predictions). They are not some how simultaneously ''both'' probably right - observations cannot speak to this.
+--[[User:Cauzality|Cauzality]] ([[User talk:Cauzality|talk]]) 22:05, 16 August 2013 (UTC)
+:The section was in fact only added about a week ago. However, it is no longer in the article, so your wishes have been fulfilled. :-) [[User:Arc de Ciel|Arc de Ciel]] ([[User talk:Arc de Ciel|talk]]) 03:49, 18 August 2013 (UTC)
+::I see, it seems similar to what they were discussing before I guess. But the paragraph I was complaining about is the third one, starting: "Even though inductive reasoning may initially appear weaker than deductive reasoning...". I still see it in the article.--[[User:Cauzality|Cauzality]] ([[User talk:Cauzality|talk]]) 01:57, 19 August 2013 (UTC)
+:::Let's take this one sentence at a time.  What's wrong with the first sentence?  "Even though inductive reasoning may initially appear weaker than deductive reasoning (because its reasoning is not deductively valid), in fact inductive reasoning is the basis for most of what we know."  The bit before the comma seems uncontroversial.  As for the second part, I would change the last word to "learn" to avoid a tricky debate about how to define knowledge.  [[User:Logical Cowboy|Logical Cowboy]] ([[User talk:Logical Cowboy|talk]]) 02:23, 19 August 2013 (UTC)
+:::<small>Interjection - oops, I'm sorry. You are correct that it's still in the article - I misread the page history for some reason. :-) I would agree with LC's suggested change in the previous comment. I am about to leave Wikipedia for a while ("wikibreak"), but I'm sure the other editors here will be able to answer your concerns. [[User:Arc de Ciel|Arc de Ciel]] ([[User talk:Arc de Ciel|talk]]) 02:41, 19 August 2013 (UTC)</small>
+::::Nothing before the first comma really is an issue thanks to the words 'may' and 'appear', so it's a subjective statement. What remains of the first sentence really depends on the unsupported claim in the second sentence (namely, its first clause). The last (third) sentence depends on this same part of the second sentence as well, so it really all boils down to the clause in the second sentence, "Science... works from inductive reasoning". That is were it all goes wrong. This isn't just about inductive reasoning as logic considered in isolation, but as a philosophy of how science is done (which is why it is superfluous to the article, really). But it is also wrong ([[Karl_Popper#Falsification.2Fproblem_of_induction|see]], [[Problem_of_induction#Karl_Popper|and]]). Now, I know this next part isn't a good argument as it is an appeal to authority, but...: Apparently [[Falsifiability#Contemporary_philosophers|many philosophers reject or ignore Popper]], yet other people do not. [[Falsifiability#Use_in_courts_of_law|Courts recently have used Popper's falsifiability as a litmus test for science]].--[[User:Cauzality|Cauzality]] ([[User talk:Cauzality|talk]]) 16:50, 19 August 2013 (UTC)
+::::: I take issue with this whole paragraph too, but sticking to the first sentence: "Even though inductive reasoning may initially appear weaker than deductive reasoning (because its reasoning is not deductively valid)" -- this is completely circular, it just says that induction is seems worse than deduction because it is not deduction. I think what it probably means to say is something like "because induction produces probabilistic (uncertain) answers whereas deduction gives definitive (certain) conclusions" [[User:Jrht2013|Jrht2013]] ([[User talk:Jrht2013|talk]]) 09:33, 21 August 2013 (UTC)
+::::: Just to add another brief point: the claim that we know the sun will rise tomorrow due to inductive reasoning: this presumably is referring to the [[Sunrise problem]] as a famous example of [[Laplace]]'s "rule of succession" (which is an example of inductive reasoning). It could at least link to the appropriate wikipedia page. But also, from [[Sunrise problem]]: "The sunrise problem illustrates the difficulty of using probability theory when evaluating the plausibility of statements or beliefs." -- hardly supports the statement in the paragraph we are discussing. [[User:Jrht2013|Jrht2013]] ([[User talk:Jrht2013|talk]]) 09:41, 21 August 2013 (UTC)
+
+:::::I've had a go at re-phrasing it to sound less subjective whilst maintaining what I think was probably the intended meaning of the paragraph in question, and also keeping it brief and I think relatively to-the-point. I also thought it was a bit strange that the introduction doesn't mention Bayesianism at all even though that is (I think) the most obvious modern form of inductive reasoning.
+:::::
+:::::Inductive reasoning is sometimes used as a model in both [[philosophy of science]] (to explain how scientific knowledge is obtained) and [[psychology]] (to explain how humans learn about their environments). For example, the 18th and 19th century mathematician [[Pierre-Simon Laplace]] used a form inductive reasoning to quantify the probability that the sun will rise tomorrow --  a question now known as the [[sunrise problem]]. In the 20th century, statisticians such as [[Harold Jeffreys]] argued that observed evidence raises or lowers the probability of a scientific hypothesis being true in accordance with [[Bayes' theorem]] (see [http://www.jstor.org/stable/2182402?seq=1 here]), a philosophical position known as [[Bayesianism]]. Similarly, Bayesianism (being a specific type of inductive reasoning) features in some modern theories of cognition (see [http://onlinelibrary.wiley.com/doi/10.1002/wcs.80/abstract here]) and [[Bayesian brain|brain function]].
+:::::
+:::::[[User:Jrht2013|Jrht2013]] ([[User talk:Jrht2013|talk]]) 10:48, 21 August 2013 (UTC)
+::::::I would be happy with your version of the paragraph. --[[User:Cauzality|Cauzality]] ([[User talk:Cauzality|talk]]) 02:03, 22 August 2013 (UTC)
+::::Cauzality, so it seems your problem is not with the whole paragraph, but just with that one sentence about science.  I agree that it is imprecise.  Jrht2013, your proposed para seems fine to me.  With that said, I would like to retain the first sentence of the old para, or your rewrite of it.  Differences between induction and deduction is something that many readers of this article will want to learn about, so it is better to say something about that in the intro.  [[User:Logical Cowboy|Logical Cowboy]] ([[User talk:Logical Cowboy|talk]]) 12:35, 21 August 2013 (UTC)
+:::::Mostly, yes. The other two sentences are wrong too in my opinion since they are really about 'science' thought they instead say 'inductive reasoning' (IR). It's the second that says IR = science. If they said: most of what we know is based on science; our expectation of tomorrow's sunrise is based on science; and, IR is ''claimed'' to be how science works, that would be fine. But they say most of our knowledge and our expectation of future sunrises are based on IR. I just feel they would fall with the second sentence (ie. science = IR).
+:::::I agree with your appreciation of how other readers will approach the article in regard to comparisons with deductive reasoning. I think we might be at a decent level of agreement here. --[[User:Cauzality|Cauzality]] ([[User talk:Cauzality|talk]]) 02:03, 22 August 2013 (UTC)
+So... how can we change the paragraph to that of Jrht2013. Everytime I tried to change this page before it was reverted almost instantly (new to contributing to wikipedia)? Also, what about a new statement/paragraph comparing induction and deduction, as Logical Cowboy supported? I doubt I'm the best to do this. --[[User:Cauzality|Cauzality]] ([[User talk:Cauzality|talk]]) 12:52, 27 August 2013 (UTC)
+
+== Mathematical Induction? ==
+
+[[Mathematical induction]] is treated as separate, but if maths is based on logic, mathematical induction should be an example of inductive reasoning, and should not (if this article is correct) produce certain conclusions.--[[User:Jack Upland|Jack Upland]] ([[User talk:Jack Upland|talk]]) 06:56, 4 August 2014 (UTC)
+:After the invention and labeling of [[Mathematical induction]], the discussion about how "deduction" and "induction" should best be understood went on. Today, mathematical induction is no longer categorized as induction, but for historical reasons kept its name. Just read the introduction to [[Mathematical induction]]. It says there "Although its namesake may suggest otherwise, mathematical induction should not be misconstrued as a form of inductive reasoning (also see Problem of induction). Mathematical induction is an inference rule used in proofs. In mathematics, proofs including those using mathematical induction are examples of deductive reasoning and inductive reasoning is excluded from proofs." --[[User:Arno Matthias|Arno Matthias]] ([[User talk:Arno Matthias|talk]]) 12:12, 4 August 2014 (UTC)
+::Interesting aspects mentioned here. How about the use of finite [[enumerative induction]] such as [[proof by exhaustion]] in mathematical proofs? Unlike proof by exhaustion, mathematical induction is a form of a infinite (number of cases) [[complete induction]]. These aspects should be mentioned in article.--[[Special:Contributions/5.2.200.163|5.2.200.163]] ([[User talk:5.2.200.163|talk]]) 16:03, 23 January 2018 (UTC)
+
+== making instrumentalism relevant ==
+
+I invite comments on a proposed revision of [[Instrumentalism]], incorporating the conflicting roles of Popper and Dewey in defining the movement and its dependence on induction, and showing current practice of those roles.  See talk: [[Instrumentalism]], entries 20 and 21.[[User:TBR-qed|TBR-qed]] ([[User talk:TBR-qed|talk]]) 19:32, 13 September 2014 (UTC)
+
+== This Article Is Completely Enslaved to an Ancient Notion of Certainty ==
+
+Since the time of Plato, philosophers held that for a belief to qualify as Knowledge, it had to meet a standard of faultlessness they called "Certainty". This was done by philosophers as a means of pre-emptively silencing any and all would-be critics, by proving a means by which philosophers could impugn critics' intelligence. With the emergence of Modern-Era Science and its all-too-obvious success, Philosophy's too-narrow conception of Knowledge threatened to render Philosophy laughably irrelevant and solopsistic. John Locke endeavored to resolve this issue by first, dropping the term "Knowledge" in favor of the more flexible term "Understanding," and then boldly arguing the all such Understanding was based on sense experience and powers of the mind/induction. However, the world was not ready for Locke, and David Hume reversed all of Locke's progress by reinstating the sclerotic standard of certainty whose pedigree can be traced back to Parmenides. The failure to recognize this critique of Induction as the reneging on the 2,000 years of human progress that it is just shows how powerful the God of Absolute Certainty truly is.
+[[User:Trentamj|Trentamj]] ([[User talk:Trentamj|talk]]) 19:08, 1 April 2015 (UTC)Trentamj
+: Well, are you going to profess to know when one does NOT know? [[User:MaynardClark|MaynardClark]] ([[User talk:MaynardClark|talk]]) 02:39, 2 April 2015 (UTC)
+I fail to see how a fair reading of my above-made point regarding the relative limits of knowledge and understanding between Ancient and Modern Philosophy can be fairly interpreted by anyone as my somehow making a self-contradictory claim to unjustified confidence in my own beliefs. The conventional premise that one’s beliefs must be <i>entirely</I> certain in order to claim that they are items of knowledge is, I submit, a die-hard retrogressive one, inasmuch as it expresses the DNA of the Ancient Greeks' quasi-religious (read: <i>absolutist</i>) notion of Knowledge as <i>Sophia</i>. I apologize in advance if I misinterpreted your comment. Its brevity simply leaves too much room for a <i>wide</i> array of understandings. [[User:Trentamj|Trentamj]] ([[User talk:Trentamj|talk]]) 19:46, 2 April 2015 (UTC)Trentamj
+
+== Bad "Description" section ==
+
+It's "WTF?"-level bad.  This section is basically nonsensical. It uses a fake example, with a made-up 90% figure that came out of nowhere and isn't applicable, then tries to apply it to reality with a "we could have used this statement" hypothetical, then extrapolates from this that the "all" version is functionally equivalent to the "90%" version. It's frankly shameful and embarrassing that a WP article on a basic concept in logic is farcically illogical.  Here's a directly analogous rewrite showing how dead-wrong this section is:  "We could say that '73.5% of all cats are not neon green, thus any new cat breed probably will not be neon green.' We could have applied this to each newly discovered or developed cat breed, and since none of them turned out to be neon green, this means we can extrapolate from this reasoning to 'No cats are neon green, thus any forthcoming breeds will probably not be neon green'."  The real-world conclusion does not relate in any way to the fictional premise, and has nothing to do with whether the fictional premise could have been applicable to real-world data.  I can also posit that there's a 90% chance that respondents to this post will not be alien space gods, but that has F-all to do with whether and why "Since we have no evidence of alien space gods, odds are that the next poster will not be one" is valid inductive reasoning. <span style="white-space:nowrap;font-family:'Trebuchet MS'"> — [[User:SMcCandlish|'''SMcCandlish''' ☺]] [[User talk:SMcCandlish|☏]] [[Special:Contributions/SMcCandlish|¢]] ≽<sup>ʌ</sup>ⱷ҅<sub>ᴥ</sub>ⱷ<sup>ʌ</sup>≼ </span> 21:38, 1 January 2016 (UTC)
+:Stop moaning, start improving. --[[User:Arno Matthias|Arno Matthias]] ([[User talk:Arno Matthias|talk]]) 14:01, 2 January 2016 (UTC)
+
+== Fuzzy logic ==
+
+Every swan I have ever seen was white therefore I expect that all swans are white is an example of fuzzy logic not inductive reasoning. Inductive reasoning tells you whether something is a reasonable possibility or not. It is based on cause and effect. The example of what killed the dinosaurs is a perfect example of inductive reasoning. [[User:Just granpa|Just granpa]] ([[User talk:Just granpa|talk]]) 11:28, 9 March 2016 (UTC)
+
+== This article is full of weasel words that induction produces nothing more than logical fallacies. ==
+{{hat|Please see [[WP:FORUM]]. Talk page comments should be directly relevant to improving the article.}}
+It seems like we've got a whole bunch of people here that need to go and actually do some coursework on methods, then to stop by and realise like Guba and Lincoln implored the rest of the scientific community in the 1970s roughly 50 years ago now that not all problems in life can be or should be solved with objectivity when there is so much subjectivity in life and the objectivists are missing out on the rainbow. Personal anecdote: Meeting a psychologist whose mind exploded when they were told about [[neuroplasticity]] the first time because it didn't fit in their black and white box that the brain in certain circumstances can actually regenerate itself. They soon developed a good case of [[chicken little|chicken little syndrome]] and that was the end of that discussion in a matter of brevity.{
+
+You're simply missing out and should then come back here with a refreshed view on the matter once you've actually been out there, been to school and studied methods as you should have done at some point in your post-graduate career and then you should come back with a refreshed and rationalised world view. The force of the objectivists is strong on this one. I would quite like to see an objectivist quantify their reasoning on life matters such as "how to prepare a three course meal for a wide range of people with differing opinions about Neoconservatism, Communism and Rastafarianism.' Of course that is nothing more than an absurdism but you get the point. Seriously we can't solve the entire worlds problems with scientific objectivism. Some people need to get a grip. It is none the less fun to sit back and watch the brains of objectivists fall out of their heads if you can't quantifiably measure a social experiment as per above. It's like your parents took away all your fun toys as kids and put you in an electroshock box with nothing other than trigonometry papers. Objectivists seriously have no chill sometimes. 
+
+Please take this as a light hearted dig rather than a serious attempt at [[Wikipedia:BADFAITH|bad faith]]  and more so please see this as a reminder of what you're missing out on when you choose to give up life's subjectivism. --[[Special:Contributions/1.120.150.50|1.120.150.50]] ([[User talk:1.120.150.50|talk]]) 02:23, 17 March 2016 (UTC)
+{{hab}}
+
+==cause-and-effect==
+
+What is the difference between "if A is true then that would cause B, C, and D to be true" and "if A is true then by the laws of cause-and-effect B, C, and D will necesarily be true"? If not by the laws of cause-and-effect then by what for Gods sake? [[User:Just granpa|Just granpa]] ([[User talk:Just granpa|talk]]) 21:57, 21 October 2016 (UTC)
+
+:The former sentence avoids the terms "law" and "necessarily"; this was the motivation for me to restore it on 12 Oct. Following e.g. [[David Hume#Induction and causation]], I think these terms shouldn't be used in the context of inductive reasoning. - [[User:Jochen Burghardt|Jochen Burghardt]] ([[User talk:Jochen Burghardt|talk]]) 23:02, 21 October 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Inductive reasoning]]. Please take a moment to review [[special:diff/810140993|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20070927003210/http://www.uncg.edu/phi/phi115/induc4.htm to http://www.uncg.edu/phi/phi115/induc4.htm
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 15:40, 13 November 2017 (UTC)

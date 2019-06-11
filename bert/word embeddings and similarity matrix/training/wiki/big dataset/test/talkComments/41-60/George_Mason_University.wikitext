@@ -1,0 +1,372 @@
+{{Talk header}}
+{{WikiProjectBannerShell|1={{WikiProject Universities|class=C}}
+{{WikiProject Virginia|class=C|importance=high|northern virginia=yes}}
+}}
+{{to do}} 
+{{WikiProject Spoken Wikipedia|George_Mason_University.ogg}} 
+{{oldpeerreview}} 
+{{afd-merged-from|George Mason University Press|George Mason University Press|12 June 2013}}
+{{Connected contributor (paid)|User1=Kathydodd|U1-employer=[[George Mason University]]|U1-EH=yes|U1-otherlinks=[[Special:Diff/712915644]]}}
+{{User:MiszaBot/config
+| algo=old(365d)
+| archive=Talk:George Mason University/Archive %(counter)d
+| counter=1
+| maxarchivesize=75K
+| archiveheader={{Automatic archive navigator}}
+| minthreadsleft=5
+| minthreadstoarchive=2
+}}
+==Notable Faculty==
+[http://www.gmu.edu/robinson/faculty.htm] All of these professors should be included as notable faculty. Some are already there. Trefil and Hazen for example are regarded very highly in their respective fields. If you noticed, Trefil already has his own wikipedia page, thus showing that he is a recognized person.
+
+==GMU Police==
+Another prominent aspect of GMU is the seemingly ubiquitous presence of the GMU Police.. there is a ratio of approximately 1 officer per 135 resident students. [[User:Thc420|Thc420]] 05:22, 8 Feb 2005 (UTC)
+
+Thats common of all universities. [[User:Agriculture|Agriculture]] 05:43, 8 Feb 2005 (UTC)
+
+==Final Four==
+I am deleteing the sentence "In what is regarded as the greatest upset in NCAA history"... it happend all of three hours from the time that I am writing this, there is absolutley no way someone can objectively make that statement. It's a great accomplishment, but to make that claim only hours after the accomplishment its ridiculous.
+
+==Mid Majors in Final Four==
+
+There was a statement that said they were the first mid-major since 1979 to be in the Final 4, when Penn made it as a #9 seed. This is not true, there have been a handful of "mid-majors" (or for argument's sake, teams not from one of the 6 BCS conferences) to have made the Final 4 since 1979, they were just all #1 seeds so it wasn't such a surprise that they did it. Indiana St. did it as a #1 (also in 1979), so did UNLV in 1990/91, as did UMass in 1996. There are others but I'm pretty sure they are in BCS conferences now if they weren't at the time of their Final Four appearance. I changed it to "the first team from a mid-major conference that was not seeded #1 to reach the Final Four since 1979, when Penn reached as a #9 seed."
+
+[[User:marcusmv3|marcusmv3]] 12:58, 28 March 2006
+
+== are you illiterate ==
+
+anita bath = i need a bath
+{{hab}}
+
+== GMU Presidents Past and Present ==
+
+Under the Presidents Past and Present section, "George W. Johnson, (1978-1996)" links to a page on George Washington Johnson, an African-American singer and song recording artist who died in 1914.  The correct "George W. Johnson" is George William (not Washington) Johnson, who was born in 1928.
+
+== University Housing ==
+The current copy says that student housing for 700 students opened in 1986. This is incorrect. I started at GMU in 1981 and the student apartments were already open. In the fall of 1982 I moved into the 2nd dorm building when it opened (Dominion Hall, Commonweath Hall had already opened).
+
+== Upper level academic programs ==
+
+I added a small section about the Honors Program in Gen. Ed. and the University Scholars program because I feel that in the coming years they will become more and more well known.  It is also useful for those using Wikipedia for admissions info.
+
+== "Slaveowner" ==
+It was suggested that I bring this to the talk page, so I will. 
+
+The repeated addition of "slaveowner" and removal of more relevant information, like the fact that George Mason authored the document that the Bill of Rights was based on, is not appropriate for this article. The topic of this article is the university, not whether the namesake owned slaves, which is entirely irrelevant to why the school is named for him, and not anywhere near one of the most notable things about him. Per WP:LEAD, the lead should summarize the body, and the body is, again, about the university. This needs to be corrected. [[User:Natureium|Natureium]] ([[User talk:Natureium|talk]]) 19:12, 15 May 2018 (UTC)
+{{Automatic archive navigator}}
+
+==Student Government==
+
+I removed the section on Student Government as it dealt mainly with interaction regarding one specific student. If Student Government sections are common to University articles on Wikipedia, I propose limiting the section in this article strictly to the structure of student government as a compromise. [[User:Hiberniantears|Hiberniantears]] 18:12, 24 May 2005 (UTC)
+
+== Largest university? ==
+
+The opening segment states that GMU is the largest public university in the Commonwealth of Virginia with an enrollment of over 29,000; however, the Virginia Commonwealth University article states that it is the largest with an enrollment of over 31,000.  Could somebody please look into this?  Thanks.
+[[User:Dcteas17|Daniel]] 23:15, 7 March 2006 (UTC)
+
+I just checked the Collegeboard.com profiles for GMU and VCU, which states the enrollment of the two schools as 28,242 an 25,961, respectively. Consulting the two schools' websites, GMU stated 29,728, while I could only find "more than 29,000" students for VCU. So, I think that unless someone digs up the hard numbers for VCU (which I'm too lazy to do), the article should stay as it is.[[User:Bloodsorr0w|Preston]] 08:00, 19 March 2006 (UTC)
+
+:GMU enrollment figures can be found here [http://www.gmu.edu/vcenter/masonfacts/].  This is a true total, including graduates and the law school.  A comparable enrollment total for VCU can be found in this pdf file [http://www.vcu.edu/ireweb/student/studemo05.pdf], via this webpage [http://www.vcu.edu/ireweb/factbook.html]. Based on these sources, the totals come to:
+::*GMU has 29,728 for 2005-2006
+::*VCU has 29,349 for 2005-2006
+
+:GMU is larger by a handful. It could easily change. -- [[User:Vector4F|Vector4F]] 21:47, 21 March 2006 (UTC)
+
+::Impressive work. Thanks for the information. [[User:129.174.180.4|129.174.180.4]] 01:27, 22 March 2006 (UTC)
+
+== Need to consolidate athletics info ==
+
+It's at the top of the article and in the article below under the "Athletics" header.  I'm too tired to work on this right now, but thought it was worth pointing out.
+
+--[[User:24.125.147.87|24.125.147.87]] 09:43, 28 March 2006 (UTC) 
+
+
+==Alumni Section==
+Should Karl Rove and Anna Escobedo Cabral be listed in the alumni section?
+I think they should be taken out of the article. 
+
+*Perhaps they should be listed as notable former students? [[User:Hiberniantears|Hiberniantears]] 13:57, 17 January 2006 (UTC)
+
+* I'd rather have the list indicate some are former students. Alumni means you graduated. It should still be noted that Rove attended, though. --[[User:Skynet|Skynet]] 21:21, 28 April 2006 (UTC)
+
+** An alumnus, according to the dictionary definition is "(in Latin a masculine noun) [which] refers to a male graduate or former student. (From wikipedia, of course). Technically, by this definition, a former student is also an alumnus.
+
+== Unnecessary Information ==
+I think there are some unnecessary information that are presented in the article.
+1) Admission section is unnecessary and should be taken out since wikipedia article is not a promotional material for potential students. 
+2) There should be some standard for putting names in the famous alumni section. Meteorologist for the local television station is a hardly notable and need to identify who has graduated from GMU and only attended classes at GMU. The section is titled as Notable Alumni and former students but most university wikipedia articles do not have a section for former students and I think it should just include students who have graduated from the university.([[User:68.98.148.173|68.98.148.173]] 02:11, 13 May 2006 (UTC))
+
+* Shouldn't it be noted that Karl Rove attended? How would you include this information? --[[User:Skynet|Skynet]] 22:08, 12 May 2006 (UTC)
+* I added admissions for a class profile, which how I listed it was more practical information on the process, but it has since been cleaned up to be a class profile, which it is better suited for.
+
+== Condense Campus Information ==
+Should Each campus have its own page with information on separate points of interest (particularly Fairfax), to remove some clutter and condense the information?
+
+* Do any of the other universities use this type of format? --[[User:Skynet|Skynet]] 00:29, 29 May 2006 (UTC)
+
+==GMU Alumni & Students==
+Add "Category:Wikipedians by alma mater: George Mason University" to your user pages! [[User:Hiberniantears|Hiberniantears]] 15:09, 23 December 2005 (UTC)
+:Yes, see Mason's category page [http://en.wikipedia.org/wiki/Category:Wikipedians_by_alma_mater:_George_Mason_University] for how to associate yourself with the school on Wikipedia.--[[User:Joshua4|Joshua4]] 10:02, 11 September 2006 (UTC)
+
+== Krasnow "Nobel" claim ==
+One assumes they are referring to economists Buchanan and V. Smith, but I don't believe either of them is actually affiliated with Krasnow.  Having attended one conference there doesn't equate to housing them.  Buchanan works in Buchanan House, though he is soon to retire, while Vernon Smith's office is on the Arlington campus.  I am thus striking the Nobel claim from the picture caption.  [[User:Jjb|Jjb]] 06:19, 7 April 2007 (UTC)
+
+== Student Organizations ==
+
+[[image:NonFreeImageRemoved.svg|thumb|I think this should be used for the Organizations section]]Why is a picture of the Broadside representative of the student organizations?  If a picture is used, it should be something more generic, like Student Activities or the Program Board .<br>
+The Club sports list is also hard to read.  Someone with more editing experience should make it a two or three column list.  [[User:Andrew.in.snow|Andrew]] 22:57, 26 November 2006 (UTC)
+
+:I think we should use the SA logo, then.  PB isn't all-inclusive. [[User:Omgitsmonica|Omgitsmonica]] 22:33, 25 April 2007 (UTC)
+
+==University logo==
+I originally came to this talk page to alert the editors that I was going to tag the seal at the top of the infobox as having no fair use rationale.  However, as I did a little research, I found that it's not GMU's ''official'' logo; the one at the bottom of the infobox is. See [http://logo.gmu.edu/webguide/ here] and [http://logo.gmu.edu/index.html#seal here] for what I'm talking about. Given that the university has very clear standards for what constitutes proper usage of its logos, I'd wager that the only way you could properly claim fair use is to use that official logo to represent GMU. With that in mind, I [[WP:BOLD|boldly]] uploaded an [[:Image:GMU logo.svg|SVG version of the bottom logo]] and moved it to the top of the infbox. Obviously if you (the regular editors) feel differently, you can change it back.  However, I do think you'll have a hard time justifying it as fair use. Cheers! [[User:Esrever|Esrever]] 16:08, 18 July 2007 (UTC)
+
+==Karl Rove==
+
+I seem to recall that Karl Rove was a student at GMU for a period of time (graduate work). Can anyone confirm this? [[User:Hiberniantears|Hiberniantears]] 14:10, 27 October 2005 (UTC)
+
+:So the story goes.  See [[Karl Rove]]. --[[User:Vector4F|Vector4F]] 04:08, 21 December 2005 (UTC)
+:Considering the controversy surrounding Karl Rove, I'm not sure if that's something the school should advertise...[[User:Joshua4|Joshua4]] 09:20, 6 September 2006 (UTC)
+::I'm not sure you should advertise how slanted you are. --[[User:Haizum|<b>Haizum</b>]] <b>   μολὼν λαβέ</b> 08:18, 20 August 2007 (UTC)
+
+{{hat|This appears to be spam.}}
+==Financial Management Association==
+Someone had added this organization under "Greek Life."  Greek Life is so-named because the organizations are designated by Greek Letters.  I deleted this organization.[[User:Corsulian|Corsulian]] 15:36, 9 October 2007 (UTC)
+
+== Disputed language on rankings ==
+OK, I have been reverting for the past few months edits by [[User:Gmu1987]] that continuously reinsert the redundant, and unnecessarily degrading content here: [http://en.wikipedia.org/w/index.php?title=George_Mason_University&diff=167754624&oldid=167653307]. Yes, the information is sourced, and in some respects is true, but the spirit of it seems geared only to emphasize the school is ordinary; the SI quote in particular is out of context, and seems only mean-spirited. Personally, I believe this is a case of [[Wikipedia:Tendentious editing|tendentious editing]]. The fact that Gmu1987 is a single purpose account, which only makes this contribution, but is on Wikipedia pretty much every day to revert its removal seems to indicate a high probability of a sockpuppet as well. Likewise, Gmu1987 has been hostile in edit summaries to myself and other editors, and has ignored my offer to discuss the issue on his, or this talk page. Before making any further issue out of this, I just want to get a sense from any of the other contributors to this page (or any other established editors) on whether or not their is any type of consensus to remove this material. If not, I will let it drop. [[User:Hiberniantears|Hiberniantears]] 19:28, 29 October 2007 (UTC)
+::I feel that the only part that actually isn't needed is the part where Merten [[WP:Peacock|Peacocks]] the university a bit.  The rest provides information that is useful to the article. If anything it needs to be cleaned up and the source needs to be put behind <nowiki><ref></nowiki> tags. --[[User:DBishop1984|DBishop<sup>1984</sup>]] 12:44, 30 October 2007 (UTC)
+::Cleaned up a little.  Hopefully an edit by a third-party editor will help.  if not, then {{user:Gmu1987}} is [[Wikipedia:Tendentious editing|axe grinding]] a bit. --[[User:DBishop1984|DBishop<sup>1984</sup>]] 12:59, 30 October 2007 (UTC)
+::: This is perfect DBishop, thanks for the third party opinion! [[User:Hiberniantears|Hiberniantears]] 13:24, 30 October 2007 (UTC)
+:::: I do not concur, clearly, with Hibernian's assessment of my character, but I share his concurrence of your third-party update. Thanks for settling the issue and not allowing Wikipedia to serve the purposes of unbiased representation. [[User:GMU1984|GMU1984]] 19:24, 30 October 2007 (UTC)
+:::::Cheers, happy to help. --[[User:DBishop1984|DBishop<sup>1984</sup>]] 14:06, 31 October 2007 (UTC)
+:::::I just noticed there's a {{user|Gmu1987}} and a {{user|GMU1984}} same person?
+:::::Edit: Nevermind, 1987 just signed incorrectly, use 4 tildes (<nowiki>~~~~</nowiki>) to sign comments. :) --[[User:DBishop1984|DBishop<sup>1984</sup>]] 19:33, 31 October 2007 (UTC)
+:There is no need for 2 articles in the article lead that make the same point (i.e. lack of name recognition).  Furthermore, the second article, the one in question, is written in a belittling tone towards to GMU and totally inappropriate to be in the lead.  This addition was originally posted by someone who is a heavy contributor of the JMU page (who has made it a point to compare JMU to the level of UVA and W&M with very weak and inappropriate sources), and I can only assume part of the reason he decided to post this particular article is because it compares JMU to the level of GWU, which is very debatable.  This is a page about GMU, not about which founding father is better known. If you want to list problems, don’t do it in the lead and get a more appropriate source than a sports writer. [[User:Bvjrm|Bvjrm]] 19:09, 1 November 2007 (UTC)
+:I actually agree with [[User:Bvjrm|Bvjrm]]'s action. Gmu1987 strikes me as a sock of 72.196.220.97, and the fact that Gmu1987 has only made edits to this article, as noted above, is a pretty obvious instance of sockpuppetry. I noticed that someone removed this content earlier today editing as 208.4.46.187, which appears to be located in Reston, VA. Given the nature of how this content came to be in the article in the first place, I would urge everyone to remain logged in with their real user names. No nead to make confusing what should be a pretty straight forward issue. [[User:Hiberniantears|Hiberniantears]] 19:23, 1 November 2007 (UTC)
+::Works for me.  Regarding the IP from Reston: I've noticed through my patrolling of articles on various Virginia high schools, a lot of which are in southern VA, that both Verizon and Sprint IP addresses are based out of Reston, as well as MCI in Loudon County. So the person adding the paragraph could be from anywhere, honestly. [[User:DBishop1984|DBishop<sup>1984</sup>]] 19:49, 1 November 2007 (UTC)
+:::Works for me too.  I support the change made by Bvjrm, especially the rationale that if such information belongs in the article at all, it does not belong in the lead section.  (I recently Wikified a few links on this page, and the page has been showing up in my watchlist since.  The editwar, while mostly civil which is much appreciated, is not useful.  It seems as though a consensus has developed with several editors DBishop, Hiberniantears, et al to leave the JMU/GWU etc. debate permanently out of the lead.) [[User:N2e|N2e]] 23:05, 1 November 2007 (UTC)
+::::I give up. Something needs to be done with this one topic editor [[User:Gmu1987]].  He refuses to listen to reason and continues to revert our edits while claiming vandalism despite a consensus that his additions are inappropriate. [[User:Bvjrm|Bvjrm]] 21:41, 6 November 2007 (UTC)
+::::There is a procedure for blocking or banning the user for repeat vandalism.  It seems that there was a consensus of sorts, worked out on the talk page per WP policy, on not having that content in the lead paragraph.  [[Wikipedia:Blocking policy]] has more information about it.  [[User:Gmu1987]] may need to be blocked from editing this article, or something similar. [[User:N2e|N2e]] 02:42, 7 November 2007 (UTC)
+The issue is moot. [[User:Ryulong|Ryulong]] enacted an indefinite block for vandalism only [http://en.wikipedia.org/w/index.php?title=Special:Log&type=block&page=User:Gmu1987]. I will keep an eye on this article, and if the same edits recur, I will rollback, and make warnings as necessary. [[User:Hiberniantears|Hiberniantears]] 03:06, 7 November 2007 (UTC)
+
+== Greek Life List ==
+
+Someone who is more versed in how the tables in Wikipedia work should edit the list of Greek organizations so that it doesn't look like all Professional Fraternities classified as Woman's Fraternities/Sororities.  [[User:Andrew.in.snow|Andrew]] ([[User talk:Andrew.in.snow|talk]]) 20:51, 23 November 2007 (UTC)
+:Never mind, I have fixed it myself... If you have a better way to fix it, please do.  [[User:Andrew.in.snow|Andrew]] ([[User talk:Andrew.in.snow|talk]]) 21:15, 23 November 2007 (UTC)
+
+==Anita Bath==
+Does anyone know who this is? RHA and Associates seems to be non-existent company
+
+
+I'm guessing this is redundant-- RHI is Robert Half International, and I think RHA was the original name of the company-- Robert Half and Associates.  It's the temp agency that runs Officeteam and Accountemps.
+
+I might be off here, but that's what I assumed...
+
+:Seriously?  Anita Bath = "I Need A Bath" [[User:Corsulian|Corsulian]] ([[User talk:Corsulian|talk]]) 17:34, 11 June 2008 (UTC)
+
+==Peer Review==
+I have requested Peer Review of this article to gather suggestions for improvement and to prepare it for a [[Wikipedia:What is a featured article? | Featured Article]] nomination. Please see [[Wikipedia:Peer review/George Mason University]] for the discussion. [[User:Joshua4|Joshua4]] 10:03, 6 September 2006 (UTC)
+
+Another Alumni Is Huma Zaidi she works for NBC News Type in Huma zaidi and NBC News..  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/199.207.253.96|199.207.253.96]] ([[User talk:199.207.253.96|talk]]) 14:30, 5 August 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+==Strong Programs==
+GMU's economics program is not well-known because it's particularly strong (Louisiana State or Alabama are equally "strong" in economics) but because of the department's ideological focus on the free market. In public policy, on the other hand, GMU is known both for its politically conservative stance as well as for the quality of its programs. In that sense economics probably doesn't belong in the list.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.36.251.178|24.36.251.178]] ([[User talk:24.36.251.178|talk]]) 12:10, 19 October 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== George Mason College ==
+
+I lost my George Mason College of UVA class ring.  Does anyone know how I can get another one?
+
+Many thanks, class of 73
+Kevin  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.7.182.8|66.7.182.8]] ([[User talk:66.7.182.8|talk]]) 17:09, 21 October 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Notable alumni ==
+
+Anon-ip insists that none of the [[George Mason University#Notable alumni]] are notable (I disagree since several names are familiar - and I've inspected linked topics).  [[User:Tedickey|Tedickey]] ([[User talk:Tedickey|talk]]) 14:37, 12 February 2009 (UTC)
+:The removal of an entire section looks like vandalism from the IP editor.  However, the alumni on the list should either have a WP article about them or coverage in a published source to establish [[WP:BIO|notability]] and to establish the connection to the university. [[User:Alanraywiki|Alanraywiki]] ([[User talk:Alanraywiki|talk]]) 15:35, 12 February 2009 (UTC)
+
+::Generally agree - the redlinks added in the past couple of months, I've googled, and generally agree that there should be a topic on most of them.  (The faculty section is actually less notable when one inspects the sources for the corresponding topics - seems that some GM students or faculty write topics about the faculty - this is true of several university topics ;-). [[User:Tedickey|Tedickey]] ([[User talk:Tedickey|talk]]) 15:57, 12 February 2009 (UTC)
+
+==June 21 edits==
+*Notable alumni section: completely unsourced
+*Mention of George Mason the man in the history section - redundant and irrelevant to the section
+*Moved sourced content at bottom of RAK section to the top of the section
+[[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 19:17, 21 June 2009 (UTC)
+
+::Saying "None" for notable alumni is clearly wrong -- if nothing else, [[Karl Rove]] attended George Mason after it split from the University of Virginia and it is referenced in Rove's article.  Please be more careful in the future.  - [[User:ArglebargleIV|ArglebargleIV]] ([[User talk:ArglebargleIV|talk]]) 22:20, 21 June 2009 (UTC)
+:::I double-checked and confirmed a suspicion that Rove is ''not'' an alumni of GMU. He only briefly attended the school after dropping out of the University of Utah and then enrolling in the University of Maryland and the University of Texas. See Tom Brokaw's book ''Boom!'', page 372. An alumni is a graduate and rove did not graduate. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 02:42, 22 June 2009 (UTC)
+::::Actually, an alumnus ≠ a graduate.  If a person attended a university, even if they did not graduate, they are considered an alumnus/alumna. [[User:Alanraywiki|Alanraywiki]] ([[User talk:Alanraywiki|talk]]) 02:47, 22 June 2009 (UTC)
+:::::Calling Karl Rove an alumni of Mason really is a stretch of the truth. He took two or three classes there. If any school is listed as his alma mater it should be University of Utah or University of Maryland. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 02:59, 22 June 2009 (UTC)
+
+Alternatively, removing the section from the page and creating a category for GMU alumni may make the most sense. Plenty of university articles lack alumni sections. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 03:02, 22 June 2009 (UTC)
+:[[University of Georgia]] is one example. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 03:05, 22 June 2009 (UTC)
+
+:: Georgia does have a page for alumni: [[List of University of Georgia people]] [[User:Bvjrm|Bvjrm]] ([[User talk:Bvjrm|talk]]) 15:03, 25 June 2009 (UTC)
+
+:::Thanks for the article reference.  I just added a link to it on the [[University of Georgia]] article. [[User:Alanraywiki|Alanraywiki]] ([[User talk:Alanraywiki|talk]]) 15:10, 25 June 2009 (UTC)
+::::Universities without notable alumni sections (because they dont have notable alumni): [[Appalachian College of Pharmacy]], [[Appalachian School of Law]], [[Atlantic University]], [[Averett University]], [[Bluefield College]], [[Christendom College]], [[Eastern Mennonite University]], [[Ferrum College]], [[Marymount University]].... etc. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 17:01, 25 June 2009 (UTC)
+:::::Not in any way is that list relevant to this article. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 17:10, 25 June 2009 (UTC)
+::::::...[[Shenandoah University]], [[Patrick Henry University]], [[Virginia University of Lynchburg]], [[Saint Paul's College, Virginia|Saint Paul's College]], [[Marine Corps University]], [[Virginia-Maryland Regional College of Veterinary Medicine]].... [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 17:18, 25 June 2009 (UTC)
+:::::::...[[Baltimore International College]], [[St. Mary's Seminary and University]], [[Capitol College]], [[Hood College]], [[Maryland Bible College & Seminary]], [[Sojourner-Douglass College]], [[University of Maryland Center for Environmental Science]], [[University of Maryland Biotechnology Institute]], [[University System of Maryland at Hagerstown]]... [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 17:27, 25 June 2009 (UTC)
+:::::::: Please see [[WP:WAX]] and [[WP:OTHERSTUFFEXISTS]] as this is a plainly silly argument to make to defend your position. [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 18:23, 25 June 2009 (UTC)
+Unilaterally blanking an entire section without moving the content to another article isn't acceptable.  And the namesake of the institution is quite obviously appropriate for the history section.  --[[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 03:40, 25 June 2009 (UTC)
+:The "notable alumni" section is almost entirely devoid of sources and has not established notability for the individuals listed. The namesake is already mentioned earlier in the article. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 06:16, 25 June 2009 (UTC)
+::I don't know what axe you have to grind but stating that this institution has '''no''' notable alumni is clear POV vandalism.  --[[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 12:28, 25 June 2009 (UTC)
+::: Every university FA includes an alumni section. [[WP:UNIGUIDE]] recommends an alumni section. I believe there is a fairly stable and widespread consensus that including information on the alumni and faculty affiliated with the university is encyclopedic information. [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 13:44, 25 June 2009 (UTC)
+::::I concur. Finding an article without an alumni section doesn't justify removing it from other articles. Having one clearly meets [[WP:UNIGUIDE]] standards. On the issue of mentioning George Mason in the history section: I don't think "irrelevance" is a good argument, although I'd be open to hearing others, simply for the sake of fostering dialogue. IMHO, a university's namesake is clearly worth of mention. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 14:03, 25 June 2009 (UTC)
+
+Interesting how users keep pretending that it's the alumni section they want to include, and yet they continue to revert all of my edits to this page. I also like how no one has made any effort to actually source the section. Other university articles have notable alumni sections because they ''actually have'' notable alumni. Mason doesnt. As for mentioning Mason-the-man in the history section, that content is already mentioned in the introduction... but no, keep re-adding the same sentence in the history section. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 16:53, 25 June 2009 (UTC)
+
+:You may want to keep your blanking of the alumni section separate from your other changes.  I would agree with removing the redlinked people, but if a person has a WP article, they are notable. [[User:Alanraywiki|Alanraywiki]] ([[User talk:Alanraywiki|talk]]) 16:56, 25 June 2009 (UTC)
+
+::Without poring over every edit, I might be inclined to agree with the "all of my edits bit". But as for the notable persons, I've [http://en.wikipedia.org/w/index.php?title=User_talk:173.66.36.76&curid=23309297&diff=298588234&oldid=297776193 left] a message on the IP editor's talk page about addressing the notability of the notable persons invidividually. And as for "Mason-the-man" a [[WP:LEAD|lead]] is intended to be a summary introduction to the article; IMHO it shouldn't mention Mason without featuring Mason in the body of the article, as well. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 16:59, 25 June 2009 (UTC)
+
+:Absurd.  After reverting for the first time your vandalism to the alumni section, I went back and restored your other edits by hand.  I didn't do it the second time as it takes a bit of time to do that and I no longer assume good faith with you.  --[[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 17:27, 25 June 2009 (UTC)
+::You didnt [[WP:AGF|assume good faith]] in the first place.[http://en.wikipedia.org/w/index.php?title=George_Mason_University&diff=298481819&oldid=298453053] How could you stop what you didn't start? [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 17:34, 25 June 2009 (UTC)
+:::That's quite a baseless indictment, since the diff doesn't demonstrate any bad faith. To ask others to assume good faith is why we have [[WP:AAGF]], and blanking sections is clearly vandalism [[WP:VANDAL]]. If the anonymous editor assumes that having his/her edits marked as vandalism, when they ''are'' clearly vandalism, is assuming bad faith then he/she is sadly mistaken. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 17:42, 25 June 2009 (UTC)
+
+I believe I was the last editor to revert all the edits.  I went back and restored all the non-alumni related edits done by 173.66.36.76. I probably should have just restored the alumni section earlier.  Sorry.  [[User:Alanraywiki|Alanraywiki]] ([[User talk:Alanraywiki|talk]]) 18:08, 25 June 2009 (UTC)
+
+===Alumni===
+I categorically reject the notion that there have been '''no''' notable alumni.  It's absurd and given the alumni listed in this article I question the objectivity of anyone who holds that position.  --[[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 17:23, 25 June 2009 (UTC)
+:I've removed the entries that are both redlinked and uncited, so there should be no further beef with the section unless someone wants to address the notability of the biographical articles in a separate arena. Interesting that the anonymous editor would point readers to UVA instead. Perhaps the argument is that GMU hasn't had any notable alumni ''since'' the split. Seems fishy to me. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 17:30, 25 June 2009 (UTC)
+::I did forget one thing: the list really ought to be in paragraph format per [[WP:UNIGUIDE]]. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 18:05, 25 June 2009 (UTC)
+::: Assuming the removal of redlinked content left more than a threadbare list, perhaps it should be spun out into a [[List of George Mason University people]] article with only the most notable ones [[WP:PROSE|prosified]]? [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 18:23, 25 June 2009 (UTC)
+::::Do you think it's long enough for that? I'm not entirely certain it is. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 21:57, 25 June 2009 (UTC)
+
+===George Mason in history section===
+There should certainly be some discussion of the namesake of this institution in the history section as it's clearly an important part of the institution's history.  That he is also mentioned in the introduction is of no consequence.  The introduction is a summary of the entire article so of course there is overlap between the introduction and the rest of the article; it's intentional and desired!  --[[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 17:25, 25 June 2009 (UTC)
+:Agreed. Familiarity with [[WP:LEAD]] communicates that quite clearly. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 17:32, 25 June 2009 (UTC)
+:: One would expect the articles for [[Harvard University]], [[George Washington University]], [[Washington University in St. Louis]], [[Duke University]], [[Rockefeller University]], etc. to have ''some'' discussion of their namesake in the body of the article. Lo and behold, they do! [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 18:23, 25 June 2009 (UTC)
+:::As Madcoverboy posted above, [[WP:WAX]] and [[WP:OTHERSTUFFEXISTS]]. Either these policies apply in all cases or they do not apply at all. Mason's identity has nothing to do with the history of the university. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 05:30, 26 June 2009 (UTC)
+::::I don't see how guidelines on deletion policies apply in any way to discussions on whether or not a university's namesake should be included in the history section of an encyclopedia article about that same university. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 17:17, 26 June 2009 (UTC)
+:::::So you agree to remove the alumni section? Because if you are going to say that they dont apply here, then the long list of other universities without an "alumni section" set the precedent for removing the AS section on this page. [[Special:Contributions/173.66.36.76|173.66.36.76]] ([[User talk:173.66.36.76|talk]]) 17:53, 26 June 2009 (UTC)
+::::::1) Wikipedia is no more a common law court than it is a democracy; precedent doesn't establish argument alone. The very existence of articles that don't meet UNIGUIDE standards does even less to support that argument -- it's like telling the authorities that your house, which has just been inspected, shouldn't be condemned because the house next door, which hasn't been inspected yet, is worse.
+::::::2) Per UNIGUIDE, which does hold guideline status and ''is'' relevant to this university article (unlike a deletion policy guideline that does ''not'' apply in this situation, wherein we are not discussing deletion), the article ''should'' have a notable persons section.
+::::::3) [[WP:TALK]] dictates that we must stay on-topic. This section is for the discussion re: George Mason, not the alumni, and deletion policy guidelines (such as [[WP:WAX]]) do not apply in this situation. I request that the anonymous editor please respect the talk guidelines. --[[User:Arverniking|King of the Arverni]] ([[User talk:Arverniking|talk]]) 18:59, 26 June 2009 (UTC)
+
+== Karl Rove ==
+
+I can find no record that Karl Rove ever graduated from the university. If he's merely listed as attending and not graduating, this should be specified to avoid the situation of [[Charles Pellegrino]] who is accused of falsely claiming a doctorate when he failed to complete his thesis. (I removed a spurious link that was used as a reference.)
+
+--[[User:UnicornTapestry|UnicornTapestry]] ([[User talk:UnicornTapestry|talk]]) 08:21, 12 April 2010 (UTC)
+
+:'''Addendum''': Other articles state he did ''not'' graduate.[http://marriage.about.com/od/politics/p/karlrove.htm] Rather than remove his entry, I'll change his status to 'attendee' and let consensus decide whether to keep or remove it.
+
+:--[[User:UnicornTapestry|UnicornTapestry]] ([[User talk:UnicornTapestry|talk]]) 09:20, 12 April 2010 (UTC)
+
+::Alumni covers more than graduates (and there's plenty of precedent on Wikipedia for ignoring the "graduate" aspect) [[User:Tedickey|Tedickey]] ([[User talk:Tedickey|talk]]) 10:41, 12 April 2010 (UTC)
+
+:::I returned Rove's entry to the rest of alumni because he is an alumnus even though he is not a graduate (and there is no claim that he did graduate).  I also added a reference from the WSJ about his attendance. Thanks, [[User:Alanraywiki|Alanraywiki]] ([[User talk:Alanraywiki|talk]]) 15:34, 12 April 2010 (UTC)
+
+==Who Governs George Mason University==
+
+Who governs George Mason University? Is there a board of trustees, as other universities have? I have been unable to find any reference to it, except a foundation comprised of non-notables which seems highly unlikely to provide the stewardship for it... [[User:Stevenmitchell|Stevenmitchell]] ([[User talk:Stevenmitchell|talk]]) 06:02, 4 January 2014 (UTC)
+
+== Underground newspaper ==
+
+Does GMU have an underground newspaper these days? The old one used to be ''Expulsion''. Oliver Adriance, Writer/Editor/Publisher/CEO of Expulsion/TMH! Productions, notes, "''Expulsion'' was an independent student newspaper at George Mason University. Known mostly for our satire, we also did news, commentary and culture. The paper topped out with a circulation of 4,000 and a volunteer staff of around 40 writers." [[User:AccountsPayable|AccountsPayable]] ([[User talk:AccountsPayable|talk]]) 21:07, 31 July 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[George Mason University]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=677900147 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20150708054652/http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings/page+3 to http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings/page+3
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=true}}
+
+Cheers. —[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 06:19, 26 August 2015 (UTC)
+
+== random notability ==
+
+In contrast to editor's extended footnote collecting some trivial mentions, notable persons on Wikipedia in general would have a topic devoted to them. [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 14:08, 10 December 2015 (UTC)
+: Same error as before, people do not need to have an article specifically about them in order to be mentioned in an article not specifically about them . Also, I think a lot of people would be offended by your calling the work of the Boston Globe trivial. [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 11:45, 11 December 2015 (UTC)
+::Any news media can make ''trivial mention'' of your favorite persons.  ''Your'' task is to choose suitable sources rather than purely promotional edits [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 19:47, 13 December 2015 (UTC)
+::: I do not have a favorite person. I realize that you are stuck on the promotional edit theory, which is laughable given that I had no idea who Denise Tuner Roth was until I looked her up, which is exactly what the people deleting the mention of her should have bothered to do before deleting the mention of her. [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 21:18, 13 December 2015 (UTC)
+
+:Apparently you haven't taken the time to lookup the meaning of "trivial mention", which takes less time than your edits. [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 23:26, 13 December 2015 (UTC)
+
+::::: [[Wikipedia:Trivial_mentions|"Essays are not Wikipedia policies or guidelines."]] [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 07:33, 14 December 2015 (UTC)
+
+:To help with the discussion, start with these: [[Wikipedia:Notability]] and [[Wikipedia:Trivial mentions]] [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 09:08, 14 December 2015 (UTC)
+
+:The result of your edits is to circumvent the guidelines on notability by introducing editorial opinion as an unverifiable footnote [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 09:27, 14 December 2015 (UTC)
+
+:Your ''repeated'' edits to change the subject of this thread are not constructive. [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 09:28, 14 December 2015 (UTC)
+
+:: Okay, you are really stuck on both attempting to frame the discussion with a disparaging title and the misrepresentation of opinion pieces as policy. As usual, Wikipedia policy means little to nothing and whatever the most aggressive person says is "the way it is" ends up being the way that it is. [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 13:52, 14 December 2015 (UTC)
+
+:Since you aren't making any attempt to resolve the issue in your edits, I assume you are referring to yourself in the latter part of your reply. The [[WP:NOTABILITY|guideline]] which you state means nothing does say "Significant coverage addresses the topic directly and in detail, so that no original research is needed to extract the content. Significant coverage is more than a trivial mention, but it need not be the main topic of the source material."  Your editorial comment in the footnote and the given sources appear to fall short of that mark.  You have provided the original research for this; there is no secondary source which provides comparable coverage. From the information given so far, it does not appear possible to create a topic for this person, since they are not notable in the sense of the guideline.  [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 09:29, 15 December 2015 (UTC)
+
+::I don't understand the context and subject of this discussion but it may be important to note that [[WP:N]] '''only''' applies to the subject of an article; it does not apply to the content of an article. [[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 10:09, 15 December 2015 (UTC)
+::: It is not much of a discussion. TEDickey wishes to protect the good name of George Mason University by deleting all but the most famous of famous people entered into the notable alumni section. To justify that act they cite an opinion piece. So far, nothing more than that. [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 10:55, 15 December 2015 (UTC)
+
+::Some editors prefer to [[WP:AGF|attack]] other editors rather than address issues, pointedly selecting their comments to make it seem as if the issue were something other than what some may notice.  The issue in this thread is the lengthy footnote explaining an editor's opinion that [[WP:NOTABILITY|notability]] is irrelevant when looking for filler material, likewise no leeway is needed for [[WP:VERIFIABLE|verifiability]]. [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 09:21, 16 December 2015 (UTC)
+
+::: Case in point. [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 10:12, 16 December 2015 (UTC)
+{{od}}When WP includes lists of "notable people" in articles about institutions or academic traditions, the WP notablity criteria apply.  Red-linked or unlinked elements should be deleted from such lists.  This does not mean that all mentions in article content must be "notable" in the sense of warranting a separate article.  That's not the test for article content in general but it is the well-established practice for lists captioned "notable..."   {{ping|Tedickey}} is correct.   [[User:SPECIFICO |<font color ="0011FF"> '''SPECIFICO'''</font>]][[User_talk:SPECIFICO | ''talk'']]  16:00, 25 December 2015 (UTC)
+:"[[WP:N|The notability guideline does not determine the content of articles, but only whether the topic should have its own article.]]" [[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 19:49, 25 December 2015 (UTC)
+::As I tried to make clear in my previous message, notability is "not the test for article content in general, but it is the well-established practice for list captioned "notable..." Please respond, rather than repeat your statement from before my reply. Notability is not the test for all article content -- nobody has disputed that -- but "notable" has a defined meaning on WP and at least one name on that list is not a [[WP:NOTABLE]].  Thanks. [[User:SPECIFICO |<font color ="0011FF"> '''SPECIFICO'''</font>]][[User_talk:SPECIFICO | ''talk'']]  20:48, 25 December 2015 (UTC)
+
+:You could move forward by (a) removing the editorial opinion and (b) providing verifiable weblinks to your sources.  If none are available for the latter, perhaps those are ''ephemeral'' (not suitable for [[WP:RS|reliable sources]] in any event). [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 12:59, 26 December 2015 (UTC)
+
+* Is Denise Turner Roth being discussed here? She meets notability standards as she's an official who receives Senate confirmation. Per [[WP:REDLINK]] an article on her should be created. With this in mind I'm going to link her name.  – [[User:Srich32977|S. Rich]] ([[User talk:Srich32977|talk]]) 05:37, 3 January 2016 (UTC)
+
+:For extra credit, here is a comparable list to work on: http://webpmt.usps.gov/pmt017.cfm [[User:Tedickey|TEDickey]] ([[User talk:Tedickey|talk]]) 17:51, 3 January 2016 (UTC)
+::{{ping|Srich32977}} "She meets notability standards as she's an official who receives Senate confirmation." -- Interesting.  Please provide a link to the WP policy that makes that statement. [[WP:REDLINK]] begs the question, and that guideline does not relate to the notability determination.  Thanks and best wishes for 2016. [[User:SPECIFICO |<font color ="0011FF"> '''SPECIFICO'''</font>]][[User_talk:SPECIFICO | ''talk'']]  18:51, 3 January 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[George Mason University]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=707187731 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20130617025457/http://www.fairfaxva.gov/CUEBus/CUEBus.asp to http://www.fairfaxva.gov/CUEBus/CUEBus.asp
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 09:53, 27 February 2016 (UTC)
+
+== Law school name change ==
+
+It may be appropriate to very briefly mention the proposed name change for the law school in this article but we shouldn't make any substantive changes until the name of the school is actually changed because it's still pending approval from the State Council of Higher Education for Virginia as described in [http://www.roanoke.com/news/politics/general_assembly/virginia-democrats-criticize-plan-to-name-law-school-after-antonin/article_dec5ab28-8c8b-5df4-a0aa-774ffd8b0be4.html this article] from the Roanoke Times published today. [[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 15:49, 6 April 2016 (UTC)
+: The current code has no name change whatsoever. What it does have is all the correct formatting for the name change that already happened yet people keep insisting is not yet real, and has a wealth of citations supporting what has happened so far. Editors have already made a mess of the code. Probably not intentionally as the code is complex. So leave the code alone so that when the name change finally gets accepted as real anyone can easily replace the name and not make a mess out of the code. [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 19:19, 6 April 2016 (UTC)
+
+== University traditions do not deserve a mention in an encyclopedia ==
+
+Which maybe be true, but if true then I cannot explain the 14,822 characters that form the [[University_of_Georgia#Traditions|Traditions section of the University of Georgia article]]. [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 14:16, 15 March 2017 (UTC)
+: Now I have a theory. Georgia dates back to 1785 while Mason 1949. Since Georgia is 232 years old, that article deserves traditions. Since Mason is only 68, that article does not deserve traditions.[[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 14:20, 15 March 2017 (UTC)
+: Another but more probable theory, fixing the not good text within traditions section would prove difficult so deleting is much easier. [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 14:23, 15 March 2017 (UTC)
+
+:I'm not sure who is advocating that "university traditions do not deserve a mention in an encyclopedia" or where this is coming from but it's complete nonsense and the onus is on the person(s) making that claim to justify it. [[User:ElKevbo|ElKevbo]] ([[User talk:ElKevbo|talk]]) 14:32, 15 March 2017 (UTC)
+::The advice we should follow is at [[WP:UNIGUIDE]]. (Which, by the way, incorrectly focuses on "Notable" when it should say [[WP:Noteworthy]].) Id4abel and I have been chatting on Abel's talk page about adding images. I think the wider editing issue is about how well the "Traditions" section is written. Following the UNIGUIDE we can retitle the section Student life and improve the prose.  – [[User:Srich32977|S. Rich]] ([[User talk:Srich32977|talk]]) 15:40, 15 March 2017 (UTC)
+::: Completely agree, the wording is not good and was probably copy and pasted from an old Mason website or brochure. The images were only a way to make the section slightly less awful. Then after the images were deleted an IP user decided to delete even more citing [https://en.wikipedia.org/w/index.php?title=George_Mason_University&oldid=770424749 “no reason for this in encyclopedia”] and [https://en.wikipedia.org/w/index.php?title=George_Mason_University&oldid=770424852 “trivia”]. That festival of deleting is probably good as the not good prose within the Traditions section is getting more attention, and to be perfectly honest I have no good ideas on how to improve it (hence adding images to make it slightly less bad). [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 16:23, 15 March 2017 (UTC)
+:::: The same (maybe a different but probably the same) IP user is back to deleting traditions. [https://en.wikipedia.org/w/index.php?title=George_Mason_University&diff=prev&oldid=770710594 This time] the entire Mason Day section because "no encyclopdic interest. Needs non GMU source for notewortiness test. Trivia." [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 05:47, 17 March 2017 (UTC)
+::::: The traditions section is now shorter, far less silly, and cites National Public Radio and the Falls Church News-Press. Better? [[User:Id4abel|Abel]] ([[User talk:Id4abel|talk]]) 23:39, 18 March 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 7 external links on [[George Mason University]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=805223375 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20150924022956/http://www.gomason.com/ViewArticle.dbml?ATCLID=205054675&DB_OEM_ID=25200&DB_OEM_ID=25200%7Ctitle%3DFacilities%7Cwork%3Dgomason.com to http://www.gomason.com/ViewArticle.dbml?ATCLID=205054675&DB_OEM_ID=25200&DB_OEM_ID=25200%7Ctitle%3DFacilities%7Cwork%3Dgomason.com
+*Added archive https://web.archive.org/web/20151001175134/http://www.wmata.com/rail/station_detail.cfm?station_id=103 to http://www.wmata.com/rail/station_detail.cfm?station_id=103
+*Added archive https://web.archive.org/web/20081212065920/http://www.wmata.com/rail/station_detail.cfm?station_id=98 to http://www.wmata.com/rail/station_detail.cfm?station_id=98
+*Added archive https://web.archive.org/web/20150907191801/http://nationalzoo.si.edu/Publications/PressMaterials/PressKit/SIMason/SIMasonfacility.cfm to http://nationalzoo.si.edu/Publications/PressMaterials/PressKit/SIMason/SImasonfacility.cfm
+*Added archive https://web.archive.org/web/20150423045835/http://about.gmu.edu/mason-to-open-campus-in-songdo-korea-in-march-2014/ to http://about.gmu.edu/mason-to-open-campus-in-songdo-korea-in-march-2014/
+*Added archive https://web.archive.org/web/20160211191347/http://irr.gmu.edu/FastFacts/ to http://irr.gmu.edu/FastFacts/
+*Added archive https://web.archive.org/web/20160126011335/http://www.gsa.gov/portal/content/100046 to http://www.gsa.gov/portal/content/100046
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 22:01, 13 October 2017 (UTC)
+
+== Koch family influence ==
+
+I am surprised that this article doesn't include any discussion of the GMU's relationship with the Koch brothers and the broader political, economic, and legal movements associated with them. I found many article that suggest that this is noteworthy topic: [https://apnews.com/613470e79eb64a5f9a4880996e0fd7c5 AP article], [https://www.theatlantic.com/education/archive/2015/10/spreading-the-free-market-gospel/413239/ Atlantic Monthly article], [http://www.fairfaxtimes.com/articles/students-take-gmu-to-court-over-koch-brothers-million-in/article_93778250-ba6f-11e7-9fcf-3b19f2a5cac0.html Fairfax Times article]. The AP article starts with "George Mason University, a public school outside the nation’s capital, has quietly become a conservative powerhouse in economics and law, a reputation built in part with tens of millions of dollars a year from billionaire Republican donor Charles Koch." The separate article on the [[Mercatus Center]] discusses the Koch brothers, but I couldn't find anything in the article that reflects this information, nor anything in the history or the talk page that suggests that it has been addressed at some point. Before I wade into a hornet's nest, I thought I would find out whether I'm missing something. [[User:Rks13|Rks13]] ([[User talk:Rks13|talk]]) 17:52, 20 March 2018 (UTC)

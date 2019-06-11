@@ -1,0 +1,418 @@
+Can't you guys make this shorter???  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2602:30A:2EA2:EB50:48B5:F160:679C:A199|2602:30A:2EA2:EB50:48B5:F160:679C:A199]] ([[User talk:2602:30A:2EA2:EB50:48B5:F160:679C:A199|talk]]) 21:27, 16 November 2015 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+{{Vital article|level=4|topic=Science|class=B|subpage=Physics}}
+{{WikiProject Physics|class=B|importance=mid}}
+{{WikiProject Meteorology|class=B|importance=Mid}}
+{{American English}}
+<s>Shwith [[Density of air]] (or contrawise)?
+[[User:Duk|Duk]] 07:25, 28 Oct 2004 (UTC)</s>
+
+== Records ==
+
+A useful addition to this entry is the normal ranges of atmospheric pressures. From a little research
+it appears the the maximum recorded atmospheric pressure was 
+in Siberia at 1200 GMT on 31 December 1968: 32.01 in (1083.8 mb). 
+See http://www.weatherwise.org/qr/qry.99.pressure.html
+
+The lowest recorded pressure appears to be in the 920mb area. See
+http://www.weatherwise.org/qr/qry.lowpressurefollowup.html
+
+
+:Done (I used a more recent reference). [[User:Duk|Duk]] 02:57, 20 Dec 2004 (UTC)
+this stinks what abbout dgf bearometric pressure???
+??
+?[[User:72.68.97.98|72.68.97.98]] 14:13, 31 January 2007 (UTC)
+::([[User:William M. Connolley|William M. Connolley]] 10:17, 20 Dec 2004 (UTC)) Can I query this a bit? Presumably, these are SLP's. Well the pacific one clearly is. But the Mongolian one can't be, Mongolia being quite high up. So it must be station pressure reduced to sea level (unless its really an actual reading♥ - unlikely) and reduction to sea level is fraught with difficulties, ie the temperature profile that gets assumed under the ground.
+
+:::The book didn't specifically say sea level equivalent, but it notes the same Siberian measurement (which ''is'' sea level equivalent per the on-line reference) as the second highest pressure recorded. [[User:Duk|Duk]] 17:55, 20 Dec 2004 (UTC)
+
+::::Note I have reduced the precision values of the millibar values. Pressure measurement to 0.01 millibar precision, particularly at the centre of a typhoon, is unrealistic. The value given for Typhoon Tip was obviously a conversion of 25.69inHg, with too many decimal places quoted. I have rounded to the nearest millibar. [[User:143.252.80.110|143.252.80.110]] 19:22, 19 October 2005 (UTC)
+
+THESE RECORDS ARE INCORRECT. THEY HAVE BEEN BEATEN ALREADY YEARS AGO. IT IS TIME TO UPDATE THE SITE, PLEASE !
+
+== FIX ME: Bad use of units ==
+The article refers to the unit Newton in an unappropriate manner in several sections, for example: "column of air would weigh about 100 kilonewtons". Kn (kilonewton) is a measure of force, not of mass, which we is what we use the unit gram (g) for. Could someone please correct this?  small Preceding [[Wikipedia:Signatures|unsigned]] comment added by[[Special:Contributions/130.243.234.161|130.243.234.161]] ([[User talk:130.243.234.161|talk]]) 14:34, 27 July 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+  There is no problem at all using the Newton as a unit of "weight".  Its the correct measure for the gravitational force between the object and the earth.  I do have a quibble with describing the weight of the atmosphere as 65 Newtons per square inch, though.[[User:Eregli bob|Eregli bob]] [User talk:Eregli bob|talk] 15:02, 23 February 2010 (UTC)
+
+@Victor Engel
+You deleted a useful statement in the introduction "Equivalently, every square centimetre supports about 1kg of air." The stated reason is "force is not mass". Where does the statement assume that force is mass? "To support a mass" is scientifically correct. Indeed, it is more correct to state mass (1kg) than force (10N) because if the Earth were hollow, say, there would still be 1kg for every cm2 but much less than 10N. Secondly, 95% of the world would prefer to see SI units in the introduction and 1kg/1cm2 happens to be more memorable than 14.7lbf/sqin. Thirdly, if you're worried that readers would mix force with mass, then you should have corrected the 1kg to 10N instead of deleting it completely.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.133.32.227|78.133.32.227]] ([[User talk:78.133.32.227|talk]]) 13:53, 7 September 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+: What I actually corrected was: "A column of air one square inch in cross-section, measured from sea level to the top of the atmosphere, would weigh approximately 14.7 lbf (65 N); equivalently, every square centimetre supports about 1kg of air." The word "equivalently" is implying that 14.7 lb (not sure what the f is there for -- it's not torque) over 1 square inch is the equivalent of 1kg over a square centimetre. They are not equivalent. While it's just fine to talk about a mass being supported by an area, that is not what's being done with the imperial units. The pound is a unit of force, not mass. [[User:Victor Engel|Victor Engel]] ([[User talk:Victor Engel|talk]]) 19:35, 20 May 2011 (UTC)
+
+:: Perhaps the f was to distinguish pound-force from pound-mass, which, if you couldn't already tell from context, further shows that force, and not mass was being described, and thus the counterpart needed also to be about force. Alternatively, both sides could have been about mass. [[User:Victor Engel|Victor Engel]] ([[User talk:Victor Engel|talk]]) 19:47, 20 May 2011 (UTC)
+
+==Error in article?==
+Hi, maybe I'm being stupid, but this statement appears to be inconsistent: "A column of air one square centimetre in cross-section, measured from sea level to the top of the atmosphere, has a mass of about a kilogram and a weight of 63N". A mass of 1 kilo at sea level has a weight of 10N. If the mass is distributed over a range of heights, then since gravity decreases above sea level, the weight must be lower than 10N. Am I missing something? [[User:Dilaudid|Dilaudid]] ([[User talk:Dilaudid|talk]]) 19:23, 15 July 2011 (UTC)
+
+
+I have just caught this and the claim about mass and force are wrong. Mass = volume x density and Force (Newtons) = density x height of column x gravity (9.8 m s^2). 
+Density of air at sea level is generally accepted as being 1.225 kg m^3. If therefore the height of the atmosphere is 100 km or 100000 m this would give a FORCE at sea level of 1.225 x 100000 x 9.8 = 1200500 Newtons or 1200.5 kilo Newtons. It is after all just 
+Basic physics!!!
+:You are ignoring the fact that density varies significantly with altitude. Basic Physics![[Special:Contributions/24.108.28.165|24.108.28.165]] ([[User talk:24.108.28.165|talk]]) 06:40, 24 May 2015 (UTC)
+
+==Significant figures==
+760 is equivalent to 14.696 but only to the number of decimal places?!! Nonsense and gibberish!  3 decimal place accuracy can NOT EVER be equivalent to 5 decimal place accuracy.  It is called "significant figures" and can be found in any high school science class.  Perhaps the writers need a refresh, or more likely a first time exposure.  Also use of the depreciated english unit stone for a square inch column is by far the most egregious example of insularism I've seen on Wiki: 1) Stone has been depreciated 2) a pound per square inch is not only a USA standard, but is well understood throughout the world.  When is the last time anybody used a stone per in² ?!?! and 3)  As a question - does anybody use the stone when referring to weights (or is it masses?) on the order of 1 stone?  I doubt it is intuitive or helpful but I'm a yank so IDK, finally 4) when you're speaking about atmosphere BY DEFINITION altitude is implicated.  Now stick with me here, it will be a giant leap for some of the contributors: when you're speaking about altitude, g (defined at sea level), the standard acceleration CONSTANT is inapplicable.  Therefore it is no longer the case that weight and mass are interchangeable by the use of a simple conversion factor (there is a 1/r² involved - again High School physics).  g is only applicable at sea level (and I'm not sure how g relates to the actual average acceleration at sea level on dry land since the actual force depends on the density of the Earth at any given point.  I started this to fix the "cute" but IMHO less than helpful use of stone rather than 14.7 psi, but came across this other junk along the way and I found that there is no obvious way for me to fix that first introductory section, so any volunteers?[[Special:Contributions/69.40.254.72|69.40.254.72]] ([[User talk:69.40.254.72|talk]]) 16:51, 26 November 2010 (UTC)
+
+== Medical effects ==
+
+The article is missing info on atmospheric pressure effects on humans (and animals may be). Lower pressure, higher pressure - how does it feels? For older people, sick people, etc.? [[User:Paranoid|Paranoid]] 14:09, 13 Mar 2005 (UTC)
+
+
+Which effects would you like to have being added to it, to the article? Getting older, in general? 
+
+Steve Miller
+
+
+some effects: pilots in military jets feel sometimes toothache as pressure changes rapidly.
+
+
+I'm sure this must have other causes. An air pressure, as 'invented' by Otto of Guericke, as a<br> clue for his hemispheres attempt might not be existing in this nature on the planet.
+
+[[User:Steve Miller|Steve]]
+
+
+Dramatic changes in atmospheric pressure before collision of cold & hot fronts which cause hurricanes or dramatic storms can cause blood pressure in people who are suseptible to it too rise or fall causing unconsiuses,fainting feelings of waitlessness and rolling in a circle the vision in front of there eyes as 50% to 605  of are body mass is water it is not surprising at all.--[[User:80.43.21.85|80.43.21.85]] 01:01, 3 August 2005 (UTC)
+
+
+
+I'm sorry but have you been informed about air pressures origin and today's scientifical advances.
+
+There are lots and lots of hints that, specifically, an air pressure does not match up with todays 
+and by the way, yet, yesterdays observations. 
+
+[[User:Steve Miller|Steve]]
+
+Hmm, perhaps people could take this issue seriously. Or alternatively, seriously debunk it. Lots of Eastern Europeans who I meet whinge that the air pressure has changed and they have headaches... I reckon they're hypochondriacs so something in this article would be appreciated - even if to say that nothing has ever been proven regarding this whole thing or that it's an old wives' tale. [[User:Malick78|Malick78]] ([[User talk:Malick78|talk]]) 16:43, 20 January 2008 (UTC)
+
+[[User:Steve Marshall|MacGyver]]
+
+I think the bottle "crashed" is fake. Anyways, it should be mentioned the effect on humans. It is obvious that some persons are more affected than others by the change in atmospheric pressure, on the same way that others are more affected by the moon, the tides, etc... Sometimes people do not fully appreciate that humans are more than two thirds made of water. It is customary to associate headaches to "sit in front of a computer", bad mood to "a bad night's sleep",... but these phenomena are all related to the weather and physical conditions  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/193.108.78.10|193.108.78.10]] ([[User talk:193.108.78.10|talk]]) 10:57, 1 August 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:Yes, yes it does. This is only anecdotal (which is why im not putting in the articel) But I'm a great example. From the ages of 0-20 I lived in deserts; the cold and hot ones west of the rocky mountains. I would get dizzy with vertigo in places like Wyoming. But then, I moved to kentucky. Until this i had never had problems with rain. But ever since ive been here, every single time it rains i get hellish migraines. Ive never had a migraine (though always had headaches) in any of the other places west of the rockies ive lived.
+:Today (more anecdotal) I woke up with a migraine and did not know why. The sky was perfectly clear! And then about..3,4 hours later it rapidly became overcast. I more or less (mostly less) predicted a non obvious change in weather because of the pressure in my head. Anyway, thats just my experience. No real evidence to back it up, but im sure someone whos having less of a migraine than me can find it. (also sorry for weird wording. I have a migraine.) [[Special:Contributions/74.128.56.194|74.128.56.194]] ([[User talk:74.128.56.194|talk]]) 01:55, 18 June 2011 (UTC)
+
+== Other planets ==
+
+An extension of the article considering the atmospheric pressure on other planets, notably mars, would be interesting, as a low atmosperic pressure diminuishes the temperature range where water can exist in liquid form.
+
+From phase diagrams found randomly on the internet (and evaluated by moving the thumb) it looks like the average body temperature of a terrestrial bird would be sufficient to boil liquid water given the pressure of the martian amosphere. [[User:84.160.201.148|84.160.201.148]] 11:00, 9 October 2005 (UTC)
+
+Sure, the water in the martian atmosphere starts boiling well below the body temperature. But that doesn't mean that the blood in a human body boils instantly when someone is exposed to the martian atmosphere. For a while the pressure inside the body is a lot higher than outside. If you ever be exposed to martian atmosphere you suffocate long before your blood boiled away :-). You won't explode either. But your lung might be ruptured if you hold your breath before you are exposed.
+
+A similar effect, but less of course, is if you ever climb the Mount Everest. The pressure on the top is just one third of the amount on sea level. At this low pressure your cup of coffee will never be more than 70 degrees celsius, because it boils away above that temperature. So, you never burn yourself because you coffee was too hot :-). --[[User:Lucius1976|Lucius1976]] 17:56, 12 February 2006 (UTC)
+
+*i dont think the introduction sentence is very good
+
+''Atmospheric pressure is the pressure above any area in the Earth's atmosphere caused by the weight 
+of air. Standard atmospheric pressure (atm) is discussed in the next section.''
+
+considering other planetary masses have atmospheric pressures as well... such has Venus and mars. this makes it sound like if I say oh the atmospheric pressure is .6 KPA then... its on earth, when i could be referring to mars. [[User:Barcode|Barcode]] 16:12, 21 September 2006 (UTC)
+
+I think the bottle "crashed" is fake. Anyways, it should be mentioned the effect on humans. It is obvious that some persons are more affected than others by the change in atmospheric pressure, on the same way that others are more affected by the moon, the tides, etc... Sometimes people do not fully appreciate that humans are more than two thirds made of water. It is customary to associate headaches to "sit in front of a computer", bad mood to "a bad night's sleep",... but these phenomena are all related to the weather and physical conditions
+
+== Good Job, Guys ==
+
+I like the prominently placed formula which gives pressure as a function of altitude. This kind of thing is what makes the difference between a vague discussion and a genuinely useful article. [[User:Harkenbane|Harkenbane]] 23:34, 12 October 2005 (UTC)
+
+*Ok, but rather than an approximation (as is given - and is unclearly cited at that) which only applies for a narrow range of conditions, it would be much more instructive and illustrative if an equation were provided that were general.  The equation given is honestly quite confusing in its foundation.  The numbers in it are just stated to give it some sense of authority but for all we know they could have been pulled out of a hat.  The source cited for this equation is not one that is available to any of us and so cannot be verified.  The Wiki standard is then to delete it if it cannot be verified.  Please provide a new source, a new equation, or both. [[User:Astrobayes|Astrobayes]] 22:09, 18 March 2006 (UTC)
+
+==This article needs updating==
+
+This article refers to and links to [[Standard temperature and pressure]] ... but it definitely is not consistent with the detailed tabulation in the [[Standard temperature and pressure]] article of the various differently defined standard temperatures and pressures in use today.  '''''There simply is no longer any universally accepted standard temperature and pressure.  We must always clearly state what reference temperature and pressure we are using ... we cannot simply state that we are using standard temperature and pressure, and this article really needs to stress that fact.''''' - [[User:Mbeychok|mbeychok]] 06:47, 22 February 2006 (UTC)
+
+: It's pretty terrible at the moment. It say standard pressure is 100,000 Pa = 1 bar = 750 Torr, and then goes on to say that "This can also be stated as: [..] 1013.25 millibars" which is obviously wrong; being the value for 1 Atm and not 1 bar. --[[User:BluePlatypus|BluePlatypus]] 04:59, 7 April 2006 (UTC)
+
+
+==Standard Atmosphere Redirect==
+This article should '''not''' redirect from [[Standard Atmosphere]]. The US Standard Atmosphere is a model (or series of models) of the entire atmosphere including temperature, pressure, density etc (including a definition of sea-level atmospheric pressure). IMHO, fixing this situation would seem to require having [[Standard Atmosphere]] be a disambiguation page, pointing to here and the Standard Atmosphere (model). Furthermore, it would be awesome to have a general "atmospheric modeling" page that would contain general discussion and links to [[NRLMSISE-00]], "Standard Atmosphere (model)", and any other related pages (I could not locate any). Comments? [[User:MFago|MFago]] 15:18, 7 April 2006 (UTC)
+
+:I've begun this work. Any help to flush out [[US Standard Atmosphere]] would be appreciated.[[User:MFago|MFago]] 13:51, 10 May 2006 (UTC)
+
+You have (of course) noted that there is already an [[International Standard Atmosphere]] - which would seem to be the preferable home for an article :-) [[User:Linuxlad|Linuxlad]] 19:25, 10 May 2006 (UTC) 
+(The NRL... link may be useful but is unlikely to be easily stumbled on!)
+
+:Actually, these models are different (one is from the US, the other is international). I've tried to gather different models on the [[Atmospheric models]] page. Thanks for the interwiki link on [[US Standard Atmosphere]] though ... the pages I created today are still quite rough stubs [[User:MFago|MFago]] 04:11, 11 May 2006 (UTC)
+
+== Frustrated -this page needs useful information. ==
+
+Unfortunately, this page was not at all helpful to me. You atmospheric scientists likely know all this as obvious, but to those of us who aren't, please help us out. This info. should be easy to find here.
+
+Specifically:
+* A formula for converting height to air pressure (absolute), i.e. pressure=10^(5-height/15500); pressure is in Pascals, height is in meters above sea level.
+* A formula for converting air pressure (gauge) to height, i.e.
+* A formula for converting height to air pressure (gauge), i.e. 
+* A formula for converting air pressure (absolute) to height, i.e.
+
+(I didn't write the formulae, and don't want to spend a few days working them out. They should be here to save everyone this work, right?)
+:The formula you're looking for is there.  Unfortunately the relationship between altitude and pressure is strongly dependent on temperature, which varies with altitude in a way that does not lend itself to a single formula applicable to all altitudes.  This variability is dealt with by dividing the atmosphere up into layers and modeling the temperature as being linearly dependent on altitude within each layer, with different layers having different dependencies, along with a separate base pressure for each layer.  The table in [[Atmospheric pressure#Calculating_variation_with_altitude]] gives the base pressure and temperature dependence (base and lapse) for each layer, along with a single formula applicable equally to five of the layers, the other two requiring a slightly different formula because their temperature is constant over the whole layer (i.e. zero lapse rate).  What you want is there, you just have to accept that the irregular variability of temperature necessitates dividing up the atmosphere in this way.  --[[User:Vaughan Pratt|Vaughan Pratt]] ([[User talk:Vaughan Pratt|talk]]) 09:08, 21 July 2008 (UTC)
+
+* Graphs of barometric pressure historic data. In addition to the daily variation, what is the seasonal variation? This should be related to height too.
+If I had my own barometer, I would have this data. Surely SOMEONE has one and could put this data on the Web.
+
+
+What are the latest developments in [measuring atmospheric pressure]? Butthole head.
+
+== Removed section ==
+
+I removed the following section from the end of the article: 
+:''Earth's atmosphere is pressing against each square inch of you with a force of 1 kilogram per square centimeter (14.7 pounds per square inch). The force on 1,000 square centimeters (a little larger than a square foot) is about a ton!''
+:''But the air inside your body balances out the pressure outside so you stay nice and firm and not squishy.''
+
+It was added in [http://en.wikipedia.org/w/index.php?title=Atmospheric_pressure&diff=58664083&oldid=58248059 this edit] and appeared to be out of place (being located after the "See also" section and a template).  Since I could not readily find a better location to relocate the text, I will leave it up to those familiar with this article to take appropriate action.  Also, for the record, after a quick search, I found very similar text on [http://kids.mtpe.hq.nasa.gov/archive/air_pressure/ this NASA site] and [http://search.yahoo.com/search?p=%22Earth%27s+atmosphere+is+pressing%22+%22about+a+ton%22&ei=UTF-8&fr=FP-tab-web-t&x=wrt several other web sites].--[[User:GregRM|GregRM]] 21:49, 22 June 2006 (UTC)
+
+==Definition of one standard atmosphere: IUPAC and “Purely arbitrary”==
+* It is not true to state that <font color=maroon>“In 1985, IUPAC recommended that '''standard atmospheric pressure''' should be 100 000 Pascal…”</font> In 1985, IUPAC did ''not'' redefine the value of "one standard atmosphere;" they defined "the standard pressure" at which material properties should be measured.<br><br>* It is not true to state that <font color=maroon>“this "standard pressure" </font>{one standard atmosphere}<font color=maroon> is a '''purely arbitrary''' representative value for pressure at sea level.”</font> The definition for a standard atmosphere is far from arbitrary and, as a practical matter, truly reflects the mean sea level barometric pressure for many of the industrialized nations (those with latitudes similar to Paris, France).<br><br>* One mm-Hg is ''not'' interchangeable with one torr {<font color=maroon>“(1 atm) is defined as 101.325 kilopascals (kPa) or '''760 mmHg'''”</font>}.  A torr is fixed by definition as being precisely equal to 1/760th of a standard atmosphere.  The value of a millimeter of mercury is determined by: 1) the definition of gravity (9.80665 m/s<sup>2</sup>), 2) to the density of mercury (13.595 078(5) g/ml @ 0 °C, NIST value), and 3) to the temperature at which mercury's density is taken.  Whereas the value of gravity is fixed by definition, the density of mercury is determined by experiment and is subject to revision.  And of course, the temperature of the mercury should be noted in any definition.<br><br>* The attempt to mix-in the specification of gage pressure: {<font color=maroon>“14.696 psia or 0 psig (pounds-force per square inch, absolute or gauge) (lbf/in²)”</font>} produced two specs that were so intertwined, the line was next-to-impossible to decipher.  The most notable problem is it is not spelled "gauge"; it's ''gage'' pressure.  And gage pressures are ''always'' zero so it is utterly meaningless to include them (it) in any specification of atmospheric pressure.  Since 1) all the other values were absolute pressures, and 2) none of the other values had equivalent gage pressures, why bother for psi and why bother for any of the others.<br><br>I've corrected these in the article.  The values for psi and psf that are now expressed to 15 significant digits have all their terms fixed by definition.  [[User:Greg L|Greg L]] 08:50, 23 July 2006 (UTC)
+**Both "gauge pressure" and "gage pressure" are correct. It depends what country you're from. The former is more common in British Commonwealth countries.--[[User:Srleffler|Srleffler]] 00:37, 17 January 2007 (UTC)
+
+== tidal forcing of atmospheric pressure variation ==
+
+The statement "Atmospheric pressure shows a diurnal (twice-daily) cycle caused by the tides." should have a reference. please use:
+Chapman, S., 1970. Atmospheric Tides, Gordon and Breach
+Science Publishers, NY, {{ISBN|0677618107}}
+
+
+==[[Atmospheric pressure#Mean sea level pressure (MSLP or QFF)|Mean sea level pressure (MSLP or QFF)]]==
+
+In aviation weather reports ([[METAR]]), QNH is transmitted around the world in millibars or hectopascals, except in the United States and [[Canada]] where it is reported in inches.  ...In Canada's public weather reports, sea level pressure is reported in kilopascals [http://www.cbc.ca/weather/conditions.jsp?station=YUL CBC weather], while Environment Canada's standard unit of pressure is hectopascal. [reference or sample please]) Question: If [[Environment Canada]] uses the hPa, why is the Canadian aviation weather report still in inches of Hg? Peter Horn 18:37, 7 September 2006 (UTC)
+: For the very simple reason that introducing two different versions of the same number (i.e. metric vs US) could cause an accident if the wrong altimeter setting was selected.  It is far simpler to just pick one, which in this case happens to be inches since so many of the international flights into and out of Canada either originate or terminate in the US.  Thankfully the US FAA has slowly been changing toward ICAO standards, so maybe sometime in the future we will start to see US flights (and Canadian) given their baro settings in hPa instead of inches.  Until then, it's a safety issue.  Also, I'm not certain whether Transport Canada insists on inches, but I suspect that they do.  Anyway, hope the answer helps![[User:Turboguppy|Turboguppy]] ([[User talk:Turboguppy|talk]]) 17:37, 8 May 2014 (UTC)
+:: EC sample of kPa (kiloPascals) reporting of station pressure: <https://weather.gc.ca/city/pages/on-118_metric_e.html> One reason hectopascals are commonly used in meteorology is because they are equivalent to millibars (an older [[Bar (unit)|customary unit]]). E.g. 101.325 kPa = 1013.25 hPa = 1013.25 mb Whereas public reporting of kiloPascals is increasingly common because kilo is a [[Unit_prefix#Metric_prefixes|commonly preferred]] SI prefix. Note: the second Q-code, for station pressure, is QFE, not QFF. [[User:Mctylr|Mctylr]] ([[User talk:Mctylr|talk]]) 18:28, 27 June 2014 (UTC)
+
+==Observable, Conceptual changes in Air Pressure==
+Hi, I came here just looking for some basic information on air pressure.  Specifically, does air pressure increase when it's about to rain or when it's raining as opposed to during a clear day?  Just thought it'd be useful information.  I'd add it if I was sure about it. : /  --Anon.
+
+==Quran Quotes==
+Is this really necessary for an article dealing with Atmospheric Pressure?
+--[[User:Eraticus|Eraticus]] 00:14, 4 November 2006 (UTC)
+
+:No, it isn't.  And besides, the quote actually refers (indirectly) to air density, rather than pressure. [[User:Raymond arritt|Raymond Arritt]] 01:35, 4 November 2006 (UTC)
+
+what is the difference between air density and air pressure?
+air pressure is a result of air density
+
+: Please sign your messages with <nowiki>~~~~</nowiki>. Air density is the (local) mass per unit volume (kg/m3). Air pressure is the force per unit area exerted by the weight of the total column (just about) and is thus N/m2. They are, of course, related, but they aren't the same [[User:William M. Connolley|William M. Connolley]] 10:24, 7 November 2006 (UTC)
+
+== Pressure vs. altitude ==
+
+I don't recommend that anyone use the equations given for pressure vs. altitude without checking them very carefully. The user who posted them seems to have converted the units of the universal gas constant incorrectly; there may be other conversion errors etc. Strangely, even the US standard which is cited for this material uses SI units for the universal gas constant. I don't understand why the editor felt it useful to convert them. I haven't reviewed the whole standard, though, so perhaps there was a good reason for it. Ideally, the whole section should be scrapped and replaced with a ''cited'' calculation in SI units. 
+
+Note that converting a complicated calculation like this from one set of units to another may violate the policy against [[WP:NOR|original research]], for precisely the reason seen here: it's easy to introduce errors. --[[User:Srleffler|Srleffler]] 01:27, 17 January 2007 (UTC)
+
+What are you guys talking about?  There are no errors and it is not original research.  The equations are correct.  They are the equations specified by the U.S. Standard Atmosphere of 1976 which was cited.  The basic formulae remain the same; only the units changed.  It is not [[original research]].  It is a simple conversion from metric to standard.  The conversion factors are very old and are well-published (refer to NASA SP-7012, ''The International System of Units: Physical Constants and Conversion Factors'').  I edited the chart to reflect both SI units and English units.  It should now be useful for people who utilize SI units as well as people (like myself) who still use English units.  The conversion of the gas constant for air is correct.  The conversion is simply "SI units / 0.3048^2"  OR  "8.31432 x 10^3 N m /(kmol K) divided by 0.3048^2"  (note that 0.3048^2 is the conversion factor of square meters to square feet).  The only weird thing about all of this is that the U.S. Standard Atmosphere of 1976 uses the value 8.31432x10^3 as the gas constant for air which it admits is not consistent with the cited values of the Avogadro number and Boltzmann's constant.  Still though, it uses this value for all it's calculations.  The effect of this disparity is negligible (less than 0.08 pascals at 35,000 feet and less than 0.00004 pascals at 250,000 feet) and, in any event, it really does not matter because the actual pressure/temperature at any given altitude is rarely the same as the value in the tables.  (Just as the actual pressure and temperature at sea level are rarely 1013.25 mb and 15 degrees celsius on any given day).  Still though, it is a realistic, usable average.  Additionally, all aircraft flight instruments (worldwide) are calibrated using the same Standard Atmosphere as the reference.  Therefore, all altimeters are equally "inaccurate".  I feel English units should remain in this article because they are still widely used today.  Instrument shops in the United States use inches of murcury and feet when calibrating altimeters; not pascals, millibars or meters.  The current, active military standard (MIL-STD-859, ''Standard Calibration Table For Aeronautical Pressure Measuring Equipment'') is tabulated in feet and inches of mercury.  Also, the equipment used to calibrate the altimeters are themselves calibrated using feet and inches of mercury (refer to Air Force technical order 33D7-3-60-71).  In Europe, however, they use SI units.  The chart in the article now shows both so everyone should be happy.  It should also be mentioned that the U.S. Standard Atmosphere of 1976 is identical to the ICAO standard up to 32 km and the ISO standard up to 50 km.  Sincerely, Matt Gould  [[User:132.19.75.25|132.19.75.25]] 19:06, 27 January 2007 (UTC)
+
+I think there's no problem using English units as well, but aren't the English using degrees Fahrenheit in stead of Kelvins, ounces in stead of grams and pounds in stead of kilograms? (Well, the latter two are nitpicking, since they only occur in constants, but then, L is (partially!) converted as well.)  Another point is this: does the model rather than just a mean value also give an error (''e.g.'' standard deviation)?  The example calculation looks suspiciously accurate to me.  [[User:Vdsluys|Sluys]] ([[User talk:Vdsluys|talk]]) 16:29, 23 February 2008 (UTC)
+
+The "English" use the SI system in almost every day life and have done for a number of years. Fuel is bought in litres, food is bought in kilogrammes, water is used by the cubic metre, weight is depending on the person either kilogrammes or stones, pounds and ounces, rainfall and snow fall is measured in centimetres, linear distance for motor vehicles is measured in miles., but government departments use the SI - or metric system for everything. We are slowly but surely adopting the metric system and no-one going through a UK school is taught the "Imperial system."  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/90.244.55.105|90.244.55.105]] ([[User talk:90.244.55.105|talk]]) 16:14, 3 March 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+: I believe Matt Gould actually meant [[United States customary units]] rather than either the UK [[Imperial_units|Imperial]] measurements, [[Centimetre–gram–second system of units|Centimetre–gram–second system]], or SI, as "US customary units" is not a terribly commonly used phrase.
+
+==   Variation in thickness of the Earth's atmosphere ==
+
+Mountaineers are interested to know more about the variation in barometric pressure due to the varying thickness of the Earth's atmosphere. I think this thickness variation is due to centrifugal force effects of the Earth's rotation.
+
+Specifically, mountaineers would like to know:
+
+What is the variation in sea level barometric pressure between the pressure at the equator and:<br />
+a)10 deg latitude<br />
+b)20 deg latitude<br />
+c)30 deg latitude<br />
+d)40 deg latitude<br />
+e)50 deg latitude<br />
+f)60 deg latitude<br />
+g)70 deg latitude<br />
+h)80 deg latitude<br />
+i)90 deg latitude<br />
+
+DO ANY OF THE BAROMETRIC PRESSURE EQUATIONS TAKE LATITUDE INTO ACCOUNT?
+Would the variation be about the same for the northern versus southern latitudes?
+
+
+These pressure differences are related to items of interest to mountaineers such as:
+
+Is the air less dense at the summit of Denali (20,320') than on Aconcagua (22,841') due to the higher latitude?
+
+Chimborazo(20,000'+)is on the Equator in Ecuador. Thus it sits on the "bulge" caused by the Earth's rotation and is said to be the summit farthest from the center of the earth. Which effect is greater on the density of the atmosphere on Chimborazo: the "height" due to the bulge, or the greater thickness of the atmosphere at the Equator? In other words, would the air on Chimborazo be less dense if it were located at higher latitude?
+
+On a high summit, say 20,000', would the air be more dense on a cold day or a warm day? (It would seem that if it were warm, the atmosphere would expand and more air would be above you so the pressure would be greater. Conversely it would seem that on a cold day, the air would be dense and would contract, thus more of the total atmosphere would be below your 20,000' location and so the pressure would be less at your 20,000' location.)
+
+
+Can someone add more info on this topic to the main article? [[User:Ice axe 2|Ice axe 2]] 20:36, 31 August 2007 (UTC)
+
+
+>> "I think this thickness variation is due to centrifugal force effects of the Earth's rotation."  The centrifugal force makes a difference in the Earth's gravitational constant g of only about 0.4%, so it does not explain the much larger difference in pressure. This is due instead to the difference in solar heating and air circulation. In general, pressure causes gas to distribute evenly, but presses downwards due to gravity. Thus the air in Denali should be less dense than Aconcagua due to the higher altitude, subject to weather variations. Strictly speaking, one should consider the altitude from the geoid, rather than sea level, although the two are almost the same. Chimborazo may be the farthest from the Earth's center but that is irrelevant; it is not the highest from sea level. Note also that barometric pressure is not proportional to atmospheric height above it; it also depends on whether the air is rising/falling, its temperature etc.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.133.92.236|78.133.92.236]] ([[User talk:78.133.92.236|talk]]) 09:34, 25 July 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Image Removed ==
+
+I removed the image at the top of the page because it didn't illustrate the article and was confusing. The items on the graph were not identified, and it was unclear what was even being represented. Basically, the article is more clear without the image than with it. The image remains in the commons area. [[User:Victor Engel|Victor Engel]] ([[User talk:Victor Engel|talk]]) 22:02, 14 December 2007 (UTC)
+
+:Yes, but... the image is still referenced in the text of section "Local atmospheric pressure variation."  And it was kind of a nice example, though I agree it needs to be better explained/described.  And it (or an improved replacement) should be placed within the section where it is discussed.[[User:Wahoctb|Wahoctb]] ([[User talk:Wahoctb|talk]]) 03:50, 13 February 2008 (UTC)
+
+== More generalized case ==
+
+I've been trying to work out a formula similar to those in the article, relating change in pressure to change in altitude, for cases in which the change in the acceleration of gravity varies significantly enough to be taken into account. For a first step, I'd assume the mass of the atmosphere between the two altitudes to be insignificant, i.e. the source of gravity could be considered a point source. Since, assuming I do work it out, it apparently couldn't be included as original research, if anyone can find a well-sourced formula for this and include it, that might be appreciated by some, certainly myself.
+
+I think expressed as a function, it might look something like <math>P(m,r,M,T)</math>, with the variables being pressure, mass of central object, distance from central object (both radius for gravity, and used as altitude), molar mass of gas, and temperature. Constants involved would be G and R, the gravitational and gas constants. Bonus points if you can account for a temperature lapse rate, too. -- [[User:JohnOwens|J. Randall Owens]] | [[User talk:JohnOwens|(talk)]] 08:05, 15 December 2007 (UTC)
+==Records==
+I removed the records paragraph:
+:"The highest recorded atmospheric pressure, 108.6 kPa (1,086 mbar or 32.06 inches of mercury), occurred at [[Tosontsengel, Khövsgöl|Tosontsengel]], [[Khövsgöl Province]], [[Mongolia]], [[19 December]], [[2001]].<sup>[[#References|2]]</sup>{{Failed verification|date=August 2007}}
+
+:The lowest recorded non-[[tornado|tornadic]] atmospheric pressure, 87.0 kPa (870 mbar or 25.69 inches of mercury), occurred in the Western Pacific during [[Typhoon]] [[Typhoon Tip|Tip]] on [[12 October]], [[1979]].<sup>[[#References|2]]</sup>{{Failed verification|date=August 2007}} The record for the Atlantic ocean was 88.2 kPa (882 mbar or 26.04 inches of mercury) during [[Hurricane Wilma]] on [[19 October]] [[2005]]."
+
+because the citations are not valid. [[User:Superm401|Superm401]] - [[User_talk:Superm401|Talk]] 04:47, 12 January 2008 (UTC)
+
+== Calculating Variation With Altitude ==
+
+Not all land areas are at or above sea level.  Some are significantly below sea level, like the Dead Sea region.  I think it might be useful for this section to make some mention of whether the variation in air pressure below sea level is consistent with the variation above, i.e. would you add the same amount of air pressure at 400 meters below sea level as you would subtract at 400 meters above?  [[User:Berberry|Berberry]] ([[User talk:Berberry|talk]]) 16:36, 5 April 2008 (UTC)
+
+== Journey to Center of Earth ==
+
+While most of us grownups know that a shaft to the center of the earth is pure fantasy, many movie watchers, young and old, are curious about the "what if" scenario. What if you fell into a shaft thousands of miles deep? How much would the air pressure increase? Would the pressure be great enough to turn the air to liquid or solid? What would the pressure do to your terminal velocity? How much would the air temperature increase (if insulated from the surrounding magma)? How far and how long would you fall before the heat and pressure kill you? If you're not baked and vaporized by the temperatures, how long would it take to reach the bottom? 
+
+Any valid formula for air above sea level would have to be modified to account for gravity directly proportional to r (distance from the center), rather than inversely proportional to r<sup>2</sup>. You might also want to account for variations in density of the surrounding rock or magma. These adjustments could have some validity in planetary science, such as creating a habitat inside a moon or asteroid. 
+
+I'm not a mathematician, and I haven't really analysed the formulas used to develop the tables for altitudes above sea level. However, I suspect they all ignore the 3D aspect of the atmosphere. I think they calculate the weight of a prism of air above the unit area. In fact, a one-meter square at sea level (r = 6,738 km) must support a '''pyramid''' of air whose horizontal cross section at 6.378 km is 1.002001 m<sup>2</sup>. Perhaps this is negligible for aeronautical purposes, but for a shaft to the center of the Earth, it would make a huge difference. 
+
+The best source of formulas I found is [http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/barfor.html].  [[User:Onerock|Onerock]] ([[User talk:Onerock|talk]]) 13:05, 6 January 2009 (UTC)
+
+=="Reduced to sea level" needs explanation==
+The phrase "reduced to sea level" appears in this article several times.  I can guess that it means taking the pressure measurement gathered at a particular location and elevation, and then calculating what the measurement  would be if one could dig down to sea level at the current location.  I'd like to see this spelled out, including whatever variations in this method are salient  It's particularly important since this calculation will generally result in a pressure value that is larger, not smaller as the term "reduced" might suggest.  [[User:Gwideman|Gwideman]] ([[User talk:Gwideman|talk]]) 02:48, 29 November 2009 (UTC)
+
+== Units ==
+
+There's little consistency in this article in terms of which units to use. For example, in the lead we have both "14.7 lbf (65 N)" - US followed by metric - and "1 m2 (11 sq ft)" - metric followed by US. The "Atmospheric pressure records" section appears to use US units exclusively. The "Boiling point of water" section, like the lead, has both US-then-metric ("3,500 ft (1,100 m)") and metric-then-US ("100 °C (212 °F)"). Given that this is a scientific article, I would suggest standardising on metric-then-US throughout, as metric is what scientists use and it's already predominant in the article.  [[User:Loganberry|Loganberry]] ([[User talk:Loganberry|Talk]]) 02:18, 24 January 2010 (UTC)
+
+:: I agree, one type of units should be used to be less confusing, and they should the scientific ones. --[[User:Nabo0o|Nabo0o]] ([[User talk:Nabo0o|talk]]) 20:25, 6 March 2010 (UTC)
+
+:While I agree more consistency is good, the units of pressure in science varies. Those in aeronautics often use inches (or millimeters) of mercury, while those in meteorology often use millibars, neither of which is a standard SI unit. I agree with SI-then-US for most of the units (N, °C) except pressure, which requires some other combination. --[[User:Skew-t|skew-t]] ([[User talk:Skew-t|talk]]) 02:30, 12 March 2010 (UTC)
+
+
+== Off topic SI Units Lecture? ==
+
+The SI units section has a second paragraph that begins "Please note that the basic SI-unit for mass..." This lecture on the proper use of prefixes in SI units seems off topic. Perhaps it should be removed, or moved to a page on SI units since it does not pertain directly to atmospheric pressure.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Fsparv|Fsparv]] ([[User talk:Fsparv|talk]] • [[Special:Contributions/Fsparv|contribs]]) 20:09, 26 March 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== Barometric Pressure ==
+
+Shouldn't this be called Barometric Pressure?  I also have a question.  Where do highs and lows move.  what determines the direction of the high or low.  Not the rotation but the direction.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/141.156.179.114|141.156.179.114]] ([[User talk:141.156.179.114|talk]]) 03:16, 25 February 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:Barometric pressure redirects to this article. In common usage at least, they both mean the same thing. As for the movement of high and low pressure systems, that is not a simple question. Take a look at [[high-pressure area]] and [[low-pressure area]]. For the systems usually called "lows" in the midlatitudes, check out [[Extratropical cyclone#Motion]]. --[[User:Skew-t|skew-t]] ([[User talk:Skew-t|talk]]) 02:30, 12 March 2010 (UTC)
+
+== Boiling Point of Water ==
+
+What does baking have to do with boiling? Presumably fires are just as hot at altitude!  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.133.92.236|78.133.92.236]] ([[User talk:78.133.92.236|talk]]) 09:11, 25 July 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:I think is matters rather a lot. If You go high enough up in the atmosphere (due the air pressure gets lower) - Your blood starts boiling (like water) and You will die as an effect of too low air preassure. (Just one reason why) [[Special:Contributions/83.249.32.60|83.249.32.60]] ([[User talk:83.249.32.60|talk]]) 00:41, 16 February 2012 (UTC)
+
+== Duplicate section and formula ==
+
+The formula and table given under the heading ''''Calculating variation with altitude'''' is duplicated in the article [[Barometric formula]]. It should be stated ''''once'''', with necessary cross references. If it makes sense to have a seperate article, then the formula really belongs there. -- [[User:Egil|Egil]] ([[User talk:Egil|talk]]) 06:47, 19 August 2010 (UTC)
+
+== Weather Predictions based on pressure ==
+
+I think there needs to be a section in this article that talks about the relationship between pressure and weather. There seems to be a reasonable relationship between the two seeing as how many weather sites go so far as to display it as a stat. I read somewhere as  a very loose rule, a high-pressure area will be clear, and a low-pressure area will be cloudy and rainy. More information about this would be extremely helpful and an interesting addition to the article. [[User:Huperphuff|<font color="green"><b>Huper Phuff</b></font>]] [[User Talk:Huperphuff|<sup><b>(<font color="red">talk</font><font color="green">2</font><font color="orange">me</font>)</b></sup>]] 23:14, 2 February 2011 (UTC)
+
+== Temperature of water boiling (at sea level) ==
+
+The article states that "water boils at about 100 C" - but isn't 100 degrees Celcius ''defined'' as the boiling point of water ?
+(And 0 degrees defined as the freezing point of water ?). Is the word "''about''" really proper. I'm no expert in this subject, but have red some physics at "semi-high" level (like studied the Mollier-diagramme f.i.)  [[Special:Contributions/83.249.32.60|83.249.32.60]] ([[User talk:83.249.32.60|talk]]) 00:34, 16 February 2012 (UTC)
+:The [[Boiling]] article is more specific: "The boiling point of water is typically considered to be 100 °C or 212 °F. Pressure and a change in composition of the liquid may alter the boiling point of the liquid." <span style="padding-left: 1em;">&nbsp;</span>'''&sup;&deg;'''[[User:Hotcrocodile|<font face="Rockwell" style="color:#8B0000">'''Hot</font><font face="Rockwell" style="color:#006400">Crocodile</font>]][[User talk:Hotcrocodile|...... <font color="black" face="Wingdings">+]]'''</font> 01:20, 16 February 2012 (UTC)
+
+== Pressure over the area of a human body ==
+"Over the area of your body, there is about 1,000 kg of air; this is approximately the same as having a small car press down on you." It's obvious nonsense. Standard atmospheric pressure is about 1 kgf/cm2. So 1 metric ton of pressure will have a sphere of 10cm radius. The body surface area is instead ~ 2 m2 and the pressure over the area of your body will be ~ 20 metric tons. [[Special:Contributions/91.77.235.127|91.77.235.127]] ([[User talk:91.77.235.127|talk]]) 09:36, 21 July 2013 (UTC)
+
+Correct - a person 6 ft tall call it 2 metres, will have a width of about 0.5 metre, making the surface area about 1 square metre. Sea level atmospheric pressure equates to about 10 metric tonnes per square metre. Add the rear of the body and the body is being compressed by about 20 metric tonnes of air.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/90.244.55.105|90.244.55.105]] ([[User talk:90.244.55.105|talk]]) 16:20, 3 March 2014 (UTC)</span><!-- Template:Unsigned IP -->  ==<!--Autosigned by SineBot-->
+
+
+== Atmospheric pressure based on depth of water ==
+The usage of mercury barometers is increasingly rare, as mercury is considered a [https://www.ec.gc.ca/mercure-mercury/default.asp?lang=En&n=0EB35C98-1 hazardous material]. As far as I know, only professionals ever used mercury based barometers due to cost and complexity (maintenance, calibration, fragile), and most professionals [https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim-2014Ed/Prelim2014Ed_P-I_Ch-3.pdf have or are migrating to digital barometers] <ref name=CIMO-Guide2014>{{cite web|last1=Commission for Instruments and Methods of Observations|title=Guide to Meteorological Instruments|url=https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/CIMO-Guide_Prelim-2014Ed.html|website=http://www.wmo.int/|publisher=World Meteorological Organization|accessdate=27 June 2014|ref=1}}</ref> for reduced cost, better availability and ruggedness, and increased accuracy since as long as Wikipedia has existed.
+
+The first two paragraphs sound like they may of been copied from an older article or textbook. I would hazard to guess circa 1960s-1980s.
+
+While the measuring pressure using water is correct, it has little to no relation to *atmospheric* pressure in and of itself.
+
+I would suggest consideration of deleting this section of the article on these grounds, unless there are (valid) objections. [[User:Mctylr|Mctylr]] ([[User talk:Mctylr|talk]]) 17:21, 27 June 2014 (UTC)
+{{reftalk}}
+
+== Normal variation??? ==
+
+The article states that the "normal variation" is the same for everyone .. (which I find hard to believe) but then does not actually provide the normal variation.   What is the normal daily variation? The normal seasonal variation?  Surely, the normal daily variation in the arctic can't be the same is it might be on the equator?   Surely, the normal seasonal variation in the hurricane belt can't be the same as the normal variation in hurricane-free areas?
+
+How did this article get a B rating, without such fundamental information?  [[Special:Contributions/67.198.37.16|67.198.37.16]] ([[User talk:67.198.37.16|talk]]) 20:22, 4 September 2015 (UTC)
+
+: If you meant ''The adjustment to sea level means that the ''normal range of fluctuations'' in atmospheric pressure is the same for everyone. The pressures that are considered ''high pressure'' or ''low pressure'' do not depend on geographical location. This makes [[isobar (meteorology)|isobars]] on a weather map meaningful and useful tools.'' I read it a few times and decided it was rubbish. Its trying to say something like "you don't see mountains on isobar maps nad this is useful". But, as you point out, its literally wrong: pressure variation in the tropics is systematically different from mid-latitudes, for example [[User:William M. Connolley|William M. Connolley]] ([[User talk:William M. Connolley|talk]]) 21:12, 4 September 2015 (UTC)
+
+==Torricelli==
+Possibly a reference to Evangelista Torricelli should be made somewhere.Osborne 19:53, 15 December 2015 (UTC)
+
+==Error???==
+The following section should be above somewhere?
+
+== A new record? ==
+
+I noticed that SYNOP report of WMO 44224 (Tsetsen Uul, Zavkhan, Mongolia) at 2016-01-21 15:00z shows the pressure reduced to mean sea level is as high as 1094.7 hPa, which excesses the existing record of 1085.7 hPa. Source: http://www.ogimet.com/cgi-bin/decomet?ind=44224&ano=2016&mes=01&day=21&hora=15&min=00&single=yes&lang=en
+
+== Pressure changes over time? ==
+
+It looks like there's been some interesting research into possible changes in atmospheric pressure in the past. Take this article for instance: http://www.washington.edu/news/2016/05/09/early-earths-air-weighed-less-than-half-of-todays-atmosphere/
+I don't know if there are any better references, or if that one is sufficient. But it's very interesting, especially since there have been pseudoscientific claims to the contrary floating around for decades ("pterodactyls could only fly because the air was thicker!" and that sort of thing). [[Special:Contributions/76.106.190.24|76.106.190.24]] ([[User talk:76.106.190.24|talk]]) 02:56, 20 August 2016 (UTC)
+
+== Statement about explorers of the 19th century lacks evidence ==
+
+"A rough approximation of elevation can be obtained by measuring the temperature at which water boils; in the mid-19th century, this method was used by explorers".
+I'm not capable of finding any evidence that supports the statement regarding 19th century explorers. Is it just me? [[User:SpaceCore186|SpaceCore186]] ([[User talk:SpaceCore186|talk]]) 06:27, 9 March 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified one external link on [[Atmospheric pressure]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=781501165 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20131029195349/http://journal.publications.chestnet.org/data/Journals/CHEST/21761/571.pdf to http://journal.publications.chestnet.org/data/Journals/CHEST/21761/571.pdf
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 16:35, 21 May 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 5 external links on [[Atmospheric pressure]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=790072547 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20110928003908/http://psas.pdx.edu/RocketScience/PressureAltitude_Derived.pdf to http://psas.pdx.edu/RocketScience/PressureAltitude_Derived.pdf
+*Added archive https://web.archive.org/web/20121017130834/http://wmo.asu.edu/highest-sea-lvl-air-pressure-above-700m to http://wmo.asu.edu/highest-sea-lvl-air-pressure-above-700m
+*Added archive https://web.archive.org/web/20130514175318/http://wmo.asu.edu/world-highest-sea-level-air-pressure-below-700m to http://wmo.asu.edu/world-highest-sea-level-air-pressure-below-700m
+*Added archive https://web.archive.org/web/20060513194709/http://modelweb.gsfc.nasa.gov/atmos/us_standard.html to http://modelweb.gsfc.nasa.gov/atmos/us_standard.html
+*Added archive https://web.archive.org/web/20070310223946/http://www.atmosculator.com/The%20Standard%20Atmosphere.html to http://www.atmosculator.com/The%20Standard%20Atmosphere.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 12:30, 11 July 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Atmospheric pressure]]. Please take a moment to review [[special:diff/813796019|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20120907232429/http://www.crisco.com/Cooking_Central/Cooking_Tips/Prep_High_Alt.aspx to http://www.crisco.com/Cooking_Central/Cooking_Tips/Prep_High_Alt.aspx
+*Corrected formatting/usage for http://www.atmosculator.com/The%20Standard%20Atmosphere.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 07:52, 5 December 2017 (UTC)
+
+== history of metric units ==
+
+* "a column of air with a cross-sectional area of 1 square centimetre (cm2), measured from mean (average) sea level to the top of Earth's atmosphere, has a mass of about 1.03 kilogram"
+
+It is a remarkable coincidence that standard atmospheric pressure is almost exactly 1.0 kg/cm*cm. Please add a history note, either that it really is just a coincidence -- or that the kg and cm units were somehow adjusted / defined in relation to atmosphere pressure.-[[Special:Contributions/73.61.15.12|73.61.15.12]] ([[User talk:73.61.15.12|talk]]) 20:38, 3 April 2018 (UTC)
+:It's a coincidence, and we don't need to comment on it. Read the linked articles if you want to see how kilograms, Newtons and are connected. [[User:Meters|Meters]] ([[User talk:Meters|talk]]) 22:28, 3 April 2018 (UTC)
+
+== Std atm pressure eq 5 mi air column, Mt Everest ==
+
+* What is the height of air column which will produce a pressure of 1atm?
+: 'If you consider density of air 1.225 kg/m^3 (near sea level at 15 degree celcius and also consider it not changing with altitude), by substituting the values you will get height of around 8.44 km."
+
+If air density did not decrease with altitude, a column of air just over 5 miles high (5.25 mi) would be equivalent to standard sea level pressure -- just slightly less than the height of Mt. Everest (5.5 mi).-[[Special:Contributions/73.61.15.12|73.61.15.12]] ([[User talk:73.61.15.12|talk]]) 21:08, 3 April 2018 (UTC)
+:See [[WP:NOTAFORUM]]. And if you are suggesting that this  should go in the article, then I disagree. [[User:Meters|Meters]] ([[User talk:Meters|talk]]) 22:34, 3 April 2018 (UTC)

@@ -1,0 +1,503 @@
+{{WikiProject Linguistics|class=C|phonetics=yes}}
+
+==Diphthongs of Italian==
+Are the falling and rising diphthongs in Italian labeled backwards? 
+nidflocken 
+[[User:69.109.168.12|69.109.168.12]] 21:04, 26 February 2006 (UTC)
+
+::Good catch.  I've fixed the discrepancy. [[User:Aeusoes1|AEuSoes1]] 00:09, 27 February 2006 (UTC)
+
+:::Should it say 'falling' instead of 'rising' in this sentence? : "Note also that rising diphthongs are considered not true diphthongs by many phoneticians, but sequences of a consonant and a vowel."  Otherwise it does not seem to make sense with the list of Italian dipthongs.
+
+::Actually, it's the other way around.  Think of "rising" and "falling" as in the IPA vowel chart.  If it's rising, it's going from one point in the chart to a higher position.  Falling diphthongs go from a high point to a lower point and centering ones go from a non-center point towards schwa.  As for falling diphthongs not being real diphthongs, I mentioned this elsewhere in the talk page but it really depends on the language.  In English, they wouldn't be (except maybe the /ju/ in ''cute'') but in Spanish they would be.  [[User:Aeusoes1|AEuSoes1]] 00:54, 12 March 2006 (UTC) 
+
+:::Thanks for your help...I think maybe we are agreeing...however, the article states that "many phoneticians do not consider ''rising'' dipthongs to be real dipthongs, but sequences of a consonant and a vowel".  Does this mean that in Italian some people do not consider [ai] to be a real dipthong, but a sequence of a consonant and a vowel (if so, which vowel?) Sorry if I'm wrong about all of this.
+
+:: Ahh, I didn't even see that.  I've fixed the discrepancy.  I'm assuming that since the sentence is in the Italian section that the statement only applies to Italian.  If it doesn't, then we might need to move it up before listing off the diphthongs of different languages. [[User:Aeusoes1|AEuSoes1]] 20:21, 15 March 2006 (UTC)
+
+:::As I understand it, "falling" and "rising" diphthongs do ''not'' refer to relative positions in the IPA vowel chart (otherwise they would be synonymous with "opening" and "closing", and thus superfluous) but to whether the first element is stressed (falling) or the second (rising). Thus in English, "you" is rising and all the others are falling. I found a dictionary definition that agrees with me: http://www.m-w.com/dictionary/falling+diphthong [[User:84.70.24.137|84.70.24.137]] 23:08, 22 April 2006 (UTC)
+
+==Something silly==
+Something silly: until I read this on Wikipedia, I thought my Spanish teacher was talking about "tiptongues" or "dipdongs".  But I think I can be excused a little bit because she speaks English, French, ''and'' Spanish with a French accent... ok, end of silliness : ) --[[user:Dreamyshade|Dreamyshade]]
+
+==Help getting more diphthongs==
+need help getting the other language dipthongs identified
+: making progress! nice to see some [[Asian Language]] dipthongs!
+:: Well, I believe [[Korean language|Korean]] has some diphtongs, as might certain [[Chinese_spoken_language|Chinese]] dialects/languages, but I think [[Japanese language|Japanese]] lacks true diphtongs. Not sure about the [[India]]n languages.
+:::Korean, Cantonese, Mandarin, and Japanese all have true diphthongs. I'm not sure about other Chinese languages, though. Anybody who tells you that Japanese doesn't have diphthongs either doesn't understand what the term means, or is going by some extremely idiosyncratic definitions.
+::::I would presume that the poster above meant that Japanese has no ''phonemic'' diphthongs, which is different from it having no diphthongs phonetically at actual realization.  This is similar to how, say, most NAE dialects only have three diphthongs /aɪ/, /aʊ/, and /ɔɪ/ (or equivalent) phonemically, and yet they have plenty of other diphthongs phonetically, such as [eɪ], [oʊ], and just any combination of [j] and [w] and a following nucleus vowel possible. -[[user:Travis B.|Travis]] 11:31, 27 March 2006 (UTC)
+
+Yes, but in order to show that a diphthong is a phoneme you have to assume it is a phoneme in the first place. There is no definitive proof that this or that sound combination is or is not a phoneme using traditional phoneme criteria.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/133.7.7.240|133.7.7.240]] ([[User talk:133.7.7.240|talk]]) 11:35, 11 June 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+:If phonology were that Orwellian, the field would collapse in on itself.  If we stick to sourcing, I think we'll be okay. — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɹ̠ˤʷɛ̃ɾ̃ˡi]</sub></small>]]</span> 22:21, 11 June 2010 (UTC)
+
+Most phonology nowadays has nothing whatsoever to do with phonemes. Besides it's arbitrarily narrow to define a given diphthong as 'phonemic' only if you can put it in lexical opposition to another phoneme. How do we know how many diphthongal phonemes English has when we can't even get an agreed-to account of how many phonemes English has? What is often meant is that if you take some pronounced diphthongal vowels in , for example, American English, they don't form a contrast with a less diphthongal variation of a similar vowel. Diphthongs were originally conceived as phonetic descriptions anyway. Then phonemics got in the way, and now it's the obsolete little ugly duckling in the room.[[Special:Contributions/133.7.7.240|133.7.7.240]] ([[User talk:133.7.7.240|talk]]) 07:56, 14 June 2010 (UTC)
+
+     >>Korean, Cantonese, Mandarin, and Japanese all have true diphthongs. I'm not sure   
+     about other Chinese languages, though. Anybody who tells you that Japanese doesn't 
+     have diphthongs either doesn't understand what the term means, or is going by some 
+     extremely idiosyncratic definitions.<<
+
+Well many here at wikilinguistics pages tend to use old sources and ones stuck in structuralist phonemics. Moreover, in the case of Japanese, things are made difficult by overlapping confusions of mora, syllable, long vowels forming the nucleus of one, no wait, two syllables (because they confuse mora with syllable), etc. So it is very difficult to make much progress in discussing the issues with them. Also, you have to remember in the case of a language like Japanese, descriptions of it, including phonological and phonetic, exist for and are motivated by different goals: 1. for native literacy, 2. for JSL & JFL learning, 3. for academic phonetics and phonology (themselves more and more not distinct fields). [[Special:Contributions/133.7.7.240|133.7.7.240]] ([[User talk:133.7.7.240|talk]]) 08:01, 14 June 2010 (UTC)
+:It looks like you've already got a conversation going about diphthongs in Japanese at [[Talk:Japanese phonology]].  You should probably stick to it there.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɹ̠ˤʷɛ̃ɾ̃ˡi]</sub></small>]]</span> 08:12, 14 June 2010 (UTC)
+
+I'll stick to it in both places and anywhere else it is relevant, thank you just the same.[[Special:Contributions/133.7.7.240|133.7.7.240]] ([[User talk:133.7.7.240|talk]]) 08:49, 14 June 2010 (UTC)
+
+==Italian diphthongs==
+Here is a fairly good description of diphthongs in the Italian language (sorry it's in Italian ...) http://www.italicon.it/modulo.asp?M=m00199&S=4&P=5
+
+:Thers's nothing to apologize for.[[User:Cameron Nedland|Cameron Nedland]] 16:12, 29 October 2006 (UTC)
+
+==Various changes==
+I have changed many things in the wiki article since it was a bit confusing. Besides, "seem" in English is mainly pronounced with a long vowel (often with a diphthong), so I changed the example with "sum", which has always a short and stable vowel.
+
+[[it:User:Carnby|Carnby]]
+[[User:84.222.53.158|84.222.53.158]] 14:36, 4 September 2005 (UTC)
+
+==Glides versus semivowels==
+Again, in the article there's a confusing usage of the symbols [j] [i&#774;] and [i] which should represent different [[phone]]s. We should use a standardized transcription system.
+
+[[it:User:Carnby|Carnby]]
+[[User:84.222.52.85|84.222.52.85]] 21:10, 30 December 2005 (UTC)
+
+: Yes, the representations are really confusing. For example the diphthongs <ai> and <au> are /ai/ and /au/ under Portuguese but /aj/ and /aw/ under Romanian. Seems like <ai> and <au> are pronounced differently in these two languages, but that is hardly the case, right?
+: -- [[fi:User:Rasulo|Rasulo]]
+
+== Semivowels(=semiconsonants) in diphthongs ==
+Not all phoneticians agree that semivowel+vowel combinations should be considered as diphthongs, e.g.: see [http://venus.unive.it/canipa/pdf/HPr_03_Italian.pdf Canepari] on Italian diphthongs.  According to this author, there are many fewer diphthongs in Italian than shown here, since semivowels are '''not''' proper vowels, so they can't be part of diphthongs.
+
+Something about the different definitions of diphthong in use or having been used historically should be included here.
+
+[[User:Freethinker77|FT77]] 00:46, 28 January 2006 (UTC)
+
+::One thing to consider is rhyming.  In English, "yet" {{IPA|/jet/}} and "wet" {{IPA|/wet/}} have the semivowel+vowel combination and speakers will tell you that they rhyme.  However, in Spanish "diego" {{IPA|/djego/}} and "fuego" {{IPA|/fwego/}} do ''not'' rhyme (at least, according to the native speakers I've asked so far). [[User:Aeusoes1|AEuSoes1]] 20:21, 17 February 2006 (UTC)
+:::This may be because intuitively ''ie'' is considered a pronunciation spelling of what is "somewhere below really" /e:/ while ue is /o:/, and e and o of course do not rhyme. (Which foreign speaker of the language, when trying to speak it at some speed, hasn't yet found it useful to pronounce both Spanish "bueno" and Italian "buono" in a surprisingly monophthongic, Latin way?)--[[Special:Contributions/2001:A61:260D:6E01:10B0:73BB:127F:9B7D|2001:A61:260D:6E01:10B0:73BB:127F:9B7D]] ([[User talk:2001:A61:260D:6E01:10B0:73BB:127F:9B7D|talk]]) 01:19, 25 January 2018 (UTC)
+
+I think there is the [aw]-sound missing in the list for standard German (e.g. "Auto")
+
+::No, it's there.  "{{IPA|[aʊ]}} as in Maus" [[User:Aeusoes1|AEuSoes1]] 01:50, 5 February 2006 (UTC)
+:: what is missing is ui (even if it only appears in "hui" and "pfui").  <small class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2003:45:4359:2BA0:F84D:1D33:CE51:2C9D|2003:45:4359:2BA0:F84D:1D33:CE51:2C9D]] ([[User talk:2003:45:4359:2BA0:F84D:1D33:CE51:2C9D|talk]]) 11:28, 7 May 2016 (UTC)</small><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Spelling ==
+Isn't the word also spelled: '''Dipthongs'''. I have seen it like this before, and I think it should be listed as an alternative spelling. [[User:JP06035|<font color="silver">→</font>]]&ensp;[[User:JP06035|<font color="blue">J</font>]][[Special:Emailuser/JP06035|<font color ="D06000"><small>@</small></font>]][[User:JP06035|<font color="blue">red</font>]]&ensp;<sup style='margin-right:-20pt'>[[User_talk:JP06035|<font color="green"><small>talk</small></font>]]<span class="plainlinks"><font color="silver">[http://en.wikipedia.org/w/index.php?title=User_talk:JP06035&action=edit&section=new +]</font></span></sup> <sub>[[User:JP06035#My_Userboxes|<font color="#DC260C">ubx</font>]]</sub>&ensp; 02:17, 31 March 2006 (UTC)
+
+:The convention is to transcribe greek φ as ''ph'' and θ as ''th'' to indicate that the word is (prescriptively) pronounced with a labiodental and interdental fricative respectively.  I've never seen it spelled in official circles other than ''phth'' unless it's in another language.[[User:Aeusoes1|AEuSoes1]] 10:12, 31 March 2006 (UTC)
+
+::I belong to a linguistics message board and I've seen all three spellings (phth, pth, pht) often enough. I'm pretty sure it's just because people find this unusual cluster confusing. The "phth" spelling is the only one with dictionary recognition, and the other two should be considered aimply as mistakes. [[User:84.70.24.137|84.70.24.137]] 23:03, 22 April 2006 (UTC)
+
+:::I've seen the spelling ''dipthong'', and that is also how I pronounce it, along with some other people I know.[[User:Cameron Nedland|Cameron Nedland]] 16:13, 29 October 2006 (UTC)
+
+::::An example of [[dissimilation]]. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 03:23, 8 May 2016 (UTC)
+
+:I think "dipthong" is just a common misspelling (and an even more common mispronunciation).  Perhaps the pronunciation is common enough to be acceptable or "correct", but I don't think the misspelling is.  If it is, Wikipedia will need to add "accomodation" (an extremely common misspelling) to all the articles about accommodation, too! -[[User:86.137.136.182|86.137.136.182]] 18:43, 14 September 2007 (UTC)
+:In any case, a consensus needs to be reached on which spelling to use. Right now it randomly switches between them with no explanation. The first word of the article doesn't even match the article title, which is quite amusing. [[Special:Contributions/138.210.6.26|138.210.6.26]] ([[User talk:138.210.6.26|talk]]) 23:05, 20 April 2011 (UTC)
+
+According to Mirriam Webster, the "pth" is an official secondary pronunciation.
+
+==Definition of falling and rising diphthong==
+From the article:
+
+"'''Falling''' diphthongs start with a higher vowel, e.g., {{IPA|[i&#601;]}},  while '''rising''' diphthongs end with a higher vowel, e.g., {{IPA|[ai]}}. In '''closing''' diphthongs, the second element is [[vowel#vowel qualities|closer]] than the first;"
+
+This is not the definition I'm familiar with. I thought that falling diphthongs were the ones with stress on the first vowel, and rising diphthongs were the ones with stress on the second vowel. See the [[Diphthong#Romanian|diphthongs of Romanian]], for example; in [e̯o] and [uj], the height of both vowels is the same. [[User:FilipeS|FilipeS]] 10:41, 4 May 2006 (UTC)
+
+:Stress is something that is applied to a whole syllable, not part of a diphthong.  I think I understand what you're talking about though, since one part of a diphthong is typically considered stronger and the other weaker.  You're going to need to provide a source for your definition, though, and also account for what "centering" diphthongs would then be.  Keep in mind, also, that the terms for diphthongs are completely arbitrary and Romanian just happens to be a language that doesn't really fit well into the system.  [[User:Aeusoes1|AEuSoes1]] 05:48, 5 May 2006 (UTC)
+
+Let me explain what I mean with a couple of examples. In Portuguese, there are diphthongs like ''ui'' [ui ̯] and ''iu'' [iu̯] -- or [uj] and [iw]; the difference (if there is a difference) is not phonemic. These are called falling diphthongs in traditional grammar because they are composed of vowel + semivowel. Yet both [i] and [u] have the same height!
+There are also rising diphthongs, composed of semivowel + vowel, for example ''uí'' [u̯i] and ''iú'' [i ̯u] (or [wi], [ju]). Again, in this case both elements of the diphthong have the same height. 
+I understand that linguists may prefer more technical definitions than conventional grammars, but I don't see how the definition used in the article would account for these cases and differences... [[User:FilipeS|FilipeS]] 12:20, 5 May 2006 (UTC)
+
+::Ahh, I found something that may explain some of what we're talking about [[http://home.nvg.org/~taliesin/conlang/diphthongs.html]].  For most of the article, the term ''rising'' has been applied to what this link describes as ''closing'' and ''falling'' for ''opening''.  It also includes a number of other terms.  I don't really have anything bound that contradicts it so I guess these are the definitions we can use unless somebody can back up my original definition (or another) with a non-web resource.  
+::This puts to question the layoutof the article.  Why do we make distinctions between opening and closing diphthongs and not centering ones or fronting ones, etc?[[User:Aeusoes1|AEuSoes1]] 04:18, 6 May 2006 (UTC)
+
+I've made the change in the definition. The factor influencing whether a diphthong is falling or rising is sonority. A falling d. has falling sonority (so the tongue slides from a lower vowel to a higher vowel, in terms of the vowel grid, because that is how sonority decreases within the class of vowels). A rising d. has a rising sonority profile.
+
+Thank you. I've taken the liberty of rewriting the definition a little bit. [[User:FilipeS|FilipeS]] 21:58, 6 May 2006 (UTC)
+
+== dude ==
+
+in all seriousness, do you guys pronounce this word DIP-thong or DIFF-thong? [[user:kzzl|Kɔffee]]<font color="red">[[who's comin' with me, man?|Drinker]]</font>[[arabica|McVonn]] 03:49, 6 May 2006 (UTC)
+
+:I think the correct pronunciation is diff-thong.  I say it dip-thong and it gets on my nerves when I hear people say it correctly. [[User:Aeusoes1|AEuSoes1]] 04:20, 6 May 2006 (UTC)
+
+::hehe. aight, cool. I'v always said (and always heard, I'm 90% certain) "dipthong", even from a legit linguist or two. now, '''monophthong'''- ''that's'' a funky string of phonemes right there. [[user:kzzl|Kɔffee]]<font color="red">[[vonn|Drinker]]</font>[[arabica|McIzzl]] 04:43, 6 May 2006 (UTC)
+
+:::I say DIP-thong (as in 'chips and "dip"', and 'that girl is wearing a red "thong"')[[User:Cameron Nedland|Cameron Nedland]] 16:15, 29 October 2006 (UTC)
+::::Noone forces us to speak the ''th'' in a modern Greek (and English) manner. "Diftong" and "monoftong" do the job just fine. If the t is aspirated, as it is in English, so much for the better.--[[Special:Contributions/2001:A61:260D:6E01:10B0:73BB:127F:9B7D|2001:A61:260D:6E01:10B0:73BB:127F:9B7D]] ([[User talk:2001:A61:260D:6E01:10B0:73BB:127F:9B7D|talk]]) 01:21, 25 January 2018 (UTC)
+
+== eg Pedophile ==
+
+This article should explain as I believe to be the case, the American removal and ignor-ance of the diphthong as the cause of the American mis-pronunciation of words like Paedophile, because they spell it Pedophile. Why say wikipeeedia, but not peeedophile?
+
+:That has to do with language change in Latin and Greek before such words were ever borrowed, not ignorance.  Greek-derived words with ''ae'' were never pronounced as diphthongs in English and the British certainly don't pronounce it any differently than Americans.  See [[Spelling differences#Greek-derived spellings|here]] for more. [[User:Aeusoes1|AEuSoes1]] 13:13, 19 May 2006 (UTC)
+
+Yes they do. In [[Kill Bill]] vol 1, The bride/uma thurman says the word 'pedophile'. I heard how she said it, it's the normal american way to say it. I'm British and we never say it like that! Surely this is because we spell it differently! --[[User:81.105.251.160|81.105.251.160]] 07:45, 26 May 2006 (UTC)
+
+::Nope.  Spelling has no bearing on pronunciation.  What is the difference between the way she says it and the way you say it?[[User:Aeusoes1|AEuSoes1]] 01:30, 27 May 2006 (UTC)
+
+I'm back! We say the ped part (paed) as to rhyme with feed or need. Uma Thurman, and many Americans say it as if ped rhymes with said or fed. I accept that your superior knowledge of philology means that you may be right that it is not the spelling that is the cause of the difference. If not, then what is? Is it just another word that is said "wrong". -- Americans pronounc mobile as if there is no e on the end. --[[User:81.105.251.160|81.105.251.160]] 20:09, 13 July 2006 (UTC)
+:Both pronunciations are "right" for the people who say them. The difference is just one of the many differences between American and British pronunciation (we say ''tomayto'' and you say ''tomahto'' and at least some Canadians say ''tomatto'', but we all spell it the same way). [[User:Angr]] 20:47, 13 July 2006 (UTC)
+::It seems British (RP at least) are more inclined to say 'ee' /i:/ where Americans would say 'eh' /ε/. Think of 'evolution', 'leverage', et aliæ.[[User:Cameron Nedland|Cameron Nedland]] 16:19, 29 October 2006 (UTC)
+:::I get what he's saying here - the "paed" part, which is pronounced "peed" was changed in AmE into "ped", and the pronunciation followed. I'm not saying one is more correct than the other, but it's clear which came first. But, this doesn't have anything to do with dipthongs, so I don't know what it's doing here. -- [[User:Boothman|<font color="#0f6e0a">'''Boothman'''</font>]] <sub>[[User talk:Boothman|'''<font color="#5c9337">/tɔːk/</font>''']]</sub> 19:20, 15 May 2007 (UTC).
+
+::: Isn't that ae part of paedophile a diphthong or have I completely misunderstood? Also, is a diphtong an example of a digraph that only contains vowels or vowel sounds? What is the difference between a diphthong and a digraph? --[[User:Spuzzdawg|Spuzzdawg]] ([[User talk:Spuzzdawg|talk]]) 11:44, 26 June 2010 (UTC)
+::::Diphthong and digraphs aren't really related to each other.  [[Digraph]]s have to do with letters and diphthongs have to do with sounds.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɹ̠ˤʷɛ̃ɾ̃ˡi]</sub></small>]]</span> 17:51, 26 June 2010 (UTC)
+
+::Pedagogue, pederast and pedant are all from the same Greek root (through Latin) yet are pronounced with ped- and not "peed-" in British and American English, as far as I'm aware.  I would suggest that the British pronunciation is an affected form based on the Latin spelling (or French pronunciation) and not the other way around - it's a relatively new word (see also paediatric) so the British have a 'learned' pronunciation whilst the Americans fit the new words into the existing analogy.  [[User:Psammead|Psammead]] ([[User talk:Psammead|talk]]) 20:33, 4 December 2011 (UTC)
+
+== Danish diphthongs ==
+
+This article has a serious omission: the Danish diphthongs that are, in fact, additional 'letters' in the Danish alphabet. Has anyone the expertise to add this section? I could only do so in an amateur sort of way. - [[User:Ballista|Ballista]] 05:30, 22 September 2006 (UTC)
+
+==Portuguese diphthongs==
+Some recent additions to the section on Portuguese are wrong. I have tried to discuss this with the [[User_talk:HYC|user who made them]], but he seems to have gone away, so I am going to revert them. [[User:FilipeS|FilipeS]] 21:21, 26 October 2006 (UTC)
+
+== References in Popular Culture ==
+
+This may seem silly for this entry, but I know that in [King's Quest VI: Heir Today, Gone Tomorrow] Diphthong is personified as a little creature that say a nonsensical diphthong. I also recall the term being mentioned in a movie, but I can't recall what movie (The Pagemaster, maybe?). [[User:BrainRotMenacer|BrainRotMenacer]] 04:48, 19 November 2006 (UTC)
+
+:Yeah, that's pretty off-topic.  [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub>]]</span> 05:14, 19 November 2006 (UTC)
+
+::As is every single other "references in popular culture" section, I presume. Yet it still exists all over the place. [[User:BrainRotMenacer|BrainRotMenacer]] 02:35, 21 November 2006 (UTC)
+
+:::Oh, I disagree.  Pop culture references to, well, any piece of art (whether it be musical, literate, or canvas) is much more relevant than references to a scientific term.  [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub>]]</span> 06:05, 21 November 2006 (UTC)
+
+== Polish diphthongs and GRAPHIC slide of EN diphth ==
+
+Hi. In Polish Wikipedia I've added graph that presents a glide from one vowel to another in English diphthongs. See on the right: .
+--[[User:Krzysztofpawliszak|Krzysztofpawliszak]] 23:45, 27 January 2007 (UTC)[[Image:Br English IPA diphthong chart.png||thumb|Br English IPA diphthong chart]]
+
+:Nice, thank you very much![[User:Cameron Nedland|Cameron Nedland]] 00:02, 23 April 2007 (UTC)
+
+==Order of languages==
+
+While ordering the languages alphabetically is a good idea, I think it might be beneficial to present English diphthongs first (and then the rest alphabetically) readers are likely to be most familiar with the English language and using English diphthongs as the first set of examples can help readers, especially those unfamiliar with phonology, to quickly grasp the concept.  [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub>]]</span> 05:18, 1 May 2007 (UTC)
+
+:I personally like the status quo, but do whatever you want.[[User:Cameron Nedland|Cameron Nedland]] 14:04, 7 May 2007 (UTC)
+
+== Pronunciation  of Diphthong ==
+
+It seems to me there could be three (or even four) ways to pronounce this word:<br>
+* Dip-thong
+* Dif-thong
+* Daif-thong
+Obviously "dip thong" is the one that comes into your head when looking at the word, "diff thong" is the most likely pronunciation and "daif thong" is a pronunciation that stems from "di" (rhymes with pie) as in two (mono, di, tri). That would mean [[triphthong]] was pronounced traif-thong. Does anyone have any sources for which is correct (if any)? And should it be included in the article?-- [[User:Boothman|<font color="#0f6e0a">'''Boothman'''</font>]] <sub>[[User talk:Boothman|'''<font color="#5c9337">/tɔːk/</font>''']]</sub> 19:27, 15 May 2007 (UTC).
+
+
+::The third is not a plausable pronunciation because ''phth'' is a consonant cluster.  Most dictionaries list the first two pronunciations although I prefer the first because two fricatives together is so unEnglish..  [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub>]]</span> 22:43, 15 May 2007 (UTC)
+
+::Dif-thong is the most traditional and most "correct" pronunciation (from a prescriptivist point of view).  I've never heard of daif-thong. 18:32, 14 September 2007 (UTC)  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.137.136.182|86.137.136.182]] ([[User talk:86.137.136.182|talk]]) {{{2|}}}</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:::I've never heard it pronounced that way. I'm none too clear what a dipthong is, anyway, since half the examples given are just plain ordinary vowels, and half are two-syllable combinations with a hiatus, [[Special:Contributions/173.66.211.53|173.66.211.53]] ([[User talk:173.66.211.53|talk]]) 00:22, 27 March 2013 (UTC)
+
+==European bias==
+This page is utterly biased towards european languages.  Many other languages have dipthongs too. <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/156.145.252.28|156.145.252.28]] ([[User talk:156.145.252.28|talk]]) {{{2|}}}</small><!-- Template:UnsignedIP -->
+
+:Then include them.  [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub>]]</span> 19:08, 31 July 2007 (UTC)
+
+::Most native English speakers tend to only know European languages (if they indeed know ''any'' foreign language), so it's not purposeful exclusion of non-European languages.18:20, 17 September 2007 (UTC)  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Cameron Nedland|Cameron Nedland]] ([[User talk:Cameron Nedland|talk]] • [[Special:Contributions/Cameron Nedland|contribs]]) {{{2|}}}</small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:::True, but there's no current reason why we can't include, say, the diphthongs of [[Vietnamese language|Vietnamese]], [[Khmer language|Cambodian]], [[Yanesha' language|Yanesha']] etc.  The phonological description of these languages on Wikipedia is fairly apt.  If you look at the consonant and vowel pages like [[close front unrounded vowel]] and [[alveolar nasal]], you'll see there's still a greater number of European language examples, but there are still actually non-european examples present.[[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 19:50, 17 September 2007 (UTC)
+
+==table==
+
+I made a table to show a comparison of English dialects so we could see them side by side.  Perhaps, rather than sectioning off the languages and listing the diphthongs repeatedly we could have a table that has a list of common diphthongs, languages that have them (with examples) and then languages that have unusual or rare diphthongs can be discussed as well.  Here's a crude example
+
+{| class="wikitable"
+|-
+!
+! colspan="2"|ai
+! colspan="2"|au
+! colspan="2"|oi
+! colspan="2"|eu
+|-
+![[Arabic language|Arabic]]
+|colspan="2" |šayṭan 
+|colspan="2" |mudawla 
+| 
+|
+|
+|
+|-
+![[Finnish language|Finnish]]
+|laiva|| äiti
+|colspan="2"|lauha 
+|colspan="2"|poika
+|colspan="2"|leuto
+|-
+![[Italian language|Italian]]
+|colspan="2"|avrai
+|colspan="2"|pausa
+|voi||poi
+|Europa|| feudo
+|}
+
+What do you guys think? [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub>]]</span> 00:35, 19 August 2007 (UTC)
+
+== sources for the french diphtongs ==
+
+Hi there, do you have sources  for those diphtongs. In France there is a religion that diphtongs dont exist anymore in modern french, except within some dialects like canadian french ! .... I am try to discuss this theory in the french wikipedia page and I am quoting this article but with some sources it would have more weight... stefjourdan at caramail.com or user motunono on fr.wikipedia  <small>—The preceding [[Wikipedia:Signatures|unsigned]] comment was added by [[Special:Contributions/{{{IP|{{{User|203.173.190.18}}}}}}|{{{IP|{{{User|203.173.190.18}}}}}}]] ([[User talk:{{{IP|{{{User|203.173.190.18}}}}}}|talk]]) {{{Time|03:03, August 21, 2007 (UTC)}}}</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:The understanding I have about French is that either French has diphthongs (i.e. complex nuclei) or it has vowel + semivowel combinations.  I can't really help you on sources though.  [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub>]]</span> 03:34, 21 August 2007 (UTC)
+
+That probably has to do with the distinction between rising diphthongs (which many linguists seem to analyse as approximant + monophthong) and falling diphthongs (proper diphthongs). Many French diphthongs are of the rising kind. However, the article lists a few falling ones as well. [[User:FilipeS|FilipeS]]
+
+== Dutch diphtongs ==
+
+In standard Netherlands Dutch, /e/, /ø/ and /o/ are diphtongues as well, more like /ei/, /øy/ and /ou/ (see [[Dutch phonology]] page). I'll included them with a footnote, anyone disagree? EDIT: ok, done, tell me what you think. [[User:Jalwikip|Jalwikip]] 09:35, 17 October 2007 (UTC)
+
+== Diphthongues of language X ==
+
+I think we should create a 'diphthongues in different languages' page, to keep the linguistic stuff apart from the examples. Otherwise this page is going to grow and grow, the actual definition becoming only a very small part of it. Also, I think it would be nice to include diphthongue graphs for each language then, most are available from the respective phonology pages. [[User:Jalwikip|Jalwikip]] 09:37, 17 October 2007 (UTC)
+
+:I think it would be a better idea if we just agree on some sort of criterion for limiting the number or type of examples.   [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 21:46, 17 October 2007 (UTC)
+
+== Diphthongs & Stress ==
+
+I will refer to Spanish only as it is the language I know the most. This may be useful for anyone, though, and you may have better examples from other languages.
+There's no information concerning the relationship between diphthongs and stress (and intonation), even though the latter can determine to some extent whether a diphthong rises or falls.
+They only describe rising and falling diphthongs, and compare them with each other. Since they show some examples in the same paragraph, it might easily be (mis)understood that the rising or falling is inherent to those particular examples (they just happen to mention {{IPA|/aɪ̯/}} and {{IPA|/ɪ̯a/}} so it seems as though the {{IPA|/-ɪ̯// ɪ̯-/}} sound must always correspond to the vowel with less prominence). If you thought that this misunderstanding couldn’t arise just from this unintentional detail, please scroll down and pay attention to how the examples are displayed: 
+'''Spanish'''
+Diphthongs in Spanish:
+'''rising'''
+*	/ja/ as in comedia
+*	/jo/ as in dio
+...
+It looks like those are the only possibilities for standard Spanish (and nothing else). Moreover, they unintentionally make it appear as if /ja/ could only be in the “rising” section and never in the “falling” section. In "comedia", the diphthong is unstressed so it's not easy to tell which vowel is more prominent (you can only tell that it opens). I think ''comediante'' is less ambiguous, but again this is because of the stress: ''co-'''me'''-dia'' {{IPA|[ko'mɛdja]}}; ''co-me-'''dian'''-te'' {{IPA|[komɛ'djantɛ]}}.
+''Dio'' is alright, since the diphthong certainly rises but also consider other words such as ''predio''.
+Please correct me if I’m wrong but I just pronounce ''comedia'' over and over and never get a clear ascending diphthong. 
+We’re considering isolated words only. However, '''intonation''' should also be significant in more complex structures such as sentences.
+For the time meaning, I’ll only replace the somewhat ambiguous examples.
+--[[User:Quinceps|Quinceps]] ([[User talk:Quinceps|talk]]) 04:15, 20 November 2007 (UTC)
+
+:I'm not sure if I get what you're saying.  I am somewhat aware of glide formation at sentence boundaries in Spanish.  Martínez-Celdrán et al say that "In fast speech, sequences of vowels in hiatus reduce so that one becomes [–syllabic]. If both vowels have the same timbre they fuse." (p 256).  They also provide a sample:
+
+{{IPA|[el ˈβjen̪to ˈnoɾte ʝ el ˈsol poɾˈfjaβan soβɾe ˈkwal̪ˈdeʎoˈs eɾa e̯l ˈmasˈfweɾte
+kwan̪do̯ aθeɾˈto a̯paˈsaɾ um bjaˈxeɾo̯emˈbwel̪to̯ eˈn ãnʲtʃa ˈkapa]}}
+
+''El viento norte y el sol porfiaban sobre cuál de ellos era el más fuerte, cuando acertó a pasar un viajero envuelto en ancha capa.''
+:Is this what you're talking about?  If so, I'd say that the glide formation in this example exhibits ''phonetic'' diphthongs rather than phonemic ones.  [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 03:52, 30 November 2007 (UTC)
+
+In part, yes. I guess you're right and I should have provided that kind of examples to clarify. However, even if you pronounce words separately (as they are shown in the list of rising and falling Spanish diphthongs) you get some words where it's very difficult to tell whether the diphthong rises or falls (as I mentioned before, you could tell if they open or close more easily). That's why I think the falling-rising criterion is not always the best way to classify diphthongs. So my opinion was, if they are going to keep it as it is they should at least give some less ambiguous examples.--[[User:Quinceps|Quinceps]] 16:06, 4 December 2007 (UTC)
+
+::I wasn't aware that the examples were ambiguous but I've changed most of them to the examples that Martínez-Celdrán et al use.  [[User:Aeusoes1|Æµ§œš¹]] <span title="Pronunciation in IPA" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 18:30, 4 December 2007 (UTC)
+
+:::That's perfect. Now the article has a better reference. Thanks.
+
+==Diphthongs in Portuguese==
+Sorry Aeusoes, would you care to explain how /j/ and /w/ are “inaccurate”, please? The sounds /ɪ/ and /ʊ/ do not exist in (standard at least) Portuguese. And Portuguese language phonologists usually use either /j/ and /w/ or /i̯/ and /u̯/. [[User:TenIslands|Ten Islands]] ([[User talk:TenIslands|talk]]) 05:56, 13 February 2008 (UTC)
+:Phonetically, the source on Brazilian I've seen uses <{{IPA|ʊ̯}} and {{IPA|ɪ̯}} and the source on European uses <{{IPA|i}}> and <{{IPA|u}}>, though I believe the latter is a broader transcription, so it's hard to be sure if the two differ phonetically.  Phonemically (with / slashes /) j and w are as accurate as any other transcription, and if Portuguese linguists use them for diphthongs then it does indeed seem very appropriate to use them.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span>
+
+== semivowels vs approximants ==
+
+Since this article is cross-linguistic, I thought it important to be precise phonetically. To that end I've converted the entries from phonemic to phonetic transcription, and attempted to rigorously distinguish semivowel from approximant. Yes, I know that not all phoneticians make that distinction, and that even if they do, it is not important for many of these languages, but it *is* relevant when comparing languages. And many of the examples were written as hiatus, which is confusing if you don't know the language. I'm sure I made a few (ha!) misteaks. Latvian needs serious review—there were 52 diphthongs, when the Latvian article says 6! Also, I don't what to do with some of the odder Germanic diphthongs. When there is a length mark at the end, is that for the final component, or for the diphthong as a whole? We need to add the semivowel diacritic and perhaps move the length diacritics. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 22:04, 3 June 2008 (UTC)
+
+: Or one could simply state at the introduction of the article that the diacritic for semivowel is omitted, and that all vowel-vowel combinations are to be read as diphthongs, not as constructs with hiatus. Of course this does not specify yet whether the forst of the second vowel is the unstressed/semivowel constituent, but that could be addressed on a per language basis. [[User:Szabi|Szabi]] ([[User talk:Szabi|talk]]) 08:21, 10 June 2008 (UTC)
+
+::Since this is an encyclopedia, I think we should at least transcribe diphthongs ''as'' diphthongs in the article on diphthongs. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 10:29, 10 June 2008 (UTC)
+:::So are we not then distinguishing between phonetic diphthongs and phonemic ones?  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 13:56, 10 June 2008 (UTC)
+::::We should. You can get an indeterminate number of phonetic diphthongs in rapid speech, to the point that it is sometimes almost meaningless to discuss them. If you mean the bracket notation, we can use a broad transcription that only distinguishes phonemes. Once we use slashes, we are no longer dealing with pronunciation, which can be problematic. Or do you think we should take a different approach? [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 14:57, 10 June 2008 (UTC)
+:::::I'm just thinking of diphthongs that are a) the result of allophonic processes like with Spanish (that is, the regular diphthongs plus that of ''maestro'') and Catalan b) allophones of other diphthongs as with Canadian English's extra two.  Currently, the section on Spanish says "the phonemic diphthongs are..." and then lists them with brackets.  Should we change them back to slashes in at least some cases?  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 02:54, 11 June 2008 (UTC)
+
+::::::I guess I've been blanket converting foreign pronunciations to bracket transcription. Slashes are fine as long as we link to the phonology of the language (which we mostly do) so that the values are defined. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 07:49, 11 June 2008 (UTC)
+
+==Latvian==
+I just removed some non-existing diphtongs from the Latvian section. All the deleted examples are loanwords and their vocals are hardly pronounced as diphtongs. The example "souls" is also a loanword, I'll try to think of an inherited word to replace it. I will also try to look up the correct IPA transcriptions, I think the [uo] in "ruoka" should be [uɐ], and [iɛ] in "iela" should be [iɐ]. [[User:Mjbjosh|Mjbjosh]] ([[User talk:Mjbjosh|talk]]) 15:50, 20 June 2008 (UTC)
+:If you can find a source that backs up the Latvian section, that would be great.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 19:35, 20 June 2008 (UTC)
+Next week I'll try to find a proper academic monography on Latvian phonetics. I already have one in mind, namely "Laua, Alise: Latviešu literārās valodas fonētika. - R: Zvaigzne ABC, 1997." It's in Latvian, but I don't know of alternative serious English sources on Latvian phonetics. [[User:Mjbjosh|Mjbjosh]] ([[User talk:Mjbjosh|talk]]) 20:38, 21 June 2008 (UTC)
+: Interesting then why in other languages the sound combinations [ja], [je], [wa], [wo], [ea], [oa] etc. are considered as diphtongs (see [[diphthong#Italian]], Spanish, French, Icelandic and other), but the same sounds in Latvian are not diphtongs. Double stardards??? 'Roberts7 22:25, 4 January 2009 (UTC)'  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Roberts7|Roberts7]] ([[User talk:Roberts7|talk]] • [[Special:Contributions/Roberts7|contribs]]) </span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+It depends on whether they can form the nuclei of syllables. In English /ju/ is a diphthong, but /jo/ is not. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 19:50, 13 April 2009 (UTC)
+
+Hello. I have an actual grammar on the Latvian language from the year 2001. 
+It lists the following vowel combinings, that traditionally are considered like diphthongs:
+/ai/, /au/, /iu/, /ui/, /ei/, /ie/, /iæ/, /ue/ and /uæ/, which are written like that:
+ai, au, iu, ui, ei, ie, o. For /ie/ and /iæ/ is used ''ie'' and for /ue/ and /uæ/ is used ''o''.
+Greetings --[[User:Tlustulimu|Tlustulimu]] ([[User talk:Tlustulimu|talk]]) 18:37, 13 April 2009 (UTC)
+
+:thanks! [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 19:41, 13 April 2009 (UTC)
+
+:Actually, that almost completely contradicts what we have. I'm just deleting the section until we know what we're talking about. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 19:48, 13 April 2009 (UTC)
+
+:If they're anything like Lithuanian, then they may not be diphthongs at all, but simply vowel sequences. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 23:49, 9 May 2009 (UTC)
+
+==Misspelling==
+Could someone check the greek spelling of "dipthong" at the begining of the page? The transliteration is written as "Diphthongos" but the actually greek, as written, would be pronounced, if i'm not mistaken, "diphthogos." There is no nu in the greek spelling of the word so one of these must be incorrect. Perhaps one of the gamma's should be a nu? I'm not certain, as i'm only a first year greek student but...that doesn't seem right[[Special:Contributions/167.206.69.62|167.206.69.62]] ([[User talk:167.206.69.62|talk]]) 13:44, 24 October 2008 (UTC)Leonidas
+
+:I thought gg was pronounced ng in Greek [among other languages]? It actually trips me up in some English dialects where they have ggs and I  read them as ngs and English is my native language and Greek is Greek to me. [[Special:Contributions/173.66.211.53|173.66.211.53]] ([[User talk:173.66.211.53|talk]]) 00:25, 27 March 2013 (UTC)
+
+== All English diphthongs are falling? ==
+
+Is this really true?  I realize the most are falling, but all?  What about words like 'pure'?  There are definitely 2 vowel sounds 'j' and 'u' and one syllable. And here the second is more important, making it a rising diphthong.  Or do you just not want to call it a diphthong at all?  Any comments? [[User:DrG|DrG]] ([[User talk:DrG|talk]]) 14:39, 27 January 2009 (UTC)
+
+:You're correct, if we want to call /ju:/ a diphthong. That's perhaps a theoretical decision, but we should make it clear regardless. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 21:58, 27 January 2009 (UTC)
+::Even if you don't consider {{IPA|/juː/}} a diphthong (and I don't for a number of reasons), there's still the centering diphthongs of non-rhotic accents.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 22:14, 27 January 2009 (UTC)
+
+:::Centering falling diphthongs. It's the second element that's non-syllabic. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 22:40, 27 January 2009 (UTC)
+::::Right.  Sorry, I was getting falling and lowering confused, there.  
+::::Is there some sort of sourcing we could find on {{IPA|/juː/}} and whether it's a diphthong or not?  It seems a bit OR speculation either way and sourcing might help enlighten us on any sort of academic/dialectal differences.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 03:53, 28 January 2009 (UTC)
+
+:::::I don't know of anything offhand. Wouldn't that be a phonological question, and therefore theory dependent? Historically /ju/ behaves as a phoneme, & therefore a diphthong, but phonetically it strikes me as more like CV. (For my dialect, of course.) [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 07:53, 28 January 2009 (UTC)
+
+::::::I'm not certain, but I belive you are thinking of /iu̯/ --[[User:GamerGeekWiki|GamerGeekWiki]] ([[User talk:GamerGeekWiki|talk]]) 21:37, 30 March 2017 (UTC)
+
+:::: Thanks for the input. Using our definition of diphthong -- a unitary vowel that changes quality during its pronunciation, or "glides", with a smooth movement of the tongue from one articulation to another -- is seems as though 'ju' would qualify as one. It is a rising diphthong in my mind, anyway. Maybe we need to improve the definition, or accept some rising diphthongs in English. Thanks again.  Any further clarification would be welcomed.  [[User:DrG|DrG]] ([[User talk:DrG|talk]]) 18:29, 28 January 2009 (UTC)
+::::: Well that's the question we're asking.  In my dialect, it doesn't act as a unitary vowel and {{IPA|/ju/}} is no more a diphthong than {{IPA|/wi/}} is (at least, phonetically).  I hesitate to draw on history as justification for a phonological analysis since dialects change over time, but I imagine anything would be enlightening on the issue.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 05:04, 29 January 2009 (UTC)
+
+==Canadians speak American English?==
+In the table in the English section of "Diphthongs in various languages" [[Canadian English]] is listed as a sub-category of [[American English]]. Why? --[[Special:Contributions/72.39.35.178|72.39.35.178]] ([[User talk:72.39.35.178|talk]]) 20:15, 4 March 2009 (UTC)
+
+:Because the article title is ambiguous. I removed the link. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 22:01, 4 March 2009 (UTC)
+::Since we're talking about it, I just realized that the table now indicates that RP undergoes something akin to vowel raising.  Is there a source for this?  I was under the impression that {{IPA|[ʌɪ]}} was simply another way of transcribing the same diphthong in an attempt to be more accurate and not a conditional allophone.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɻɛ̃ⁿdˡi]</sub></small>]]</span> 06:33, 5 March 2009 (UTC)
+
+== Portuguese semivowels ==
+
+About my recent changes that was reverted, the Portuguese semivowels are not [ʊ] and [ɪ], the last /u/ in ''cúmul'''o''''' (identified as [ʊ] in [[Portuguese_phonology#Unstressed_vowels]]) is not the same in ''quando'' or ''sul'', Bisol identifies the coda /l/ as a [w] and explain its history in the page 211 [http://books.google.com.br/books?id=TFzWAq-S7I0C&pg=PA211#v=onepage&amp;q=&amp;f=false], Bisol explains the coda /l/ was velarized [ɫ], later labialized and velarized [lʷ], and then [w], the author uses even brackets to represent the w, don't need to understand Portuguese for check this source, since it uses a very clear representation in that page, or if you want you can use the Google translator, though as the Google books doesn't allow copy and paste you should type yourself for translate.--[[User:Luizdl|Luizdl]] ([[User talk:Luizdl|talk]]) 05:46, 24 March 2010 (UTC)
+
+In the pages about diphthongs and hiatuses the author also uses [j] and [w] in phonetics transcription (page 121), the transcriptions of those pages are so phonetics that the author represents even the pre nasalizations<s> and represents the /ɐ̃/ in the diphthong /wɐ̃/ as [wɑ̃], showing that the /ɐ̃/ after an /w/ is more back than in other cases</s>, so, if these transcription show so many phonetics variation and uses [j] and [w], and if in your source in English uses [ʊ] and [ɪ], then it seems that is the author in English who used phonemic symbols for the English speaking linguists better understand, and it is phonetically inaccurate.--[[User:Luizdl|Luizdl]] ([[User talk:Luizdl|talk]]) 12:40, 24 March 2010 (UTC)
+:It's quite a heavy assumption to make to presume that an English-language source will use {{IPA|[ʊ]}} and {{IPA|[ɪ]}} purely out of regard for its English-speaking readership. Linguistic scholarship doesn't normally work that way.  Note that the very source you cite presents a consonant chart that does not include [j] or [w].  It could very well be the case that, as is the case at [[WP:IPA for Portuguese]], the diphthongs are represented with [j] and [w] for typographic constraints.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɹ̠ˤʷɛ̃ɾ̃ˡi]</sub></small>]]</span> 22:22, 24 March 2010 (UTC)
+::OK, I will search for more sources, because the semivowels in Portuguese is so closed that some sequences of words like ''quem é?'' sounds like if it was written ''quenhé?'', and there are even some derived words in our vocabulary like ''nenhum'' (none), derived from ''nem um'', and when a British speaks the word ''year'' it sounds like ''iê'' for us, your vowels [ʊ] and [ɪ], essentially the [ɪ], resembles a bit like the ô and ê. I will search for sources proving that the Portuguese semivowels are higher than [ʊ] and [ɪ].--[[User:Luizdl|Luizdl]] ([[User talk:Luizdl|talk]]) 01:56, 25 March 2010 (UTC)
+
+Here it is [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8785&rep=rep1&type=pdf], this document in English from the University of California, Berkeley, says that they are palatal approximants and labiovelar approximants, in the section "Diphthongs (and triphthongs)" page 7.
+<blockquote>
+
+Utilizing the palatal approximant [j] and the labio-velar approximant [w], any stressed vowel
+
+may form a rising or falling diphthong [7] with the exception of [ij ji] or [uw wu]. It is thus
+
+possible to produce twenty-four distinct diphthongs, and a few triphthongs. The diphthongs
+
+are illustrated in Table 1. (Many of these examples are from [7].)
+
+</blockquote> [[User:Luizdl|Luizdl]] ([[User talk:Luizdl|talk]])
+:Good find.  On top of that, [http://books.google.com/books?id=Onr9OFylajYC&printsec=frontcover&dq=portuguese+phonology&ei=sEKsS9yNPI2EkATd6riDDQ&cd=1#v=onepage&q=&f=false Mateus & Andrade] (p. 19, 30) use [j] and [w], calling them glides and allophones of /i/ and /u/.  I can only find one source (Barbosa & Albano) that use anything but [j] and [w], and they may have been talking about one specific dialect of Portuguese in Brazil.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[aɪm ˈfɹ̠ˤʷɛ̃ɾ̃ˡi]</sub></small>]]</span> 05:31, 26 March 2010 (UTC)
+who thinks this is a weird word?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/12.71.18.210|12.71.18.210]] ([[User talk:12.71.18.210|talk]]) 15:40, 13 April 2011 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Bulgarian ==
+Okay, I just want to ask something. In my native language - Bulgarian, we have these combinations [ja] - ябълка [ja.bəl.kɐ] - apple, [ju] - ютия [ju.ti.jɐ] - an iron, [aj] - майка [maj.kɐ] - mother, [oj] - кой [koj]- who , [ej] - пейка [pej.kɐ] - bench, [ij] - чий [tʃij] -whose etc.
+I'm curious if they could be considered as diphthongs or not. Thank you. [[Special:Contributions/212.50.76.237|212.50.76.237]] ([[User talk:212.50.76.237|talk]]) 18:07, 14 September 2011 (UTC)
+[[Special:Contributions/212.50.76.237|212.50.76.237]] ([[User talk:212.50.76.237|talk]]) 19:49, 22 September 2011 (UTC)
+:[[Bulgarian language]] doesn't seem to refer to them as such.  The situation is probably similar to Russian, where the {{IPA|[j]}} is a consonant and not part of the syllable nucleus. — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[ãːɱ ˈfɹ̠ˤʷɪ̃ə̃nlɪ]</sub></small>]]</span> 01:16, 26 December 2011 (UTC)
+
+== Difference between a vowel and semivowel ==
+
+''"The presence of alternations among related words or related dialects between diphthongs and monophthongs, sequences of vowel and consonant, or sequences of two vowels in separate syllables
+The restrictions (or lack thereof) on the diphthongs that can occur
+The existence of glides such as /w/ and /j/ as separate phonemes in the language
+The behavior of the diphthong when a vowel directly follows
+The historical origin of the diphthong"''
+
+Very good points, do you have citations about that ? The first part of the first sentence is very important and should be separated from the other idea at the end.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/122.57.189.138|122.57.189.138]] ([[User talk:122.57.189.138|talk]]) 04:10, 31 October 2011 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:I have removed the paragraphs in question.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[ãːɱ ˈfɹ̠ˤʷɪ̃ə̃nlɪ]</sub></small>]]</span> 01:55, 26 December 2011 (UTC)
+
+== Italian "potrei" ==
+
+In the Italian diphthongs table the value [ei] is given for the second entry "potrei". That's wrong, "potrei" actually sounds [potrɛi] and the diphthong found in it is just like the one of following "sei". Source: I'm a native speaker.
+It would surprise me to learn that this kind of error was copied from that Italian textbook cited as reference for the table, apparently published by two Italians. Anyway, if you want an example of [ei] - which is gonna be very rare as a diphthong in Italian, being [ɛi] the form one finds almost everywhere - I think you could use "teina" [teina] (the substance found in tea). It carries the accent on "i", but "-ei-" sounds like a diphthong to me and not a hiatus.
+Also, maybe "sei" should be disambuigated. "Sei" is the number 6, but also the very frequent verb form for "you are".  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/79.53.130.251|79.53.130.251]] ([[User talk:79.53.130.251|talk]]) 11:52, 6 March 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:I believe that may be something that differs from dialect to dialect.  I could be wrong though.
+:As for ''sei'', we don't need the gloss to be exhaustive, so one simple meaning should suffice.  — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[ãːɱ ˈfɹ̠ˤʷɪ̃ə̃nlɪ]</sub></small>]]</span> 13:06, 6 March 2012 (UTC)
+
+== Standard English diphthongs table ==
+
+According to the table in the article entitled "Standard English diphthongs", the General American pronunciation of a word like "lean" is the same as the Australian pronunciation of said word.  I strongly disagree with this assertion.  To me, the pronunciation of "lean" and other words with that vowel is one of the most noticeable differences between the two accents.  I see that there are some sources cited at the bottom of the article, but I can't figure out which one of them that claim comes from.  
+
+From a systemic perspective, I can see how the vowel in "lean" could be {{IPA|[ɪi̯]}} in Australian English, as the vowel in "lane" in that accent is {{IPA|[æɪ̯]}}.  But it doesn't seem possible in Gen Am, where the the onset of {{IPA|/eɪ/}} is still close-mid.  Such a distinction would surely be too difficult to maintain.  I also disagree that the vowel of "loon" is {{IPA|[ʊu]}} in Gen Am.  This would surely be too close to the {{IPA|[ou]}} of "loan".
+
+[[User:Accentman|Accentman]] ([[User talk:Accentman|talk]]) 13:54, 24 November 2012 (UTC)
+:There are a few sociolects of Australia, which may be at play here.  Wells (1982) identifies three: Broad, General, and Cultivated, with the FLEECE vowel being {{IPA|[ɪi]}}, {{IPA|[<s>ɪ</s>i]}}, and {{IPA|[əːɪ]}}, respectively. — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[ãːɱ ˈfɹ̠ˤʷɪ̃ə̃nlɪ]</sub></small>]]</span> 18:00, 25 November 2012 (UTC)
+
+::He may be right, but to me all 3 of those realizations sound different from an archetypal "General American" one.  {{IPA|[lɪin]}} sounds way too close to {{IPA|[lein]}} to me.  [[User:Accentman|Accentman]] ([[User talk:Accentman|talk]]) 19:07, 25 November 2012 (UTC)
+:::It may be that the GA vowel involves a bit less movement than the Broad AE one but the IPA isn't precise enough to reflect the difference. — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[ãːɱ ˈfɹ̠ˤʷɪ̃ə̃nlɪ]</sub></small>]]</span> 19:37, 25 November 2012 (UTC)
+
+::I think you meant Cultivated AE there.  I'm just curious what the source is for the (IMO incorrect) claim that Australian English and General American both say ''lean'' with the same {{IPA|[ɪi]}}.  I'm relatively new to Wikipedia, but I thought people had to cite their source(s) here.  I realize that you probably aren't the one who added that table to the article, though, so you probably don't know.  [[User:Accentman|Accentman]] ([[User talk:Accentman|talk]]) 23:31, 25 November 2012 (UTC)
+:::No, I meant Broad.  That's what Wells says, anyway.  I have seen the transcription of the GA FLEECE vowel as {{IPA|[ɪi]}} so I never bothered to check when it was added.  You are correct that everything must be cited; you could add a {{tl|citation needed}} tag to give editors a chance to find sources. — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[ãːɱ ˈfɹ̠ˤʷɪ̃ə̃nlɪ]</sub></small>]]</span> 01:54, 26 November 2012 (UTC)
+
+Well, the Broad vowel ''clearly'' has way more movement than the GA vowel.  I don't think anyone would disagree with that.  That's why I figured you meant Cultivated there.  And that's what I'm saying: I think even the Cultivated vowel has more movement than the archetypal General American one (if the archetypal GA one has any movement at all).  I also think {{IPA|[ɪi]}} is more likely in RP than GA.  Maybe I can find some linguist/author who agrees with me.  It was nice talking to you again [[User:Accentman|Accentman]] ([[User talk:Accentman|talk]]) 17:33, 26 November 2012 (UTC)
+
+:Just to make sure you understand what is being said here:
+:{| class="wikitable"
+|-
+! Broad !! General !! Cultivated
+|-
+|{{IPA|[ɪi]}}  || {{IPA|[<s>ɪ</s>i]}} ||{{IPA|[əːɪ]}}
+|}
+:It could be the case that your conception of what is Australian is closer to Cultivated AE.  Or it could be that {{IPA|[ɪi]}} in reference to GA is different than {{IPA|[ɪi]}} in reference to Broad AE.  I'm not really sure. — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[ãːɱ ˈfɹ̠ˤʷɪ̃ə̃nlɪ]</sub></small>]]</span> 17:47, 26 November 2012 (UTC)
+
+::I'm afraid you have it backwards my friend.  That's okay though.  See the table [http://books.google.com/books?id=484eVQ7t8TMC&printsec=frontcover#v=onepage&q=just%20fronter%20than%20central&f=false here].  [[User:Accentman|Accentman]] ([[User talk:Accentman|talk]]) 22:12, 26 November 2012 (UTC)
+:::Ah, yes, my bad.  I got Broad and Cultivated mixed up. — [[User:Aeusoes1|Æµ§œš¹]] <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[[User talk:aeusoes1|<small><sub>[ãːɱ ˈfɹ̠ˤʷɪ̃ə̃nlɪ]</sub></small>]]</span> 00:22, 27 November 2012 (UTC)
+
+== This article does not explain, in lay terms, what a diphthong is.   ==
+
+It functions more as a forum for linguists than as an encyclopedia article.[[Special:Contributions/208.68.128.90|208.68.128.90]] ([[User talk:208.68.128.90|talk]]) 14:34, 7 March 2014 (UTC)
+:Well as of now anyhow the first paragraph makes an attempt at explaining what a diphthong is: two vowel sounds in one syllable. But then comes this example:
+::the phrase "no highway cowboys" contains five distinct diphthongs.
+:It would be helpful to clarify by pointing them out. Is there a diphthong in "no"? If so where? If not, why include it? Does the "way" have two of the five diphthongs or is it considered only one? (I'm parsing "way" as "oo" "a" "i" so three vowels, or two diphthongs in one syllable?) [[Special:Contributions/68.110.104.114|68.110.104.114]] ([[User talk:68.110.104.114|talk]]) 13:38, 18 January 2015 (UTC)
+:::I think it would be helpful if the article contained a phonemic transcription to back up the example. That would be /noʊ haɪweɪ kaʊbɔɪz/. Shall we agree to put it in?  [[User:RoachPeter|RoachPeter]] ([[User talk:RoachPeter|talk]]) 15:15, 18 January 2015 (UTC)
+::::Just popping in from my watchlist, but sounds good to me. — [[User:Erutuon|Eru]]·[[User_talk:Erutuon|tuon]] 17:16, 18 January 2015 (UTC)
+:Although I don't have a background in the symbols being used, from /noʊ haɪweɪ kaʊbɔɪz/ I can deduce the answer to my questions, namely, "no" does contain a diphthong and "way" has only one diphthong. If these answers are correct, would a knowledgeable person please proceed with the appropriate article edit? [[Special:Contributions/68.110.104.114|68.110.104.114]] ([[User talk:68.110.104.114|talk]]) 19:37, 18 January 2015 (UTC)
+::Erutuon, your update is very helpful while being concise, thank you. [[Special:Contributions/68.110.104.114|68.110.104.114]] ([[User talk:68.110.104.114|talk]]) 23:34, 18 January 2015 (UTC)
+
+== Latin dipthongs ==
+
+I'm sorry, but why aren't [http://wheelockslatin.com/chapters/introduction/introduction_diphthongs.html Latin diphthongs] ae, au, ei, eu, oe, ui listed? They are very important in the evolution of pronunciation in various European languages and should be added ASAP. [[Special:Contributions/78.0.238.250|78.0.238.250]] ([[User talk:78.0.238.250|talk]]) 12:04, 30 March 2014 (UTC)
+
+== Phonemic and phonetic ==
+
+The article needs more information on what distinguishes a phonetic from a phonemic diphthong. In some cases diphthongs are phonemic because they develop from monophthongs by [[vowel shift]], like English ''house'' and German ''Haus'' from earlier ''hūs''. Some diphthongs are clearly not phonemic based on this criterion, like Italian ''piu'' from Latin ''plus'' and Spanish ''muy'' from Latin ''multum'', but some cases of phonemic diphthongs also don't fulfill the criterion, like German ''Frau'' from [[Middle High German]] ''vrouwe''. I suppose this is because the last example is merged with the diphthongs-from-monophthongs as in the first example, and thus takes their phonemic nature onto itself. But a source on this subject should be found and its reasoning added to the article.
+
+The Spanish section says that Spanish has 15 total ''phonemic'' diphthongs; I believe this is incorrect and will change it to ''phonetic'', but I don't have access to the sources to verify that I'm right. — [[User:Erutuon|Eru]]·[[User_talk:Erutuon|tuon]] 21:29, 18 January 2015 (UTC)
+
+: How do you understand ‘phonemic’?  The status of a phoneme does not depend on history.  The fifteen diphthongs listed are phonemic because they are regularly distinctive from each other and from the same vowels in hiatus.  The passage contrasts these with the ''oe'' of ''poeta'' in rapid speech, a phonetic phenomenon that, apparently, has not achieved phonemic status. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 05:44, 8 May 2016 (UTC)
+
+== Merge with monophthong, split into list article ==
+
+The article [[monophthong]] is currently stub-size, since I moved the discussion of Monophthongization to another article. It could therefore be merged with this article. If so, this article would have to be moved to [[Diphthong and monophthong]], similar to [[Endocentric and exocentric]], and other article names that I can't recall. This would require a lot of link-fixing, but that can easily be done with AutoWikiBrowser.
+
+Also, the list of languages is too long. Most languages should be moved to a separate article, which could be titled [[List of diphthongs]], while more notable languages, like English, German, French, Spanish, and Mandarin could be kept here.
+
+What do others think? — [[User:Erutuon|Eru]]·[[User_talk:Erutuon|tuon]] 22:13, 19 February 2015 (UTC)
+
+On second thought, we could replace the lists of diphthongs with a brief discussion of which languages in which families have diphthongs, how many, and what type. For instance, Romance languages have a lot, and Mainland Southeast Asian languages frequently have rising diphthongs, hence the syllable analyis of initial, medial, nucleus, and final. Romanian has unusual diphthongs, and so do Finnish and Estonian. Typological highlights, basically. — [[User:Erutuon|Eru]]·[[User_talk:Erutuon|tuon]] 22:18, 19 February 2015 (UTC)
+
+:I tend to agree with all of this. Whenever we have two opposed concepts like these, it generally seems to work best to combine them into one article. (Of course there are also triphthongs and tetraphthongs, but those can be mentioned in passing.) I wouldn't even bother with a comprehensive list of diphthongs - it's unlikely ever to be truly comprehensive, and the main place to go for information about individual languages' phonologies should be those languages' own articles. [[User:W. P. Uzer|W. P. Uzer]] ([[User talk:W. P. Uzer|talk]]) 22:35, 19 February 2015 (UTC)
+::I agree that a comprehensive list is not really necessary, but since this article already has one, or at least tries to, we can just move it to a list article rather than simply deleting it. Perhaps later content from it could be moved to phonology articles, if it's not already there, and deleted from the list article. — [[User:Erutuon|Eru]]·[[User_talk:Erutuon|tuon]] 23:15, 19 February 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Diphthong]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=754597792 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20080217013643/http://www.matica.hr:80/Kolo/kolo0302.nsf/AllWebDocs/lisac1 to http://www.matica.hr/Kolo/kolo0302.nsf/AllWebDocs/lisac1
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 14:26, 13 December 2016 (UTC)
+
+== [i] written as ⟨ɪ⟩ in diphthongs ==
+
+<small>(I'm not used to using [ ], I'm used to / /. I'm getting off that habit)</small>
+
+I believe it is a close-front vowel as opposed to near-close-front vowel.
+Let's take two diphthongs as an example: [aɪ] and [eɪ].
+
+In [aɪ], you get a much more similar sound pronouncing it [a.i]
+
+And it isn't a near-close, you can feel that one.
+
+[[User:GamerGeekWiki|GamerGeekWiki]] ([[User talk:GamerGeekWiki|talk]]) 03:28, 1 March 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 2 external links on [[Diphthong]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=800003211 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20100930153153/http://www2.iec.cat/institucio/seccions/Filologica/gramatica/fonetica/05diftongstriftongshiats.pdf to http://www2.iec.cat/institucio/seccions/Filologica/gramatica/fonetica/05diftongstriftongshiats.pdf
+*Corrected formatting/usage for http://www.matica.hr/Kolo/kolo0302.nsf/AllWebDocs/lisac1
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 02:24, 11 September 2017 (UTC)

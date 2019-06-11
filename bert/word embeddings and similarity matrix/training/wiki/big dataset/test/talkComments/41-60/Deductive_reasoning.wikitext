@@ -1,0 +1,206 @@
+{{Vital article|level=4|topic=Philosophy|class=Start}}
+{{philosophy|logic=yes|class=start|importance=high}}
+
+== Confusing example ==
+Where you say, using the example of "all ravens are black birds", I think that this is a little confusing, if you think about it--which I'm sure you're hoping your readers will--for what is the point of writing something that nobody thinks about)because surely the nominal part of the sentence black birds in the semantic interpreation that the author is trying to get across is that the color is important, that is the focus, is it not? The blackness of the bird, is it not? '''This is not correct please see logic page for better definition''' The thing that is confusing is that there is a category of bird that is called a black bird not talking about the color but focusing on a category or taxinomy of a particular bird which obviously was named such because it is black but that is not the point. You wouldn't say all ravens are red hens or even chickens because in fact hen is only the female variety but I hope you get what I mean. It is in fact, is it not?, redundant (redundant language use) to say bird at the end because surely all people know that a raven is a type/category/taxonomy of bird so I think that the examlple here should go all "ravens are black". I think this is more acurate and will prevent possible misunderstanding which we don't want surely. I hope you don't think I'm just being hopelessly pedantic but accuracy is, is it not by connotation pedantic?
+--katobolic kivi
+::<small>—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:210.86.47.169|210.86.47.169]] ([[User talk:210.86.47.169|talk]] • [[Special:Contributions/210.86.47.169|contribs]]) 21:31, April 27, 2004 (UTC).</small>
+
+It's only just occurred to me that perhaps the use of raven and blackbird is actually quite semantically similar is it not? That would or possibly could make the argument tautological, could it not? 
+::<small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:210.54.229.216|210.54.229.216]] ([[User talk:210.54.229.216|talk]] • [[Special:Contributions/210.54.229.216|contribs]]) 13:19, June 3, 2004 (UTC)</span></small><!-- Template:Unsigned -->
+
+:I'm hoping to lift examples of logic and reasoning from the talk boards where the discussions demonstrate various types of logic. --[[User:DennisDaniels|DennisDaniels]] 19:29, 31 Aug 2004 (UTC)
+
+The picture is above the desk. 
+The desk is above the floor. 
+Therefore the picture is above the floor. 
+
+I dont think this is a good example.
+::<small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:137.132.3.6|137.132.3.6]] ([[User talk:137.132.3.6|talk]] • [[Special:Contributions/137.132.3.6|contribs]]) 19:25, December 16, 2005 (UTC)</span></small><!-- Template:Unsigned -->
+
+The picture is above the desk. 
+The desk is above the floor. 
+Therefore the picture is above the floor. 
+
+Actually, this example is deductively invalid. An analogous argument is: Bert is Alf's father, Alf is my father, therefore Bert is my father. But (as you may have figured out already) Bert is ''not'' my father, but my grandfather. The author of this example probably had an implicit premiss in mind, namely, 'that the relation 'A is above B' is a [[transitive relation]]'. The addition of this premiss would make the argument deductively valid.
+
+[[User:Oranfry|Oranfry]] 23:48, 3 November 2006 (UTC)
+I don't think that your analogy is a good one and fail to see that it proves your claim that the picture is above the floor example above is invalid.   The conclusion of your example would correctly be  Bert is my father's father.  And the earlier example would be  The picture is above the dest that is above the floor, which, since it is governed by physical laws, translates into The picture is above the floor.
+[[User:142.214.60.130|142.214.60.130]] 21:57, 7 February 2007 (UTC)Gary Noseworthy, nose@humber.ca, 7 February, 2007
+:Indeed the problem is, there is an implicit argument, namely: that the physical laws hold - or more precisely: that the relation 'is above' is the 'has a greater z-coordinate in a specific system governed by physical laws', which premiss is not explicitly stated. The analogy seems valid to me, as the argument is exactly the same, the only difference being the hidden premiss is not assumed. --[[User:CompuChip|CompuChip]] 21:47, 8 February 2007 (UTC)
+
+:I removed the example from the ''Valid'' section. I expanded the ''Invalid'' section with a modified version of [[User:Oranfry|Oranfry]]'s example, if you don't mind. The structure of the argument is different from the first examples in the ''Invalid'' section though. Perhaps this section is now too large or inspecific? --[[User:CompuChip|CompuChip]] 11:21, 22 January 2007 (UTC)
+
+== No longer a stub ==
+I don't think this is still a stub. Also, mathematics and science are repectively the historical patterns of numbers and the historical interpretations of universal observations, so maybe this should be a history related ar:ticle?
+::<small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:63.24.24.254|63.24.24.254]] ([[User talk:63.24.24.254|talk]] • [[Special:Contributions/63.24.24.254|contribs]]) 00:59, December 30, 2005 (UTC)</span></small><!-- Template:Unsigned -->
+
+== Out of the blue ==
+
+The section "Example" suddenly, without any warning, transition or anything, erupts into a table headed "Basic argument forms of the calculus". There has been no previous mention of any notion of calculus. In the table we find strange unexplained symbols, like → ∧ ⊢ ¬ ∨ ↔ . This is totally incomprehensible, except for people who don't need to read this article because they know this stuff already. From the point of view of logic, it is not clear why this formalization is given in preference over others. --[[User:Lambiam|Lambiam]][[User talk:Lambiam|<small><sup>Talk</sup></small>]] 20:26, 17 June 2006 (UTC)
+
+:I totally agree! The mathmetical parts of this article are mystifying without knowledge of these symbols. Why a non-mathmatical article should rely so heavily upon formulas is unclear indeed. I think some more textual examples will make this article much better. Also note that alternating blue and green in a table makes for a very ugly sight which hurts the eye. [[User:Oliver Simon|Oliver Simon]] 23:12, 19 June 2006 (UTC)
+
+== Page due for a clean up and general overhaul ==
+
+As noted above this article is not very understandble yet to non mathy types and the general layout is a bit scruffy. I added a little bit to try and make the article clearer, but my knowledge on this subject and wiki layout is not complete enough to redo the page on my own. Can somebody do some reshaping? [[User:Oliver Simon|Oliver Simon]] 23:32, 20 June 2006 (UTC)
+
+:The article on Inductive Reasoning was very clear and very easy to follow. If this one could be structured to flow just like that I think the problem would be solved.
+
+:--[[User:Senewton|Senewton]] 04:43, 4 July 2006 (UTC)
+
+::As [[User:Oliver Simon|Oliver Simon]] wrote, 
+:::"this article is not very understandble yet to non mathy types,"
+::and I must admit that even though I consider myself a "mathy type" I don't understand very much of it, especially the latter paragraphs. Indeed the [[inductive reasoning]] article is a good example. All the tables are cool, but are they really useful? Maybe they can be moved to a separate article like [[Mathematical description of deductive reasoning]] or least placed in a separate section. Anyway I think the article should contain more examples and perhaps an introduction to the notations (by the way, are they explained somewhere, I couldn't find the meaning of that "|-" character anywhere) and I'd be willing to give it a shot one of these days. At least I can try to make what I understand of the subject understandable to others :) -- [[User:CompuChip|CompuChip]] 19:24, 20 November 2006 (UTC)
+
+I agree that this article is poor relative to the one on inductive reasoning.  I think the problem lies in the tautology of the very first sentence of the article, whereby the concept of deduction is employed to define the concept of deduction.  We need to step back somehow and start over with a new opening sentence.  One that doesn't verge on circularity.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.193.206.183|67.193.206.183]] ([[User talk:67.193.206.183|talk]]) 02:55, 10 October 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Invalid Example? ==
+
+In the section entitled "Popular misuses of the term" it says:
+
+"There are deductively valid arguments that proceed from the particular to the general (Oscar is grouchy, therefore something is grouchy) and inductive arguments that proceed from the general to the particular (all Rice University students are smart, therefore this particular Rice University student is smart)."
+
+Wouldn't that second example be correct?
+ALL students are smart. Therefore ONE student (who is included in the previous ALL) is smart. I don't understand how you can disprove the conclusion without firstly disproving the hypothesis? Isn't that what inductive reasoning is?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.30.162.234|71.30.162.234]] ([[User talk:71.30.162.234|talk]]) 23:13, 24 September 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Gravitation to illustrate induction and deduction ==
+
+Beyond the factual question of who discovered Neptune (see [[Neptune#Discovery]]), I have a concern about using gravitation as an example.  On the one hand, the discovery of Neptune is one of the greatest historical instances of deductive reasoning.  On the other hand, I believe Newton described his own discovery of the universal law of gravitation as a deduction.  There is a famous geometrical diagram, made by Newton, to show how he deduced his law of gravitation from [[Kepler's laws of planetary motion]].  Kepler's laws would be a genuine induction.  Of course, many people hold up Newton's law of gravitation as an induction.  I think there is simply a lot of confusion on the matter--both semantic confusion about the terminology (people using multiple, conflicting terminologies) and substantive confusion about the historical facts.
+
+Maybe the solution is simply to omit discussion of inductive reasoning here, since that's the only part that's questionable, and anyway, this article is about deductive reasoning, not inductive.  I ''would'' like to see a great, non-controversial example of a deduction that "cashes in" on an induction, though.
+
+[[User:BenKovitz|Ben Kovitz]] 23:22, 30 September 2007 (UTC)
+
+:Newton wasn't using a modern dictionary. Definitions change. Anyway, I see your point about leaving inductive reasoning out, but every book I have which discusses one contrasts it to the other. If we don't go ahead and find a way to compare them clearly and logically, somebody else will come along later and insert a poor comparison. I think it's better to keep working on it to get it right now. [[User:Wryspy|Wryspy]] 17:54, 1 October 2007 (UTC)
+
+:: I agree.  I'll go through my traditional logic books, percolate on a way to illustrate the concepts, and post another attempt, and then see what you and others think. Regarding Newton, I believe he actually ''did'' deduce his law of gravitation from Kepler's laws, by the ordinary meaning of "deduce". The facts of this case are not what people expect, I think. Perhaps Kepler's induction and Newton's deduction are the wonderful illustration we're looking for (though a bit esoteric and possibly [[WP:OR]]). --[[User:BenKovitz|Ben Kovitz]] 19:04, 3 October 2007 (UTC) 
+
+Uh, I don't think Galileo could have deduced anything from Newton's Law of Gravitation, in that Galileo was long dead by the time Newton formulated them....  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.191.215.12|68.191.215.12]] ([[User talk:68.191.215.12|talk]]) 00:26, 3 October 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+: Yes, indeed.  I've just fixed it.  Please take a look and see if you think the new version is right.  --[[User:BenKovitz|Ben Kovitz]] 19:04, 3 October 2007 (UTC)
+
+== "According to many dictionaries"? ==
+*At the top of the page it says: "Deductive reasoning, according to many dictionaries <sup>[1][2][3][4]</sup>" like its meaning is disputed or something. What's up with that? [[User:Jedibob5|Jedibob5]] ([[User talk:Jedibob5|talk]]) 22:11, 7 January 2008 (UTC)
+
+: Well, I don't think the definition there is precise and covers all deductive reasoning. You can deduce from general principles another general principle that isn't particular. Compare [[Reasoning#Deductive reasoning]]. I've merged the 4 citations into 1 to look less ridiculous, but it's better that it's cited than not I think. –[[User talk:Pomte|Pomte]] 23:09, 7 January 2008 (UTC)
+
+== "Inductive Reasoning Example of Apples and the Theory of Gravity" ==
+* An example of deduction given in the article:
+: "By thinking about phenomena such as how apples fall and how the planets move, Isaac Newton deduced his theory of gravity."
+But this appears to be induction according to the definition given earlier in the article:
+: "Inductive reasoning starts with a particular observation that is believed to be a demonstrative model for a truth or principal that is assumed to apply generally"
+That is Newton used the specific example of the falling apple to induce the theory of gravity.
+So shouldn't the line be corrected to:
+: "By thinking about phenomena such as how apples fall and how the planets move, Isaac Newton induced his theory of gravity."  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/69.232.196.166|69.232.196.166]] ([[User talk:69.232.196.166|talk]]) 19:13, 23 February 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+I agree.  In ''By thinking about phenomena such as how apples fall and how the planets move, Isaac Newton '''deduced''' his theory of gravity. In the 19th century, Adams and LeVerrier applied Newton's theory (general principle) to '''induce''' the existence, mass, position, and orbit of Neptune (specific conclusions) from perturbations in the observed orbit of Uranus (specific data).'' it would appear that the words boldened have been inerchanged, perhaps as a joke.  They are not really good examples to use to explain the distinction since they rather pressuppose some familiarity with the work of Newton et al. An example should explain the unfamilar with the familiar, not the unfamiliar with the unfamiliar<br />--[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 14:18, 27 February 2008 (UTC)
+:Yes, someone messed with that sentence. It originally said that Newton induced the theory of gravity and used that to deduce specific conclusions. [[User:Wryspy|Wryspy]] ([[User talk:Wryspy|talk]]) 04:29, 11 March 2008 (UTC)
+
+=="One difference between them is that in deductive reasoning, the evidence provided must be a set about which everything is known before the conclusion can be drawn.  Since it is difficult to know everything before drawing a conclusion, deductive reasoning has little use in the real world."==
+This is surely just wrong.--[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 14:23, 27 February 2008 (UTC)
+Does anyody disagree or shall I delete it?--[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 12:58, 8 April 2008 (UTC)
+
+: I've removed it. The article gets confused after the lead. –[[User talk:Pomte|Pomte]] 17:33, 8 April 2008 (UTC)
+
+== Sherlock Holmes and deductive reasoning ==
+Holmes, although he often claimed otherwise, generally employed inductive reasoning.  Even the Holmes wikipage agrees.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/144.53.251.2|144.53.251.2]] ([[User talk:144.53.251.2|talk]]) 06:07, 26 May 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot--> Quite.  I suggested that it was a joke by the author, but  got my wrist slapped. I find the whole entry embarrasing, and bond to confuse the reader.  We might just as well mention Mr Spock as an example of a logician,  in philosophy cite Hamlet as a philosopher, in physics mention Merlin... --Philogo 13:34, 29 May 2008 (UTC)
+
+== Grammar ==
+
+:''Alternative to deductive reasoning is inductive reasoning. The basic difference between the two can be summarized in the deductive dynamic of logically progressing from general evidence to a particular truth or conclusion; whereas with induction the logical dynamic is precisely the reverse.''
+
+The aforementioned statements include a clause masquerading as a sentence: "basic difference between the two can be summarized in the deductive dynamic of logically progressing from general evidence to a particular truth or conclusion."  Secondly, a semicolon is supposed to be used to attach two strings of words that are related but could independantly exist as sentences in their own right.  The string of words appearing after the semicolon: "whereas with induction the logical dynamic is precisely the reverse," could not be a sentence. '''[[User:DRosenbach|<span style="color:#006400">DRosenbach</span>]]''' <sup>([[User_talk:DRosenbach|<span style="color:#006400">Talk</span>]] | [[Special:Contributions/DRosenbach|<span style="color:#006400">Contribs</span>]])</sup> 13:22, 29 May 2008 (UTC)
+
+== Awful First Sentence ==
+
+"Deductive reasoning is reasoning which uses deductive arguments to move from given statements (premises) to conclusions, which must be true if the premises are true."
+
+Really?  The definition for "deductive reasoning" includes both the words "deductive" and "reasoning" in it?  Did Miss South Carolina write this?
+
+Come on now, one of the first rules of writing a definition is to exclude the word (or a variation of the word) from the definition.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/169.234.129.244|169.234.129.244]] ([[User talk:169.234.129.244|talk]]) 20:35, 5 October 2008 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:"Deductive reasoning" is defined using the term "deductive argument".  What's the problem? --Philogo 13:22, 20 January 2009 (UTC)
+
+:The problem, obviously, is that it does not definine the term "deductive" and instead presumes knowledge of it. Indeed, "deductive reasoning" is itself a tautology; the entry should be about "deduction" and define that term. One of those evil old print encyclopedias that Wikipedia truth-by-committee fans hate so much, the Columbia Encyclopedia, has an entry on "deduction" that defines it quickly and simply: "In logic, a form of inference such that the conclusion must be true if the premises are true." That is a good first sentence. In short, the problem is exactly as the first commenter explained and described, and as you ignored. As usual, Wikipedia is full of year-old errors nobody has corrected, and people of questionable capacity to see and correct them. I won't correct this one, either, because it would only get me blasted by some turf-war-loving ignoramus, which is all Wikipedia has really accomplished. [[Special:Contributions/76.23.157.102|76.23.157.102]] ([[User talk:76.23.157.102|talk]]) 17:41, 11 October 2009 (UTC)
+
+==From the specific to the general and back again==
+I added the sentence "Induction is the formulation of scientific laws (based on accumulated experimental data, leading from the specific to the general) and deduction is the application of such laws in specific circumstances (applying the general to the specific)", which Philogo deleted because "not all inductive reasoning is scientific". But is it not true (and illuminating) if it were slightly modified. For example, leave out the science bit or specifically restrict it to science ("in science...")? Or was it so very wrong that it really needed to be removed completely? [[User:DirkvdM|DirkvdM]] ([[User talk:DirkvdM|talk]]) 19:21, 19 January 2009 (UTC)
+:I think the sentence is entirly false and thefore detleted it.  Inductive Reasonng is not synonymous with the formulation of scientific laws (with or without the provisos).  Deduction is not synonoymous with the application of such laws with or without the provisos. --Philogo 13:27, 20 January 2009 (UTC)
+
+::Ok then, forget the laws. Isn't it true that induction leads from the specific to the general (or concludes the general from the specific) and deduction applies the general to the specific? (Oh, and could you sign your posts, please?) [[User:DirkvdM|DirkvdM]] ([[User talk:DirkvdM|talk]]) 16:04, 6 February 2009 (UTC)
+
+:::On the neo-Peircian theory of knowledge formation --documented, albeit not altogether clearly, at [[abductive reasoning]]-- in terms of induction, abduction & inference, abductive inference comes closest to "the formulation of scientific laws (based on accumulated experimental data, leading from the specific to the general)".  For a clearerprimer to the neo-Peircean theory, the first few pages of ''O. Ray (2007). [http://www.cs.bris.ac.uk/Publications/Papers/2000824.pdf Automated Abduction in Scientific Discovery]. Model-Based Reasoning in Science and Medicine, SICI 64:103-116.'' are pretty readable. --- '''Charles Stewart'''<small>[[User_talk:Chalst|(talk)]]</small> 20:58, 6 February 2009 (UTC)
+:::No a deduction is not necessarily from the general to the specific.--[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 21:03, 6 February 2009 (UTC)
+
+::::Let us all keep in mind that he usage/meaning of the terms deduction and induction not only differs between the authors, but has changed considerably over the (2000) years. --[[User:Arno Matthias|Arno Matthias]] ([[User talk:Arno Matthias|talk]]) 12:06, 7 February 2009 (UTC)
+
+:::::In that case the article should surely (a) set out the changes in usage/meaning over time or (b) make clear when using the term which author's/time's usage/meaning is being discussed or (c) discuss and explain just one usage/meaning making clear by citations what the usage/meaning is.  The problem doubtless arises in other subjects; perhaps the terms "force" "momentum" "weight" "mass" "gravity" etc have changed in Physics over time, but if I read a physics article on force and momentum &c. I would not expect it to use the terms in different usage/meaning without warning.  If the article vacilates willy-nilly between one usage/meaning and another the poor reader is unlikely to be able to follow or understand the article and will be none the wiser but more confused after reading it. I would suggest that, if this is not an article on the history of the term, it should set out and explain ''deductive reasoning'' in its current and received usage  using other terms as necessary in their current and received usage.  This is surely what we would expect from articles in other subjects: why should articles in this domain be more wooly and confused? --[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 12:54, 7 February 2009 (UTC)
+
+::::::Yes, exactly!! I couldn't agree more. Students of philosophy: go! --[[User:Arno Matthias|Arno Matthias]] ([[User talk:Arno Matthias|talk]]) 13:56, 9 February 2009 (UTC)
+:::::::Was that directed to me? And do you mean 'go!' in a positive or negative sense? :) [[User:DirkvdM|DirkvdM]] ([[User talk:DirkvdM|talk]]) 08:15, 12 February 2009 (UTC)
+
+Maybe I should change the question. In science, one observes specific events in reality and then tries to formulate laws that would explain those events. Next, with those laws, one can make predictions about what will happen in other specific instances. I thought these conclusions form the speceific to the general and application of the general to the specific were called induction and deduction. If not, what are they called then? In other words, am I barking up the wrong tree? [[User:DirkvdM|DirkvdM]] ([[User talk:DirkvdM|talk]]) 08:15, 12 February 2009 (UTC)
+:There is an article [[philosophy of science]] which you should find of interest. --[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 23:48, 12 February 2009 (UTC) Also, [[Scientific method]].  Its  BIG subject! --[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 23:52, 12 February 2009 (UTC)
+
+Quick correction--Using the scientific method, one observes natural phenomena and makes hypotheses to be tested. However, scientifically speaking, laws ARE the events, and scientific theories explain them. Gravity is a law, and anything describing how it works would be theory.--[[Special:Contributions/68.99.251.24|68.99.251.24]] ([[User talk:68.99.251.24|talk]]) 03:03, 2 September 2010 (UTC)Anonymous
+
+The inter-relationship of inductive and deductive reasoning in science is much better here than in the article on inductive reasoning, which implies that only deduction is valid.05:34, 7 May 2010 (UTC)05:34, 7 May 2010 (UTC)  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.81.140.9|71.81.140.9]] ([[User talk:71.81.140.9|talk]]) </span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== A few notes. ==
+
+Greetings,
+
+I have rewritten the sentences in the opening paragraph. The opening sentences are much more lean and easy to follow.
+
+A few comments:
+
+1. I believe the phrase 'the truth of the conclusion' and 'the truth of the premises' is unnecessary clutter. Either something is true or not. Saying 'the truth of the conclusion' makes little sense. Instead, just say 'conclusion' or 'premise'.
+
+2. Saying that 'an argument is said to be deductive' is also clutter. 'An argument is deductive' conveys the same message. Said to be by whom, anyway?
+
+3. "Note, for example, that the conclusion of the following argument would have to be true if the premises were true, (even though they are, in fact, false)" This sentence is unabashedly horrible. It appears to make sense at first glance, until you read it again. I replaced it with, 'This is an example of a valid argument. The first    premise is impossible, yet the conclusion is still true.' I think that's what the original author meant, but if not please fix it.
+
+4. "In logic, an argument is said to be deductive when the truth of the conclusion is purported to necessarily follow from or be a logical consequence of the truth of the premises and (consequently) its corresponding conditional is a necessary truth". 
+
+Compare this with 
+
+"In logic, an argument is deductive when its conclusion is a logical consequence of the premises."
+
+A better Logician than I can see if any value has been lost in that sentence. I couldn't.
+
+The rest of my changes are minor, mostly made to improve the flow and rhythm of the words.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/118.210.6.70|118.210.6.70]] ([[User talk:118.210.6.70|talk]]) 08:49, 10 March 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== René Descartes? ==
+
+Advanced by René Descartes?  The syllogism given is in the classic form taught by Aristotle.  Shouldn't Aristotle be given credit?  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Emdrgreg|Emdrgreg]] ([[User talk:Emdrgreg|talk]] • [[Special:Contributions/Emdrgreg|contribs]]) 15:44, 21 October 2010 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:Any number of people "advanced" deductive reasoning, with all repect to Descartes. Suggest del sentence[[User:Philogo|Philogo]] ([[User talk:Philogo|talk]]) 21:45, 30 November 2010 (UTC)
+
+== Syllogism ==
+
+What is the difference between syllogism and deductive reasoning?  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/46.116.169.132|46.116.169.132]] ([[User talk:46.116.169.132|talk]]) 13:48, 18 December 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== False deduction ==
+
+In the section '''Law of detachment'''
+#If [[angle]] A>90°, then A is an obtuse angle.
+#The measurement of angle A is 65°.
+#A is not an obtuse angle.
+'''We can't, using only (1), deduce (3) from (2)'''.The author of the section confused "if-then" with "if and only if".  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/81.192.238.155|81.192.238.155]] ([[User talk:81.192.238.155|talk]]) 20:13, 22 January 2011 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Induction as "bottom-up logic" ==
+
+Would it be possible to change the text "(bottom-up logic)" on the deductive reasoning page to the more accurate "(bottom-up logic, although this is an old-timey term which may confuse you endlessly as there is no consensus regarding whether or not this is an appropriate view--good luck)"?
+
+== I've found a mistake in the article, but I don't yet have the knowledge needed to fix it ==
+
+I'm teaching myself mathematics and logic these days, and when reading the article, I saw the following erroneous sentence in the article's intro:
+
+"In inductive reasoning, the conclusion is reached by generalizing or extrapolating from, i.e., there is epistemic uncertainty."
+
+Extrapolating from what? I would like to take a crack at fixing this error, but seeing as I am a beginner in the field, I thought I would notify someone with experience rather than just taking a guess and risk using the wrong phrasing or whatever.
+
+[[User:Obhave|Obhave]] ([[User talk:Obhave|talk]]) 16:18, 29 January 2016 (UTC)
+
+== Status of proof by exhaustion ==
+
+What status has the [[proof by exhaustion]] in regards with deductive reasoning? Can it be included to deductive reasoning like [[mathematical induction]]?--[[Special:Contributions/5.2.200.163|5.2.200.163]] ([[User talk:5.2.200.163|talk]]) 16:31, 23 January 2018 (UTC)

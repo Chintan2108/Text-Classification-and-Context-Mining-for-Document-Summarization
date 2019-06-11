@@ -1,0 +1,126 @@
+{{WikiProjectBannerShell|1=
+{{WikiProject Economics|class=start|importance=high}}
+{{WikiProject International development|class=start|importance=high}}
+{{WikiProject Africa|class=Start|importance=high}}
+{{dashboard.wikiedu.org assignment | course = Wikipedia:Wiki_Ed/University_of_California_-_San_Diego/Comparative_Political_Economy_-_Modern_Capitalism_(Fall_2016) | assignments = [[User:Zhongfei Li|Zhongfei Li]] }}
+}}
+{{dashboard.wikiedu.org assignment | course = Wikipedia:Wiki_Ed/University_of_Mount_Union/Many_Faces_of_Poverty_(Spring) | assignments = [[User:Duffyap2019|Duffyap2019]] | start_date = 2019-01-15 | end_date = 2019-05-15 }}
+
+==Comment==
+In the Poverty article there is a section named Eliminating Poverty. Can't these two somehow be merged or link to each other? It could use some more completeness, but is not a bad start. 
+--[[User:Yshander1|Yshander1]] 13:45, 21 April 2006 (UTC)
+
+==Lead Expanded==
+I've just added a definition of what we're addressing on this page: poverty reduction. This had been requested lower on the Talk page. Plan to expand it a bit. I'd also like to address what several people have commented on, that we need to make it clear that there are a variety of approaches to poverty reduction and here are some of them -- create a neutral presentation without at the same time losing the valuable descriptions of them. I'd also like to add a history of poverty reduction measures, as is the convention in Wikipedia articles.[[User:Alexhopkins|Alexhopkins]] ([[User talk:Alexhopkins|talk]]) 04:04, 10 June 2011 (UTC)
+
+
+==Edits to intro section==
+As discussed on this talk page there are numerous issues with this article, not least the presentation of certain conceptions of poverty and poverty reduction as uncontroversial fact. For starters though, I think the intro section could do with some significant editing. If others agree (or if I don't meet disagreement) then soon I will go ahead and attempt this along the following lines: 
+
+Firstly, it could be a lot shorter; much of the content of the intro seems like more specific stuff that would come within the main article. Additionally, the intro contains some of the questionably neutral content seen elsewhere in the article, for instance, in the penultimate paragraph of the intro which appears to assume that 'economic liberalization' is uncontroversially an integral element of poverty reduction. In my view this kind of stuff would be better housed in the main article, where it can come within a run-down of various views on poverty reduction that thereby consciously acknowledges them as such i.e. as viewpoints.
+
+Secondly, I think that the article should probably begin ''''Poverty reduction''' is/refers to...' rather than ''''Poverty''' is...'. I'm not a hugely experienced Wikipedia editor but as far as I can see it would be more usual simply to utilise the existing page on 'Poverty' by linking to it. So, an example first sentence might be 'Poverty reduction refers to intentional efforts to reduce [[poverty]] experienced by people.' It then might go on, later in the intro, to acknowledge that the exact concept of 'poverty' is contested, and link again to the 'Poverty' article.
+
+Any thoughts on this please? 
+
+[[User:Arch Mute Brave|Arch Mute Brave]] ([[User talk:Arch Mute Brave|talk]]) 10:49, 15 February 2013 (UTC)
+agree  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Admice900|Admice900]] ([[User talk:Admice900|talk]] • [[Special:Contributions/Admice900|contribs]]) 02:53, 28 November 2013 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+==''How to reduce poverty''==
+Since its NPOV (to say the least) to suggest we all know and agree on how to reduce poverty, I've changed "How to reduce poverty" to "Poverty reduction strategies", with my best NPOV intro. Remember that each of these processes have detractors (cited example should be included for each), and since there's still poverty, it's hard to argue there is a set of answers that fall under [[WP:NPOV]].  [[User:T L Miles|T L Miles]] ([[User talk:T L Miles|talk]]) 20:35, 4 March 2008 (UTC)
+
+One of the problems I see is that poverty is not defined. For instance, it is normally defined as lack of money. By that definition, all people who lived on the earth before money was invented are poor. Any remaining pockets of humanity not part of the globalized free market - such as those Amazon Indian just now becoming known to the West - are by definition poor.
+
+The problem with this idea of poverty is that the solution is: more money. Poor countries are those with a low GDP. However, that measure of economic activity leaves out everything, such as subsistence farming, that doesn't go on the market. Disasters, crime, epidemics, however, raise the GDP because they require expenditure. Crime requires police, who have to be paid. 
+
+And if the solution is 'more money' it pretty much means that so-called developing nations have to start doing what they are told by the World Bank and IMF. If the problem is lack of money, and the solution to the lack of money is capitalism, why are there so many poor people in the one nation that exemplifies capitalism?  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/70.52.223.57|70.52.223.57]] ([[User talk:70.52.223.57|talk]]) 06:29, 3 June 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== The Role of Education and Skillbuilding as Precursors to Economic Development ==
+Universal public education has some role in preparing youth for basic academic skills and perhaps many trade skills, as well.  Apprenticeships clearly build needed trade skills.  If modest amounts of cash and land can be combined with a modicum of agricultural skills in a temperate climate, subsistence can give way toward modest societal wealth.  As has been mentioned, education for women will allow for reduced family size--an important poverty reduction event in its own right.  While all components mentioned above are necessary, the portion of education pertaining to the variety of skills needed to build and maintain the infrastructure of a developing (moving out of poverty) society:  building trades; plumbing; electrician; well-drilling; farm and transport mechanical skills (and others) are clearly needed in large numbers of individuals, if the society is to move out of poverty or subsistence.  It is with sadness that I note that well-developed western economies seem to be moving strongly away from needed apprenticeships and vocational skill training which appear to be a clear path out of modern urban poverty.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Homebuilding|Homebuilding]] ([[User talk:Homebuilding|talk]] • [[Special:Contributions/Homebuilding|contribs]]) 01:31, 6 February 2010 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+''''==Merge or delete large portions==
+This article contains exactly the same information and exactly the same POV pushing that's been placed in the [[Poverty]] article. Even ignoring the unsourced POV violations, there's no point in having large (very large in fact) chunks of text repeated in both articles. The articles should be either merged, or the text cut from one or the other (and good bit of it needs to be cut from both).[[User:Radeksz|radek]] ([[User talk:Radeksz|talk]]) 21:16, 12 February 2009 (UTC)''
+''
+
+==Access to abortion and population control==
+The article should perhaps mention that free access to abortion and population control have often been employed in the fight against poverty in ways that are arguably controversial. In the minds of certain central planners, poverty reduction has almost become synonymous with population reduction. Pro-life activists have denounced this view because it tends to devalue human life, which it understands only in terms of fiscal advancement and collective improvement. [[User:ADM|ADM]] ([[User talk:ADM|talk]]) 23:59, 10 May 2009 (UTC)
+
+== Addition of Empowering Women as Strategy ==
+
+The female empowerment movement has become an important aspect of the poverty reduction movement and has been proven in practice to reduce poverty, which is supported by much research. Subsequently, the inclusion of this idea as a strategy for lessening poverty is essential to understanding the many of facets of poverty reduction.  <small><span class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Valerie.H.Le|Valerie.H.Le]] ([[User talk:Valerie.H.Le|talk]] • [[Special:Contributions/Valerie.H.Le|contribs]]) 08:25, 28 March 2011 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== This is not NPOV. ==
+
+The section "Economic Liberalization" presents a neoliberal perspective as if it is THE way of reducing poverty. I suggest this be re-worked, stating something along the lines of "Neoliberals believe..." "advocates of free markets believe..." and so on. Statements like:
+
+"Extending property rights protection to the poor is one of the most important poverty reduction strategies a nation can implement.[2] Securing property rights to land, the largest asset for most societies, is vital to their economic freedom."
+
+Are absolutely NOT beyond dispute. Most of the arguments in the following section have nothing to do with promoting understanding of poverty, and more about bashing leftist regimes (Bolivia, China, India and so on) and leftist policy (collectivized farming, taxes, regulation, etc).
+
+The section "Capital, infrastructure and technology" makes many bold claims which are simply not NPOV. They may be valid, but they are statements of judgment - these policies are successful, these policies are unsuccessful.
+
+Furthermore, philosophers and economists from the left (Marxists, Marxist-lenists, etc) have a *lot* to say about this subject and are certainly not fringe groups in the social sciences, but their voices are completely absent from this article, replaced by the neoliberal consensus under the guise of fact. Even economists slightly left-of-center would disagree with many claims made in this article.
+
+The section on "good institutions" is already a normative claim. You're saying some governments are "good" and others are "bad" based on far less than objective standards. Statements like "Efficient institutions that are not corrupt and obey the rule of law make and enforce good laws that provide security to property and businesses." imply that property rights and successful businesses are required to eliminate poverty, again, not a statement without dispute. A with the "Capital, Infrastructure and technology" section, many claims here are normative.
+
+There are many other instances where NPOV is lacking, as I'm sure anyone reading the article with a critical eye can spot. I am flagging this with Template:POV and suggesting a major rewrite.[[User:Enigmocracy|Enigmocracy]] ([[User talk:Enigmocracy|talk]]) 22:13, 16 April 2011 (UTC)
+:{{reply to|Enigmocracy}} Many of these statements [https://en.wikipedia.org/w/index.php?title=Poverty_reduction&diff=prev&oldid=309335946 first appeared in 2009] when [[User:JustBeCool]] re-wrote the ''Economic liberalization'' section of this article. [[User:Jarble|Jarble]] ([[User talk:Jarble|talk]]) 02:26, 2 November 2016 (UTC)
+
+==Addition of Eliminating Racial Discrimination==
+Racial discrimination, particularly in the United States, has been a huge factor in causing and perpetuating poverty among certain racial groups, such as African Americans. I think a section on racial inequality, including things such as race riots, lynching, Jim Crow Laws, etc, would be relevant, since poverty and racial discrimination are strongly connected in many countries worldwide. Of course, African Americans are not the only race to have experienced discrimination and subsequent poverty, so attention should be paid to avoid focusing only on one group. 
+[[User:LWang1991|LWang1991]] ([[User talk:LWang1991|talk]]) 21:42, 19 September 2011 (UTC)
+
+I agree with this idea. Racial discrimination has been and still is an important part of the history of the world. Many scholars see poverty as the lack of freedoms or the lack of capabilities. It goes without saying that discrimination of any type, such as racial discrimination, limits an individual's freedom and therefore, makes them poor. And like my fellow Wiki User stated above, racial discrimination has made many people poor in the monetary sense as well. Even today, some races are discriminated when it comes to employment, etc. And in addition to this, looking at the map of the world and where poverty falls, it is clear that race is inherently tied to poverty. I think that in order to free the poor people of the world, we must address race issues as well. They all go hand in hand. [[User:MariaNunez|MariaNunez]] ([[User talk:MariaNunez|talk]]) 02:08, 20 September 2011 (UTC)
+
+==Gender Development Index==
+Although gender inequality and the effects of poverty on women are basically discussed, the measurement of this type of poverty is not broached. Data and verifiable indices are an integral part to any poverty reduction mechanism, and should be included in this article. It is important to note what is qualified as being poor, or bereft of certain capabilities, before actual reduction strategies can be approached. The gender development index is an important measurement, though it's criticisms should also be included. For policy makers, it is important to initially grasp that there is a problem, a numerical index that can consistently flag lagging gender development, before the problem can be addressed. [[User:Anabuiles8|Anabuiles8]] ([[User talk:Anabuiles8|talk]]) 03:03, 20 September 2011 (UTC)
+
+== Good Institutions section ==
+
+The Good Institutions section seems to be a bit disorganized and random. I think a better title, such as Effective Institutions in Poverty Reduction, or something that conveys more of what the section is trying to contribute to the article, which I think discusses good governance in the face of impoverished communities, although that theme only seems to come through in the last paragraph. I like that the introduction to the section begins talking about what qualifies as an efficient institution, however the jump to the Weberianness scaled at UC Berkley loses the flow and the purpose of the paragraph. Adding transitional sentences between thoughts would add a lot of fluidity to the section, ending with examples of governments and institutions who have acted effectively, efficiently, and with good governance in and around impoverished and developing communities to help achieve poverty reduction. 
+[[User:Achresto|Achresto]] ([[User talk:Achresto|talk]]) 17:10, 20 September 2011 (UTC)Achresto
+
+==Agricultural subsidies==
+One major issue that contributes to poverty are [[agricultural subsidies]].
+One thing the WTO may wish to implement in the Doha rounds is making the use of [[agricultural subsidies]] for any country illegal in its entirety, or equalising them (rather than just lowering them). At present, each country subsidises his agricultural (or primary) sector by a country-specific percentage of the GDP. Developed countries subsidise their agriculture much more than developing countries, giving developed countries a unfair advantage. This is especially tragic as a far fewer percentage of the country's population in developed countries work in the primary sector than in developing countries. In addittion, it can also be considered unfair to the people in this developed country working in the secundairy and tertiary sector (as they are not subsidised). If the agricultural subsidies of all countries would be equalised, or scrapped in their entirity, this unfair advantage would disappear, and food would globally become more costly (which also reduces food waste). 
+
+add in article
+[[Special:Contributions/109.130.177.248|109.130.177.248]] ([[User talk:109.130.177.248|talk]]) 09:13, 30 January 2013 (UTC)
+
+== Orphaned references in [[:Poverty reduction]] ==
+
+I check pages listed in [[:Category:Pages with incorrect ref formatting]] to try to fix reference errors. One of the things I do is look for content for [[User:AnomieBOT/docs/OrphanReferenceFixer|orphaned references]] in wikilinked articles. I have found content for some of [[:Poverty reduction]]'s orphans, the problem is that I found more than one version. I can't determine which (if any) is correct for ''this'' article, so I am asking for a sentient editor to look it over and copy the correct ref content into this article.
+
+<b>Reference named "Roberts":</b><ul>
+<li>From [[Community forestry]]: {{cite web|last=Roberts, E.H. and Gautam, M.K.|title=Community Forestry Lessons for Australia: A review of international case studies.|url=http://fennerschool.anu.edu.au/files/panel/180/aus_comfor_final1_pdf_17543.pdf|work=School of Resources, Environment & Society; The Australian National University.|accessdate=Sept 24, 2011}}</li>
+<li>From [[Norplant]]: Roberts, Dorothy. Killing the Black Body: Race, Reproduction, and the Meaning of Liberty. New York: Pantheon Books, 1997. Chapter 3</li>
+</ul>
+
+I apologize if any of the above are effectively identical; I am just a simple computer program, so I can't determine whether minor differences are significant or not. [[User:AnomieBOT|AnomieBOT]][[User talk:AnomieBOT|<font color="#888800">⚡</font>]] 04:51, 3 December 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Poverty reduction]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=713116373 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Corrected formatting/usage for http://www.undp.org/content/undp/en/home/ourwork/democraticgovernance/overview.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 01:17, 2 April 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Poverty reduction]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=752235997 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added {{tlx|dead link}} tag to http://www.iwmi.cgiar.org/Publications/Other/index.aspx
+*Added archive https://web.archive.org/web/20110716073246/http://www.californiachronicle.com/articles/view/58941 to http://www.californiachronicle.com/articles/view/58941
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 05:48, 30 November 2016 (UTC)

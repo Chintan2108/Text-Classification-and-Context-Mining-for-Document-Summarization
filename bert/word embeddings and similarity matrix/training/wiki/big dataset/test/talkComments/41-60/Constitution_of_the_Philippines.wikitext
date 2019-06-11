@@ -1,0 +1,142 @@
+{{WPPhilippines|class=B|importance=Top}}
+{{WikiProject Law|class=B|importance=mid}}
+{{Philippine English}}
+
+Moved back from [[The Philippine Constitution]] since [[Constitution of the Philippines]] is the proper title of the document. [[User:Seav|seav]]
+
+==Wikisource==
+I have the text from the 1899, 1935 and 1973 Constitutions. I am planning to put them at [[Wikisource]]. If you have objections post it here. [[User:Circa 1900|Circa 1900]] 07:50, 8 December 2005 (UTC)
+:Good idea! :) --[[User:Noypi380|Noypi380]] 13:17, 25 October 2006 (UTC)
+
+:Go ahead then. Better complete the list by including the 1986 and the 1987 Constitutions. [[User:ScriptOriumTerminus|ScriptOriumTerminus]] ([[User talk:ScriptOriumTerminus|talk]]) 15:18, 25 January 2018 (UTC)
+
+== Is a charter change page needed? ==
+
+With all the talk '''and confusion''' in the news lately should thier be a '''"Constitution of the Philippines(Charter Change)"''' page added or at least a '''Stub:Phillippines(ChaCha)''' with some external links to it's PRO/CON web sites?
+
+[[User:Mkouklis|Mkouklis]] 10:02, 15 August 2006 (UTC)
+:That won't be necessary, deleted the bottom section too. This is not a place for "talk and confusion" anyway, that should be for the blogs. The external link for the constitutional change proponents is enough for now. :) --[[User:Noypi380|Noypi380]] 13:16, 25 October 2006 (UTC)
+
+::Actually I disagree but I'm too lazy to create such a page hehehe --<b><font color="orange">[[User:Howard the Duck|<font color="#FFA500">Howard</font>]] [[Special:Contributions/Howard the Duck|<font color="#FFA500">the</font>]] [[User talk:Howard the Duck|<font color="#FFA500">Duck</font>]]</font></b> 08:29, 6 November 2006 (UTC)
+
+::: Requesting at least an additional section for Charter Change efforts.. ;) [[User:Needsmorehotsauce|Needsmorehotsauce]] ([[User talk:Needsmorehotsauce|talk]]) 02:05, 10 January 2011 (UTC)
+{{od}}It would probably be useful to have a subsection giving some info about how changes to the 1987 constitution might be effected. Without grubbing about for supporting sources, I'll say that my impression is that there is a lot of uncertainty about that, particularly about the question of whether the requisite congressional votes mentioned in [http://www.chanrobles.com/article17.htm Article XVII of the 1987 constitution] are meant to be taken with each house voting separately (each house having equal say) or in a joint session of both houses with the individual votes of each of the the 24 Senators counting the same as the individual votes of each of the 200+ Representatives. [[User:Wtmitchell|Wtmitchell]]  [[User talk:Wtmitchell|(talk)]] <small>(earlier ''Boracay Bill'')</small> 07:05, 10 January 2011 (UTC)
+
+==Expanded discussion on 1987 Constitution==
+
+I wrote an expanded discussion on the 1987 Constitution, including a brief background and explanation of its basic features. Considering that it is the Constitution currently in force, it would be useful to have a brief overview of what it says in Wikipedia. I steered clear though about the charter change provisions - the topic is too controversial and might need a separate page. I did add references at the end to the various pages already existing on that topic. --[[User:Anyo Niminus|Anyo Niminus]] 16:06, 6 January 2007 (UTC)
+
+== Post-WW-II constitutional situation should be covered here ==
+
+I came to this page looking for info on the constitutional status of the Philippines in the period between the conclusion of WW-II and the adoption of the 1973 constitution.  I did not find that info on this page.  I believe that this page should contain this info.
+
+I have read (somewhere -- sorry, I don't have a cite handy) that the 1943 constitution was revised after WW-II (though I have seen no details regarding the supposed revisions) and that revised constitution used until superseded by the 1973 constitution.  I have also read, contrarily, various items which give me the impression that sometime after WW-II the 1943 constitution was discarded in favor of the earlier 1935 constitution (e.g., various court cases pertaining to citizenship status of PBA players born in the '60s and '70s having been decided using citizenship requirements from the 1935 constitution vs. those in the 1943 constitution), though I have never seen any reference how, when, and/or on what authority that reversion might have been made.  I also note that neither [http://www.chanrobles.com Chanrobles] nor [http://www.lawphil.net Lawphil] seem to mention the 1973 constitution at all.  This should be covered here, I think -- hopefuly with a good reference citation.  I will keep looking for info on this with a good reference to cite, but others are surely better equipped to address this than I. -- [[User:Wtmitchell|Boracay Bill]] 02:46, 15 January 2007 (UTC)
+
+
+:: Updated as requested. [[User:Gareon|Gareon]] 06:17, 16 January 2007 (UTC)
+Thanks.  I carried some of that info over onto [[Philippine nationality law]]. -- [[User:Wtmitchell|Boracay Bill]] 10:38, 16 January 2007 (UTC)
+
+==Memory Digest?==
+
+Is it about time we also add digest to different topics of laws so we can consolidate all of our resources build a strong bar review material? visit http://rllqph.tk 17:03, 24 February 2007 (UTC)
+
+==Spanish Constitution==
+
+Can someone include the Himno the First Constitution in Spanish and English please?
+The Spanish version should be included.!!
+
+==Split "Historical Constitutions" into separate article?==
+
+I suggest that a separate article be created dealing with the history of previous Philippine constitutions. The 1987 Constitution should be the main focus of this article. But at present, the historical discussion of previous constitutions outweighs the discussion of the present 1987 Constitution. I can work on both articles, but I'd like a consensus first on this proposal. --[[User:Anyo Niminus|Anyo Niminus]] ([[User talk:Anyo Niminus|talk]]) 06:07, 13 March 2008 (UTC)
+:This I agree with. The main focus here should be on the current constitution and the history section has gotten too long.  Further there needs more analysis on both.  What title should a history article have?  Something like '''Constitutional history of the Philippines''' like [[Constitutional history of Australia]] or [[Constitutional history of Colombia]]?  I also note this [[Constitutional history of Canada]] and this [[List of documents from the constitutional history of Canada]]--[[User:Iloilo Wanderer|Iloilo Wanderer]] ([[User talk:Iloilo Wanderer|talk]]) 03:10, 26 April 2013 (UTC)
+
+==Organic Act of 1902==
+
+May I suggest that the Organic Act of 1902 be included among the constitutions mentioned in the article. While it is an act of the US Congress, still, it complies with the basic elements of a constitution, such as the organization of government (including a legislature) and a bill of rights for the inhabitants of a territory. In the interregnum until the grant of limited autonomy and the establishment of the Philippine Commonwealth, it was the basic law in the Philippine Islands. 
+For comments, please.   <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Rrcs law|Rrcs law]] ([[User talk:Rrcs law|talk]] • [[Special:Contributions/Rrcs law|contribs]]) 03:13, 18 March 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:I agree with this. --[[User:Anyo Niminus|Anyo Niminus]] ([[User talk:Anyo Niminus|talk]]) 03:25, 18 March 2009 (UTC)
+
+Sounds right (see [[Philippine Organic Act (1902)]]. Perhaps [[Jones Law (Philippines)|Jones Law]] (the Philippine Autonomy Act of 1916) as well. -- [[User:Wtmitchell|Boracay Bill]] ([[User talk:Wtmitchell|talk]]) 00:04, 19 March 2009 (UTC)
+
+Having seen no objection and per [[WP:SILENCE]] I've added this to the article. -- [[User:Wtmitchell|Boracay Bill]] ([[User talk:Wtmitchell|talk]]) 02:18, 20 March 2009 (UTC)
+
+== Rewritten section ==
+
+I've [[WP:BOLD|boldly]] rewritten the section formerly headed "Malolos Congress" and renamed it "Malolos Constitution". Considering the topic of this article, and considering that a WP article about this constitution exists, it seemed to me better to focus on the constitution itself rather than on the body which adopted it. Also, <del>I corrected an assertion that the constitution was written by the Revolutionary government. It was proclaimed on 20 January 1899, during the short-lived Dictatorial government. The Revolutionary government did not come into existence until 23 January.</del> [[User:Wtmitchell|Wtmitchell]]  [[User talk:Wtmitchell|(talk)]] <small>(earlier ''Boracay Bill'')</small> 03:15, 15 July 2010 (UTC)
+{{od}}Re the deleted portion above, I clearly had misread the 1899 proclamation date as 1898, while my mind was completely out of gear. The rewritten text in the article seems OK, though. I'm currently looking at the [[Malolos Congress]] article, and I'll probably revisit this rewritten section after I'm done with that. [[User:Wtmitchell|Wtmitchell]]  [[User talk:Wtmitchell|(talk)]] <small>(earlier ''Boracay Bill'')</small> 04:04, 15 July 2010 (UTC)
+
+== Parliamentary Republic ==
+
+The section on the Malolos Constitution writes that it "called for a Presidential form of government" - which is false. The Malolos Constitution called for a parliamentary republic in that it made the legislature the dominant department of government, with the executive powers vested in a President elected by a majority of the assembly of representatives. Members of the legislature were appointed by the President to head executive departments. The executive was in other words responsible to the legislature, just like in any parliamentary system. I'm correcting it accordingly. [[User:Boreanesia|Boreanesia]] ([[User talk:Boreanesia|talk]]) 08:07, 7 November 2012 (UTC)
+
+==Vice Presidents role==
+I can not see in the article what the Vice President should do?
+[[Special:Contributions/91.154.68.98|91.154.68.98]] ([[User talk:91.154.68.98|talk]]) 11:07, 12 May 2016 (UTC)
+::Still can not.[[Special:Contributions/91.154.68.98|91.154.68.98]] ([[User talk:91.154.68.98|talk]]) 20:07, 22 May 2016 (UTC)
+
+== "Revolutionary means"? ==
+
+The phrase "a president installed by revolutionary means through the People Power Revolution" sounds awfully POV to me, as the People Power Revolution consisted of marches and demonstrations. [[User:NewEnglandYankee|NewEnglandYankee]] ([[User talk:NewEnglandYankee|talk]]) 16:12, 10 September 2016 (UTC)
+
+== social studies ==
+
+Philippines constitutional 1935 [[User:Jamin Sabanal|Jamin Sabanal]] ([[User talk:Jamin Sabanal|talk]]) 12:32, 22 November 2016 (UTC)
+
+== Constitutionality of the 1987 Philippine constitution ==
+
+<u>WHETHER OR NOT THE 1987 PHILIPPINE CONSTITUTION CONSTITUTIONAL</u>
+<P>Couched in a legal issue, this commentary is a discourse on the technical significance of Section 8, Article XIV of the 1987 Philippine Constitution which provides as follows:</P>
+<UL><P>"This Constitution shall be promulgated in Filipino and [in] English and shall be translated into major regional languages, Arabic and Spanish."</P></UL>
+<P>As most fervently prayed, it is hoped this contributor merely lacked the skill in research that to the date of this writing, no official Filipino translation of the 1987 Philippine Constitution have so far been unearthed electronically or otherwise. While it is true there are existing translations from various sources as the Wikipedia, book shelves and websites are all wanting for a legitimate translation that is officially recognized by the Philippine Government. That is, one which text pursuant and in keeping with the existing "Balarilang Filipino".</P>
+<P>Stated otherwise, it is unfortunate that to the date of this commentary, no official Filipino text of the 1987 Philippine Constitution exists. In like manner, it is equally unfortunate that the pertained Constitution, to date, has not been translated into major regional languages as well as in languages Arabic and Spanish. Thus the legal issue herein presented; Whether or not the 1987 Philippine Constitution lettered to be promulgated "in Filipino and English" (which should have been "xxx in Filipino and <u>in</u> English") constitutional considering it was promulgated only in English?</P>
+<P><b>Promulgate</b> [to promulgate], according to Black, is "to publish; to announce officially; to make public as important or obligatory; the formal act of announcing a statute or rule of court." That the 1987 Philippine Constitution have failed to promulgate the same in both languages Filipino and English raises the inquiry whether or not such failure tantamount to "non-promulgation" of the Philippine Constitution?</P>
+<P>By "non-promulgation", the suggestion simply implies that the pertained constitution has not been legitimately "published; has not been announced officially; has not been made public as important or obligatory; that the act of announcing the constitutionality of the same has not been complied with"?</P>
+<P>Hence the issue on constitutionality.</P>
+<P>Trivial as may seem but then again... DURA LEX SED LEX</P>
+<ul><P>Ang komentaryo'ng ito ay pagbibigay pugay sa katutubo'ng dila ng nito'ng tinubua'ng lupa.</P></ul>[[User:ScriptOriumTerminus|ScriptOriumTerminus]] ([[User talk:ScriptOriumTerminus|talk]]) 17:07, 24 May 2017 (UTC)
+
+== Semi-protected edit request on 15 August 2018 ==
+
+{{edit semi-protected|Constitution of the Philippines|answered=yes}}
+The Infobox should be replaced by something like this:
+{{Infobox constitution
+| document_name        = Constitution of the Philippines <br><small>''Saligang Batas ng Pilipinas''</small><br><small>''Konstitusyon ng Pilipinas''</small>
+| image                =
+| image_alt            =
+| caption              =
+| orig_lang_code       =
+| title_orig           =
+| jurisdiction         = {{flag|Philippines}}
+| date_created         = June 2 -October 12, 1986
+| date_presented       = October 15, 1986
+| date_ratified        = [[Philippine constitutional plebiscite, 1987|February 2, 1987]]
+| date_effective       = February 2, 1987<ref>''De Leon v. Esguerra, G.R. no. 78059</ref>
+| system               = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[Constitution of the Philippines|constitutional]] [[republic]]
+| branches             = 3
+| chambers             = [[Congress of the Philippines|Bicameral Congress]]
+| executive            = [[President of the Philippines]]
+| courts               = [[Supreme Court of the Philippines|Supreme Court]] and in such lower courts as may be established by law.
+| government_structure = [[Unitary State]]
+| electoral_college    = 
+| number_entrenchments =
+| date_legislature     = [[8th Congress of the Philippines|June 30, 1992]]
+| date_first_executive = [[Fidel V. Ramos|June 30, 1992]] 
+| date_first_court     =
+| date_repealed        =
+| number_amendments    = ''[[Constitutional reform in the Philippines|Proposed Constitutional amendments to the 1987 Constitution]]''
+| date_last_amended    =
+| location_of_document = Legislative Archives, Library and Museum, [[Batasang Pambansa Complex]], [[Quezon City]]
+| commissioned         = [[Revolutionary government in the Philippines#Under President Corazon Aquino|Revolutionary Government]] of [[Corazon Aquino]] 
+| writer               = [[Philippine Constitutional Commission of 1986|Constitutional Commission of 1986]]
+| signers              = 46 of the 50 commissioners
+| media_type           = 
+| supersedes           = [[s:Provisional Constitution of the Philippines (1986)|Presidential Proclamation No. 3]]
+}}
+Please fix the infobox section of the article [[Special:Contributions/203.87.133.130|203.87.133.130]] ([[User talk:203.87.133.130|talk]]) 07:57, 15 August 2018 (UTC)
+
+{{done}} except I only put the first date you mentioned for the date created. [[User:CLCStudent|CLCStudent]] ([[User talk:CLCStudent|talk]]) 18:12, 24 August 2018 (UTC)
+:The requested proposal is still not properly fulfilled, the infobox of the article is still the same and not modified from being a document to a constitution infobox, there is already a special template for the constitution ([[Template:Infobox constitution]]). The article can be further improved if the infobox was properly arranged. Thank you. [[Special:Contributions/203.87.133.145|203.87.133.145]] ([[User talk:203.87.133.145|talk]]) 12:30, 26 August 2018 (UTC)
+:[[File:Yes check.svg|20px|link=|alt=]] '''Done'''<!-- Template:ESp --> again with only first date created [[User:Danski454|Danski454]] ([[User talk:Danski454|talk]]) 21:00, 26 August 2018 (UTC)
+
+{{reflist-talk}}
