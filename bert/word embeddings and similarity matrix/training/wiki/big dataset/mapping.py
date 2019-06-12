@@ -9,6 +9,7 @@ def getDiff(revID):
     and returns two lists namely added lines and deleted lines
     '''
     url = 'https://en.wikipedia.org/wiki/?diff=%s' % str(revID)
+    #some change
 
     #open with GET method 
     resp=requests.get(url)
