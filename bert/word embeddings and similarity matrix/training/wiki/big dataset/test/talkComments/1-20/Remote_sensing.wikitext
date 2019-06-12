@@ -80,3 +80,11 @@ When you have finished reviewing my changes, you may follow the instructions on 
 {{sourcecheck|checked=false|needhelp=}}
 
 Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 22:17, 21 January 2018 (UTC)
+
+== copyright violation? ==
+
+{{Copypaste|section|url=http://joseba.mpch-mainz.mpg.de/doas_history.htm|date=May 2019}}
+
+Yes, the text is based on the doas_history.htm web page. I asked
+the original author if it is okay to use his text on wikipedia, and he
+agreed. Therefore, there is no copyright violation.--[[User:RolfSander|RolfSander]] ([[User talk:RolfSander|talk]]) 15:08, 30 May 2019 (UTC)

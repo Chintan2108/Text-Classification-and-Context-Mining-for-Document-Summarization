@@ -1,0 +1,561 @@
+{{Talk header}}
+{{Vital article|topic=Society|level=5|class=B}}
+{{blp}}
+{{forum}}
+{{WikiProject banner shell|collapsed=yes|1=
+{{WikiProject Companies|class=B|importance=top}}
+{{WikiProject New York City|class=B|importance=Mid}}
+{{WikiProject Organizations|class=B|importance=low}}
+{{WikiProject Finance|class=B |importance=high}}
+}}
+{{ITN talk|September 20|2013}}
+
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav}}
+|maxarchivesize = 95K
+|counter = 1
+|minthreadsleft = 5
+|algo = old(91d)
+|archive = Talk:JPMorgan Chase/Archive %(counter)d
+}}
+
+== Assets ==
+
+JP Morgan Chase does not have the largest amount of assets, it's HSBC
+
+Source: http://www.hsbc.com/1/PA_1_1_S5/content/assets/investor_relations/hsbc2009ir0.pdf
+
+It has $2,4 trilj. USD of assets
+
+== Chase Acquisition of J.P. Morgan & Co ==
+
+The article alludes to Chase purchasing J.P. Morgan in the late nineties. Under the subheading "J.P. Morgan & Company" the article states, "By the late 1990s, when it was acquired by Chase Manhattan (the new company's name became JPMorgan Chase & Co.)."   Please note that the merger was announced on September 13, 2000. The deal closed on January 2, 2001.
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 5 external links on [[JPMorgan Chase]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=782003887 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20120622000151/http://www.jpmorgan.co.jp/e_index.php to http://www.jpmorgan.co.jp/e_index.php
+*Added archive https://web.archive.org/web/20070930065736/http://quote.bloomberg.com/apps/news?pid=10000103&sid=auybDoZIEQTg&refer=news_index to http://quote.bloomberg.com/apps/news?pid=10000103&sid=auybDoZIEQTg&refer=news_index
+*Added archive https://web.archive.org/web/20130525033610/http://www.knowyourbank.com/jpmorgan-chase/4521/ to http://www.knowyourbank.com/jpmorgan-chase/4521/
+*Added archive https://web.archive.org/web/20130922050509/http://finance.fortune.cnn.com/2013/09/20/sec-jpmorgan-london-whale/ to http://finance.fortune.cnn.com/2013/09/20/sec-jpmorgan-london-whale
+*Corrected formatting/usage for http://en.peramuzesi.org.tr/exhibitions/detail_past_exhibitions.aspx?SectionID=If8oZ%20VzMawlegtVB27WvA%3D%3D&ContentId=ptRObs4IS%2F1hXKZIrSs6hA%3D%3D
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 11:59, 24 May 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[JPMorgan Chase]]. Please take a moment to review [[special:diff/811002420|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20170803045315/http://www.icbc.com.cn/icbc/en/newsupdates/icbc%20news/ICBCBecomestheWorldsMostValuableBankingBrand.htm to http://www.icbc.com.cn/icbc/en/newsupdates/icbc%20news/ICBCBecomestheWorldsMostValuableBankingBrand.htm
+*Added archive https://web.archive.org/web/20110927133631/http://www.jpmorganchase.com/corporate/About-JPMC/document/shorthistory.pdf to http://www.jpmorganchase.com/corporate/About-JPMC/document/shorthistory.pdf
+*Added archive https://web.archive.org/web/20130325142359/http://www.cylex-uk.co.uk/company/j-p-morgan-europe-ltd--16847575.html to http://www.cylex-uk.co.uk/company/j-p-morgan-europe-ltd--16847575.html
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 22:23, 18 November 2017 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 4 external links on [[JPMorgan Chase]]. Please take a moment to review [[special:diff/814479945|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20090122224028/http://www.bloomberg.com/apps/news?pid=20601103 to https://www.bloomberg.com/apps/news?pid=20601103&sid=a9FHelZ13yFM&refer=news
+*Added archive https://web.archive.org/web/20100613163056/http://www.bloomberg.com/apps/news?pid=20601087 to https://www.bloomberg.com/apps/news?pid=20601087&sid=aExgpC1XyF7g
+*Added archive https://web.archive.org/web/20100321165747/http://www.bloomberg.com/apps/news?pid=20601102 to https://www.bloomberg.com/apps/news?pid=20601102&sid=a.938AxCO1mU&refer=uk
+*Added archive https://web.archive.org/web/20100131100131/http://www.bloomberg.com/apps/news?pid=20601087&sid=aKdo.y7rr1ys&pos=3 to https://www.bloomberg.com/apps/news?pid=20601087&sid=aKdo.y7rr1ys&pos=3
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 02:03, 9 December 2017 (UTC)
+
+== Pay ratio -- add to info box ==
+
+I would like to see the pay ratio, and possibly associated data like median pay and CEO pay added to the infobox.  I have mentioned this article where I requested a "pay ratio" parameter be added to the infobox for that purpose: [[Template_talk:Infobox_company#Pay_ratio]]. --[[User:David Tornheim|David Tornheim]] ([[User talk:David Tornheim|talk]]) 13:38, 28 May 2019 (UTC)
+{{talkarchivenav}}
+
+== Date of Founding ==
+
+The claim that JPMorgan Chase is one of the oldest financial services firms in the world is certainly a dubious one. I have just looked up a few banks in the UK and found that the majority of them predate JPMorgan Chase, some by over 100 years - and this is in the UK alone! Surely this claim can only be attributed to the banks in the US (the paragraph below, posted by Desertroguex, serves to reinforce this).--[[User:Jon2harman|Jon2harman]] 00:28, 1 October 2008 (UTC)
+
+Technically, Manhattan bank (founded in 1799) is no longer the oldest heritage bank. JP has acquired Bank of New York's branches. BONY was founded in 1784 by Alexander Hamilton. This also technically makes JPMC the nations oldest bank.--[[User:Desertroguex|Desertroguex]] 03:13, 19 July 2006 (UTC)
+
+== Reversal of vandalism ==
+
+I have reversed some vandalism by IP address 208.67.143.100.
+
+--[[User:Topkapi|Randolph]] 16:12, 19 September 2006 (SAT)
+
+Please don't hide the controversies that are following Chase Bank these days. Chase's Change in terms policy with no opt out option is absolutely egregious.
+You can learn more at http://www.Changeinterms.com or http://www.Daily-PROTEST.com
+
+Please put a section for protest links or allow the protest links somewhere on this page, thank you.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.95.68.69|76.95.68.69]] ([[User talk:76.95.68.69|talk]]) 03:10, 22 April 2009 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+
+
+== Article Quality ==
+
+I apologize for overwriting/revising other people's text. I'm just trying to improve the overall quality of the article. Any help would be greatly appreciated.
+
+--[[User:Wikipedia Updater|Wikipedia Updater]] 20:14, 9 October 2005 (UTC)
+
+To say that Morgan Stanley is not JP Morgan's last name is a bit of a stretch considering it was named after JP's first son, Henry Morgan, who worked at JPMorgan & Co.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.166.13.16|67.166.13.16]] ([[User talk:67.166.13.16|talk]]) 15:25, 17 March 2008 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:You know that you could have edited it, this being a wiki and all? ;-)  I've changed it to read "It is a common misconception that the "Morgan" in Morgan Stanley refers to John Pierpont Morgan, but, in fact, it is a reference to Henry Morgan..."
+:Hope that's clearer. [[User:This_flag_once_was_red|<span style="background-color: #000; color: #fff">&nbsp;This flag once was <span style="color: red">red</span>&nbsp;</span>]] 18:48, 19 March 2008 (UTC)
+
+== Uruguay Banking Crisis ==
+
+This section was moved to a seperate article: [[Uruguay Banking Crisis]].
+
+--[[User:Wikipedia Updater|Wikipedia Updater]] 16:30, 9 October 2005 (UTC)
+----
+
+--- Uruguay Scandal Sources ---
+
+1.- http://portal.courts.state.ny.us/pls/portal30/CMS_DEV.RPT_FCAS_OPEN_CASEINFO.show?p_arg_names=enter_county_code&p_arg_values=30&p_arg_names=enter_index_no&p_arg_values=01169052004
+
+2.- http://www.labournet.de/internationales/uy/weber.html
+
+3.- http://www.finanzas.com/id.5112334/noticias/noticia.htm
+
+4.- http://www.espectador.com/nota.php?idNota=26189
+
+These are a few of the sources I used for the expansion. There's others out there; and others I used, but I'm not going to sift through my entire history for them, these are just a few to show Wikipedia Updater that there are facts and sources. I didn't put them in initially because this case is public knowledge and 90% of what I wrote can be seen daily in most newspapers.
+----
+Here are the sources I used for the Uruguay Banking Crisis section. Please note that these links actually work and they are derived from articles written in English, unlike the links above. The predominant view is that the banks had difficulty in managing the risk of the developing countries and dealing with the corrupt Rohm brothers during the financial crisis. The Central Bank of Uruguay is also largely to blame for not having adequate banking regulations and for the corruption among officials, part of the reason Uruguay became so popular in the first place.
+
+1. - Banking reform will reinforce recovery (The Banker): http://www.thebanker.com/news/printpage.php/aid/2752/Banking_reform_will_reinforce_recovery.html
+
+2. - Bank Frauds Highlight Lax Controls, Possible Collusion by Officials (Costa Rica Daily Online News Magazine): http://insidecostarica.com/specialreports/finance_south_america_bank_fraud.htm
+
+3. - J.P. Morgan, Partners Sued Over Lost Argentine Funds (Bloomberg): http://mailman.lbo-talk.org/2002/2002-September/022885.html
+
+4. - Banks risk legal action through involvement with Argentine Rohm brohters (Latin Lawyer: Argentina): http://llerena.com.ar/english/news/inthenews/jgr/jgr-04-10-02.html
+
+5. - Banco Comercial: Creditor Wins First Round in Legal Battle (Bankrupt.com - Scroll down to find URUGUAY): http://bankrupt.com/TCRLA_Public/050117.mbx
+
+I also recommend you do a search for Rohm Brothers and Banco Comercial. This whole section probably belongs in its own article in Wikipedia.
+----
+I'm not going to mark this as POV yet, I don't think doing so without giving Wikipedia Updater a chance to explain his/her reasons would be fair. The problem is that the version posted now is straight out of JP Morgan's lawyers'. Dissecting the article:
+
+"Uruguay Banking Crisis"
+The title itself is misleading, there was never a banking crisis in Uruguay, as many other banks were able to live through the Argentine Banking Crisis without problems, it was those that were mismanaged and looted that ended up broke due to the rush on banks.
+
+"In 1990, Chemical Overseas Holdings, Inc. (a subsidiary of JPMorgan Chase & Co.) acquired with Dresdner Bank Lateinamerika and Credit Suisse First Boston the Banco Comercial del Uruguay (BCU), one of that country's oldest and largest national banks."
+This is the legal ruse that JPMCC is using in order to divert the case away from itself, it is clear to all involved (including courts in two countries), that it was JPMCC that acquired the bank, shielding itself through a fraudulent subsidiary. This is evident in the fact that the signatories to acquirement documents were JPMCC directors, and not those of Chemical Overseas.
+
+"The consortium was headed by the brothers Carlos and José Rohm, two of Argentina’s most powerful financiers."
+The consortium was actually headed by JPMCC & Credit Suisse appointees, with the Rohm brothers acting on their behalf. This is evident in all documents, including those presented by Carlos Rohm & the Uruguayan government.
+
+"As the years progressed, Uruguay developed as a large offshore banking center for Argentina and Brazil, largely as a result of its lax banking laws and the predominant view among Argentineans that Uruguay was a stable place for their savings."
+This is completely incorrect, as Uruguay has been an offshore banking center (not only for Argentina and Brazil), since well before 1990. It is JPMCC's attempt to show itself in a positive light. The predominant view that Uruguay was a safe place came from France , Spain, Italy & Germany, who's banks have long held close ties to Uruguay's; it was this fact that originally prompted argentinean immigrants (mainly from those four countries) to deposit their savings in Uruguay.
+
+"In 2002, Uruguay suffered a massive banking crisis caused by a considerable contraction in the economy and by over-dependence on neighboring Argentina, which experienced an economic meltdown itself in 2001. A rush on banks ensued during the devaluation in Argentina, and the BCU was not able to handle the large loss of funds and began to clamor for government aid."
+I repeat, there was never a banking crisis in Uruguay, merely a run on banks. Those which had funds equal to their statements were able to survive. Those which practiced creative accounting in their government statements did not, simple.
+
+"As a result of the crisis and the fraudulent schemes conducted by the Rohm brothers, some $800 million USD of assets were missing from the BCU alone. In the end, five financial institutions failed and hundreds of thousands in Uruguay, Argentina and Brazil were left in dire economic conditions after seeing their bank accounts literally disappear."
+While not innocent puppets in the scheme, the Rohm brothers did not have power over the bank (stipulated in the contracts), they simply oversaw the actions directed by JPMCC & Credit Suisse.
+
+"According to many sources, the banking crisis could have been avoided if Uruguayan authorities had properly regulated its banks. The Central Bank in Uruguay had trusted international banks to regulate themselves properly and was too lenient and slow in responding to the crisis."
+This statement is philosophical. "Trust", "properly", "lenient", "slow"; these are all words of opinion, not fact. The Uruguayan regulations have been standing for hundreds of years with nary a problem, JPMCC simply took advantage of the system and used it for their own benefits.
+
+"In January 2005, the Paris-based International Arbitration Court ruled that the Uruguayan government would have to pay $120 million USD to JPMorgan Chase & Co., Dresdner Bank AG, and Credit Suisse First Boston for failing to maintain the solvency of the BCU."
+This statement simplifies the entire ordeal, and is used by JPMCC as marketing fodder to confuse those who do not have the full facts. Part of the original contract called for Uruguay to aid the bank with up to $110 million in funds to mantain solvency, however, the government refused to do so when they discovered the entire scheme, because it would have simply gone through the JPMCC network and never made it to the account holders. Instead, the government closed the bank to stop the growing debt Banco Comercial had. The ruling simply reflected what was written in the original contract, not, as JPMCC is trumpeting, the government's fault in the scandal.
+
+"The Rohm brothers, whose fraudulent activities included granting loans to ghost companies and concealing complex financial movements, are also largely to blame. Carlos Rohm is currently in prison in Argentina for using $250 million in credit instruments from BCU and diverting them to a trust account in Argentina. José Rohm is understood to be at large in the U.S., and his extradition is being sought by Uruguay."
+Ghost companies created by JPMCC and complex movements involving JPMCC subsidiaries. Once again, the Rohms are guilty to a degree, but they were not the masterminds behind the operation.
+
+"The crisis underscores the three banks’ difficulty in managing risk in developing countries and dealing with local partners during a time of financial crisis. As a result, many of BCU's former clients are suing the three international banks and their chief executives."
+Correct.
+
+----
+
+I don't think anyone disagress that the Banco Comercial del Uruguay (BCU) was mismanaged, but the notion that the three international banks were perpetrators of a fraud is false. There is absolutely no evidence that the BCU's investor banks had any direct connection with the fraud committed by the Rohm Brothers. JPMorgan Chase, Dresdner Bank, and Credit Suisse First Boston lost hundreds of millions of dollars in the crises that occured in Argentina and Uruguay. 
+
+Any accusations of fraud must be supported by direct evidence and are frankly not appropriate in the context of an impartial encyclopedia. Both the Rohm Brothers were convicted on fraud charges. The BCU's investor banks were not. Statements such as "JPMCC created ghost corporations" are misleading and are based on the writer's opinion, not fact. Reliable sources from the links above indicate that the extent of the three banks' liability is their difficulty in managing the risk of developing countries and in controlling the Rohm Brothers during the financial crises. That is acceptable. On the other hand, to indicate that the BCU's investors purposefully sought to defraud their clients during a time of crisis and to steal their deposits is absurd and is unacceptable. Again, there is absolutely no evidence of this, whatsoever. If you disagree, please provide English language links from reliable publications that show the contrary.
+
+Around the world, banks lend out deposits and typically only keep a percentage of deposits on hand for customers to redeem. Even if a bank does have funds equal to its statements, it will not survive a [http://en.wikipedia.org/wiki/Bank_run Bank run]. The crisis in Uruguay was exacerabted by the fact that the Central Bank of Uruguay did not have adequate banking regulations and capital controls. Had the Central Bank instituted proper controls, the bank may have been able to maintain its solvency during the crisis. Please see the article "Banking reform will reinforce recovery" above. Uruguay was not in compliance with the Basel Capital Accords during the crisis, which are a formulation of best banking practices by the G-10 countries. See [http://en.wikipedia.org/wiki/Bank_regulation Bank regulation].
+
+--[[User:Wikipedia Updater|Wikipedia Updater]] 20:53, 18 September 2005 (UTC)
+
+----
+
+There is no notion whatsoever about the '''three''' international banks being involved in the fraud. As stated in the original article: by contract, the Rohm brothers did not have full executory powers over the bank, there was oversight from the majority partners (JPMC), this is evident in all documentation available on the subject (mostly in spanish, as the english-speaking press has not payed much attention to this). As a side note to this, I fail to see how english-language sources are more ''reliable'' in comparison to their spanish counterparts, information in languages other than english is just as relevant, and I resent the implication.
+
+Who has been convicted or not is irrelevant, since the Uruguayan and Argentine courts have no jurisdiction over JPMC and, due to this, there is a current case in New York courts (as shown in the links) dealing with this matter. JPMC's argument that the case is baseless due to the reasons Wikipedia Updater states has been continously thrown out by the case judge, due simply to the fact that there '''is''' enough evidence connecting JPMC to the fraud to continue the case. I fail to understand why the fervor to protect JPMC, the facts are simple, there is evidence and that evidence is being used in court; JPMC's and Wikipedia Updater's arguments of lack of evidence are incorrect, as stated by judges in three nations.
+
+I am not trying to imply anything about how JPMC sought to "defraud their clients during a time of crisis"; the fraud was existent way before the crisis. As stated in the original article: the crisis only served to bring the fraud to light. The fact stands that there was malfeasense between the Rohm brothers and JPMC against the bank and its clients, at all times, not only during the crisis. The fact that they took advantage of lax banking laws is merely a sidenote to this, not a justification.
+
+There are complex calculations and systems in place to ensure a bank's solidity in troubled times, but these all grow from the bank's statements, if those are inflated, then the controls and government insurance are worthless, since they are created upon a fantasy. It may seem counter-intuitive, but a bank that overstates its earnings and positions is actually more at risk than one that understates them, it is not a direct system where, for example, for every $1.00 in the bank, $0.80 is safeguarded. This is one of the main reasons why the BCU folded so quickly; the network of loans and false markets created inflated the bank's value to a point that client accounts were a tiny drop in the alleged coffers, hence the lack of liquidity and impossibility of quick action when the run ensued. Other banks in Uruguay (national and international) were able to survive the run and continue to operate today, under Wikipedia Updater's assumption, those banks should not exist, since they were part of the same system.
+
+You cannot simply distill facts into broad statements and then work backwards to reconstruct them. Facts must be taken at face value and not as optional ingredients. Personal opinion about a company and its behavior cannot enter into what is supposedly a collection of facts.
+
+The sources I cited are 1)New York Court public records; 2)A German non-profit organization; 3)Finanzas.com, a spanish-language economics analysis and news center (similar to Forbes); 3)Espectador, Uruguay's most respected news radio. I fail to see how these are not reliable sources.
+
+--[[User:Hdezela|Hdezela]] 10:22, 19 September 2005 (UTC)
+
+----
+
+Hdezela, I am having trouble evaluating your sources. The New York State Court link that you provided above does not show actual court documents, it only shows the case name, "NETWORK FINANCE v. J.P. MORGAN CHASE & CO," the names of the law firms, the judge and the case calendar. Please provide a better link or instructions on how to access the actual court documents, so I can ascertain the facts of the case to respond to your arguments.
+
+Also, I do not speak German or Spanish. This is an English language encyclopedia, and it is only appropriate that you provide sources in English, so everyone reading the encyclopedia can evaluate them for objectivity and relevance.
+
+When you provide these sources, I will take the time to review them and respond to your comments, but I would like to mention that '''five''' of Uruguay's 22 financial institutions collapsed (including those that had no affiliation to the Rohm Brothers). This fact is significant because it shows that there were serious and substantial problems with the regulatory environment in Uruguay. The fraud and resulting insolvency at the BCU is by no means an isolated problem. Weaker banks that conducted their operations legally were equally affected by the crisis.
+
+Wikipedia should not be a forum for advancing your viewpoints or mine. Please provide me with better source material, so I can directly respond to your arguments and so we can resolve this matter and return the article back to an objective summary of the organization for the benefit of Wikipedia's audience. Thank you.
+
+--[[User:Wikipedia Updater|Wikipedia Updater]] 01:08, 20 September 2005 (UTC)
+
+== Name (and logo) ==
+
+The logo and name appear to use [[CamelCase]]. I have already put this on the CamelCase page, should we put this in the article? In a new "Trivia" section? [[User:67.1.156.172|67.1.156.172]] 16:49, 28 November 2005 (UTC)
+
+The article appears to use J. P. Morgan & Company (abbr. J. P. Morgan) for the Firm's name. That is cool, and I encourage all contributors to follow in that convention. The alternative (accepted) names for the Company are JPMorgan, J.P. Morgan, JPM, but please don't use these. Colloquially, you see JP a lot too. [[User:Iav|Ilya]] 16:40, 17 February 2006 (UTC)
+
+Usages within the bank (at least the investment bank)
+ - Pre-2000: J.P. Morgan OR Morgan, never JPM
+ - Post-2000: J.P. Morgan in legal names, JPMorgan in text, JPM not encouraged (though internal use has grown)
+Certainly 'JP Morgan' is completely unacceptable
+My view is that JPMorgan should be used in the bulk of the text OR JPMorganChase when referring to the HoldCo.
+Also think this article maybe needs a separate section on the retail Chase Bank given its importance in US Retail
+[[User:Moa999|Moa999]] 04:36, 11 September 2006 (UTC)
+
+I work for the bank and regularly use JPMC and it is accepted.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.252.133.61|71.252.133.61]] ([[User talk:71.252.133.61|talk]]) 03:41, August 27, 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Translation ==
+
+Hi there, I would like to translate this article into wikipedia France. Who should I talk to for this? Or is it simply permitted?
+Regards. [[User:Eghbali|F. E.]]
+
+:It is simply permitted. Cheers. -[[User:GTBacchus|GTBacchus]]<sup>([[User talk:GTBacchus|talk]])</sup> 21:31, 28 September 2006 (UTC)
+
+== Move? ==
+
+- <b>[[User:Crzrussian|CrazyRussian]]</b><small> [[User_talk:Crzrussian|talk]]/[[Special:Emailuser/Crzrussian|email]]</small> 04:30, 22 September 2006 (UTC)
+:The move request on [[WP:RM]] was '''accepted and completed'''. - <font color="navy">[[User:Ganeshk|Ganeshk]] ([[User talk:Ganeshk|talk]])</font> 21:59, 29 September 2006 (UTC)
+
+== Chase Blink Service ==
+
+Chase currently has a new credit/debit card. It has the original magnetic strip on the back, however the card is thicker to accomodate new smart card RFID within the card. Its called [www.chaseblink.com|Blink] and is similar to MasterCard's program [[Paypass]]. Should this item be mentioned in this article? [[User:Herenthere|Herenthere]] 03:54, 4 November 2006 (UTC)
+
+== Swastika ==
+
+I don't know if I'm just seeing things, but the logo for JPMorgan Chase looks like a modified swastika to me. If you look at the gaps formed by the shapes made by the logo, you can see a square with lines protruding from each side like a swastika. I don't know if this is intended or not but I think someone should notice the similarity. Not that I'm promoting the Nazi Party or anything, but I'm just noticing similarities...<small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Christian Swenson|Christian Swenson]] ([[User talk:Christian Swenson|talk]] • [[Special:Contributions/Christian Swenson|contribs]]) 22:33, 19 December 2006</span></small><!-- Template:Unsigned -->
+
+:Looks more like an [[origami]] [[doughnut]] to me, but maybe I'm just hungry.
+[[image:SFriendly.gif|18px]] --[[User:Elipongo|Elipongo]] <sup>([[User_talk:Elipongo|Talk]]|[[Special:Contributions/Elipongo|contribs]])</sup> 05:52, 8 January 2007 (UTC)
+
+== Bank One Article Merger/History Update ==
+
+An unregistered user has merged the former Bank One Corporation article to redirect to JPMorgan Chase's, and added a brief history of Bank One directly in the JPMorgan Chase article. [[User:Rbyrd8100|Rbyrd8100]] 03:01, 8 January 2007 (UTC)
+
+
+Try calling their customer service and asking them to do something which requires their "security team". You won't think they are such a benevolent entity like a donut then.  <small>—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/{{{IP|{{{User|208.120.170.3}}}}}}|{{{IP|{{{User|208.120.170.3}}}}}}]] ([[User talk:{{{IP|{{{User|208.120.170.3}}}}}}|talk]]) {{{Time|04:18, August 25, 2007 (UTC)}}}</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+== Sacha Baron Cohen ==
+
+The part naming Sacha Baron Cohen as a person affiliated with JP Morgan Chase needs a source. This is somewhat hard to believe. I'm not going to delete it but just thought I'd bring it to everyone's attention. [[User:Jmccallum1401|Jmccallum1401]] 20:05, 26 March 2007 (UTC)
+
+:I think this is probably false - the actual bank Cohen worked for was [[Goldman Sachs]].  See the Goldman article for the actual reference. --[[User:Thesilence|Thesilence]] 14:33, 19 July 2007 (UTC)
+
+== [[2007 Subprime mortgage financial crisis]] and JPMC ==
+
+Does anybody know how JPM and more especially its hedge funds were affected by the crisis? Some other hedge funds (like Bear Stearn's) are quite seriously affected in the US, so I wonder how it is for JPM... --[[User:Kremtak|Kremtak]] 21:39, 20 September 2007 (UTC)
+
+== Chase Acquisition of J.P. Morgan & Co REDUX ==
+
+The sentence "By the late 1990s, when it was acquired by Chase Manhattan (the new company's name became JPMorgan Chase & Co.)." is one of the most unusual I have seen.  The main sentence, i.e., subject and verb, are included parenthetically, almost incidentally, and the adverbial dependent clause is made to look like the independent, main clause.
+
+I am not sure I understand exactly what is meant, but the simplest treatment is:
+
+“When Chase Manhattan acquired J. P. Morgan in the late 1990s, the new company's name became JPMorgan Chase & Co.)."
+
+[[User:NeffiKatt|NeffiKatt]] ([[User talk:NeffiKatt|talk]]) 03:46, 27 December 2007 (UTC)
+
+:Probably it was left in that awkward state after a previous edit changed the phrasing around, it happens sometimes. [[WP:BB|Feel free to fix stuff]] like that you run across. Cheers! &mdash;[[User:Elipongo|Elipongo]] <small>([[User talk:Elipongo|Talk]] [[Special:Contributions/Elipongo|contribs]])</small> 04:36, 27 December 2007 (UTC)
+
+== WaMu Subsidiaries ==
+
+I removed the list of WaMu subsidiaries as they were never a subsidiary of JPMorgan Chase.  Unlike a usual bank merger where the holding companies merge and then later the banks themselves merge, in a bank closure, the bank is closed at that date and merged into the assuming bank on that same date.  Sources: [http://www2.fdic.gov/idasp/confirmation.asp?incert1=33891] and [http://www2.fdic.gov/idasp/confirmation.asp?incert1=32633] [[User:Cliffb|—Cliffb]] ([[User talk:Cliffb|talk]]) 10:10, 27 October 2008 (UTC)
+
+== Image copyright problem with Image:Wamu.svg ==
+
+The image [[:Image:Wamu.svg]] is used in this article under a claim of [[WP:NFC|fair use]], but it does not have an adequate explanation for why it meets the [[WP:NFCC|requirements for such images]] when used here.  In particular, for each page the image is used on, it must have an [[Wikipedia:Non-free use rationale guideline|explanation]] linking to that page which explains why it needs to be used on that page.  Please check
+
+:* That there is a [[Wikipedia:Non-free use rationale guideline|non-free use rationale]] on the image's description page for the use in this article.
+:* That this article is linked to from the image description page.
+The following images also have this problem:
+<!-- Additional 10c images go here -->
+*[[:File:Providian Financial logo.png]]
+*[[:      File:Great Western Bank.png]]
+
+This is an automated notice by [[User:FairuseBot|FairuseBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. --10:05, 4 November 2008 (UTC)
+
+Please discuss before delecting. Thanks. [[User:Tarpexpert|Tarpexpert]] ([[User talk:Tarpexpert|talk]]) 02:05, 21 February 2009 (UTC)
+
+== NPOV ==
+
+NPOV added. Previous deletions in this section seems to be Vandalism. Yes, please discuss before deleting. [[User:Nomid33|Nomid33]] ([[User talk:Nomid33|talk]]) 15:21, 22 February 2009 (UTC)
+
+== clarity of time sequence of acquisition of WaMu branches/bank ==
+
+paragraph muddles time sequence. reality is - 
+
+:-FDIC put WaMu under receivership.  
+:-FDIC sells WaMU to Chase.
+
+both occurred on same date, but receivership happened before sale.  sentence should be recast to respect chronology; current version does not.
+
+also, was sale consummated precisely on date of agreement to acquire?  generally in an acquisition there is a time lag before sale is 100% consummated.--[[Special:Contributions/71.183.238.134|71.183.238.134]] ([[User talk:71.183.238.134|talk]]) 02:12, 28 February 2009 (UTC)
+
+== name ==
+
+which name does JPMorgan use, ''J.P. Morgan Chase'' or ''JPMorgan Chase'' or ''J.P.Morgan Chase''. [[User:Griffinofwales|Griffinofwales]] ([[User talk:Griffinofwales|talk]]) 19:22, 28 March 2009 (UTC)
+
+              Are you reffering to the man, J.P. Morgan? Chase is not part of his name.  <small><span class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Gmoney5646|Gmoney5646]] ([[User talk:Gmoney5646|talk]] • [[Special:Contributions/Gmoney5646|contribs]]) 21:04, 15 September 2009 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+== The lineage should include Continental Illinois Bank ==
+
+First National Bank of Chicago acquired Continental Illinois Banks retail banking operations including all personal banking accounts. It seems like that might be worth including in the banks lineage. Its commercial banking was eventually sold to Bank of America. I'm not sure how to edit that portion or what should be included, but thought it worth mentioning here. [[Special:Contributions/24.14.241.94|24.14.241.94]] ([[User talk:24.14.241.94|talk]]) 19:35, 13 April 2009 (UTC)
+:If you can provide some addtitional information on this, I would be in favor of adding.  I have typically thought of Continental Illinois as a BofA predecessor bank rather than a JPM predecessor. <font color="#3950A5" size="1">|►</font> [[User:Urbanrenewal|<font color="#000070"><b>ϋrбan</b></font><font color="#4D4D4D">яeneωaℓ</font>]] • [[User:Urbanrenewal/talk|<font size="0" color="#BFA137">TALK</font>]] <font color="#3950A5" size="1">◄|</font> 20:53, 26 May 2009 (UTC)
+
+== Flagicon in infobox ==
+
+In the past I have removed the United States flagicon used in the infobox per [[WP:ICONDECORATION]].  The flagicon is being used in the infobox to decorate since there is a link to United States listed after the flagicon, therefore the flagicon adds no encyclopedia value to the article.  It has been reverted on the basis that the"flag icon is permissible per WP:MOS and does not qualify as purely for decoration per WP:ICONDECORATION."  So I am starting a discussion here to gain a consensus and let the other editor explain how it is permissible per [[WP:MOSICON]] and how the flagicon is not used for decoration. [[User:Aspects|Aspects]] ([[User talk:Aspects|talk]]) 19:12, 18 July 2009 (UTC)
+
+:With no response to my discussion for over a month, I am going to remove the flagicon with an edit summary to see the discussion here. [[User:Aspects|Aspects]] ([[User talk:Aspects|talk]]) 00:32, 27 August 2009 (UTC)
+
+* This issue has been discussed previously.  The [[WP:MOS]] does not restrict the usage of flag icons in infoboxes.  Furthermore, this is common practice in company infoboxes throughout wikipeda and should be retained here. As proposed previously, this issue should be settled elsewhere in a more definitive fashin where concerned editors can discuss the removal of flag icons from infoboxes before doing so in this article. <font color="#3950A5" size="1">|►</font> [[User:Urbanrenewal|<font color="#000070"><b>ϋrбan</b></font><font color="#4D4D4D">яeneωaℓ</font>]] • [[User:Urbanrenewal/talk|<font size="0" color="#BFA137">TALK</font>]] <font color="#3950A5" size="1">◄|</font> 05:41, 27 August 2009 (UTC)
+
+::[[WP:MOSICON]] does restrict the use of decorative flagicons per [[WP:ICONDECORATION]].  There is already a link to United States in the infobox, so the flagicon adds no encyclopedic information.  Common practice in company infoboxes would actually work against you in this case, since most companies do not have flagicons in their infoboxes. [[User:Aspects|Aspects]] ([[User talk:Aspects|talk]]) 00:40, 28 August 2009 (UTC)
+
+:::It is unnecessary and should be removed from company infoboxes, not just this one.  A ''singular'' flag icon draws [[WP:undue weight]] to that specific field in the infobox, and serves no navigational function (unlike flag icon usage for browsing a vertical list or table, for example).  There are many, many, types of infoboxes in which a "country of origin" field is typically marked with a flag icon, but that doesn't make it a good thing.  All those instances ought to be removed.  — [[User:Andrwsc|Andrwsc]]&nbsp;([[User talk:Andrwsc|talk]]&nbsp;'''·''' [[Special:Contributions/Andrwsc|contribs]]) 19:56, 9 September 2009 (UTC)
+
+:::: I agree with Andrwsc that the icon does not serve an encyclopedic purpose and should be removed here and in similar infoboxes. Here I would go further and remove both the icon and the text (''i.e.,'' "<code><del><nowiki>{{flagicon|USA}} </nowiki></del><nowiki>[[New York City]]</nowiki><del><nowiki>, [[United States|USA]]</nowiki></del></code>") as the typical reader can be expected to know that New York City is in the USA, and saying "USA" (with a wiklink!) is just useless clutter in this context. [[User:Eubulides|Eubulides]] ([[User talk:Eubulides|talk]]) 20:31, 9 September 2009 (UTC)
+
+:::::Per the two third opinions on the subject, I am going to remove the flagicon from the infobox. [[User:Aspects|Aspects]] ([[User talk:Aspects|talk]]) 17:44, 13 September 2009 (UTC)
+
+Please note that the editors here are part of a small group of editors who actively remove flag icons.  The apparent consensus is really just the same small group moving from article to article.  There has been no editor who actually contributes to this article to join in this point of view.  <font color="#3950A5" size="1">|►</font> [[User:Urbanrenewal|<font color="#000070"><b>ϋrбan</b></font><font color="#4D4D4D">яeneωaℓ</font>]] • [[User:Urbanrenewal/talk|<font size="0" color="#BFA137">TALK</font>]] <font color="#3950A5" size="1">◄|</font> 23:54, 3 October 2009 (UTC)
+
+== Financial info ==
+
+It appears that revenue, operating income, etc. are all higher than 2007 despite the financial crisis.  It does apear that net income is down - all icons should be updated accordingly. <font color="#3950A5" size="1">|►</font> [[User:Urbanrenewal|<font color="#000070"><b>ϋrбan</b></font><font color="#4D4D4D">яeneωaℓ</font>]] • [[User:Urbanrenewal/talk|<font size="0" color="#BFA137">TALK</font>]] <font color="#3950A5" size="1">◄|</font> 03:05, 9 October 2009 (UTC)
+== jp morgan chase founding ==
+
+the date of the founding is the date that they merged. that means the date of founding is 2000[[Special:Contributions/75.27.236.79|75.27.236.79]] ([[User talk:75.27.236.79|talk]]) 01:05, 8 May 2010 (UTC) the other companies died when they merged and changed the name to jp morgan chase
+
+== Online banking outage ==
+
+I think that somewhere in this wiki there should be info about the recent Chase online banking outage that is currently happening.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.57.205.188|68.57.205.188]] ([[User talk:68.57.205.188|talk]]) 04:16, 15 September 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+:Agreed.  Anyone object?  Thanks.  --[[User:Arthur Smart|Art Smart]] <sup><small>[[Special:Contributions/Arthur Smart|<font color="#0047AB">'''Chart'''</font>]]</small></sup>/[[User talk:Arthur Smart#top|<font color="#0047AB"><small>'''Heart'''</small></font>]] 06:08, 16 September 2010 (UTC)
+
+== Silver derivatives ==
+
+JP Morgan Chase has about 1.5 trillion dollars exposure in the silver derivatives markets (they are shorting). And as the silver prices are rising in resent times they could be in serious trouble. Max Keiser has a campagne on Youtube to buy silver to crash JP Morgan Chase.  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.21.214.42|78.21.214.42]] ([[User talk:78.21.214.42|talk]]) 19:43, 20 November 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+
+here are some source: http://www.marketwatch.com/Community/groups/small-silver-investor/topics/jp-morgans-silver-shorts-subtitle  <span style="font-size: smaller;" class="autosigned">—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.21.214.42|78.21.214.42]] ([[User talk:78.21.214.42|talk]]) 19:52, 20 November 2010 (UTC)</span><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+http://www.zerohedge.com/article/us-mint-reports-soaring-november-month-date-silver-coin-sales-surpass-2010-high-following-ma
+
+::In my opinion, neither of your two links is reputable. Whether true or not, to be exposed to 1.5 trillion dollars in the derivatives markets is incomparable to having a $1.5 trillion position e.g.  JP Morgan's situation is no big deal.  This isn't LTCM.[[User:TL36|TL36]] ([[User talk:TL36|talk]]) 16:20, 15 January 2011 (UTC)
+== Market Capitalization ==
+
+The wiki pages for JPMChase, Bank of America and Wells Fargo say that each is the US banking institution with the second largest market capitalization.  My understanding is that at least 2 of these must be wrong!
+According to 
+http://www.google.com/finance?q=NYSE:JPM
+the respective Mkt Cap are:
+
+JPM 174B
+
+BA  120B
+
+C   121B
+
+WFC 152B
+
+Worried I may have misunderstood something here ... so updating the talk page rather than directly editing the 3 pages.  Citigroup and Bank of America are so close they may swap places very quickly on tiny price movements ... all 4 definitely have been swapping places in the last 2 years ... ( Well, technically Wells Fargo does not need to be updated, because it does seem to be the US bank with the second largest capitalization. )  Seem sensible to me to update JPM and WFC to say the largest and second largest respectively, and describe Citigroup and BA as something like one of the 4 largest US banks by market capitalization.
+[[User:Holland jon|Holland jon]] ([[User talk:Holland jon|talk]]) 21:46, 17 May 2011 (UTC)
+
+== Bernard Madoff lawsuit ==
+
+The bank served as the principal institution for [[Bernard Madoff]] and currently in litigation over $6.4 billion.(See: [http://www.reuters.com/article/2011/06/16/us-madoff-jpmorgan-idUSTRE75F76E20110616 "Madoff trustee readies amended JPMorgan lawsuit"])
+
+[[User:Petey Parrot|Petey Parrot]] ([[User talk:Petey Parrot|talk]]) 01:56, 17 June 2011 (UTC)
+
+== Nicholas Tyrell ==
+
+Former Managing Director and Head of European Real Estate Research and Strategy at JP Morgan Asset Nicholas Tyrrel overdosed on heroin in April 2011. (See: [http://news.hereisthecity.com/2011/04/13/investment-banker-died-after-accidentally-overdosing-on-heroin-t/ "Investment Banker Died After Accidentally Overdosing On Heroin Tea"])
+
+[[User:Petey Parrot|Petey Parrot]] ([[User talk:Petey Parrot|talk]]) 01:56, 17 June 2011 (UTC)
+== Money laundering ==
+
+In 2001, a U.S. Senate staff report named the institution in a money laundering report.(See: [http://www.russianlaw.org/wsj020501.htm "Dirty-Money Flow in U.S. Banks Is Huge, a Senate Report Finds"])
+
+[[User:Petey Parrot|Petey Parrot]] ([[User talk:Petey Parrot|talk]]) 01:57, 17 June 2011 (UTC)
+
+== Move the Business Section ==
+
+Its not appropriate nor reader friendly to start off the article with a section that consists of list and charts. This section should changed to text or moved to the bottom of the article. Comments?--<span style="font-family:Comic Sans MS,sans -serif"> — [[User:Keithbob|<b style= "color:#090;"><i>Keithbob</i></b>]] • [[User_ talk:Keithbob|<span style="color:#075;">Talk</span>]] • </span> 14:55, 29 June 2011 (UTC)
+:Hadn't noticed this (forest–trees syndrome), but I agree. I'd say move the "Business" section to below the "Banking subsidiaries" (thus starting with "History"), but I don't see that as precluding a change to more prose. Also, the family tree has gotten a bit large; any thoughts on making the subsection hidden by default? [[User:Fat&amp;Happy|Fat&amp;Happy]] ([[User talk:Fat&amp;Happy|talk]]) 17:04, 29 June 2011 (UTC)
+::OK I moved the section but in addition to being formatted incorrectly it's also unreferenced so I am going to summarize it and leave the rest here. If sources can be found it can be added back in as prose to conform with the rest of the article and WP MOS. --<span style="font-family:Comic Sans MS,sans -serif"> — [[User:Keithbob|<b style= "color:#090;"><i>Keithbob</i></b>]] • [[User_ talk:Keithbob|<span style="color:#075;">Talk</span>]] • </span> 01:27, 15 September 2011 (UTC)
+
+== Parked Content that needs Sources ==
+
+JPMorgan Chase’s activities are organized, for management reporting purposes, into six business segments:<ref>[http://www.sec.gov/Archives/edgar/data/19617/000119312508043536/d10k.htm#toc14026_2 JPMorgan Chase SEC Form 10-K 2007 Annual Report]. Securities and Exchange Commission</ref>
+*Investment Bank
+**[[Investment banking]]: advisory; debt and equity underwriting
+** Market making and trading: [[Fixed income]], [[Stock|Equity]]
+**Corporate lending
+**Principal investing
+**Prime services
+**Research
+
+*Card Services and Consumer Lending
+**Credit cards
+**Merchant acquiring
+**Consumer Lending: Loan originations and balances (including student, auto and other loans)
+
+*Commercial Banking; Personal and Business Banking
+**Retail banking: Consumer and business banking (including Business Banking Loans);
+**Middle-market banking
+**Commercial term lending
+**Mid-corporate banking
+**Real estate banking
+
+*Home Lending (Chief Administrative Officer)
+**Mortgage production and servicing
+
+*Treasury & Securities Services
+**Treasury Services (Global Trade, Core Cash Management, Liquidity, Import/Export Advisory)
+**Worldwide Securities Services
+
+*Asset Management
+**Highbridge Capital Management (HCM)<ref>[https://www.highbridge.com/web/guest/overview Highbridge Capital Management Overview, purchased on July 1, 2009]</ref>
+**Investment Management (including Institutional and Retail)
+**Private Bank
+**Private Wealth Management
+**J.P. Morgan Securities (formerly Bear Stearns Brokerage)
+**Retirement Plan Services
+
+*Corporate – Includes the company's private equity( [[One Equity Partners]]), Treasury and Corporate functions.--<span style="font-family:Comic Sans MS,sans -serif"> — [[User:Keithbob|<b style= "color:#090;"><i>Keithbob</i></b>]] • [[User_ talk:Keithbob|<span style="color:#075;">Talk</span>]] • </span> 01:27, 15 September 2011 (UTC)
+
+== Wells Fargo and JP Morgan ==
+
+Wikipedia currently says that Wells Fargo and JP Morgan are both the largest banks in the US by market capitalization that can't be true.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.234.202.213|66.234.202.213]] ([[User talk:66.234.202.213|talk]]) 08:38, 16 January 2012 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== $2 Billion loss? ==
+Went looking for this current topic and found nothing.  [[User:Hkhenson|Keith Henson]] ([[User talk:Hkhenson|talk]]) 03:28, 14 May 2012 (UTC)
+:I've put a bit in the section [[JPMorgan_Chase#Credit_derivatives]]. Really the $2 billion loss is more of a headline than a fact. The fate of these trades, which are still in progress, is uncertain. I'll try to find a good source to add something about the reported loss. [[User:Fred Bauder]] [[User talk:Fred Bauder|Talk]] 14:13, 16 May 2012 (UTC)
+
+== Fined for what exactly... ==
+
+The discussion of the London Whale case says JPMorgan lost billions of dollars from making bad bets on the market.  They were also fined nearly another billion dollars and admitted to violating securities law.  However, the section as it stands does very little to explain what law(s) were broken.  There is nothing directly illegal about losing a lot of money, so I assume it was associated side problem.  For example, they could have violated reporting requirements by not properly disclosing their positions and the losses involved.  Or they could have concealed some problem satisfying margin or capital requirements as a result of the losses.  Or they could have failed to have legally required safeguards in place.  Or it could be some combination of things.  Obviously taking billion dollar losses is a huge problem for the people involved, but the article should do a better job of explaining why it was also a criminal problem leading to large fines on top of the already large loss.  [[User:Dragons flight|Dragons flight]] ([[User talk:Dragons flight|talk]]) 22:23, 20 September 2013 (UTC)
+
+== Turned a blind eye??? ==
+
+'''''Turned a blind eye to Madoff's actions'''''???  Was that the only specific charge mentioned in the affadavit???  Now is "turning a blind eye" a federal or state crime???[[User:JCHeverly]] 23:50, 24 January 2014 (UTC)
+
+== recent suicides at JPM and other banks ==
+
+http://www.dailymail.co.uk/news/article-2547275/BREAKING-NEWS-Man-30s-dies-plunge-JP-Morgan-headquarters-Canary-Wharf.html
+
+
+http://www.businessinsider.com/jpm-trader-in-hong-kong-jumped-from-hq-2014-2
+
+
+http://www.businessinsider.com/man-falls-from-london-jp-morgan-building-2014-1  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.176.108.8|76.176.108.8]] ([[User talk:76.176.108.8|talk]]) 14:50, 18 February 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+
+A Manhattan trader was killed Tuesday morning by a speeding Long Island Rail Road commuter train, marking at least the seventh suicide of a financial professional this year.  Edmund (Eddie) Reilly, 47, a trader at Midtown’s Vertical Group, jumped in front of an LIRR train at 6 a.m. near the Syosset train station.
+
+
+
+■  Autumn Radtke, the CEO of First Meta, a cyber-currency exchange firm, was found dead on Feb. 28 outside her Singapore apartment. The 28-year-old American, who worked for Apple and other Silicon Valley tech firms prior to founding First Meta, jumped from a 25-story building, authorities said.
+
+■  On Feb. 18, a 33-year-old JPMorgan finance pro leaped to his death from the roof of the company’s 30-story Hong Kong office tower, authorities said. Li Junjie’s suicide marked the third mysterious death of a JPMorgan banker. So far, there is no known link between any of the deaths.
+
+■  Gabriel Magee, 39, a vice president with JPMorgan’s corporate and investment bank technology arm in the UK, jumped to his death from the roof of the bank’s 33-story Canary Wharf tower in London on Jan. 28.
+
+■  On Feb. 3, Ryan Henry Crane, 37, a JPM executive director who worked in New York, was found dead inside his Stamford, Conn., home. A cause of death in Crane’s case has yet to be determined as authorities await a toxicology report, a spokesperson for the Stamford Police Dept. said.
+
+■  On Jan. 31, Mike Dueker — chief economist at Russell Investments and a former Federal Reserve bank economist — was found dead at the side of a road that leads to the Tacoma Narrows Bridge in Washington state, according to the Pierce County Sheriff’s Department. He was 50.
+
+■ On Jan. 26, William Broeksmit, 58, a former senior risk manager at Deutsche Bank, was found hanged in a house in South Kensington, according to London police.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.176.108.8|76.176.108.8]] ([[User talk:76.176.108.8|talk]]) 06:01, 13 March 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+
+http://www.zerohedge.com/news/2014-03-25/deutsche-bank-er-explains-why-he-committed-suicide  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.176.108.8|76.176.108.8]] ([[User talk:76.176.108.8|talk]]) 21:29, 25 March 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== [[JPMorgan Chase#Mortgage-backed securities sales]] ==
+
+It is two sentences long. Where is the content about the $9 billion settlement?
+
+* [[Matt Taibbi]], ''[http://www.rollingstone.com/politics/news/the-9-billion-witness-20141106 The $9 Billion Witness: Meet JPMorgan Chase's Worst Nightmare]'', November 6, 2014, ''[[Rolling Stone]]''
+* ''[http://www.democracynow.org/2014/11/7/matt_taibbi_and_bank_whistleblower_on Matt Taibbi and Bank Whistleblower on How JPMorgan Chase Helped Wreck the Economy, Avoid Prosecution]'' on ''[[Democracy Now!]]''
+
+[[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 01:36, 10 November 2014 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:2|one external link|2 external links}} on [[JPMorgan Chase]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=686164579 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20110619201742/http://rejournalonline.com:80/jpmorgan-chase-mortgage-chief-leaving-after-military-scandal/854002/ to http://rejournalonline.com/jpmorgan-chase-mortgage-chief-leaving-after-military-scandal/854002/
+*Added archive https://web.archive.org/20140108002915/http://s3.documentcloud.org/documents/1003069/jpmorgan-federal-settlement-in-madoff-case.pdf to http://s3.documentcloud.org/documents/1003069/jpmorgan-federal-settlement-in-madoff-case.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner]]:Online</sub></small> 12:26, 17 October 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[JPMorgan Chase]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=698304840 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20090806190941/http://www.kccllc.net:80/documents/0812229/0812229090624000000000002.pdf to http://www.kccllc.net/documents/0812229/0812229090624000000000002.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner]]:Online</sub></small> 07:38, 5 January 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[JPMorgan Chase]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=707312926 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive http://web.archive.org/web/20120130041245/http://articles.economictimes.indiatimes.com/2011-06-14/news/29656949_1_mortgage-business-bank-staff-large-banks to http://articles.economictimes.indiatimes.com/2011-06-14/news/29656949_1_mortgage-business-bank-staff-large-banks
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tl|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|<sup style="color:green;font-family:Courier">cyberbot II</sup>]]<small><sub style="margin-left:-14.9ex;color:green;font-family:Comic Sans MS">[[User talk:Cyberbot II|<span style="color:green">Talk to my owner</span>]]:Online</sub></small> 03:23, 28 February 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 3 external links on [[JPMorgan Chase]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&oldid=775702245 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20110628221303/http://www.businessweek.com/archives/1997/b3522103.arc.htm to http://www.businessweek.com/archives/1997/b3522103.arc.htm
+*Corrected formatting/usage for http://www.foxnews.com/story/0%2C2933%2C428641%2C00.html
+*Corrected formatting/usage for http://en.peramuzesi.org.tr/exhibitions/detail_past_exhibitions.aspx?SectionID=If8oZ+VzMawlegtVB27WvA%3D%3D&ContentID=ptRObs4IS%2F1hXKZIrSs6hA%3D%3D
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[User talk:InternetArchiveBot|Report bug]])</span> 15:24, 16 April 2017 (UTC)

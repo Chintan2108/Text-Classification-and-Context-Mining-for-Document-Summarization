@@ -77,6 +77,10 @@ Cheers.—[[User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:m
 I agree with the tag that the article is too long to read comfortably. The Controversy section is extremely long and should probably be split into its own article. I will do this in the next few days unless anyone disagrees. [[User:Absolutelypuremilk|Absolutelypuremilk]] ([[User talk:Absolutelypuremilk|talk]]) 23:15, 26 February 2018 (UTC)
 :Looks like someone's made a separate controversies, copying over the existing section. I will go through and start paraphrasing that section to prevent duplicate content out there. [[User:Dryquail whw|Dryquail whw]] ([[User talk:Dryquail whw|talk]]) 23:19, 24 March 2018 (UTC)
 ::::Started condensing the first section. Lots to go through, so anyone who wants to join in would be greatly appreciated! [[User:Dryquail whw|Dryquail whw]] ([[User talk:Dryquail whw|talk]]) 23:36, 24 March 2018 (UTC)
+
+== Pay ratio -- add to info box ==
+
+I would like to see the pay ratio, and possibly associated data like median pay and CEO pay added to the infobox.  I have mentioned this article here where I requested a "pay ratio" parameter be added to the infobox for that purpose: [[Template_talk:Infobox_company#Pay_ratio]]. --[[User:David Tornheim|David Tornheim]] ([[User talk:David Tornheim|talk]]) 13:48, 28 May 2019 (UTC)
 {{Talkarchive}}
 
 ==Opening Paragraph==
