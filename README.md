@@ -2,7 +2,7 @@
 
 ## Summary
 
-Automnomously attempting a categorical summarization of a sparse, asymmetrical corpus in English language, by performing text classification - which is achieved by our intuitive sentence pair classification scenarios and usecases.
+Automnomously attempting a categorical summarization of a sparse, asymmetrical corpus in English language, by performing text classification - which is achieved by our intuitive sentence pair classification scenarios and usecases. There are two algorithms at hand - sentence pair simililarity and keyword based context mining. The objective is to semantically summarize and classify asymmetrical English corpuses such as consumer feedbacks, reviews, requests and complaints. This project is being used by a citizen wellness based NGO in Mumbai: [CIVIS](https://www.civis.vote/) 
 
 ## Getting Started
 
@@ -31,7 +31,11 @@ Validation data for model evaluation will be released soon.
 
 ### Sentence Pair Similarity (Algorithm + Implementation)
 
-This is an algorithm I penned for labelling a pair of sentences with a similarity score based on the cosine similarity of their word vectors, cross-referenced from the BOW (Bag of Words). The vectors are also validated using the tfidf matrix at the document level. Please cite when using this algorithm.
+This has been developed for labelling a pair of sentences with a similarity score based on the cosine similarity of their word vectors, cross-referenced from the BOW (Bag of Words). It is inherently an unsupervised text alignment problem solved using a graph based approach. The vectors are also validated using the tfidf matrix at the document level. Please cite when using this algorithm.
+
+### Keyword Based Context Mining (Algorithm + Implementation)
+
+This algorithm has been developed for mining all the context vectors in a sentence which lie closest to a given keyword in the 3d word embedding space. This is used for filtering the consumer complaints and aiding a keyword-based search of complaints from amongst the tens of thousands of instances. Please cite when using this algorithm.
 
 #### Built With
 
