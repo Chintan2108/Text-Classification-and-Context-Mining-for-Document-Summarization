@@ -32,10 +32,14 @@ Validation data for model evaluation will be released soon.
 ### Sentence Pair Similarity (Algorithm + Implementation)
 
 This has been developed for labelling a pair of sentences with a similarity score based on the cosine similarity of their word vectors, cross-referenced from the BOW (Bag of Words). It is inherently an unsupervised text alignment problem solved using a graph based approach. The vectors are also validated using the tfidf matrix at the document level. Please cite when using this algorithm.
+Algorithm [here.](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/word%20embeddings%20and%20similarity%20matrix/model/sentencemodel.py)
+Results [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/results)
 
 ### Keyword Based Context Mining (Algorithm + Implementation)
 
 This algorithm has been developed for mining all the context vectors in a sentence which lie closest to a given keyword in the 3d word embedding space. This is used for filtering the consumer complaints and aiding a keyword-based search of complaints from amongst the tens of thousands of instances. Please cite when using this algorithm.
+Algorithm [here.](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/entity%20tagging%20(STNFRDNER)/wmd.py)
+Results [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/entity%20tagging%20(STNFRDNER)/beautified_kwd_results.pdf)
 
 #### Built With
 
