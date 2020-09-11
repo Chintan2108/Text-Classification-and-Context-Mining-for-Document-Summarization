@@ -1,9 +1,9 @@
 # Text-Classification-and-Context-Mining-for-Document-Summarization
 
 ## Affiliation
-### Centre For Indian Language Technology, Indian Institute of Technology, Bombay
-### Dec 2018 - July 2019
-### Applied ML and NLP Research under [Dr. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), CS Dept., IIT Bombay
+#### Centre For Indian Language Technology, Indian Institute of Technology, Bombay
+#### Dec 2018 - July 2019
+#### Applied ML and NLP Research under [Dr. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), CS Dept., IIT Bombay
 
 ## Summary
 
@@ -37,14 +37,16 @@ Validation data for model evaluation will be released soon.
 ### Sentence Pair Similarity (Algorithm + Implementation)
 
 This has been developed for labelling a pair of sentences with a similarity score based on the cosine similarity of their word vectors, cross-referenced from the BOW (Bag of Words). It is inherently an unsupervised text alignment problem solved using a graph based approach. The vectors are also validated using the tfidf matrix at the document level. Please cite when using this algorithm.
-Algorithm [here.](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/word%20embeddings%20and%20similarity%20matrix/model/sentencemodel.py)
-Results [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/results)
+
+* Algorithm [here.](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/word%20embeddings%20and%20similarity%20matrix/model/sentencemodel.py)
+* Results [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/tree/master/bert/word%20embeddings%20and%20similarity%20matrix/results)
 
 ### Keyword Based Context Mining (Algorithm + Implementation)
 
 This algorithm has been developed for mining all the context vectors in a sentence which lie closest to a given keyword in the 3d word embedding space. This is used for filtering the consumer complaints and aiding a keyword-based search of complaints from amongst the tens of thousands of instances. Please cite when using this algorithm.
-Algorithm [here.](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/entity%20tagging%20(STNFRDNER)/wmd.py)
-Results [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/entity%20tagging%20(STNFRDNER)/beautified_kwd_results.pdf)
+
+* Algorithm [here.](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/entity%20tagging%20(STNFRDNER)/wmd.py)
+* Results [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/bert/entity%20tagging%20(STNFRDNER)/beautified_kwd_results.pdf)
 
 #### Built With
 
@@ -53,7 +55,7 @@ Results [here](https://github.com/Chintan2108/Text-Classification-and-Context-Mi
 
 #### Datasets
 
-* Google Word Embeddings pretrained vectors for 1b words from Google news
+* [Google Word Embeddings (3D) pretrained vectors for 3 million words from Google news (Pre-trained)](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
 * Train and test data to be released soon.
 
 ### Web Crawlers
