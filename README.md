@@ -1,5 +1,10 @@
 # Text-Classification-and-Context-Mining-for-Document-Summarization
 
+## Affiliation
+### Centre For Indian Language Technology, Indian Institute of Technology, Bombay
+### Dec 2018 - July 2019
+### Applied ML and NLP Research under [Dr. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), CS Dept., IIT Bombay
+
 ## Summary
 
 Automnomously attempting a categorical summarization of a sparse, asymmetrical corpus in English language, by performing text classification - which is achieved by our intuitive sentence pair classification scenarios and usecases. There are two algorithms at hand - sentence pair simililarity and keyword based context mining. The objective is to semantically summarize and classify asymmetrical English corpuses such as consumer feedbacks, reviews, requests and complaints. This project is being used by a citizen wellness based NGO in Mumbai: [CIVIS](https://www.civis.vote/) 
