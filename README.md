@@ -72,6 +72,8 @@ Two web crawlers have been developed for populating the train and test data, fro
 
 ## Contribution
 
+[![Gitter](https://badges.gitter.im/Text-Classification-and-Context-Mining-for-Document-Summarization/community.svg)](https://gitter.im/Text-Classification-and-Context-Mining-for-Document-Summarization/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 Please feel free to raise issues and fix any existing ones. Further details can be found in our [code of conduct](https://github.com/Chintan2108/Text-Classification-and-Context-Mining-for-Document-Summarization/blob/master/CODE_OF_CONDUCT.md).
 
 ## References
