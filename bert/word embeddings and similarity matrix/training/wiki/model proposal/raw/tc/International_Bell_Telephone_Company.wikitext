@@ -1,2 +1,0 @@
-{{WikiProject United States |class=Start |importance=low}}
-{{WikiProject Telecommunications |Bell System=yes |class=Start}}

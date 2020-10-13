@@ -1,8 +1,0 @@
-{{WikiProjectBannerShell|1=
-{{WikiProject Biography |living=no |class=C |politician-work-group=yes |listas=Tappan, Lewis}}
-{{WikiProject Calvinism|class=start|importance=}}
-{{WikiProject Discrimination |class=C |importance=mid}}
-{{WikiProject African diaspora |class=C |importance=high}}
-{{WikiProject Connecticut |importance=Low |class=C}}
-{{WikiProject New York |class=C |importance=Low}}
-}}

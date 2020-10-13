@@ -1,6 +1,0 @@
-{{WikiProject Computing |class=Stub |importance=low |hardware=yes |hardware-importance=mid }}
-
-==Past tense==
-This article seems dated a bit. Itanium is hardly "new" by now, given "Moonshot" series servers etc. [[User:W Nowicki|W Nowicki]] ([[User talk:W Nowicki|talk]]) 16:55, 3 June 2013 (UTC)
-
-: Right. Also there is no talk about Superdome2. This article is pretty old. [[User:Abhilashkrishn|Abhilashkrishn]] ([[User talk:Abhilashkrishn|talk]]) 08:18, 4 July 2013 (UTC)
